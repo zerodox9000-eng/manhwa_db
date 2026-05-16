@@ -1,5 +1,6 @@
 {
   "id": 109476,
+<<<<<<< HEAD
   "display_title": "Mawang-nim!",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "What a Bountiful Harvest, Demon Lord!",
+  "description": "Who was that guy that once said, “An army marches on its stomach”? When hapless agricultural science student Jangcheol Kim starts playing the fantasy MMORPG “Paladins of Blood” to escape the stress of school life, he never imagined he would end up inside the game, much less as its final boss. How can a ruthless demon overlord win over his subjects? Perhaps with potatoes.\n\n(Source: WEBTOON)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80L2MvMy85LzAvNS82L2EvOGM1Zi80YjdlLzk0ZTUvNjMyYWYxNmE1NTA5",
+  "total_chapters": "66",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,19 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T03:55:15.573Z",
+  "authors": [
+    "Baek-Gyeong Mun",
+    "Hyeon-Min Lee"
+  ],
+  "artists": [
+    "Gang-Hyeon Yeo"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/109476",
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8031"
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -100,15 +123,23 @@
     121
   ],
   "stats": {
-    "popularity": 6502,
+    "popularity": 6516,
     "favourites": 189,
     "meanScore": 79
   },
   "analytics": {
+<<<<<<< HEAD
     "fanFavouriteRaw": 2.9068,
     "fanRatioPercentile": 85.0278,
     "popularityPercentile": 96.8146,
     "fanFavouriteDiscoveryScore": 84.8869,
     "fanFavouriteDiscoveryPercentile": 91.2186
+=======
+    "fanFavouriteRaw": 2.9006,
+    "fanRatioPercentile": 85.4792,
+    "popularityPercentile": 97.2275,
+    "fanFavouriteDiscoveryScore": 85.3424,
+    "fanFavouriteDiscoveryPercentile": 91.7647
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

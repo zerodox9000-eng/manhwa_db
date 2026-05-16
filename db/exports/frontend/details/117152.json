@@ -1,5 +1,6 @@
 {
   "id": 117152,
+<<<<<<< HEAD
   "display_title": "It's Not The First Time",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "Not the First Time",
+  "description": "It's been three years since Yeong-in and Seonghyeok parted ways. So why is Seonghyeok approaching her now -- gentler, and more intense than ever? Will their reunion end differently than before? Can they fill the emptiness in each other's hearts?\n\n(Source: WEBTOONS)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2IvNS8yL2UvYy83LzAvYThkNC80ZWVhL2I4NGEvZjhjMDg1OGIwODg1",
+  "total_chapters": "60",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,19 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T12:14:30.439Z",
+  "authors": [
+    "Byeolgyu",
+    "Mijjo"
+  ],
+  "artists": [
+    "Dongtang"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/117152",
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8385"
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -84,9 +107,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.25,
+<<<<<<< HEAD
     "fanRatioPercentile": 50.4187,
     "popularityPercentile": 48.5247,
     "fanFavouriteDiscoveryScore": 46.1362,
     "fanFavouriteDiscoveryPercentile": 52.9076
+=======
+    "fanRatioPercentile": 50.8104,
+    "popularityPercentile": 49.1567,
+    "fanFavouriteDiscoveryScore": 46.6981,
+    "fanFavouriteDiscoveryPercentile": 53.2538
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

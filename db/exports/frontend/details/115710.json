@@ -1,5 +1,6 @@
 {
   "id": 115710,
+<<<<<<< HEAD
   "display_title": "Please Film It Here",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "Scan Here!",
+  "description": "There is a barcode that tells information about a person?! If this is true, wouldn't it be possible to have all the women and riches in the world?!\n\n(Source: DAYcomics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE3MDc0Ny12V2RMZzRrejZuOGUuanBn",
+  "total_chapters": "50",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,18 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T09:33:19.600Z",
+  "authors": [
+    "hikari kyo"
+  ],
+  "artists": [
+    "J2"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/115710",
+    "read_en": "https://daycomics.com/content/103248"
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -106,9 +128,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.7361,
+<<<<<<< HEAD
     "fanRatioPercentile": 63.4499,
     "popularityPercentile": 72.294,
     "fanFavouriteDiscoveryScore": 62.6477,
     "fanFavouriteDiscoveryPercentile": 70.8382
+=======
+    "fanRatioPercentile": 63.8338,
+    "popularityPercentile": 73.1057,
+    "fanFavouriteDiscoveryScore": 63.0789,
+    "fanFavouriteDiscoveryPercentile": 71.1312
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

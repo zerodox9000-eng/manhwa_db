@@ -1,9 +1,15 @@
 {
   "id": 102746,
+<<<<<<< HEAD
   "display_title": "브릴리 외전: 찬란한 망상",
   "titles_en": [],
   "titles_native": [],
   "titles_romaji": [],
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "Brilli Oejeon: Challanhan Mangsang",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "description": null,
   "cover": null,
   "total_chapters": null,
@@ -17,6 +23,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +32,18 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-15T20:32:12.892Z",
+  "authors": [
+    "Chanlanhan"
+  ],
+  "artists": [
+    "Chanlanhan"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/102746",
+    "read_en": null
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -76,9 +95,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
+<<<<<<< HEAD
     "fanRatioPercentile": 31.7524,
     "popularityPercentile": 8.3744,
     "fanFavouriteDiscoveryScore": 8.7357,
     "fanFavouriteDiscoveryPercentile": 7.6622
+=======
+    "fanRatioPercentile": 32.2419,
+    "popularityPercentile": 8.5315,
+    "fanFavouriteDiscoveryScore": 8.9548,
+    "fanFavouriteDiscoveryPercentile": 7.8075
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

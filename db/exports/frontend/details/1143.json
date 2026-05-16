@@ -1,5 +1,6 @@
 {
   "id": 1143,
+<<<<<<< HEAD
   "display_title": "Counter Stop Player",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "The Maxed-out Player",
+  "description": "After 20 grueling years of hellish training, Juhyuk's stats are maxed-out, and he is ready to venture out into Olympus, a virtual reality game. His master's last dying wish is for Juhyuk to be the Ultimate Evil, the most powerful in Olympus. But when he steps out of the tutorial area, every player tries to kill him, and the game forces him to start over from Level 1! With these setbacks, Juhyuk will need all the help he can get to complete his SSS-rank quest and become the next Ultimate Evil.\n\n(Source: Tapas)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE2NjE1OS1yRTFoUWkyY0g4UDkuanBn",
+  "total_chapters": "134",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,19 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T05:15:22.348Z",
+  "authors": [
+    "Bi Chu",
+    "Nelpi"
+  ],
+  "artists": [
+    "Daon Studio"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/1143",
+    "read_en": "https://tapas.io/series/the-maxed-out-player/info"
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -84,15 +107,23 @@
     428
   ],
   "stats": {
-    "popularity": 4642,
+    "popularity": 4647,
     "favourites": 83,
     "meanScore": 67
   },
   "analytics": {
+<<<<<<< HEAD
     "fanFavouriteRaw": 1.788,
     "fanRatioPercentile": 64.6239,
     "popularityPercentile": 95.4136,
     "fanFavouriteDiscoveryScore": 64.5036,
     "fanFavouriteDiscoveryPercentile": 73.1784
+=======
+    "fanFavouriteRaw": 1.7861,
+    "fanRatioPercentile": 65.0103,
+    "popularityPercentile": 95.9276,
+    "fanFavouriteDiscoveryScore": 64.8943,
+    "fanFavouriteDiscoveryPercentile": 73.262
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

@@ -1,9 +1,15 @@
 {
   "id": 116872,
+<<<<<<< HEAD
   "display_title": "Great Heritage",
   "titles_en": [],
   "titles_native": [],
   "titles_romaji": [],
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "Great Heritage",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "description": null,
   "cover": null,
   "total_chapters": null,
@@ -17,6 +23,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +32,18 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-15T07:23:34.312Z",
+  "authors": [
+    "STUDIO PIMP-DOG"
+  ],
+  "artists": [
+    "STUDIO PIMP-DOG"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/116872",
+    "read_en": null
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -82,9 +101,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.5,
+<<<<<<< HEAD
     "fanRatioPercentile": 79.4083,
     "popularityPercentile": 24.6693,
     "fanFavouriteDiscoveryScore": 47.3328,
     "fanFavouriteDiscoveryPercentile": 56.0538
+=======
+    "fanRatioPercentile": 79.8766,
+    "popularityPercentile": 25.29,
+    "fanFavouriteDiscoveryScore": 48.6015,
+    "fanFavouriteDiscoveryPercentile": 57.2028
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

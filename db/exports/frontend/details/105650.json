@@ -1,11 +1,19 @@
 {
   "id": 105650,
+<<<<<<< HEAD
   "display_title": "뉴턴의 꽃망울",
   "titles_en": [],
   "titles_native": [],
   "titles_romaji": [],
   "description": null,
   "cover": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "Newton-ui Kkonmangul",
+  "description": "The story of Ogi, a boy who can see the colours of people and sounds, and the girl who tackles him to the ground one day. \n\n*Note: This is a Korean version of the original manga Newton no Tsubomi, created by the same author. The story and art are changed in this version.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEzNzA5NS1MZlZoSHVpR0NqRHIucG5n",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "total_chapters": null,
   "status": "hiatus",
   "content_rating": null,
@@ -17,6 +25,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +34,18 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-01T14:46:28.330Z",
+  "authors": [
+    "Shiyu Tamayura"
+  ],
+  "artists": [
+    "Shiyu Tamayura"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/105650",
+    "read_en": null
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -77,9 +98,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.1364,
+<<<<<<< HEAD
     "fanRatioPercentile": 47.2568,
     "popularityPercentile": 50.2622,
     "fanFavouriteDiscoveryScore": 43.7437,
     "fanFavouriteDiscoveryPercentile": 49.5421
+=======
+    "fanRatioPercentile": 47.6923,
+    "popularityPercentile": 50.9502,
+    "fanFavouriteDiscoveryScore": 44.3305,
+    "fanFavouriteDiscoveryPercentile": 49.9054
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

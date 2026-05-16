@@ -1,5 +1,6 @@
 {
   "id": 114827,
+<<<<<<< HEAD
   "display_title": "Cartoon Chloe",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "With Chloe",
+  "description": "Hi, I'm a cartoonist. I meet one of my old art students and she wants to be my assistant. What does she want to assist me with?\n\n(Source: Toomics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1MDMzNi1ZMUtzTGlBQXJOR0EuanBn",
+  "total_chapters": "42",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,18 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T09:05:32.326Z",
+  "authors": [
+    "Wangjamjari"
+  ],
+  "artists": [
+    "Wangjamjari"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/114827",
+    "read_en": null
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -82,15 +104,21 @@
     428
   ],
   "stats": {
-    "popularity": 237,
-    "favourites": 6,
-    "meanScore": 60
+    "popularity": null,
+    "favourites": null,
+    "meanScore": null
   },
   "analytics": {
+<<<<<<< HEAD
     "fanFavouriteRaw": 2.5316,
     "fanRatioPercentile": 79.6979,
     "popularityPercentile": 56.1791,
     "fanFavouriteDiscoveryScore": 75.9715,
     "fanFavouriteDiscoveryPercentile": 83.6894
+=======
+    "fanFavouriteRaw": null,
+    "fanFavouriteWeighted": null,
+    "fanFavouritePercentile": null
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

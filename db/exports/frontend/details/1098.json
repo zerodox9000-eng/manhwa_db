@@ -1,5 +1,6 @@
 {
   "id": 1098,
+<<<<<<< HEAD
   "display_title": "Beacon of Dawn",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "Beacon of Dawn",
+  "description": "Sergeant ‘Bucky’, a war hero belonging to the ‘Empire of the Sun’. He serves as an example to the imperial soldiers through his loyal loyalty to the emperor and his excellent martial arts, but in fact, his ultimate goal is to take revenge on the emperor by causing the downfall of the empire. Can Bucky achieve revenge against a massive empire? \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzEvZS8xLzcvZC84LzUvNjYwZC80OTRiLzg5ZDAvMzgyZjk5MTc4OWY5",
+  "total_chapters": "58",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,18 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T11:12:39.174Z",
+  "authors": [
+    "Gook"
+  ],
+  "artists": [
+    "Gook"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/1098",
+    "read_en": null
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -74,15 +96,23 @@
     428
   ],
   "stats": {
-    "popularity": 396,
+    "popularity": 397,
     "favourites": 4,
     "meanScore": 72
   },
   "analytics": {
+<<<<<<< HEAD
     "fanFavouriteRaw": 1.0101,
     "fanRatioPercentile": 44.1027,
     "popularityPercentile": 65.6727,
     "fanFavouriteDiscoveryScore": 43.1434,
     "fanFavouriteDiscoveryPercentile": 48.8378
+=======
+    "fanFavouriteRaw": 1.0076,
+    "fanRatioPercentile": 44.3686,
+    "popularityPercentile": 66.4171,
+    "fanFavouriteDiscoveryScore": 43.4603,
+    "fanFavouriteDiscoveryPercentile": 48.8194
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

@@ -1,12 +1,18 @@
 {
   "id": 103056,
   "display_title": "Between Us",
+<<<<<<< HEAD
   "titles_en": [],
   "titles_native": [],
   "titles_romaji": [],
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "description": "The third season of *Du Ipsul Sai.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzIvOS84LzMvMy9kLzQvYmFiMS80Mjg0Lzk3MTIvZjc4NDFkZDE3YTUx",
+  "total_chapters": "35",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +23,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +32,19 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-15T13:02:32.362Z",
+  "authors": [
+    "Cheongyeong",
+    "Se-Hui Son"
+  ],
+  "artists": [
+    "Cheongyeong"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/103056",
+    "read_en": null
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -80,9 +100,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.8462,
+<<<<<<< HEAD
     "fanRatioPercentile": 92.463,
     "popularityPercentile": 18.0481,
     "fanFavouriteDiscoveryScore": 42.4797,
     "fanFavouriteDiscoveryPercentile": 48.0003
+=======
+    "fanRatioPercentile": 92.8178,
+    "popularityPercentile": 18.5274,
+    "fanFavouriteDiscoveryScore": 43.5648,
+    "fanFavouriteDiscoveryPercentile": 49.0991
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

@@ -1,5 +1,6 @@
 {
   "id": 112915,
+<<<<<<< HEAD
   "display_title": "Fray!",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "Pray!",
+  "description": "A decade after the fall of Shin Oktaro, Frey, a back-alley thief, stumbles upon a clue to the sibling he lost long ago. But when Koo Ilyeong, the enigmatic CEO of SNT, crosses his path, a dangerous offer is made. Under the guise of benevolence, Koo dares Frey to earn his redemption, pushing him into a game where the rules are never clear, and the stakes grow darker with each move. What is Koo's true intent, and how far will Frey go before he's consumed by the shadows of his past? \n\n(Source: Lezhin US)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4MDU1Ni0wcW1LZllRUWs2S1EucG5n",
+  "total_chapters": "19",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "hiatus",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,18 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T07:01:12.275Z",
+  "authors": [
+    "Do-Ha Yeo"
+  ],
+  "artists": [
+    "Do-Ha Yeo"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/112915",
+    "read_en": "https://www.lezhinus.com/en/comic/pray"
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -108,15 +130,23 @@
     428
   ],
   "stats": {
-    "popularity": 499,
+    "popularity": 498,
     "favourites": 8,
     "meanScore": 68
   },
   "analytics": {
+<<<<<<< HEAD
     "fanFavouriteRaw": 1.6032,
     "fanRatioPercentile": 59.8576,
     "popularityPercentile": 69.9069,
     "fanFavouriteDiscoveryScore": 58.9367,
     "fanFavouriteDiscoveryPercentile": 67.1128
+=======
+    "fanFavouriteRaw": 1.6064,
+    "fanRatioPercentile": 60.255,
+    "popularityPercentile": 70.6541,
+    "fanFavouriteDiscoveryScore": 59.3832,
+    "fanFavouriteDiscoveryPercentile": 67.4619
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }

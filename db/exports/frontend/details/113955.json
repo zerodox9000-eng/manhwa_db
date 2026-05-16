@@ -1,5 +1,6 @@
 {
   "id": 113955,
+<<<<<<< HEAD
   "display_title": "Bad Life",
   "titles_en": [],
   "titles_native": [],
@@ -7,6 +8,14 @@
   "description": null,
   "cover": null,
   "total_chapters": null,
+=======
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "The Bad Life",
+  "description": "A thirst for revenge drags Raymond into a sinister game at his new boarding school, as he finds himself the mouse within a dorm of twisted cats who wish to devour and defile him in the worst ways imaginable.\n\n(Source: Tappytoon)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82L2QvZS9iL2MvZS83L2MvMGM2My80YmU1LzgwNzgvN2FkODgzMGQxNmQy",
+  "total_chapters": "45",
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
   "content_rating": null,
   "is_licensed": false,
@@ -17,6 +26,7 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
+<<<<<<< HEAD
   "last_updated_at": null,
   "authors": [],
   "artists": [],
@@ -25,6 +35,19 @@
     "mangabaka": null,
     "read_en": null,
     "official_en": null
+=======
+  "last_updated_at": "2026-05-16T15:58:16.852Z",
+  "authors": [
+    "Na-Ra Baek",
+    "NO PIE"
+  ],
+  "artists": [
+    "Osuka"
+  ],
+  "links": {
+    "mangabaka": "https://mangabaka.org/113955",
+    "read_en": "https://www.tappytoon.com/en/book/the-bad-life"
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
@@ -121,9 +144,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.6529,
+<<<<<<< HEAD
     "fanRatioPercentile": 61.2037,
     "popularityPercentile": 56.6174,
     "fanFavouriteDiscoveryScore": 58.4401,
     "fanFavouriteDiscoveryPercentile": 66.5571
+=======
+    "fanRatioPercentile": 61.5961,
+    "popularityPercentile": 57.2522,
+    "fanFavouriteDiscoveryScore": 58.9518,
+    "fanFavouriteDiscoveryPercentile": 67.0588
+>>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   }
 }
