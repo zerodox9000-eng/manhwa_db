@@ -1,42 +1,22 @@
 {
   "id": 114499,
-<<<<<<< HEAD
-  "display_title": "Neo-wa Na-ui Sigan",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Our Time",
   "description": "After an unexpected accident, Mi-Rae falls into a coma. But for some reason, she keeps waking up at a time when everyone else’s stops. With this miraculous power, she tries desperately to wake up from her coma and return to everyone else’s time. Meanwhile, Man-Su, a rebellious teenage boy with the ability to stop time, flicks his fingers daily to get away from family drama and troubles at school. However, he meets Mi-Rae walking around in a time where everyone should be completely still. \n\nWill Man-Su be the key for Mi-Rae to come back to our time? \n\n(Source: WEBTOON, edited)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzMvNS9jL2MvZi82LzUvMDVmOS80NWQyLzkzYmIvNDBiYzVjMzdkZmI5",
   "total_chapters": "50",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-06-08",
     "end_date": "2022-04-28",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-16T07:11:27.665Z",
+  "last_updated_at": "2026-05-16T19:44:27.482Z",
   "authors": [
     "Haechomatsatang"
   ],
@@ -44,45 +24,24 @@
     "Ri-Yul"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114499",
+    "mangabaka": "https://mangabaka.org/series/114499",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=3600"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 143474,
-      "rating": 7.2,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://anilist.co/manga/143474"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "our-time",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/our-time"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 61823,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "931z34t",
-      "rating": 6.49,
-      "rating_normalized": 65
-    },
-    "my_anime_list": {
-      "id": 185184,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 185184,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 65,
+      "url": "https://www.mangaupdates.com/series/931z34t"
     }
   },
   "tag_ids": [
@@ -105,21 +64,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 293,
+    "favourites": 5,
+    "meanScore": 72
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.7182,
-    "fanRatioPercentile": 62.8864,
-    "popularityPercentile": 59.7245,
-    "fanFavouriteDiscoveryScore": 60.6718,
-    "fanFavouriteDiscoveryPercentile": 68.7172
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanFavouriteRaw": 1.7065,
+    "fanRatioPercentile": 62.7344,
+    "popularityPercentile": 60.0498,
+    "fanFavouriteDiscoveryScore": 60.5822,
+    "fanFavouriteDiscoveryPercentile": 68.695
   }
 }

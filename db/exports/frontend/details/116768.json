@@ -1,38 +1,21 @@
 {
   "id": 116768,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Genius Grandson of House Namgung",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "When young Hahyeon Shin’s mother sacrifices herself to give him a chance to escape the family she married into, he finds himself alone in a hostile world. His only goal is to find his mother’s family, the House of Namgung, and train in martial arts to avenge her and become a protector of the innocent. But when he is tested by the Namgung family, they discover that he is a martial arts genius with a perfect physique and the potential to become the greatest martial artist who ever lived.\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4ODM1OC1aejBDS2RBdndKTk0uanBn",
   "total_chapters": "75",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2024,
   "published": {
     "start_date": "2024-05-15",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T07:24:17.405Z",
   "authors": [
     "Seonk Gum",
@@ -42,45 +25,24 @@
     "Hyeong-Seok Yu"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/116768",
+    "mangabaka": "https://mangabaka.org/series/116768",
     "read_en": "https://tapas.io/series/the-genius-grandson-of-house-namgung/info"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 188358,
-      "rating": 6.2,
-      "rating_normalized": 62
+      "rating": 62,
+      "url": "https://anilist.co/manga/188358"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-genius-grandson-of-namgung-clan",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/the-genius-grandson-of-namgung-clan"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "znyx46v",
-      "rating": 6.19,
-      "rating_normalized": 62
-    },
-    "my_anime_list": {
-      "id": 186656,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 186656,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 62,
+      "url": "https://www.mangaupdates.com/series/znyx46v"
     }
   },
   "tag_ids": [
@@ -105,18 +67,10 @@
     "meanScore": 62
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 0.885,
-    "fanRatioPercentile": 40.8703,
-    "popularityPercentile": 62.8395,
-    "fanFavouriteDiscoveryScore": 39.751,
-    "fanFavouriteDiscoveryPercentile": 44.4001
-=======
     "fanFavouriteRaw": 0.8798,
-    "fanRatioPercentile": 41.1682,
-    "popularityPercentile": 63.6446,
-    "fanFavouriteDiscoveryScore": 40.1121,
-    "fanFavouriteDiscoveryPercentile": 44.566
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 40.9618,
+    "popularityPercentile": 63.1468,
+    "fanFavouriteDiscoveryScore": 39.8676,
+    "fanFavouriteDiscoveryPercentile": 44.4635
   }
 }

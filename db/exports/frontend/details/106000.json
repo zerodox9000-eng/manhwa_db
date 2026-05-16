@@ -1,38 +1,21 @@
 {
   "id": 106000,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Reincarnated as a New Employee",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Oh Chang-seok, owner of Shinwoo Tech, the myth of a self-made man... He passed away at the early age of 50 and was reincarnated in the body of Oh Chang-seok, an unemployed young man with no specifications.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzgvZi8xLzUvOS9kL2UvMzM1Yi80YzdmL2I0NWQvMzA1OGJjNWRlMTVh",
   "total_chapters": "114",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2022,
   "published": {
     "start_date": "2022-10-07",
     "end_date": "2025-01-05",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T03:13:32.921Z",
   "authors": [
     "Daenamujip",
@@ -42,45 +25,24 @@
     "Yehwan"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/106000",
+    "mangabaka": "https://mangabaka.org/series/106000",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 203455,
-      "rating": 3.9,
-      "rating_normalized": 39
+      "rating": 39,
+      "url": "https://anilist.co/manga/203455"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "reincarnated-as-a-new-employee",
-      "rating": 3.6,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/reincarnated-as-a-new-employee"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "eays0lw",
-      "rating": 5.67,
-      "rating_normalized": 57
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 57,
+      "url": "https://www.mangaupdates.com/series/eays0lw"
     }
   },
   "tag_ids": [
@@ -101,16 +63,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 36.6283,
-    "fanFavouriteDiscoveryScore": 25.3988,
-    "fanFavouriteDiscoveryPercentile": 28.0347
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 37.2686,
-    "fanFavouriteDiscoveryScore": 26.0614,
-    "fanFavouriteDiscoveryPercentile": 28.5891
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 36.931,
+    "fanFavouriteDiscoveryScore": 25.7231,
+    "fanFavouriteDiscoveryPercentile": 28.3013
   }
 }

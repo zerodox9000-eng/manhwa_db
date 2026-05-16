@@ -1,42 +1,22 @@
 {
   "id": 116002,
-<<<<<<< HEAD
-  "display_title": "Mot Da Pin",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Unblossomed",
   "description": "Gyeongseong, 1920—the early days of colonial Korea. When a young Japanese boy is found dead at a local school's lantern festival, fingers start to point towards Kim Mugyeong. Despite the mounting pressure, Mugyeong refuses to talk, forcing officers to search for information elsewhere. Just what secrets have these two boys been hiding, and why does Mugyeong refuse to talk? In the midst of tumultuous social and political conflicts, the youth are just trying to make do. And while they say that some flowers bloom in adversity, perhaps there are also some that are destined to remain unblossomed.\n\n(Source: Lezhin US)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3NzQ4OC1rRW16SDVHcktyaVQuanBn",
   "total_chapters": "45",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-11-14",
     "end_date": "2025-05-22",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-16T11:39:49.553Z",
+  "last_updated_at": "2026-05-16T19:45:53.547Z",
   "authors": [
     "Danchu"
   ],
@@ -44,45 +24,24 @@
     "Danchu"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/116002",
+    "mangabaka": "https://mangabaka.org/series/116002",
     "read_en": "https://www.lezhinus.com/en/comic/unblossomed"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 177488,
-      "rating": 8.3,
-      "rating_normalized": 83
+      "rating": 83,
+      "url": "https://anilist.co/manga/177488"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "unblossomed",
-      "rating": 4.3,
-      "rating_normalized": 86
+      "rating": 86,
+      "url": "https://www.anime-planet.com/manga/unblossomed"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 76428,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "zytno7b",
-      "rating": 7.4,
-      "rating_normalized": 74
-    },
-    "my_anime_list": {
-      "id": 167371,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 167371,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 74,
+      "url": "https://www.mangaupdates.com/series/zytno7b"
     }
   },
   "tag_ids": [
@@ -120,18 +79,10 @@
     "meanScore": 83
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 4,
-    "fanRatioPercentile": 93.2065,
-    "popularityPercentile": 63.5047,
-    "fanFavouriteDiscoveryScore": 90.7881,
-    "fanFavouriteDiscoveryPercentile": 95.1241
-=======
     "fanFavouriteRaw": 4.0115,
-    "fanRatioPercentile": 93.5418,
-    "popularityPercentile": 64.1218,
-    "fanFavouriteDiscoveryScore": 91.2332,
-    "fanFavouriteDiscoveryPercentile": 95.6643
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 93.2301,
+    "popularityPercentile": 63.6137,
+    "fanFavouriteDiscoveryScore": 90.8323,
+    "fanFavouriteDiscoveryPercentile": 95.2377
   }
 }

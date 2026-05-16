@@ -1,38 +1,21 @@
 {
   "id": 116495,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Royal Family",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "A regular employee is belittled by his boss, but when he uncovers her secrets, he gets a chance for revenge.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4NTE1MS1tVDNpQUpEbkpacUQuanBn",
   "total_chapters": "36",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2024,
   "published": {
     "start_date": "2024-12-01",
     "end_date": "2025-06-22",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T12:39:21.601Z",
   "authors": [
     "Syurinel"
@@ -41,45 +24,24 @@
     "Seok-Bae Moon"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/116495",
+    "mangabaka": "https://mangabaka.org/series/116495",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 185151,
-      "rating": 6.4,
-      "rating_normalized": 64
+      "rating": 64,
+      "url": "https://anilist.co/manga/185151"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "royal-family",
-      "rating": 3.6,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/royal-family"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 74903,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "hv2oc39",
-      "rating": 6.4,
-      "rating_normalized": 64
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 64,
+      "url": "https://www.mangaupdates.com/series/hv2oc39"
     }
   },
   "tag_ids": [
@@ -113,18 +75,10 @@
     "meanScore": 64
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 3.0361,
-    "fanRatioPercentile": 86.6166,
-    "popularityPercentile": 70.8382,
-    "fanFavouriteDiscoveryScore": 85.3821,
-    "fanFavouriteDiscoveryPercentile": 91.6412
-=======
     "fanFavouriteRaw": 3.0246,
-    "fanRatioPercentile": 86.738,
-    "popularityPercentile": 71.6907,
-    "fanFavouriteDiscoveryScore": 85.5854,
-    "fanFavouriteDiscoveryPercentile": 91.9539
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 86.2968,
+    "popularityPercentile": 71.0606,
+    "fanFavouriteDiscoveryScore": 85.0892,
+    "fanFavouriteDiscoveryPercentile": 91.4248
   }
 }

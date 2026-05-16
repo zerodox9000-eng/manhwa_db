@@ -1,38 +1,21 @@
 {
   "id": 117444,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Between Us",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "My friend who always cheats on his girl and his girl who says yes to anyone who asks her out. What's going on?!\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE2NDQ4OS12OHFYYXAzTDc0M2ouanBn",
   "total_chapters": "30",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-05-27",
     "end_date": "2020-10-14",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T11:15:42.975Z",
   "authors": [
     "Paldo Sung"
@@ -41,46 +24,17 @@
     "Goinmul"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/117444",
+    "mangabaka": "https://mangabaka.org/series/117444",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 164489,
-      "rating": 4.2,
-      "rating_normalized": 42
+      "rating": 42,
+      "url": "https://anilist.co/manga/164489"
     },
-    "anime_planet": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "animeplanet": null,
+    "mangaupdates": null
   },
   "tag_ids": [
     108,
@@ -97,21 +51,15 @@
     57
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 230,
+    "favourites": 2,
+    "meanScore": 42
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 0.8734,
-    "fanRatioPercentile": 40.5259,
-    "popularityPercentile": 55.4669,
-    "fanFavouriteDiscoveryScore": 38.521,
-    "fanFavouriteDiscoveryPercentile": 42.9444
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanFavouriteRaw": 0.8696,
+    "fanRatioPercentile": 40.7128,
+    "popularityPercentile": 55.7778,
+    "fanFavouriteDiscoveryScore": 38.7476,
+    "fanFavouriteDiscoveryPercentile": 43.0939
   }
 }

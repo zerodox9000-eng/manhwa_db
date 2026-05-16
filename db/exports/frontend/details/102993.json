@@ -1,38 +1,21 @@
 {
   "id": 102993,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Between Us",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "The second season of *Du Ipsul Sai.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2IvMi85L2MvNS9mLzcvZDA2Mi80NGYxL2IwZjkvYTI5MGU0YjQ3ZmZi",
   "total_chapters": "50",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-04-30",
     "end_date": "2021-04-15",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-15T18:16:55.781Z",
   "authors": [
     "Cheongyeong",
@@ -42,46 +25,21 @@
     "Cheongyeong"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/102993",
+    "mangabaka": "https://mangabaka.org/series/102993",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 151688,
-      "rating": 4.6,
-      "rating_normalized": 46
+      "rating": 46,
+      "url": "https://anilist.co/manga/151688"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "between-us-ten-kei-part-2",
-      "rating": 3.6,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/between-us-ten-kei-part-2"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     36,
@@ -94,21 +52,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 30,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 46
   },
   "analytics": {
-<<<<<<< HEAD
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 20.0595,
-    "fanFavouriteDiscoveryScore": 15.9155,
-    "fanFavouriteDiscoveryPercentile": 17.5315
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 20.4186,
+    "fanFavouriteDiscoveryScore": 16.2778,
+    "fanFavouriteDiscoveryPercentile": 17.8196
   }
 }

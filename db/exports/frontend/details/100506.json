@@ -1,38 +1,21 @@
 {
   "id": 100506,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Gangster Rebirth",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "The target is Oh Jung-Seok and all the students at Sampo High School! \n\nThe scale itself is completely different from before. Now, the Iljin Alliance, a group of all the bullies from each school, begins to grab and bully Sampo High School students at random. One day, a man came up to Jung-Seok and told him to come to visit him as much as he wanted... \n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzgvNS84LzYvNS9lL2MvNDJmZC80MTVkL2FmNTMvYmNhMmY3OTE4NzM2",
   "total_chapters": "85",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2019,
   "published": {
     "start_date": "2019-10-02",
     "end_date": "2021-04-24",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T04:58:25.353Z",
   "authors": [
     "Gi-Su Oh",
@@ -42,46 +25,21 @@
     "Sang-Ki Hong"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/100506",
+    "mangabaka": "https://mangabaka.org/series/100506",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 129707,
-      "rating": 7.2,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://anilist.co/manga/129707"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "second-life-of-a-gangster-part-2",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/second-life-of-a-gangster-part-2"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     58,
@@ -108,16 +66,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.4228,
-<<<<<<< HEAD
-    "fanRatioPercentile": 54.9816,
-    "popularityPercentile": 89.3559,
-    "fanFavouriteDiscoveryScore": 54.8122,
-    "fanFavouriteDiscoveryPercentile": 62.8786
-=======
-    "fanRatioPercentile": 55.4093,
-    "popularityPercentile": 90.1933,
-    "fanFavouriteDiscoveryScore": 55.2501,
-    "fanFavouriteDiscoveryPercentile": 63.2908
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 55.1552,
+    "popularityPercentile": 89.4016,
+    "fanFavouriteDiscoveryScore": 54.986,
+    "fanFavouriteDiscoveryPercentile": 63.0612
   }
 }

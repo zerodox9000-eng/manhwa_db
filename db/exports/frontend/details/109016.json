@@ -1,38 +1,21 @@
 {
   "id": 109016,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Iron- Blooded Necromancer Has Returned",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Hela, a world of relentless killing, war, violence, and murder. \n\nKang Hyuk awakened as a necromancer in this world. He did not know why or what had caused it. Was it because he had encountered death too many times? \n\n(Source: Webnovel)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4OTE5My1LeldNRmFVMkVpZDIuanBn",
   "total_chapters": "50",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "cancelled",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-12-23",
     "end_date": "2024-01-01",
     "start_date_is_estimated": false,
     "end_date_is_estimated": true
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-15T11:14:55.975Z",
   "authors": [
     "Bisu",
@@ -42,45 +25,24 @@
     "Cocoonpro"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/109016",
+    "mangabaka": "https://mangabaka.org/series/109016",
     "read_en": "https://www.webnovel.com/comic/33355948108053701"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 189193,
-      "rating": 6.3,
-      "rating_normalized": 63
+      "rating": 63,
+      "url": "https://anilist.co/manga/189193"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-iron-blooded-necromancer-has-returned",
-      "rating": 3.2,
-      "rating_normalized": 64
+      "rating": 64,
+      "url": "https://www.anime-planet.com/manga/the-iron-blooded-necromancer-has-returned"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "6tpxfh0",
-      "rating": 6.42,
-      "rating_normalized": 64
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 64,
+      "url": "https://www.mangaupdates.com/series/6tpxfh0"
     }
   },
   "tag_ids": [
@@ -112,16 +74,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.3106,
-<<<<<<< HEAD
-    "fanRatioPercentile": 32.222,
-    "popularityPercentile": 61.7046,
-    "fanFavouriteDiscoveryScore": 31.2546,
-    "fanFavouriteDiscoveryPercentile": 33.0281
-=======
-    "fanRatioPercentile": 32.7273,
-    "popularityPercentile": 62.3776,
-    "fanFavouriteDiscoveryScore": 31.7968,
-    "fanFavouriteDiscoveryPercentile": 33.6734
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 32.4722,
+    "popularityPercentile": 61.9018,
+    "fanFavouriteDiscoveryScore": 31.5128,
+    "fanFavouriteDiscoveryPercentile": 33.3281
   }
 }

@@ -1,38 +1,21 @@
 {
   "id": 107890,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Game Is Murder",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/gamesal)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5NTg2MS1SRTZ1N3BVUnJBTkYuanBn",
   "total_chapters": "97",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2023,
   "published": {
     "start_date": "2023-10-07",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T10:08:34.057Z",
   "authors": [
     "Uwangi"
@@ -41,45 +24,24 @@
     "HOTPINK"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/107890",
+    "mangabaka": "https://mangabaka.org/series/107890",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 195861,
-      "rating": 7.8,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://anilist.co/manga/195861"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-game-is-murder",
       "rating": null,
-      "rating_normalized": null
+      "url": "https://www.anime-planet.com/manga/the-game-is-murder"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "n9bwyqv",
-      "rating": 6.3,
-      "rating_normalized": 63
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/n9bwyqv"
     }
   },
   "tag_ids": [
@@ -98,16 +60,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.7619,
-<<<<<<< HEAD
-    "fanRatioPercentile": 95.7658,
-    "popularityPercentile": 15.207,
-    "fanFavouriteDiscoveryScore": 38.4455,
-    "fanFavouriteDiscoveryPercentile": 42.8426
-=======
-    "fanRatioPercentile": 96.0428,
-    "popularityPercentile": 15.5574,
-    "fanFavouriteDiscoveryScore": 39.2324,
-    "fanFavouriteDiscoveryPercentile": 43.5952
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 95.7357,
+    "popularityPercentile": 15.493,
+    "fanFavouriteDiscoveryScore": 38.9828,
+    "fanFavouriteDiscoveryPercentile": 43.4986
   }
 }

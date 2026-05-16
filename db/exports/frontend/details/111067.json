@@ -1,38 +1,21 @@
 {
   "id": 111067,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Switch",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Cheoljoong Gang, a problem-solver and a private eye, has the ability to use secret powers. After stumbling upon a college girl abduction case, Cheoljoong senses that his past has something to do with those behind the kidnappings…\n\n(Source: Copin Comics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ueDEwMTQ3Ni1hdk43VklZTEtMTzAuanBn",
   "total_chapters": "29",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2017,
   "published": {
     "start_date": "2017-02-17",
     "end_date": "2017-08-18",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-13T09:13:10.871Z",
   "authors": [
     "Studio Jilpung"
@@ -41,45 +24,24 @@
     "Studio Jilpung"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111067",
+    "mangabaka": "https://mangabaka.org/series/111067",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 101476,
-      "rating": 4.6,
-      "rating_normalized": 46
+      "rating": 46,
+      "url": "https://anilist.co/manga/101476"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "switch-zilpung-studio",
-      "rating": 3.5,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://www.anime-planet.com/manga/switch-zilpung-studio"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "dzuvort",
-      "rating": 5.75,
-      "rating_normalized": 58
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 58,
+      "url": "https://www.mangaupdates.com/series/dzuvort"
     }
   },
   "tag_ids": [
@@ -114,16 +76,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.0638,
-<<<<<<< HEAD
-    "fanRatioPercentile": 45.5036,
-    "popularityPercentile": 64.8744,
-    "fanFavouriteDiscoveryScore": 44.4473,
-    "fanFavouriteDiscoveryPercentile": 50.5126
-=======
-    "fanRatioPercentile": 45.9235,
-    "popularityPercentile": 65.5286,
-    "fanFavouriteDiscoveryScore": 44.9128,
-    "fanFavouriteDiscoveryPercentile": 50.6376
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 45.7085,
+    "popularityPercentile": 65.0144,
+    "fanFavouriteDiscoveryScore": 44.6595,
+    "fanFavouriteDiscoveryPercentile": 50.4941
   }
 }

@@ -1,38 +1,21 @@
 {
   "id": 110855,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "No Pay, No Work",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "**Original Webtoon:**  \n[Ridibooks](https://ridibooks.com/books/4895002423)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEzMDEzOS1sc2xWN01HTkpBV3IuanBn",
   "total_chapters": "51",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2020,
   "published": {
     "start_date": "2020-08-01",
     "end_date": "2021-12-10",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T03:38:16.902Z",
   "authors": [
     "Na-Sol"
@@ -41,45 +24,20 @@
     "Na-Sol"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/110855",
+    "mangabaka": "https://mangabaka.org/series/110855",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 130139,
-      "rating": 8,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://anilist.co/manga/130139"
     },
-    "anime_planet": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "animeplanet": null,
+    "mangaupdates": {
       "id": "zmjwn1p",
-      "rating": 6.88,
-      "rating_normalized": 69
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 69,
+      "url": "https://www.mangaupdates.com/series/zmjwn1p"
     }
   },
   "tag_ids": [
@@ -92,21 +50,15 @@
     57
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 251,
+    "favourites": 4,
+    "meanScore": 80
   },
   "analytics": {
-<<<<<<< HEAD
     "fanFavouriteRaw": 1.5936,
-    "fanRatioPercentile": 59.6384,
-    "popularityPercentile": 57.1887,
-    "fanFavouriteDiscoveryScore": 57.0652,
-    "fanFavouriteDiscoveryPercentile": 65.1718
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 59.7852,
+    "popularityPercentile": 57.4119,
+    "fanFavouriteDiscoveryScore": 57.2512,
+    "fanFavouriteDiscoveryPercentile": 65.419
   }
 }

@@ -1,38 +1,21 @@
 {
   "id": 114480,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Streamer Aunt",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "The next-door student makes noise everyday, but one day, he asks a favor, *\"Ma'am, can you go out with me for a day?\"* I didn't know that one day would lead to this... And what is with this broadcast?!\n\n(Source: TOPTOON+)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE0Mjg5NS1PaEZWUGwycUJsMlQuanBn",
   "total_chapters": "30",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-11-20",
     "end_date": "2022-05-07",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T16:03:35.007Z",
   "authors": [
     "Abyo4"
@@ -41,45 +24,24 @@
     "Worin"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114480",
+    "mangabaka": "https://mangabaka.org/series/114480",
     "read_en": "https://daycomics.com/comic/100959"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 142895,
-      "rating": 6.7,
-      "rating_normalized": 67
+      "rating": 67,
+      "url": "https://anilist.co/manga/142895"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "streamer-aunt",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/streamer-aunt"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 63286,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "nk4a67x",
-      "rating": 6.66,
-      "rating_normalized": 67
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 67,
+      "url": "https://www.mangaupdates.com/series/nk4a67x"
     }
   },
   "tag_ids": [
@@ -125,18 +87,10 @@
     "meanScore": 67
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.9571,
-    "fanRatioPercentile": 68.4433,
-    "popularityPercentile": 82.218,
-    "fanFavouriteDiscoveryScore": 68.0621,
-    "fanFavouriteDiscoveryPercentile": 76.5203
-=======
     "fanFavouriteRaw": 1.9535,
-    "fanRatioPercentile": 68.6384,
-    "popularityPercentile": 83.1592,
-    "fanFavouriteDiscoveryScore": 68.2848,
-    "fanFavouriteDiscoveryPercentile": 76.7174
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 68.4305,
+    "popularityPercentile": 82.3516,
+    "fanFavouriteDiscoveryScore": 68.0535,
+    "fanFavouriteDiscoveryPercentile": 76.5232
   }
 }

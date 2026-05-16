@@ -1,38 +1,21 @@
 {
   "id": 115004,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "ONE KILL",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "20 years after an unsolved mass murder mystery, a billionaire falls terminally ill and the only regret he has is that he hasn't killed enough. He calls upon his 17 offspring in order to play a game of 'KILLS', a popular mobile game... in real life.\n\n(Source: TOPTOON+)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1NDI3MC0zTWw4ZlZrTTVVZGoucG5n",
   "total_chapters": "73",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2019,
   "published": {
     "start_date": "2019-08-28",
     "end_date": "2021-01-20",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T12:29:38.261Z",
   "authors": [
     "Team Jannavis"
@@ -41,45 +24,24 @@
     "Team Jannavis"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115004",
+    "mangabaka": "https://mangabaka.org/series/115004",
     "read_en": "https://daycomics.com/content/101580"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 154270,
-      "rating": 5.6,
-      "rating_normalized": 56
+      "rating": 56,
+      "url": "https://anilist.co/manga/154270"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "one-kill",
-      "rating": 3.4,
-      "rating_normalized": 68
+      "rating": 68,
+      "url": "https://www.anime-planet.com/manga/one-kill"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 75249,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "c32y0sd",
-      "rating": 5.99,
-      "rating_normalized": 60
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 60,
+      "url": "https://www.mangaupdates.com/series/c32y0sd"
     }
   },
   "tag_ids": [
@@ -108,16 +70,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.0619,
-<<<<<<< HEAD
-    "fanRatioPercentile": 70.7678,
-    "popularityPercentile": 52.2736,
-    "fanFavouriteDiscoveryScore": 66.2671,
-    "fanFavouriteDiscoveryPercentile": 74.9863
-=======
-    "fanRatioPercentile": 71.1312,
-    "popularityPercentile": 52.9247,
-    "fanFavouriteDiscoveryScore": 66.8319,
-    "fanFavouriteDiscoveryPercentile": 75.5574
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 70.8661,
+    "popularityPercentile": 52.4706,
+    "fanFavouriteDiscoveryScore": 66.428,
+    "fanFavouriteDiscoveryPercentile": 75.1926
   }
 }

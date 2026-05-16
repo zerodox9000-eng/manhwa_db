@@ -1,41 +1,21 @@
 {
   "id": 117181,
-<<<<<<< HEAD
-  "display_title": "Angma-neun Eopda",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "There Are No Demons",
   "description": "A few stories about humans, the most frightening creatures of all. \n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzUvNy8yL2MvMy80LzUvMzQ4Mi80N2Y3L2IyNGMvZmY3MzY5NDY4N2Fh",
   "total_chapters": "148",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-02-28",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T11:10:33.722Z",
   "authors": [
     "Eomneunsaram"
@@ -44,45 +24,24 @@
     "Eomneunsaram"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/117181",
+    "mangabaka": "https://mangabaka.org/series/117181",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=5725"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 172084,
-      "rating": 7.4,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://anilist.co/manga/172084"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "there-are-no-demons",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/there-are-no-demons"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "qpjkizf",
-      "rating": 6.37,
-      "rating_normalized": 64
-    },
-    "my_anime_list": {
-      "id": 158139,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 158139,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 64,
+      "url": "https://www.mangaupdates.com/series/qpjkizf"
     }
   },
   "tag_ids": [
@@ -103,16 +62,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2857,
-<<<<<<< HEAD
-    "fanRatioPercentile": 75.5185,
-    "popularityPercentile": 50.1839,
-    "fanFavouriteDiscoveryScore": 69.8704,
-    "fanFavouriteDiscoveryPercentile": 78.1013
-=======
-    "fanRatioPercentile": 75.9358,
-    "popularityPercentile": 50.8433,
-    "fanFavouriteDiscoveryScore": 70.5386,
-    "fanFavouriteDiscoveryPercentile": 78.8153
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 75.5972,
+    "popularityPercentile": 50.4474,
+    "fanFavouriteDiscoveryScore": 70.0571,
+    "fanFavouriteDiscoveryPercentile": 78.3597
   }
 }

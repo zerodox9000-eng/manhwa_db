@@ -1,41 +1,21 @@
 {
   "id": 111825,
-<<<<<<< HEAD
-  "display_title": "Are you really telling me to do it?",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Snapping into Love",
   "description": "Two childhood friends, one coin on a string and a lot of pent up wishful thinking.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE2OTIxMS0zTTNnRzVGSmJGRkwuanBn",
   "total_chapters": "148",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-09-12",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T15:42:43.477Z",
   "authors": [
     "Tama"
@@ -44,45 +24,24 @@
     "G-goon"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111825",
+    "mangabaka": "https://mangabaka.org/series/111825",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 169211,
-      "rating": 6.4,
-      "rating_normalized": 64
+      "rating": 64,
+      "url": "https://anilist.co/manga/169211"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "snapping-into-love",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/snapping-into-love"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 72688,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "oyrbugs",
-      "rating": 6.22,
-      "rating_normalized": 62
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 62,
+      "url": "https://www.mangaupdates.com/series/oyrbugs"
     }
   },
   "tag_ids": [
@@ -135,18 +94,10 @@
     "meanScore": 64
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 2.3192,
-    "fanRatioPercentile": 76.1133,
-    "popularityPercentile": 86.3505,
-    "fanFavouriteDiscoveryScore": 75.8124,
-    "fanFavouriteDiscoveryPercentile": 83.5486
-=======
     "fanFavouriteRaw": 2.3161,
-    "fanRatioPercentile": 76.5446,
-    "popularityPercentile": 87.2151,
-    "fanFavouriteDiscoveryScore": 76.263,
-    "fanFavouriteDiscoveryPercentile": 84.0889
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 76.1731,
+    "popularityPercentile": 86.4369,
+    "fanFavouriteDiscoveryScore": 75.8741,
+    "fanFavouriteDiscoveryPercentile": 83.6433
   }
 }

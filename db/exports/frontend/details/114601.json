@@ -1,38 +1,21 @@
 {
   "id": 114601,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "What do I do now...?",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Lucas Sylvia. A college student. One morning, he wakes up in a room with three girls. What happened, and what should he do now?\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE0NjI2Mi0wclR1YzZpb1Q2NHouanBn",
   "total_chapters": "133",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-12-01",
     "end_date": "2024-05-08",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T15:57:57.895Z",
   "authors": [
     "Team Biyam"
@@ -41,45 +24,24 @@
     "Sumatana"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114601",
+    "mangabaka": "https://mangabaka.org/series/114601",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 146262,
-      "rating": 7.4,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://anilist.co/manga/146262"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "what-do-i-do-now",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/what-do-i-do-now"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 63979,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "fyp2wvu",
-      "rating": 7.37,
-      "rating_normalized": 74
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 74,
+      "url": "https://www.mangaupdates.com/series/fyp2wvu"
     }
   },
   "tag_ids": [
@@ -149,18 +111,10 @@
     "meanScore": 74
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 4.1139,
-    "fanRatioPercentile": 93.6918,
-    "popularityPercentile": 91.4847,
-    "fanFavouriteDiscoveryScore": 93.45,
-    "fanFavouriteDiscoveryPercentile": 96.8068
-=======
     "fanFavouriteRaw": 4.109,
-    "fanRatioPercentile": 93.9778,
-    "popularityPercentile": 92.2254,
-    "fanFavouriteDiscoveryScore": 93.7497,
-    "fanFavouriteDiscoveryPercentile": 97.1452
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 93.6581,
+    "popularityPercentile": 91.5493,
+    "fanFavouriteDiscoveryScore": 93.4177,
+    "fanFavouriteDiscoveryPercentile": 96.8174
   }
 }

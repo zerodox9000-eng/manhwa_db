@@ -1,42 +1,22 @@
 {
   "id": 111612,
-<<<<<<< HEAD
-  "display_title": "Don't Do It Like That",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "The Carry",
   "description": "A professional gamer, in the past, has one thing he's best at... carrying people. Will his skills help him obtain... something more? \n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1OTUzMi15Y3I3UkNNMGZwV04uanBn",
   "total_chapters": "121",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2022,
   "published": {
     "start_date": "2022-12-26",
     "end_date": "2025-03-10",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-16T16:13:33.300Z",
+  "last_updated_at": "2026-05-16T18:22:26.121Z",
   "authors": [
     "Yangchong"
   ],
@@ -44,45 +24,24 @@
     "Doryeonsa Big Pie"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111612",
+    "mangabaka": "https://mangabaka.org/series/111612",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 159532,
-      "rating": 7.7,
-      "rating_normalized": 77
+      "rating": 77,
+      "url": "https://anilist.co/manga/159532"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-carry",
-      "rating": 4.1,
-      "rating_normalized": 82
+      "rating": 82,
+      "url": "https://www.anime-planet.com/manga/the-carry"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 67553,
-      "rating": 7.654000000000001,
-      "rating_normalized": 77
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "p2j2qeb",
-      "rating": 7.72,
-      "rating_normalized": 77
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 77,
+      "url": "https://www.mangaupdates.com/series/p2j2qeb"
     }
   },
   "tag_ids": [
@@ -170,18 +129,10 @@
     "meanScore": 77
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 5.2618,
-    "fanRatioPercentile": 96.6815,
-    "popularityPercentile": 94.4744,
-    "fanFavouriteDiscoveryScore": 96.4869,
-    "fanFavouriteDiscoveryPercentile": 98.6773
-=======
     "fanFavouriteRaw": 5.2564,
-    "fanRatioPercentile": 96.9066,
-    "popularityPercentile": 95.0555,
-    "fanFavouriteDiscoveryScore": 96.7208,
-    "fanFavouriteDiscoveryPercentile": 98.9305
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 96.6617,
+    "popularityPercentile": 94.514,
+    "fanFavouriteDiscoveryScore": 96.4678,
+    "fanFavouriteDiscoveryPercentile": 98.6927
   }
 }

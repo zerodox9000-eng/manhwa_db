@@ -12,7 +12,14 @@ const OUTPUT_DIR = path.join(
 );
 
 const today =
-  new Date().toISOString().split("T")[0];
+  new Date()
+    .toLocaleDateString(
+      "sv-SE",
+      {
+        timeZone:
+          "Asia/Kolkata"
+      }
+    );
 
 const files =
   fs.readdirSync(INPUT_DIR);
@@ -61,6 +68,8 @@ fs.writeFileSync(
 console.log(
   `Snapshot saved: ${today}`
 );
+
+
 
 
 

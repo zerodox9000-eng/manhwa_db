@@ -1,38 +1,21 @@
 {
   "id": 102806,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Tong Edge",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "After the events of TONG, legendary swordsman Ha Jonghwa takes in Ryu Heesoo to be his successor in a story filled with cold-blooded action and unwavering loyalty!!\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEzMDA5OC0wNm9XcXR6OGZnbXIuanBn",
   "total_chapters": "77",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2017,
   "published": {
     "start_date": "2017-01-20",
     "end_date": "2018-06-15",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T07:22:39.606Z",
   "authors": [
     "Un"
@@ -41,45 +24,24 @@
     "Keunbit"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/102806",
+    "mangabaka": "https://mangabaka.org/series/102806",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 130098,
-      "rating": 7.6,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://anilist.co/manga/130098"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "tong-edge",
-      "rating": 3.8,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/tong-edge"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 67166,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "l72bs60",
-      "rating": 6.03,
-      "rating_normalized": 60
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 60,
+      "url": "https://www.mangaupdates.com/series/l72bs60"
     }
   },
   "tag_ids": [
@@ -100,16 +62,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5873,
-<<<<<<< HEAD
-    "fanRatioPercentile": 59.521,
-    "popularityPercentile": 44.3062,
-    "fanFavouriteDiscoveryScore": 52.5838,
-    "fanFavouriteDiscoveryPercentile": 60.8124
-=======
-    "fanRatioPercentile": 59.8766,
-    "popularityPercentile": 44.9445,
-    "fanFavouriteDiscoveryScore": 53.2193,
-    "fanFavouriteDiscoveryPercentile": 61.4891
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 59.6296,
+    "popularityPercentile": 44.6035,
+    "fanFavouriteDiscoveryScore": 52.8305,
+    "fanFavouriteDiscoveryPercentile": 61.1236
   }
 }

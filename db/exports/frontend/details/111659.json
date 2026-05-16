@@ -1,41 +1,21 @@
 {
   "id": 111659,
-<<<<<<< HEAD
-  "display_title": "He's a Girl Today",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Who’s That Girl?",
   "description": "Sang-Hyeon Kim has the talent and the drive to become a K-pop star—but one thing keeps holding him back: a false school bullying accusation. After countless rejections, his dream feels more distant than ever. But when the head director of a major entertainment company hands him a mysterious bath bomb that transforms him into his past-life self, he's suddenly staring at an unbelievably beautiful... woman? Sang-Hyeon's second shot at fame is about to begin—in the most unexpected way!\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzEvZS80LzEvZS9jLzQvODMzZi80NzYwL2E2NjUvZmE0M2ZhY2FkMjli",
   "total_chapters": "61",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2025,
   "published": {
     "start_date": "2025-03-26",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T06:42:19.357Z",
   "authors": [
     "Geukjang Song"
@@ -44,45 +24,24 @@
     "Geukjang Song"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111659",
+    "mangabaka": "https://mangabaka.org/series/111659",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8520"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 189080,
-      "rating": 7.7,
-      "rating_normalized": 77
+      "rating": 77,
+      "url": "https://anilist.co/manga/189080"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "today-is-a-woman-day",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/today-is-a-woman-day"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "8ya2lpz",
-      "rating": 6.54,
-      "rating_normalized": 65
-    },
-    "my_anime_list": {
-      "id": 185458,
-      "rating": 7.68,
-      "rating_normalized": 77
-    },
-    "shikimori": {
-      "id": 185458,
-      "rating": 7.55,
-      "rating_normalized": 76
+      "rating": 65,
+      "url": "https://www.mangaupdates.com/series/8ya2lpz"
     }
   },
   "tag_ids": [
@@ -110,18 +69,10 @@
     "meanScore": 77
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 3.7511,
-    "fanRatioPercentile": 91.876,
-    "popularityPercentile": 90.3264,
-    "fanFavouriteDiscoveryScore": 91.6149,
-    "fanFavouriteDiscoveryPercentile": 95.7267
-=======
     "fanFavouriteRaw": 3.7324,
-    "fanRatioPercentile": 92.1678,
-    "popularityPercentile": 91.1724,
-    "fanFavouriteDiscoveryScore": 91.9237,
-    "fanFavouriteDiscoveryPercentile": 96.1086
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 91.7438,
+    "popularityPercentile": 90.4132,
+    "fanFavouriteDiscoveryScore": 91.485,
+    "fanFavouriteDiscoveryPercentile": 95.6501
   }
 }

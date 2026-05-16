@@ -1,41 +1,21 @@
 {
   "id": 115108,
-<<<<<<< HEAD
-  "display_title": "Love Creed",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Sergeant Brynn",
   "description": "I recently started a new job at a café where I met my old sergeant... My hot, sexy, sergeant... And yes, we have a past...\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1NTc2NC1VelZUdUNueGdOT08uanBn",
   "total_chapters": "40",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2022,
   "published": {
     "start_date": "2022-05-10",
     "end_date": "2023-01-24",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T17:37:50.684Z",
   "authors": [
     "oiio"
@@ -44,45 +24,24 @@
     "Seoni"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115108",
+    "mangabaka": "https://mangabaka.org/series/115108",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 155764,
-      "rating": 6.2,
-      "rating_normalized": 62
+      "rating": 62,
+      "url": "https://anilist.co/manga/155764"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "sergeant-brynn",
-      "rating": 3.5,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://www.anime-planet.com/manga/sergeant-brynn"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 70814,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "4hxdsq9",
-      "rating": 5.91,
-      "rating_normalized": 59
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 59,
+      "url": "https://www.mangaupdates.com/series/4hxdsq9"
     }
   },
   "tag_ids": [
@@ -135,18 +94,10 @@
     "meanScore": 62
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.7544,
-    "fanRatioPercentile": 63.9665,
-    "popularityPercentile": 65.7744,
-    "fanFavouriteDiscoveryScore": 62.5866,
-    "fanFavouriteDiscoveryPercentile": 70.7052
-=======
     "fanFavouriteRaw": 1.75,
-    "fanRatioPercentile": 64.1547,
-    "popularityPercentile": 66.5487,
-    "fanFavouriteDiscoveryScore": 62.8554,
-    "fanFavouriteDiscoveryPercentile": 70.8597
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 63.8861,
+    "popularityPercentile": 66.0026,
+    "fanFavouriteDiscoveryScore": 62.5333,
+    "fanFavouriteDiscoveryPercentile": 70.6404
   }
 }

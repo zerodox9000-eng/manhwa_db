@@ -1,38 +1,21 @@
 {
   "id": 107154,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Sound of Your Heart 2",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Three years after the completion of \"Maeumuisori\", Cho Seok's daily life will be revealed! The title is... \"Just draw a comic\". (But I know everyone will call it \"Maeumuisori 2\") \n\n(Source: Naver Webtoon, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzcvNy81L2EvNy82LzgvNjAxYS80OGY1L2IyMDUvODIxMGNkNTg2M2M5",
   "total_chapters": "100",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2023,
   "published": {
     "start_date": "2023-08-28",
     "end_date": "2025-06-30",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-12T15:17:21.507Z",
   "authors": [
     "Seok Cho"
@@ -41,45 +24,20 @@
     "Seok Cho"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/107154",
+    "mangabaka": "https://mangabaka.org/series/107154",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 171803,
-      "rating": 7,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://anilist.co/manga/171803"
     },
-    "anime_planet": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "animeplanet": null,
+    "mangaupdates": {
       "id": "sn952hp",
       "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": 176629,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 176629,
-      "rating": null,
-      "rating_normalized": null
+      "url": "https://www.mangaupdates.com/series/sn952hp"
     }
   },
   "tag_ids": [
@@ -95,16 +53,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 16.3653,
-    "fanFavouriteDiscoveryScore": 13.49,
-    "fanFavouriteDiscoveryPercentile": 14.6826
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 16.7503,
-    "fanFavouriteDiscoveryScore": 13.9513,
-    "fanFavouriteDiscoveryPercentile": 15.0473
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 16.6835,
+    "fanFavouriteDiscoveryScore": 13.8019,
+    "fanFavouriteDiscoveryPercentile": 14.956
   }
 }

@@ -1,38 +1,21 @@
 {
   "id": 109310,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Hell Train",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "One day, when Jin-Woo Lim opens his eyes, he finds himself trapped in a station he has never seen before with no exit. There, he meets another survivor, Seo-Yeon, and while searching for the exit together, he is attacked by monsters. At a critical moment, he is saved by another survivor, Sang-Jun, and they travel together, but while searching for the exit, he is seriously injured by a monster and gradually transforms into a monster. \n\nWill they be able to escape the station alive?\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzIvMy8zL2QvYi9lLzMvOTE0Zi80MGY0L2E2ODYvYzk1YTE4ODEyOTEy",
   "total_chapters": "40",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2025,
   "published": {
     "start_date": "2025-03-20",
     "end_date": "2025-12-30",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-12T22:57:19.065Z",
   "authors": [
     "yamka"
@@ -41,45 +24,20 @@
     "Seon-Hui Kim"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/109310",
+    "mangabaka": "https://mangabaka.org/series/109310",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 190949,
-      "rating": 2.8,
-      "rating_normalized": 28
+      "rating": 28,
+      "url": "https://anilist.co/manga/190949"
     },
-    "anime_planet": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "animeplanet": null,
+    "mangaupdates": {
       "id": "gj5ggel",
-      "rating": 6.37,
-      "rating_normalized": 64
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 64,
+      "url": "https://www.mangaupdates.com/series/gj5ggel"
     }
   },
   "tag_ids": [
@@ -98,16 +56,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 16.8819,
-    "fanFavouriteDiscoveryScore": 13.8251,
-    "fanFavouriteDiscoveryPercentile": 15.1131
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 17.2933,
-    "fanFavouriteDiscoveryScore": 14.3105,
-    "fanFavouriteDiscoveryPercentile": 15.4916
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 17.2282,
+    "fanFavouriteDiscoveryScore": 14.1592,
+    "fanFavouriteDiscoveryPercentile": 15.3996
   }
 }

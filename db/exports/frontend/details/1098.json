@@ -1,41 +1,21 @@
 {
   "id": 1098,
-<<<<<<< HEAD
-  "display_title": "Beacon of Dawn",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
-  "display_title": "Beacon of Dawn",
+  "display_title": "Lantern of Dawn",
   "description": "Sergeant ‘Bucky’, a war hero belonging to the ‘Empire of the Sun’. He serves as an example to the imperial soldiers through his loyal loyalty to the emperor and his excellent martial arts, but in fact, his ultimate goal is to take revenge on the emperor by causing the downfall of the empire. Can Bucky achieve revenge against a massive empire? \n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzEvZS8xLzcvZC84LzUvNjYwZC80OTRiLzg5ZDAvMzgyZjk5MTc4OWY5",
   "total_chapters": "58",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2024,
   "published": {
     "start_date": "2024-03-05",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T11:12:39.174Z",
   "authors": [
     "Gook"
@@ -44,45 +24,24 @@
     "Gook"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1098",
+    "mangabaka": "https://mangabaka.org/series/1098",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 177795,
-      "rating": 7.2,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://anilist.co/manga/177795"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "beacon-of-dawn",
-      "rating": 3.8,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/beacon-of-dawn"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "1nu634j",
-      "rating": 6.05,
-      "rating_normalized": 61
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 61,
+      "url": "https://www.mangaupdates.com/series/1nu634j"
     }
   },
   "tag_ids": [
@@ -101,18 +60,10 @@
     "meanScore": 72
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.0101,
-    "fanRatioPercentile": 44.1027,
-    "popularityPercentile": 65.6727,
-    "fanFavouriteDiscoveryScore": 43.1434,
-    "fanFavouriteDiscoveryPercentile": 48.8378
-=======
     "fanFavouriteRaw": 1.0076,
-    "fanRatioPercentile": 44.3686,
-    "popularityPercentile": 66.4171,
-    "fanFavouriteDiscoveryScore": 43.4603,
-    "fanFavouriteDiscoveryPercentile": 48.8194
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 44.1756,
+    "popularityPercentile": 65.8781,
+    "fanFavouriteDiscoveryScore": 43.2306,
+    "fanFavouriteDiscoveryPercentile": 48.79
   }
 }

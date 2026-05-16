@@ -1,38 +1,21 @@
 {
   "id": 115395,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Sleepy Town Escapades",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Larry is a comic senile old man, tending to his daily life. He needs plenty of help, but where could he possibly find it?\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE2Mjg4Ni1mcXpCQmRLa0xkOTguanBn",
   "total_chapters": "60",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-08-22",
     "end_date": "2021-08-28",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-13T21:04:30.748Z",
   "authors": [
     "Cocodor"
@@ -41,45 +24,24 @@
     "Seoni"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115395",
+    "mangabaka": "https://mangabaka.org/series/115395",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 162886,
-      "rating": 4.6,
-      "rating_normalized": 46
+      "rating": 46,
+      "url": "https://anilist.co/manga/162886"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "sleepy-town-escapades",
       "rating": null,
-      "rating_normalized": null
+      "url": "https://www.anime-planet.com/manga/sleepy-town-escapades"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "ygkdfvu",
-      "rating": 5.82,
-      "rating_normalized": 58
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 58,
+      "url": "https://www.mangaupdates.com/series/ygkdfvu"
     }
   },
   "tag_ids": [
@@ -110,21 +72,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 105,
+    "favourites": 2,
+    "meanScore": 46
   },
   "analytics": {
-<<<<<<< HEAD
     "fanFavouriteRaw": 1.9048,
-    "fanRatioPercentile": 67.2458,
-    "popularityPercentile": 40.9799,
-    "fanFavouriteDiscoveryScore": 57.2761,
-    "fanFavouriteDiscoveryPercentile": 65.4457
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 67.3722,
+    "popularityPercentile": 41.2886,
+    "fanFavouriteDiscoveryScore": 57.6006,
+    "fanFavouriteDiscoveryPercentile": 65.8237
   }
 }

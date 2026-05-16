@@ -1,41 +1,21 @@
 {
   "id": 111622,
-<<<<<<< HEAD
-  "display_title": "It's a Hairy Day",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Tales of the Feral Maidens",
   "description": "After botching a job interview, a man climbs a mountain to end it all, only to wake up in a world of half-human, half-animal creatures. Caught between disbelief and temptation, he must navigate this strange new reality.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4NzQ2Ny1lZjZMb0U3Y24zQ0guanBn",
   "total_chapters": "8",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2025,
   "published": {
     "start_date": "2025-01-14",
     "end_date": "2025-02-11",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-15T20:28:34.550Z",
   "authors": [
     "Su-Hwa"
@@ -44,45 +24,24 @@
     "Taeritaeri"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111622",
+    "mangabaka": "https://mangabaka.org/series/111622",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 187467,
-      "rating": 6.3,
-      "rating_normalized": 63
+      "rating": 63,
+      "url": "https://anilist.co/manga/187467"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "tales-of-the-feral-maidens",
-      "rating": 3.8,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/tales-of-the-feral-maidens"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "cvx4zia",
-      "rating": 5.79,
-      "rating_normalized": 58
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 58,
+      "url": "https://www.mangaupdates.com/series/cvx4zia"
     }
   },
   "tag_ids": [
@@ -118,16 +77,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.3121,
-<<<<<<< HEAD
-    "fanRatioPercentile": 76.0351,
-    "popularityPercentile": 49.957,
-    "fanFavouriteDiscoveryScore": 70.248,
-    "fanFavouriteDiscoveryPercentile": 78.4848
-=======
-    "fanRatioPercentile": 76.4953,
-    "popularityPercentile": 50.6458,
-    "fanFavouriteDiscoveryScore": 70.9746,
-    "fanFavouriteDiscoveryPercentile": 79.1937
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 76.1264,
+    "popularityPercentile": 50.2451,
+    "fanFavouriteDiscoveryScore": 70.4596,
+    "fanFavouriteDiscoveryPercentile": 78.702
   }
 }

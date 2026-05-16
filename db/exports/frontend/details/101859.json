@@ -1,38 +1,21 @@
 {
   "id": 101859,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Mad Dog: Side Story",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Side story chapters for Mad Dog (Haribo).",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3OTY5Mi11T0lQclYwQmpFZWYuanBn",
   "total_chapters": "12",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2024,
   "published": {
     "start_date": "2024-02-15",
     "end_date": "2024-05-23",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T05:28:47.416Z",
   "authors": [
     "Haribo"
@@ -41,46 +24,21 @@
     "Haribo"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/101859",
+    "mangabaka": "https://mangabaka.org/series/101859",
     "read_en": "https://www.lezhinus.com/en/comic/maddog_adult"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 179692,
-      "rating": 6.7,
-      "rating_normalized": 67
+      "rating": 67,
+      "url": "https://anilist.co/manga/179692"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "mad-dog-side-story",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/mad-dog-side-story"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": 170365,
-      "rating": 7.02,
-      "rating_normalized": 70
-    },
-    "shikimori": {
-      "id": 170365,
-      "rating": 7.04,
-      "rating_normalized": 70
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     288,
@@ -105,18 +63,10 @@
     "meanScore": 67
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.5332,
-    "fanRatioPercentile": 57.9244,
-    "popularityPercentile": 72.7088,
-    "fanFavouriteDiscoveryScore": 57.2166,
-    "fanFavouriteDiscoveryPercentile": 65.4144
-=======
     "fanFavouriteRaw": 1.5306,
-    "fanRatioPercentile": 58.2641,
-    "popularityPercentile": 73.5418,
-    "fanFavouriteDiscoveryScore": 57.5993,
-    "fanFavouriteDiscoveryPercentile": 65.7178
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 58.0344,
+    "popularityPercentile": 72.8659,
+    "fanFavouriteDiscoveryScore": 57.3343,
+    "fanFavouriteDiscoveryPercentile": 65.4579
   }
 }

@@ -1,41 +1,21 @@
 {
   "id": 1103,
-<<<<<<< HEAD
-  "display_title": "Game Choegang Troller",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "World's Strongest Troll",
   "description": "Welcome to Arcadia! The world's most plausible virtual reality game created by three major conglomerates, Ajin Electrons, Sillicoff Industries, and Argos Corporation. Join Jaeyeong, a legendary gamer who goes by the ID Dex, on a chaotic adventure as he hops in the capsule Dreamer to access the fantasy world of Arcadia! Are you ready? \n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzEvYy8yLzIvNy8wLzgvMzYwNi80ZmY3L2I0Y2EvYTQ4YTI4NzY3Mjc1",
   "total_chapters": "182",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2022,
   "published": {
     "start_date": "2022-10-26",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T09:08:09.771Z",
   "authors": [
     "Gunmandu Meokja",
@@ -45,50 +25,24 @@
     "YATO"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1103",
+    "mangabaka": "https://mangabaka.org/series/1103",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=5315"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 159121,
-      "rating": 7.1,
-      "rating_normalized": 71
+      "rating": 71,
+      "url": "https://anilist.co/manga/159121"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "worlds-strongest-troll",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/worlds-strongest-troll"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 65731,
-      "rating": 7.473999999999999,
-      "rating_normalized": 75
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "3aicwol",
-<<<<<<< HEAD
-      "rating": 7.11,
-      "rating_normalized": 71
-    },
-    "my_anime_list": {
-      "id": 153853,
-      "rating": 7.2,
-      "rating_normalized": 72
-    },
-    "shikimori": {
-      "id": 153853,
-      "rating": 7.24,
-      "rating_normalized": 72
-=======
       "rating": 70,
       "url": "https://www.mangaupdates.com/series/3aicwol"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
     }
   },
   "tag_ids": [
@@ -114,18 +68,10 @@
     "meanScore": 71
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 2.2863,
-    "fanRatioPercentile": 75.5263,
-    "popularityPercentile": 96.8929,
-    "fanFavouriteDiscoveryScore": 75.402,
-    "fanFavouriteDiscoveryPercentile": 83.1964
-=======
     "fanFavouriteRaw": 2.2839,
-    "fanRatioPercentile": 75.9029,
-    "popularityPercentile": 97.3097,
-    "fanFavouriteDiscoveryScore": 75.7822,
-    "fanFavouriteDiscoveryPercentile": 83.6446
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 75.5661,
+    "popularityPercentile": 96.9107,
+    "fanFavouriteDiscoveryScore": 75.4419,
+    "fanFavouriteDiscoveryPercentile": 83.2698
   }
 }

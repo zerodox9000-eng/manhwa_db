@@ -1,38 +1,21 @@
 {
   "id": 114299,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Fatal Lessons in this Pandemic",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Yu-Chan, who's shy when it comes to girls, has to tutor a curious little girl. Little does he know that he'll be teaching her some other things too.\n\n(Source: Toomics, edited)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEzOTI1Ny14RklHQnUwZ3k5V0YuanBn",
   "total_chapters": "140",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-08-07",
     "end_date": "2024-02-16",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T15:58:30.266Z",
   "authors": [
     "LObeam"
@@ -41,45 +24,24 @@
     "Rodong"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114299",
+    "mangabaka": "https://mangabaka.org/series/114299",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 139257,
-      "rating": 7.1,
-      "rating_normalized": 71
+      "rating": 71,
+      "url": "https://anilist.co/manga/139257"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "fatal-lessons-in-this-pandemic",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/fatal-lessons-in-this-pandemic"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 64314,
-      "rating": 7.3340000000000005,
-      "rating_normalized": 73
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "o07eqnj",
-      "rating": 7.04,
-      "rating_normalized": 70
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 70,
+      "url": "https://www.mangaupdates.com/series/o07eqnj"
     }
   },
   "tag_ids": [
@@ -140,18 +102,10 @@
     "meanScore": 71
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 4.4236,
-    "fanRatioPercentile": 94.8423,
-    "popularityPercentile": 95.2101,
-    "fanFavouriteDiscoveryScore": 94.6627,
-    "fanFavouriteDiscoveryPercentile": 97.5816
-=======
     "fanFavouriteRaw": 4.4216,
-    "fanRatioPercentile": 95.1131,
-    "popularityPercentile": 95.7137,
-    "fanFavouriteDiscoveryScore": 94.9404,
-    "fanFavouriteDiscoveryPercentile": 97.8939
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 94.8175,
+    "popularityPercentile": 95.2377,
+    "fanFavouriteDiscoveryScore": 94.6384,
+    "fanFavouriteDiscoveryPercentile": 97.5877
   }
 }

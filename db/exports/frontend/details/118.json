@@ -1,38 +1,21 @@
 {
   "id": 118,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Upset",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Jin-geon, who entered a prestigious high school for basketball, becomes frustrated when he sees his friend playing as the team's ace on the bench, but he cannot give up basketball, so he transfers to Siwoon High School. The problem is that Siwoon High School's basketball team is the worst team in the country, having lost 17 games in just two years since its founding. The sweaty challenge of the last place teams begins! \n\n(Source: Naver Webtoon, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzYvNC84L2UvMy85L2UvN2MxMS80NjNkL2IzODMvNTZkZWE1OGVhNzJj",
   "total_chapters": "14",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "hiatus",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2025,
   "published": {
     "start_date": "2025-01-08",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-13T07:45:24.067Z",
   "authors": [
     "Turnover"
@@ -41,45 +24,24 @@
     "Turnover"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/118",
+    "mangabaka": "https://mangabaka.org/series/118",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 187598,
-      "rating": 7.6,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://anilist.co/manga/187598"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "upset",
       "rating": null,
-      "rating_normalized": null
+      "url": "https://www.anime-planet.com/manga/upset"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "43ayhml",
-      "rating": 6.33,
-      "rating_normalized": 63
-    },
-    "my_anime_list": {
-      "id": 178237,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 178237,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/43ayhml"
     }
   },
   "tag_ids": [
@@ -101,16 +63,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.4493,
-<<<<<<< HEAD
-    "fanRatioPercentile": 55.8504,
-    "popularityPercentile": 33.709,
-    "fanFavouriteDiscoveryScore": 42.3415,
-    "fanFavouriteDiscoveryPercentile": 47.7812
-=======
-    "fanRatioPercentile": 56.2567,
-    "popularityPercentile": 34.3233,
-    "fanFavouriteDiscoveryScore": 43.1706,
-    "fanFavouriteDiscoveryPercentile": 48.5068
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 55.9956,
+    "popularityPercentile": 34.044,
+    "fanFavouriteDiscoveryScore": 42.7362,
+    "fanFavouriteDiscoveryPercentile": 48.1675
   }
 }

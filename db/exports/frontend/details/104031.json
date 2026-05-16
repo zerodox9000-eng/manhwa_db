@@ -1,38 +1,21 @@
 {
   "id": 104031,
-<<<<<<< HEAD
-  "display_title": "보스 인 스쿨 시즌 3",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-=======
   "state": "active",
   "type": "manhwa",
-  "display_title": "Boss in School Season 3",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+  "display_title": "Unknown Title",
   "description": null,
-  "cover": null,
-  "total_chapters": null,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3MDgwNC1CMFZDbGJCU2tCUWQuanBn",
+  "total_chapters": "81",
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2021,
   "published": {
     "start_date": "2021-09-19",
     "end_date": "2023-03-10",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-09T06:34:16.629Z",
   "authors": [
     "Hun-Yeong Lee"
@@ -41,46 +24,21 @@
     "Ui-Gwon Kim"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/104031",
+    "mangabaka": "https://mangabaka.org/series/104031",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 170804,
-      "rating": 7.5,
-      "rating_normalized": 75
+      "rating": 75,
+      "url": "https://anilist.co/manga/170804"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "boss-in-school-season-3",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/boss-in-school-season-3"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     521,
@@ -100,16 +58,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.8072,
-<<<<<<< HEAD
-    "fanRatioPercentile": 64.9761,
-    "popularityPercentile": 69.8756,
-    "fanFavouriteDiscoveryScore": 63.9739,
-    "fanFavouriteDiscoveryPercentile": 72.4427
-=======
-    "fanRatioPercentile": 65.3723,
-    "popularityPercentile": 70.6541,
-    "fanFavouriteDiscoveryScore": 64.4264,
-    "fanFavouriteDiscoveryPercentile": 72.5792
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 65.1311,
+    "popularityPercentile": 70.0335,
+    "fanFavouriteDiscoveryScore": 64.1395,
+    "fanFavouriteDiscoveryPercentile": 72.4691
   }
 }

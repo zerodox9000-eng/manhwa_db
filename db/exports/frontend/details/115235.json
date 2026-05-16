@@ -1,38 +1,21 @@
 {
   "id": 115235,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Repeat Student",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "\"I just wanted to be a student... where did it all go wrong?\"\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1OTUyNS1LRFYwVTFUUzJ5VXEuanBn",
   "total_chapters": "50",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2019,
   "published": {
     "start_date": "2019-05-06",
     "end_date": "2020-03-09",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T05:20:22.259Z",
   "authors": [
     "Danbi Team"
@@ -41,45 +24,24 @@
     "Danbi Team"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115235",
+    "mangabaka": "https://mangabaka.org/series/115235",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 159525,
-      "rating": 4.7,
-      "rating_normalized": 47
+      "rating": 47,
+      "url": "https://anilist.co/manga/159525"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-repeat-student",
-      "rating": 3.3,
-      "rating_normalized": 66
+      "rating": 66,
+      "url": "https://www.anime-planet.com/manga/the-repeat-student"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "jpgwv2o",
-      "rating": 5.6,
-      "rating_normalized": 56
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 56,
+      "url": "https://www.mangaupdates.com/series/jpgwv2o"
     }
   },
   "tag_ids": [
@@ -95,21 +57,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 97,
+    "favourites": 1,
+    "meanScore": 47
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.0417,
-    "fanRatioPercentile": 44.9793,
-    "popularityPercentile": 39.2111,
-    "fanFavouriteDiscoveryScore": 37.4294,
-    "fanFavouriteDiscoveryPercentile": 41.6217
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanFavouriteRaw": 1.0309,
+    "fanRatioPercentile": 44.9693,
+    "popularityPercentile": 39.7479,
+    "fanFavouriteDiscoveryScore": 37.6979,
+    "fanFavouriteDiscoveryPercentile": 41.88
   }
 }

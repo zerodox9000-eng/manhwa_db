@@ -1,41 +1,21 @@
 {
   "id": 1097,
-<<<<<<< HEAD
-  "display_title": "Am I Cute?",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "My Brother and His Gift",
   "description": "After losing his parents in a tragic car crash, college student Lee Si-Hyuk is left alone to raise his baby brother, Si-Ha. In order to do so, Si-Hyuk decides to follow in his father's footsteps and become a translator. While working to apply for the job, he suddenly finds himself knowledgeable about things he's never learned and starts to gain recognition as a translation prodigy! But even with his mysterious new ability, can Si-Hyuk really balance work and school, all while raising a 3-year-old?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4NjY4OC1hNVdjRmVoMHpjaWYuanBn",
   "total_chapters": "83",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-12-24",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T07:27:12.542Z",
   "authors": [
     "Geuryu",
@@ -45,45 +25,24 @@
     "Gae-Jeok"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1097",
+    "mangabaka": "https://mangabaka.org/series/1097",
     "read_en": "https://tapas.io/series/my-brother-and-his-gift/info"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 186688,
-      "rating": 7.4,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://anilist.co/manga/186688"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "my-brother-and-his-gift",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/my-brother-and-his-gift"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 73868,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "9hsooys",
-      "rating": 6.86,
-      "rating_normalized": 69
-    },
-    "my_anime_list": {
-      "id": 172070,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 172070,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 69,
+      "url": "https://www.mangaupdates.com/series/9hsooys"
     }
   },
   "tag_ids": [
@@ -114,18 +73,10 @@
     "meanScore": 74
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.4842,
-    "fanRatioPercentile": 56.6721,
-    "popularityPercentile": 71.3156,
-    "fanFavouriteDiscoveryScore": 55.8955,
-    "fanFavouriteDiscoveryPercentile": 63.8021
-=======
     "fanFavouriteRaw": 1.4815,
-    "fanRatioPercentile": 57.0136,
-    "popularityPercentile": 72.1678,
-    "fanFavouriteDiscoveryScore": 56.2852,
-    "fanFavouriteDiscoveryPercentile": 64.2369
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 56.7582,
+    "popularityPercentile": 71.5119,
+    "fanFavouriteDiscoveryScore": 55.9929,
+    "fanFavouriteDiscoveryPercentile": 63.9639
   }
 }

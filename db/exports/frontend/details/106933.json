@@ -1,38 +1,21 @@
 {
   "id": 106933,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Monster Monster Monster!",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "I have to defeat the great monster! ???: I'm 8 years old? An exorcism boys' manga featuring the cute and soft priestess Sea and the gloomy exorcist Shio!\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2UvNi8zLzcvNC9iLzIvOWFiOS80ZDJhL2E0ZTYvM2I3NWY0NDU2YjEy",
   "total_chapters": "30",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2025,
   "published": {
     "start_date": "2025-03-28",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-15T07:24:28.258Z",
   "authors": [
     "Pilwon"
@@ -41,45 +24,24 @@
     "Studio Hohoee"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/106933",
+    "mangabaka": "https://mangabaka.org/series/106933",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 189285,
-      "rating": 6.1,
-      "rating_normalized": 61
+      "rating": 61,
+      "url": "https://anilist.co/manga/189285"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "yokai-frenzy",
       "rating": null,
-      "rating_normalized": null
+      "url": "https://www.anime-planet.com/manga/yokai-frenzy"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "w3sraik",
-      "rating": 6.21,
-      "rating_normalized": 62
-    },
-    "my_anime_list": {
-      "id": 180524,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 180524,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 62,
+      "url": "https://www.mangaupdates.com/series/w3sraik"
     }
   },
   "tag_ids": [
@@ -106,16 +68,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.6316,
-<<<<<<< HEAD
-    "fanRatioPercentile": 81.2476,
-    "popularityPercentile": 42.553,
-    "fanFavouriteDiscoveryScore": 70.4859,
-    "fanFavouriteDiscoveryPercentile": 78.6726
-=======
-    "fanRatioPercentile": 81.6948,
-    "popularityPercentile": 43.1427,
-    "fanFavouriteDiscoveryScore": 71.3269,
-    "fanFavouriteDiscoveryPercentile": 79.4652
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 81.3011,
+    "popularityPercentile": 42.8371,
+    "fanFavouriteDiscoveryScore": 70.7515,
+    "fanFavouriteDiscoveryPercentile": 78.9199
   }
 }

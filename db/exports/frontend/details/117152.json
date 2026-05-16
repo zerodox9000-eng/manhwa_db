@@ -1,41 +1,21 @@
 {
   "id": 117152,
-<<<<<<< HEAD
-  "display_title": "It's Not The First Time",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Not the First Time",
   "description": "It's been three years since Yeong-in and Seonghyeok parted ways. So why is Seonghyeok approaching her now -- gentler, and more intense than ever? Will their reunion end differently than before? Can they fill the emptiness in each other's hearts?\n\n(Source: WEBTOONS)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2IvNS8yL2UvYy83LzAvYThkNC80ZWVhL2I4NGEvZjhjMDg1OGIwODg1",
   "total_chapters": "60",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2025,
   "published": {
     "start_date": "2025-03-24",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T12:14:30.439Z",
   "authors": [
     "Byeolgyu",
@@ -45,45 +25,24 @@
     "Dongtang"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/117152",
+    "mangabaka": "https://mangabaka.org/series/117152",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8385"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 188901,
-      "rating": 7.6,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://anilist.co/manga/188901"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "not-the-first-time",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/not-the-first-time"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 76276,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "t0d3t4m",
-      "rating": 6.49,
-      "rating_normalized": 65
-    },
-    "my_anime_list": {
-      "id": 185610,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 185610,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 65,
+      "url": "https://www.mangaupdates.com/series/t0d3t4m"
     }
   },
   "tag_ids": [
@@ -107,16 +66,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.25,
-<<<<<<< HEAD
-    "fanRatioPercentile": 50.4187,
-    "popularityPercentile": 48.5247,
-    "fanFavouriteDiscoveryScore": 46.1362,
-    "fanFavouriteDiscoveryPercentile": 52.9076
-=======
-    "fanRatioPercentile": 50.8104,
-    "popularityPercentile": 49.1567,
-    "fanFavouriteDiscoveryScore": 46.6981,
-    "fanFavouriteDiscoveryPercentile": 53.2538
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 50.5564,
+    "popularityPercentile": 48.8055,
+    "fanFavouriteDiscoveryScore": 46.3532,
+    "fanFavouriteDiscoveryPercentile": 53.0231
   }
 }

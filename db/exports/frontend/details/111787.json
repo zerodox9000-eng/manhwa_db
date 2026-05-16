@@ -1,38 +1,21 @@
 {
   "id": 111787,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Spore",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "One day, an unidentified flying object appears in the sky along with unknown insect-like monsters. A normal high school student, Seung-ho Yun, is trying to survive as well as find his family. Along the way, he is aided by a message that tells him the future that only appears in his head. As he moves on with that slight advantage, he finds out that there are others who are getting the same message as him. Will he be able to find his family? And where are the messages in his head coming from? \n\n(Source: WEBTOON)\n\n*Note: Includes one extra chapter.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zL2QvYi84L2YvNi9mLzYvOThjZS80ZjRjLzhlODkvYzMyNThmMTYyOTVi",
   "total_chapters": "98",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-12-24",
     "end_date": "2023-06-08",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T13:59:06.594Z",
   "authors": [
     "Kang Lee"
@@ -41,45 +24,24 @@
     "Kang Lee"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111787",
+    "mangabaka": "https://mangabaka.org/series/111787",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=5895"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 176759,
-      "rating": 6.2,
-      "rating_normalized": 62
+      "rating": 62,
+      "url": "https://anilist.co/manga/176759"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "spore",
-      "rating": 3.8,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/spore"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "keryn62",
-      "rating": 6.47,
-      "rating_normalized": 65
-    },
-    "my_anime_list": {
-      "id": 167226,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 167226,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 65,
+      "url": "https://www.mangaupdates.com/series/keryn62"
     }
   },
   "tag_ids": [
@@ -114,16 +76,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.9091,
-<<<<<<< HEAD
-    "fanRatioPercentile": 41.5121,
-    "popularityPercentile": 54.7546,
-    "fanFavouriteDiscoveryScore": 39.3393,
-    "fanFavouriteDiscoveryPercentile": 43.9305
-=======
-    "fanRatioPercentile": 41.9334,
-    "popularityPercentile": 55.3764,
-    "fanFavouriteDiscoveryScore": 39.8438,
-    "fanFavouriteDiscoveryPercentile": 44.3357
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 41.7244,
+    "popularityPercentile": 54.9607,
+    "fanFavouriteDiscoveryScore": 39.5758,
+    "fanFavouriteDiscoveryPercentile": 44.2222
   }
 }

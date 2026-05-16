@@ -24,67 +24,7 @@ if (!fs.existsSync(TAGS_OUTPUT)) {
   );
 }
 
-function getTitles(series) {
 
-  const titles =
-    series.titles || [];
-
-  const englishTitles =
-    titles.filter(
-      t => t.language === "en"
-    );
-
-  const nativeTitles =
-    titles.filter(
-      t =>
-        t.language === "ko" ||
-        t.language === "ja" ||
-        t.language === "zh"
-    );
-
-  const romajiTitles =
-    titles.filter(
-      t =>
-        t.language === "ko-Latn" ||
-        t.language === "ja-Latn"
-    );
-
-  return {
-
-    titles_en:
-      englishTitles.map(t => ({
-        title: t.title,
-        is_primary:
-          t.is_primary || false,
-        traits:
-          t.traits || []
-      })),
-
-    titles_native:
-      nativeTitles.map(t => ({
-        language:
-          t.language,
-        title:
-          t.title,
-        is_primary:
-          t.is_primary || false,
-        traits:
-          t.traits || []
-      })),
-
-    titles_romaji:
-      romajiTitles.map(t => ({
-        language:
-          t.language,
-        title:
-          t.title,
-        is_primary:
-          t.is_primary || false,
-        traits:
-          t.traits || []
-      }))
-  };
-}
 
 function chooseDisplayTitle(
   titles_en = []
@@ -204,7 +144,12 @@ function getSource(series) {
 function normalizeSeries(series) {
 
   const titles =
-    getTitles(series);
+  series.titles || [];
+
+const englishTitles =
+  titles.filter(
+    t => t.language === "en"
+  );
 
   return {
 
@@ -216,10 +161,16 @@ function normalizeSeries(series) {
 
     display_title:
       chooseDisplayTitle(
-        titles.titles_en
+        englishTitles.map(t => ({
+
+          title: t.title,
+
+          traits:
+            t.traits || []
+        }))
       ),
 
-    ...titles,
+    
 
     description:
       series.description || null,
@@ -257,8 +208,7 @@ function normalizeSeries(series) {
     artists:
       series.artists || [],
 
-    publishers:
-      series.publishers || [],
+    
 
     links: {
 
@@ -362,6 +312,15 @@ async function main() {
 }
 
 main().catch(console.error);
+
+
+
+
+
+
+
+
+
 
 
 

@@ -126,68 +126,11 @@ async function main() {
       )
     );
 
-  const recoveredByYear = {};
+  
 
   const permanentFailures = [];
 
-  for (const batch of failedBatches) {
-
-    console.log(
-      `Retrying ${batch.year} batch ${batch.batch}`
-    );
-
-    for (const entry of batch.ids) {
-
-      const result =
-        await enrichOne(entry);
-
-      if (!recoveredByYear[batch.year]) {
-
-        recoveredByYear[
-          batch.year
-        ] = [];
-      }
-
-      recoveredByYear[
-        batch.year
-      ].push(result);
-
-      if (result.failed) {
-
-        permanentFailures.push(
-          result
-        );
-      }
-
-      await sleep(1200);
-    }
-  }
-
-  for (
-    const year of Object.keys(
-      recoveredByYear
-    )
-  ) {
-
-    const output = path.join(
-      OUTPUT_DIR,
-      `${year}.retry.json`
-    );
-
-    fs.writeFileSync(
-      output,
-      JSON.stringify(
-        recoveredByYear[year],
-        null,
-        2
-      ),
-      "utf-8"
-    );
-
-    console.log(
-      `Saved retry file ${year}`
-    );
-  }
+  
 
   fs.writeFileSync(
     path.join(
@@ -202,9 +145,42 @@ async function main() {
     "utf-8"
   );
 
-  console.log("Done.");
+  fs.writeFileSync(
+  FAILED_LOG,
+  "[]",
+  "utf-8"
+);
+
+console.log(
+  "Cleared failed log."
+);
+
+fs.writeFileSync(
+  FAILED_LOG,
+  JSON.stringify(
+    permanentFailures,
+    null,
+    2
+  ),
+  "utf-8"
+);
+
+console.log(
+  "Updated failed log."
+);
+
+console.log("Done.");
 }
 
 main().catch(console.error);
+
+
+
+
+
+
+
+
+
 
 

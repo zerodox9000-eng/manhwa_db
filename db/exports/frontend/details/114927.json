@@ -1,38 +1,21 @@
 {
   "id": 114927,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Suhee0",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Suhee is an average office worker. Her boss seems to hate her, and she shoulders the burden of looking after her two young siblings and aging father. After making an impromptu appearance on her brother's livestream, Suhee discovers her potential as an internet broadcaster. To improve her family’s financial situation, she dives into the exciting yet mysterious world of internet fame, as fans and industry figures show support for her. Her new career seems promising, but is everything too good to be true? Can Suhee lift her family out of poverty and change her life? \n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2UvNS9kLzIvZS8yLzgvOGY0Yi80NjBiLzk2NTgvNDg1MGFjZTdlMDVi",
   "total_chapters": "235",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-07-03",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T07:17:22.288Z",
   "authors": [
     "Saengilgibun"
@@ -41,45 +24,24 @@
     "Saengilgibun"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114927",
+    "mangabaka": "https://mangabaka.org/series/114927",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=4287"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 152306,
-      "rating": 6.1,
-      "rating_normalized": 61
+      "rating": 61,
+      "url": "https://anilist.co/manga/152306"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "suhee0",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/suhee0"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "9fyc67v",
-      "rating": 5.89,
-      "rating_normalized": 59
-    },
-    "my_anime_list": {
-      "id": 156233,
-      "rating": 6.84,
-      "rating_normalized": 68
-    },
-    "shikimori": {
-      "id": 156233,
-      "rating": 6.84,
-      "rating_normalized": 68
+      "rating": 59,
+      "url": "https://www.mangaupdates.com/series/9fyc67v"
     }
   },
   "tag_ids": [
@@ -109,16 +71,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.6749,
-<<<<<<< HEAD
-    "fanRatioPercentile": 81.7641,
-    "popularityPercentile": 69.3825,
-    "fanFavouriteDiscoveryScore": 80.4509,
-    "fanFavouriteDiscoveryPercentile": 87.6497
-=======
-    "fanRatioPercentile": 82.246,
-    "popularityPercentile": 70.1275,
-    "fanFavouriteDiscoveryScore": 81.0034,
-    "fanFavouriteDiscoveryPercentile": 88.2271
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 81.838,
+    "popularityPercentile": 69.5199,
+    "fanFavouriteDiscoveryScore": 80.5384,
+    "fanFavouriteDiscoveryPercentile": 87.7675
   }
 }

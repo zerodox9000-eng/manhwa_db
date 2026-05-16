@@ -1,41 +1,21 @@
 {
   "id": 109007,
-<<<<<<< HEAD
-  "display_title": "My Pet Maid",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "The Lovable Maid",
   "description": "Shunned by her noble father, and having gone mute after her mother’s death, Fey was just drifting through life until the empire invaded. Amidst the chaos, the terrifying Marquess Max Warren saves her life. Grateful, she enters his service as a maid. Despite the potential communication gap, the two have no problem understanding each other. Not so much for the other nobles though, who grow suspicious of their bond. Can this lovable maid prove them wrong and show that true charm goes beyond words? \n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE2NDQxNy1OcXJRYWFwMnlkQ1cuanBn",
   "total_chapters": "70",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-03-29",
     "end_date": "2024-12-25",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T09:16:52.476Z",
   "authors": [
     "Dogyeon"
@@ -44,45 +24,24 @@
     "JJ"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/109007",
+    "mangabaka": "https://mangabaka.org/series/109007",
     "read_en": "https://tapas.io/series/the-lovable-maid/info"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 164417,
-      "rating": 5.8,
-      "rating_normalized": 58
+      "rating": 58,
+      "url": "https://anilist.co/manga/164417"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-lovable-maid",
-      "rating": 3.5,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://www.anime-planet.com/manga/the-lovable-maid"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 73550,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "sw152lk",
-      "rating": 5.14,
-      "rating_normalized": 51
-    },
-    "my_anime_list": {
-      "id": 170868,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 170868,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 51,
+      "url": "https://www.mangaupdates.com/series/sw152lk"
     }
   },
   "tag_ids": [
@@ -104,16 +63,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2039,
-<<<<<<< HEAD
-    "fanRatioPercentile": 73.8515,
-    "popularityPercentile": 64.123,
-    "fanFavouriteDiscoveryScore": 72.0291,
-    "fanFavouriteDiscoveryPercentile": 80.0501
-=======
-    "fanRatioPercentile": 74.2904,
-    "popularityPercentile": 64.8375,
-    "fanFavouriteDiscoveryScore": 72.5607,
-    "fanFavouriteDiscoveryPercentile": 80.5594
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 73.9631,
+    "popularityPercentile": 64.3141,
+    "fanFavouriteDiscoveryScore": 72.1661,
+    "fanFavouriteDiscoveryPercentile": 80.1961
   }
 }

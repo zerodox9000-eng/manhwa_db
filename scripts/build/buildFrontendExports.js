@@ -147,14 +147,11 @@ for (const file of seriesFiles) {
       display_title:
         entry.display_title,
 
-      titles_en:
-        entry.titles_en || [],
+      
 
-      titles_native:
-        entry.titles_native || [],
+      
 
-      titles_romaji:
-        entry.titles_romaji || [],
+      
 
       description:
         entry.description || null,
@@ -189,8 +186,7 @@ for (const file of seriesFiles) {
       artists:
         entry.artists || [],
 
-      publishers:
-        entry.publishers || [],
+      
 
       links:
         entry.links || {},
@@ -630,6 +626,7 @@ gzipFile(
 console.log(
   "Gzip exports built."
 );
+
 
 
 

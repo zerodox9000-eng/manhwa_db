@@ -1,66 +1,47 @@
 {
   "id": 38410,
-  "display_title": "The Scent of the Sea",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
+  "state": "active",
+  "type": "manhwa",
+  "display_title": "The Spring Scent of the Sea",
+  "description": "A mermaid girl's parents get caught by humans so she sets out into the human world to find her parents.\n\n(Source: Toomics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2IvMC9iL2EvMi83L2EvYmE4NC80ZWIxL2IxYzAvMjA3ZDcwMzUyNjVi",
+  "total_chapters": "70",
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-01-09",
     "end_date": "2021-01-28",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
+  "last_updated_at": "2026-05-16T21:40:08.471Z",
+  "authors": [
+    "2L"
+  ],
+  "artists": [
+    "2L"
+  ],
   "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
+    "mangabaka": "https://mangabaka.org/series/38410",
+    "read_en": null
   },
   "source": {
     "anilist": {
       "id": 123607,
-      "rating": 1,
-      "rating_normalized": 10
+      "rating": 10,
+      "url": "https://anilist.co/manga/123607"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-spring-of-the-sea",
       "rating": null,
-      "rating_normalized": null
+      "url": "https://www.anime-planet.com/manga/the-spring-of-the-sea"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "vp3oanp",
-      "rating": 6.25,
-      "rating_normalized": 63
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/vp3oanp"
     }
   },
   "tag_ids": [
@@ -75,15 +56,15 @@
     428
   ],
   "stats": {
-    "popularity": 100,
+    "popularity": 101,
     "favourites": 1,
     "meanScore": 10
   },
   "analytics": {
-    "fanFavouriteRaw": 1,
-    "fanRatioPercentile": 43.8992,
-    "popularityPercentile": 40.0564,
-    "fanFavouriteDiscoveryScore": 36.9525,
-    "fanFavouriteDiscoveryPercentile": 41.019
+    "fanFavouriteRaw": 0.9901,
+    "fanRatioPercentile": 43.8643,
+    "popularityPercentile": 40.5182,
+    "fanFavouriteDiscoveryScore": 37.145,
+    "fanFavouriteDiscoveryPercentile": 41.1641
   }
 }

@@ -1,39 +1,22 @@
 {
   "id": 1016,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Surviving the Apocalypse",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "*“When the apocalypse comes, the world will be ridden with bloodshed and screams of anguish. In the end, none but ashes will remain.”* \n\nHe has been locked up in an underground prison his whole life. He does not know his name. He does not know when the world will end, nor if the world really even will end. The only thing he knows is that he has been imprisoned... by his own father. \n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzIvOS8yL2EvNS85LzMvMzcxZS80NjlmL2I4NTYvOTIxZjAzNGJmYmIy",
   "total_chapters": "81",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2024,
   "published": {
     "start_date": "2024-05-22",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-16T12:38:44.613Z",
+  "last_updated_at": "2026-05-16T19:44:06.533Z",
   "authors": [
     "Song"
   ],
@@ -41,45 +24,24 @@
     "Song"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1016",
+    "mangabaka": "https://mangabaka.org/series/1016",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=6678"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 181296,
-      "rating": 7.2,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://anilist.co/manga/181296"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "surviving-the-apocalypse",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/surviving-the-apocalypse"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 72462,
-      "rating": 7.07,
-      "rating_normalized": 71
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "yywj5xu",
-      "rating": 6.48,
-      "rating_normalized": 65
-    },
-    "my_anime_list": {
-      "id": 170732,
-      "rating": 7.26,
-      "rating_normalized": 73
-    },
-    "shikimori": {
-      "id": 170732,
-      "rating": 7.17,
-      "rating_normalized": 72
+      "rating": 65,
+      "url": "https://www.mangaupdates.com/series/yywj5xu"
     }
   },
   "tag_ids": [
@@ -103,18 +65,10 @@
     "meanScore": 72
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.9718,
-    "fanRatioPercentile": 68.7485,
-    "popularityPercentile": 94.2162,
-    "fanFavouriteDiscoveryScore": 68.6071,
-    "fanFavouriteDiscoveryPercentile": 77.0056
-=======
     "fanFavouriteRaw": 1.9681,
-    "fanRatioPercentile": 69.0086,
-    "popularityPercentile": 94.784,
-    "fanFavouriteDiscoveryScore": 68.8733,
-    "fanFavouriteDiscoveryPercentile": 77.2933
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 68.7962,
+    "popularityPercentile": 94.2495,
+    "fanFavouriteDiscoveryScore": 68.6551,
+    "fanFavouriteDiscoveryPercentile": 77.0602
   }
 }

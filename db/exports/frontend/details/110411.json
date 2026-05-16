@@ -1,41 +1,21 @@
 {
   "id": 110411,
-<<<<<<< HEAD
-  "display_title": "I Saw a Play",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "My Life Was but a Play",
   "description": "With her beauty, power, and the position of empress, Vionne Rosa Ellient seemingly had everything one could want. But in truth, she endlessly yearned for love before ultimately dying in misery. Now, after waking up again as her younger self, Vionne calmly assesses her situation and past memories to avoid marrying Crown Prince Sirius and meeting the same fate. As different choices lead to a change in relationships and a turn of events, will Vionne prevent this life from being another tragedy?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4OTM4NC1pUkFsT09WQ0VPU2EuanBn",
   "total_chapters": "45",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2025,
   "published": {
     "start_date": "2025-03-31",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T10:26:28.684Z",
   "authors": [
     "TanG",
@@ -45,45 +25,24 @@
     "Song-Gi"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/110411",
+    "mangabaka": "https://mangabaka.org/series/110411",
     "read_en": "https://tapas.io/series/my-life-was-but-a-play/info"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 189384,
-      "rating": 7.2,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://anilist.co/manga/189384"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "i-watched-a-play-unfold",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/i-watched-a-play-unfold"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 75459,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "2m22kah",
-      "rating": 5.03,
-      "rating_normalized": 50
-    },
-    "my_anime_list": {
-      "id": 182397,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 182397,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 50,
+      "url": "https://www.mangaupdates.com/series/2m22kah"
     }
   },
   "tag_ids": [
@@ -120,18 +79,10 @@
     "meanScore": 72
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 2.6403,
-    "fanRatioPercentile": 81.3102,
-    "popularityPercentile": 60.5228,
-    "fanFavouriteDiscoveryScore": 78.6249,
-    "fanFavouriteDiscoveryPercentile": 86.2487
-=======
     "fanFavouriteRaw": 2.6316,
-    "fanRatioPercentile": 81.6948,
-    "popularityPercentile": 61.2341,
-    "fanFavouriteDiscoveryScore": 79.1472,
-    "fanFavouriteDiscoveryPercentile": 86.6063
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 81.3011,
+    "popularityPercentile": 60.7657,
+    "fanFavouriteDiscoveryScore": 78.6681,
+    "fanFavouriteDiscoveryPercentile": 86.219
   }
 }

@@ -6,7 +6,7 @@
     "fetch": "node scripts/fetch/fullFetch.js",
     "normalize": "node scripts/normalize/normalizeSeries.js",
     "enrich": "node scripts/enrich/updateAniList.js",
-    "retry": "node scripts/utils/retryFailed.js",
+    "retry": "node scripts/enrich/retryFailed.js",
     "snapshot": "node scripts/snapshots/snapshotAniList.js",
     "build:frontend": "node scripts/build/buildFrontendExports.js",
     "daily": "npm run update && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend",

@@ -1,41 +1,21 @@
 {
   "id": 114214,
-<<<<<<< HEAD
-  "display_title": "Fox Play",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "The Fox Club",
   "description": "Meet Sangmok High’s Fox Club, home to the prettiest, wealthiest, and most popular girls in school. To ordinary Onyu Park, whose most extraordinary trait is being best friends with the gorgeous Chaeri Shin, the Foxes exist in a whole other world – or so she thinks – until she and Chaeri are suddenly thrown into the Fox Club headfirst! As if adjusting to high school wasn’t hard enough, the girls find themselves surrounded by prying eyes, rumors, catty schemes, and budding romance. Will Onyu and Chaeri’s friendship survive all of the drama and secrets? Who are the Foxes, really? And does Onyu have what it takes to become one of them? \n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzMvMC8yLzIvYy81LzMvOWFkOC80Yjk0LzhiZDUvOGFjZWE3MTcwM2I2",
   "total_chapters": "118",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-08-03",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T07:12:12.711Z",
   "authors": [
     "Hye-Jin Hwang"
@@ -44,45 +24,24 @@
     "Hye-Jin Hwang"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114214",
+    "mangabaka": "https://mangabaka.org/series/114214",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=4079"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 147581,
-      "rating": 7.5,
-      "rating_normalized": 75
+      "rating": 75,
+      "url": "https://anilist.co/manga/147581"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-fox-club",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/the-fox-club"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 64904,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "9iplzkr",
-      "rating": 7.04,
-      "rating_normalized": 70
-    },
-    "my_anime_list": {
-      "id": 148524,
-      "rating": 7.42,
-      "rating_normalized": 74
-    },
-    "shikimori": {
-      "id": 148524,
-      "rating": 7.42,
-      "rating_normalized": 74
+      "rating": 70,
+      "url": "https://www.mangaupdates.com/series/9iplzkr"
     }
   },
   "tag_ids": [
@@ -128,18 +87,10 @@
     "meanScore": 75
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 4.2978,
-    "fanRatioPercentile": 94.4118,
-    "popularityPercentile": 85.0121,
-    "fanFavouriteDiscoveryScore": 93.9947,
-    "fanFavouriteDiscoveryPercentile": 97.159
-=======
     "fanFavouriteRaw": 4.2912,
-    "fanRatioPercentile": 94.6689,
-    "popularityPercentile": 85.8988,
-    "fanFavouriteDiscoveryScore": 94.2803,
-    "fanFavouriteDiscoveryPercentile": 97.4825
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 94.3895,
+    "popularityPercentile": 85.114,
+    "fanFavouriteDiscoveryScore": 93.9761,
+    "fanFavouriteDiscoveryPercentile": 97.1675
   }
 }

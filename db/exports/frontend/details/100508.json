@@ -1,38 +1,21 @@
 {
   "id": 100508,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Shape of Your Love Side Stories",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Special chapters for The Shape of Your Love.",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3NzEzOS12ZmoyVzk2QzhnR28uanBn",
   "total_chapters": "8",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "erotica",
   "is_licensed": false,
-  "year": null,
+  "year": 2024,
   "published": {
     "start_date": "2024-02-09",
     "end_date": "2024-03-15",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T04:58:25.434Z",
   "authors": [
     "Nodeok Park"
@@ -41,46 +24,21 @@
     "Nodeok Park"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/100508",
+    "mangabaka": "https://mangabaka.org/series/100508",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 177139,
-      "rating": 7,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://anilist.co/manga/177139"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-shape-of-your-love-specials",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/the-shape-of-your-love-specials"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     107,
@@ -101,16 +59,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.3514,
-<<<<<<< HEAD
-    "fanRatioPercentile": 53.0954,
-    "popularityPercentile": 60.0376,
-    "fanFavouriteDiscoveryScore": 51.272,
-    "fanFavouriteDiscoveryPercentile": 59.5915
-=======
-    "fanRatioPercentile": 53.55,
-    "popularityPercentile": 60.6911,
-    "fanFavouriteDiscoveryScore": 51.8053,
-    "fanFavouriteDiscoveryPercentile": 60.0658
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 53.2643,
+    "popularityPercentile": 60.2443,
+    "fanFavouriteDiscoveryScore": 51.4654,
+    "fanFavouriteDiscoveryPercentile": 59.7774
   }
 }

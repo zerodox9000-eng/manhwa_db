@@ -1,38 +1,21 @@
 {
   "id": 1125,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Youth Diary",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "After overcoming a miserable life, she entered the university full of excitement. Da-Bom, who had countless dreams and desires about university, encountered a villain on her very first day... And it's somewhat awkward from the start! \n\n*\"Is my campus life going to be okay?!\"*\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzAvMi9kLzEvZS9mLzAvMzFkZC80ZTE3L2FmOTIvZjdiNTEwY2NlNGM2",
   "total_chapters": "77",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2022,
   "published": {
     "start_date": "2022-07-29",
     "end_date": "2024-01-12",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T08:00:19.087Z",
   "authors": [
     "Ssorim"
@@ -41,45 +24,24 @@
     "Ssorim"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1125",
+    "mangabaka": "https://mangabaka.org/series/1125",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 155442,
-      "rating": 7.5,
-      "rating_normalized": 75
+      "rating": 75,
+      "url": "https://anilist.co/manga/155442"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "youth-diary",
-      "rating": 3.8,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/youth-diary"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 70421,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "24o0bhk",
       "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": 179757,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 179757,
-      "rating": null,
-      "rating_normalized": null
+      "url": "https://www.mangaupdates.com/series/24o0bhk"
     }
   },
   "tag_ids": [
@@ -101,16 +63,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2764,
-<<<<<<< HEAD
-    "fanRatioPercentile": 75.3463,
-    "popularityPercentile": 73.468,
-    "fanFavouriteDiscoveryScore": 74.4814,
-    "fanFavouriteDiscoveryPercentile": 82.4528
-=======
-    "fanRatioPercentile": 75.7219,
-    "popularityPercentile": 74.2575,
-    "fanFavouriteDiscoveryScore": 74.9074,
-    "fanFavouriteDiscoveryPercentile": 82.9535
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 75.3949,
+    "popularityPercentile": 73.5896,
+    "fanFavouriteDiscoveryScore": 74.5381,
+    "fanFavouriteDiscoveryPercentile": 82.5928
   }
 }

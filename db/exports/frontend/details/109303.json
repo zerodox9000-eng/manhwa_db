@@ -1,38 +1,21 @@
 {
   "id": 109303,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Embroidering Sword Master",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "***Note:** This is part of [SSS Romance Collection](https://www.mangaupdates.com/series/nmxi6tk), this being the third story.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1uZWVkbGVwb2ludC1zd29yZG1hc3Rlci0xLndlYnA_dD0xNjkyODQyMzc1",
   "total_chapters": "7",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-12T10:37:14.756Z",
   "authors": [
     "Wolhet"
@@ -42,45 +25,20 @@
     "Lee Joohee"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/109303",
+    "mangabaka": "https://mangabaka.org/series/109303",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
-    "anilist": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_planet": {
+    "anilist": null,
+    "animeplanet": {
       "id": "the-needlepoint-swordmaster",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/the-needlepoint-swordmaster"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "jpywtwl",
-      "rating": 6.54,
-      "rating_normalized": 65
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 65,
+      "url": "https://www.mangaupdates.com/series/jpywtwl"
     }
   },
   "tag_ids": [

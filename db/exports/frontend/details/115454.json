@@ -1,38 +1,21 @@
 {
   "id": 115454,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Lost Girl",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Lany's caught up by the sins of her father's shortcomings. Can she escape her fate and survive in her new dire surroundings?\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE2NDQ5MC12aGJidGZrVGdyQ2cuanBn",
   "total_chapters": "30",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-05-22",
     "end_date": "2020-10-23",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T06:11:59.126Z",
   "authors": [
     "Angyeongseonbae"
@@ -41,45 +24,24 @@
     "Angyeongseonbae"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115454",
+    "mangabaka": "https://mangabaka.org/series/115454",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 164490,
-      "rating": 4.6,
-      "rating_normalized": 46
+      "rating": 46,
+      "url": "https://anilist.co/manga/164490"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-lost-girl",
-      "rating": 3.4,
-      "rating_normalized": 68
+      "rating": 68,
+      "url": "https://www.anime-planet.com/manga/the-lost-girl"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 75203,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "ftcty8x",
-      "rating": 5.88,
-      "rating_normalized": 59
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 59,
+      "url": "https://www.mangaupdates.com/series/ftcty8x"
     }
   },
   "tag_ids": [
@@ -100,16 +62,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2987,
-<<<<<<< HEAD
-    "fanRatioPercentile": 51.6631,
-    "popularityPercentile": 35.5874,
-    "fanFavouriteDiscoveryScore": 40.5896,
-    "fanFavouriteDiscoveryPercentile": 45.5036
-=======
-    "fanRatioPercentile": 52.1185,
-    "popularityPercentile": 36.2238,
-    "fanFavouriteDiscoveryScore": 41.4057,
-    "fanFavouriteDiscoveryPercentile": 46.2279
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 51.8559,
+    "popularityPercentile": 35.9038,
+    "fanFavouriteDiscoveryScore": 40.9695,
+    "fanFavouriteDiscoveryPercentile": 45.8953
   }
 }

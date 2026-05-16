@@ -1,38 +1,21 @@
 {
   "id": 114038,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Pheromone",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Tae-Gon, a chemistry graduate student, is surrounded by toxic professors and colleagues. But… it turns out that the perfume he made can make any women fall for him... How will Tae-Gon use this to get back at them?!\n\n(Source: DAYcomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEzNDEzOC1ybG1BTmVSS0JSbUcucG5n",
   "total_chapters": "55",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-05-08",
     "end_date": "2022-04-23",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T09:14:16.505Z",
   "authors": [
     "Cocodor"
@@ -41,45 +24,24 @@
     "Seok-Bae Moon"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114038",
+    "mangabaka": "https://mangabaka.org/series/114038",
     "read_en": "https://daycomics.com/comic/100964"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 134138,
-      "rating": 6.3,
-      "rating_normalized": 63
+      "rating": 63,
+      "url": "https://anilist.co/manga/134138"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "pheromone",
-      "rating": 3.4,
-      "rating_normalized": 68
+      "rating": 68,
+      "url": "https://www.anime-planet.com/manga/pheromone"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 63343,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "skpmxas",
-      "rating": 5.92,
-      "rating_normalized": 59
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 59,
+      "url": "https://www.mangaupdates.com/series/skpmxas"
     }
   },
   "tag_ids": [
@@ -126,21 +88,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 848,
+    "favourites": 21,
+    "meanScore": 63
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 2.4882,
-    "fanRatioPercentile": 78.9857,
-    "popularityPercentile": 78.7352,
-    "fanFavouriteDiscoveryScore": 78.3987,
-    "fanFavouriteDiscoveryPercentile": 85.9905
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanFavouriteRaw": 2.4764,
+    "fanRatioPercentile": 78.8655,
+    "popularityPercentile": 78.8888,
+    "fanFavouriteDiscoveryScore": 78.2868,
+    "fanFavouriteDiscoveryPercentile": 85.8221
   }
 }

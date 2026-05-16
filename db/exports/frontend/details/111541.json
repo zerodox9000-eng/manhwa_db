@@ -1,39 +1,22 @@
 {
   "id": 111541,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Creating Hidden Endings",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "After beating \"The Return of the D-Rank Hunter,\" the game, Seon-Woo wakes up as the game's NPC, kidnapped by the insomnia-ridden protagonist Jae-Hwi, who demands Seon-Woo become his Mentalist via a one-sided contract. To return to reality, Seon-Woo must unlock the game’s secret ending. Will he make it?\n\n(Source: Manta)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5MTA3MS1aRm4weG9nc3VpNTEuanBn",
   "total_chapters": "62",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2025,
   "published": {
     "start_date": "2025-04-18",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-16T11:31:31.999Z",
+  "last_updated_at": "2026-05-16T22:42:18.685Z",
   "authors": [
     "Homekeeper B",
     "Ilju"
@@ -42,45 +25,24 @@
     "Yono"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111541",
+    "mangabaka": "https://mangabaka.org/series/111541",
     "read_en": "https://manta.net/en/series/creating-hidden-endings?seriesId=3364"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 191071,
-      "rating": 7.2,
-      "rating_normalized": 72
+      "rating": 72,
+      "url": "https://anilist.co/manga/191071"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "creating-hidden-endings",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/creating-hidden-endings"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 75836,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "taikv6z",
-      "rating": 6.68,
-      "rating_normalized": 67
-    },
-    "my_anime_list": {
-      "id": 186063,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 186063,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 67,
+      "url": "https://www.mangaupdates.com/series/taikv6z"
     }
   },
   "tag_ids": [
@@ -118,18 +80,10 @@
     "meanScore": 72
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.3298,
-    "fanRatioPercentile": 52.4849,
-    "popularityPercentile": 76.9586,
-    "fanFavouriteDiscoveryScore": 52.0332,
-    "fanFavouriteDiscoveryPercentile": 60.3585
-=======
     "fanFavouriteRaw": 1.3263,
-    "fanRatioPercentile": 52.8507,
-    "popularityPercentile": 77.8939,
-    "fanFavouriteDiscoveryScore": 52.4296,
-    "fanFavouriteDiscoveryPercentile": 60.724
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 52.564,
+    "popularityPercentile": 77.1146,
+    "fanFavouriteDiscoveryScore": 52.1174,
+    "fanFavouriteDiscoveryPercentile": 60.47
   }
 }

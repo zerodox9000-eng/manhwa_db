@@ -52,6 +52,145 @@ function chunk(array, size) {
   return chunks;
 }
 
+async function enrichAdaptive(
+  batch,
+  year,
+  level = 0
+) {
+
+  const sizes =
+    [40, 10, 3, 1];
+
+  const delays =
+    [2500, 5000, 8000, 12000];
+
+  const size =
+    sizes[level] || 1;
+
+  const delay =
+    delays[level] || 2000;
+
+  const split =
+    chunk(batch, size);
+
+  let results = [];
+
+  for (const subBatch of split) {
+
+    try {
+
+      const query =
+        buildQuery(subBatch);
+
+      const data =
+        await client.request(query);
+
+      const mapped =
+        subBatch.map(
+          (entry, index) => {
+
+            const result =
+              data[`a${index}`];
+
+            return {
+
+              id: entry.id,
+
+              anilist:
+                result ? {
+
+                popularity:
+                  result.popularity || null,
+
+                favourites:
+                  result.favourites || null,
+
+                meanScore:
+                  result.meanScore || null
+
+              } : null
+            };
+          }
+        );
+
+      results.push(...mapped);
+
+      await sleep(delay);
+
+    } catch (error) {
+
+      console.log(
+  `Adaptive fallback level ${level + 1} failed (${year})`
+);
+
+console.log(
+  error.response?.errors ||
+  error.message ||
+  error
+);
+
+await sleep(
+  delays[level] || 12000
+);
+
+      if (level < 3) {
+
+        const recovered =
+          await enrichAdaptive(
+            subBatch,
+            year,
+            level + 1
+          );
+
+        if (
+  Array.isArray(recovered) &&
+  recovered.length > 0
+) {
+
+  results.push(...recovered);
+}
+
+      } else {
+
+        console.log(
+          `Permanent failure isolated`
+        );
+
+        const failed =
+          loadFailedLog();
+
+        failed.push({
+
+          year,
+
+          ids:
+            subBatch.map(
+              x => ({
+
+                mangabaka_id:
+                  x.id,
+
+                anilist_id:
+                  x.source
+                    ?.anilist
+                    ?.id || null,
+
+                title:
+                  x.display_title
+              })
+            )
+        });
+
+        saveFailedLog(failed);
+
+
+      }
+    }
+  }
+
+  return results;
+}
+
 function buildQuery(batch) {
 
   const fields = batch.map(
@@ -184,6 +323,8 @@ async function enrichBatch(
 
     saveFailedLog(failed);
 
+
+
     return batch.map(
       entry => ({
         id: entry.id,
@@ -222,32 +363,11 @@ async function processFile(file) {
     `AniList entries: ${validEntries.length}`
   );
 
-  const batches =
-    chunk(validEntries, 25);
-
-  let results = [];
-
-  for (
-    let i = 0;
-    i < batches.length;
-    i++
-  ) {
-
-    console.log(
-      `Batch ${i + 1}/${batches.length}`
+    const results =
+    await enrichAdaptive(
+      validEntries,
+      year
     );
-
-    const enriched =
-      await enrichBatch(
-        batches[i],
-        year,
-        i + 1
-      );
-
-    results.push(...enriched);
-
-    await sleep(2500);
-  }
 
   fs.writeFileSync(
     path.join(
@@ -280,6 +400,17 @@ async function main() {
 }
 
 main().catch(console.error);
+
+
+
+
+
+
+
+
+
+
+
 
 
 

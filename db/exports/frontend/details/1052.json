@@ -1,41 +1,21 @@
 {
   "id": 1052,
-<<<<<<< HEAD
-  "display_title": "Apocalypse-e Jib-eul Sumgim",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Hiding Out in an Apocalypse",
   "description": "Gyu Park is a survivor who predicted and prepared for the coming apocalypse. In this ruined world, he is willing to do anything and everything he can to protect the comforts of his bomb shelter. \n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2IvNC82L2MvZS82LzIvMDBlNS80MjZhL2E3YWYvMTQ0Mzk4ZTRkZmQz",
   "total_chapters": "94",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2024,
   "published": {
     "start_date": "2024-06-02",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T07:02:36.854Z",
   "authors": [
     "DD",
@@ -45,45 +25,24 @@
     "Ji-Hyeong Song"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1052",
+    "mangabaka": "https://mangabaka.org/series/1052",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=6469"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 184487,
-      "rating": 7.1,
-      "rating_normalized": 71
+      "rating": 71,
+      "url": "https://anilist.co/manga/184487"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "hiding-out-in-an-apocalypse",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/hiding-out-in-an-apocalypse"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 72867,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "utwj55g",
-      "rating": 6.22,
-      "rating_normalized": 62
-    },
-    "my_anime_list": {
-      "id": 170790,
-      "rating": 6.84,
-      "rating_normalized": 68
-    },
-    "shikimori": {
-      "id": 170790,
-      "rating": 6.84,
-      "rating_normalized": 68
+      "rating": 62,
+      "url": "https://www.mangaupdates.com/series/utwj55g"
     }
   },
   "tag_ids": [
@@ -114,18 +73,10 @@
     "meanScore": 71
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.9622,
-    "fanRatioPercentile": 68.6468,
-    "popularityPercentile": 85.5678,
-    "fanFavouriteDiscoveryScore": 68.3572,
-    "fanFavouriteDiscoveryPercentile": 76.7786
-=======
     "fanFavouriteRaw": 1.9594,
-    "fanRatioPercentile": 68.7701,
-    "popularityPercentile": 86.4582,
-    "fanFavouriteDiscoveryScore": 68.5006,
-    "fanFavouriteDiscoveryPercentile": 76.9313
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 68.555,
+    "popularityPercentile": 85.6665,
+    "fanFavouriteDiscoveryScore": 68.2681,
+    "fanFavouriteDiscoveryPercentile": 76.7411
   }
 }

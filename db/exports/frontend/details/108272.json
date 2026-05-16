@@ -1,38 +1,21 @@
 {
   "id": 108272,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "While Having a Nightmare",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000066591)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5MzY3OC1aNk1HenJTSEtDTDkuanBn",
   "total_chapters": "4",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "pornographic",
   "is_licensed": false,
-  "year": null,
+  "year": 2024,
   "published": {
     "start_date": "2024-11-30",
     "end_date": "2024-11-30",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T10:02:53.904Z",
   "authors": [
     "Chaegu"
@@ -41,45 +24,20 @@
     "Chaegu"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/108272",
+    "mangabaka": "https://mangabaka.org/series/108272",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 193678,
-      "rating": 4.7,
-      "rating_normalized": 47
+      "rating": 47,
+      "url": "https://anilist.co/manga/193678"
     },
-    "anime_planet": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "animeplanet": null,
+    "mangaupdates": {
       "id": "carbzfx",
-      "rating": 6.1,
-      "rating_normalized": 61
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 61,
+      "url": "https://www.mangaupdates.com/series/carbzfx"
     }
   },
   "tag_ids": [
@@ -121,16 +79,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 35.3839,
-    "fanFavouriteDiscoveryScore": 24.8554,
-    "fanFavouriteDiscoveryPercentile": 27.4634
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 35.9852,
-    "fanFavouriteDiscoveryScore": 25.5094,
-    "fanFavouriteDiscoveryPercentile": 28.0049
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 35.6782,
+    "fanFavouriteDiscoveryScore": 25.1798,
+    "fanFavouriteDiscoveryPercentile": 27.7099
   }
 }

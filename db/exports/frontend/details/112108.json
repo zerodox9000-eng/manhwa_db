@@ -1,38 +1,21 @@
 {
   "id": 112108,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "The Show",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Welcome to \"Mountain Loft.\" A reality TV show featuring 4 men and women aiming to win a million dollars. Oh, and anything goes!\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4MTM2NC1OYkVEZm5uQUM2TDguanBn",
   "total_chapters": "36",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2019,
   "published": {
     "start_date": "2019-05-14",
     "end_date": "2019-10-06",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-12T20:50:49.663Z",
   "authors": [
     "Gomjakga"
@@ -41,45 +24,24 @@
     "Butterheim"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/112108",
+    "mangabaka": "https://mangabaka.org/series/112108",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 181364,
-      "rating": 0.5,
-      "rating_normalized": 5
+      "rating": 5,
+      "url": "https://anilist.co/manga/181364"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-show",
       "rating": null,
-      "rating_normalized": null
+      "url": "https://www.anime-planet.com/manga/the-show"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "p9havsg",
-      "rating": 6.1,
-      "rating_normalized": 61
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 61,
+      "url": "https://www.mangaupdates.com/series/p9havsg"
     }
   },
   "tag_ids": [
@@ -98,16 +60,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 19.4725,
-    "fanFavouriteDiscoveryScore": 15.5273,
-    "fanFavouriteDiscoveryPercentile": 17.1167
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 19.9918,
-    "fanFavouriteDiscoveryScore": 16.1154,
-    "fanFavouriteDiscoveryPercentile": 17.573
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 19.8428,
+    "fanFavouriteDiscoveryScore": 15.894,
+    "fanFavouriteDiscoveryPercentile": 17.4072
   }
 }

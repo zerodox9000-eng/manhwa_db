@@ -1,39 +1,22 @@
 {
   "id": 114179,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Talk to Me",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Everyone considers me the purest girl to ever walk this planet. I'm viewed as the girliest of girls and no one dare thinks I would think about anything naughty. But that isn't always a good thing. I have my desires and I want to let it out! \n\n(Source: Lezhin US) \n\n*Note: Chapter count includes a prologue.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vODc0NjctZkpmRnR2M0tFbzF4LmpwZw",
   "total_chapters": "168",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2016,
   "published": {
     "start_date": "2016-03-20",
     "end_date": "2023-10-01",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-16T07:31:11.258Z",
+  "last_updated_at": "2026-05-16T19:04:38.244Z",
   "authors": [
     "Eunbyul"
   ],
@@ -41,45 +24,24 @@
     "Eunbyul"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114179",
+    "mangabaka": "https://mangabaka.org/series/114179",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 87467,
-      "rating": 7,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://anilist.co/manga/87467"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "talk-to-me",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/talk-to-me"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 39162,
-      "rating": 8.039,
-      "rating_normalized": 80
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "ah4b4p4",
-      "rating": 7.24,
-      "rating_normalized": 72
-    },
-    "my_anime_list": {
-      "id": 122924,
-      "rating": 7.08,
-      "rating_normalized": 71
-    },
-    "shikimori": {
-      "id": 122924,
-      "rating": 7.13,
-      "rating_normalized": 71
+      "rating": 72,
+      "url": "https://www.mangaupdates.com/series/ah4b4p4"
     }
   },
   "tag_ids": [
@@ -141,18 +103,10 @@
     "meanScore": 70
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.8706,
-    "fanRatioPercentile": 66.5727,
-    "popularityPercentile": 93.3005,
-    "fanFavouriteDiscoveryScore": 66.425,
-    "fanFavouriteDiscoveryPercentile": 75.1194
-=======
     "fanFavouriteRaw": 1.8695,
-    "fanRatioPercentile": 66.919,
-    "popularityPercentile": 93.9367,
-    "fanFavouriteDiscoveryScore": 66.7781,
-    "fanFavouriteDiscoveryPercentile": 75.4998
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 66.6563,
+    "popularityPercentile": 93.339,
+    "fanFavouriteDiscoveryScore": 66.5088,
+    "fanFavouriteDiscoveryPercentile": 75.2548
   }
 }

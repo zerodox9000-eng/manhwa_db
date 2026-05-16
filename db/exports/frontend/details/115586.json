@@ -1,38 +1,21 @@
 {
   "id": 115586,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Sweetie, Sweetie, Sweetie",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "After being hit by the fateful truck of transmigration, Jeong Yujin wakes up in the world of a fantasy novel as Lord Eugene Linweisen. Eugene’s main role may be to marry the story’s antagonist, Grand Duke Ivilaron, but Yujin has an even bigger job to fulfill: saving the world! But how is he supposed to achieve this feat when the Gods won’t even give him a simple status screen to help on his quest? Plus, what’s only supposed to be a loveless contract marriage seems to be turning into something more the longer Yujin stays with the supposed villain...! \n\n(Source: Tappytoon)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzAvYy8wLzkvYi83L2QvNjY2My80YzQzL2JkNTQvOTQ1NzQ2NTNlNjM5",
   "total_chapters": "100",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-05-14",
     "end_date": "2025-05-18",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T13:55:05.319Z",
   "authors": [
     "Damjeokdan",
@@ -42,45 +25,24 @@
     "NOK"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115586",
+    "mangabaka": "https://mangabaka.org/series/115586",
     "read_en": "https://www.tappytoon.com/de/book/sweetie-sweetie-sweetie-de"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 166965,
-      "rating": 7,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://anilist.co/manga/166965"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "sweetie-sweetie-sweetie",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/sweetie-sweetie-sweetie"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 67687,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "oimbzf0",
-      "rating": 7.36,
-      "rating_normalized": 74
-    },
-    "my_anime_list": {
-      "id": 185258,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 185258,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 74,
+      "url": "https://www.mangaupdates.com/series/oimbzf0"
     }
   },
   "tag_ids": [
@@ -125,18 +87,10 @@
     "meanScore": 70
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.9126,
-    "fanRatioPercentile": 67.4102,
-    "popularityPercentile": 76.5673,
-    "fanFavouriteDiscoveryScore": 66.8109,
-    "fanFavouriteDiscoveryPercentile": 75.3776
-=======
     "fanFavouriteRaw": 1.91,
-    "fanRatioPercentile": 67.7088,
-    "popularityPercentile": 77.4496,
-    "fanFavouriteDiscoveryScore": 67.1492,
-    "fanFavouriteDiscoveryPercentile": 75.8042
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 67.4733,
+    "popularityPercentile": 76.6866,
+    "fanFavouriteDiscoveryScore": 66.8794,
+    "fanFavouriteDiscoveryPercentile": 75.5505
   }
 }

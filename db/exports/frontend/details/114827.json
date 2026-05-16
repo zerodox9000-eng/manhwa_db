@@ -1,41 +1,21 @@
 {
   "id": 114827,
-<<<<<<< HEAD
-  "display_title": "Cartoon Chloe",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "With Chloe",
   "description": "Hi, I'm a cartoonist. I meet one of my old art students and she wants to be my assistant. What does she want to assist me with?\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1MDMzNi1ZMUtzTGlBQXJOR0EuanBn",
   "total_chapters": "42",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-08-17",
     "end_date": "2022-05-24",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T09:05:32.326Z",
   "authors": [
     "Wangjamjari"
@@ -44,45 +24,24 @@
     "Wangjamjari"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/114827",
+    "mangabaka": "https://mangabaka.org/series/114827",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 150336,
-      "rating": 6,
-      "rating_normalized": 60
+      "rating": 60,
+      "url": "https://anilist.co/manga/150336"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "with-chloe",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/with-chloe"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 75713,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "s8d02kj",
-      "rating": 5.68,
-      "rating_normalized": 57
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 57,
+      "url": "https://www.mangaupdates.com/series/s8d02kj"
     }
   },
   "tag_ids": [
@@ -104,21 +63,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 238,
+    "favourites": 6,
+    "meanScore": 60
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 2.5316,
-    "fanRatioPercentile": 79.6979,
-    "popularityPercentile": 56.1791,
-    "fanFavouriteDiscoveryScore": 75.9715,
-    "fanFavouriteDiscoveryPercentile": 83.6894
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanFavouriteRaw": 2.521,
+    "fanRatioPercentile": 79.6203,
+    "popularityPercentile": 56.4625,
+    "fanFavouriteDiscoveryScore": 75.9805,
+    "fanFavouriteDiscoveryPercentile": 83.7289
   }
 }

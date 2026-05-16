@@ -1,38 +1,21 @@
 {
   "id": 111365,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Seabird and the Wolf",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Chosen by the last remaining Seabird, Lott has been cursed with a target on her back. After the notorious Woohoppiage pirates pillage her village and kidnap her sister, she embarks on a perilous journey to get her back. And she’ll do whatever it takes to make that happen, even if that means joining the Black Ocean crew and pretending to be a man. But she's not the only one with a secret on this pirate ship…\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5MjEyNS1obk5TR1dLT3ZGelUucG5n",
   "total_chapters": "90",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2024,
   "published": {
     "start_date": "2024-07-01",
     "end_date": "2025-12-22",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T03:48:12.812Z",
   "authors": [
     "GLEECAT",
@@ -42,45 +25,24 @@
     "ricepupa"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/111365",
+    "mangabaka": "https://mangabaka.org/series/111365",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=6914"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 192125,
-      "rating": 7.6,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://anilist.co/manga/192125"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "seabird-and-wolf",
-      "rating": 4.1,
-      "rating_normalized": 82
+      "rating": 82,
+      "url": "https://www.anime-planet.com/manga/seabird-and-wolf"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 73211,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "vwx0nxc",
-      "rating": 6.32,
-      "rating_normalized": 63
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/vwx0nxc"
     }
   },
   "tag_ids": [
@@ -113,16 +75,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2814,
-<<<<<<< HEAD
-    "fanRatioPercentile": 75.4794,
-    "popularityPercentile": 58.0574,
-    "fanFavouriteDiscoveryScore": 72.441,
-    "fanFavouriteDiscoveryPercentile": 80.3945
-=======
-    "fanRatioPercentile": 75.87,
-    "popularityPercentile": 58.6837,
-    "fanFavouriteDiscoveryScore": 72.9653,
-    "fanFavouriteDiscoveryPercentile": 80.8803
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 75.535,
+    "popularityPercentile": 58.2523,
+    "fanFavouriteDiscoveryScore": 72.5414,
+    "fanFavouriteDiscoveryPercentile": 80.5229
   }
 }

@@ -1,38 +1,21 @@
 {
   "id": 1119,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Born to Bleed",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "After a violent outburst in his first match, an amateur MMA fighter haunted by dreams of a past life as a gladiator is offered a chance to go pro, if he survives the fight. He’s untrained, unhinged, and utterly untamable.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzIvYi81LzYvOC9iLzUvZTBjNS80MDU3LzlkNzAvMWE0Mzk5ZTJkNjA3",
   "total_chapters": "69",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2025,
   "published": {
     "start_date": "2025-04-02",
     "end_date": "2025-12-31",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-15T02:22:31.779Z",
   "authors": [
     "Bluetiful",
@@ -42,45 +25,24 @@
     "Sang-Ki Hong"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1119",
+    "mangabaka": "https://mangabaka.org/series/1119",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 199177,
-      "rating": 7,
-      "rating_normalized": 70
+      "rating": 70,
+      "url": "https://anilist.co/manga/199177"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "the-villain-of-the-octagon",
-      "rating": 3.9,
-      "rating_normalized": 78
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/the-villain-of-the-octagon"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "f61jlme",
-      "rating": 6.6,
-      "rating_normalized": 66
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 66,
+      "url": "https://www.mangaupdates.com/series/f61jlme"
     }
   },
   "tag_ids": [
@@ -101,18 +63,10 @@
     "meanScore": 71
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 1.2422,
-    "fanRatioPercentile": 50.1526,
-    "popularityPercentile": 48.6421,
-    "fanFavouriteDiscoveryScore": 45.9307,
-    "fanFavouriteDiscoveryPercentile": 52.6258
-=======
     "fanFavouriteRaw": 1.227,
-    "fanRatioPercentile": 50.1604,
-    "popularityPercentile": 49.5023,
-    "fanFavouriteDiscoveryScore": 46.2069,
-    "fanFavouriteDiscoveryPercentile": 52.4722
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 49.9183,
+    "popularityPercentile": 49.1324,
+    "fanFavouriteDiscoveryScore": 45.8707,
+    "fanFavouriteDiscoveryPercentile": 52.2138
   }
 }

@@ -1,41 +1,21 @@
 {
   "id": 106769,
-<<<<<<< HEAD
-  "display_title": "Jisangnagwon",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Paradise on Earth",
   "description": "Love, money, fame… They all come to Paradise Island chasing different things, but what they find is a nightmare. Oreum joins 15 other participants on a reality dating show, hoping to win prize money that could save her sister’s life. But when a mysterious virus spreads, turning people into flesh-hungry monsters, trust crumbles, terror rises, and Oreum’s only goal becomes making it out alive.\n\n(Source: WEBTOONS)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzcvMC8zL2UvZi9iL2MvMzczMi80OGE4LzljNzUvNjllNjYxZTM2ZTM3",
   "total_chapters": "48",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2025,
   "published": {
     "start_date": "2025-03-22",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T10:19:20.436Z",
   "authors": [
     "Dalgonyak"
@@ -44,45 +24,24 @@
     "Dalgonyak"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/106769",
+    "mangabaka": "https://mangabaka.org/series/106769",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8332"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 188683,
-      "rating": 7.5,
-      "rating_normalized": 75
+      "rating": 75,
+      "url": "https://anilist.co/manga/188683"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "paradise-on-earth",
-      "rating": 4.2,
-      "rating_normalized": 84
+      "rating": 84,
+      "url": "https://www.anime-planet.com/manga/paradise-on-earth"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "08aoigr",
-      "rating": 6.76,
-      "rating_normalized": 68
-    },
-    "my_anime_list": {
-      "id": 180335,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": 180335,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 68,
+      "url": "https://www.mangaupdates.com/series/08aoigr"
     }
   },
   "tag_ids": [
@@ -108,16 +67,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.352,
-<<<<<<< HEAD
-    "fanRatioPercentile": 89.395,
-    "popularityPercentile": 63.8804,
-    "fanFavouriteDiscoveryScore": 87.1451,
-    "fanFavouriteDiscoveryPercentile": 92.7839
-=======
-    "fanRatioPercentile": 89.8396,
-    "popularityPercentile": 64.5742,
-    "fanFavouriteDiscoveryScore": 87.7025,
-    "fanFavouriteDiscoveryPercentile": 93.4266
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 89.4094,
+    "popularityPercentile": 64.0573,
+    "fanFavouriteDiscoveryScore": 87.1913,
+    "fanFavouriteDiscoveryPercentile": 92.8955
   }
 }

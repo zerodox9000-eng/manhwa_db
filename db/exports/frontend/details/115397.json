@@ -1,42 +1,22 @@
 {
   "id": 115397,
-<<<<<<< HEAD
-  "display_title": "Covert Deal",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Secret Offer",
   "description": "Ga-Yun is a huge social media star. Offline, she garners as much attention, if not more.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE2Mjg4NS00SExpa2JKenk4dVouanBn",
   "total_chapters": "20",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-09-19",
     "end_date": "2020-12-12",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-15T07:15:20.772Z",
+  "last_updated_at": "2026-05-16T18:49:51.971Z",
   "authors": [
     "Eroro"
   ],
@@ -44,45 +24,24 @@
     "Ssini"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115397",
+    "mangabaka": "https://mangabaka.org/series/115397",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 162885,
-      "rating": 4.4,
-      "rating_normalized": 44
+      "rating": 44,
+      "url": "https://anilist.co/manga/162885"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "secret-offer",
       "rating": null,
-      "rating_normalized": null
+      "url": "https://www.anime-planet.com/manga/secret-offer"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 75284,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "b9ya79z",
-      "rating": 5.76,
-      "rating_normalized": 58
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 58,
+      "url": "https://www.mangaupdates.com/series/b9ya79z"
     }
   },
   "tag_ids": [
@@ -101,21 +60,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 74,
+    "favourites": 2,
+    "meanScore": 44
   },
   "analytics": {
-<<<<<<< HEAD
     "fanFavouriteRaw": 2.7027,
-    "fanRatioPercentile": 82.2494,
-    "popularityPercentile": 34.8908,
-    "fanFavouriteDiscoveryScore": 63.8025,
-    "fanFavouriteDiscoveryPercentile": 72.1609
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 82.3438,
+    "popularityPercentile": 35.2113,
+    "fanFavouriteDiscoveryScore": 64.2555,
+    "fanFavouriteDiscoveryPercentile": 72.7025
   }
 }

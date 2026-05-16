@@ -1,38 +1,21 @@
 {
   "id": 102767,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "My ID is Gangnam Beauty! - Just Two of Us",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Travel plan for couples who are dating for the first time ♥ Gray kitten's sexy comeback?!​\n\n(Source: Comic Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3MDA4Mi1SVmFBWjR0bGZSS3cuanBn",
   "total_chapters": "7",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2018,
   "published": {
     "start_date": "2018-07-10",
     "end_date": "2018-07-24",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-04-26T02:57:13.595Z",
   "authors": [
     "Maeng-Gi Gi"
@@ -41,46 +24,21 @@
     "Maeng-Gi Gi"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/102767",
+    "mangabaka": "https://mangabaka.org/series/102767",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 170082,
-      "rating": 7.3,
-      "rating_normalized": 73
+      "rating": 73,
+      "url": "https://anilist.co/manga/170082"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "my-id-is-gangnam-beauty-only-two-hours",
-      "rating": 3.8,
-      "rating_normalized": 76
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/my-id-is-gangnam-beauty-only-two-hours"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     108,
@@ -98,16 +56,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 28.9113,
-    "fanFavouriteDiscoveryScore": 21.5143,
-    "fanFavouriteDiscoveryPercentile": 23.8945
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 29.5269,
-    "fanFavouriteDiscoveryScore": 22.204,
-    "fanFavouriteDiscoveryPercentile": 24.5167
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 29.2818,
+    "fanFavouriteDiscoveryScore": 21.895,
+    "fanFavouriteDiscoveryPercentile": 24.1849
   }
 }

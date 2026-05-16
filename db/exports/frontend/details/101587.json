@@ -1,41 +1,21 @@
 {
   "id": 101587,
-<<<<<<< HEAD
-  "display_title": "A Yeong-Jae-in?",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Sora & Haena: Side Story - Ah Young & Jae-In?",
   "description": "Side story about how is going Ah Young and Jae-In relationship.",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1NzU1OS0yaVhtbVRETGNnM08uanBn",
   "total_chapters": "22",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "erotica",
+  "is_licensed": true,
+  "year": 2022,
   "published": {
     "start_date": "2022-09-04",
     "end_date": "2023-01-22",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T08:52:34.113Z",
   "authors": [
     "Jackbull"
@@ -44,46 +24,17 @@
     "Jackbull"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/101587",
+    "mangabaka": "https://mangabaka.org/series/101587",
     "read_en": "https://www.lezhinus.com/en/comic/sorahaena_sidestories"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 157559,
-      "rating": 7.4,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://anilist.co/manga/157559"
     },
-    "anime_planet": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 76065,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "animeplanet": null,
+    "mangaupdates": null
   },
   "tag_ids": [
     387,
@@ -102,16 +53,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.7483,
-<<<<<<< HEAD
-    "fanRatioPercentile": 91.8447,
-    "popularityPercentile": 76.8255,
-    "fanFavouriteDiscoveryScore": 91.0455,
-    "fanFavouriteDiscoveryPercentile": 95.3119
-=======
-    "fanRatioPercentile": 92.2172,
-    "popularityPercentile": 77.7046,
-    "fanFavouriteDiscoveryScore": 91.4709,
-    "fanFavouriteDiscoveryPercentile": 95.8042
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 91.7983,
+    "popularityPercentile": 76.9356,
+    "fanFavouriteDiscoveryScore": 91.0067,
+    "fanFavouriteDiscoveryPercentile": 95.3233
   }
 }

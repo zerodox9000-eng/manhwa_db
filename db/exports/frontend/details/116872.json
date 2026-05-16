@@ -1,38 +1,21 @@
 {
   "id": 116872,
-<<<<<<< HEAD
-  "display_title": "Great Heritage",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-=======
   "state": "active",
   "type": "manhwa",
-  "display_title": "Great Heritage",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+  "display_title": "Inheritance",
   "description": null,
-  "cover": null,
-  "total_chapters": null,
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4ODgwMy1oZjBKRW5iRGxYSDYuanBn",
+  "total_chapters": "15",
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "pornographic",
   "is_licensed": false,
-  "year": null,
+  "year": 2018,
   "published": {
     "start_date": "2018-11-24",
     "end_date": "2019-02-02",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-15T07:23:34.312Z",
   "authors": [
     "STUDIO PIMP-DOG"
@@ -41,46 +24,21 @@
     "STUDIO PIMP-DOG"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/116872",
+    "mangabaka": "https://mangabaka.org/series/116872",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 188803,
-      "rating": 5.8,
-      "rating_normalized": 58
+      "rating": 58,
+      "url": "https://anilist.co/manga/188803"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "inheritance",
-      "rating": 3.4,
-      "rating_normalized": 68
+      "rating": 68,
+      "url": "https://www.anime-planet.com/manga/inheritance"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     107,
@@ -101,16 +59,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.5,
-<<<<<<< HEAD
-    "fanRatioPercentile": 79.4083,
-    "popularityPercentile": 24.6693,
-    "fanFavouriteDiscoveryScore": 47.3328,
-    "fanFavouriteDiscoveryPercentile": 56.0538
-=======
-    "fanRatioPercentile": 79.8766,
-    "popularityPercentile": 25.29,
-    "fanFavouriteDiscoveryScore": 48.6015,
-    "fanFavouriteDiscoveryPercentile": 57.2028
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 79.4646,
+    "popularityPercentile": 25.0409,
+    "fanFavouriteDiscoveryScore": 47.9569,
+    "fanFavouriteDiscoveryPercentile": 56.5715
   }
 }

@@ -1,41 +1,21 @@
 {
   "id": 115796,
-<<<<<<< HEAD
-  "display_title": "One Room Hotel",
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "state": "active",
   "type": "manhwa",
   "display_title": "Payment Accepted",
   "description": "Jake, a struggling, jobless man, cannot afford to pay his rent. As his landlady pressures him on, he finds other ways to pay her back...\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE3MjE1Mi1VenZ3Um1NY0JzdGouanBn",
   "total_chapters": "40",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2021,
   "published": {
     "start_date": "2021-02-13",
     "end_date": "2021-09-18",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T00:45:45.865Z",
   "authors": [
     "Koi"
@@ -44,45 +24,24 @@
     "Naranya"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/115796",
+    "mangabaka": "https://mangabaka.org/series/115796",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 172152,
-      "rating": 3.2,
-      "rating_normalized": 32
+      "rating": 32,
+      "url": "https://anilist.co/manga/172152"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "payment-accepted",
-      "rating": 3.4,
-      "rating_normalized": 68
+      "rating": 68,
+      "url": "https://www.anime-planet.com/manga/payment-accepted"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "zteoxfc",
-      "rating": 6.13,
-      "rating_normalized": 61
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 61,
+      "url": "https://www.mangaupdates.com/series/zteoxfc"
     }
   },
   "tag_ids": [
@@ -104,16 +63,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 26.5164,
-    "fanFavouriteDiscoveryScore": 20.0839,
-    "fanFavouriteDiscoveryPercentile": 22.3605
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 27.0917,
-    "fanFavouriteDiscoveryScore": 20.7505,
-    "fanFavouriteDiscoveryPercentile": 22.8548
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 26.815,
+    "fanFavouriteDiscoveryScore": 20.4235,
+    "fanFavouriteDiscoveryPercentile": 22.5975
   }
 }

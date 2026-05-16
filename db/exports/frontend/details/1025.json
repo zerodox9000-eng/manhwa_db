@@ -1,39 +1,22 @@
 {
   "id": 1025,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Yeonwoo's Innocence",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Yeon-U is easily mistaken for a female student due to his soft and delicate appearance. He develops a crush on Hae-Sol Kang, the most popular student in school. However, due to his shy and timid personality, Yeon-U has never spoken to Hae-Sol even once despite being in the same class. \n\n(Source: WEBTOON, edited)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzYvZC85L2MvNS8wL2EvZjNkNC80NjIxL2EwZjUvMTk1Y2YwMzVkMTBm",
   "total_chapters": "206",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "releasing",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2020,
   "published": {
     "start_date": "2020-09-21",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-16T05:15:17.322Z",
+  "last_updated_at": "2026-05-16T19:32:46.197Z",
   "authors": [
     "Esol"
   ],
@@ -41,45 +24,24 @@
     "Esol"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/1025",
+    "mangabaka": "https://mangabaka.org/series/1025",
     "read_en": "https://www.webtoons.com/-/-/-/list?title_no=7180"
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 125233,
-      "rating": 7.4,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://anilist.co/manga/125233"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "yeonwoos-innocence",
-      "rating": 4,
-      "rating_normalized": 80
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/yeonwoos-innocence"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 59951,
-      "rating": 7.593999999999999,
-      "rating_normalized": 76
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "tefwy85",
-      "rating": 7.25,
-      "rating_normalized": 73
-    },
-    "my_anime_list": {
-      "id": 152384,
-      "rating": 7.62,
-      "rating_normalized": 76
-    },
-    "shikimori": {
-      "id": 152384,
-      "rating": 7.58,
-      "rating_normalized": 76
+      "rating": 73,
+      "url": "https://www.mangaupdates.com/series/tefwy85"
     }
   },
   "tag_ids": [
@@ -142,21 +104,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 5286,
+    "favourites": 208,
+    "meanScore": 74
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 3.9409,
-    "fanRatioPercentile": 92.8387,
-    "popularityPercentile": 96.0163,
-    "fanFavouriteDiscoveryScore": 92.6743,
-    "fanFavouriteDiscoveryPercentile": 96.345
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanFavouriteRaw": 3.9349,
+    "fanRatioPercentile": 92.7866,
+    "popularityPercentile": 96.0392,
+    "fanFavouriteDiscoveryScore": 92.6226,
+    "fanFavouriteDiscoveryPercentile": 96.3427
   }
 }

@@ -1,38 +1,21 @@
 {
   "id": 113547,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Our Exchange",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "As a couple starts to get distant from each other, they get offered to join their company's secret club.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEyNTcyOS1vWVlsNWpOcUNzbVUuanBn",
   "total_chapters": "232",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "pornographic",
+  "is_licensed": true,
+  "year": 2017,
   "published": {
     "start_date": "2017-12-06",
     "end_date": "2022-05-04",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T16:23:51.600Z",
   "authors": [
     "Saiko"
@@ -41,45 +24,24 @@
     "Dane"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/113547",
+    "mangabaka": "https://mangabaka.org/series/113547",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 125729,
-      "rating": 4.3,
-      "rating_normalized": 43
+      "rating": 43,
+      "url": "https://anilist.co/manga/125729"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "our-exchange",
-      "rating": 3.1,
-      "rating_normalized": 62
+      "rating": 62,
+      "url": "https://www.anime-planet.com/manga/our-exchange"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 68361,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "kk70ezp",
-      "rating": 5.29,
-      "rating_normalized": 53
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 53,
+      "url": "https://www.mangaupdates.com/series/kk70ezp"
     }
   },
   "tag_ids": [
@@ -122,21 +84,15 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 274,
+    "favourites": 8,
+    "meanScore": 43
   },
   "analytics": {
-<<<<<<< HEAD
     "fanFavouriteRaw": 2.9197,
-    "fanRatioPercentile": 85.2078,
-    "popularityPercentile": 58.7227,
-    "fanFavouriteDiscoveryScore": 81.9557,
-    "fanFavouriteDiscoveryPercentile": 88.9567
-=======
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 85.2541,
+    "popularityPercentile": 58.9059,
+    "fanFavouriteDiscoveryScore": 82.0477,
+    "fanFavouriteDiscoveryPercentile": 89.0514
   }
 }

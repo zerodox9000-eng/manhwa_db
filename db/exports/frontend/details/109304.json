@@ -1,38 +1,21 @@
 {
   "id": 109304,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Plowing Hero",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "***Note:** This is part of [SSS Romance Collection](https://www.mangaupdates.com/series/nmxi6tk), this being the fourth story.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1maWVsZC13YXJyaW9yLTEud2VicD90PTE2OTI4NDI2NTM",
   "total_chapters": "8",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
-  "is_licensed": false,
-  "year": null,
+  "content_rating": "safe",
+  "is_licensed": true,
+  "year": 2023,
   "published": {
     "start_date": "2023-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-04-28T01:15:24.730Z",
   "authors": [
     "Lee Dada"
@@ -43,45 +26,20 @@
     "Shalom"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/109304",
+    "mangabaka": "https://mangabaka.org/series/109304",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
-    "anilist": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_planet": {
+    "anilist": null,
+    "animeplanet": {
       "id": "the-field-warrior",
-      "rating": 3.7,
-      "rating_normalized": 74
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/the-field-warrior"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "kqw1k1k",
-      "rating": 6.39,
-      "rating_normalized": 64
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 64,
+      "url": "https://www.mangaupdates.com/series/kqw1k1k"
     }
   },
   "tag_ids": [

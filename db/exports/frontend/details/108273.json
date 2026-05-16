@@ -1,39 +1,22 @@
 {
   "id": 108273,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "White Night",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "*Note: Includes two extra chapters.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMDQ1MS1iSDZRbzZmcEhRYUEuanBn",
   "total_chapters": "8",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "erotica",
   "is_licensed": false,
-  "year": null,
+  "year": 2024,
   "published": {
     "start_date": "2024-11-30",
     "end_date": "2025-02-01",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
-  "last_updated_at": "2026-05-15T02:30:35.747Z",
+  "last_updated_at": "2026-05-16T18:04:23.835Z",
   "authors": [
     "Cheong-Dam"
   ],
@@ -41,45 +24,20 @@
     "Cheong-Dam"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/108273",
+    "mangabaka": "https://mangabaka.org/series/108273",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 200451,
-      "rating": 6,
-      "rating_normalized": 60
+      "rating": 60,
+      "url": "https://anilist.co/manga/200451"
     },
-    "anime_planet": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "animeplanet": null,
+    "mangaupdates": {
       "id": "cnf3cjt",
-      "rating": 6.33,
-      "rating_normalized": 63
-    },
-    "my_anime_list": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "shikimori": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/cnf3cjt"
     }
   },
   "tag_ids": [
@@ -101,16 +59,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-<<<<<<< HEAD
-    "fanRatioPercentile": 31.7524,
-    "popularityPercentile": 10.8633,
-    "fanFavouriteDiscoveryScore": 10.1082,
-    "fanFavouriteDiscoveryPercentile": 9.9241
-=======
-    "fanRatioPercentile": 32.2419,
-    "popularityPercentile": 11.0819,
-    "fanFavouriteDiscoveryScore": 10.3919,
-    "fanFavouriteDiscoveryPercentile": 10.1193
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 31.9975,
+    "popularityPercentile": 11.0342,
+    "fanFavouriteDiscoveryScore": 10.2853,
+    "fanFavouriteDiscoveryPercentile": 10.0537
   }
 }

@@ -1,38 +1,21 @@
 {
   "id": 109477,
+  "state": "active",
+  "type": "manhwa",
   "display_title": "Everyone Loves Her",
-<<<<<<< HEAD
-  "titles_en": [],
-  "titles_native": [],
-  "titles_romaji": [],
-  "description": null,
-  "cover": null,
-  "total_chapters": null,
-=======
   "description": "Kang Min-A's daily life is completely turned upside down by the sudden acquisition of the ability to . Now, what unfolds before her are irreversible events caused by a single moment of choice. In the midst of anger, confusion, and suppressed sense of justice, Min-A begins a new journey, wondering where to use her power. In what direction will her power flow, and what choices will she make?\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzQvNC85LzkvYi9lLzEvYmVhNC80ZmJmLzg4Y2UvOWM4ZmZiMzY4NDEx",
   "total_chapters": "55",
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   "status": "completed",
-  "content_rating": null,
+  "content_rating": "safe",
   "is_licensed": false,
-  "year": null,
+  "year": 2025,
   "published": {
     "start_date": "2025-03-19",
     "end_date": "2026-03-04",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-<<<<<<< HEAD
-  "last_updated_at": null,
-  "authors": [],
-  "artists": [],
-  "publishers": [],
-  "links": {
-    "mangabaka": null,
-    "read_en": null,
-    "official_en": null
-=======
   "last_updated_at": "2026-05-16T11:01:48.652Z",
   "authors": [
     "Sriracha"
@@ -41,45 +24,24 @@
     "Jimin"
   ],
   "links": {
-    "mangabaka": "https://mangabaka.org/109477",
+    "mangabaka": "https://mangabaka.org/series/109477",
     "read_en": null
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
   },
   "source": {
     "anilist": {
       "id": 188361,
-      "rating": 7.5,
-      "rating_normalized": 75
+      "rating": 75,
+      "url": "https://anilist.co/manga/188361"
     },
-    "anime_planet": {
+    "animeplanet": {
       "id": "everyone-loves-her",
-      "rating": 4.3,
-      "rating_normalized": 86
+      "rating": 86,
+      "url": "https://www.anime-planet.com/manga/everyone-loves-her"
     },
-    "anime_news_network": {
-      "id": null,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "kitsu": {
-      "id": 75082,
-      "rating": null,
-      "rating_normalized": null
-    },
-    "manga_updates": {
+    "mangaupdates": {
       "id": "d3bobh9",
-      "rating": 6.81,
-      "rating_normalized": 68
-    },
-    "my_anime_list": {
-      "id": 180338,
-      "rating": 7.6,
-      "rating_normalized": 76
-    },
-    "shikimori": {
-      "id": 180338,
-      "rating": 7.62,
-      "rating_normalized": 76
+      "rating": 68,
+      "url": "https://www.mangaupdates.com/series/d3bobh9"
     }
   },
   "tag_ids": [
@@ -117,18 +79,10 @@
     "meanScore": 75
   },
   "analytics": {
-<<<<<<< HEAD
-    "fanFavouriteRaw": 3.1496,
-    "fanRatioPercentile": 87.7514,
-    "popularityPercentile": 89.622,
-    "fanFavouriteDiscoveryScore": 87.487,
-    "fanFavouriteDiscoveryPercentile": 93.05
-=======
     "fanFavouriteRaw": 3.1388,
-    "fanRatioPercentile": 88.1859,
-    "popularityPercentile": 90.4731,
-    "fanFavouriteDiscoveryScore": 87.9384,
-    "fanFavouriteDiscoveryPercentile": 93.5747
->>>>>>> c6b0ceb0a (fix frontend export syntax after field removal)
+    "fanRatioPercentile": 87.7286,
+    "popularityPercentile": 89.7129,
+    "fanFavouriteDiscoveryScore": 87.4663,
+    "fanFavouriteDiscoveryPercentile": 93.0745
   }
 }
