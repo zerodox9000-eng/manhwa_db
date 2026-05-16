@@ -10,7 +10,10 @@
     "snapshot": "node scripts/snapshots/snapshotAniList.js",
     "build:frontend": "node scripts/build/buildFrontendExports.js",
     "daily": "npm run update && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend",
-    "update": "node scripts/updates/updateMangabaka.js"
+    "update": "node scripts/updates/updateMangabaka.js",
+    "incremental": "node scripts/updates/incrementalRawPatch.js",
+    "daily:incremental": "npm run incremental && npm run enrich && npm run snapshot && npm run build:frontend"
+    
   },
   "keywords": [],
   "author": "",
@@ -24,4 +27,6 @@
     "pako": "^2.1.0"
   }
 }
+
+
 

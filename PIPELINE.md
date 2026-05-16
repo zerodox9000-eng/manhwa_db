@@ -9,6 +9,21 @@ Fetches yearly MangaBaka data.
 Stored in:
 db/raw/by-year/
 
+## Incremental Update
+
+npm run incremental
+
+Uses:
+- last_updated_at
+- sync-state tracking
+- raw patch merging
+
+Purpose:
+- reduce API load
+- reduce rebuild overhead
+- enable scalable daily syncing
+
+
 ---
 
 ## Normalize

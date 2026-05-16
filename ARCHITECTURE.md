@@ -11,6 +11,19 @@ MangaBaka API
 → Frontend export generation
 → Compression
 
+## Incremental Updating
+
+Project supports incremental MangaBaka synchronization using:
+
+db/state/sync-state.json
+
+Pipeline:
+- scans yearly partitions
+- fetches only updated entries
+- patches raw yearly files
+- rebuilds processed structure from merged raw data
+
+Full rebuild pipeline remains available as fallback verification.
 ---
 
 ## Layers
