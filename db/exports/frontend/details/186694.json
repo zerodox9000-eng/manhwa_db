@@ -1,138 +1,66 @@
 {
   "id": 186694,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "The End Has Come",
-  "titles_en": [
-    {
-      "title": "Jongmar-i Chajawatda",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Apocalypse Has Arrived",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Apocalypse Has Come",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Apocalypse Is Here",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The End Has Come",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "종말이 찾아왔다",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "末日来袭",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "末日降临",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "末日降臨",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "末日降臨 (田善旭)",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "終焉がやってきた",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Jongmari Chajawassda",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Minjun wished for the world to end-- until it did. When a zombie appears at his door, the bullied teen chooses to fight for survival. Teaming up with Yena, his sassy yet charming classmate, he flees the collapsing city. Hunted by the infected and haunted by enemies old and new, they discover that in a world without rules, trust may be their only chance at survival.\n\n(Source: WEBTOON)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85LzcvNC9lLzgvYi9kL2QvMWNhNS80ODE0LzhlOTgvYmZiYWNkNTFjZTFi",
-  "total_chapters": "60",
+  "display_title": "Jongmar-i Chajawatda",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2025,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2025-04-08",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T11:42:19.595Z",
-  "authors": [
-    "Seon-Uk Jeon"
-  ],
-  "artists": [
-    "Seon-Uk Jeon"
-  ],
-  "publishers": [
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/186694",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8421"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 189981,
-      "rating": 71,
-      "url": "https://anilist.co/manga/189981"
+      "rating": 7.1,
+      "rating_normalized": 71
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-end-has-come",
-      "rating": 78,
-      "url": "https://www.anime-planet.com/manga/the-end-has-come"
+      "rating": 3.9,
+      "rating_normalized": 78
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 75227,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "8aw11id",
-      "rating": 66,
-      "url": "https://www.mangaupdates.com/series/8aw11id"
+      "rating": 6.6,
+      "rating_normalized": 66
+    },
+    "my_anime_list": {
+      "id": 180788,
+      "rating": 7.14,
+      "rating_normalized": 71
+    },
+    "shikimori": {
+      "id": 180788,
+      "rating": 7.03,
+      "rating_normalized": 70
     }
   },
   "tag_ids": [
@@ -183,9 +111,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.0068,
-    "fanRatioPercentile": 86.1551,
-    "popularityPercentile": 81.6993,
-    "fanFavouriteDiscoveryScore": 85.6541,
-    "fanFavouriteDiscoveryPercentile": 91.8246
+    "fanRatioPercentile": 86.1616,
+    "popularityPercentile": 81.7079,
+    "fanFavouriteDiscoveryScore": 85.6609,
+    "fanFavouriteDiscoveryPercentile": 91.8284
   }
 }

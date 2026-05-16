@@ -1,132 +1,66 @@
 {
   "id": 7222,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Semantic Error",
-  "titles_en": [
-    {
-      "title": "Semantic Error",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "시맨틱 에러",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "セマンティックエラー",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "語意錯誤",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "语义错误",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "错误指令",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Semantic Error",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "**A Bug in the System**\n\nReason, routine, and rules. These are the tenets that computer science major Sang-Woo Chu lives by, so when the rest of his teammates fail to contribute to their group’s presentation, he cuts their names from the project—including that of a complete no-show, whose plans to graduate and study abroad have gone down the drain as a result. Not that that’s any of Sang-Woo’s business…until he realizes that Jae-Young Jang, the talented design major he was hoping to hire for his video game, is: one, that very same classmate, and two, hell-bent on returning the favor and being the biggest thorn in his side!\n\nWill Sang-Woo be able to debug this semantic error before it upends his entire life?\n\n(Source: Yen Press, edited)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80L2QvZi83L2UvMy9jLzkvMzU5OS80OTcxL2FhOTQvMmYzZGNmN2JmMTJk",
-  "total_chapters": "94",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "suggestive",
-  "is_licensed": true,
-  "year": 2020,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2020-07-27",
     "end_date": "2023-10-26",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-14T23:33:21.195Z",
-  "authors": [
-    "Jeosuri"
-  ],
-  "artists": [
-    "Angy"
-  ],
-  "publishers": [
-    {
-      "name": "Beyond",
-      "type": "Original",
-      "note": "Webtoon"
-    },
-    {
-      "name": "BlackD",
-      "type": "Original",
-      "note": "Paperbook"
-    },
-    {
-      "name": "Ize Press (Yen Press)",
-      "type": "English",
-      "note": "5 Volumes | Ongoing - Print"
-    },
-    {
-      "name": "Manta",
-      "type": "English",
-      "note": "Digital"
-    },
-    {
-      "name": "Ridibooks",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Panini Manga España",
-      "type": "Korean",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/7222",
-    "read_en": "https://manta.net/en/series/semantic-error-full-ver?seriesId=2825"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 125167,
-      "rating": 82,
-      "url": "https://anilist.co/manga/125167"
+      "rating": 8.2,
+      "rating_normalized": 82
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "semantic-error",
-      "rating": 86,
-      "url": "https://www.anime-planet.com/manga/semantic-error"
+      "rating": 4.3,
+      "rating_normalized": 86
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 59283,
+      "rating": 8.232,
+      "rating_normalized": 82
+    },
+    "manga_updates": {
       "id": "2wye7q8",
-      "rating": 86,
-      "url": "https://www.mangaupdates.com/series/2wye7q8"
+      "rating": 8.62,
+      "rating_normalized": 86
+    },
+    "my_anime_list": {
+      "id": 146798,
+      "rating": 8.21,
+      "rating_normalized": 82
+    },
+    "shikimori": {
+      "id": 146798,
+      "rating": 8.22,
+      "rating_normalized": 82
     }
   },
   "tag_ids": [
@@ -199,9 +133,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 8.1576,
-    "fanRatioPercentile": 98.8489,
-    "popularityPercentile": 98.2772,
-    "fanFavouriteDiscoveryScore": 98.7039,
-    "fanFavouriteDiscoveryPercentile": 99.8042
+    "fanRatioPercentile": 98.8494,
+    "popularityPercentile": 98.278,
+    "fanFavouriteDiscoveryScore": 98.7044,
+    "fanFavouriteDiscoveryPercentile": 99.8043
   }
 }

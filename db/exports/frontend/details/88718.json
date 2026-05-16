@@ -1,113 +1,66 @@
 {
   "id": 88718,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Die, Please!",
-  "titles_en": [
-    {
-      "title": "Butagini Jugeojura",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Die for me !",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Die, Please!",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "I Hope You Die",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Please, Die",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "부탁이니 죽어주라",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Butagini Jugeojura",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "\"I just want to tell him how I feel!\" \n\nMi-Na has been planning on telling Yeo-Myung she likes him. But every time she goes to confess, something foils her plans. It turns out Yeo-Myung and Young-Woong, her best friend, were actually plotting to kill her. But why?! \n\n(Source: Manta)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2YvYS80L2IvOS9jL2IvZjZiNi80MjhmLzhhNWUvOGZmYzllY2NhYTI2",
-  "total_chapters": "48",
+  "display_title": "Butagini Jugeojura",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2020,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2020-11-10",
     "end_date": "2021-09-14",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T08:28:54.257Z",
-  "authors": [
-    "Eun-Tae"
-  ],
-  "artists": [
-    "Eun-Tae"
-  ],
-  "publishers": [
-    {
-      "name": "KENAZ",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Manta",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Ridibooks",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/88718",
-    "read_en": "https://manta.net/series/1244"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 135473,
-      "rating": 65,
-      "url": "https://anilist.co/manga/135473"
+      "rating": 6.5,
+      "rating_normalized": 65
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "die-please",
-      "rating": 72,
-      "url": "https://www.anime-planet.com/manga/die-please"
+      "rating": 3.6,
+      "rating_normalized": 72
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 62782,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "1u62yw1",
-      "rating": 64,
-      "url": "https://www.mangaupdates.com/series/1u62yw1"
+      "rating": 6.42,
+      "rating_normalized": 64
+    },
+    "my_anime_list": {
+      "id": 185086,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 185086,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -136,9 +89,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.084,
-    "fanRatioPercentile": 45.8731,
-    "popularityPercentile": 64.4636,
-    "fanFavouriteDiscoveryScore": 44.7721,
-    "fanFavouriteDiscoveryPercentile": 51.1276
+    "fanRatioPercentile": 45.8986,
+    "popularityPercentile": 64.4803,
+    "fanFavouriteDiscoveryScore": 44.7984,
+    "fanFavouriteDiscoveryPercentile": 51.1506
   }
 }

@@ -1,120 +1,66 @@
 {
   "id": 90070,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Hell Hath No Fury",
-  "titles_en": [
-    {
-      "title": "Hell Hath No Fury",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Revenge is Ours",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Triple Vengeance",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "복수는 우리의 것",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "浮気男に天罰あれ",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Boksuneun Uriui Geos",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Boksuneun Uriui Geot",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "A mall employee, a successful actress, and a wealthy CEO... Three women come together for one purpose—revenge!\n\n(Source: Pocket Comics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyNjE4OC1qeFREa1A4M3RMbUkucG5n",
-  "total_chapters": "72",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2017,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2017-12-18",
     "end_date": "2019-11-18",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T16:55:25.786Z",
-  "authors": [
-    "Yu-Hyeon Nam"
-  ],
-  "artists": [
-    "Ttaelkkam"
-  ],
-  "publishers": [
-    {
-      "name": "Bomtoon",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Comico",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Pocket Comics",
-      "type": "English",
-      "note": "Defunct"
-    },
-    {
-      "name": "Wisdom House",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/90070",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 126188,
-      "rating": 76,
-      "url": "https://anilist.co/manga/126188"
+      "rating": 7.6,
+      "rating_normalized": 76
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "hell-hath-no-fury",
-      "rating": 80,
-      "url": "https://www.anime-planet.com/manga/hell-hath-no-fury"
+      "rating": 4,
+      "rating_normalized": 80
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 60123,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "tjof31b",
-      "rating": 75,
-      "url": "https://www.mangaupdates.com/series/tjof31b"
+      "rating": 7.46,
+      "rating_normalized": 75
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -149,9 +95,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.4876,
-    "fanRatioPercentile": 78.9663,
-    "popularityPercentile": 65.881,
-    "fanFavouriteDiscoveryScore": 77.2776,
-    "fanFavouriteDiscoveryPercentile": 84.8708
+    "fanRatioPercentile": 78.9762,
+    "popularityPercentile": 65.897,
+    "fanFavouriteDiscoveryScore": 77.2894,
+    "fanFavouriteDiscoveryPercentile": 84.8779
   }
 }

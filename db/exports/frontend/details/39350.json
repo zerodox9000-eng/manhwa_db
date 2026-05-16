@@ -1,92 +1,66 @@
 {
   "id": 39350,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "I Died That Day",
-  "titles_en": [
-    {
-      "title": "I Died That Day",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "That Day I Died",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "그날 죽은 나는",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "那天死去的我",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Geunal Jugeun Naneun",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "What happened to this girl to change her so much?",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzIvNS8zLzAvMy8xLzUvZmRlOC80MmRkL2IwYjkvMzI4ZjMwZDQyMjFi",
-  "total_chapters": "70",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2019,
+  "year": null,
   "published": {
     "start_date": "2019-07-21",
     "end_date": "2021-01-04",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T16:04:08.260Z",
-  "authors": [
-    "Aeon"
-  ],
-  "artists": [
-    "Aeon"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/39350",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 122085,
-      "rating": 65,
-      "url": "https://anilist.co/manga/122085"
+      "rating": 6.5,
+      "rating_normalized": 65
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "i-died-that-day",
-      "rating": 74,
-      "url": "https://www.anime-planet.com/manga/i-died-that-day"
+      "rating": 3.7,
+      "rating_normalized": 74
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 57276,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "vy4sv3c",
-      "rating": 64,
-      "url": "https://www.mangaupdates.com/series/vy4sv3c"
+      "rating": 6.35,
+      "rating_normalized": 64
+    },
+    "my_anime_list": {
+      "id": 177503,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 177503,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -114,9 +88,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.9108,
-    "fanRatioPercentile": 67.3845,
-    "popularityPercentile": 48.2067,
-    "fanFavouriteDiscoveryScore": 61.5206,
-    "fanFavouriteDiscoveryPercentile": 69.6319
+    "fanRatioPercentile": 67.3998,
+    "popularityPercentile": 48.2311,
+    "fanFavouriteDiscoveryScore": 61.5454,
+    "fanFavouriteDiscoveryPercentile": 69.6462
   }
 }

@@ -1,119 +1,66 @@
 {
   "id": 89433,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Fool Me Twice",
-  "titles_en": [
-    {
-      "title": "Do I Like It? No, I Hate It",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Fool Me Twice",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "I Like It No I Don't Like It",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "I Like It No I Hate It",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Joahae Ani Sireohae",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "좋아해 아니 싫어해",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "喜欢你，讨厌你",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Joahae Ani Sileohae",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "They say freshman romance can make or break college life. So it was for Min Kim, whose heart was shattered two years ago by beautiful upperclassman Bora Kwon. Min re-enters college after his military service hoping for a fresh start, but as luck would have it, his old flame has also just returned from a long leave of absence. As he struggles to bury lingering feelings and move on with his life, Min encounters Jina Bae, the firecracker-next-door who begins to find a place in his heart.\n\n(Source: WEBTOON)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zL2EvZC9lL2YvOC82L2YvODA1Ny80YzRmLzhlZDQvMGIyMTAzYmY0NTg5",
-  "total_chapters": "50",
+  "display_title": "Do I Like It? No, I Hate It",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2022,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2022-01-21",
     "end_date": "2022-12-02",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-14T09:57:16.848Z",
-  "authors": [
-    "JiJi"
-  ],
-  "artists": [
-    "JiJi"
-  ],
-  "publishers": [
-    {
-      "name": "Jaedam",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/89433",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=5095"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 163983,
-      "rating": 64,
-      "url": "https://anilist.co/manga/163983"
+      "rating": 6.4,
+      "rating_normalized": 64
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "fool-me-twice",
-      "rating": 70,
-      "url": "https://www.anime-planet.com/manga/fool-me-twice"
+      "rating": 3.5,
+      "rating_normalized": 70
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 67400,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "u47ndhk",
-      "rating": 65,
-      "url": "https://www.mangaupdates.com/series/u47ndhk"
+      "rating": 6.51,
+      "rating_normalized": 65
+    },
+    "my_anime_list": {
+      "id": 158391,
+      "rating": 6.62,
+      "rating_normalized": 66
+    },
+    "shikimori": {
+      "id": 158391,
+      "rating": 6.62,
+      "rating_normalized": 66
     }
   },
   "tag_ids": [
@@ -145,9 +92,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5038,
-    "fanRatioPercentile": 57.1417,
-    "popularityPercentile": 58.2302,
-    "fanFavouriteDiscoveryScore": 54.8731,
-    "fanFavouriteDiscoveryPercentile": 62.9052
+    "fanRatioPercentile": 57.1619,
+    "popularityPercentile": 58.2498,
+    "fanFavouriteDiscoveryScore": 54.896,
+    "fanFavouriteDiscoveryPercentile": 62.9227
   }
 }

@@ -1,69 +1,66 @@
 {
   "id": 351109,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "OFF모드 마리",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "OFF모드 마리",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "OFFモードマリー",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ja-Latn",
-      "title": "OFF-Mode Mari",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_native": [],
+  "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L29mZi1tb2RlLW1hcmktMS53ZWJwP3Q9MTc0OTE1NTU1Mw",
-  "total_chapters": "192",
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2024,
+  "year": null,
   "published": {
     "start_date": "2024-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-04-05T21:18:14.476Z",
-  "authors": [
-    "OJiBi"
-  ],
-  "artists": [
-    "OJiBi"
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/351109",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
       "id": "off-mode-mari",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/off-mode-mari"
+      "rating_normalized": null
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "tmt69ou",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/tmt69ou"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

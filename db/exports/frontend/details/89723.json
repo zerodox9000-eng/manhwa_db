@@ -1,104 +1,66 @@
 {
   "id": 89723,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Go For It, Girl",
-  "titles_en": [
-    {
-      "title": "Cheer Up, Girl",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Go For It, Girl",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Stay Strong, Short Hair!",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "힘내라 단발!",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Himnaera Danbal!",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "A slow guy and a shy girl, and a lively, pretty girl in between! Get ready for a fun, romantic comedy!\n\n(Source: TOPTOON+)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1OTUzNC03THJOQjBMQ0VXUk0ucG5n",
-  "total_chapters": "28",
+  "display_title": "Cheer Up, Girl",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2022,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2022-08-22",
     "end_date": "2022-12-26",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-04-30T02:32:07.682Z",
-  "authors": [
-    "HowJin"
-  ],
-  "artists": [
-    "HowJin"
-  ],
-  "publishers": [
-    {
-      "name": "Day Comics",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Toptoon",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Toptoon Plus",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/89723",
-    "read_en": "https://daycomics.com/content/Go-For-It,-Girl/102307"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 159534,
-      "rating": 57,
-      "url": "https://anilist.co/manga/159534"
+      "rating": 5.7,
+      "rating_normalized": 57
     },
-    "animeplanet": null,
-    "mangaupdates": {
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "ls044tp",
-      "rating": 61,
-      "url": "https://www.mangaupdates.com/series/ls044tp"
+      "rating": 6.06,
+      "rating_normalized": 61
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -120,9 +82,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.7778,
-    "fanRatioPercentile": 83.3438,
-    "popularityPercentile": 22.9601,
-    "fanFavouriteDiscoveryScore": 46.7856,
-    "fanFavouriteDiscoveryPercentile": 54.5732
+    "fanRatioPercentile": 83.3516,
+    "popularityPercentile": 22.9962,
+    "fanFavouriteDiscoveryScore": 46.8519,
+    "fanFavouriteDiscoveryPercentile": 54.6493
   }
 }

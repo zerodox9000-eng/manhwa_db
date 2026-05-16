@@ -1,159 +1,66 @@
 {
   "id": 40040,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Viral Hit",
-  "titles_en": [
-    {
-      "title": "Hit Viral",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "How to Fight",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "I Can Fight Better",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Self Taught Fight",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Ssaumdokhak",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Viral Hit",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "싸움독학",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "Kenka Dokugaku",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko",
-      "title": "Ssaumdoghag",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "喧嘩独学",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "格鬥實況",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "直播风暴",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ja-Latn",
-      "title": "Kenka Dougaku",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Ssaumdokak",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Scrawny high school student Ho-Bin Yoo is probably the last guy you’d expect to star in a NewTube channel that revolves around fighting. But after following some advice from a mysterious NewTube channel, Ho-Bin is soon knocking out guys stronger than him and raking in more money than he could have ever dreamed of. Can Ho-Bin keep this up, or will he eventually meet his match? \n\n(Source: WEBTOON)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzkvMC85L2EvZS8zLzAvMjAyOC80OGM1L2FiYjAvM2FlMWY5MjRjOTE1",
-  "total_chapters": "222",
+  "display_title": "Hit Viral",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "suggestive",
-  "is_licensed": true,
-  "year": 2019,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2019-11-16",
     "end_date": "2024-01-27",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T13:15:33.355Z",
-  "authors": [
-    "Tae-Jun Park"
-  ],
-  "artists": [
-    "Jeong-Hyeon Kim"
-  ],
-  "publishers": [
-    {
-      "name": "GCK Books",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "PTJ Comics",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "WEBTOON",
-      "type": "English",
-      "note": "Digital & Print"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/40040",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=2268"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 121991,
-      "rating": 78,
-      "url": "https://anilist.co/manga/121991"
+      "rating": 7.8,
+      "rating_normalized": 78
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "viral-hit",
-      "rating": 82,
-      "url": "https://www.anime-planet.com/manga/viral-hit"
+      "rating": 4.1,
+      "rating_normalized": 82
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": 32054,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 57228,
+      "rating": 8.046,
+      "rating_normalized": 80
+    },
+    "manga_updates": {
       "id": "vicmj6m",
-      "rating": 77,
-      "url": "https://www.mangaupdates.com/series/vicmj6m"
+      "rating": 7.74,
+      "rating_normalized": 77
+    },
+    "my_anime_list": {
+      "id": 139164,
+      "rating": 7.91,
+      "rating_normalized": 79
+    },
+    "shikimori": {
+      "id": 139164,
+      "rating": 7.94,
+      "rating_normalized": 79
     }
   },
   "tag_ids": [
@@ -215,9 +122,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 5.1322,
-    "fanRatioPercentile": 96.5309,
-    "popularityPercentile": 99.7024,
-    "fanFavouriteDiscoveryScore": 96.4052,
-    "fanFavouriteDiscoveryPercentile": 98.6374
+    "fanRatioPercentile": 96.5326,
+    "popularityPercentile": 99.7026,
+    "fanFavouriteDiscoveryScore": 96.4068,
+    "fanFavouriteDiscoveryPercentile": 98.6381
   }
 }

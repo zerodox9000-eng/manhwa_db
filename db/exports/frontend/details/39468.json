@@ -1,151 +1,66 @@
 {
   "id": 39468,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "The Horizon",
-  "titles_en": [
-    {
-      "title": "Horizont",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Horizon",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "수평선",
-      "is_primary": true,
-      "traits": [
-        "native",
-        "official"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "水平線",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "language": "ko",
-      "title": "水平線 (Jeong Ji-hun)",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "水平线",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Supyeongseon",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "A world where everything has been lost. A boy and a girl alone together. All they can do is move forward. But against broken adults and devastating despair, how long will they be able to keep going…?\n\n*Source: Yen Press, Vol. 1*",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2EvMS9mLzMvMC9hLzkvOWM4Ni80ZmJmLzhjMDcvMzQzM2E2Mjk0YmYy",
-  "total_chapters": "21",
+  "display_title": "Horizont",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2016,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2016-03-31",
     "end_date": "2016-07-22",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T15:34:40.479Z",
-  "authors": [
-    "Ji-Hun Jeong"
-  ],
-  "artists": [
-    "Ji-Hun Jeong"
-  ],
-  "publishers": [
-    {
-      "name": "Comica",
-      "type": "Original",
-      "note": "Expired"
-    },
-    {
-      "name": "Ize Press (Yen Press)",
-      "type": "English",
-      "note": "3 Volumes; Complete"
-    },
-    {
-      "name": "Lezhin US",
-      "type": "English",
-      "note": "Expired"
-    },
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": "2020"
-    },
-    {
-      "name": "SpotToon",
-      "type": "English",
-      "note": "Expired"
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": "Expired"
-    },
-    {
-      "name": "Ultra Media",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Kibook Ediciones",
-      "type": "Other",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/39468",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=3141"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 100568,
-      "rating": 85,
-      "url": "https://anilist.co/manga/100568"
+      "rating": 8.5,
+      "rating_normalized": 85
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-horizon",
-      "rating": 88,
-      "url": "https://www.anime-planet.com/manga/the-horizon"
+      "rating": 4.4,
+      "rating_normalized": 88
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 56757,
+      "rating": 8.312999999999999,
+      "rating_normalized": 83
+    },
+    "manga_updates": {
       "id": "42udii9",
-      "rating": 84,
-      "url": "https://www.mangaupdates.com/series/42udii9"
+      "rating": 8.37,
+      "rating_normalized": 84
+    },
+    "my_anime_list": {
+      "id": 125036,
+      "rating": 8.67,
+      "rating_normalized": 87
+    },
+    "shikimori": {
+      "id": 125036,
+      "rating": 8.7,
+      "rating_normalized": 87
     }
   },
   "tag_ids": [
@@ -200,9 +115,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 7.0399,
-    "fanRatioPercentile": 98.3712,
+    "fanRatioPercentile": 98.3719,
     "popularityPercentile": 99.9687,
-    "fanFavouriteDiscoveryScore": 98.2458,
-    "fanFavouriteDiscoveryPercentile": 99.6476
+    "fanFavouriteDiscoveryScore": 98.2466,
+    "fanFavouriteDiscoveryPercentile": 99.6478
   }
 }

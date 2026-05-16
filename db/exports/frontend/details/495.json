@@ -1,129 +1,66 @@
 {
   "id": 495,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Tears on a Withered Flower",
-  "titles_en": [
-    {
-      "title": "Sideun Kkoch-e Nunmur-eul",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Tears for the Withered Flower",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Tears for Withered Flowers",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Tears on a Withered Flower",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "시든 꽃에 눈물을",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "枯れた花に涙を",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "枯萎之花上的眼泪",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Kareta Hana ni Namida wo",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Sideun Kkoch-e Nunmul-eul",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Sideun Kkoche Nunmureul",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Romance, flowers, and dates-- once upon a time, that was the perfect description of Hae-Su and Min-Cheol. Now, all Hae-Su has is the ashes of their marriage and a mountain of debt. But her world shatters completely when Min-Cheol cheats on her with a young coworker. Hurt and betrayed, Hae-Su finds herself drawn to Tae-Ha, a young man who seems desperate for her affection… and may be hiding more than he shows.\n\n(Source: WEBTOON, edited)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzAvYS81LzMvOS85L2UvYjVjZC80YmY0L2E1ZmIvYWZmOGFjMTFlZDIy",
-  "total_chapters": "101",
+  "display_title": "Sideun Kkoch-e Nunmur-eul",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "erotica",
-  "is_licensed": true,
-  "year": 2024,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2024-06-21",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T17:00:34.664Z",
-  "authors": [
-    "Gae"
-  ],
-  "artists": [
-    "Gae"
-  ],
-  "publishers": [
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/495",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8135"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 178692,
-      "rating": 73,
-      "url": "https://anilist.co/manga/178692"
+      "rating": 7.3,
+      "rating_normalized": 73
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "tears-on-a-withered-flower",
-      "rating": 80,
-      "url": "https://www.anime-planet.com/manga/tears-on-a-withered-flower"
+      "rating": 4,
+      "rating_normalized": 80
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 72705,
+      "rating": 7.678,
+      "rating_normalized": 77
+    },
+    "manga_updates": {
       "id": "3pdw9ye",
-      "rating": 77,
-      "url": "https://www.mangaupdates.com/series/3pdw9ye"
+      "rating": 7.68,
+      "rating_normalized": 77
+    },
+    "my_anime_list": {
+      "id": 171476,
+      "rating": 7.46,
+      "rating_normalized": 75
+    },
+    "shikimori": {
+      "id": 171476,
+      "rating": 7.6,
+      "rating_normalized": 76
     }
   },
   "tag_ids": [
@@ -203,9 +140,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.1674,
-    "fanRatioPercentile": 94.0094,
-    "popularityPercentile": 96.3978,
-    "fanFavouriteDiscoveryScore": 93.8481,
-    "fanFavouriteDiscoveryPercentile": 97.0399
+    "fanRatioPercentile": 94.0122,
+    "popularityPercentile": 96.3995,
+    "fanFavouriteDiscoveryScore": 93.851,
+    "fanFavouriteDiscoveryPercentile": 97.0413
   }
 }

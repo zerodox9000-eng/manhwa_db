@@ -1,114 +1,66 @@
 {
   "id": 42144,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "The Savior's Time",
-  "titles_en": [
-    {
-      "title": "Guju-ui Sigan",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Savior's Time",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "The Saviour's Time",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Time of Savior",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "구주의시간",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "救済の時間",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Gujuui Sigan",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "When the youngest sister of the Yu family ends her own life, her elder brother begins to investigate her untimely death. The only clue left behind is the record of her messages on Savior -- a mysterious online community for those who need salvation from reality.\n\n(Source: WEBTOON)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzUvYS8yLzcvYS84LzgvN2I1Yy80ZmQ3L2FlMmUvMzVkNDQ2ZGE5NmU4",
-  "total_chapters": "59",
+  "display_title": "Guju-ui Sigan",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2020,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2020-07-09",
     "end_date": "2021-08-12",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T06:37:36.225Z",
-  "authors": [
-    "Geukjang Song"
-  ],
-  "artists": [
-    "Geukjang Song"
-  ],
-  "publishers": [
-    {
-      "name": "Kidari Studio",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/42144",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=2608"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 132624,
-      "rating": 70,
-      "url": "https://anilist.co/manga/132624"
+      "rating": 7,
+      "rating_normalized": 70
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-saviors-time",
-      "rating": 76,
-      "url": "https://www.anime-planet.com/manga/the-saviors-time"
+      "rating": 3.8,
+      "rating_normalized": 76
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 60758,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "c53rn4o",
-      "rating": 70,
-      "url": "https://www.mangaupdates.com/series/c53rn4o"
+      "rating": 7.04,
+      "rating_normalized": 70
+    },
+    "my_anime_list": {
+      "id": 149371,
+      "rating": 7.04,
+      "rating_normalized": 70
+    },
+    "shikimori": {
+      "id": 149371,
+      "rating": 7.06,
+      "rating_normalized": 71
     }
   },
   "tag_ids": [
@@ -139,9 +91,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2425,
-    "fanRatioPercentile": 74.6202,
-    "popularityPercentile": 83.8919,
-    "fanFavouriteDiscoveryScore": 74.2584,
-    "fanFavouriteDiscoveryPercentile": 82.2475
+    "fanRatioPercentile": 74.6321,
+    "popularityPercentile": 83.8995,
+    "fanFavouriteDiscoveryScore": 74.2705,
+    "fanFavouriteDiscoveryPercentile": 82.2558
   }
 }

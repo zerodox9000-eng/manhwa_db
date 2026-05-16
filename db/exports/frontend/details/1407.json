@@ -1,102 +1,66 @@
 {
   "id": 1407,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "New Chronicles of Goguryeo",
-  "titles_en": [
-    {
-      "title": "New Chronicles of Goguryeo",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "New Goguryeo Chronicles",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Record of a New Goguryeo",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Sin Goguryeo Jeongi",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "신 고구려전기",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Sin Goguryeojeongi",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "The world unfolded in my dream, It was the late Goguryeo period, And I became Yeon Nam-Saeng, son of Yeon Gaesomun. In reality, I am Kim Nam-Saeng...\n\n(Source: Naver, translated)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzAvYy84LzYvNy80L2UvYTIzNS80MWNmLzk4YTAvODg4YzI2MGY0NTEx",
-  "total_chapters": "95",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2022,
+  "year": null,
   "published": {
     "start_date": "2022-10-20",
     "end_date": "2025-05-29",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T05:52:38.153Z",
-  "authors": [
-    "Jangjakga",
-    "Pung Ajeossi"
-  ],
-  "artists": [
-    "Dakseuk"
-  ],
-  "publishers": [
-    {
-      "name": "JC Media",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/1407",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 207381,
-      "rating": 57,
-      "url": "https://anilist.co/manga/207381"
+      "rating": 5.7,
+      "rating_normalized": 57
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "new-chronicles-of-goguryeo",
-      "rating": 72,
-      "url": "https://www.anime-planet.com/manga/new-chronicles-of-goguryeo"
+      "rating": 3.6,
+      "rating_normalized": 72
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "ecgdw2w",
-      "rating": 64,
-      "url": "https://www.mangaupdates.com/series/ecgdw2w"
+      "rating": 6.44,
+      "rating_normalized": 64
+    },
+    "my_anime_list": {
+      "id": 178453,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 178453,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -126,9 +90,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 28.0423,
-    "fanFavouriteDiscoveryScore": 20.9809,
-    "fanFavouriteDiscoveryPercentile": 23.3203
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 28.0761,
+    "fanFavouriteDiscoveryScore": 21.0221,
+    "fanFavouriteDiscoveryPercentile": 23.3563
   }
 }

@@ -1,82 +1,66 @@
 {
   "id": 90937,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "인숙",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "인숙",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Insook",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Insuk",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "[Original Webtoon](https://www.anytoon.co.kr/webtoon_add.htm?ind=2975&utm_campaign=%EC%9D%B8%EC%88%99&utm_term=%EC%9D%B8%EC%88%99&utm_content=%EC%9D%B8%EC%88%99&utm_source=google&utm_medium=cpc&pid=iamadma2)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1OTQ4Ni16SlU5bHBnSE9QOUQucG5n",
-  "total_chapters": "32",
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "pornographic",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2019,
+  "year": null,
   "published": {
     "start_date": "2019-03-21",
     "end_date": "2019-12-17",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-11T06:45:09.251Z",
-  "authors": [
-    "Cocodor"
-  ],
-  "artists": [
-    "Seok-Bae Moon"
-  ],
-  "publishers": [
-    {
-      "name": "Anytoon",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "GT ENT",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/90937",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 159486,
-      "rating": 40,
-      "url": "https://anilist.co/manga/159486"
+      "rating": 4,
+      "rating_normalized": 40
     },
-    "animeplanet": null,
-    "mangaupdates": {
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "vkgvzaa",
-      "rating": 62,
-      "url": "https://www.mangaupdates.com/series/vkgvzaa"
+      "rating": 6.17,
+      "rating_normalized": 62
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -96,9 +80,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 28.567,
-    "fanFavouriteDiscoveryScore": 21.2891,
-    "fanFavouriteDiscoveryPercentile": 23.657
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 28.6005,
+    "fanFavouriteDiscoveryScore": 21.3302,
+    "fanFavouriteDiscoveryPercentile": 23.6929
   }
 }

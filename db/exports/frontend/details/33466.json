@@ -1,106 +1,66 @@
 {
   "id": 33466,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "The Devil's Descendants",
-  "titles_en": [
-    {
-      "title": "The Devil's Descendants",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "악의 혈통",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "悪の血統",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "邪恶血统",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "邪惡血統",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Agui Hyeoltong",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "I have the cursed skill that lets me know who the criminals are. It's my job to get rid of them from this world.\n\n(Source: Toomics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEwODc1NC1YbVpoa09kZ0dWaTUuanBn",
-  "total_chapters": "48",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2019,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2019-01-01",
     "end_date": "2019-09-15",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-14T22:08:03.465Z",
-  "authors": [
-    "JQ STUDIO"
-  ],
-  "artists": [
-    "Jae-Won Lim"
-  ],
-  "publishers": [
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": ""
-    },
-    {
-      "name": "Toomics",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/33466",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 108754,
-      "rating": 62,
-      "url": "https://anilist.co/manga/108754"
+      "rating": 6.2,
+      "rating_normalized": 62
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-devils-descendants",
-      "rating": 66,
-      "url": "https://www.anime-planet.com/manga/the-devils-descendants"
+      "rating": 3.3,
+      "rating_normalized": 66
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 67292,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "lobzbbb",
-      "rating": 62,
-      "url": "https://www.mangaupdates.com/series/lobzbbb"
+      "rating": 6.19,
+      "rating_normalized": 62
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -118,9 +78,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.9608,
-    "fanRatioPercentile": 68.6218,
-    "popularityPercentile": 60.6421,
-    "fanFavouriteDiscoveryScore": 66.3772,
-    "fanFavouriteDiscoveryPercentile": 75.0979
+    "fanRatioPercentile": 68.6365,
+    "popularityPercentile": 60.6606,
+    "fanFavouriteDiscoveryScore": 66.3948,
+    "fanFavouriteDiscoveryPercentile": 75.1096
   }
 }

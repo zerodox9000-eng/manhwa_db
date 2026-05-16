@@ -1,110 +1,66 @@
 {
   "id": 170781,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Proof of Dignity",
-  "titles_en": [
-    {
-      "title": "Certificate of Dignity",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Dignity Proof",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Proof of Dignity",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "품위증명",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "品格証明",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "品格试炼",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Pumwijeungmyeong",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Geon-Yeong is a brilliant girl. Despite being underprivileged, her exceptional intellect allows her to enroll in the prestigious Pyeonghyeon High School. There, she meets new competitors and friends. She struggles to compete with all the other privileged students who have expensive lessons. Amidst these challenges, she is determined to succeed and become a judge. This is Geon-Yeong's journey to prove that despite the disadvantages life has dealt her, she is worthy of respect. \n\n(Source: WEBTOON)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzYvOC9mLzIvOS9mL2MvMDg2MC80MGZlLzgxODYvNThiNjZhYzBhMThm",
-  "total_chapters": "62",
+  "display_title": "Certificate of Dignity",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2025,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2025-03-18",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T11:47:31.837Z",
-  "authors": [
-    "Jeongnok"
-  ],
-  "artists": [
-    "Yeommil"
-  ],
-  "publishers": [
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/170781",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=8211"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 188304,
-      "rating": 82,
-      "url": "https://anilist.co/manga/188304"
+      "rating": 8.2,
+      "rating_normalized": 82
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "proof-of-dignity",
-      "rating": 84,
-      "url": "https://www.anime-planet.com/manga/proof-of-dignity"
+      "rating": 4.2,
+      "rating_normalized": 84
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "jean9v3",
-      "rating": 68,
-      "url": "https://www.mangaupdates.com/series/jean9v3"
+      "rating": 6.76,
+      "rating_normalized": 68
+    },
+    "my_anime_list": {
+      "id": 184057,
+      "rating": 7.68,
+      "rating_normalized": 77
+    },
+    "shikimori": {
+      "id": 184057,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -131,9 +87,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 5.3459,
-    "fanRatioPercentile": 96.9225,
-    "popularityPercentile": 73.9624,
-    "fanFavouriteDiscoveryScore": 95.8543,
-    "fanFavouriteDiscoveryPercentile": 98.2616
+    "fanRatioPercentile": 96.9239,
+    "popularityPercentile": 73.9746,
+    "fanFavouriteDiscoveryScore": 95.8568,
+    "fanFavouriteDiscoveryPercentile": 98.2624
   }
 }

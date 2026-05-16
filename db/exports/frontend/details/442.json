@@ -1,99 +1,66 @@
 {
   "id": 442,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Player",
-  "titles_en": [
-    {
-      "title": "Player",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "플레이어",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "プレイヤー",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "網漫玩家",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "被迫成为玩家",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Player",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Through posting a \"Best Comment\", I somehow became the main character of a webtoon!\n\n(Source: Naver, translated)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2UvMi81L2UvZC80LzkvZDQ1MS80MWM1L2JjNzcvN2FjZjFkNjFjMDNi",
-  "total_chapters": "257",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2020,
+  "year": null,
   "published": {
     "start_date": "2020-05-07",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T15:18:36.230Z",
-  "authors": [
-    "Jong-Seok Park"
-  ],
-  "artists": [
-    "Hyeon-Jun Oh"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/442",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 119363,
-      "rating": 78,
-      "url": "https://anilist.co/manga/119363"
+      "rating": 7.8,
+      "rating_normalized": 78
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "player",
-      "rating": 78,
-      "url": "https://www.anime-planet.com/manga/player"
+      "rating": 3.9,
+      "rating_normalized": 78
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 56704,
+      "rating": 7.8069999999999995,
+      "rating_normalized": 78
+    },
+    "manga_updates": {
       "id": "nly1ont",
-      "rating": 64,
-      "url": "https://www.mangaupdates.com/series/nly1ont"
+      "rating": 6.43,
+      "rating_normalized": 64
+    },
+    "my_anime_list": {
+      "id": 149871,
+      "rating": 7.85,
+      "rating_normalized": 79
+    },
+    "shikimori": {
+      "id": 149871,
+      "rating": 7.85,
+      "rating_normalized": 79
     }
   },
   "tag_ids": [
@@ -124,9 +91,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.2891,
-    "fanRatioPercentile": 94.3853,
-    "popularityPercentile": 99.1386,
-    "fanFavouriteDiscoveryScore": 94.2564,
-    "fanFavouriteDiscoveryPercentile": 97.3297
+    "fanRatioPercentile": 94.3879,
+    "popularityPercentile": 99.139,
+    "fanFavouriteDiscoveryScore": 94.259,
+    "fanFavouriteDiscoveryPercentile": 97.3309
   }
 }

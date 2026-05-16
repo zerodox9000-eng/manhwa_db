@@ -1,62 +1,67 @@
 {
   "id": 175863,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "바니바니",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "바니바니",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Bunny Bunny",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
+  "titles_native": [],
+  "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ueDEwMjMyMS1nd3VZcDRoYk5qMzMuanBn",
-  "total_chapters": "17",
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2016,
+  "year": null,
   "published": {
     "start_date": "2016-04-09",
     "end_date": "2016-07-07",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-04-08T05:06:25.281Z",
-  "authors": [
-    "Jumdal"
-  ],
-  "artists": [
-    "Jisu"
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/175863",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 102321,
-      "rating": 70,
-      "url": "https://anilist.co/manga/102321"
+      "rating": 7,
+      "rating_normalized": 70
     },
-    "animeplanet": null,
-    "mangaupdates": null
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    }
   },
   "tag_ids": [
     180,
@@ -69,9 +74,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 29.7259,
-    "fanFavouriteDiscoveryScore": 21.9536,
-    "fanFavouriteDiscoveryPercentile": 24.4323
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 29.7589,
+    "fanFavouriteDiscoveryScore": 21.9943,
+    "fanFavouriteDiscoveryPercentile": 24.4678
   }
 }

@@ -1,81 +1,66 @@
 {
   "id": 39047,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "All Eyes On Me",
-  "titles_en": [
-    {
-      "title": "All Eyes On Me",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "오라존미",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Orajonmi",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "An artist who draws manhwa, and an artist who talks about manhwa.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzAvNS80LzkvOC80LzcvMGU1NC80NzUzLzlmNWMvOGY3NTBkNmFkODNm",
-  "total_chapters": "78",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2019,
+  "year": null,
   "published": {
     "start_date": "2019-02-12",
     "end_date": "2020-07-07",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-12T00:12:55.495Z",
-  "authors": [
-    "HP56"
-  ],
-  "artists": [
-    "HP56"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/39047",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 146704,
-      "rating": 86,
-      "url": "https://anilist.co/manga/146704"
+      "rating": 8.6,
+      "rating_normalized": 86
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "all-eyes-on-me",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/all-eyes-on-me"
+      "rating_normalized": null
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "loqqceo",
-      "rating": 61,
-      "url": "https://www.mangaupdates.com/series/loqqceo"
+      "rating": 6.07,
+      "rating_normalized": 61
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -92,9 +77,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 12.3493,
-    "fanFavouriteDiscoveryScore": 10.967,
-    "fanFavouriteDiscoveryPercentile": 11.2294
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 12.3904,
+    "fanFavouriteDiscoveryScore": 11.0027,
+    "fanFavouriteDiscoveryPercentile": 11.2711
   }
 }

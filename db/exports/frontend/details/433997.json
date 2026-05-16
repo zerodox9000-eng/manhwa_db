@@ -1,54 +1,67 @@
 {
   "id": 433997,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "걸프렌드",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "걸프렌드",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Girlfriend (Yoon)",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_native": [],
+  "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2dpcmxmcmllbmQteW9vbi0xLndlYnA_dD0xNzI3NjE0NDAz",
-  "total_chapters": "20",
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2015,
+  "year": null,
   "published": {
     "start_date": "2015-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2025-09-13T14:36:06.806Z",
+  "last_updated_at": null,
   "authors": [],
   "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/433997",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
       "id": "girlfriend-yoon",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/girlfriend-yoon"
+      "rating_normalized": null
     },
-    "mangaupdates": null
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    }
   },
   "tag_ids": [
     228,

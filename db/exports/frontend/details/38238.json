@@ -1,136 +1,66 @@
 {
   "id": 38238,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "The Wilting Light",
-  "titles_en": [
-    {
-      "title": "Aseuranhi",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Crazy For You (PHOCA)",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Wilting Light",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "아스란히",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko",
-      "title": "儚げに〜とある妖が棲む国の話〜",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "儚げに〜とある妖が棲む国の話〜",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "影影绰绰",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "朦朧地",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "浩渺恋爱",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "饮妖止渴",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Aseulanhi",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "What lies in worlds beyond our own? Is it a bright light and then… nothingness? Or is it another land populated with gorgeous beauty and eldritch horror beyond our recognition? General Hwee-un falls in battle, leaving behind his unspoken love and a life unlived and awakens in a… forest? Malevolent spirits and demons vie for his life until a handsome goblin whisks him away to the Goblin Village and into the court of the Goblin King. Whatever life may exist in the beyond, death is only the beginning.\n\n(Source: Lezhin US)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEwNTY3OC1zdmJ0bXhuY0xMRTAuanBn",
-  "total_chapters": "25",
+  "display_title": "Aseuranhi",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "cancelled",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2018,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2018-10-10",
     "end_date": "2019-02-10",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T07:02:46.151Z",
-  "authors": [
-    "PHOCA"
-  ],
-  "artists": [
-    "PHOCA"
-  ],
-  "publishers": [
-    {
-      "name": "Lezhin",
-      "type": "Original",
-      "note": "Expired"
-    },
-    {
-      "name": "Lezhin US",
-      "type": "English",
-      "note": "S1; Expired"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/38238",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 105678,
-      "rating": 82,
-      "url": "https://anilist.co/manga/105678"
+      "rating": 8.2,
+      "rating_normalized": 82
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-wilting-light",
-      "rating": 84,
-      "url": "https://www.anime-planet.com/manga/the-wilting-light"
+      "rating": 4.2,
+      "rating_normalized": 84
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 57998,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "guq9du6",
-      "rating": 71,
-      "url": "https://www.mangaupdates.com/series/guq9du6"
+      "rating": 7.14,
+      "rating_normalized": 71
+    },
+    "my_anime_list": {
+      "id": 120758,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 120758,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -167,9 +97,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.0864,
-    "fanRatioPercentile": 87.1417,
-    "popularityPercentile": 74.2443,
-    "fanFavouriteDiscoveryScore": 86.2034,
-    "fanFavouriteDiscoveryPercentile": 92.2005
+    "fanRatioPercentile": 87.1478,
+    "popularityPercentile": 74.2564,
+    "fanFavouriteDiscoveryScore": 86.2103,
+    "fanFavouriteDiscoveryPercentile": 92.2041
   }
 }

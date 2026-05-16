@@ -1,138 +1,66 @@
 {
   "id": 4000,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "A Dream Escape",
-  "titles_en": [
-    {
-      "title": "A Dream Escape",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "I'll Just Hold Your Hand",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Just Hold My Hand",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "You Just Need to Hold My Hand",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "손만 잡고 잘게",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "その手をつないで眠ろう",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "只需轻握我的手",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "我握着你的手就睡",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Pegang Saja Tanganku",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Sonman Japgo Jalge",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "After Crown Prince Marmel falls into a deep slumber, Sonidor the Dream Meister must use her power of entering dreams through physical contact to wake him. But as she takes on a new form each time she enters his dreams, she discovers that the prince isn't cursed, forcing her to delve deeper into his subconscious to discover the source of his eternal sleep. Will finding that source help him overcome his trauma, or will facing it trap the prince and the Dream Meister in a nightmare forever? \n\n(Source: Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1NzQ4Ny1mZXd4MWx2bVZzd1YuanBn",
-  "total_chapters": "78",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2022,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2022-11-15",
     "end_date": "2025-02-26",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T06:41:30.507Z",
-  "authors": [
-    "Gorilla Maid",
-    "I-Su Seol"
-  ],
-  "artists": [
-    "Gorilla Maid"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Polarfox",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/4000",
-    "read_en": "https://tapas.io/series/a-dream-escape/info"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 157487,
-      "rating": 70,
-      "url": "https://anilist.co/manga/157487"
+      "rating": 7,
+      "rating_normalized": 70
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "a-dream-escape",
-      "rating": 74,
-      "url": "https://www.anime-planet.com/manga/a-dream-escape"
+      "rating": 3.7,
+      "rating_normalized": 74
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 67026,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "6fg2tzc",
-      "rating": 66,
-      "url": "https://www.mangaupdates.com/series/6fg2tzc"
+      "rating": 6.55,
+      "rating_normalized": 66
+    },
+    "my_anime_list": {
+      "id": 154207,
+      "rating": 6.77,
+      "rating_normalized": 68
+    },
+    "shikimori": {
+      "id": 154207,
+      "rating": 6.73,
+      "rating_normalized": 67
     }
   },
   "tag_ids": [
@@ -177,9 +105,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.1658,
-    "fanRatioPercentile": 47.9327,
-    "popularityPercentile": 77.314,
-    "fanFavouriteDiscoveryScore": 47.532,
-    "fanFavouriteDiscoveryPercentile": 56.1864
+    "fanRatioPercentile": 47.9571,
+    "popularityPercentile": 77.3247,
+    "fanFavouriteDiscoveryScore": 47.5566,
+    "fanFavouriteDiscoveryPercentile": 56.207
   }
 }

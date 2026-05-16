@@ -1,51 +1,66 @@
 {
   "id": 303061,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "One Word",
-  "titles_en": [
-    {
-      "title": "One Word",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
   "titles_native": [],
   "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMjU0NDYwLmpwZw",
-  "total_chapters": "0",
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2017,
+  "year": null,
   "published": {
     "start_date": "2017-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-03T12:52:28.959Z",
-  "authors": [
-    "Li Seon Ui",
-    "Team S&S"
-  ],
-  "artists": [
-    "Seo Gyeong",
-    "Team S&S"
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/303061",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "0w47u0w",
-      "rating": 63,
-      "url": "https://www.mangaupdates.com/series/0w47u0w"
+      "rating": 6.33,
+      "rating_normalized": 63
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

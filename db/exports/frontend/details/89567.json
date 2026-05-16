@@ -1,107 +1,66 @@
 {
   "id": 89567,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Galaxy",
-  "titles_en": [
-    {
-      "title": "Galaxy",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "은하",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "銀河!",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Eunha",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Can the last survivor of Earth make it through the hardships and dangers that lie throughout the galaxy? \n\n(Source: Toomics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyMDIyNC1taldUSzl4bk9ZSkcuanBn",
-  "total_chapters": "171",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2019,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2019-07-27",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-14T04:37:37.659Z",
-  "authors": [
-    "Griffon"
-  ],
-  "artists": [
-    "Babu Geureo",
-    "Rtari",
-    "Sir Nyangpa"
-  ],
-  "publishers": [
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": "Remake, censored version"
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": "Original/Remake, 2009/2022"
-    },
-    {
-      "name": "Studio 389",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": "Removed"
-    },
-    {
-      "name": "Toomics",
-      "type": "Original",
-      "note": "Remake"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/89567",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 120224,
-      "rating": 80,
-      "url": "https://anilist.co/manga/120224"
+      "rating": 8,
+      "rating_normalized": 80
     },
-    "animeplanet": null,
-    "mangaupdates": {
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "whvf1qt",
-      "rating": 59,
-      "url": "https://www.mangaupdates.com/series/whvf1qt"
+      "rating": 5.88,
+      "rating_normalized": 59
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -130,9 +89,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 27.2984,
-    "fanFavouriteDiscoveryScore": 20.5364,
-    "fanFavouriteDiscoveryPercentile": 22.8034
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 27.3325,
+    "fanFavouriteDiscoveryScore": 20.5777,
+    "fanFavouriteDiscoveryPercentile": 22.8397
   }
 }

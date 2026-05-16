@@ -1,136 +1,66 @@
 {
   "id": 30205,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Master of the Dragon",
-  "titles_en": [
-    {
-      "title": "Master of the Dragon",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "The Master of Shinryong",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "신룡의 주인",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko",
-      "title": "신룡의 주인: The Dragon Master",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "神竜の主",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "神竜の主: The Dragon Master",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Sillyongui Juin",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Sinlyong-ui Ju-in",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "The Dragon Master",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "description": "Shan, who was born weak, was born in the family of Dragon Master Alterion and was a concern of his family. One day he found a dragon egg in the forest and became the master of the dragon.\n\n(Source: KakaoPage, translated)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jL2UvYy8wL2MvMi8yLzMvYzNhZi80YzdkL2FhZjkvNjkyNmE2ODZhOThi",
-  "total_chapters": "194",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2018,
+  "year": null,
   "published": {
     "start_date": "2018-10-01",
     "end_date": "2018-11-14",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-14T03:59:35.306Z",
-  "authors": [
-    "Tae-Seon"
-  ],
-  "artists": [
-    "Do-Bin"
-  ],
-  "publishers": [
-    {
-      "name": "Comico",
-      "type": "Original",
-      "note": "2014"
-    },
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": "2020"
-    },
-    {
-      "name": "Golem Factory",
-      "type": "Original",
-      "note": "2018"
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": "2019"
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": "2018"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/30205",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 164447,
-      "rating": 47,
-      "url": "https://anilist.co/manga/164447"
+      "rating": 4.7,
+      "rating_normalized": 47
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-dragon-master",
-      "rating": 70,
-      "url": "https://www.anime-planet.com/manga/the-dragon-master"
+      "rating": 3.5,
+      "rating_normalized": 70
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 54164,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "iib8gm5",
-      "rating": 63,
-      "url": "https://www.mangaupdates.com/series/iib8gm5"
+      "rating": 6.33,
+      "rating_normalized": 63
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -279,9 +209,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.7595,
-    "fanRatioPercentile": 64.0016,
-    "popularityPercentile": 62.9131,
-    "fanFavouriteDiscoveryScore": 62.2592,
-    "fanFavouriteDiscoveryPercentile": 70.4072
+    "fanRatioPercentile": 64.0185,
+    "popularityPercentile": 62.9305,
+    "fanFavouriteDiscoveryScore": 62.2782,
+    "fanFavouriteDiscoveryPercentile": 70.4211
   }
 }

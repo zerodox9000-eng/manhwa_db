@@ -1,63 +1,67 @@
 {
   "id": 172895,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Romance 101 Spin-Off",
-  "titles_en": [
-    {
-      "title": "Bareun Yeonae Giljabgi Oejeon",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Romance 101 Side Stories",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Romance 101 Spin-Off",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "바른연애 길잡이 외전",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
+  "display_title": "Bareun Yeonae Giljabgi Oejeon",
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2MvNC8wL2UvNS9lLzcvNzY1Yi80MjA5Lzk4NTUvNWNjZjUzYTgzNTA0",
-  "total_chapters": "6",
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2021,
+  "year": null,
   "published": {
     "start_date": "2021-05-31",
     "end_date": "2021-07-05",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-11T17:17:56.975Z",
+  "last_updated_at": null,
   "authors": [],
   "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/172895",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": null
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": 158900,
+      "rating": 7.84,
+      "rating_normalized": 78
+    },
+    "shikimori": {
+      "id": 158900,
+      "rating": 7.83,
+      "rating_normalized": 78
+    }
   },
   "tag_ids": [
     6,

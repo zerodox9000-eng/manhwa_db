@@ -1,53 +1,67 @@
 {
   "id": 509280,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Fancy",
-  "titles_en": [
-    {
-      "title": "Fancy",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "팬시",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ZhbmN5LTEud2VicD90PTE3Mzk1MjE3NzU",
-  "total_chapters": "45",
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2014,
+  "year": null,
   "published": {
     "start_date": "2014-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2025-09-16T21:54:52.145Z",
+  "last_updated_at": null,
   "authors": [],
   "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/509280",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
       "id": "fancy",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/fancy"
+      "rating_normalized": null
     },
-    "mangaupdates": null
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    }
   },
   "tag_ids": [
     1,

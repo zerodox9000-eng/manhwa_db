@@ -1,142 +1,66 @@
 {
   "id": 110411,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "My Life Was but a Play",
-  "titles_en": [
-    {
-      "title": "I Saw a Play",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "I Watched a Play",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "I Watched a Play Unfold",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "I Witnessed a Play",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "My Life Was but a Play",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Torn Between Two",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "나는 한 편의 극을 보았다",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "劇のような人生をもう一度",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "我曾目睹一场戏剧",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "我欣赏了一出好戏",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Naneun Han Pyeonui Geugeul Boassda",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "With her beauty, power, and the position of empress, Vionne Rosa Ellient seemingly had everything one could want. But in truth, she endlessly yearned for love before ultimately dying in misery. Now, after waking up again as her younger self, Vionne calmly assesses her situation and past memories to avoid marrying Crown Prince Sirius and meeting the same fate. As different choices lead to a change in relationships and a turn of events, will Vionne prevent this life from being another tragedy?\n\n(Source: Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4OTM4NC1pUkFsT09WQ0VPU2EuanBn",
-  "total_chapters": "45",
+  "display_title": "I Saw a Play",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2025,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2025-03-31",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T07:24:28.279Z",
-  "authors": [
-    "TanG",
-    "unias"
-  ],
-  "artists": [
-    "Song-Gi"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "DCC",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/110411",
-    "read_en": "https://tapas.io/series/my-life-was-but-a-play/info"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 189384,
-      "rating": 72,
-      "url": "https://anilist.co/manga/189384"
+      "rating": 7.2,
+      "rating_normalized": 72
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "i-watched-a-play-unfold",
-      "rating": 80,
-      "url": "https://www.anime-planet.com/manga/i-watched-a-play-unfold"
+      "rating": 4,
+      "rating_normalized": 80
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 75459,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "2m22kah",
-      "rating": 50,
-      "url": "https://www.mangaupdates.com/series/2m22kah"
+      "rating": 5.03,
+      "rating_normalized": 50
+    },
+    "my_anime_list": {
+      "id": 182397,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 182397,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -174,9 +98,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.6403,
-    "fanRatioPercentile": 81.2999,
-    "popularityPercentile": 60.5012,
-    "fanFavouriteDiscoveryScore": 78.6103,
-    "fanFavouriteDiscoveryPercentile": 86.2412
+    "fanRatioPercentile": 81.3087,
+    "popularityPercentile": 60.5197,
+    "fanFavouriteDiscoveryScore": 78.6228,
+    "fanFavouriteDiscoveryPercentile": 86.2477
   }
 }

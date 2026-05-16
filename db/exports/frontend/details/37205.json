@@ -1,140 +1,66 @@
 {
   "id": 37205,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Wall of Glass",
-  "titles_en": [
-    {
-      "title": "Glass Block",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Glass Wall",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Wall of Glass",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "유리의 벽",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "ガラスの壁",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "琉璃之壁",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Garasu no Kabe",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja-Latn",
-      "title": "Glass no Kabe",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Yooli'eui Byeog",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Yuliui Byeog",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Liliana Pence's world as a naive, young noblewoman changes upon meeting Edward Carter, a commoner with an agenda of his own. Oblivious to his scorn for her, Liliana dreams of being together with him, until her dreams are shattered by her arranged marriage. Desperate to avoid the union, she confesses to Edward, only to have him coldly reject her and disappear. When Liliana's fortunes take a turn for the worse and she loses everything, the two reunite... but in a way neither expects. \n\n(Source: Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDExNzkwOS1sd3hURkJTM3ZiRzgucG5n",
-  "total_chapters": "101",
+  "display_title": "Glass Block",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2018,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2018-10-12",
     "end_date": "2022-05-27",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T05:06:27.942Z",
-  "authors": [
-    "Joho"
-  ],
-  "artists": [
-    "Joho"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "KakaoPage",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao Webtoon Studio",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/37205",
-    "read_en": "https://tapas.io/series/wall-of-glass/info"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 117909,
-      "rating": 76,
-      "url": "https://anilist.co/manga/117909"
+      "rating": 7.6,
+      "rating_normalized": 76
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "wall-of-glass",
-      "rating": 76,
-      "url": "https://www.anime-planet.com/manga/wall-of-glass"
+      "rating": 3.8,
+      "rating_normalized": 76
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 64149,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "epumi95",
-      "rating": 75,
-      "url": "https://www.mangaupdates.com/series/epumi95"
+      "rating": 7.51,
+      "rating_normalized": 75
+    },
+    "my_anime_list": {
+      "id": 185248,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 185248,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -199,9 +125,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.1534,
-    "fanRatioPercentile": 93.8606,
-    "popularityPercentile": 84.3931,
-    "fanFavouriteDiscoveryScore": 93.4241,
-    "fanFavouriteDiscoveryPercentile": 96.7737
+    "fanRatioPercentile": 93.8635,
+    "popularityPercentile": 84.4004,
+    "fanFavouriteDiscoveryScore": 93.4272,
+    "fanFavouriteDiscoveryPercentile": 96.7752
   }
 }

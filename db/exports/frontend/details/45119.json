@@ -1,143 +1,66 @@
 {
   "id": 45119,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "A Man's Man",
-  "titles_en": [
-    {
-      "title": "A Man Among Men",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "A Man's Man",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Manly Man",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Real Man",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Sangnamja",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Man",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "상남자",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "上男子",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "男子汉",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "男子漢",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "真なる男",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Sangnamja",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Yuhyeon becomes the youngest CEO of Hansung, a successful electronics company built on toxic work culture, but nobody he cares about is there to celebrate with him. After a night of drinking and wondering if he could change the past, he wakes up the next morning, 20 years younger at the beginning of his career. Armed with the experience and insights that made him CEO, Yuhyeon begins to revisit broken relationships and battle the enablers of Hansung’s cut-throat work environment. But he does not yet know how changing the past will affect his future...\n\n(Source: WEBTOON)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2UvNC8wL2QvMy83L2MvZjU5MS80Yzk5L2EwMWEvYTZmZDdlNjA5YmMz",
-  "total_chapters": "247",
+  "display_title": "A Man Among Men",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2020,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2020-07-30",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T04:52:35.849Z",
-  "authors": [
-    "Haneulso",
-    "Tae-Gung Kim"
-  ],
-  "artists": [
-    "DOGADO"
-  ],
-  "publishers": [
-    {
-      "name": "Jaedam",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/45119",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=2876"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 129956,
-      "rating": 77,
-      "url": "https://anilist.co/manga/129956"
+      "rating": 7.7,
+      "rating_normalized": 77
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "a-mans-man",
-      "rating": 84,
-      "url": "https://www.anime-planet.com/manga/a-mans-man"
+      "rating": 4.2,
+      "rating_normalized": 84
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 59056,
+      "rating": 8.058,
+      "rating_normalized": 81
+    },
+    "manga_updates": {
       "id": "lm08sti",
-      "rating": 82,
-      "url": "https://www.mangaupdates.com/series/lm08sti"
+      "rating": 8.17,
+      "rating_normalized": 82
+    },
+    "my_anime_list": {
+      "id": 147328,
+      "rating": 7.91,
+      "rating_normalized": 79
+    },
+    "shikimori": {
+      "id": 147328,
+      "rating": 7.89,
+      "rating_normalized": 79
     }
   },
   "tag_ids": [
@@ -181,9 +104,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.5626,
-    "fanRatioPercentile": 90.6656,
-    "popularityPercentile": 96.0063,
-    "fanFavouriteDiscoveryScore": 90.505,
-    "fanFavouriteDiscoveryPercentile": 94.9256
+    "fanRatioPercentile": 90.67,
+    "popularityPercentile": 96.0081,
+    "fanFavouriteDiscoveryScore": 90.5094,
+    "fanFavouriteDiscoveryPercentile": 94.928
   }
 }

@@ -1,76 +1,67 @@
 {
   "id": 579533,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Sketch: Synchro",
-  "titles_en": [
-    {
-      "title": "Sketch: Synchro",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "스케치 AU 외전 𝗦:𝘆𝗻𝗰𝗵𝗿𝗼",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko",
-      "title": "스케치: S:ynchro.",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Sketch: S:ynchro.",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwODEyMy1nVW1nVVM2NE5WZG4ucG5n",
+  "cover": null,
   "total_chapters": null,
   "status": "releasing",
-  "content_rating": "erotica",
-  "is_licensed": true,
-  "year": 2026,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2026-01-24",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T07:06:22.170Z",
-  "authors": [
-    "Dosak"
-  ],
-  "artists": [
-    "Dosak"
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/579533",
-    "read_en": "https://www.lezhinus.com/en/comic/sketch_en"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 208123,
-      "rating": 78,
-      "url": "https://anilist.co/manga/208123"
+      "rating": 7.8,
+      "rating_normalized": 78
     },
-    "animeplanet": null,
-    "mangaupdates": null
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    }
   },
   "tag_ids": [
     36,
@@ -89,9 +80,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.5291,
-    "fanRatioPercentile": 34.1347,
-    "popularityPercentile": 51.5897,
-    "fanFavouriteDiscoveryScore": 31.845,
-    "fanFavouriteDiscoveryPercentile": 34.5184
+    "fanRatioPercentile": 34.1656,
+    "popularityPercentile": 51.6124,
+    "fanFavouriteDiscoveryScore": 31.8779,
+    "fanFavouriteDiscoveryPercentile": 34.5492
   }
 }

@@ -1,108 +1,66 @@
 {
   "id": 35813,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Living Will",
-  "titles_en": [
-    {
-      "title": "Living Will",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "Living Will: Stand at Two Crossroads",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Stand at Two Crossroads",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Two at the Crossroads",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "리빙 윌",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "救赎",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Living Will",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Jeanne, a prostitute at address 74, took care of the fallen Janet. Jeanne wants to be friends with Janet, but Janet tries to get information out of her.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDExMTY1OC0wTXByZG10OXVKbGsuanBn",
-  "total_chapters": "11",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2019,
+  "year": null,
   "published": {
     "start_date": "2019-06-12",
     "end_date": "2019-07-23",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-14T18:15:16.020Z",
-  "authors": [
-    "Mina (미나)"
-  ],
-  "artists": [
-    "Ji Ho",
-    "Mi-Na"
-  ],
-  "publishers": [
-    {
-      "name": "Bomtoon",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Kidari Studio",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/35813",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 111658,
-      "rating": 71,
-      "url": "https://anilist.co/manga/111658"
+      "rating": 7.1,
+      "rating_normalized": 71
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "living-will",
-      "rating": 76,
-      "url": "https://www.anime-planet.com/manga/living-will"
+      "rating": 3.8,
+      "rating_normalized": 76
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 55113,
+      "rating": 7.383,
+      "rating_normalized": 74
+    },
+    "manga_updates": {
       "id": "4xkik3e",
-      "rating": 67,
-      "url": "https://www.mangaupdates.com/series/4xkik3e"
+      "rating": 6.68,
+      "rating_normalized": 67
+    },
+    "my_anime_list": {
+      "id": 188086,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 188086,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -141,9 +99,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.6661,
-    "fanRatioPercentile": 61.4017,
-    "popularityPercentile": 92.8191,
-    "fanFavouriteDiscoveryScore": 61.2599,
-    "fanFavouriteDiscoveryPercentile": 69.397
+    "fanRatioPercentile": 61.4198,
+    "popularityPercentile": 92.8225,
+    "fanFavouriteDiscoveryScore": 61.278,
+    "fanFavouriteDiscoveryPercentile": 69.4114
   }
 }

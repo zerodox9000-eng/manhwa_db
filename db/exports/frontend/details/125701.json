@@ -1,68 +1,67 @@
 {
   "id": 125701,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Red Lily",
-  "titles_en": [
-    {
-      "title": "Red Lily",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "빨간백합",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Ppalganbaekap",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE4Njg5NS14VDlFRVo3YmxaVFEuanBn",
-  "total_chapters": "47",
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "pornographic",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2018,
+  "year": null,
   "published": {
     "start_date": "2018-09-18",
     "end_date": "2018-09-18",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-04-29T03:24:24.650Z",
-  "authors": [
-    "ATTENTION PLZ"
-  ],
-  "artists": [
-    "Nasty Cat"
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/125701",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 186895,
-      "rating": 37,
-      "url": "https://anilist.co/manga/186895"
+      "rating": 3.7,
+      "rating_normalized": 37
     },
-    "animeplanet": null,
-    "mangaupdates": null
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    }
   },
   "tag_ids": [
     10,
@@ -78,9 +77,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 9.2717,
-    "fanFavouriteDiscoveryScore": 9.2062,
-    "fanFavouriteDiscoveryPercentile": 8.4495
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 9.3143,
+    "fanFavouriteDiscoveryScore": 9.2388,
+    "fanFavouriteDiscoveryPercentile": 8.4925
   }
 }

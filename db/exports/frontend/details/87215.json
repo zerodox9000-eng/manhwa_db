@@ -1,119 +1,66 @@
 {
   "id": 87215,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Alley Story",
-  "titles_en": [
-    {
-      "title": "A Dead End",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Alley Story",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "An Alley Story",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Back Alley Tale",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "골목이야기",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "幼馴染が、大人になったら",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Golmogiyagi",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "6 friends grew up together in a small alley. At night when everyone is asleep, YOON-HO makes a secret with a girl in the neighborhood.\n\n(Source: TOPTOON+)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1NjIyMi1QektJTTViWm1pS2guanBn",
-  "total_chapters": "47",
+  "display_title": "A Dead End",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "pornographic",
-  "is_licensed": true,
-  "year": 2022,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2022-10-27",
     "end_date": "2023-08-10",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T07:17:26.485Z",
-  "authors": [
-    "Kang-Cheol Wang"
-  ],
-  "artists": [
-    "Gyou"
-  ],
-  "publishers": [
-    {
-      "name": "Day Comics",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Toptoon",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Toptoon Plus",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/87215",
-    "read_en": "https://daycomics.com/content/102392"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 156222,
-      "rating": 64,
-      "url": "https://anilist.co/manga/156222"
+      "rating": 6.4,
+      "rating_normalized": 64
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "alley-story",
-      "rating": 70,
-      "url": "https://www.anime-planet.com/manga/alley-story"
+      "rating": 3.5,
+      "rating_normalized": 70
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 67186,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "rjdsxl5",
-      "rating": 62,
-      "url": "https://www.mangaupdates.com/series/rjdsxl5"
+      "rating": 6.22,
+      "rating_normalized": 62
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -160,9 +107,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.3158,
-    "fanRatioPercentile": 52.1535,
-    "popularityPercentile": 75.3876,
-    "fanFavouriteDiscoveryScore": 51.6424,
-    "fanFavouriteDiscoveryPercentile": 59.9452
+    "fanRatioPercentile": 52.176,
+    "popularityPercentile": 75.3992,
+    "fanFavouriteDiscoveryScore": 51.6652,
+    "fanFavouriteDiscoveryPercentile": 59.964
   }
 }

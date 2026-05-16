@@ -1,103 +1,66 @@
 {
   "id": 30286,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "The boy and Robot",
-  "titles_en": [
-    {
-      "title": "Kangtawoo",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "The boy and Robot",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "캉타우",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "カンタウ",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "冰川铁甲",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Kangtawoo",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Hyeon Kang, a self-centered high school kid, has to bear the burdening fate of being the master of 'KANGTAWOO', the only robot that can stand against 'Spelta Empire', which seeks to conquer Earth. A giant robot action in Busan!",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzgvMy9kLzYvMC9lLzUvOWMyYy80ZjRiLzg2M2UvZDQyNTRmMGFlOGIy",
-  "total_chapters": "35",
+  "display_title": "Kangtawoo",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2018,
+  "year": null,
   "published": {
     "start_date": "2018-08-15",
     "end_date": "2019-04-10",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T05:53:25.710Z",
-  "authors": [
-    "Hyeong-Uk Sin"
-  ],
-  "artists": [
-    "Kyeong-Il Yang"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "YLAB",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/30286",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 120580,
-      "rating": 66,
-      "url": "https://anilist.co/manga/120580"
+      "rating": 6.6,
+      "rating_normalized": 66
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "kangtawoo",
-      "rating": 76,
-      "url": "https://www.anime-planet.com/manga/kangtawoo"
+      "rating": 3.8,
+      "rating_normalized": 76
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 66018,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "4kl0ndk",
-      "rating": 63,
-      "url": "https://www.mangaupdates.com/series/4kl0ndk"
+      "rating": 6.26,
+      "rating_normalized": 63
+    },
+    "my_anime_list": {
+      "id": 150092,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 150092,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -119,9 +82,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.5495,
-    "fanRatioPercentile": 34.4558,
-    "popularityPercentile": 64.166,
-    "fanFavouriteDiscoveryScore": 33.6085,
-    "fanFavouriteDiscoveryPercentile": 36.8677
+    "fanRatioPercentile": 34.4865,
+    "popularityPercentile": 64.1828,
+    "fanFavouriteDiscoveryScore": 33.6397,
+    "fanFavouriteDiscoveryPercentile": 36.8973
   }
 }

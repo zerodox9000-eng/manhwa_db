@@ -1,105 +1,66 @@
 {
   "id": 584818,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "[S RED]",
-  "titles_en": [
-    {
-      "title": "[SERIES RED]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[S RED]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[S RED] Collection",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "display_title": "[SERIES RED]",
+  "titles_en": [],
   "titles_native": [],
   "titles_romaji": [],
-  "description": "Collection of series published under [S RED] theme.",
+  "description": null,
   "cover": null,
-  "total_chapters": "0",
+  "total_chapters": null,
   "status": "unknown",
-  "content_rating": "erotica",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2025,
+  "year": null,
   "published": {
     "start_date": "2025-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T11:57:36.071Z",
-  "authors": [
-    "Anthology"
-  ],
-  "artists": [
-    "Anthology"
-  ],
-  "publishers": [
-    {
-      "name": "CNC Revolution",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Haewadal Studio",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Luvitro",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Quartet Studio",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Rok Media",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Storigin",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "To You Dream",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Wisdom House",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/584818",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "8bfs5u9",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/8bfs5u9"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

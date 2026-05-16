@@ -1,116 +1,66 @@
 {
   "id": 87959,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Buy One Get One Free",
-  "titles_en": [
-    {
-      "title": "Buy One Get One Free",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "We're Having a 1+1 Event!",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "1+1 행사 중입니다",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "こちら、おまけ付き商品です",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "他和他的浪漫趣事",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "買一送一優惠中",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "1+1 Haengsa Jungimnida",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Working at a convenience store can be tough, but there's one special customer who gets me through the day. \n\n(Source: Toomics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEyNTE2OC04YjNXVjQxcG9pVU4uanBn",
-  "total_chapters": "24",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "pornographic",
-  "is_licensed": true,
-  "year": 2019,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2019-10-18",
     "end_date": "2020-02-28",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-12T16:06:02.886Z",
-  "authors": [
-    "Juna"
-  ],
-  "artists": [
-    "Juna"
-  ],
-  "publishers": [
-    {
-      "name": "Indiket",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": "Expired"
-    },
-    {
-      "name": "Toomics",
-      "type": "Original",
-      "note": "Expired"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/87959",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 125168,
-      "rating": 60,
-      "url": "https://anilist.co/manga/125168"
+      "rating": 6,
+      "rating_normalized": 60
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "buy-one-get-one-free",
-      "rating": 66,
-      "url": "https://www.anime-planet.com/manga/buy-one-get-one-free"
+      "rating": 3.3,
+      "rating_normalized": 66
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "ax3lvzs",
-      "rating": 62,
-      "url": "https://www.mangaupdates.com/series/ax3lvzs"
+      "rating": 6.19,
+      "rating_normalized": 62
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -134,9 +84,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.8547,
-    "fanRatioPercentile": 40.0078,
-    "popularityPercentile": 43.007,
-    "fanFavouriteDiscoveryScore": 34.8801,
-    "fanFavouriteDiscoveryPercentile": 38.5591
+    "fanRatioPercentile": 40.036,
+    "popularityPercentile": 43.0338,
+    "fanFavouriteDiscoveryScore": 34.9146,
+    "fanFavouriteDiscoveryPercentile": 38.5958
   }
 }

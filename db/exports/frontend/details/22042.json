@@ -1,129 +1,66 @@
 {
   "id": 22042,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "RPG Comic",
-  "titles_en": [
-    {
-      "title": "Role Playing Game",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "RPG Comic",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "RPG Game Manhwa",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "롤플레잉겜",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko",
-      "title": "롤플레잉겜만화",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "MMORPGマンガ〜ESPERA〜",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "RPG",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja-Latn",
-      "title": "RPG Comics",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ja-Latn",
-      "title": "RPG (Gaechaban)",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "description": "ESPERA! The most popular virtual MMORPG of the century!! But the game loses its momentum (even stopped updates and patches) when the legendary player quits... only to return 2 years later for no apparent reason! What will become of ESPERA now?! \n\n(Source: Lezhin) \n\n*Note: The chapter count includes a prologue and an epilogue.*",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ueDk5NTY3LVBrSUdDbFF6aVpZOC5qcGc",
-  "total_chapters": "187",
+  "display_title": "Role Playing Game",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2015,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2015-04-25",
     "end_date": "2020-07-18",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-14T06:12:53.696Z",
-  "authors": [
-    "Gaechaban"
-  ],
-  "artists": [
-    "Gaechaban"
-  ],
-  "publishers": [
-    {
-      "name": "Lezhin",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Lezhin US",
-      "type": "English",
-      "note": ""
-    },
-    {
-      "name": "Lezhin X",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/22042",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 99567,
-      "rating": 68,
-      "url": "https://anilist.co/manga/99567"
+      "rating": 6.8,
+      "rating_normalized": 68
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "rpg-comic",
-      "rating": 66,
-      "url": "https://www.anime-planet.com/manga/rpg-comic"
+      "rating": 3.3,
+      "rating_normalized": 66
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 36439,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "4f4peoh",
-      "rating": 70,
-      "url": "https://www.mangaupdates.com/series/4f4peoh"
+      "rating": 6.95,
+      "rating_normalized": 70
+    },
+    "my_anime_list": {
+      "id": 135829,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 135829,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -164,9 +101,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.7174,
-    "fanRatioPercentile": 82.4197,
-    "popularityPercentile": 71.6288,
-    "fanFavouriteDiscoveryScore": 81.319,
-    "fanFavouriteDiscoveryPercentile": 88.4417
+    "fanRatioPercentile": 82.428,
+    "popularityPercentile": 71.6421,
+    "fanFavouriteDiscoveryScore": 81.3283,
+    "fanFavouriteDiscoveryPercentile": 88.4471
   }
 }

@@ -1,118 +1,66 @@
 {
   "id": 87026,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "A Stranger in My House",
-  "titles_en": [
-    {
-      "title": "A Stranger in My House",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Sweet Stranger and Me",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Man Living in Our House",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Man Who Lives in My House",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Uri Jib-e Saneun Namja",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "우리 집에 사는 남자",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Uri Jibe Saneun Namja",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "When Nari returns home after her mother's death, she discovers a strange man living in her mother's house. This man was her mother's husband, and he isn't much older than Nari herself.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEyNTI0OC1YdWlPNkpubmxvSlMucG5n",
-  "total_chapters": "60",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2015,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2015-03-24",
     "end_date": "2016-07-20",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T01:55:43.413Z",
-  "authors": [
-    "Hyeon-Suk Yu"
-  ],
-  "artists": [
-    "Hyeon-Suk Yu"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kross Komics",
-      "type": "English",
-      "note": "Expired"
-    },
-    {
-      "name": "Spottoon",
-      "type": "English",
-      "note": "Expired"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/87026",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 125248,
-      "rating": 71,
-      "url": "https://anilist.co/manga/125248"
+      "rating": 7.1,
+      "rating_normalized": 71
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "a-stranger-in-my-house",
-      "rating": 78,
-      "url": "https://www.anime-planet.com/manga/a-stranger-in-my-house"
+      "rating": 3.9,
+      "rating_normalized": 78
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "zz43nns",
-      "rating": 67,
-      "url": "https://www.mangaupdates.com/series/zz43nns"
+      "rating": 6.73,
+      "rating_normalized": 67
+    },
+    "my_anime_list": {
+      "id": 126347,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 126347,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -138,9 +86,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 32.8348,
-    "fanFavouriteDiscoveryScore": 23.6122,
-    "fanFavouriteDiscoveryPercentile": 26.2334
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 32.8663,
+    "fanFavouriteDiscoveryScore": 23.652,
+    "fanFavouriteDiscoveryPercentile": 26.268
   }
 }

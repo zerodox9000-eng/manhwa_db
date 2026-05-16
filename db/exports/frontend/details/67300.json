@@ -1,134 +1,66 @@
 {
   "id": 67300,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Carnelian: the Sille Dragon Odyssey",
-  "titles_en": [
-    {
-      "title": "Carnelian: the Sille Dragon Odyssey",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Dragon Lady",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Lady Dragon",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "드래곤 레이디",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "DragonLady龙女",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "ドラゴン・レディー",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Deulaegon Leidi",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Dragon Lady",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Lady Dragon (Kim Cheolgon)",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "description": "Julitan is a cook who's never left his tiny fishing village. That is until one day, when he slices open the belly of a giant fish and finds a mysterious lady sleeping inside, cradling a giant sword. Julitan bestows her with the name Carnelian, only to accidentally awaken a powerful \"sille\" being. But Carnelian the sille soon discovers her new tamer and master Sir Julitan is no match for her superior power. Now the two must embark on a long quest to find this fierce sille dragon's true knight! \n\n(Source: Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3MTEyOC1MUmt3UlhGU2NZdWMuanBn",
-  "total_chapters": "54",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "suggestive",
-  "is_licensed": true,
-  "year": 2023,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2023-06-23",
     "end_date": "2024-12-31",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T07:20:38.783Z",
-  "authors": [
-    "Cheol-Gon Kim",
-    "Oriana",
-    "Yun-Su"
-  ],
-  "artists": [
-    "Un-Seol"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "ToYou Dream",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/67300",
-    "read_en": "https://tapas.io/series/carnelian-the-sille-dragon-odyssey/info"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 171128,
-      "rating": 61,
-      "url": "https://anilist.co/manga/171128"
+      "rating": 6.1,
+      "rating_normalized": 61
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "carnelian-the-sille-dragon-odyssey",
-      "rating": 66,
-      "url": "https://www.anime-planet.com/manga/carnelian-the-sille-dragon-odyssey"
+      "rating": 3.3,
+      "rating_normalized": 66
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 73520,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "q3cj795",
-      "rating": 60,
-      "url": "https://www.mangaupdates.com/series/q3cj795"
+      "rating": 5.97,
+      "rating_normalized": 60
+    },
+    "my_anime_list": {
+      "id": 160079,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 160079,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -201,9 +133,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.4063,
-    "fanRatioPercentile": 54.5027,
-    "popularityPercentile": 74.0329,
-    "fanFavouriteDiscoveryScore": 53.9055,
-    "fanFavouriteDiscoveryPercentile": 61.989
+    "fanRatioPercentile": 54.5241,
+    "popularityPercentile": 74.0451,
+    "fanFavouriteDiscoveryScore": 53.9273,
+    "fanFavouriteDiscoveryPercentile": 62.0069
   }
 }

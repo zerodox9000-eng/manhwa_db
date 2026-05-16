@@ -1,121 +1,66 @@
 {
   "id": 43926,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "The Double Agent",
-  "titles_en": [
-    {
-      "title": "A Double Agent",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Ijung Cheopja",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Double Agent",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "이중첩자",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "二重密偵",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "双重间谍",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Ijungcheopja",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "As a child, Sasha Laurent lost her parents overnight when the Dochen Republic invaded and burned her hometown, Neroi. Fleeing across the border, she lived off the streets until rescued by General Gerard of the Allied Forces. A decade later, when he asks her to infiltrate Dochen as a secret agent, she has no choice but to comply, but soon finds herself a prisoner at the mercy of Major General Johann von Willendorf. Sasha’s unhealthy obsession with Johann veers dangerously close to love, but will her feelings change when he makes her a double agent?\n\n(Source: WEBTOONS)\n\n*Note: Chapter count includes 3 side stories.*",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzIvMy85L2IvYS82L2UvYzJmZi80NWEwL2EzZjQvZTdlMTA4MWJiNTQx",
-  "total_chapters": "76",
+  "display_title": "A Double Agent",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2020,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2020-10-04",
     "end_date": "2022-02-13",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-14T11:26:59.190Z",
-  "authors": [
-    "Ha-Yeon",
-    "Suk-Hye Pi"
-  ],
-  "artists": [
-    "Yeopjipchalseu"
-  ],
-  "publishers": [
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "MStoryHub",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Tappytoon",
-      "type": "English",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/43926",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=3209"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 126396,
-      "rating": 60,
-      "url": "https://anilist.co/manga/126396"
+      "rating": 6,
+      "rating_normalized": 60
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-double-agent",
-      "rating": 68,
-      "url": "https://www.anime-planet.com/manga/the-double-agent"
+      "rating": 3.4,
+      "rating_normalized": 68
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 62547,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "k31h48k",
-      "rating": 60,
-      "url": "https://www.mangaupdates.com/series/k31h48k"
+      "rating": 5.95,
+      "rating_normalized": 60
+    },
+    "my_anime_list": {
+      "id": 148475,
+      "rating": 6.34,
+      "rating_normalized": 63
+    },
+    "shikimori": {
+      "id": 148475,
+      "rating": 6.36,
+      "rating_normalized": 64
     }
   },
   "tag_ids": [
@@ -174,9 +119,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.9946,
-    "fanRatioPercentile": 43.6805,
-    "popularityPercentile": 82.6312,
-    "fanFavouriteDiscoveryScore": 43.4454,
-    "fanFavouriteDiscoveryPercentile": 49.1856
+    "fanRatioPercentile": 43.707,
+    "popularityPercentile": 82.6393,
+    "fanFavouriteDiscoveryScore": 43.4719,
+    "fanFavouriteDiscoveryPercentile": 49.2095
   }
 }

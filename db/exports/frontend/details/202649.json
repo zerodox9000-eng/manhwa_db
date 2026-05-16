@@ -1,72 +1,66 @@
 {
   "id": 202649,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "[Play Anthology]",
-  "titles_en": [
-    {
-      "title": "[Play Anthology]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[Play Anthology] Collection",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "[플래이 단편선]",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
   "description": null,
   "cover": null,
-  "total_chapters": "0",
+  "total_chapters": null,
   "status": "unknown",
-  "content_rating": "erotica",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2025,
+  "year": null,
   "published": {
     "start_date": "2025-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-12T21:11:50.253Z",
-  "authors": [
-    "Anthology"
-  ],
-  "artists": [
-    "Anthology"
-  ],
-  "publishers": [
-    {
-      "name": "Playtoon",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Ridibooks",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/202649",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "zthgi7d",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/zthgi7d"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

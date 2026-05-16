@@ -1,105 +1,66 @@
 {
   "id": 25482,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Ghost Teller",
-  "titles_en": [
-    {
-      "title": "Ghost Teller",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Gwijeon Gudam",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "귀전구담",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "鬼传",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "鬼傳口談",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Gwijeongudam",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "You think your ghost stories are scary? Try listening to these stories from the ghosts themselves.\n\n(Source: WEBTOONS)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85LzEvOS9hLzMvOS8zL2MvY2VmZC80ZTQxL2EwMjYvMDgxNDA3MDkxMDll",
-  "total_chapters": "92",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2017,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2017-04-09",
     "end_date": "2020-07-19",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T06:52:50.518Z",
-  "authors": [
-    "QTT"
-  ],
-  "artists": [
-    "QTT"
-  ],
-  "publishers": [
-    {
-      "name": "LINE Webtoon",
-      "type": "English",
-      "note": ""
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/25482",
-    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=1307"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 102354,
-      "rating": 78,
-      "url": "https://anilist.co/manga/102354"
+      "rating": 7.8,
+      "rating_normalized": 78
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "ghost-teller",
-      "rating": 86,
-      "url": "https://www.anime-planet.com/manga/ghost-teller"
+      "rating": 4.3,
+      "rating_normalized": 86
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 40361,
+      "rating": 8.179,
+      "rating_normalized": 82
+    },
+    "manga_updates": {
       "id": "s9n6z1b",
-      "rating": 76,
-      "url": "https://www.mangaupdates.com/series/s9n6z1b"
+      "rating": 7.56,
+      "rating_normalized": 76
+    },
+    "my_anime_list": {
+      "id": 131171,
+      "rating": 7.9,
+      "rating_normalized": 79
+    },
+    "shikimori": {
+      "id": 131171,
+      "rating": 7.94,
+      "rating_normalized": 79
     }
   },
   "tag_ids": [
@@ -144,9 +105,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 5.0492,
-    "fanRatioPercentile": 96.3821,
-    "popularityPercentile": 95.4659,
-    "fanFavouriteDiscoveryScore": 96.2035,
-    "fanFavouriteDiscoveryPercentile": 98.4886
+    "fanRatioPercentile": 96.3838,
+    "popularityPercentile": 95.4681,
+    "fanFavouriteDiscoveryScore": 96.2052,
+    "fanFavouriteDiscoveryPercentile": 98.4894
   }
 }

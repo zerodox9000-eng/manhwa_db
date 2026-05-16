@@ -1,115 +1,66 @@
 {
   "id": 55012,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "A Monstrous First Day",
-  "titles_en": [
-    {
-      "title": "A Gate Opened on My First Day as a Politician",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "A Monstrous First Day",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Imgi Cheonnar-e Gate-ga Yeollyeotda",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "임기 첫날에 게이트가 열렸다",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "任期初日にゲートが開いた",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Imgi Cheonnare Gate-ga Yeollyeotda",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Secretary Han Seungmoon ran for office with no hope of winning, but when his opponent's unexpected arrest makes him the victor, he winds up as the youngest assemblyman in South Korea. As he's being sworn into office, he thinks his life couldn't get any better... but that all comes crashing when a monster falls through the roof of the National Assembly! Now, with an eerie blue gate unleashing horrors onto the city, Seungmoon and his party members must find a way to save Seoul from destruction. \n\n(Source: Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1MzA4NC1ySkw4RHFBcXo0cUwucG5n",
-  "total_chapters": "52",
+  "display_title": "A Gate Opened on My First Day as a Politician",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "hiatus",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2022,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2022-07-20",
     "end_date": "2023-01-01",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T04:54:26.660Z",
-  "authors": [
-    "Jepigalu",
-    "Piajoa"
-  ],
-  "artists": [
-    "Jepigalu"
-  ],
-  "publishers": [
-    {
-      "name": "Daon",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/55012",
-    "read_en": "https://tapas.io/series/a-monstrous-first-day"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 153084,
-      "rating": 67,
-      "url": "https://anilist.co/manga/153084"
+      "rating": 6.7,
+      "rating_normalized": 67
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "a-monstrous-first-day",
-      "rating": 72,
-      "url": "https://www.anime-planet.com/manga/a-monstrous-first-day"
+      "rating": 3.6,
+      "rating_normalized": 72
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 64162,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "2t9f1th",
-      "rating": 68,
-      "url": "https://www.mangaupdates.com/series/2t9f1th"
+      "rating": 6.76,
+      "rating_normalized": 68
+    },
+    "my_anime_list": {
+      "id": 157424,
+      "rating": 6.66,
+      "rating_normalized": 67
+    },
+    "shikimori": {
+      "id": 157424,
+      "rating": 6.73,
+      "rating_normalized": 67
     }
   },
   "tag_ids": [
@@ -137,9 +88,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.105,
-    "fanRatioPercentile": 46.437,
-    "popularityPercentile": 84.5732,
-    "fanFavouriteDiscoveryScore": 46.2242,
-    "fanFavouriteDiscoveryPercentile": 53.242
+    "fanRatioPercentile": 46.4621,
+    "popularityPercentile": 84.5805,
+    "fanFavouriteDiscoveryScore": 46.2494,
+    "fanFavouriteDiscoveryPercentile": 53.1544
   }
 }

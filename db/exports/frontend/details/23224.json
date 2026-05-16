@@ -1,91 +1,66 @@
 {
   "id": 23224,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Beautiful Stranger",
-  "titles_en": [
-    {
-      "title": "Beautiful Stranger",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Isanghago Aleumdaun",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Strange and Beautiful",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "이상하고 아름다운",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Isanghago Areumdaun",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "The secret behind the goblin's wife who appears once every one thousand years....",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xLzgvMS8wL2EvZS83LzgvN2JkZi80M2Y2LzhjNjIvZTE1ZTQxZTBhMjFl",
-  "total_chapters": "157",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2015,
+  "year": null,
   "published": {
     "start_date": "2015-12-13",
     "end_date": "2019-01-27",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T08:02:26.236Z",
-  "authors": [
-    "Honey B"
-  ],
-  "artists": [
-    "Honey B"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/23224",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 99396,
-      "rating": 69,
-      "url": "https://anilist.co/manga/99396"
+      "rating": 6.9,
+      "rating_normalized": 69
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "strange-and-beautiful",
-      "rating": 80,
-      "url": "https://www.anime-planet.com/manga/strange-and-beautiful"
+      "rating": 4,
+      "rating_normalized": 80
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 38931,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "0fe4gdw",
-      "rating": 75,
-      "url": "https://www.mangaupdates.com/series/0fe4gdw"
+      "rating": 7.47,
+      "rating_normalized": 75
+    },
+    "my_anime_list": {
+      "id": 112481,
+      "rating": 6.99,
+      "rating_normalized": 70
+    },
+    "shikimori": {
+      "id": 112481,
+      "rating": 7.08,
+      "rating_normalized": 71
     }
   },
   "tag_ids": [
@@ -119,9 +94,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.3148,
-    "fanRatioPercentile": 76.0767,
-    "popularityPercentile": 74.2443,
-    "fanFavouriteDiscoveryScore": 75.2576,
-    "fanFavouriteDiscoveryPercentile": 83.0697
+    "fanRatioPercentile": 76.088,
+    "popularityPercentile": 74.2564,
+    "fanFavouriteDiscoveryScore": 75.2695,
+    "fanFavouriteDiscoveryPercentile": 83.0776
   }
 }

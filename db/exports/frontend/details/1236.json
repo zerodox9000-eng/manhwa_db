@@ -1,98 +1,66 @@
 {
   "id": 1236,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Isn't This Inside the Game?",
-  "titles_en": [
-    {
-      "title": "Isn't This Inside the Game?",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "여기 게임 속 아닌가요?",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "ここってゲームの世界じゃないんですか？",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Yeogi Geim Sok Aningayo?",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "A guild master, once ranked number one, wakes up 500 years in the future after winning a major siege. The guild is gone, the world feels strange, and everything has fallen apart. Determined to rebuild the guild and adapt to this unfamiliar time, they embark on a journey to restore their legacy and conquer the challenges of the new era.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMzA2Ni1hV0VkZFIxeUtBbUguanBn",
-  "total_chapters": "40",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2025,
+  "year": null,
   "published": {
     "start_date": "2025-02-05",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-14T02:51:35.309Z",
-  "authors": [
-    "128",
-    "Seotel"
-  ],
-  "artists": [
-    "Nongnaeng"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "kidaristudio",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/1236",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 203066,
-      "rating": 67,
-      "url": "https://anilist.co/manga/203066"
+      "rating": 6.7,
+      "rating_normalized": 67
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "isnt-this-inside-the-game",
-      "rating": 72,
-      "url": "https://www.anime-planet.com/manga/isnt-this-inside-the-game"
+      "rating": 3.6,
+      "rating_normalized": 72
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "p8ucboy",
-      "rating": 61,
-      "url": "https://www.mangaupdates.com/series/p8ucboy"
+      "rating": 6.13,
+      "rating_normalized": 61
+    },
+    "my_anime_list": {
+      "id": 178585,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 178585,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -118,9 +86,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.9346,
-    "fanRatioPercentile": 42.2161,
-    "popularityPercentile": 41.2451,
-    "fanFavouriteDiscoveryScore": 36.0741,
-    "fanFavouriteDiscoveryPercentile": 39.9843
+    "fanRatioPercentile": 42.2433,
+    "popularityPercentile": 41.2727,
+    "fanFavouriteDiscoveryScore": 36.1094,
+    "fanFavouriteDiscoveryPercentile": 40.0282
   }
 }

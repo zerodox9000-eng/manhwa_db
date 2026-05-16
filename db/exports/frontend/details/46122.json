@@ -1,94 +1,66 @@
 {
   "id": 46122,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Cabalist",
-  "titles_en": [
-    {
-      "title": "Cabalist",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "카발리스트",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "카발리스트",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Cabalist",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "A tale surrounding the mystical power known as \"the Cabal\" takes three adventurers on a journey to become Cabalists. \n\n(Source: Toomics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjE1NDM5NC1IUEswYWI5SmlaNnAuanBn",
-  "total_chapters": "44",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2017,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2017-09-28",
     "end_date": "2018-06-14",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-05T05:53:18.522Z",
-  "authors": [
-    "Ki-Beom"
-  ],
-  "artists": [
-    "ALECO"
-  ],
-  "publishers": [
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Toomics",
-      "type": "Original",
-      "note": "Expired"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/46122",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 154394,
-      "rating": 50,
-      "url": "https://anilist.co/manga/154394"
+      "rating": 5,
+      "rating_normalized": 50
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "cabalist",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/cabalist"
+      "rating_normalized": null
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "301pp7g",
-      "rating": 61,
-      "url": "https://www.mangaupdates.com/series/301pp7g"
+      "rating": 6.07,
+      "rating_normalized": 61
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -107,9 +79,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 10.8222,
-    "fanFavouriteDiscoveryScore": 10.0727,
-    "fanFavouriteDiscoveryPercentile": 9.8825
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 10.8641,
+    "fanFavouriteDiscoveryScore": 10.107,
+    "fanFavouriteDiscoveryPercentile": 9.9249
   }
 }

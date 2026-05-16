@@ -1,99 +1,66 @@
 {
   "id": 88356,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Yori Go",
-  "titles_en": [
-    {
-      "title": "Cooking Go",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "GO Cooking",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Yori Go",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "요리GO",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Cooking Go",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Yori GO",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Will Hanbyul, who is not a cook, be able to adjust to the gap between the culinary high school talents?",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2QvMi84LzMvYS9kL2MvNzdiMi80ZWU3LzhjOTUvNWM2NmMzNmUzN2Yz",
-  "total_chapters": "191",
+  "display_title": "Cooking Go",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2018,
+  "year": null,
   "published": {
     "start_date": "2018-04-10",
     "end_date": "2022-05-29",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T14:57:54.292Z",
-  "authors": [
-    "HO9"
-  ],
-  "artists": [
-    "HO9"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/88356",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 134063,
-      "rating": 90,
-      "url": "https://anilist.co/manga/134063"
+      "rating": 9,
+      "rating_normalized": 90
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "cooking-go",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/cooking-go"
+      "rating_normalized": null
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 71864,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "3qdgtut",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/3qdgtut"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": 180094,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 180094,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -113,9 +80,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.715,
-    "popularityPercentile": 15.1684,
-    "fanFavouriteDiscoveryScore": 12.7075,
-    "fanFavouriteDiscoveryPercentile": 13.704
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 15.2082,
+    "fanFavouriteDiscoveryScore": 12.7457,
+    "fanFavouriteDiscoveryPercentile": 13.7445
   }
 }

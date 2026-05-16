@@ -1,121 +1,66 @@
 {
   "id": 75946,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Maid",
-  "titles_en": [
-    {
-      "title": "Helper",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Maid",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Maid (Back)",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "도우미",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko",
-      "title": "도우미 (코이)",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "特殊佣人",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Doumi",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Doumi (KOI)",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "description": "A wealthy man hires a maid to take care of his son who is currently in a coma. Something happens that night and soon, she is asked to leave the house. What could have possibly gone wrong?\n\n(Source: Toomics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjEzMzAzNi1laGpUSHVpQlRMQ1ouanBn",
-  "total_chapters": "40",
+  "display_title": "Helper",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "erotica",
-  "is_licensed": true,
-  "year": 2020,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2020-04-10",
     "end_date": "2020-11-20",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T01:44:26.168Z",
-  "authors": [
-    "Koi"
-  ],
-  "artists": [
-    "Back"
-  ],
-  "publishers": [
-    {
-      "name": "Koi Content",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": null
-    },
-    {
-      "name": "Toomics",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/75946",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 133036,
-      "rating": 43,
-      "url": "https://anilist.co/manga/133036"
+      "rating": 4.3,
+      "rating_normalized": 43
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "maid",
-      "rating": 58,
-      "url": "https://www.anime-planet.com/manga/maid"
+      "rating": 2.9,
+      "rating_normalized": 58
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 72425,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "1jzkhpx",
-      "rating": 57,
-      "url": "https://www.mangaupdates.com/series/1jzkhpx"
+      "rating": 5.71,
+      "rating_normalized": 57
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -139,9 +84,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.5865,
-    "fanRatioPercentile": 34.9569,
-    "popularityPercentile": 62.9131,
-    "fanFavouriteDiscoveryScore": 34.0053,
-    "fanFavouriteDiscoveryPercentile": 37.4628
+    "fanRatioPercentile": 34.9875,
+    "popularityPercentile": 62.9305,
+    "fanFavouriteDiscoveryScore": 34.0364,
+    "fanFavouriteDiscoveryPercentile": 37.4922
   }
 }

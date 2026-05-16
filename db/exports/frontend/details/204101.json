@@ -1,104 +1,66 @@
 {
   "id": 204101,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "[Die Without XX Anthology]",
-  "titles_en": [
-    {
-      "title": "[Die Without XX Anthology]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[Die Without XX Short Series]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Do or Die",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[Do or Die] Collection",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "[Sex or Die Anthology]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[Sex or Die Anthology] Collection",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "[섹못죽 단편선]",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "xxできないと死ぬ",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "[禁慾即死短篇]",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
-  "description": "Collection of series published under [Do or Die] theme.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDkwMjQ5LmpwZw",
-  "total_chapters": "0",
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "unknown",
-  "content_rating": "pornographic",
-  "is_licensed": true,
-  "year": 2025,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2025-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T05:16:36.948Z",
-  "authors": [
-    "Anthology"
-  ],
-  "artists": [
-    "Anthology"
-  ],
-  "publishers": [
-    {
-      "name": "Jaedam",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tappytoon",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/204101",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "aqz4aax",
-      "rating": 63,
-      "url": "https://www.mangaupdates.com/series/aqz4aax"
+      "rating": 6.33,
+      "rating_normalized": 63
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

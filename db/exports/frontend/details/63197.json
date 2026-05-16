@@ -1,128 +1,66 @@
 {
   "id": 63197,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "The Shameless Thief of Argus",
-  "titles_en": [
-    {
-      "title": "I'm Going to Steal Again Today",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "I'm Going to Steal From Today",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Oneul-do Humchireo Gamnida",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Shameless Thief of Argus",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "오늘도 훔치러 갑니다",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "今日も盗みに行きますか〜大怪盗で成り上がれ〜",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "I'm Going to Steal Again Today",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Oneuldo Humchireo Gamnida",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Life is all about taking the easy way for Seokwoo, who feels zero guilt over robbing thousands of players as \"Luke\" in the VR game, Argus. Just when he's leveled up to a master criminal, however, he gets caught and is sentenced to life in prison! Luckily, Luke discovers the will of the vanquished Night King in his cell, which lets him start the game over in exchange for getting revenge on the king's enemies. Though his level and stats have been reset, it's only a matter of time before Argus' infamous thief steals his way back to the top!\n\n(Source: Tappytoon)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE2ODUxMC05WGpNRHFucHk5aUEuanBn",
-  "total_chapters": "59",
+  "display_title": "I'm Going to Steal Again Today",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2023,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2023-04-22",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-14T12:08:48.276Z",
-  "authors": [
-    "Story Arc",
-    "Tresha"
-  ],
-  "artists": [
-    "Rose Studio"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "MSTORYHUB",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tappytoon",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/63197",
-    "read_en": "https://www.tappytoon.com/en/book/the-shameless-thief-of-argus"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 168510,
-      "rating": 65,
-      "url": "https://anilist.co/manga/168510"
+      "rating": 6.5,
+      "rating_normalized": 65
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-shameless-thief-of-argus",
-      "rating": 70,
-      "url": "https://www.anime-planet.com/manga/the-shameless-thief-of-argus"
+      "rating": 3.5,
+      "rating_normalized": 70
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 67120,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "33zpt12",
-      "rating": 60,
-      "url": "https://www.mangaupdates.com/series/33zpt12"
+      "rating": 6.02,
+      "rating_normalized": 60
+    },
+    "my_anime_list": {
+      "id": 164040,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 164040,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -147,9 +85,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.6198,
-    "fanRatioPercentile": 35.5599,
-    "popularityPercentile": 69.2796,
-    "fanFavouriteDiscoveryScore": 34.984,
-    "fanFavouriteDiscoveryPercentile": 38.6531
+    "fanRatioPercentile": 35.5902,
+    "popularityPercentile": 69.294,
+    "fanFavouriteDiscoveryScore": 35.0144,
+    "fanFavouriteDiscoveryPercentile": 38.6819
   }
 }

@@ -1,77 +1,66 @@
 {
   "id": 585130,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "[X-Juice Anthology]",
-  "titles_en": [
-    {
-      "title": "[X-Juice Anthology]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[X-Rated Anthology]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[X-Rated Anthology] Collection",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "[X물 단편선]",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
   "description": null,
   "cover": null,
-  "total_chapters": "0",
+  "total_chapters": null,
   "status": "unknown",
-  "content_rating": "erotica",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2026,
+  "year": null,
   "published": {
     "start_date": "2026-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-14T00:51:32.540Z",
-  "authors": [
-    "Anthology"
-  ],
-  "artists": [
-    "Anthology"
-  ],
-  "publishers": [
-    {
-      "name": "Luscent",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Ridibooks",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/585130",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "ksrczu9",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/ksrczu9"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

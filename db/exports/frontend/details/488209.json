@@ -1,63 +1,67 @@
 {
   "id": 488209,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Damm",
-  "titles_en": [
-    {
-      "title": "Damm",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "Damm, Dirty, Dumm",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Dirty",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "Dumm(댐 더티 덤)",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2RhbW0tZGlydHktZHVtbS0xLndlYnA_dD0xNjc3MTE1NTE3",
-  "total_chapters": "10",
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2022,
+  "year": null,
   "published": {
     "start_date": "2022-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2025-09-15T22:47:39.997Z",
+  "last_updated_at": null,
   "authors": [],
   "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/488209",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
       "id": "damm-dirty-dumm",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/damm-dirty-dumm"
+      "rating_normalized": null
     },
-    "mangaupdates": null
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    }
   },
   "tag_ids": [
     180,

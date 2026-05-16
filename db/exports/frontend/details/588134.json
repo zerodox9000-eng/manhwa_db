@@ -1,63 +1,66 @@
 {
   "id": 588134,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "무무무",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "무무무",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ja-Latn",
-      "title": "Mumumu",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "description": "**Original Webtoon :**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=850649), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14151581)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI1MjkxLmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
-  "content_rating": "safe",
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
+  "status": "releasing",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2026,
+  "year": null,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T16:21:51.323Z",
-  "authors": [
-    "Peup2"
-  ],
-  "artists": [
-    "Park Yong-Je"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/588134",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": 212291,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "d6s5bds",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/d6s5bds"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -72,8 +75,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.747,
+    "popularityPercentile": 0.2113,
+    "fanFavouriteDiscoveryScore": 5.1188,
+    "fanFavouriteDiscoveryPercentile": 0.2113
   }
 }

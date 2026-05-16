@@ -1,136 +1,66 @@
 {
   "id": 87319,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "You Think It's Easy Rewriting a Story?",
-  "titles_en": [
-    {
-      "title": "Anyone Beats the Original",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Anyone Can Beat the Original",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Anyone in the Original Will Beat You",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Nobody Beats the Original",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Not Anyone Can Twist the Original",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "You Think It's Easy Rewriting a Story?",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "원작은 아무나 비트나",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "原作是谁都能随便改的吗？",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "原作通りには生きられません！",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Wonjageun Amuna Biteuna",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Reincarnation stories are all the rage these days, but I never thought I’d be the one getting reborn! But still, life as a rich man’s beautiful daughter is pretty sweet... except for one thing. No matter what I do, where I run, or who I romance, this novel is dead-set on getting me hitched to the handsome duke destined to kill me! There must be some way to change my fate, right? I won't go out like this!\n\n(Source: Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4ODI2MC1KelQ4Q1pRVjY4d2EuanBn",
-  "total_chapters": "67",
+  "display_title": "Anyone Beats the Original",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2025,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2025-02-23",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T06:38:27.258Z",
-  "authors": [
-    "Dyong U",
-    "Seo-Ha Baek"
-  ],
-  "artists": [
-    "Jik-Ga"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "MstoryHub",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/87319",
-    "read_en": "https://tapas.io/series/you-think-its-easy-rewriting-a-story/info"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 188260,
-      "rating": 76,
-      "url": "https://anilist.co/manga/188260"
+      "rating": 7.6,
+      "rating_normalized": 76
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "anyone-beats-the-original",
-      "rating": 82,
-      "url": "https://www.anime-planet.com/manga/anyone-beats-the-original"
+      "rating": 4.1,
+      "rating_normalized": 82
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 74508,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "3tmkt7p",
-      "rating": 70,
-      "url": "https://www.mangaupdates.com/series/3tmkt7p"
+      "rating": 7.04,
+      "rating_normalized": 70
+    },
+    "my_anime_list": {
+      "id": 180228,
+      "rating": 7.36,
+      "rating_normalized": 74
+    },
+    "shikimori": {
+      "id": 180228,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -178,9 +108,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.1379,
-    "fanRatioPercentile": 72.4902,
-    "popularityPercentile": 86.2177,
-    "fanFavouriteDiscoveryScore": 72.2004,
-    "fanFavouriteDiscoveryPercentile": 80.1566
+    "fanRatioPercentile": 72.5031,
+    "popularityPercentile": 86.2242,
+    "fanFavouriteDiscoveryScore": 72.2135,
+    "fanFavouriteDiscoveryPercentile": 80.1659
   }
 }

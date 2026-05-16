@@ -1,61 +1,66 @@
 {
   "id": 40642,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "고양이 찾기",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "고양이 찾기",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Looking for a Cat",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Original Webtoon",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNjUwMTMvcG9zdGVyX2ltYWdlLzdiZmQzZjExNDg2ZWZmMDJmYTljYzNjZDI1YzEyYTRhLnBuZw",
-  "total_chapters": "79",
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2019,
+  "year": null,
   "published": {
     "start_date": "2019-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-14T10:13:20.172Z",
-  "authors": [
-    "Maeu Malgeum"
-  ],
-  "artists": [
-    "Maeu Malgeum"
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/40642",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 65013,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "nzqthm1",
-      "rating": 65,
-      "url": "https://www.mangaupdates.com/series/nzqthm1"
+      "rating": 6.47,
+      "rating_normalized": 65
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

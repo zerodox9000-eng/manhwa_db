@@ -1,119 +1,66 @@
 {
   "id": 9474,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Dolgii Put Viona",
-  "titles_en": [
-    {
-      "title": "Dolgii Put Viona",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Musa Mallihaeng",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "The Long Way of a Warrior",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Long Way of the Warrior",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "무사만리행",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "武士万里行",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Musa Mallihaeng",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Musamanlihaeng",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Musa Manrihaeng",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "description": "In the second half of the 2nd century, Naru, a warrior from the state of Koryo, was sold as a gladiator-slave to the Roman Empire and waged a desperate struggle for freedom. \n\n(Source: Naver, translated)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzcvNy80LzUvNi9hL2YvNjMwOS80YTNmL2FkNjcvMTE1NTE3MWY3NmQ5",
-  "total_chapters": "235",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2020,
+  "year": null,
   "published": {
     "start_date": "2020-06-02",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-15T03:29:31.255Z",
-  "authors": [
-    "Un"
-  ],
-  "artists": [
-    "Mingi Bae"
-  ],
-  "publishers": [
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "ToYou's Dream",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/9474",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 122082,
-      "rating": 68,
-      "url": "https://anilist.co/manga/122082"
+      "rating": 6.8,
+      "rating_normalized": 68
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-long-way-of-the-warrior",
-      "rating": 74,
-      "url": "https://www.anime-planet.com/manga/the-long-way-of-the-warrior"
+      "rating": 3.7,
+      "rating_normalized": 74
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 61344,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "he7n7rb",
-      "rating": 66,
-      "url": "https://www.mangaupdates.com/series/he7n7rb"
+      "rating": 6.59,
+      "rating_normalized": 66
+    },
+    "my_anime_list": {
+      "id": 164016,
+      "rating": 6.94,
+      "rating_normalized": 69
+    },
+    "shikimori": {
+      "id": 164016,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -140,9 +87,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2706,
-    "fanRatioPercentile": 50.8692,
-    "popularityPercentile": 86.9538,
-    "fanFavouriteDiscoveryScore": 50.6779,
-    "fanFavouriteDiscoveryPercentile": 59.029
+    "fanRatioPercentile": 50.8923,
+    "popularityPercentile": 86.9599,
+    "fanFavouriteDiscoveryScore": 50.701,
+    "fanFavouriteDiscoveryPercentile": 59.0482
   }
 }

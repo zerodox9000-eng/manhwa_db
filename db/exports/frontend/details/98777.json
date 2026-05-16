@@ -1,63 +1,66 @@
 {
   "id": 98777,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "[Omegaverse Anthology]",
-  "titles_en": [
-    {
-      "title": "[Omegaverse Anthology]",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "[Omegaverse Anthology] Collection",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "[오메가버스 단편선]",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
-  "description": "Collection of series published under [Omegaverse Anthology] theme.",
+  "description": null,
   "cover": null,
-  "total_chapters": "0",
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "erotica",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2024,
+  "year": null,
   "published": {
     "start_date": "2024-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-14T00:01:56.832Z",
+  "last_updated_at": null,
   "authors": [],
   "artists": [],
-  "publishers": [
-    {
-      "name": "BookCube",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/98777",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "32zja4s",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/32zja4s"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

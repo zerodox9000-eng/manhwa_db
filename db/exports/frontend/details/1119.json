@@ -1,118 +1,66 @@
 {
   "id": 1119,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Born to Bleed",
-  "titles_en": [
-    {
-      "title": "Born to Bleed",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "The Villain of the Octagon",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "옥타곤의 빌란",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko",
-      "title": "옥타곤의 빌런",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "オクタゴンのヴィラン",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Octagon-ui Villain",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "After a violent outburst in his first match, an amateur MMA fighter haunted by dreams of a past life as a gladiator is offered a chance to go pro, if he survives the fight. He’s untrained, unhinged, and utterly untamable.\n\n(Source: Toomics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzIvYi81LzYvOC9iLzUvZTBjNS80MDU3LzlkNzAvMWE0Mzk5ZTJkNjA3",
-  "total_chapters": "69",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2025,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2025-04-02",
     "end_date": "2025-12-31",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T02:22:31.779Z",
-  "authors": [
-    "Bluetiful",
-    "Bulgeunnoe"
-  ],
-  "artists": [
-    "Sang-Ki Hong"
-  ],
-  "publishers": [
-    {
-      "name": "Contents Lab.Blue",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/1119",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 199177,
-      "rating": 70,
-      "url": "https://anilist.co/manga/199177"
+      "rating": 7,
+      "rating_normalized": 70
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "the-villain-of-the-octagon",
-      "rating": 78,
-      "url": "https://www.anime-planet.com/manga/the-villain-of-the-octagon"
+      "rating": 3.9,
+      "rating_normalized": 78
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "f61jlme",
-      "rating": 66,
-      "url": "https://www.mangaupdates.com/series/f61jlme"
+      "rating": 6.6,
+      "rating_normalized": 66
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -134,9 +82,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2422,
-    "fanRatioPercentile": 50.1253,
-    "popularityPercentile": 48.6139,
-    "fanFavouriteDiscoveryScore": 45.8966,
-    "fanFavouriteDiscoveryPercentile": 52.5998
+    "fanRatioPercentile": 50.1487,
+    "popularityPercentile": 48.6381,
+    "fanFavouriteDiscoveryScore": 45.9258,
+    "fanFavouriteDiscoveryPercentile": 52.6221
   }
 }

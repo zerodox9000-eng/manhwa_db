@@ -1,138 +1,66 @@
 {
   "id": 8102,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Feel Good To Die",
-  "titles_en": [
-    {
-      "title": "Feel Good To Die",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Happy if You Died",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "title": "Jugeodo Joha♡",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "My Boss Dies Once A Day",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Til Death♡",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "죽어도 좋아♡",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "我每天救老板一次",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "我的老板每天死一次",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "死んでもいい",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ja",
-      "title": "死んでもいい～リピート・ラブ～",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ja-Latn",
-      "title": "Happy if You Died",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Jugeodo Joa♡",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Everyone would be happier if this boss was dead...",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDk4MTY5LUgzckpKN3NVZm5xYS5qcGc",
-  "total_chapters": "61",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2016,
+  "year": null,
   "published": {
     "start_date": "2016-01-01",
     "end_date": "2018-01-01",
     "start_date_is_estimated": true,
     "end_date_is_estimated": true
   },
-  "last_updated_at": "2026-05-15T15:29:45.503Z",
-  "authors": [
-    "Gold Kiwi"
-  ],
-  "artists": [
-    "Gold Kiwi"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/8102",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 98169,
-      "rating": 67,
-      "url": "https://anilist.co/manga/98169"
+      "rating": 6.7,
+      "rating_normalized": 67
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "happy-if-you-died",
-      "rating": 70,
-      "url": "https://www.anime-planet.com/manga/happy-if-you-died"
+      "rating": 3.5,
+      "rating_normalized": 70
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 52551,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "ay0tbem",
-      "rating": 73,
-      "url": "https://www.mangaupdates.com/series/ay0tbem"
+      "rating": 7.32,
+      "rating_normalized": 73
+    },
+    "my_anime_list": {
+      "id": 112479,
+      "rating": 6.9,
+      "rating_normalized": 69
+    },
+    "shikimori": {
+      "id": 112479,
+      "rating": 6.92,
+      "rating_normalized": 69
     }
   },
   "tag_ids": [
@@ -175,9 +103,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.4237,
-    "fanRatioPercentile": 32.9287,
-    "popularityPercentile": 68.7862,
-    "fanFavouriteDiscoveryScore": 32.3734,
-    "fanFavouriteDiscoveryPercentile": 35.2388
+    "fanRatioPercentile": 32.9602,
+    "popularityPercentile": 68.8009,
+    "fanFavouriteDiscoveryScore": 32.405,
+    "fanFavouriteDiscoveryPercentile": 35.2693
   }
 }

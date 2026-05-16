@@ -1,82 +1,66 @@
 {
   "id": 88729,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Director, That's Not Me!",
-  "titles_en": [
-    {
-      "title": "Director, That's Not Me!",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "이사님, 그거 저 아닌데요!",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Isanim, Geugeo Jeo Anindeyo!",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "*Note: Includes one extra chapter.*",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2UvNy84LzUvOS85LzAvZjVhYS80YzEwL2I2ZWQvMDczOGViNmFlY2E3",
-  "total_chapters": "53",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2024,
+  "year": null,
   "published": {
     "start_date": "2024-06-28",
     "end_date": "2025-02-28",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-12T02:02:55.311Z",
-  "authors": [
-    "Odenggungdengi"
-  ],
-  "artists": [
-    "Odenggungdengi"
-  ],
-  "publishers": [
-    {
-      "name": "Daewon CI",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Naver",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/88729",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 180606,
       "rating": null,
-      "url": "https://anilist.co/manga/180606"
+      "rating_normalized": null
     },
-    "animeplanet": null,
-    "mangaupdates": {
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "5h3769a",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/5h3769a"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -94,9 +78,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4,
-    "fanRatioPercentile": 93.2028,
-    "popularityPercentile": 17.3845,
-    "fanFavouriteDiscoveryScore": 41.5428,
-    "fanFavouriteDiscoveryPercentile": 46.6484
+    "fanRatioPercentile": 93.206,
+    "popularityPercentile": 17.4233,
+    "fanFavouriteDiscoveryScore": 41.6187,
+    "fanFavouriteDiscoveryPercentile": 46.7361
   }
 }

@@ -1,78 +1,66 @@
 {
   "id": 294035,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Royal Blue Rose",
-  "titles_en": [
-    {
-      "title": "Royal Blue Rose",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "로열블루로즈",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko",
-      "title": "로얄 블루 로즈",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
+  "titles_en": [],
+  "titles_native": [],
   "titles_romaji": [],
-  "description": "Original Webtoon",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDcwNDcyLmpwZw",
-  "total_chapters": "24",
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2016,
+  "year": null,
   "published": {
     "start_date": "2016-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-04-26T04:29:42.773Z",
-  "authors": [
-    "Lee Ryu-hyeon"
-  ],
-  "artists": [
-    "Nara"
-  ],
-  "publishers": [
-    {
-      "name": "Bookpal",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Koi Content",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Toomics",
-      "type": "Original",
-      "note": "Expired"
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/294035",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "drkr4br",
-      "rating": 61,
-      "url": "https://www.mangaupdates.com/series/drkr4br"
+      "rating": 6.07,
+      "rating_normalized": 61
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

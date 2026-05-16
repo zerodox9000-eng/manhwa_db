@@ -1,80 +1,66 @@
 {
   "id": 325040,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "바이러서",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "바이러서",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ko",
-      "title": "바이러서 (기민수)",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ja-Latn",
-      "title": "Viruser",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Virus (Ki Minsu)",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "description": "[Original Webtoon](https://page.kakao.com/content/60608182)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDA2NTg4LmpwZw",
-  "total_chapters": "0",
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "unknown",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2022,
+  "year": null,
   "published": {
     "start_date": "2022-01-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-04-05T03:18:21.342Z",
-  "authors": [
-    "Ki Minsu"
-  ],
-  "artists": [
-    "Ki Minsu"
-  ],
-  "publishers": [
-    {
-      "name": "ArtStation",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/325040",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
-    "mangaupdates": {
+    "anilist": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "y2m2epd",
       "rating": null,
-      "url": "https://www.mangaupdates.com/series/y2m2epd"
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [

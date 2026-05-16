@@ -1,104 +1,66 @@
 {
   "id": 34711,
-  "state": "active",
-  "type": "manhwa",
   "display_title": "Epitaph",
-  "titles_en": [
-    {
-      "title": "Epitaph",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Epitaph (Perfume)",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Эпитафия",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "에피타프",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "zh",
-      "title": "墓志铭",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Epitaph",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Researcher Lou Solomon is given Caleb, his father's 'pet' during the zombie apocalypse. Will he be able to deal with the threats outside and within?\n\n(Sorce: Toomics)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjExMDc3OC1KajVGUGExaG52dVguanBn",
-  "total_chapters": "56",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2018,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2018-12-28",
     "end_date": "2020-01-31",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T00:29:36.616Z",
-  "authors": [
-    "Hyangsu"
-  ],
-  "artists": [
-    "Hyangsu"
-  ],
-  "publishers": [
-    {
-      "name": "Toomics",
-      "type": "English",
-      "note": ""
-    },
-    {
-      "name": "TOOMICS",
-      "type": "Original",
-      "note": ""
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/34711",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 110778,
-      "rating": 58,
-      "url": "https://anilist.co/manga/110778"
+      "rating": 5.8,
+      "rating_normalized": 58
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "epitaph-perfume",
-      "rating": 70,
-      "url": "https://www.anime-planet.com/manga/epitaph-perfume"
+      "rating": 3.5,
+      "rating_normalized": 70
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 66624,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "2lmk92f",
-      "rating": 64,
-      "url": "https://www.mangaupdates.com/series/2lmk92f"
+      "rating": 6.41,
+      "rating_normalized": 64
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -138,9 +100,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.3453,
-    "fanRatioPercentile": 52.7956,
-    "popularityPercentile": 54.9099,
-    "fanFavouriteDiscoveryScore": 50.0659,
-    "fanFavouriteDiscoveryPercentile": 58.567
+    "fanRatioPercentile": 52.8178,
+    "popularityPercentile": 54.9311,
+    "fanFavouriteDiscoveryScore": 50.0915,
+    "fanFavouriteDiscoveryPercentile": 58.5864
   }
 }

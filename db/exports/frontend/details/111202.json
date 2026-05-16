@@ -1,142 +1,66 @@
 {
   "id": 111202,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Stand Up!",
-  "titles_en": [
-    {
-      "title": "Brawling Go!",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Eojjeora Go!",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Stand Up!",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Stand Up! (Warren)",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "어쩌라GO!",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "どうしろってんだぁ！",
-      "is_primary": true,
-      "traits": []
-    },
-    {
-      "language": "zh",
-      "title": "本能觉醒",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Brawling Go",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Dō shiro tte nda ~a!",
-      "is_primary": false,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ko-Latn",
-      "title": "EojjeolaGO!",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Eojjeora GO!",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Jaejin has lived his short but dreadful life as an impotent (a.k.a. GOJA in Korean). His life takes an unexpected turn when Jaejin regains his once absent manhood. But now, he faces another challenge; unerecting his constantly erecting buddy. What is he supposed to do? \n\n(Source: Lezhin US)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDg2NjcwLXlyMmlLYXY0cFdqRy5qcGc",
-  "total_chapters": "154",
+  "display_title": "Brawling Go!",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "pornographic",
-  "is_licensed": true,
-  "year": 2015,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2015-11-17",
     "end_date": "2019-04-04",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-15T05:41:35.284Z",
-  "authors": [
-    "Worin"
-  ],
-  "artists": [
-    "Worin"
-  ],
-  "publishers": [
-    {
-      "name": "Lezhin",
-      "type": "Original",
-      "note": ""
-    },
-    {
-      "name": "Lezhin US",
-      "type": "English",
-      "note": ""
-    },
-    {
-      "name": "Lezhin X",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/111202",
-    "read_en": "https://www.lezhinus.com/en/comic/standup"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 86670,
-      "rating": 64,
-      "url": "https://anilist.co/manga/86670"
+      "rating": 6.4,
+      "rating_normalized": 64
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "stand-up-warren",
-      "rating": 72,
-      "url": "https://www.anime-planet.com/manga/stand-up-warren"
+      "rating": 3.6,
+      "rating_normalized": 72
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": 36633,
+      "rating": 7.237,
+      "rating_normalized": 72
+    },
+    "manga_updates": {
       "id": "wpe25yw",
-      "rating": 68,
-      "url": "https://www.mangaupdates.com/series/wpe25yw"
+      "rating": 6.75,
+      "rating_normalized": 68
+    },
+    "my_anime_list": {
+      "id": 128651,
+      "rating": 6.3,
+      "rating_normalized": 63
+    },
+    "shikimori": {
+      "id": 128651,
+      "rating": 6.33,
+      "rating_normalized": 63
     }
   },
   "tag_ids": [
@@ -199,9 +123,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.4895,
-    "fanRatioPercentile": 78.9977,
-    "popularityPercentile": 93.9624,
-    "fanFavouriteDiscoveryScore": 78.8317,
-    "fanFavouriteDiscoveryPercentile": 86.3978
+    "fanRatioPercentile": 79.0075,
+    "popularityPercentile": 93.9652,
+    "fanFavouriteDiscoveryScore": 78.8416,
+    "fanFavouriteDiscoveryPercentile": 86.4042
   }
 }

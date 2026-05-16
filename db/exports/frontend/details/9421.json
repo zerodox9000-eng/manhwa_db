@@ -1,125 +1,66 @@
 {
   "id": 9421,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Guardian of the Dragon",
-  "titles_en": [
-    {
-      "title": "Guardian of Dragon",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "Guardian of the Dragon",
-      "is_primary": true,
-      "traits": [
-        "official"
-      ]
-    },
-    {
-      "title": "Keeper of the Dragon",
-      "is_primary": false,
-      "traits": []
-    },
-    {
-      "title": "The Dragon's Guardian",
-      "is_primary": false,
-      "traits": []
-    }
-  ],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "용의 파수꾼",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    },
-    {
-      "language": "ja",
-      "title": "龍の番人",
-      "is_primary": true,
-      "traits": []
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Yongui Pasukkun",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "Abandoned as an infant in the mystical Siuta Forest, Freya knows nothing of her past. Driven to uncover the truth of her origins, she becomes a priestess and embarks on a pilgrimage back to the forest. There, she begins dreaming of a red-haired man named Aran, whose appearance mirrors the kingdom's legendary hero from an ancient mural. As the dreams repeat, Freya starts to suspect they may hold a deeper meaning. Who is this man, and what is the truth behind their mysterious connection?\n\n(Source: Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5MTA2OS15aWRqZ1ExcjJnODkuanBn",
-  "total_chapters": "41",
+  "display_title": "Guardian of Dragon",
+  "titles_en": [],
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "releasing",
-  "content_rating": "safe",
-  "is_licensed": true,
-  "year": 2024,
+  "content_rating": null,
+  "is_licensed": false,
+  "year": null,
   "published": {
     "start_date": "2024-09-29",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-13T12:13:22.646Z",
-  "authors": [
-    "Haneul Garigi",
-    "Yungteol"
-  ],
-  "artists": [
-    "Chagyeong"
-  ],
-  "publishers": [
-    {
-      "name": "Daum",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Kakao",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Páragraph",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Studio Panorama",
-      "type": "Original",
-      "note": null
-    },
-    {
-      "name": "Tapas",
-      "type": "English",
-      "note": null
-    }
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
+  "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/9421",
-    "read_en": "https://tapas.io/series/guardian-of-the-dragon/info"
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 191069,
-      "rating": 72,
-      "url": "https://anilist.co/manga/191069"
+      "rating": 7.2,
+      "rating_normalized": 72
     },
-    "animeplanet": {
+    "anime_planet": {
       "id": "guardian-of-the-dragon",
-      "rating": 78,
-      "url": "https://www.anime-planet.com/manga/guardian-of-the-dragon"
+      "rating": 3.9,
+      "rating_normalized": 78
     },
-    "mangaupdates": {
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
       "id": "3l1raoe",
-      "rating": 63,
-      "url": "https://www.mangaupdates.com/series/3l1raoe"
+      "rating": 6.28,
+      "rating_normalized": 63
+    },
+    "my_anime_list": {
+      "id": 180220,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": 180220,
+      "rating": null,
+      "rating_normalized": null
     }
   },
   "tag_ids": [
@@ -140,9 +81,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5267,
-    "fanRatioPercentile": 57.7604,
-    "popularityPercentile": 44.9726,
-    "fanFavouriteDiscoveryScore": 51.3517,
-    "fanFavouriteDiscoveryPercentile": 59.7024
+    "fanRatioPercentile": 57.7802,
+    "popularityPercentile": 44.9984,
+    "fanFavouriteDiscoveryScore": 51.3816,
+    "fanFavouriteDiscoveryPercentile": 59.7214
   }
 }

@@ -1,62 +1,67 @@
 {
   "id": 128319,
-  "state": "active",
-  "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "인스턴트 글라스",
   "titles_en": [],
-  "titles_native": [
-    {
-      "language": "ko",
-      "title": "인스턴트 글라스",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "titles_romaji": [
-    {
-      "language": "ko-Latn",
-      "title": "Instant Glass",
-      "is_primary": true,
-      "traits": [
-        "native"
-      ]
-    }
-  ],
-  "description": "A collection of yuri horror short stories.\n\n*Note: Chapter count includes the prologue.*",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4NzkwMy0wR0M1MG5oaVA1SEEucG5n",
-  "total_chapters": "11",
+  "titles_native": [],
+  "titles_romaji": [],
+  "description": null,
+  "cover": null,
+  "total_chapters": null,
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": null,
   "is_licensed": false,
-  "year": 2014,
+  "year": null,
   "published": {
     "start_date": "2014-08-18",
     "end_date": "2014-11-24",
     "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-05-06T06:20:21.359Z",
-  "authors": [
-    "Gaje"
-  ],
-  "artists": [
-    "Gaje"
-  ],
+  "last_updated_at": null,
+  "authors": [],
+  "artists": [],
   "publishers": [],
   "links": {
-    "mangabaka": "https://mangabaka.org/series/128319",
-    "read_en": null
+    "mangabaka": null,
+    "read_en": null,
+    "official_en": null
   },
   "source": {
     "anilist": {
       "id": 187903,
-      "rating": 40,
-      "url": "https://anilist.co/manga/187903"
+      "rating": 4,
+      "rating_normalized": 40
     },
-    "animeplanet": null,
-    "mangaupdates": null
+    "anime_planet": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "anime_news_network": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "kitsu": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "manga_updates": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "my_anime_list": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    },
+    "shikimori": {
+      "id": null,
+      "rating": null,
+      "rating_normalized": null
+    }
   },
   "tag_ids": [
     333,
@@ -75,9 +80,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.4085,
-    "fanRatioPercentile": 54.6437,
-    "popularityPercentile": 34.1112,
-    "fanFavouriteDiscoveryScore": 41.7596,
-    "fanFavouriteDiscoveryPercentile": 47.0869
+    "fanRatioPercentile": 54.665,
+    "popularityPercentile": 34.1421,
+    "fanFavouriteDiscoveryScore": 41.8012,
+    "fanFavouriteDiscoveryPercentile": 47.1118
   }
 }
