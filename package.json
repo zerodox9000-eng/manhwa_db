@@ -12,7 +12,7 @@
     "daily": "npm run update && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend",
     "update": "node scripts/updates/updateMangabaka.js",
     "incremental": "node scripts/updates/incrementalRawPatch.js",
-    "daily:incremental": "npm run incremental && npm run enrich && npm run snapshot && npm run build:frontend"
+    "daily:incremental": "npm run incremental && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend"
     
   },
   "keywords": [],
