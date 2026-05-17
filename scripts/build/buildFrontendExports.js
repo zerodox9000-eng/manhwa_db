@@ -297,40 +297,7 @@ for (const file of enrichedFiles) {
 
 
 
-const snapshotFiles =
-  fs.readdirSync(SNAPSHOT_DIR);
 
-for (const file of snapshotFiles) {
-
-  const date =
-    file.replace(".json", "");
-
-  const data =
-    readJson(
-      path.join(SNAPSHOT_DIR, file)
-    );
-
-  for (const entry of data) {
-
-    if (
-      !historyMap[entry.id]
-    ) {
-
-      historyMap[entry.id] = [];
-    }
-
-    historyMap[entry.id].push({
-
-      d: date,
-
-      p: entry.popularity,
-
-      f: entry.favourites,
-
-      s: entry.meanScore
-    });
-  }
-}
 
 
 
@@ -459,6 +426,330 @@ for (
       Number(
         discoveryPercentile.toFixed(4)
       );
+}
+
+const snapshotFiles =
+
+  fs.readdirSync(SNAPSHOT_DIR);
+
+
+for (const file of snapshotFiles) {
+
+
+  const date =
+
+    file.replace(".json", "");
+
+
+  const data =
+
+    readJson(
+
+      path.join(SNAPSHOT_DIR, file)
+
+    );
+
+
+  const dayEntries = [];
+
+
+  for (const entry of data) {
+
+
+    const popularity =
+      entry.popularity || 0;
+
+
+    const favourites =
+      entry.favourites || 0;
+
+
+    const rawRatio =
+
+      popularity > 0
+        ? (favourites / popularity) * 100
+        : 0;
+
+
+    dayEntries.push({
+
+
+      id: entry.id,
+
+
+      popularity,
+
+
+      favourites,
+
+
+      meanScore:
+        entry.meanScore || null,
+
+
+      rawRatio
+    });
+
+  }
+
+
+  const dailyPopularityValues =
+
+    dayEntries
+
+      .map(x =>
+
+        Math.log10(
+
+          Math.max(
+
+            x.popularity,
+
+            1
+
+          )
+
+        )
+
+      )
+
+      .sort((a,b)=>a-b);
+
+
+  const dailyRatioValues =
+
+    dayEntries
+
+      .map(x => x.rawRatio)
+
+      .sort((a,b)=>a-b);
+
+
+  const dailyDiscoveryScores = [];
+
+
+  for (const entry of dayEntries) {
+
+
+    const popularityLog =
+
+      Math.log10(
+
+        Math.max(
+
+          entry.popularity,
+
+          1
+
+        )
+
+      );
+
+
+    const popPercentile =
+
+      percentileRank(
+
+        dailyPopularityValues,
+
+        popularityLog
+
+      );
+
+
+    const ratioPercentile =
+
+      percentileRank(
+
+        dailyRatioValues,
+
+        entry.rawRatio
+
+      );
+
+
+    const confidenceWeight =
+
+      1 /
+
+      (
+
+        1 +
+
+        Math.exp(
+
+          -(
+
+            (popPercentile - 20)
+
+            / 12
+
+          )
+
+        )
+
+      );
+
+
+    const discoveryScore =
+
+      ratioPercentile *
+
+      confidenceWeight;
+
+
+    dailyDiscoveryScores.push(
+      discoveryScore
+    );
+
+  }
+
+
+  dailyDiscoveryScores.sort(
+    (a,b)=>a-b
+  );
+
+
+  for (const entry of dayEntries) {
+
+
+    if (
+
+      !historyMap[entry.id]
+
+    ) {
+
+
+      historyMap[entry.id] = [];
+
+    }
+
+
+    const popularityLog =
+
+      Math.log10(
+
+        Math.max(
+
+          entry.popularity,
+
+          1
+
+        )
+
+      );
+
+
+    const popPercentile =
+
+      percentileRank(
+
+        dailyPopularityValues,
+
+        popularityLog
+
+      );
+
+
+    const ratioPercentile =
+
+      percentileRank(
+
+        dailyRatioValues,
+
+        entry.rawRatio
+
+      );
+
+
+    const confidenceWeight =
+
+      1 /
+
+      (
+
+        1 +
+
+        Math.exp(
+
+          -(
+
+            (popPercentile - 20)
+
+            / 12
+
+          )
+
+        )
+
+      );
+
+
+    const discoveryScore =
+
+      ratioPercentile *
+
+      confidenceWeight;
+
+
+    const discoveryPercentile =
+
+      percentileRank(
+
+        dailyDiscoveryScores,
+
+        discoveryScore
+
+      );
+
+
+    historyMap[entry.id].push({
+
+
+      d: date,
+
+
+      p: entry.popularity,
+
+
+      f: entry.favourites,
+
+
+      s: entry.meanScore,
+
+
+      r:
+        Number(
+          entry.rawRatio.toFixed(4)
+        ),
+
+
+      rp:
+        Number(
+          ratioPercentile.toFixed(4)
+        ),
+
+
+      pp:
+        Number(
+          popPercentile.toFixed(4)
+        ),
+
+
+      ds:
+        Number(
+          discoveryScore.toFixed(4)
+        ),
+
+
+      dp:
+        Number(
+          discoveryPercentile.toFixed(4)
+        )
+    });
+
+  }
+
 }
 
 const discovery = [];
@@ -626,6 +917,12 @@ gzipFile(
 console.log(
   "Gzip exports built."
 );
+
+
+
+
+
+
 
 
 
