@@ -47534,8 +47534,22 @@
         "name": "Shounen",
         "level": 3,
         "name_path": "Audience Demographics > Male Oriented > Shounen",
-        "series_count": 28480,
+        "series_count": 28484,
         "description": "",
+        "content_rating": "safe"
+      },
+      {
+        "id": 758,
+        "is_spoiler": false,
+        "is_genre": false,
+        "is_explicit": true,
+        "implied_by_tag_ids": [],
+        "parent_id": 1301,
+        "name": "Psychopaths",
+        "level": 3,
+        "name_path": "Character Traits > Personality Traits > Psychopaths",
+        "series_count": 606,
+        "description": null,
         "content_rating": "safe"
       },
       {
@@ -47548,7 +47562,7 @@
         "name": "Male Lead",
         "level": 2,
         "name_path": "Character Types > Male Lead",
-        "series_count": 22528,
+        "series_count": 22531,
         "description": "",
         "content_rating": "safe"
       },
@@ -47578,7 +47592,21 @@
         "name": "School",
         "level": 2,
         "name_path": "Locations > School",
-        "series_count": 39122,
+        "series_count": 39124,
+        "description": "",
+        "content_rating": "safe"
+      },
+      {
+        "id": 611,
+        "is_spoiler": false,
+        "is_genre": false,
+        "is_explicit": true,
+        "implied_by_tag_ids": [],
+        "parent_id": 107,
+        "name": "Magic School",
+        "level": 3,
+        "name_path": "Locations > School > Magic School",
+        "series_count": 410,
         "description": "",
         "content_rating": "safe"
       },
@@ -47611,18 +47639,34 @@
         "content_rating": "safe"
       },
       {
+        "id": 670,
+        "is_spoiler": false,
+        "is_genre": false,
+        "is_explicit": true,
+        "implied_by_tag_ids": [],
+        "parent_id": 538,
+        "name": "Mages",
+        "level": 2,
+        "name_path": "Occupations > Mages",
+        "series_count": 741,
+        "description": "",
+        "content_rating": "safe"
+      },
+      {
         "id": 36,
         "is_spoiler": false,
         "is_genre": true,
         "is_explicit": true,
         "implied_by_tag_ids": [
-          121
+          121,
+          611,
+          670
         ],
         "parent_id": 539,
         "name": "Fantasy",
         "level": 2,
         "name_path": "Settings > Fantasy",
-        "series_count": 57834,
+        "series_count": 57839,
         "description": null,
         "content_rating": "safe"
       },
@@ -47652,7 +47696,7 @@
         "name": "Supernatural",
         "level": 2,
         "name_path": "Settings > Supernatural",
-        "series_count": 29640,
+        "series_count": 29643,
         "description": null,
         "content_rating": "safe"
       },
@@ -47666,7 +47710,7 @@
         "name": "Action",
         "level": 2,
         "name_path": "Themes > Action",
-        "series_count": 33671,
+        "series_count": 33677,
         "description": null,
         "content_rating": "safe"
       },
@@ -47680,7 +47724,7 @@
         "name": "Adventure",
         "level": 2,
         "name_path": "Themes > Adventure",
-        "series_count": 18607,
+        "series_count": 18610,
         "description": null,
         "content_rating": "safe"
       },
@@ -47694,8 +47738,22 @@
         "name": "Comedy",
         "level": 2,
         "name_path": "Themes > Comedy",
-        "series_count": 65869,
+        "series_count": 65877,
         "description": null,
+        "content_rating": "safe"
+      },
+      {
+        "id": 227,
+        "is_spoiler": false,
+        "is_genre": false,
+        "is_explicit": true,
+        "implied_by_tag_ids": [],
+        "parent_id": 542,
+        "name": "Revenge",
+        "level": 2,
+        "name_path": "Themes > Revenge",
+        "series_count": 3482,
+        "description": "",
         "content_rating": "safe"
       },
       {
@@ -47722,7 +47780,7 @@
         "name": "School Life",
         "level": 3,
         "name_path": "Themes > Slice of Life > School Life",
-        "series_count": 29631,
+        "series_count": 29632,
         "description": "",
         "content_rating": "safe"
       },
@@ -47752,7 +47810,7 @@
         "name": "Full color",
         "level": 3,
         "name_path": "Work Info > Publication Medium > Full color",
-        "series_count": 26140,
+        "series_count": 26143,
         "description": null,
         "content_rating": "safe"
       },
@@ -47777,7 +47835,10 @@
         "is_spoiler": false,
         "is_genre": false,
         "is_explicit": true,
-        "implied_by_tag_ids": [],
+        "implied_by_tag_ids": [
+          611,
+          670
+        ],
         "parent_id": 2759,
         "name": "Magic",
         "level": 2,
@@ -49917,7 +49978,7 @@
         "name": "Josei",
         "level": 3,
         "name_path": "Audience Demographics > Female Oriented > Josei",
-        "series_count": 34021,
+        "series_count": 34026,
         "description": "",
         "content_rating": "safe"
       },
@@ -50029,7 +50090,7 @@
         "name": "Heterosexual",
         "level": 3,
         "name_path": "Relationship > Orientation > Heterosexual",
-        "series_count": 14054,
+        "series_count": 14055,
         "description": null,
         "content_rating": "safe"
       },
@@ -50043,7 +50104,7 @@
         "name": "Supernatural",
         "level": 2,
         "name_path": "Settings > Supernatural",
-        "series_count": 29640,
+        "series_count": 29643,
         "description": null,
         "content_rating": "safe"
       },
@@ -50057,7 +50118,7 @@
         "name": "Adult",
         "level": 3,
         "name_path": "Sexual Content > Intensity > Adult",
-        "series_count": 55741,
+        "series_count": 55751,
         "description": null,
         "content_rating": "safe"
       },
@@ -50071,7 +50132,7 @@
         "name": "Smut",
         "level": 3,
         "name_path": "Sexual Content > Intensity > Smut",
-        "series_count": 20895,
+        "series_count": 20896,
         "description": null,
         "content_rating": "erotica"
       },
@@ -50113,7 +50174,7 @@
         "name": "Romance",
         "level": 2,
         "name_path": "Themes > Romance",
-        "series_count": 106451,
+        "series_count": 106460,
         "description": null,
         "content_rating": "safe"
       },
@@ -50143,7 +50204,7 @@
         "name": "Full color",
         "level": 3,
         "name_path": "Work Info > Publication Medium > Full color",
-        "series_count": 26140,
+        "series_count": 26143,
         "description": null,
         "content_rating": "safe"
       },
@@ -57049,7 +57110,7 @@
         "name": "Shoujo",
         "level": 3,
         "name_path": "Audience Demographics > Female Oriented > Shoujo",
-        "series_count": 36371,
+        "series_count": 36374,
         "description": "",
         "content_rating": "safe"
       },
@@ -57119,7 +57180,7 @@
         "name": "Fantasy",
         "level": 2,
         "name_path": "Settings > Fantasy",
-        "series_count": 57834,
+        "series_count": 57839,
         "description": null,
         "content_rating": "safe"
       },
@@ -57175,7 +57236,7 @@
         "name": "Romance",
         "level": 2,
         "name_path": "Themes > Romance",
-        "series_count": 106451,
+        "series_count": 106460,
         "description": null,
         "content_rating": "safe"
       },
@@ -57205,7 +57266,7 @@
         "name": "Full color",
         "level": 3,
         "name_path": "Work Info > Publication Medium > Full color",
-        "series_count": 26140,
+        "series_count": 26143,
         "description": null,
         "content_rating": "safe"
       },
@@ -58361,7 +58422,7 @@
         "name": "Male Lead",
         "level": 2,
         "name_path": "Character Types > Male Lead",
-        "series_count": 22529,
+        "series_count": 22531,
         "description": "",
         "content_rating": "safe"
       },
@@ -58587,7 +58648,7 @@
         "name": "Fantasy",
         "level": 2,
         "name_path": "Settings > Fantasy",
-        "series_count": 57834,
+        "series_count": 57839,
         "description": null,
         "content_rating": "safe"
       },
@@ -58615,7 +58676,7 @@
         "name": "Erotica",
         "level": 3,
         "name_path": "Sexual Content > Intensity > Erotica",
-        "series_count": 11826,
+        "series_count": 11827,
         "description": null,
         "content_rating": "erotica"
       },
@@ -58713,7 +58774,7 @@
         "name": "Boys Love",
         "level": 2,
         "name_path": "Themes > Boys Love",
-        "series_count": 26309,
+        "series_count": 26310,
         "description": null,
         "content_rating": "safe"
       },
@@ -58741,7 +58802,7 @@
         "name": "Yaoi",
         "level": 3,
         "name_path": "Themes > Boys Love > Yaoi",
-        "series_count": 43354,
+        "series_count": 43362,
         "description": "",
         "content_rating": "pornographic"
       },
@@ -58813,7 +58874,7 @@
         "name": "Drama",
         "level": 2,
         "name_path": "Themes > Drama",
-        "series_count": 77434,
+        "series_count": 77440,
         "description": null,
         "content_rating": "safe"
       },
@@ -58941,7 +59002,7 @@
         "name": "Romance",
         "level": 2,
         "name_path": "Themes > Romance",
-        "series_count": 106452,
+        "series_count": 106460,
         "description": null,
         "content_rating": "safe"
       },
@@ -58955,7 +59016,7 @@
         "name": "Historical",
         "level": 4,
         "name_path": "Themes > Time Period > Period Piece > Historical",
-        "series_count": 14165,
+        "series_count": 14166,
         "description": null,
         "content_rating": "safe"
       },
@@ -59399,7 +59460,7 @@
         "name": "Josei",
         "level": 3,
         "name_path": "Audience Demographics > Female Oriented > Josei",
-        "series_count": 34021,
+        "series_count": 34026,
         "description": "",
         "content_rating": "safe"
       },
@@ -59455,7 +59516,7 @@
         "name": "Heterosexual",
         "level": 3,
         "name_path": "Relationship > Orientation > Heterosexual",
-        "series_count": 14054,
+        "series_count": 14055,
         "description": null,
         "content_rating": "safe"
       },
@@ -59469,7 +59530,7 @@
         "name": "Fantasy",
         "level": 2,
         "name_path": "Settings > Fantasy",
-        "series_count": 57834,
+        "series_count": 57839,
         "description": null,
         "content_rating": "safe"
       },
@@ -59527,7 +59588,7 @@
         "name": "Romance",
         "level": 2,
         "name_path": "Themes > Romance",
-        "series_count": 106451,
+        "series_count": 106460,
         "description": null,
         "content_rating": "safe"
       },
@@ -59543,7 +59604,7 @@
         "name": "Slice of Life",
         "level": 2,
         "name_path": "Themes > Slice of Life",
-        "series_count": 38594,
+        "series_count": 38597,
         "description": null,
         "content_rating": "safe"
       },
@@ -59589,7 +59650,7 @@
         "name": "Full color",
         "level": 3,
         "name_path": "Work Info > Publication Medium > Full color",
-        "series_count": 26140,
+        "series_count": 26143,
         "description": null,
         "content_rating": "safe"
       },
@@ -61545,7 +61606,7 @@
         "name": "Erotica",
         "level": 3,
         "name_path": "Sexual Content > Intensity > Erotica",
-        "series_count": 11826,
+        "series_count": 11827,
         "description": null,
         "content_rating": "erotica"
       },
@@ -61573,7 +61634,7 @@
         "name": "Nudity",
         "level": 2,
         "name_path": "Sexual Content > Nudity",
-        "series_count": 11783,
+        "series_count": 11784,
         "description": null,
         "content_rating": "suggestive"
       },
@@ -61587,7 +61648,7 @@
         "name": "Anal Intercourse",
         "level": 3,
         "name_path": "Sexual Content > Sexual Acts > Anal Intercourse",
-        "series_count": 5232,
+        "series_count": 5236,
         "description": "",
         "content_rating": "erotica"
       },
@@ -61601,7 +61662,7 @@
         "name": "Nakadashi",
         "level": 3,
         "name_path": "Sexual Content > Sexual Acts > Nakadashi",
-        "series_count": 5561,
+        "series_count": 5563,
         "description": null,
         "content_rating": "pornographic"
       },
@@ -61615,7 +61676,7 @@
         "name": "Oral Intercourse",
         "level": 3,
         "name_path": "Sexual Content > Sexual Acts > Oral Intercourse",
-        "series_count": 8090,
+        "series_count": 8094,
         "description": null,
         "content_rating": "pornographic"
       },
@@ -61631,7 +61692,7 @@
         "name": "Rape",
         "level": 3,
         "name_path": "Sexual Content > Sexual Acts > Rape",
-        "series_count": 7101,
+        "series_count": 7102,
         "description": null,
         "content_rating": "pornographic"
       },
@@ -61659,7 +61720,7 @@
         "name": "Boys Love",
         "level": 2,
         "name_path": "Themes > Boys Love",
-        "series_count": 26309,
+        "series_count": 26310,
         "description": null,
         "content_rating": "safe"
       },
@@ -61673,7 +61734,7 @@
         "name": "Yaoi",
         "level": 3,
         "name_path": "Themes > Boys Love > Yaoi",
-        "series_count": 43352,
+        "series_count": 43362,
         "description": "",
         "content_rating": "pornographic"
       },
@@ -61687,7 +61748,7 @@
         "name": "Drama",
         "level": 2,
         "name_path": "Themes > Drama",
-        "series_count": 77432,
+        "series_count": 77440,
         "description": null,
         "content_rating": "safe"
       },
@@ -61701,7 +61762,7 @@
         "name": "Drugs",
         "level": 2,
         "name_path": "Themes > Drugs",
-        "series_count": 1180,
+        "series_count": 1181,
         "description": "",
         "content_rating": "safe"
       },
@@ -61729,7 +61790,7 @@
         "name": "Psychological",
         "level": 2,
         "name_path": "Themes > Psychological",
-        "series_count": 9727,
+        "series_count": 9728,
         "description": null,
         "content_rating": "safe"
       },
@@ -61773,7 +61834,7 @@
         "name": "Full color",
         "level": 3,
         "name_path": "Work Info > Publication Medium > Full color",
-        "series_count": 26140,
+        "series_count": 26143,
         "description": null,
         "content_rating": "safe"
       },
@@ -65074,7 +65135,7 @@
         "name": "Erotica",
         "level": 3,
         "name_path": "Sexual Content > Intensity > Erotica",
-        "series_count": 11826,
+        "series_count": 11827,
         "description": null,
         "content_rating": "erotica"
       },
@@ -65088,7 +65149,7 @@
         "name": "Smut",
         "level": 3,
         "name_path": "Sexual Content > Intensity > Smut",
-        "series_count": 20895,
+        "series_count": 20896,
         "description": null,
         "content_rating": "erotica"
       },
@@ -65102,7 +65163,7 @@
         "name": "Boys Love",
         "level": 2,
         "name_path": "Themes > Boys Love",
-        "series_count": 26309,
+        "series_count": 26310,
         "description": null,
         "content_rating": "safe"
       },
@@ -65130,7 +65191,7 @@
         "name": "Yaoi",
         "level": 3,
         "name_path": "Themes > Boys Love > Yaoi",
-        "series_count": 43354,
+        "series_count": 43362,
         "description": "",
         "content_rating": "pornographic"
       },
@@ -65144,7 +65205,7 @@
         "name": "Comedy",
         "level": 2,
         "name_path": "Themes > Comedy",
-        "series_count": 65871,
+        "series_count": 65877,
         "description": null,
         "content_rating": "safe"
       },
@@ -65158,7 +65219,7 @@
         "name": "Drama",
         "level": 2,
         "name_path": "Themes > Drama",
-        "series_count": 77434,
+        "series_count": 77440,
         "description": null,
         "content_rating": "safe"
       },
@@ -65186,7 +65247,7 @@
         "name": "Romance",
         "level": 2,
         "name_path": "Themes > Romance",
-        "series_count": 106452,
+        "series_count": 106460,
         "description": null,
         "content_rating": "safe"
       },
@@ -65216,7 +65277,7 @@
         "name": "Full color",
         "level": 3,
         "name_path": "Work Info > Publication Medium > Full color",
-        "series_count": 26141,
+        "series_count": 26143,
         "description": null,
         "content_rating": "safe"
       },
