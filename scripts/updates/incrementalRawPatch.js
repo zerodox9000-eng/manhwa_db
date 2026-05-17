@@ -41,6 +41,9 @@ function saveLastSync() {
 const API =
   process.env.MANGABAKA_API;
 
+
+
+
 const RAW_DIR =
 
   path.join(
@@ -422,6 +425,9 @@ saveLastSync();
 }
 
 main().catch(console.error);
+
+
+
 
 
 
