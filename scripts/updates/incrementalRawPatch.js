@@ -27,6 +27,11 @@ function getLastSync() {
 
 function saveLastSync() {
 
+  fs.mkdirSync(
+    CHANGELOG_DIR,
+    { recursive: true }
+  );
+
   fs.writeFileSync(
     SYNC_STATE,
     JSON.stringify({
@@ -294,6 +299,11 @@ async function processYear(year) {
   const rawMerged =
     [...rawMap.values()];
 
+  fs.mkdirSync(
+    CHANGELOG_DIR,
+    { recursive: true }
+  );
+
   fs.writeFileSync(
     rawPath,
     JSON.stringify(
@@ -376,6 +386,11 @@ async function processYear(year) {
     updated.push(entry);
   }
 
+  fs.mkdirSync(
+    CHANGELOG_DIR,
+    { recursive: true }
+  );
+
   fs.writeFileSync(
     existingPath,
     JSON.stringify(
@@ -390,6 +405,11 @@ async function processYear(year) {
     new Date()
       .toISOString()
       .split("T")[0];
+
+  fs.mkdirSync(
+    CHANGELOG_DIR,
+    { recursive: true }
+  );
 
   fs.writeFileSync(
 
@@ -425,6 +445,8 @@ saveLastSync();
 }
 
 main().catch(console.error);
+
+
 
 
 
