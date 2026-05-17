@@ -33,6 +33,20 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Bootstrap directories
+        run: |
+          mkdir -p db/raw/by-year
+          mkdir -p db/processed/by-year
+          mkdir -p db/processed/tags
+          mkdir -p db/enriched/anilist
+          mkdir -p db/snapshots/anilist-daily
+          mkdir -p db/exports/frontend/details
+          mkdir -p db/exports/frontend/meta
+          mkdir -p db/exports/frontend/series
+          mkdir -p db/exports/frontend/stats
+          mkdir -p db/updates/changelog
+          mkdir -p db/state  
+
       - name: Create .env
         run: |
           echo "MANGABAKA_API=${{ secrets.MANGABAKA_API }}" >> .env
