@@ -2,21 +2,21 @@
   "id": 587838,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Let Loose",
+  "display_title": "Unknown Title",
   "description": "[Original Webtoon](https://ridibooks.com/books/4745000504)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI0ODgxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMjM4Mi1xOHhmTWd5MVdjaWkuanBn",
   "total_chapters": "0",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-16T20:54:51.204Z",
+  "last_updated_at": "2026-05-18T02:36:26.470Z",
   "authors": [
     "Aji"
   ],
@@ -28,7 +28,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 212382,
+      "rating": null,
+      "url": "https://anilist.co/manga/212382"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "guu1dof",
@@ -38,7 +42,12 @@
   },
   "tag_ids": [
     46,
-    33
+    31,
+    33,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -46,8 +55,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9832,
+    "popularityPercentile": 0.1244,
+    "fanFavouriteDiscoveryScore": 5.1256,
+    "fanFavouriteDiscoveryPercentile": 0.1244
   }
 }
