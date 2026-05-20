@@ -2,21 +2,21 @@
   "id": 586984,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Unknown Title",
+  "display_title": "The Law of Inevitable Failure",
   "description": "[Original Webtoon](https://www.bomtoon.com/detail/doomed_to_lose)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIzNzUwLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMjQzOS1mMmdTV2djVW5NM1UuanBn",
   "total_chapters": "0",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-13T04:49:29.438Z",
+  "last_updated_at": "2026-05-19T23:46:34.138Z",
   "authors": [
     "JURO"
   ],
@@ -28,7 +28,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 212439,
+      "rating": null,
+      "url": "https://anilist.co/manga/212439"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3bdu7fy",
@@ -38,8 +42,13 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -47,8 +56,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8627,
+    "popularityPercentile": 0.1165,
+    "fanFavouriteDiscoveryScore": 5.1035,
+    "fanFavouriteDiscoveryPercentile": 0.1165
   }
 }
