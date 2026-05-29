@@ -2,7 +2,7 @@
   "id": 584489,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Hidden Night",
+  "display_title": "Blind Site",
   "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=850238), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13884440)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIxMTQxLmpwZw",
   "total_chapters": "47",
@@ -11,24 +11,28 @@
   "is_licensed": false,
   "year": 2022,
   "published": {
-    "start_date": "2022-01-01",
+    "start_date": "2022-06-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-02T02:39:02.548Z",
+  "last_updated_at": "2026-05-29T02:39:54.204Z",
   "authors": [
-    "Kyungmin"
+    "Min Gyeong"
   ],
   "artists": [
-    "Kyungmin"
+    "Min Gyeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/series/584489",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 212658,
+      "rating": null,
+      "url": "https://anilist.co/manga/212658"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "jxogau6",
@@ -38,7 +42,11 @@
   },
   "tag_ids": [
     8,
-    31
+    39,
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -46,8 +54,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5349,
+    "popularityPercentile": 0.1858,
+    "fanFavouriteDiscoveryScore": 5.0755,
+    "fanFavouriteDiscoveryPercentile": 0.1858
   }
 }
