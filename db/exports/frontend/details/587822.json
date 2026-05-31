@@ -16,20 +16,24 @@
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
-  "last_updated_at": "2026-05-29T14:03:27.067Z",
+  "last_updated_at": "2026-05-31T03:12:44.705Z",
   "authors": [
-    "ma'am",
-    "Rogang"
+    "Halmeo",
+    "Rogaeng"
   ],
   "artists": [
-    "Piyo (II)"
+    "Ppiyo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/series/587822",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 212727,
+      "rating": null,
+      "url": "https://anilist.co/manga/212727"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "o8jn7fq",
@@ -39,8 +43,17 @@
   },
   "tag_ids": [
     40,
+    59,
+    108,
     36,
-    9
+    31,
+    742,
+    9,
+    7,
+    282,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -48,8 +61,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5952,
+    "popularityPercentile": 0.2549,
+    "fanFavouriteDiscoveryScore": 5.1098,
+    "fanFavouriteDiscoveryPercentile": 0.2549
   }
 }
