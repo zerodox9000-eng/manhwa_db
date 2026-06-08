@@ -4,31 +4,35 @@
   "type": "manhwa",
   "display_title": "Unknown Title",
   "description": "**Original Webtoon:**  \n[Daum](https://webtoon.kakao.com/content/%EB%A5%98%EB%82%98/3883), [KakaoPage](https://page.kakao.com/content/63127042)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDM4NDQxLnBuZw",
-  "total_chapters": "50",
-  "status": "releasing",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzAyNi1rNHVPb1diSTVBVFcucG5n",
+  "total_chapters": "58",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-12-28",
+    "end_date": "2026-02-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-04-08T09:55:38.863Z",
+  "last_updated_at": "2026-06-08T00:06:07.894Z",
   "authors": [
-    "Park Si-In"
+    "Seein Park"
   ],
   "artists": [
-    "Lee Jun"
+    "Jun Lee"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/series/329590",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213026,
+      "rating": null,
+      "url": "https://anilist.co/manga/213026"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "86px2ws",
@@ -38,9 +42,13 @@
   },
   "tag_ids": [
     43,
+    59,
     36,
     22,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -48,8 +56,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5563,
+    "popularityPercentile": 0.1923,
+    "fanFavouriteDiscoveryScore": 5.0813,
+    "fanFavouriteDiscoveryPercentile": 0.1923
   }
 }
