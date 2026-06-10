@@ -156,6 +156,9 @@ for (const file of seriesFiles) {
       romanized_title:
         entry.romanized_title || null,
 
+      titles:
+        entry.titles || [],
+
       description:
         entry.description || null,
 
@@ -780,6 +783,9 @@ for (
 
     romanized_title:
       entry.romanized_title,
+
+    titles:
+      entry.titles,
 
     cover:
       entry.cover,

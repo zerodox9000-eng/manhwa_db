@@ -42,11 +42,28 @@ function chooseDisplayTitle(
   titles_en = []
 ) {
 
-  const mangabakaTitle =
-    cleanTitle(series.title);
+  const primaryOfficial =
+    titles_en.find(
+      t =>
+        t.is_primary === true &&
+        Array.isArray(t.traits) &&
+        t.traits.includes("official") &&
+        cleanTitle(t.title)
+    );
 
-  if (mangabakaTitle) {
-    return mangabakaTitle;
+  if (primaryOfficial) {
+    return cleanTitle(primaryOfficial.title);
+  }
+
+  const primary =
+    titles_en.find(
+      t =>
+        t.is_primary === true &&
+        cleanTitle(t.title)
+    );
+
+  if (primary) {
+    return cleanTitle(primary.title);
   }
 
   const official =
@@ -61,19 +78,6 @@ function chooseDisplayTitle(
     return cleanTitle(official.title);
   }
 
-  const nonRomaji =
-    titles_en.find(
-      t =>
-        cleanTitle(t.title) &&
-        !/([aeiou]{2,}|-)/i.test(
-          t.title
-        )
-    );
-
-  if (nonRomaji) {
-    return cleanTitle(nonRomaji.title);
-  }
-
   const englishTitle =
     titles_en.find(t => cleanTitle(t.title));
 
@@ -82,10 +86,40 @@ function chooseDisplayTitle(
   }
 
   return (
+    cleanTitle(series.title) ||
     cleanTitle(series.native_title) ||
     cleanTitle(series.romanized_title) ||
     "Unknown Title"
   );
+}
+
+function cleanTitleEntry(title) {
+
+  const clean =
+    cleanTitle(title?.title);
+
+  if (!clean) {
+    return null;
+  }
+
+  return {
+    language:
+      title.language || null,
+
+    title:
+      clean,
+
+    traits:
+      Array.isArray(title.traits)
+        ? title.traits
+        : [],
+
+    is_primary:
+      title.is_primary === true,
+
+    note:
+      title.note || null
+  };
 }
 
 function getMangabakaLink(series) {
@@ -172,7 +206,9 @@ function getSource(series) {
 function normalizeSeries(series) {
 
   const titles =
-  series.titles || [];
+    (series.titles || [])
+      .map(cleanTitleEntry)
+      .filter(Boolean);
 
 const englishTitles =
   titles.filter(
@@ -195,7 +231,10 @@ const englishTitles =
           title: t.title,
 
           traits:
-            t.traits || []
+            t.traits || [],
+
+          is_primary:
+            t.is_primary === true
         }))
       ),
 
@@ -207,6 +246,8 @@ const englishTitles =
 
     romanized_title:
       cleanTitle(series.romanized_title),
+
+    titles,
 
     
 
