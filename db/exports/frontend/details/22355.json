@@ -2,10 +2,37 @@
   "id": 22355,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Annyeong! Urimal",
+  "display_title": "Our Beautiful Language",
   "mangabaka_title": "Annyeong! Urimal",
   "native_title": "안녕!우리말",
   "romanized_title": "Annyeong! Urimal",
+  "titles": [
+    {
+      "language": "ko",
+      "title": "안녕!우리말",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Annyeong! Urimal",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Our Beautiful Language",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    }
+  ],
   "description": "[original webtoon](https://comic.naver.com/webtoon/list.nhn?titleId=663850)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEzMjg0OC1uRmptSzVxUnI2bnYuanBn",
   "total_chapters": "12",

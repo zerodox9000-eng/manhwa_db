@@ -2,10 +2,44 @@
   "id": 89081,
   "state": "active",
   "type": "manhwa",
-  "display_title": "English!",
+  "display_title": "English Shh!",
   "mangabaka_title": "English!",
   "native_title": "잉글리쉿!",
   "romanized_title": "English!",
+  "titles": [
+    {
+      "language": "ko",
+      "title": "잉글리쉿!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "English!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "English Shh!",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "English Shit!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    }
+  ],
   "description": "*Note: Chapter count includes a prologue*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDExOTI4Mi1tYTVvWFMxM1p2UjEuanBn",
   "total_chapters": "26",
