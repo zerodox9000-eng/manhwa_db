@@ -147,11 +147,14 @@ for (const file of seriesFiles) {
       display_title:
         entry.display_title,
 
-      
+      mangabaka_title:
+        entry.mangabaka_title || null,
 
-      
+      native_title:
+        entry.native_title || null,
 
-      
+      romanized_title:
+        entry.romanized_title || null,
 
       description:
         entry.description || null,
@@ -176,6 +179,9 @@ for (const file of seriesFiles) {
 
       published:
         entry.published || {},
+
+      first_seen_at:
+        entry.first_seen_at || null,
 
       last_updated_at:
         entry.last_updated_at || null,
@@ -766,6 +772,15 @@ for (
     display_title:
       entry.display_title,
 
+    mangabaka_title:
+      entry.mangabaka_title,
+
+    native_title:
+      entry.native_title,
+
+    romanized_title:
+      entry.romanized_title,
+
     cover:
       entry.cover,
 
@@ -780,6 +795,27 @@ for (
 
     total_chapters:
       entry.total_chapters,
+
+    published:
+      entry.published,
+
+    first_seen_at:
+      entry.first_seen_at,
+
+    last_updated_at:
+      entry.last_updated_at,
+
+    authors:
+      entry.authors,
+
+    artists:
+      entry.artists,
+
+    links:
+      entry.links,
+
+    source:
+      entry.source,
 
     tag_ids:
       entry.tag_ids,

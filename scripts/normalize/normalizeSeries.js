@@ -26,43 +26,71 @@ if (!fs.existsSync(TAGS_OUTPUT)) {
 
 
 
+function cleanTitle(value) {
+
+  const title =
+    String(value || "").trim();
+
+  return title &&
+    !/^(unknown title|untitled|no title|n\/a|-)?$/i.test(title)
+      ? title
+      : null;
+}
+
 function chooseDisplayTitle(
+  series,
   titles_en = []
 ) {
+
+  const mangabakaTitle =
+    cleanTitle(series.title);
+
+  if (mangabakaTitle) {
+    return mangabakaTitle;
+  }
 
   const official =
     titles_en.find(
       t =>
         Array.isArray(t.traits) &&
-        t.traits.includes("official")
+        t.traits.includes("official") &&
+        cleanTitle(t.title)
     );
 
   if (official) {
-    return official.title;
+    return cleanTitle(official.title);
   }
 
   const nonRomaji =
     titles_en.find(
       t =>
+        cleanTitle(t.title) &&
         !/([aeiou]{2,}|-)/i.test(
           t.title
         )
     );
 
   if (nonRomaji) {
-    return nonRomaji.title;
+    return cleanTitle(nonRomaji.title);
   }
 
-  if (titles_en.length > 0) {
-    return titles_en[0].title;
+  const englishTitle =
+    titles_en.find(t => cleanTitle(t.title));
+
+  if (englishTitle) {
+    return cleanTitle(englishTitle.title);
   }
 
-  return "Unknown Title";
+  return (
+    cleanTitle(series.native_title) ||
+    cleanTitle(series.romanized_title) ||
+    "Unknown Title"
+  );
 }
 
 function getMangabakaLink(series) {
 
-  return `https://mangabaka.org/series/${series.id}`;
+  return `https://mangabaka.org/${series.id}`;
 }
 
 function getEnglishReadLink(series) {
@@ -161,6 +189,7 @@ const englishTitles =
 
     display_title:
       chooseDisplayTitle(
+        series,
         englishTitles.map(t => ({
 
           title: t.title,
@@ -169,6 +198,15 @@ const englishTitles =
             t.traits || []
         }))
       ),
+
+    mangabaka_title:
+      cleanTitle(series.title),
+
+    native_title:
+      cleanTitle(series.native_title),
+
+    romanized_title:
+      cleanTitle(series.romanized_title),
 
     
 
@@ -198,6 +236,11 @@ const englishTitles =
 
     published:
       series.published || null,
+
+    first_seen_at:
+      series.first_seen_at ||
+      series._first_seen_at ||
+      null,
 
     last_updated_at:
       series.last_updated_at || null,

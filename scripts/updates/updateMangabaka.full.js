@@ -144,6 +144,17 @@ function getEnglishTitles(titles) {
     );
 }
 
+function cleanTitle(value) {
+
+  const title =
+    String(value || "").trim();
+
+  return title &&
+    !/^(unknown title|untitled|no title|n\/a|-)?$/i.test(title)
+      ? title
+      : null;
+}
+
 function normalize(entry) {
 
   return {
@@ -151,11 +162,25 @@ function normalize(entry) {
     id: entry.id,
 
     display_title:
-      getEnglishTitles(
-        entry.titles
-      )[0] ||
-      entry.titles?.[0]?.title ||
+      cleanTitle(entry.title) ||
+      cleanTitle(
+        getEnglishTitles(
+          entry.titles
+        )[0]
+      ) ||
+      cleanTitle(entry.titles?.[0]?.title) ||
+      cleanTitle(entry.native_title) ||
+      cleanTitle(entry.romanized_title) ||
       null,
+
+    mangabaka_title:
+      cleanTitle(entry.title),
+
+    native_title:
+      cleanTitle(entry.native_title),
+
+    romanized_title:
+      cleanTitle(entry.romanized_title),
 
     english_titles:
       getEnglishTitles(
@@ -171,13 +196,21 @@ function normalize(entry) {
     published:
       entry.published || {},
 
+    first_seen_at:
+      entry.first_seen_at ||
+      entry._first_seen_at ||
+      null,
+
+    last_updated_at:
+      entry.last_updated_at || null,
+
     source:
       entry.source || {},
 
     links: {
 
       mangabaka:
-        entry.links?.mangabaka || null,
+        `https://mangabaka.org/${entry.id}`,
 
       read_en:
         entry.links?.read_en || null,
