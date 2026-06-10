@@ -11,15 +11,15 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-02-09",
+    "end_date": "2026-02-09",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
-  "last_updated_at": "2026-06-07T06:09:53.149Z",
+  "last_updated_at": "2026-06-09T09:16:09.382Z",
   "authors": [
-    "Feel Good",
-    "Kim Hong-Cha"
+    "Hong-Cha Kim",
+    "Pilgut"
   ],
   "artists": [
     "Myaung"
@@ -29,7 +29,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 207554,
+      "rating": 75,
+      "url": "https://anilist.co/manga/207554"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "o4kupqw",
@@ -40,16 +44,24 @@
   "tag_ids": [
     46,
     41,
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 12,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6073,
+    "popularityPercentile": 8.2667,
+    "fanFavouriteDiscoveryScore": 8.6393,
+    "fanFavouriteDiscoveryPercentile": 7.5983
   }
 }
