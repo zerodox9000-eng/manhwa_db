@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Roommate I Don't Know About",
-  "mangabaka_title": "Roommate I Don't Know About",
+  "mangabaka_title": "Naman Moreuneun Roommate",
   "native_title": "나만 모르는 룸메이트",
-  "romanized_title": null,
+  "romanized_title": "Naman Moreuneun Roommate",
   "titles": [
     {
       "language": "ko",
       "title": "나만 모르는 룸메이트",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Naman Moreuneun Roommate",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,24 +33,24 @@
       "note": null
     }
   ],
-  "description": "Woo Hee-ram, a returning student brimming with dreams of having a great time with a roommate as he begins his first dorm life! \n\nHowever, because his roommate disappeared, leaving behind only a plush of Hee-ram's favorite cartoon character, Hee-ram unexpectedly finds himself starting a fun(?) roommate life with the plush. \n\nThen one night, half-asleep, he hugs and even gropes something he mistakes for the plush… \n\nBut starting the next day, a suspicious senior in his class begins avoiding him with an oddly cold attitude…? \n\nWill Hee-ram be able to figure out the truth hidden about his 'dream'?\n\n---\n**Original Webtoon:**    \n[Lezhin](https://www.lezhin.com/ko/comic/secret_roommate), [Bomtoon](https://www.bomtoon.com/detail/secret_roommate)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2NDQ2LmpwZw",
+  "description": "Returning student U Hui-Ram is bursting with excitement as he begins him first stint in the dorms, dreaming of having a great time with his roommate! However, when his roommate vanishes, leaving behind only a doll of Hui-Ram’s favorite manga character, Hui-Ram finds himelf unexpectedly starting a “fun” roommate life (?) with the doll. Then one day, while half-asleep, he ends up hugging and even groping something he mistook for the doll…\n\nBut starting the very next day, a suspicious upperclassman from his class begins to avoid him with an oddly cold demeanor…? Will Hui-Ram be able to uncover the truth hidden within his “dream”?\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzEyMS1yaUNLZzQ3NlFteTgucG5n",
   "total_chapters": "7",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-10T07:21:01.647Z",
+  "last_updated_at": "2026-06-11T01:36:25.396Z",
   "mangabaka_latest_rank": 150,
-  "mangabaka_latest_snapshot_at": "2026-06-11T03:37:21.641Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T05:41:47.969Z",
   "authors": [
     "Gilmae"
   ],
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213121,
+      "rating": null,
+      "url": "https://anilist.co/manga/213121"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "21r9gz3",
@@ -60,10 +75,14 @@
     }
   },
   "tag_ids": [
+    180,
     16,
     6,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -71,8 +90,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5975,
+    "popularityPercentile": 0.1382,
+    "fanFavouriteDiscoveryScore": 5.0687,
+    "fanFavouriteDiscoveryPercentile": 0.1382
   }
 }

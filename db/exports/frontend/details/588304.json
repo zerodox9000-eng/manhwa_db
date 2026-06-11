@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Stole the Trash Crown Prince's First Night",
-  "mangabaka_title": "Sseuregi Hwangtaeja-ui Cheonnambam-eul Ppaaeatda",
+  "mangabaka_title": "Sseuregi Hwangtaejaui Cheonnalbameul Ppaeasatda",
   "native_title": "쓰레기 황태자의 첫날밤을 빼앗았다",
-  "romanized_title": "Sseuregi Hwangtaeja-ui Cheonnambam-eul Ppaaeatda",
+  "romanized_title": "Sseuregi Hwangtaejaui Cheonnalbameul Ppaeasatda",
   "titles": [
     {
       "language": "ko",
@@ -27,6 +27,15 @@
       "language": "en",
       "title": "I Stole the Trashy Crown Prince's First Night",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sseuregi Hwangtaejaui Cheonnalbameul Ppaeasatda",
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -62,12 +71,12 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-10T01:43:02.435Z",
+  "last_updated_at": "2026-06-11T01:43:18.637Z",
   "mangabaka_latest_rank": 165,
-  "mangabaka_latest_snapshot_at": "2026-06-11T03:37:21.641Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T05:41:47.969Z",
   "authors": [
     "Hawaii",
-    "Meringue Rabbit"
+    "Meoraengtokki"
   ],
   "artists": [
     "Spoon Comics"
@@ -77,7 +86,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 212789,
+      "rating": 69,
+      "url": "https://anilist.co/manga/212789"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "m9ilxm9",
@@ -87,24 +100,30 @@
   },
   "tag_ids": [
     43,
+    59,
     2025,
     405,
+    108,
     450,
     36,
     94,
     639,
     1550,
     9,
+    93,
+    57,
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 48,
+    "favourites": 1,
+    "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 2.0833,
+    "fanRatioPercentile": 71.6436,
+    "popularityPercentile": 27.596,
+    "fanFavouriteDiscoveryScore": 46.7954,
+    "fanFavouriteDiscoveryPercentile": 54.3625
   }
 }
