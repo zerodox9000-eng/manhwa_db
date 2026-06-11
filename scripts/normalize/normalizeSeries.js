@@ -283,6 +283,10 @@ const englishTitles =
       series._first_seen_at ||
       null,
 
+    first_seen_at_is_trusted:
+      series.first_seen_at_is_trusted === true ||
+      series._first_seen_at_is_trusted === true,
+
     last_updated_at:
       series.last_updated_at || null,
 

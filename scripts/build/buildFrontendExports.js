@@ -32,12 +32,23 @@ const EXPORT_DIR =
     "../../db/exports/frontend"
   );
 
+const LATEST_CACHE =
+  path.resolve(
+    __dirname,
+    "../../db/cache/mangabaka-latest.json"
+  );
+
 function readJson(file) {
 
   return JSON.parse(
     fs.readFileSync(file, "utf-8")
   );
 }
+
+const latestCache =
+  fs.existsSync(LATEST_CACHE)
+    ? readJson(LATEST_CACHE)
+    : { snapshotAt: null, ranks: {} };
 
 const seriesMap = new Map();
 
@@ -186,8 +197,17 @@ for (const file of seriesFiles) {
       first_seen_at:
         entry.first_seen_at || null,
 
+      first_seen_at_is_trusted:
+        entry.first_seen_at_is_trusted === true,
+
       last_updated_at:
         entry.last_updated_at || null,
+
+      mangabaka_latest_rank:
+        latestCache.ranks?.[entry.id] || null,
+
+      mangabaka_latest_snapshot_at:
+        latestCache.snapshotAt || null,
 
       authors:
         entry.authors || [],
@@ -808,8 +828,17 @@ for (
     first_seen_at:
       entry.first_seen_at,
 
+    first_seen_at_is_trusted:
+      entry.first_seen_at_is_trusted,
+
     last_updated_at:
       entry.last_updated_at,
+
+    mangabaka_latest_rank:
+      entry.mangabaka_latest_rank,
+
+    mangabaka_latest_snapshot_at:
+      entry.mangabaka_latest_snapshot_at,
 
     authors:
       entry.authors,

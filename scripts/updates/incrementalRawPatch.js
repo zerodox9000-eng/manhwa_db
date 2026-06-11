@@ -332,12 +332,18 @@ async function processYear(year) {
       entry.first_seen_at ||
       new Date().toISOString();
 
+    const firstSeenTrusted =
+      existing?.first_seen_at_is_trusted === true ||
+      existing?._first_seen_at_is_trusted === true ||
+      !existing;
+
     rawMap.set(
       entry.id,
       {
         ...(existing || {}),
         ...entry,
-        first_seen_at: firstSeen
+        first_seen_at: firstSeen,
+        first_seen_at_is_trusted: firstSeenTrusted
       }
     );
   }
