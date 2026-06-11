@@ -79,6 +79,155 @@ function percentileRank(
 
 const seriesTagIds = new Map();
 
+const TEXT_STOPWORDS = new Set([
+  "a", "about", "after", "again", "all", "also", "an", "and", "are", "as", "at", "back", "be", "been", "but", "by",
+  "can", "could", "day", "did", "do", "does", "down", "for", "from", "get", "gets", "had", "has", "have", "he", "her",
+  "him", "his", "how", "i", "if", "in", "into", "is", "it", "its", "just", "life", "like", "manga", "manhwa", "may",
+  "more", "new", "no", "not", "now", "of", "on", "once", "one", "only", "or", "other", "out", "own", "she", "so",
+  "some", "source", "story", "that", "the", "their", "them", "then", "there", "they", "this", "to", "up", "was",
+  "when", "where", "who", "will", "with", "world", "would", "you", "young"
+]);
+
+function normalizedText(value) {
+  return String(value || "")
+    .replace(/https?:\/\/\S+/g, " ")
+    .replace(/\*\*|\[[^\]]+\]\([^)]+\)/g, " ")
+    .replace(/[^a-zA-Z0-9\s-]/g, " ")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function tokensFromText(value) {
+  return normalizedText(value)
+    .split(" ")
+    .map((token) => token.trim())
+    .filter((token) => token.length >= 3 && !TEXT_STOPWORDS.has(token));
+}
+
+function increment(map, key, value = 1) {
+  map.set(key, (map.get(key) || 0) + value);
+}
+
+function tagPathText(tag) {
+  return `${tag?.name || ""} ${tag?.path || ""}`.toLowerCase();
+}
+
+function tagMatches(tag, pattern) {
+  return pattern.test(tagPathText(tag));
+}
+
+function buildRecommendationGroups(entry) {
+  const groups = new Set();
+  const text = normalizedText([
+    entry.display_title,
+    entry.mangabaka_title,
+    entry.native_title,
+    entry.romanized_title,
+    entry.description,
+    ...(entry.authors || []),
+    ...(entry.artists || [])
+  ].join(" "));
+  const tagTexts = (entry.tag_ids || [])
+    .map((tagId) => tagMap.get(tagId))
+    .filter(Boolean);
+  const allText = `${text} ${tagTexts.map(tagPathText).join(" ")}`;
+
+  if (/(business|economics|merchant|company|corporate|conglomerate|ceo|director|office|employee|workplace|career|trading|hostile takeover|politic|revenge|betrayal|murder|smart protagonist)/.test(allText)) groups.add("business-career");
+  if (/(regression|regressed|return|returned|reborn|reincarnation|second chance|time rewind|time travel|time manipulation|age regression|wakes up|back in time|change the past|rewrite destiny)/.test(allText)) groups.add("regression-return");
+  if (/(south korea|korean|seoul|chaebol|conglomerate|kdrama|naver|kakao|webtoon)/.test(allText)) groups.add("modern-korea");
+  if (/(working|office|company|ceo|director|secretary|coworker|employee|career|manager)/.test(allText)) groups.add("modern-workplace");
+  if (/(romance|marriage|pregnancy|dating|couple|wife|husband|fiance|one-night stand|love triangle|male lead falls in love|mature romance)/.test(allText)) groups.add("romance-core");
+  if (/(horror|gore|ghost|zombie|death game|survival horror|psychological horror)/.test(allText)) groups.add("horror-survival");
+  if (/(murim|wuxia|martial arts|cultivation|sect|swordplay|martial artist|swordsman|ancient china|chinese ambience|chinese mythology)/.test(allText)) groups.add("murim-wuxia");
+  if (/(dungeon|tower|hunter|ranker|level system|game system|guild|virtual reality|game world|rpg)/.test(allText)) groups.add("game-system");
+  if (/(european ambience|medieval|nobility|royalty|duke|prince|princess|emperor|villainess|castle|kingdom)/.test(allText)) groups.add("euro-fantasy");
+  if (/(doctor|medical|hospital|surgeon|nurse|clinic|patient)/.test(allText)) groups.add("medical-career");
+  if (/(actor|actress|idol|celebrity|showbiz|entertainment industry|manager)/.test(allText)) groups.add("showbiz-career");
+  if (/(boxing|sports|baseball|basketball|football|tennis|golf|wrestling|athletics|racing)/.test(allText)) groups.add("sports-career");
+  if (/(school|high school|college|student|teacher|academy)/.test(allText)) groups.add("school-life");
+  if (/(food|cooking|restaurant|chef|gourmet)/.test(allText)) groups.add("food-career");
+
+  if (groups.has("business-career") && groups.has("regression-return")) groups.add("business-career-regression");
+  if (groups.has("business-career") && groups.has("modern-workplace")) groups.add("corporate-workplace");
+  if (groups.has("business-career") && groups.has("modern-korea")) groups.add("korean-business");
+  if (groups.has("romance-core") && groups.has("modern-workplace")) groups.add("office-romance");
+  if (groups.has("romance-core") && groups.has("euro-fantasy")) groups.add("euro-romance");
+
+  for (const tag of tagTexts) {
+    if (tagMatches(tag, /economics|politics|working|company|ceo|office worker|smart protagonist|time rewind|time travel|age regression|second chance|betrayal|revenge/)) {
+      groups.add("business-career-regression");
+    }
+  }
+
+  return [...groups].sort();
+}
+
+function buildTextFeatures(entry, documentFrequencies, totalDocuments) {
+  const tokens = tokensFromText([
+    entry.display_title,
+    entry.mangabaka_title,
+    entry.description,
+    ...(entry.authors || []),
+    ...(entry.artists || [])
+  ].join(" "));
+  const termCounts = new Map();
+  for (const token of tokens) increment(termCounts, token);
+  const features = {};
+  [...termCounts.entries()]
+    .map(([term, count]) => {
+      const idf = Math.log((totalDocuments + 1) / ((documentFrequencies.get(term) || 0) + 1)) + 1;
+      return [term, Number((count * idf).toFixed(4))];
+    })
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 36)
+    .forEach(([term, weight]) => {
+      features[term] = weight;
+    });
+  return features;
+}
+
+function buildRecommendationFeature(entry, tagDocumentCounts, textDocumentFrequencies, totalDocuments) {
+  const profileGroups = buildRecommendationGroups(entry);
+  const tagFeatures = {};
+  for (const tagId of entry.tag_ids || []) {
+    const tag = tagMap.get(tagId);
+    if (!tag) continue;
+    const idf = Math.log((totalDocuments + 1) / ((tagDocumentCounts.get(tagId) || 0) + 1)) + 1;
+    tagFeatures[`tag:${tagId}`] = Number(idf.toFixed(4));
+    const pathParts = String(tag.path || "").split(" > ").filter(Boolean);
+    if (pathParts[0]) tagFeatures[`root:${pathParts[0]}`] = Number(Math.min(0.4, idf * 0.08).toFixed(4));
+    if (tag.parent_id) tagFeatures[`parent:${tag.parent_id}`] = Number((idf * 0.22).toFixed(4));
+  }
+  const primaryAnchors = profileGroups.filter((group) =>
+    [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "horror-survival",
+      "murim-wuxia",
+      "game-system",
+      "euro-fantasy",
+      "medical-career",
+      "showbiz-career",
+      "sports-career",
+      "food-career"
+    ].includes(group)
+  );
+  return {
+    id: entry.id,
+    profileGroups,
+    primaryAnchors,
+    tagFeatures,
+    textFeatures: buildTextFeatures(entry, textDocumentFrequencies, totalDocuments),
+    quality: {
+      discPct: entry.analytics?.fanFavouriteDiscoveryPercentile ?? null,
+      fanPct: entry.analytics?.fanFavouriteRaw ?? null,
+      popularity: entry.stats?.popularity ?? null
+    }
+  };
+}
+
 
 
 const tagFiles =
@@ -782,6 +931,25 @@ for (const file of snapshotFiles) {
 }
 
 const discovery = [];
+const recommendationFeatures = [];
+const tagDocumentCounts = new Map();
+const textDocumentFrequencies = new Map();
+const totalDocuments = seriesMap.size;
+
+for (const entry of seriesMap.values()) {
+  for (const tagId of new Set(entry.tag_ids || [])) {
+    increment(tagDocumentCounts, tagId);
+  }
+  for (const token of new Set(tokensFromText([
+    entry.display_title,
+    entry.mangabaka_title,
+    entry.description,
+    ...(entry.authors || []),
+    ...(entry.artists || [])
+  ].join(" ")))) {
+    increment(textDocumentFrequencies, token);
+  }
+}
 
 for (
   const entry of
@@ -862,6 +1030,15 @@ for (
       entry.analytics
   });
 
+  recommendationFeatures.push(
+    buildRecommendationFeature(
+      entry,
+      tagDocumentCounts,
+      textDocumentFrequencies,
+      totalDocuments
+    )
+  );
+
   fs.writeFileSync(
 
     path.join(
@@ -877,6 +1054,14 @@ for (
   );
 }
 
+fs.mkdirSync(
+  path.join(
+    EXPORT_DIR,
+    "recommendations"
+  ),
+  { recursive: true }
+);
+
 fs.writeFileSync(
 
   path.join(
@@ -886,6 +1071,20 @@ fs.writeFileSync(
 
   JSON.stringify(
     discovery,
+    null,
+    2
+  )
+);
+
+fs.writeFileSync(
+
+  path.join(
+    EXPORT_DIR,
+    "recommendations/features.json"
+  ),
+
+  JSON.stringify(
+    recommendationFeatures,
     null,
     2
   )
@@ -975,6 +1174,13 @@ gzipFile(
   path.join(
     EXPORT_DIR,
     "meta/tags.json"
+  )
+);
+
+gzipFile(
+  path.join(
+    EXPORT_DIR,
+    "recommendations/features.json"
   )
 );
 
