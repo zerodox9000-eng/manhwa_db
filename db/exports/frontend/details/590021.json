@@ -2,7 +2,7 @@
   "id": 590021,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Goegi Club",
+  "display_title": "Bizarre Club",
   "mangabaka_title": "Goegi Club",
   "native_title": "괴기 클럽",
   "romanized_title": "Goegi Club",
@@ -17,6 +17,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Bizarre Club",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Goegi Club",
       "traits": [
@@ -24,11 +31,18 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Mystery Club",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "Shocking visuals and chilling irony.\nThe stories we tried so hard to bury.\nA collection of horror short comics by Jang Hyeok-jun.\n\n\n_Source: [Lezhin](https://www.lezhin.com/ko/comic/mysteryclub), translated_",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzAzMi1KVE1wSDFNTFFPNlcuanBn",
-  "total_chapters": null,
+  "total_chapters": "0",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -41,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-09T14:52:13.658Z",
-  "mangabaka_latest_rank": 16,
-  "mangabaka_latest_snapshot_at": "2026-06-11T05:41:47.969Z",
+  "last_updated_at": "2026-06-11T13:36:25.088Z",
+  "mangabaka_latest_rank": 24,
+  "mangabaka_latest_snapshot_at": "2026-06-12T05:46:52.562Z",
   "authors": [
     "Hyeok-Jun Jang"
   ],
@@ -61,10 +75,17 @@
       "url": "https://anilist.co/manga/213032"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "ervvep7",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/ervvep7"
+    }
   },
   "tag_ids": [
+    8,
+    22,
     31,
+    44,
     32,
     18,
     93,
@@ -78,9 +99,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5975,
-    "popularityPercentile": 0.5223,
-    "fanFavouriteDiscoveryScore": 5.2064,
-    "fanFavouriteDiscoveryPercentile": 0.5069
+    "fanRatioPercentile": 31.6133,
+    "popularityPercentile": 0.4761,
+    "fanFavouriteDiscoveryScore": 5.1923,
+    "fanFavouriteDiscoveryPercentile": 0.4607
   }
 }

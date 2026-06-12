@@ -5,48 +5,45 @@
   "display_title": "Double Dating",
   "mangabaka_title": "Double Dating",
   "native_title": "더블 데이팅",
-  "romanized_title": "Double Date (Mongdung)",
+  "romanized_title": "Double Dating",
   "titles": [
     {
       "language": "ko",
       "title": "더블 데이팅",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Double Date (Mongdung)",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "en",
       "title": "Double Dating",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.bomtoon.com/detail/Double_Date)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI3OTU1LmpwZw",
+  "description": "On the very day he decided to confess his feelings to his female friend Ju-Yeong, whom he had a crush on, he suddenly comes out to him. Flustered, Jae-Won not only lied, saying, “Actually, I like guys too!” but also ended up arranging a double date on the spur of the moment. To save face, he asks his friend Yu-Won to pretend to be his boyfriend, but… on the day of the date, when he finds out that the girlfriend Ju-Yeong brought along is actually Yu-Won’s ex, the double date spirals into chaos…?\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzEzNC1CUmh0MkhqV1FpNFAucG5n",
   "total_chapters": "0",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-11T00:28:12.754Z",
-  "mangabaka_latest_rank": 30,
-  "mangabaka_latest_snapshot_at": "2026-06-11T05:41:47.969Z",
+  "last_updated_at": "2026-06-11T20:22:15.164Z",
+  "mangabaka_latest_rank": 38,
+  "mangabaka_latest_snapshot_at": "2026-06-12T05:46:52.562Z",
   "authors": [
     "Mongdung"
   ],
@@ -58,7 +55,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213134,
+      "rating": null,
+      "url": "https://anilist.co/manga/213134"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "fgsmim6",
@@ -68,7 +69,13 @@
   },
   "tag_ids": [
     46,
-    16
+    180,
+    16,
+    6,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -76,8 +83,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6133,
+    "popularityPercentile": 0.1382,
+    "fanFavouriteDiscoveryScore": 5.0712,
+    "fanFavouriteDiscoveryPercentile": 0.1382
   }
 }

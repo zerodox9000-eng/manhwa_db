@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Owner of C",
-  "mangabaka_title": "The Owner of C",
+  "mangabaka_title": "C-ui Juin",
   "native_title": "C의 주인",
-  "romanized_title": null,
+  "romanized_title": "C-ui Juin",
   "titles": [
     {
       "language": "ko",
       "title": "C의 주인",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "C-ui Juin",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,36 +40,40 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.bomtoon.com/detail/master_of_c)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI3Nzc2LmpwZw",
+  "description": "Carter Kennedy, an abandoned adoptee from the Kennedy family. After enduring endless scorn and neglect, he is sold as a servant to a mansion. But the man who bought him is none other than Colton, a fellow orphan from the same orphanage, the boy Carter thought he’d never see again after “that day.” Carter is terrified by Colton’s strange, obsessive attachment to him, a stark contrast to their past, and tries to escape from him...\n\n *“All I want is for you to be my family.”*\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzEzNi1ld1hzcUVSRUh3R0UuanBn",
   "total_chapters": "0",
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-11T02:22:38.775Z",
-  "mangabaka_latest_rank": 41,
-  "mangabaka_latest_snapshot_at": "2026-06-11T05:41:47.969Z",
+  "last_updated_at": "2026-06-11T22:38:56.703Z",
+  "mangabaka_latest_rank": 49,
+  "mangabaka_latest_snapshot_at": "2026-06-12T05:46:52.562Z",
   "authors": [
-    "Agami"
+    "Ga-Mi A"
   ],
   "artists": [
-    "Agami"
+    "Ga-Mi A"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589627",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213136,
+      "rating": null,
+      "url": "https://anilist.co/manga/213136"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7vqmm91",
@@ -67,9 +82,13 @@
     }
   },
   "tag_ids": [
+    180,
     16,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -77,8 +96,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6133,
+    "popularityPercentile": 0.1382,
+    "fanFavouriteDiscoveryScore": 5.0712,
+    "fanFavouriteDiscoveryPercentile": 0.1382
   }
 }

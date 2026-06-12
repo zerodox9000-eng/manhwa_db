@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Ctrl+Alt+Resign",
       "traits": [
-        "alternative"
+        "official"
       ],
       "is_primary": false,
       "note": null
@@ -37,9 +37,7 @@
     {
       "language": "en",
       "title": "Job Change Log",
-      "traits": [
-        "alternative"
-      ],
+      "traits": [],
       "is_primary": false,
       "note": null
     },
@@ -53,9 +51,7 @@
     {
       "language": "en",
       "title": "Job Switch Log",
-      "traits": [
-        "official"
-      ],
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -76,14 +72,18 @@
     {
       "language": "th",
       "title": "สตาร์ตอัปสตาร์ตรัก",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "zh",
+      "language": "zh-hk",
       "title": "跳槽日志",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -91,7 +91,7 @@
       "language": "zh",
       "title": "跳槽日記",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -119,9 +119,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-11T02:47:39.810Z",
-  "mangabaka_latest_rank": 7759,
-  "mangabaka_latest_snapshot_at": "2026-06-11T05:41:47.969Z",
+  "last_updated_at": "2026-06-11T09:34:02.168Z",
+  "mangabaka_latest_rank": 7767,
+  "mangabaka_latest_snapshot_at": "2026-06-12T05:46:52.562Z",
   "authors": [
     "Si-Mok U"
   ],
@@ -173,15 +173,15 @@
     428
   ],
   "stats": {
-    "popularity": 6348,
-    "favourites": 246,
+    "popularity": 6362,
+    "favourites": 247,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 3.8752,
-    "fanRatioPercentile": 92.7343,
-    "popularityPercentile": 96.7819,
-    "fanFavouriteDiscoveryScore": 92.5802,
-    "fanFavouriteDiscoveryPercentile": 96.2442
+    "fanFavouriteRaw": 3.8824,
+    "fanRatioPercentile": 92.7666,
+    "popularityPercentile": 96.7826,
+    "fanFavouriteDiscoveryScore": 92.6125,
+    "fanFavouriteDiscoveryPercentile": 96.2912
   }
 }
