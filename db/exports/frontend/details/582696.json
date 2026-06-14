@@ -5,19 +5,32 @@
   "display_title": "Once an Assassin, Now a Royal Nanny",
   "mangabaka_title": "Once an Assassin, Now a Royal Nanny",
   "native_title": "황자의 보모, 특기는 암살입니다",
-  "romanized_title": null,
+  "romanized_title": "Hwangjaui Bomo, Teukgineun Amsarimnida",
   "titles": [
     {
       "language": "ko",
       "title": "황자의 보모, 특기는 암살입니다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hwangjaui Bomo, Teukgineun Amsarimnida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Once an Assassin, Now a Royal Nanny",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -30,19 +43,19 @@
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-03-18",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-13T02:54:07.680Z",
+  "last_updated_at": "2026-06-14T03:14:34.741Z",
   "mangabaka_latest_rank": 645,
-  "mangabaka_latest_snapshot_at": "2026-06-13T05:34:59.317Z",
+  "mangabaka_latest_snapshot_at": "2026-06-14T05:48:06.795Z",
   "authors": [
-    "Nadaun",
-    "Nessa"
+    "Da-Un Na",
+    "Nasamos"
   ],
   "artists": [
     "Roroc"
@@ -52,7 +65,11 @@
     "read_en": "https://www.tappytoon.com/en/book/once-an-assassin-now-a-royal-nanny"
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213187,
+      "rating": null,
+      "url": "https://anilist.co/manga/213187"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "th6utql",
@@ -62,17 +79,25 @@
   },
   "tag_ids": [
     43,
+    59,
+    126,
+    108,
     36,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6488,
+    "popularityPercentile": 0.5598,
+    "fanFavouriteDiscoveryScore": 5.2285,
+    "fanFavouriteDiscoveryPercentile": 0.5445
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Pretty Scumbag",
-  "mangabaka_title": "Pretty Scumbag",
+  "mangabaka_title": "Yeppeun Gaechaban",
   "native_title": "예쁜 개차반",
-  "romanized_title": null,
+  "romanized_title": "Yeppeun Gaechaban",
   "titles": [
     {
       "language": "ko",
       "title": "예쁜 개차반",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -41,38 +43,52 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeppeun Gaechaban",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "Yong-Hee, whose only dream was to live happily with the grandmother who raised her, suddenly found a scumbag calling her \"Dragon Head\" with the words, \"Dragon~! Head ! Aren't you coming over quickly ?!\" Chan-Young, who is pretty on the outside but hateful the moment he opens his mouth, uses his innate scumbag nature to turn Yong-Hee's life upside down. \"You've really messed with me.\" Yong-Hee, who was helplessly wavering, was unaware that she was about to leave, turning her back on the fresh scent of roses.\n\n**Original Novel:**    \n[Chapters](https://series.naver.com/novel/detail.series?productNo=10758024), [Volumes](https://series.naver.com/novel/detail.series?productNo=11227036) \n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=850885), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14178960)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2Mzg1LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzE3Ny0yWllzOVFOSDJ1aHUuanBn",
   "total_chapters": "5",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-12T18:21:04.750Z",
+  "last_updated_at": "2026-06-13T20:46:33.160Z",
   "mangabaka_latest_rank": 167,
-  "mangabaka_latest_snapshot_at": "2026-06-13T05:34:59.317Z",
+  "mangabaka_latest_snapshot_at": "2026-06-14T05:48:06.795Z",
   "authors": [
-    "Park Rose"
+    "Rose Park",
+    "Rose Park"
   ],
   "artists": [
-    "Lee"
+    "LEE"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/588652",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213177,
+      "rating": 85,
+      "url": "https://anilist.co/manga/213177"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "l6326w3",
@@ -82,18 +98,26 @@
   },
   "tag_ids": [
     40,
+    334,
     107,
+    108,
+    31,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 20,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 85
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6488,
+    "popularityPercentile": 14.4555,
+    "fanFavouriteDiscoveryScore": 12.2323,
+    "fanFavouriteDiscoveryPercentile": 13.0752
   }
 }
