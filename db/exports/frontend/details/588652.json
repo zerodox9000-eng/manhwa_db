@@ -2,7 +2,7 @@
   "id": 588652,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Pretty Scumbag",
+  "display_title": "Yeppeun Gaechaban",
   "mangabaka_title": "Yeppeun Gaechaban",
   "native_title": "예쁜 개차반",
   "romanized_title": "Yeppeun Gaechaban",
@@ -41,7 +41,14 @@
       "language": "en",
       "title": "Pretty Scumbag",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Pretty Trash",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -50,6 +57,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Yeppeun Gaechaban",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
@@ -69,9 +83,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-13T20:46:33.160Z",
-  "mangabaka_latest_rank": 167,
-  "mangabaka_latest_snapshot_at": "2026-06-14T05:48:06.795Z",
+  "last_updated_at": "2026-06-15T03:16:05.455Z",
+  "mangabaka_latest_rank": 182,
+  "mangabaka_latest_snapshot_at": "2026-06-15T06:09:10.355Z",
   "authors": [
     "Rose Park",
     "Rose Park"
@@ -86,7 +100,7 @@
   "source": {
     "anilist": {
       "id": 213177,
-      "rating": 85,
+      "rating": 77,
       "url": "https://anilist.co/manga/213177"
     },
     "animeplanet": null,
@@ -109,15 +123,15 @@
     428
   ],
   "stats": {
-    "popularity": 20,
+    "popularity": 28,
     "favourites": null,
-    "meanScore": 85
+    "meanScore": 77
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6488,
-    "popularityPercentile": 14.4555,
-    "fanFavouriteDiscoveryScore": 12.2323,
-    "fanFavouriteDiscoveryPercentile": 13.0752
+    "fanRatioPercentile": 31.652,
+    "popularityPercentile": 18.8961,
+    "fanFavouriteDiscoveryScore": 15.0986,
+    "fanFavouriteDiscoveryPercentile": 16.7114
   }
 }

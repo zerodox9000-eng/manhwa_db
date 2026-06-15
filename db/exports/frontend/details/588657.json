@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Heavenly Demon Cult's Strongest Maid",
-  "mangabaka_title": "The Heavenly Demon Cult's Strongest Maid",
+  "mangabaka_title": "Cheonmasingyo Choeganghanyeo",
   "native_title": "천마신교 최강하녀",
-  "romanized_title": null,
+  "romanized_title": "Cheonmasingyo Choeganghanyeo",
   "titles": [
     {
       "language": "ko",
       "title": "천마신교 최강하녀",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Cheonmasingyo Choeganghanyeo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -44,25 +55,26 @@
     }
   ],
   "description": "I was just an ordinary office worker... until I woke up as Shin Seol-ha, a lowly maid inside a martial arts novel.\n\nTo support the grandmother who raised her, Seol-ha entered the dreaded Demonic Cult as a servant, surviving a grueling five-year contract. Finally, with just two months left until her freedom, her plans are completely shattered.\n\nOf all people, she is reassigned as the personal maid to Jeok Igeon, a man utterly infamous for his cruelty.\n\nWhile keeping her head down to survive, Seol-ha accidentally discovers a hidden, monstrous talent for martial arts, with Igeon's help. To make matters worse, she suddenly has the attention of the entire Demonic Cult, culminating in an offer to become the Heavenly Demon's personal disciple!\n\nWait, why is everyone suddenly so obsessed with me?!\n\nSeol-ha just wants to escape the Cult, but Jeok Igeon refuses to let her go. Just where will this increasingly tangled relationship end?\n\n[Original Novel](https://page.kakao.com/content/65231575) \n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69275812), [Daum](https://webtoon.kakao.com/content/%EC%B2%9C%EB%A7%88%EC%8B%A0%EA%B5%90-%EC%B5%9C%EA%B0%95%ED%95%98%EB%85%80/4860)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2MjM3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzIzOC1FWlBESTdKRlkxbzIuanBn",
   "total_chapters": "23",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-13T19:15:03.875Z",
-  "mangabaka_latest_rank": 166,
-  "mangabaka_latest_snapshot_at": "2026-06-14T05:48:06.795Z",
+  "last_updated_at": "2026-06-15T00:16:04.346Z",
+  "mangabaka_latest_rank": 181,
+  "mangabaka_latest_snapshot_at": "2026-06-15T06:09:10.355Z",
   "authors": [
-    "Valen"
+    "Ballen",
+    "Next Level Studio"
   ],
   "artists": [
     "Next Level Studio"
@@ -72,7 +84,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213238,
+      "rating": null,
+      "url": "https://anilist.co/manga/213238"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "16q3lar",
@@ -81,11 +97,16 @@
     }
   },
   "tag_ids": [
+    59,
+    108,
     36,
     39,
     6,
     29,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -93,8 +114,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.652,
+    "popularityPercentile": 0.1686,
+    "fanFavouriteDiscoveryScore": 5.0882,
+    "fanFavouriteDiscoveryPercentile": 0.1686
   }
 }
