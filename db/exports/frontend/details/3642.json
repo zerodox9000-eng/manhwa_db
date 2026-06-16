@@ -5,7 +5,7 @@
   "display_title": "The New Employee Chairman Kang",
   "mangabaka_title": "Sinipsawon Gang Hoejang",
   "native_title": "신입사원 강 회장",
-  "romanized_title": "New Employee Chairman Kang",
+  "romanized_title": "Newbie Chairman Kang",
   "titles": [
     {
       "language": "ko",
@@ -33,6 +33,13 @@
     {
       "language": "en",
       "title": "Chairman Kang, the New Employee",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Newbie Chairman Kang",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -103,10 +110,10 @@
       "note": null
     },
     {
-      "language": "ko",
+      "language": "zh-hk",
       "title": "新進社員姜會長",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -125,9 +132,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.150Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-15T05:32:25.845Z",
+  "last_updated_at": "2026-06-16T05:33:47.548Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-15T06:09:10.355Z",
+  "mangabaka_latest_snapshot_at": "2026-06-16T06:37:52.538Z",
   "authors": [
     "San-Gyeong",
     "Seung-i Seung"
@@ -142,7 +149,7 @@
   "source": {
     "anilist": {
       "id": 180893,
-      "rating": 66,
+      "rating": 65,
       "url": "https://anilist.co/manga/180893"
     },
     "animeplanet": {
@@ -174,15 +181,15 @@
     428
   ],
   "stats": {
-    "popularity": 364,
+    "popularity": 365,
     "favourites": 3,
-    "meanScore": 66
+    "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8242,
-    "fanRatioPercentile": 39.3407,
-    "popularityPercentile": 64.1472,
-    "fanFavouriteDiscoveryScore": 38.3719,
-    "fanFavouriteDiscoveryPercentile": 42.8517
+    "fanFavouriteRaw": 0.8219,
+    "fanRatioPercentile": 39.3519,
+    "popularityPercentile": 64.1566,
+    "fanFavouriteDiscoveryScore": 38.3835,
+    "fanFavouriteDiscoveryPercentile": 42.8451
   }
 }
