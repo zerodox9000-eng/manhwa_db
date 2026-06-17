@@ -5,7 +5,7 @@
   "display_title": "I Dare You",
   "mangabaka_title": "I Dare You",
   "native_title": "쪽팔려게임",
-  "romanized_title": "Jjokpallyeo Game",
+  "romanized_title": "Diū Liǎn Yóuxì",
   "titles": [
     {
       "language": "ko",
@@ -15,6 +15,13 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "zh-Latn",
+      "title": "Diū Liǎn Yóuxì",
+      "traits": [],
+      "is_primary": false,
+      "note": "Chinese Traditional Romanization"
     },
     {
       "language": "en",
@@ -56,6 +63,13 @@
       "note": null
     },
     {
+      "language": "zh-Latn",
+      "title": "Shè Sǐ Yóuxì",
+      "traits": [],
+      "is_primary": true,
+      "note": "Chinese Simplified Romanization"
+    },
+    {
       "language": "en",
       "title": "Side Splitting Game",
       "traits": [],
@@ -72,27 +86,33 @@
     {
       "language": "th",
       "title": "เกมอัปยศ",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "zh",
+      "language": "zh-hk",
       "title": "丟臉遊戲",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "zh",
       "title": "社死游戏",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Sa-Rang Yu, a second-year in high school, has never really fit in. She isn’t exactly bullied, but her classmates keep singling her out, even pushing the dares from their humiliation games onto her. No one says it out loud, but everyone senses something seriously off about her as the games take on a darker, more unsettling edge. Will these games help Sa-rang finally find acceptance among her peers, or will the escalating dares reveal the twisted side everyone suspects is already there?\n\n(Source: WEBTOON)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzQvNi9hL2IvMS83L2IvYzNkMi80NDA4L2IxYzcvZWRmYzVjYmQwNzdj",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wL2EvYi9kL2YvMy9iL2MvYzZlNS80ZDIwLzhlMTcvZDNkOTkzZjhmNGZk",
   "total_chapters": "21",
   "status": "releasing",
   "content_rating": "safe",
@@ -106,9 +126,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-16T06:06:31.396Z",
+  "last_updated_at": "2026-06-17T03:00:20.087Z",
   "mangabaka_latest_rank": 1004,
-  "mangabaka_latest_snapshot_at": "2026-06-16T06:37:52.538Z",
+  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
   "authors": [
     "Bong-Su"
   ],
@@ -148,15 +168,15 @@
     428
   ],
   "stats": {
-    "popularity": 646,
+    "popularity": 654,
     "favourites": 18,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7864,
-    "fanRatioPercentile": 84.0049,
-    "popularityPercentile": 74.1305,
-    "fanFavouriteDiscoveryScore": 83.0918,
-    "fanFavouriteDiscoveryPercentile": 89.8575
+    "fanFavouriteRaw": 2.7523,
+    "fanRatioPercentile": 83.4673,
+    "popularityPercentile": 74.3472,
+    "fanFavouriteDiscoveryScore": 82.5762,
+    "fanFavouriteDiscoveryPercentile": 89.5398
   }
 }

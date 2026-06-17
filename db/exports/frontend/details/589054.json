@@ -2,15 +2,26 @@
   "id": 589054,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The King (SEMO)",
-  "mangabaka_title": "The King (SEMO)",
+  "display_title": "THE KING",
+  "mangabaka_title": "THE KING",
   "native_title": "더킹",
-  "romanized_title": "The King (SEMO)",
+  "romanized_title": "THE KING",
   "titles": [
     {
       "language": "ko",
       "title": "더킹",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "THE KING",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,40 +29,44 @@
       "language": "ko-Latn",
       "title": "The King (SEMO)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851029), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14207883)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2NzU5LmpwZw",
+  "description": "Kang Ha-Na, in her late twenties, has followed a perfect path as an elite, but a single incident shatters her life. She chooses to fight rather than run. In the unpredictable ring, she aims to become the champion.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzI5MS1SaktrU2oyM3BQZGQuanBn",
   "total_chapters": "6",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-15T06:34:40.680Z",
-  "mangabaka_latest_rank": 134,
-  "mangabaka_latest_snapshot_at": "2026-06-16T06:37:52.538Z",
+  "last_updated_at": "2026-06-17T02:15:30.912Z",
+  "mangabaka_latest_rank": 135,
+  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
   "authors": [
-    "SEMO"
+    "Semo"
   ],
   "artists": [
-    "SEMO"
+    "Semo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589054",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213291,
+      "rating": null,
+      "url": "https://anilist.co/manga/213291"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ayfkrlu",
@@ -61,8 +76,13 @@
   },
   "tag_ids": [
     40,
+    59,
     39,
-    30
+    30,
+    461,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,8 +90,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6334,
+    "popularityPercentile": 0.1302,
+    "fanFavouriteDiscoveryScore": 5.0716,
+    "fanFavouriteDiscoveryPercentile": 0.1302
   }
 }
