@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:41:08.379Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-07T01:40:49.176Z",
-  "mangabaka_latest_rank": 8734,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8666,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Cha-Eun Han"
   ],
@@ -95,5 +95,85 @@
     "popularityPercentile": 7.1522,
     "fanFavouriteDiscoveryScore": 8.0753,
     "fanFavouriteDiscoveryPercentile": 6.5778
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / school",
+    "searchKeywords": [
+      "marriage",
+      "class",
+      "time",
+      "gyeolhongyogwasigan",
+      "mysterious",
+      "occurs",
+      "high",
+      "school",
+      "student",
+      "learns",
+      "subject",
+      "manhwakyung",
+      "translated"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Female Lead",
+        "School",
+        "Drama",
+        "Mystery",
+        "Slice of Life",
+        "School Life",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "marriage",
+        "class",
+        "time",
+        "gyeolhongyogwasigan",
+        "gyeolhongyogwasigan"
+      ],
+      "descriptionTerms": [
+        "mysterious",
+        "occurs",
+        "high",
+        "school",
+        "student",
+        "learns",
+        "subject",
+        "marriage",
+        "manhwakyung",
+        "translated"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.5
   }
 }

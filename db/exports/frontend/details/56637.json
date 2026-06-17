@@ -55,7 +55,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-17T21:35:31.633Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Baek Jong In"
   ],
@@ -88,5 +88,124 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "korean-corporate-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "regression-return",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "employee"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth",
+        "power-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "modern-urban",
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "korean-corporate-regression / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "pool",
+      "love",
+      "song",
+      "jinju",
+      "low-level",
+      "employee",
+      "drowned",
+      "party",
+      "organized",
+      "company",
+      "awakens",
+      "finds",
+      "herself",
+      "farthest",
+      "island",
+      "main",
+      "years",
+      "past",
+      "manages",
+      "return",
+      "present",
+      "forget"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Romance"
+      ],
+      "titleTerms": [
+        "pool",
+        "love",
+        "pool",
+        "love"
+      ],
+      "descriptionTerms": [
+        "song",
+        "jinju",
+        "low-level",
+        "employee",
+        "drowned",
+        "pool",
+        "party",
+        "organized",
+        "company",
+        "awakens",
+        "finds",
+        "herself",
+        "farthest",
+        "island",
+        "main",
+        "island",
+        "years",
+        "past",
+        "jinju",
+        "manages",
+        "return",
+        "present",
+        "forget",
+        "island"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

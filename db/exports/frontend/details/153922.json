@@ -42,8 +42,8 @@
   "first_seen_at": "2026-06-10T15:38:01.911Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-20T03:26:40.606Z",
-  "mangabaka_latest_rank": 6301,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6247,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Yun-Seo O"
   ],
@@ -78,5 +78,65 @@
     "popularityPercentile": 5.2607,
     "fanFavouriteDiscoveryScore": 7.1645,
     "fanFavouriteDiscoveryPercentile": 4.7936
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "seotureun",
+      "saram",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "prologue"
+    ],
+    "evidence": {
+      "tags": [
+        "Boys Love",
+        "Romance"
+      ],
+      "titleTerms": [
+        "seotureun",
+        "saram",
+        "seotureun",
+        "saram",
+        "seotureun",
+        "saram"
+      ],
+      "descriptionTerms": [
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "prologue"
+      ],
+      "sourceFields": [
+        "anilist"
+      ]
+    },
+    "confidence": 0.37
   }
 }

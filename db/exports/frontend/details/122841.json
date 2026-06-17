@@ -79,8 +79,8 @@
   "first_seen_at": "2026-06-10T15:39:19.582Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T18:48:23.176Z",
-  "mangabaka_latest_rank": 6807,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6748,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Koon"
   ],
@@ -140,5 +140,101 @@
     "popularityPercentile": 78.1377,
     "fanFavouriteDiscoveryScore": 87.5719,
     "fanFavouriteDiscoveryPercentile": 93.1082
+  },
+  "context": {
+    "primaryProfile": "medical-career",
+    "profileGroups": [
+      "medical-career",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "medical-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "medical"
+      ],
+      "protagonistRole": [
+        "medical-professional"
+      ],
+      "careerDomain": [
+        "medical"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "dark",
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "medical-career / medical",
+    "searchKeywords": [
+      "wild",
+      "city",
+      "lonely",
+      "werewolf",
+      "seeking",
+      "love",
+      "full",
+      "lies",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Animal Characteristics",
+        "Hospital",
+        "Doctors",
+        "Fantasy",
+        "Werewolves",
+        "Boys Love",
+        "Shounen Ai",
+        "Yaoi",
+        "Comedy",
+        "Discrimination",
+        "LGBTQ+",
+        "Medical",
+        "Psychological",
+        "Romance",
+        "Slice of Life",
+        "Homophobia",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "wild",
+        "city",
+        "wild",
+        "city",
+        "wild",
+        "city"
+      ],
+      "descriptionTerms": [
+        "lonely",
+        "werewolf",
+        "seeking",
+        "love",
+        "full",
+        "lies",
+        "toomics"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.7
   }
 }

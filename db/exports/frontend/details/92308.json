@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-10T00:41:00.521Z",
-  "mangabaka_latest_rank": 8341,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8278,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Ttyum",
     "Yuri (Blue Hydrangea)"
@@ -83,5 +83,72 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea",
+    "searchKeywords": [
+      "haeju",
+      "haejoo",
+      "original",
+      "webtoon",
+      "anytoon",
+      "ridibooks",
+      "mrblue",
+      "lezhin",
+      "kakaopage"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Adult",
+        "Smut",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "haeju",
+        "haeju",
+        "haejoo"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "anytoon",
+        "ridibooks",
+        "mrblue",
+        "lezhin",
+        "kakaopage"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.47
   }
 }

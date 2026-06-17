@@ -59,8 +59,8 @@
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-27T19:52:56.273Z",
-  "mangabaka_latest_rank": 9378,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9300,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Oreum"
   ],
@@ -94,5 +94,70 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "sports-career",
+    "profileGroups": [
+      "modern-korea",
+      "sports-career"
+    ],
+    "primaryAnchors": [
+      "sports-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "sports"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "sports-career / modern-korea",
+    "searchKeywords": [
+      "boorim",
+      "gibulim",
+      "original",
+      "webtoon",
+      "kakaopage",
+      "daum",
+      "official",
+      "translations",
+      "japanese"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Action",
+        "Sports"
+      ],
+      "titleTerms": [
+        "boorim",
+        "boorim",
+        "gibulim"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "kakaopage",
+        "daum",
+        "official",
+        "translations",
+        "japanese"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

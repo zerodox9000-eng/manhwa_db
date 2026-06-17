@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-17T05:37:15.850Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-16T21:01:22.649Z",
-  "mangabaka_latest_rank": 2,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [],
   "artists": [],
   "links": {
@@ -69,5 +69,65 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "euro-fantasy",
+    "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "euro-fantasy",
+    "searchKeywords": [
+      "looking",
+      "villainess",
+      "contract",
+      "husband"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "looking",
+        "villainess",
+        "contract",
+        "husband",
+        "looking",
+        "villainess",
+        "contract",
+        "husband"
+      ],
+      "descriptionTerms": [],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.61
   }
 }

@@ -84,8 +84,8 @@
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T04:23:52.642Z",
-  "mangabaka_latest_rank": 406,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 374,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Mogege",
     "Yu-Ju Chae"
@@ -132,5 +132,76 @@
     "popularityPercentile": 6.2639,
     "fanFavouriteDiscoveryScore": 7.6383,
     "fanFavouriteDiscoveryPercentile": 5.7585
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "deviance",
+      "nature",
+      "iltari",
+      "chejil",
+      "note",
+      "part",
+      "metatoon",
+      "sunjeong",
+      "danpyeonseon",
+      "collection"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Heterosexual",
+        "Adult",
+        "Smut",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "deviance",
+        "nature",
+        "iltari",
+        "chejil",
+        "iltari",
+        "chejil"
+      ],
+      "descriptionTerms": [
+        "note",
+        "part",
+        "metatoon",
+        "sunjeong",
+        "danpyeonseon",
+        "collection"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.43
   }
 }

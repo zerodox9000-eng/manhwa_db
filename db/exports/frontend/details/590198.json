@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-12T05:16:18.144Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-14T22:38:21.533Z",
-  "mangabaka_latest_rank": 37,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Wolf"
   ],
@@ -71,5 +71,60 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "let",
+      "help",
+      "bloom",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Romance"
+      ],
+      "titleTerms": [
+        "let",
+        "help",
+        "bloom",
+        "let",
+        "help",
+        "bloom"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.43
   }
 }

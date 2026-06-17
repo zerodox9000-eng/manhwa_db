@@ -73,8 +73,8 @@
   "first_seen_at": "2026-06-10T15:39:19.583Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-27T14:13:19.682Z",
-  "mangabaka_latest_rank": 9224,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9146,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "PARK Seon-jae"
   ],
@@ -117,5 +117,101 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "regression-return",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "minor",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea / reincarnation",
+    "searchKeywords": [
+      "leave",
+      "gashiri",
+      "itgo",
+      "four",
+      "people",
+      "trapped",
+      "cycle",
+      "reincarnation",
+      "600",
+      "years",
+      "relationship",
+      "finally",
+      "come",
+      "end",
+      "original",
+      "webtoon",
+      "toomics",
+      "naver",
+      "series"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "Reincarnation",
+        "Fantasy",
+        "Romance",
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "leave",
+        "leave",
+        "gashiri",
+        "itgo"
+      ],
+      "descriptionTerms": [
+        "four",
+        "people",
+        "trapped",
+        "cycle",
+        "reincarnation",
+        "600",
+        "years",
+        "relationship",
+        "finally",
+        "come",
+        "end",
+        "original",
+        "webtoon",
+        "toomics",
+        "naver",
+        "series"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.57
   }
 }

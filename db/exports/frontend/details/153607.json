@@ -63,8 +63,8 @@
   "first_seen_at": "2026-06-10T15:43:31.413Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T23:57:14.799Z",
-  "mangabaka_latest_rank": 6312,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6258,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Halloween",
     "Lesh"
@@ -109,5 +109,73 @@
     "popularityPercentile": 14.9399,
     "fanFavouriteDiscoveryScore": 12.5305,
     "fanFavouriteDiscoveryPercentile": 13.439
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / school",
+    "searchKeywords": [
+      "ring",
+      "ttallangttallang",
+      "tinkle-tinkle",
+      "note",
+      "includes",
+      "five",
+      "extra",
+      "chapters"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Boys Love",
+        "Shounen Ai",
+        "Drama",
+        "Romance",
+        "School Life",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "ring",
+        "ring",
+        "ttallangttallang",
+        "tinkle-tinkle"
+      ],
+      "descriptionTerms": [
+        "note",
+        "includes",
+        "five",
+        "extra",
+        "chapters"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.49
   }
 }

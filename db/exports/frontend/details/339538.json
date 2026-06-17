@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-10T05:29:33.520Z",
-  "mangabaka_latest_rank": 3102,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3072,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Byeokran",
     "Chaeo"
@@ -74,5 +74,109 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [
+        "system-player"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system",
+    "searchKeywords": [
+      "player",
+      "love",
+      "kill",
+      "don",
+      "want",
+      "know",
+      "why",
+      "kept",
+      "chasing",
+      "depended",
+      "wait",
+      "what",
+      "hell",
+      "guy",
+      "here",
+      "veteran",
+      "rpg",
+      "gamer",
+      "choi",
+      "rim",
+      "in-game",
+      "nickname",
+      "cream",
+      "constantly",
+      "stressed",
+      "newbie"
+    ],
+    "evidence": {
+      "tags": [
+        "Adult",
+        "Yaoi",
+        "Drama"
+      ],
+      "titleTerms": [
+        "player",
+        "love",
+        "kill",
+        "player",
+        "love",
+        "kill"
+      ],
+      "descriptionTerms": [
+        "don",
+        "want",
+        "know",
+        "why",
+        "kept",
+        "chasing",
+        "depended",
+        "wait",
+        "what",
+        "hell",
+        "why",
+        "guy",
+        "here",
+        "veteran",
+        "rpg",
+        "gamer",
+        "choi",
+        "rim",
+        "in-game",
+        "nickname",
+        "cream",
+        "constantly",
+        "stressed",
+        "newbie"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

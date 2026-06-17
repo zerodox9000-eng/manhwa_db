@@ -65,8 +65,8 @@
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T19:56:26.146Z",
-  "mangabaka_latest_rank": 9413,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9335,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Ju-Hong"
   ],
@@ -115,5 +115,114 @@
     "popularityPercentile": 61.9573,
     "fanFavouriteDiscoveryScore": 48.0722,
     "fanFavouriteDiscoveryPercentile": 56.7118
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [
+        "system-player"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [
+        "revenge"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "tense"
+      ],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / hunter-system",
+    "searchKeywords": [
+      "cat",
+      "geunyang",
+      "goyangi",
+      "filled",
+      "monsters",
+      "magic",
+      "hunter",
+      "named",
+      "hawk",
+      "begin",
+      "adventure",
+      "different",
+      "purposes",
+      "same",
+      "goal",
+      "mind",
+      "protect",
+      "something",
+      "precious",
+      "seek",
+      "revenge",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Fantasy",
+        "Cats",
+        "Action",
+        "Adventure",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "cat",
+        "cat",
+        "geunyang",
+        "goyangi"
+      ],
+      "descriptionTerms": [
+        "filled",
+        "monsters",
+        "magic",
+        "cat",
+        "hunter",
+        "named",
+        "hawk",
+        "begin",
+        "adventure",
+        "different",
+        "purposes",
+        "same",
+        "goal",
+        "mind",
+        "protect",
+        "something",
+        "precious",
+        "seek",
+        "revenge",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet",
+        "read-en"
+      ]
+    },
+    "confidence": 0.59
   }
 }

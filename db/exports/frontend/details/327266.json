@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:45:01.176Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-28T23:06:56.066Z",
-  "mangabaka_latest_rank": 3772,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3737,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hwanja"
   ],
@@ -80,5 +80,76 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "euro-fantasy",
+    "profileGroups": [
+      "euro-fantasy",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "kingdom-fantasy"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "searchKeywords": [
+      "emperor",
+      "loveholic",
+      "original",
+      "webtoon",
+      "bomtoon",
+      "lezhin",
+      "mrblue",
+      "naver",
+      "series",
+      "kakaopage"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Yaoi",
+        "Drama"
+      ],
+      "titleTerms": [
+        "emperor",
+        "loveholic",
+        "emperor",
+        "loveholic"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "bomtoon",
+        "lezhin",
+        "mrblue",
+        "naver",
+        "series",
+        "kakaopage"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

@@ -66,8 +66,8 @@
   "first_seen_at": "2026-06-10T15:40:09.236Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-26T12:18:01.770Z",
-  "mangabaka_latest_rank": 9330,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9252,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hwasa"
   ],
@@ -102,5 +102,67 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "demon",
+      "king",
+      "solbin",
+      "solbingwi",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Yaoi",
+        "Romance",
+        "Historical"
+      ],
+      "titleTerms": [
+        "demon",
+        "king",
+        "solbin",
+        "king",
+        "solbingwi",
+        "king",
+        "solbingwi"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.46
   }
 }

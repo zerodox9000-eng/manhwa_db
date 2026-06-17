@@ -70,8 +70,8 @@
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T01:40:14.636Z",
-  "mangabaka_latest_rank": 343,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 311,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Gutgi",
     "Sikgi"
@@ -117,5 +117,87 @@
     "popularityPercentile": 0.804,
     "fanFavouriteDiscoveryScore": 5.3153,
     "fanFavouriteDiscoveryPercentile": 0.7658
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / corporate-workplace",
+    "searchKeywords": [
+      "executive",
+      "director",
+      "indeed",
+      "jeonmunomeun",
+      "gwayeon",
+      "original",
+      "webtoon",
+      "anytoon",
+      "ridi"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Adult",
+        "Smut",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "executive",
+        "director",
+        "indeed",
+        "jeonmunomeun",
+        "gwayeon",
+        "jeonmunomeun",
+        "gwayeon"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "anytoon",
+        "ridi"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

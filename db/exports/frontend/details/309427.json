@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-26T09:21:18.838Z",
-  "mangabaka_latest_rank": 4247,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4212,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kim Younggil"
   ],
@@ -80,5 +80,71 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "food-career",
+    "profileGroups": [
+      "food-career",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "food-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [
+        "food"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "food-career",
+    "searchKeywords": [
+      "pyongyang",
+      "restaurant",
+      "hyang-im",
+      "original",
+      "webtoon",
+      "mrblue",
+      "toomics",
+      "anytoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Adult",
+        "Drama"
+      ],
+      "titleTerms": [
+        "pyongyang",
+        "restaurant",
+        "hyang-im",
+        "pyongyang",
+        "restaurant",
+        "hyang-im",
+        "pyongyang",
+        "restaurant",
+        "hyang-im"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "mrblue",
+        "toomics",
+        "anytoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

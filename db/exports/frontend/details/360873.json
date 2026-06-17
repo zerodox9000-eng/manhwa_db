@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-14T23:55:36.732Z",
-  "mangabaka_latest_rank": 2711,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 2680,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Eul-Seung Lee"
   ],
@@ -96,5 +96,85 @@
     "popularityPercentile": 8.0175,
     "fanFavouriteDiscoveryScore": 8.5166,
     "fanFavouriteDiscoveryPercentile": 7.3742
+  },
+  "context": {
+    "primaryProfile": "food-career",
+    "profileGroups": [
+      "food-career",
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "food-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "food"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "food-career / modern-korea",
+    "searchKeywords": [
+      "romance",
+      "sugar",
+      "seoltange",
+      "gyeotdeurin",
+      "original",
+      "webtoon",
+      "naver",
+      "series"
+    ],
+    "evidence": {
+      "tags": [
+        "Cooking",
+        "Shoujo",
+        "Heterosexual",
+        "Drama",
+        "Gourmet",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "romance",
+        "sugar",
+        "seoltange",
+        "gyeotdeurin",
+        "romance",
+        "seoltange",
+        "gyeotdeurin",
+        "romance"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "naver",
+        "webtoon",
+        "naver",
+        "series"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.67
   }
 }

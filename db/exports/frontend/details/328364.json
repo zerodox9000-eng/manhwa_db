@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-08T09:15:52.009Z",
-  "mangabaka_latest_rank": 3751,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3716,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hasan",
     "Hato (하토)",
@@ -84,5 +84,83 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / school",
+    "searchKeywords": [
+      "postype",
+      "anthology",
+      "summer",
+      "original",
+      "webtoon",
+      "school",
+      "trip",
+      "yigong",
+      "gonggoo",
+      "bomtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Shounen Ai",
+        "Drama",
+        "Shoujo Ai",
+        "Romance"
+      ],
+      "titleTerms": [
+        "postype",
+        "anthology",
+        "summer",
+        "postype",
+        "anthology",
+        "summer",
+        "postype",
+        "anthology",
+        "summer"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "school",
+        "trip",
+        "yigong",
+        "gonggoo",
+        "original",
+        "webtoon",
+        "postype",
+        "bomtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

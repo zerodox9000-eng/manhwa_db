@@ -78,7 +78,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T05:21:33.112Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Na-Jin Yu",
     "Onnul"
@@ -124,5 +124,93 @@
     "popularityPercentile": 54.3533,
     "fanFavouriteDiscoveryScore": 51.3372,
     "fanFavouriteDiscoveryPercentile": 59.7825
+  },
+  "context": {
+    "primaryProfile": "regression-return",
+    "profileGroups": [
+      "regression-return",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "regression-return",
+    "searchKeywords": [
+      "being",
+      "chased",
+      "husband",
+      "pre-serialization",
+      "note",
+      "promotional",
+      "oneshot",
+      "novel",
+      "artist",
+      "cover",
+      "anz",
+      "promo",
+      "onnul"
+    ],
+    "evidence": {
+      "tags": [
+        "Female Lead",
+        "Time Manipulation",
+        "Heterosexual",
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Promotional Oneshot",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "being",
+        "chased",
+        "husband",
+        "being",
+        "chased",
+        "husband",
+        "being",
+        "chased",
+        "husband",
+        "pre-serialization"
+      ],
+      "descriptionTerms": [
+        "note",
+        "promotional",
+        "oneshot",
+        "novel",
+        "artist",
+        "cover",
+        "artist",
+        "anz",
+        "promo",
+        "artist",
+        "onnul"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.5
   }
 }

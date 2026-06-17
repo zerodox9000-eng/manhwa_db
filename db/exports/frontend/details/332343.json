@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-22T15:33:46.737Z",
-  "mangabaka_latest_rank": 3513,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3478,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Montreal"
   ],
@@ -96,5 +96,67 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "roommates",
+      "star",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Boys Love",
+        "Yaoi",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "roommates",
+        "star",
+        "roommates",
+        "star"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.5
   }
 }

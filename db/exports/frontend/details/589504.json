@@ -63,8 +63,8 @@
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T03:30:01.733Z",
-  "mangabaka_latest_rank": 97,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 65,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Najeong",
     "Seol-Eun Baek"
@@ -110,5 +110,123 @@
     "popularityPercentile": 18.7227,
     "fanFavouriteDiscoveryScore": 14.9757,
     "fanFavouriteDiscoveryPercentile": 16.525
+  },
+  "context": {
+    "primaryProfile": "regression-return",
+    "profileGroups": [
+      "regression-return",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "regression"
+      ],
+      "conflictType": [
+        "revenge",
+        "romance"
+      ],
+      "progressionType": [
+        "martial-growth"
+      ],
+      "tone": [
+        "tense",
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "minor",
+      "systemRole": "none"
+    },
+    "semanticSummary": "regression-return / regression",
+    "searchKeywords": [
+      "perfect",
+      "revenge",
+      "wanbyeokan",
+      "boksue",
+      "daehayeo",
+      "first",
+      "love",
+      "whom",
+      "thought",
+      "dead",
+      "returned",
+      "curtis",
+      "killed",
+      "entire",
+      "family",
+      "wiped",
+      "father",
+      "scheme",
+      "stands",
+      "before",
+      "seeking",
+      "ahead",
+      "beg",
+      "roxana",
+      "knows",
+      "maybe",
+      "flirt",
+      "using"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Heterosexual",
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "perfect",
+        "revenge",
+        "wanbyeokan",
+        "boksue",
+        "daehayeo",
+        "wanbyeokan",
+        "boksue",
+        "daehayeo"
+      ],
+      "descriptionTerms": [
+        "first",
+        "love",
+        "whom",
+        "thought",
+        "dead",
+        "returned",
+        "curtis",
+        "killed",
+        "entire",
+        "family",
+        "wiped",
+        "father",
+        "scheme",
+        "stands",
+        "before",
+        "seeking",
+        "revenge",
+        "ahead",
+        "beg",
+        "roxana",
+        "knows",
+        "maybe",
+        "flirt",
+        "using"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.5
   }
 }

@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:40:09.236Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-13T02:22:30.401Z",
-  "mangabaka_latest_rank": 9008,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8935,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "OJ"
   ],
@@ -76,5 +76,78 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea / school",
+    "searchKeywords": [
+      "love",
+      "fiction",
+      "original",
+      "webtoon",
+      "ridibooks",
+      "bomtoon",
+      "mrblue",
+      "naver",
+      "series"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Fantasy",
+        "Shounen Ai",
+        "Drama",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "love",
+        "fiction",
+        "love",
+        "fiction"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "ridibooks",
+        "bomtoon",
+        "mrblue",
+        "naver",
+        "series"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.55
   }
 }

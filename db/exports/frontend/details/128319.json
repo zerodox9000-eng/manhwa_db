@@ -42,8 +42,8 @@
   "first_seen_at": "2026-06-10T15:37:33.830Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-01T06:45:23.706Z",
-  "mangabaka_latest_rank": 6616,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6557,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Gaje"
   ],
@@ -84,5 +84,86 @@
     "popularityPercentile": 34.4667,
     "fanFavouriteDiscoveryScore": 41.7607,
     "fanFavouriteDiscoveryPercentile": 46.9102
+  },
+  "context": {
+    "primaryProfile": "horror-survival",
+    "profileGroups": [
+      "horror-survival",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "survival",
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "dark",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "horror-survival",
+    "searchKeywords": [
+      "instant",
+      "glass",
+      "collection",
+      "yuri",
+      "horror",
+      "short",
+      "stories",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "prologue"
+    ],
+    "evidence": {
+      "tags": [
+        "Primarily Female Cast",
+        "Yuri",
+        "Horror",
+        "Body Horror",
+        "Mystery",
+        "Romance",
+        "Gore",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "instant",
+        "glass",
+        "instant",
+        "glass",
+        "instant",
+        "glass"
+      ],
+      "descriptionTerms": [
+        "collection",
+        "yuri",
+        "horror",
+        "short",
+        "stories",
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "prologue"
+      ],
+      "sourceFields": [
+        "anilist"
+      ]
+    },
+    "confidence": 0.59
   }
 }

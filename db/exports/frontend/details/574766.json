@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-01-10T04:13:20.810Z",
-  "mangabaka_latest_rank": 1065,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1034,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [],
   "artists": [],
   "links": {
@@ -78,5 +78,72 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "every",
+      "night",
+      "oppa",
+      "friend",
+      "includes",
+      "extra",
+      "volume"
+    ],
+    "evidence": {
+      "tags": [
+        "Based on a Web Novel",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "every",
+        "night",
+        "oppa",
+        "friend",
+        "every",
+        "night",
+        "oppa",
+        "friend",
+        "every",
+        "night",
+        "oppa",
+        "friend"
+      ],
+      "descriptionTerms": [
+        "includes",
+        "extra",
+        "volume"
+      ],
+      "sourceFields": [
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.4
   }
 }

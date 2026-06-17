@@ -72,8 +72,8 @@
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T02:05:23.878Z",
-  "mangabaka_latest_rank": 8193,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8130,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "BIGMO"
   ],
@@ -121,5 +121,88 @@
     "popularityPercentile": 14.9399,
     "fanFavouriteDiscoveryScore": 12.5305,
     "fanFavouriteDiscoveryPercentile": 13.439
+  },
+  "context": {
+    "primaryProfile": "horror-survival",
+    "profileGroups": [
+      "horror-survival",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "survival"
+      ],
+      "progressionType": [],
+      "tone": [
+        "dark"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "horror-survival",
+    "searchKeywords": [
+      "demon",
+      "cat",
+      "myogwi",
+      "need",
+      "save",
+      "husband",
+      "evil",
+      "possessed",
+      "body",
+      "expel",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Fantasy",
+        "Supernatural",
+        "Demons",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "demon",
+        "cat",
+        "demon",
+        "cat",
+        "myogwi"
+      ],
+      "descriptionTerms": [
+        "need",
+        "save",
+        "husband",
+        "evil",
+        "possessed",
+        "body",
+        "expel",
+        "demon",
+        "cat",
+        "toomics"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.62
   }
 }

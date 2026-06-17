@@ -66,8 +66,8 @@
   "first_seen_at": "2026-06-10T15:39:19.584Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-03T12:20:45.869Z",
-  "mangabaka_latest_rank": 5098,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 5053,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Mr Son"
   ],
@@ -103,5 +103,62 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "school-life",
+    "profileGroups": [
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "school-life / school",
+    "searchKeywords": [
+      "quarantine",
+      "circle",
+      "official",
+      "translations",
+      "japanese"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "School",
+        "Action",
+        "Drama",
+        "School Life"
+      ],
+      "titleTerms": [
+        "quarantine",
+        "circle",
+        "quarantine",
+        "circle"
+      ],
+      "descriptionTerms": [
+        "official",
+        "translations",
+        "japanese"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.4
   }
 }

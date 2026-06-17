@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-09T20:39:03.224Z",
-  "mangabaka_latest_rank": 9216,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9138,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Studio Clab"
   ],
@@ -88,5 +88,74 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "scattered",
+      "lee",
+      "hwa-woo",
+      "fluttering",
+      "rites",
+      "original",
+      "webtoon",
+      "postype"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Shoujo Ai",
+        "Romance",
+        "Historical"
+      ],
+      "titleTerms": [
+        "scattered",
+        "lee",
+        "hwa-woo",
+        "lee",
+        "hwa-woo",
+        "fluttering",
+        "rites",
+        "lee",
+        "hwa-woo",
+        "fluttering",
+        "rites"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "postype"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.46
   }
 }

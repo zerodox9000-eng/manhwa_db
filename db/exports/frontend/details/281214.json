@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:37:33.830Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-03T20:47:49.730Z",
-  "mangabaka_latest_rank": 4841,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4796,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kim Hwanta"
   ],
@@ -82,5 +82,74 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea",
+    "searchKeywords": [
+      "birth",
+      "married",
+      "woman",
+      "original",
+      "webtoon",
+      "daum",
+      "kakaopage"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "titleTerms": [
+        "birth",
+        "married",
+        "woman",
+        "birth",
+        "married",
+        "woman",
+        "birth",
+        "married",
+        "woman"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "daum",
+        "kakaopage"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.47
   }
 }

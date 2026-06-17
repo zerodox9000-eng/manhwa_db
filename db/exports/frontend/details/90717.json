@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:45:01.177Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-05T01:37:12.853Z",
-  "mangabaka_latest_rank": 9815,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9737,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Blueberry Tart"
   ],
@@ -74,5 +74,55 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "school-life",
+    "profileGroups": [
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "school-life / school",
+    "searchKeywords": [
+      "going",
+      "eat"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "titleTerms": [
+        "going",
+        "eat",
+        "going",
+        "eat"
+      ],
+      "descriptionTerms": [],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.39
   }
 }

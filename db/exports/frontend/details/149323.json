@@ -51,8 +51,8 @@
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T04:09:01.060Z",
-  "mangabaka_latest_rank": 6379,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6325,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Min-A Jeong"
   ],
@@ -89,5 +89,85 @@
     "popularityPercentile": 3.5301,
     "fanFavouriteDiscoveryScore": 6.3968,
     "fanFavouriteDiscoveryPercentile": 3.2391
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "catch",
+      "falling",
+      "star",
+      "yuseongi",
+      "naerineun",
+      "geori",
+      "r19",
+      "side",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "extra"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Supernatural",
+        "Boys Love",
+        "Romance"
+      ],
+      "titleTerms": [
+        "catch",
+        "falling",
+        "star",
+        "catch",
+        "falling",
+        "star",
+        "yuseongi",
+        "naerineun",
+        "geori"
+      ],
+      "descriptionTerms": [
+        "r19",
+        "side",
+        "catch",
+        "falling",
+        "star",
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "extra",
+        "chapter"
+      ],
+      "sourceFields": [
+        "anilist",
+        "read-en"
+      ]
+    },
+    "confidence": 0.39
   }
 }

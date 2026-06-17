@@ -56,8 +56,8 @@
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T01:13:25.723Z",
-  "mangabaka_latest_rank": 469,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 437,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kingsnal"
   ],
@@ -103,5 +103,98 @@
     "popularityPercentile": 1.8991,
     "fanFavouriteDiscoveryScore": 5.7312,
     "fanFavouriteDiscoveryPercentile": 1.7612
+  },
+  "context": {
+    "primaryProfile": "sports-career",
+    "profileGroups": [
+      "modern-korea",
+      "regression-return",
+      "sports-career"
+    ],
+    "primaryAnchors": [
+      "sports-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "sports"
+      ],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "minor",
+      "systemRole": "none"
+    },
+    "semanticSummary": "sports-career / modern-korea / reincarnation",
+    "searchKeywords": [
+      "brother",
+      "soccer",
+      "class",
+      "uri",
+      "hyeong",
+      "chukgugyosil",
+      "no-name",
+      "reborn",
+      "youngest",
+      "son",
+      "hero",
+      "cha",
+      "seong-gye",
+      "naver",
+      "translated"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Male Lead",
+        "Fantasy",
+        "Drama",
+        "Sports",
+        "Football",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "brother",
+        "soccer",
+        "class",
+        "uri",
+        "hyeong",
+        "chukgugyosil",
+        "uri",
+        "hyeong",
+        "chukgugyosil"
+      ],
+      "descriptionTerms": [
+        "soccer",
+        "no-name",
+        "reborn",
+        "youngest",
+        "son",
+        "soccer",
+        "hero",
+        "cha",
+        "seong-gye",
+        "naver",
+        "translated"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.67
   }
 }

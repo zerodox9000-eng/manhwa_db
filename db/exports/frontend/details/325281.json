@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:45:01.177Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-02T17:20:31.007Z",
-  "mangabaka_latest_rank": 3876,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3841,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Yeoyu"
   ],
@@ -74,5 +74,58 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / school",
+    "searchKeywords": [
+      "pure",
+      "rendezvous"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Comedy",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "pure",
+        "rendezvous",
+        "pure",
+        "rendezvous"
+      ],
+      "descriptionTerms": [],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.46
   }
 }

@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-02T14:47:43.986Z",
-  "mangabaka_latest_rank": 8664,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8601,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Yakwang Dots"
   ],
@@ -81,5 +81,63 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "crash",
+      "landing",
+      "boy",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Sci-Fi",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "crash",
+        "landing",
+        "boy",
+        "crash",
+        "landing",
+        "boy"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.46
   }
 }

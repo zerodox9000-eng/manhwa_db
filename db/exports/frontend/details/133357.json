@@ -42,8 +42,8 @@
   "first_seen_at": "2026-06-10T15:38:39.046Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-12T23:26:34.906Z",
-  "mangabaka_latest_rank": 6505,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6451,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Heung-A Sim"
   ],
@@ -80,5 +80,105 @@
     "popularityPercentile": 12.6809,
     "fanFavouriteDiscoveryScore": 11.1374,
     "fanFavouriteDiscoveryPercentile": 11.4557
+  },
+  "context": {
+    "primaryProfile": "food-career",
+    "profileGroups": [
+      "food-career"
+    ],
+    "primaryAnchors": [
+      "food-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [
+        "food"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "food-career",
+    "searchKeywords": [
+      "cafe",
+      "bomun-eul",
+      "butakaeyo",
+      "guest",
+      "becomes",
+      "owner",
+      "take",
+      "care",
+      "caf",
+      "bomun",
+      "seon-hwa",
+      "discouraged",
+      "because",
+      "opened",
+      "several",
+      "days",
+      "until",
+      "sister",
+      "appears",
+      "dream",
+      "gives"
+    ],
+    "evidence": {
+      "tags": [
+        "Cooking",
+        "Gourmet",
+        "Slice of Life",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "cafe",
+        "bomun-eul",
+        "butakaeyo",
+        "cafe",
+        "bomun-eul",
+        "butakaeyo",
+        "cafe",
+        "bomun-eul",
+        "butakaeyo"
+      ],
+      "descriptionTerms": [
+        "guest",
+        "becomes",
+        "owner",
+        "owner",
+        "becomes",
+        "guest",
+        "take",
+        "care",
+        "caf",
+        "bomun",
+        "seon-hwa",
+        "discouraged",
+        "because",
+        "caf",
+        "bomun",
+        "opened",
+        "several",
+        "days",
+        "until",
+        "owner",
+        "sister",
+        "appears",
+        "dream",
+        "gives"
+      ],
+      "sourceFields": [
+        "anilist"
+      ]
+    },
+    "confidence": 0.48
   }
 }

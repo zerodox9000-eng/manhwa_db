@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:45:01.177Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-02T17:19:51.571Z",
-  "mangabaka_latest_rank": 3884,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3849,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hayeong"
   ],
@@ -73,5 +73,64 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / school",
+    "searchKeywords": [
+      "two",
+      "job",
+      "magical",
+      "boy"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "two",
+        "job",
+        "magical",
+        "boy",
+        "two",
+        "job",
+        "magical",
+        "boy"
+      ],
+      "descriptionTerms": [],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.45
   }
 }

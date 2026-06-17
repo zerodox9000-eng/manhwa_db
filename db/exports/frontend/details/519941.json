@@ -101,8 +101,8 @@
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T12:53:57.388Z",
-  "mangabaka_latest_rank": 1877,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1846,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "LM-jelly"
   ],
@@ -142,5 +142,107 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "regression-return",
+    "profileGroups": [
+      "regression-return",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "system"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "major"
+    },
+    "semanticSummary": "regression-return / school / system",
+    "searchKeywords": [
+      "switch",
+      "season",
+      "taking",
+      "time",
+      "off",
+      "henry",
+      "returns",
+      "school",
+      "reunites",
+      "mina",
+      "freshman",
+      "works",
+      "yenny",
+      "surprises",
+      "bold",
+      "request",
+      "portuguese",
+      "french",
+      "german",
+      "japanese",
+      "thai"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "School",
+        "Harem",
+        "Adult",
+        "Smut",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "switch",
+        "season",
+        "switch",
+        "season"
+      ],
+      "descriptionTerms": [
+        "taking",
+        "time",
+        "off",
+        "henry",
+        "returns",
+        "school",
+        "reunites",
+        "mina",
+        "freshman",
+        "works",
+        "yenny",
+        "surprises",
+        "bold",
+        "request",
+        "portuguese",
+        "french",
+        "german",
+        "japanese",
+        "thai"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.58
   }
 }

@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-26T11:45:16.375Z",
-  "mangabaka_latest_rank": 4159,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4124,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Lee Yi Young"
   ],
@@ -79,5 +79,110 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "regression-return",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "regression"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "minor",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea / school / regression",
+    "searchKeywords": [
+      "wind",
+      "blows",
+      "overhead",
+      "original",
+      "webtoon",
+      "daum",
+      "kakaopage",
+      "before",
+      "20-year-old",
+      "spring",
+      "comes",
+      "two",
+      "years",
+      "later",
+      "met",
+      "bae",
+      "yeon-jae",
+      "good",
+      "appearance",
+      "personality",
+      "smooth",
+      "without",
+      "worrying",
+      "proper",
+      "meet"
+    ],
+    "evidence": {
+      "tags": [
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "wind",
+        "blows",
+        "overhead",
+        "wind",
+        "blows",
+        "overhead"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "daum",
+        "kakaopage",
+        "before",
+        "20-year-old",
+        "spring",
+        "comes",
+        "two",
+        "years",
+        "later",
+        "met",
+        "bae",
+        "yeon-jae",
+        "good",
+        "appearance",
+        "good",
+        "personality",
+        "smooth",
+        "without",
+        "worrying",
+        "proper",
+        "personality",
+        "meet"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.58
   }
 }

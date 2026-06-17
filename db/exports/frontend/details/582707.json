@@ -70,8 +70,8 @@
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T15:20:17.771Z",
-  "mangabaka_latest_rank": 661,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 630,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Haesol Jung",
     "Yeong-Ju Kang"
@@ -117,5 +117,121 @@
     "popularityPercentile": 30.2014,
     "fanFavouriteDiscoveryScore": 45.5902,
     "fanFavouriteDiscoveryPercentile": 52.1173
+  },
+  "context": {
+    "primaryProfile": "medical-career",
+    "profileGroups": [
+      "medical-career",
+      "modern-korea",
+      "romance-core",
+      "sports-career"
+    ],
+    "primaryAnchors": [
+      "medical-career",
+      "sports-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "medical"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "medical"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "medical-career / modern-korea / medical",
+    "searchKeywords": [
+      "emergency",
+      "blind",
+      "date",
+      "eunggeup",
+      "matseon",
+      "went",
+      "stand-in",
+      "older",
+      "sister",
+      "find",
+      "man",
+      "supervising",
+      "professor",
+      "university",
+      "hospital",
+      "jeong",
+      "dasom",
+      "agreed",
+      "take",
+      "place",
+      "small",
+      "allowance",
+      "300",
+      "000"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Heterosexual",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "emergency",
+        "blind",
+        "date",
+        "eunggeup",
+        "matseon",
+        "eunggeup",
+        "matseon"
+      ],
+      "descriptionTerms": [
+        "went",
+        "blind",
+        "date",
+        "stand-in",
+        "older",
+        "sister",
+        "find",
+        "man",
+        "supervising",
+        "professor",
+        "university",
+        "hospital",
+        "jeong",
+        "dasom",
+        "agreed",
+        "take",
+        "sister",
+        "place",
+        "blind",
+        "date",
+        "small",
+        "allowance",
+        "300",
+        "000"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.82
   }
 }

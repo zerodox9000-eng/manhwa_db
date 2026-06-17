@@ -121,8 +121,8 @@
   "first_seen_at": "2026-06-10T15:38:39.044Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-13T16:42:32.291Z",
-  "mangabaka_latest_rank": 6374,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6320,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Cookie Moon"
   ],
@@ -172,5 +172,102 @@
     "popularityPercentile": 16.5633,
     "fanFavouriteDiscoveryScore": 13.5671,
     "fanFavouriteDiscoveryPercentile": 14.825
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "system"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "major"
+    },
+    "semanticSummary": "romance-core / system",
+    "searchKeywords": [
+      "tracy",
+      "perfect",
+      "married",
+      "taejoo",
+      "marriage",
+      "goes",
+      "blind",
+      "date",
+      "every",
+      "saturday",
+      "because",
+      "getting",
+      "seems",
+      "way",
+      "solve",
+      "problems",
+      "question",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Female Lead",
+        "Transgender",
+        "Drama",
+        "LGBTQ+",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "tracy",
+        "perfect",
+        "married",
+        "tracy",
+        "perfect",
+        "married",
+        "taejoo",
+        "perfect",
+        "marriage"
+      ],
+      "descriptionTerms": [
+        "tracy",
+        "goes",
+        "blind",
+        "date",
+        "every",
+        "saturday",
+        "because",
+        "getting",
+        "married",
+        "seems",
+        "way",
+        "solve",
+        "problems",
+        "question",
+        "toomics"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.44
   }
 }

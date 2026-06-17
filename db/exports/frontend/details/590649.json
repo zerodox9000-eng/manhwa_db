@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-17T05:37:15.850Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-17T02:06:32.167Z",
-  "mangabaka_latest_rank": 1,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hyeon-U 001",
     "stu. funistrada"
@@ -90,5 +90,132 @@
     "popularityPercentile": 0.1302,
     "fanFavouriteDiscoveryScore": 5.0716,
     "fanFavouriteDiscoveryPercentile": 0.1302
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [
+        "comedic"
+      ],
+      "worldType": [
+        "modern-urban",
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "chairman",
+      "wants",
+      "live",
+      "leisure",
+      "nolgomeokgo",
+      "sipeun",
+      "hoejangnim",
+      "hyeon",
+      "sang-yun",
+      "third-generation",
+      "heir",
+      "conglomerate",
+      "dreams",
+      "carefree",
+      "unemployed",
+      "slacker",
+      "while",
+      "owning",
+      "buildings",
+      "gangnam",
+      "make",
+      "happen",
+      "needs",
+      "slip",
+      "under",
+      "radar",
+      "plans",
+      "escape",
+      "company",
+      "causing"
+    ],
+    "evidence": {
+      "tags": [
+        "Male Lead",
+        "Fantasy",
+        "Comedy",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "chairman",
+        "wants",
+        "live",
+        "leisure",
+        "nolgomeokgo",
+        "sipeun",
+        "hoejangnim",
+        "nolgomeokgo",
+        "sipeun",
+        "hoejangnim"
+      ],
+      "descriptionTerms": [
+        "hyeon",
+        "sang-yun",
+        "third-generation",
+        "heir",
+        "conglomerate",
+        "dreams",
+        "carefree",
+        "unemployed",
+        "slacker",
+        "while",
+        "owning",
+        "buildings",
+        "gangnam",
+        "make",
+        "happen",
+        "needs",
+        "slip",
+        "under",
+        "chairman",
+        "radar",
+        "plans",
+        "escape",
+        "company",
+        "causing"
+      ],
+      "sourceFields": [
+        "anilist"
+      ]
+    },
+    "confidence": 0.87
   }
 }

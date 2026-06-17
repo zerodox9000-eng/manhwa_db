@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:42:16.190Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-26T12:53:23.628Z",
-  "mangabaka_latest_rank": 4143,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4108,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Cho Yoonseo"
   ],
@@ -87,5 +87,84 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "taming",
+      "ceo",
+      "original",
+      "webtoon",
+      "kakaopage",
+      "ridibooks",
+      "naver",
+      "series",
+      "mootoon",
+      "qtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "taming",
+        "ceo",
+        "taming",
+        "ceo"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "kakaopage",
+        "ridibooks",
+        "naver",
+        "series",
+        "mootoon",
+        "qtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.98
   }
 }

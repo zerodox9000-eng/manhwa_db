@@ -65,8 +65,8 @@
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T01:08:58.130Z",
-  "mangabaka_latest_rank": 8075,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8012,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Saengjwi"
   ],
@@ -111,5 +111,88 @@
     "popularityPercentile": 19.2511,
     "fanFavouriteDiscoveryScore": 15.3233,
     "fanFavouriteDiscoveryPercentile": 16.9385
+  },
+  "context": {
+    "primaryProfile": "horror-survival",
+    "profileGroups": [
+      "horror-survival",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "survival",
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "dark",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "horror-survival",
+    "searchKeywords": [
+      "newlywed",
+      "zombies",
+      "sinhon",
+      "zombie",
+      "take",
+      "peek",
+      "diary",
+      "normal",
+      "couple",
+      "adrian",
+      "olivia",
+      "daycomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Heterosexual",
+        "Supernatural",
+        "Zombies",
+        "Comedy",
+        "Surreal Comedy",
+        "Horror",
+        "Romance",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "newlywed",
+        "zombies",
+        "newlywed",
+        "zombies",
+        "sinhon",
+        "zombie"
+      ],
+      "descriptionTerms": [
+        "take",
+        "peek",
+        "diary",
+        "normal",
+        "zombie",
+        "couple",
+        "adrian",
+        "olivia",
+        "daycomics"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "read-en"
+      ]
+    },
+    "confidence": 0.59
   }
 }

@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:38:39.046Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2025-09-13T15:05:13.830Z",
-  "mangabaka_latest_rank": 2104,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 2073,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [],
   "artists": [],
   "links": {
@@ -72,5 +72,82 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [
+        "survival"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / hunter-system",
+    "searchKeywords": [
+      "dungeon",
+      "survival",
+      "contestants",
+      "compete",
+      "game",
+      "work",
+      "upgrading",
+      "altogether",
+      "claim",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Dungeon",
+        "Fantasy",
+        "Fantasy World",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "dungeon",
+        "survival",
+        "dungeon",
+        "survival"
+      ],
+      "descriptionTerms": [
+        "contestants",
+        "compete",
+        "survival",
+        "game",
+        "work",
+        "upgrading",
+        "dungeon",
+        "altogether",
+        "claim",
+        "toomics"
+      ],
+      "sourceFields": [
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.5
   }
 }

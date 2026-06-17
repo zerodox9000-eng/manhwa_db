@@ -59,8 +59,8 @@
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-04T09:03:54.286Z",
-  "mangabaka_latest_rank": 3558,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3523,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Choi Gi-Eok"
   ],
@@ -94,5 +94,114 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "korean-corporate-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "regression-return",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [
+        "regression"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "minor",
+      "systemRole": "none"
+    },
+    "semanticSummary": "korean-corporate-regression / modern-korea / regression",
+    "searchKeywords": [
+      "heart-stealing",
+      "love",
+      "original",
+      "webtoon",
+      "r19",
+      "naver",
+      "series",
+      "kakaopage",
+      "ridibooks",
+      "bomtoon",
+      "lezhin",
+      "mrblue",
+      "bookcube",
+      "comico",
+      "r15",
+      "official",
+      "translations",
+      "japanese"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "heart-stealing",
+        "love",
+        "heart-stealing",
+        "love"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "r19",
+        "naver",
+        "series",
+        "kakaopage",
+        "ridibooks",
+        "bomtoon",
+        "lezhin",
+        "mrblue",
+        "bookcube",
+        "comico",
+        "r15",
+        "naver",
+        "series",
+        "kakaopage",
+        "ridibooks",
+        "bomtoon",
+        "mrblue",
+        "bookcube",
+        "comico",
+        "official",
+        "translations",
+        "japanese"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

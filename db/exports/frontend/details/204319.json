@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:37:33.830Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-14T21:09:17.002Z",
-  "mangabaka_latest_rank": 5108,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 5063,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Baek Jong-in"
   ],
@@ -80,5 +80,84 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea",
+    "searchKeywords": [
+      "red",
+      "thread",
+      "moon",
+      "original",
+      "webtoon",
+      "kakaopage",
+      "naver",
+      "series",
+      "mrblue",
+      "onestory",
+      "nate",
+      "official",
+      "translations",
+      "japanese"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Fantasy",
+        "Romance"
+      ],
+      "titleTerms": [
+        "red",
+        "thread",
+        "moon",
+        "red",
+        "thread",
+        "moon"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "kakaopage",
+        "naver",
+        "series",
+        "mrblue",
+        "onestory",
+        "nate",
+        "official",
+        "translations",
+        "japanese"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.45
   }
 }

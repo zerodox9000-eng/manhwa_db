@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:37:33.830Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-28T04:14:53.822Z",
-  "mangabaka_latest_rank": 5075,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 5030,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kim Jin-Wook",
     "Lee Won-Wook"
@@ -75,5 +75,77 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "horror-survival",
+    "profileGroups": [
+      "horror-survival",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "survival"
+      ],
+      "progressionType": [],
+      "tone": [
+        "dark"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "horror-survival / modern-korea",
+    "searchKeywords": [
+      "speed",
+      "darkness",
+      "original",
+      "webtoon",
+      "ktoon",
+      "naver",
+      "series",
+      "kakaopage",
+      "mootoon",
+      "qtoon",
+      "blice"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Drama",
+        "Horror"
+      ],
+      "titleTerms": [
+        "speed",
+        "darkness",
+        "speed",
+        "darkness"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "ktoon",
+        "naver",
+        "series",
+        "kakaopage",
+        "mootoon",
+        "qtoon",
+        "blice"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

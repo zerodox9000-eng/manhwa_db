@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-26T12:21:55.875Z",
-  "mangabaka_latest_rank": 8912,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8844,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Geuncheong"
   ],
@@ -75,5 +75,67 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / school",
+    "searchKeywords": [
+      "love",
+      "triangle",
+      "uncertainty",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Shounen Ai",
+        "Drama",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "love",
+        "triangle",
+        "uncertainty",
+        "love",
+        "triangle",
+        "uncertainty"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

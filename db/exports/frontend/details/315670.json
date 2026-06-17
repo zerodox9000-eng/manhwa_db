@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:42:16.190Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-28T12:18:01.947Z",
-  "mangabaka_latest_rank": 4086,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4051,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hwang Ji-seong"
   ],
@@ -82,5 +82,74 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "sports-career",
+    "profileGroups": [
+      "modern-korea",
+      "school-life",
+      "sports-career"
+    ],
+    "primaryAnchors": [
+      "sports-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "sports"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "sports-career / modern-korea / school",
+    "searchKeywords": [
+      "pitch",
+      "queen",
+      "mound",
+      "original",
+      "webtoon",
+      "lezhin",
+      "kakaopage"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "School",
+        "Drama",
+        "School Life",
+        "Sports"
+      ],
+      "titleTerms": [
+        "pitch",
+        "queen",
+        "mound",
+        "pitch",
+        "queen",
+        "mound"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "lezhin",
+        "kakaopage"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.63
   }
 }

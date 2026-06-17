@@ -70,8 +70,8 @@
   "first_seen_at": "2026-06-10T15:41:08.379Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T00:24:45.176Z",
-  "mangabaka_latest_rank": 9213,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9135,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Yeoro"
   ],
@@ -115,5 +115,77 @@
     "popularityPercentile": 21.2727,
     "fanFavouriteDiscoveryScore": 16.6546,
     "fanFavouriteDiscoveryPercentile": 18.4088
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "leewol",
+      "graduation",
+      "iworui",
+      "joreopsik",
+      "chapter",
+      "count",
+      "includes",
+      "two",
+      "special",
+      "chapters"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Supernatural",
+        "Boys Love",
+        "Shounen Ai",
+        "Yaoi",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "leewol",
+        "graduation",
+        "iworui",
+        "joreopsik",
+        "iworui",
+        "joreopsik"
+      ],
+      "descriptionTerms": [
+        "chapter",
+        "count",
+        "includes",
+        "two",
+        "special",
+        "chapters"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.42
   }
 }

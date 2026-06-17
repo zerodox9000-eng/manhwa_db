@@ -63,8 +63,8 @@
   "first_seen_at": "2026-06-10T15:42:16.190Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-12T01:23:03.124Z",
-  "mangabaka_latest_rank": 8018,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 7955,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Seo-Gak"
   ],
@@ -110,5 +110,110 @@
     "popularityPercentile": 13.416,
     "fanFavouriteDiscoveryScore": 11.5833,
     "fanFavouriteDiscoveryPercentile": 12.0836
+  },
+  "context": {
+    "primaryProfile": "korean-corporate-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "modern-workplace",
+      "regression-return"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "regression"
+      ],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "dark"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "minor",
+      "regressionRole": "minor",
+      "systemRole": "none"
+    },
+    "semanticSummary": "korean-corporate-regression / modern-korea / corporate-workplace / regression",
+    "searchKeywords": [
+      "innocent",
+      "gyeolbaekan",
+      "sarameun",
+      "eopda",
+      "child",
+      "disappeared",
+      "years",
+      "ago",
+      "returned",
+      "psychological",
+      "investigation",
+      "disappearance",
+      "police",
+      "officer",
+      "superpowers",
+      "naver",
+      "translated"
+    ],
+    "evidence": {
+      "tags": [
+        "Police",
+        "Supernatural",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Super Powers",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "innocent",
+        "gyeolbaekan",
+        "sarameun",
+        "eopda",
+        "gyeolbaekan",
+        "sarameun",
+        "eopda"
+      ],
+      "descriptionTerms": [
+        "child",
+        "disappeared",
+        "years",
+        "ago",
+        "returned",
+        "psychological",
+        "investigation",
+        "disappearance",
+        "child",
+        "police",
+        "officer",
+        "superpowers",
+        "naver",
+        "translated"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

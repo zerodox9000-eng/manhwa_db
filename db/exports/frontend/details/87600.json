@@ -46,7 +46,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-23T13:42:41.694Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Galgolidal"
   ],
@@ -81,5 +81,63 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / school",
+    "searchKeywords": [
+      "berry",
+      "very",
+      "much"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Shounen Ai",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "berry",
+        "very",
+        "much",
+        "berry",
+        "very",
+        "much",
+        "berry",
+        "very",
+        "much"
+      ],
+      "descriptionTerms": [],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.46
   }
 }

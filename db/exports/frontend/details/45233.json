@@ -57,7 +57,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-29T09:38:09.586Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "In-Jeong Kim"
   ],
@@ -101,5 +101,79 @@
     "popularityPercentile": 17.7349,
     "fanFavouriteDiscoveryScore": 14.3283,
     "fanFavouriteDiscoveryPercentile": 15.7516
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / school",
+    "searchKeywords": [
+      "flower",
+      "kkotgateun",
+      "insaeng",
+      "four",
+      "women",
+      "college",
+      "seniors",
+      "loves",
+      "lives"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "School Life",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "flower",
+        "kkotgateun",
+        "insaeng",
+        "kkotgateun",
+        "insaeng"
+      ],
+      "descriptionTerms": [
+        "four",
+        "women",
+        "college",
+        "seniors",
+        "four",
+        "loves",
+        "four",
+        "lives"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.49
   }
 }

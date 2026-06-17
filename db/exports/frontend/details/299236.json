@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:39:19.584Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-04T02:44:44.283Z",
-  "mangabaka_latest_rank": 4488,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4453,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Sajasom"
   ],
@@ -82,5 +82,60 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "sns",
+      "vampire",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "Supernatural",
+        "Comedy",
+        "Drama",
+        "Slice of Life"
+      ],
+      "titleTerms": [
+        "sns",
+        "vampire",
+        "sns",
+        "vampire",
+        "sns"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.4
   }
 }

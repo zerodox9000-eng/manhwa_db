@@ -84,8 +84,8 @@
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T12:13:38.793Z",
-  "mangabaka_latest_rank": 519,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 487,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "HwangM",
     "Tarakgamja"
@@ -134,5 +134,93 @@
     "popularityPercentile": 17.7349,
     "fanFavouriteDiscoveryScore": 14.3283,
     "fanFavouriteDiscoveryPercentile": 15.7516
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / hunter-system",
+    "searchKeywords": [
+      "dungeon",
+      "childhood",
+      "friend",
+      "sokkupchinguwa",
+      "deonjeoneseo",
+      "play",
+      "danpyeonseon",
+      "note",
+      "part",
+      "playtoon",
+      "collection"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Heterosexual",
+        "Fantasy",
+        "Dubious Consent",
+        "Adult",
+        "Smut",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "dungeon",
+        "childhood",
+        "friend",
+        "sokkupchinguwa",
+        "deonjeoneseo",
+        "play",
+        "danpyeonseon",
+        "sokkupchinguwa",
+        "deonjeoneseo"
+      ],
+      "descriptionTerms": [
+        "note",
+        "part",
+        "playtoon",
+        "play",
+        "danpyeonseon",
+        "collection"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.62
   }
 }

@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T10:51:07.046Z",
-  "mangabaka_latest_rank": 6569,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6510,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kar",
     "TP"
@@ -100,5 +100,73 @@
     "popularityPercentile": 51.566,
     "fanFavouriteDiscoveryScore": 76.2511,
     "fanFavouriteDiscoveryPercentile": 83.9957
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "underdog",
+      "connection",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "prologue"
+    ],
+    "evidence": {
+      "tags": [
+        "Based on a Novel",
+        "Boys Love",
+        "Yaoi",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "underdog",
+        "connection",
+        "underdog",
+        "connection",
+        "underdog",
+        "connection"
+      ],
+      "descriptionTerms": [
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "prologue"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.43
   }
 }

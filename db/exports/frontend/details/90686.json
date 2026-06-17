@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-30T14:10:13.437Z",
-  "mangabaka_latest_rank": 9844,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9766,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Cat Food",
     "Dobin"
@@ -85,5 +85,133 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "food-career",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core",
+      "showbiz-career"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "food-career",
+      "korean-business",
+      "showbiz-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "showbiz"
+      ],
+      "premiseMechanic": [
+        "system"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "major"
+    },
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace / system",
+    "searchKeywords": [
+      "your",
+      "fan",
+      "national",
+      "star",
+      "seulchan",
+      "leader",
+      "idol",
+      "group",
+      "able",
+      "maintain",
+      "position",
+      "top",
+      "actor",
+      "show",
+      "host",
+      "through",
+      "handsome",
+      "looks",
+      "quick",
+      "judgment",
+      "skills",
+      "instead",
+      "given",
+      "age",
+      "actress"
+    ],
+    "evidence": {
+      "tags": [
+        "Acting",
+        "Shoujo",
+        "Idols",
+        "Mature Romance",
+        "Music",
+        "Romance",
+        "Showbiz",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "your",
+        "fan",
+        "your",
+        "fan"
+      ],
+      "descriptionTerms": [
+        "national",
+        "star",
+        "seulchan",
+        "leader",
+        "idol",
+        "group",
+        "able",
+        "maintain",
+        "position",
+        "top",
+        "actor",
+        "show",
+        "host",
+        "through",
+        "handsome",
+        "looks",
+        "quick",
+        "judgment",
+        "skills",
+        "instead",
+        "skills",
+        "given",
+        "age",
+        "actress"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 1
   }
 }

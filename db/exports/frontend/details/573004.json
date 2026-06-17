@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-14T17:52:28.712Z",
-  "mangabaka_latest_rank": 1074,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1043,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kim Eunwon"
   ],
@@ -79,5 +79,100 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "euro-fantasy",
+    "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "kingdom-fantasy"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
+    "searchKeywords": [
+      "monporte",
+      "royal",
+      "family",
+      "scandal",
+      "princess",
+      "charlotte",
+      "marry",
+      "gloria",
+      "empire",
+      "third",
+      "prince",
+      "shocks",
+      "everyone",
+      "suddenly",
+      "kisses",
+      "knight",
+      "guarding",
+      "alex",
+      "moltke"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Shoujo Ai",
+        "Yuri",
+        "Romance"
+      ],
+      "titleTerms": [
+        "monporte",
+        "royal",
+        "family",
+        "scandal",
+        "monporte",
+        "royal",
+        "family",
+        "scandal"
+      ],
+      "descriptionTerms": [
+        "princess",
+        "charlotte",
+        "monporte",
+        "marry",
+        "gloria",
+        "empire",
+        "third",
+        "prince",
+        "shocks",
+        "everyone",
+        "suddenly",
+        "kisses",
+        "knight",
+        "guarding",
+        "alex",
+        "moltke"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.62
   }
 }

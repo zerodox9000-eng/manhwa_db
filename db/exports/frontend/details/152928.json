@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:39:19.584Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-12T23:53:29.959Z",
-  "mangabaka_latest_rank": 6323,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6269,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Dooms"
   ],
@@ -94,5 +94,96 @@
     "popularityPercentile": 10.4832,
     "fanFavouriteDiscoveryScore": 9.8541,
     "fanFavouriteDiscoveryPercentile": 9.549
+  },
+  "context": {
+    "primaryProfile": "korean-corporate-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "regression-return",
+      "school-life"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "korean-corporate-regression / modern-korea / school",
+    "searchKeywords": [
+      "unwanted",
+      "chaebol",
+      "returns",
+      "time",
+      "high",
+      "school",
+      "naver",
+      "translated",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "prologue"
+    ],
+    "evidence": {
+      "tags": [
+        "Male Lead",
+        "School",
+        "Time Manipulation",
+        "Fantasy",
+        "Action",
+        "Drama",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "unwanted",
+        "unwanted",
+        "unwanted"
+      ],
+      "descriptionTerms": [
+        "chaebol",
+        "returns",
+        "time",
+        "high",
+        "school",
+        "naver",
+        "translated",
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "prologue"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

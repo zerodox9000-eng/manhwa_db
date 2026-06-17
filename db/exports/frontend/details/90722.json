@@ -56,8 +56,8 @@
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-09T04:31:22.935Z",
-  "mangabaka_latest_rank": 9810,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9732,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Heung-Yong Park"
   ],
@@ -101,5 +101,124 @@
     "popularityPercentile": 0.4059,
     "fanFavouriteDiscoveryScore": 5.1702,
     "fanFavouriteDiscoveryPercentile": 0.3905
+  },
+  "context": {
+    "primaryProfile": "korean-corporate-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "modern-workplace",
+      "regression-return"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "system"
+      ],
+      "conflictType": [],
+      "progressionType": [
+        "career-growth",
+        "power-growth"
+      ],
+      "tone": [],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "major"
+    },
+    "semanticSummary": "korean-corporate-regression / modern-korea / system",
+    "searchKeywords": [
+      "human",
+      "too",
+      "nado",
+      "saramiya",
+      "byeong-pil",
+      "discharged",
+      "military",
+      "conflicted",
+      "whether",
+      "return",
+      "department",
+      "chosen",
+      "necessity",
+      "find",
+      "another",
+      "future",
+      "moment",
+      "receives",
+      "request",
+      "senior",
+      "friend",
+      "man-su",
+      "uncle",
+      "financial",
+      "support",
+      "family"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Male Lead",
+        "Drama",
+        "Mystery",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "human",
+        "too",
+        "nado",
+        "saramiya",
+        "nado",
+        "saramiya"
+      ],
+      "descriptionTerms": [
+        "byeong-pil",
+        "discharged",
+        "military",
+        "conflicted",
+        "whether",
+        "return",
+        "department",
+        "chosen",
+        "necessity",
+        "find",
+        "another",
+        "future",
+        "moment",
+        "receives",
+        "request",
+        "senior",
+        "friend",
+        "man-su",
+        "find",
+        "uncle",
+        "financial",
+        "support",
+        "man-su",
+        "family"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

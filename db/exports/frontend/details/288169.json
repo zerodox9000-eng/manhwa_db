@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:38:01.912Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-30T17:44:05.023Z",
-  "mangabaka_latest_rank": 4714,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4674,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Gaehoju"
   ],
@@ -74,5 +74,61 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / school",
+    "searchKeywords": [
+      "pit-a-pat",
+      "watch",
+      "original"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Comedy",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "pit-a-pat",
+        "watch",
+        "pit-a-pat",
+        "watch"
+      ],
+      "descriptionTerms": [
+        "original"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.46
   }
 }

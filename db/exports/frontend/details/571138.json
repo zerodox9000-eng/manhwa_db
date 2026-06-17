@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-08T01:35:22.124Z",
-  "mangabaka_latest_rank": 1148,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1117,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Lee Youngran"
   ],
@@ -81,5 +81,80 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea",
+    "searchKeywords": [
+      "woman",
+      "man",
+      "original",
+      "webtoon",
+      "kakaopage",
+      "naver",
+      "series",
+      "bomtoon",
+      "ridi",
+      "mrblue",
+      "mcomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Gender Bender",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "woman",
+        "man",
+        "woman",
+        "man"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "kakaopage",
+        "naver",
+        "series",
+        "bomtoon",
+        "ridi",
+        "mrblue",
+        "mcomics"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.49
   }
 }

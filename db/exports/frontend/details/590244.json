@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-12T05:27:33.596Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-16T19:36:11.425Z",
-  "mangabaka_latest_rank": 31,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Arongsing"
   ],
@@ -84,5 +84,95 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "business-career-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "school-life"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "corporate-workplace",
+        "school"
+      ],
+      "protagonistRole": [
+        "employee"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "business-career-regression / corporate-workplace / school",
+    "searchKeywords": [
+      "dog",
+      "overcoming",
+      "separation",
+      "anxiety",
+      "nae",
+      "gangaji-ui",
+      "bunriburan",
+      "geukbokgi",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Company",
+        "School",
+        "Coworker Relationships",
+        "Coworkers",
+        "Adult",
+        "Yaoi",
+        "Drama"
+      ],
+      "titleTerms": [
+        "dog",
+        "overcoming",
+        "separation",
+        "anxiety",
+        "nae",
+        "gangaji-ui",
+        "bunriburan",
+        "geukbokgi",
+        "nae",
+        "gangaji-ui",
+        "bunriburan",
+        "geukbokgi"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

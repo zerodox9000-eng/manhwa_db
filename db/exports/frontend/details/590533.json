@@ -73,8 +73,8 @@
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-16T17:16:52.055Z",
-  "mangabaka_latest_rank": 8,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Nadeuli",
     "Unjoh Eunnom"
@@ -109,5 +109,133 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "game-system",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "game-system",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [],
+      "worldType": [
+        "modern-urban",
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "minor",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "even",
+      "keeps",
+      "spending",
+      "money",
+      "accumulates",
+      "gyesok",
+      "sseodo",
+      "don-i",
+      "ssahim",
+      "era",
+      "million",
+      "people",
+      "unemployed",
+      "jung",
+      "jin",
+      "work",
+      "youth",
+      "zero",
+      "qualifications",
+      "ceo",
+      "securities",
+      "firm",
+      "happens",
+      "guild",
+      "master",
+      "online",
+      "game",
+      "suddenly",
+      "says",
+      "come",
+      "company"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "Fantasy",
+        "Drama"
+      ],
+      "titleTerms": [
+        "even",
+        "keeps",
+        "spending",
+        "money",
+        "accumulates",
+        "gyesok",
+        "sseodo",
+        "don-i",
+        "ssahim",
+        "gyesok",
+        "sseodo",
+        "don-i"
+      ],
+      "descriptionTerms": [
+        "era",
+        "million",
+        "people",
+        "unemployed",
+        "jung",
+        "jin",
+        "work",
+        "youth",
+        "zero",
+        "qualifications",
+        "ceo",
+        "securities",
+        "firm",
+        "happens",
+        "guild",
+        "master",
+        "online",
+        "game",
+        "suddenly",
+        "says",
+        "come",
+        "work",
+        "company",
+        "jin"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

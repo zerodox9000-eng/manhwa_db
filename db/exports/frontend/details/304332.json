@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:40:09.236Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-26T06:03:36.743Z",
-  "mangabaka_latest_rank": 4381,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4346,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Iromo"
   ],
@@ -80,5 +80,83 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea",
+    "searchKeywords": [
+      "waltz",
+      "flowers",
+      "original",
+      "web",
+      "ridibooks",
+      "naver",
+      "series",
+      "mrblue",
+      "bookcube",
+      "webtoon",
+      "kakaopage",
+      "lezhin"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "waltz",
+        "flowers",
+        "waltz",
+        "flowers"
+      ],
+      "descriptionTerms": [
+        "original",
+        "web",
+        "ridibooks",
+        "naver",
+        "series",
+        "mrblue",
+        "bookcube",
+        "original",
+        "webtoon",
+        "ridibooks",
+        "kakaopage",
+        "naver",
+        "series",
+        "lezhin",
+        "mrblue",
+        "bookcube"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.45
   }
 }

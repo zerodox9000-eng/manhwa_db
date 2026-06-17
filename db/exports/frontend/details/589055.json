@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T08:04:29.401Z",
-  "mangabaka_latest_rank": 134,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 102,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Nakdong Oli",
     "Pantela"
@@ -75,5 +75,132 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "korean-corporate-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "modern-workplace",
+      "regression-return"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "employee",
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "revenge"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [
+        "tense"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "korean-corporate-regression / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "chaebol",
+      "family",
+      "genius",
+      "monster",
+      "memories",
+      "intact",
+      "year",
+      "1993",
+      "begins",
+      "murdered",
+      "heir",
+      "jin-hu",
+      "wakes",
+      "body",
+      "cha",
+      "dae-woo",
+      "employee",
+      "securities",
+      "firm",
+      "possesses",
+      "perfect",
+      "recall",
+      "knows",
+      "whole",
+      "truth",
+      "people",
+      "killed"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "Supernatural",
+        "Action",
+        "Drama"
+      ],
+      "titleTerms": [
+        "chaebol",
+        "family",
+        "genius",
+        "monster",
+        "chaebol",
+        "family",
+        "genius",
+        "monster"
+      ],
+      "descriptionTerms": [
+        "memories",
+        "intact",
+        "year",
+        "1993",
+        "begins",
+        "murdered",
+        "chaebol",
+        "heir",
+        "jin-hu",
+        "wakes",
+        "body",
+        "cha",
+        "dae-woo",
+        "employee",
+        "securities",
+        "firm",
+        "possesses",
+        "perfect",
+        "recall",
+        "knows",
+        "whole",
+        "truth",
+        "people",
+        "killed"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

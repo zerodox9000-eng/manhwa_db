@@ -63,8 +63,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-10T02:00:07.436Z",
-  "mangabaka_latest_rank": 4202,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4167,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Padadak"
   ],
@@ -109,5 +109,76 @@
     "popularityPercentile": 0.804,
     "fanFavouriteDiscoveryScore": 5.3153,
     "fanFavouriteDiscoveryPercentile": 0.7658
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "song",
+      "fisherwoman",
+      "dragon",
+      "love",
+      "yongaeeobuga",
+      "original",
+      "webtoon",
+      "bomtoon",
+      "lezhin"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Fantasy",
+        "Supernatural",
+        "Romance",
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "song",
+        "fisherwoman",
+        "dragon",
+        "love",
+        "yongaeeobuga",
+        "yongaeeobuga"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "bomtoon",
+        "lezhin"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.5
   }
 }

@@ -86,8 +86,8 @@
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T03:37:48.912Z",
-  "mangabaka_latest_rank": 1927,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1896,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hyeon-Bo Jo",
     "Min-Gyu Park"
@@ -141,5 +141,128 @@
     "popularityPercentile": 87.9853,
     "fanFavouriteDiscoveryScore": 72.282,
     "fanFavouriteDiscoveryPercentile": 80.1976
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "medical-career"
+    ],
+    "primaryAnchors": [
+      "game-system",
+      "medical-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "medical"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "medical"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / medical",
+    "searchKeywords": [
+      "genius",
+      "blacksmith",
+      "game",
+      "cheonjae",
+      "daejangjangiui",
+      "hyeonsu",
+      "took",
+      "turn",
+      "worse",
+      "fire",
+      "left",
+      "covered",
+      "burns",
+      "father",
+      "hospital",
+      "family",
+      "smithy",
+      "blaze",
+      "losing",
+      "hope",
+      "friend",
+      "idea",
+      "real",
+      "why",
+      "try",
+      "ares",
+      "ai-powered",
+      "virtual"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "Male Lead",
+        "Based on a Web Novel",
+        "Blacksmiths",
+        "Fantasy",
+        "Virtual World",
+        "Action",
+        "Drama",
+        "Video Games",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "genius",
+        "blacksmith",
+        "game",
+        "genius",
+        "blacksmith",
+        "game",
+        "cheonjae",
+        "daejangjangiui",
+        "game"
+      ],
+      "descriptionTerms": [
+        "hyeonsu",
+        "took",
+        "turn",
+        "worse",
+        "fire",
+        "left",
+        "covered",
+        "burns",
+        "father",
+        "hospital",
+        "family",
+        "smithy",
+        "blaze",
+        "losing",
+        "hope",
+        "friend",
+        "idea",
+        "blacksmith",
+        "real",
+        "why",
+        "try",
+        "ares",
+        "ai-powered",
+        "virtual"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet",
+        "read-en"
+      ]
+    },
+    "confidence": 0.72
   }
 }

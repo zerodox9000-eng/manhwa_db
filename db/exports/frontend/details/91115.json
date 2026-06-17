@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:38:01.911Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-05T01:30:01.846Z",
-  "mangabaka_latest_rank": 9444,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9366,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Jeon Jae-Woon"
   ],
@@ -83,5 +83,77 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "joseon",
+      "gidamsa",
+      "temple",
+      "original",
+      "webtoon",
+      "bookcube",
+      "ridibooks",
+      "comico",
+      "onestory",
+      "nate",
+      "mootoon",
+      "qtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Drama",
+        "Historical"
+      ],
+      "titleTerms": [
+        "joseon",
+        "gidamsa",
+        "joseon",
+        "gidamsa",
+        "joseon",
+        "gidamsa",
+        "temple"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "bookcube",
+        "ridibooks",
+        "comico",
+        "onestory",
+        "nate",
+        "mootoon",
+        "qtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.41
   }
 }

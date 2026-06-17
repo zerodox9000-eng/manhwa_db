@@ -33,8 +33,8 @@
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T14:37:51.889Z",
-  "mangabaka_latest_rank": 1704,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1673,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [],
   "artists": [],
   "links": {
@@ -56,5 +56,65 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "regression-return",
+    "profileGroups": [
+      "regression-return"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "minor",
+      "systemRole": "none"
+    },
+    "semanticSummary": "regression-return / reincarnation",
+    "searchKeywords": [
+      "flower",
+      "markert",
+      "place",
+      "sell",
+      "flowers",
+      "lust",
+      "reborn",
+      "thing",
+      "left",
+      "higher"
+    ],
+    "evidence": {
+      "tags": [],
+      "titleTerms": [
+        "flower",
+        "markert",
+        "flower",
+        "markert",
+        "flower",
+        "markert"
+      ],
+      "descriptionTerms": [
+        "place",
+        "sell",
+        "flowers",
+        "lust",
+        "reborn",
+        "flower",
+        "thing",
+        "left",
+        "higher"
+      ],
+      "sourceFields": []
+    },
+    "confidence": 0.35
   }
 }

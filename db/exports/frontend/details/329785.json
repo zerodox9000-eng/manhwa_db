@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-28T04:04:30.425Z",
-  "mangabaka_latest_rank": 3718,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3683,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kang Morim",
     "Yunos"
@@ -89,5 +89,129 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "medical-career",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business",
+      "medical-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace",
+        "medical"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "bad",
+      "thing",
+      "done",
+      "boss",
+      "yerin",
+      "works",
+      "researcher",
+      "drug",
+      "development",
+      "department",
+      "pharmaceutical",
+      "company",
+      "developing",
+      "hormonal",
+      "medicine",
+      "mistake",
+      "ends",
+      "giving",
+      "infamous",
+      "seonghoon",
+      "hadn",
+      "finished",
+      "clinical",
+      "trials",
+      "yet",
+      "instead"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "bad",
+        "thing",
+        "done",
+        "boss",
+        "bad",
+        "thing",
+        "done",
+        "boss"
+      ],
+      "descriptionTerms": [
+        "yerin",
+        "works",
+        "researcher",
+        "drug",
+        "development",
+        "department",
+        "pharmaceutical",
+        "company",
+        "developing",
+        "hormonal",
+        "medicine",
+        "mistake",
+        "ends",
+        "giving",
+        "infamous",
+        "boss",
+        "seonghoon",
+        "medicine",
+        "hadn",
+        "finished",
+        "clinical",
+        "trials",
+        "yet",
+        "instead"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

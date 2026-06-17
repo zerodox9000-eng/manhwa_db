@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:43:31.414Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-08T00:44:10.857Z",
-  "mangabaka_latest_rank": 607,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 576,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kim Eon Jung"
   ],
@@ -86,5 +86,66 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "euro-fantasy",
+    "profileGroups": [
+      "euro-fantasy",
+      "school-life"
+    ],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "kingdom-fantasy",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "politics"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / school",
+    "searchKeywords": [
+      "cookie",
+      "run",
+      "kingdom",
+      "school"
+    ],
+    "evidence": {
+      "tags": [
+        "Adventure",
+        "Comedy"
+      ],
+      "titleTerms": [
+        "cookie",
+        "run",
+        "kingdom",
+        "school",
+        "cookie",
+        "run",
+        "kingdom",
+        "school"
+      ],
+      "descriptionTerms": [],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.53
   }
 }

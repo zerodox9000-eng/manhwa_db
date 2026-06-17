@@ -63,8 +63,8 @@
   "first_seen_at": "2026-06-10T15:48:24.825Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T10:41:48.509Z",
-  "mangabaka_latest_rank": 9176,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9098,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Ji-Hye U",
     "Kongjju"
@@ -114,5 +114,129 @@
     "popularityPercentile": 32.0009,
     "fanFavouriteDiscoveryScore": 44.3828,
     "fanFavouriteDiscoveryPercentile": 50.448
+  },
+  "context": {
+    "primaryProfile": "business-career-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "employee"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "business-career-regression / corporate-workplace",
+    "searchKeywords": [
+      "let",
+      "work",
+      "hoesareul",
+      "danipsida",
+      "opportunity",
+      "crisis",
+      "u-gyeong",
+      "boss",
+      "charge",
+      "team",
+      "incompetents",
+      "worst",
+      "jeong-ha",
+      "neither",
+      "passion",
+      "nor",
+      "motivation",
+      "thing",
+      "knows",
+      "answer",
+      "phone",
+      "head",
+      "brainteaser",
+      "able",
+      "give",
+      "upstart"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Office Worker",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "let",
+        "work",
+        "hoesareul",
+        "danipsida",
+        "hoesareul",
+        "danipsida"
+      ],
+      "descriptionTerms": [
+        "opportunity",
+        "crisis",
+        "u-gyeong",
+        "boss",
+        "charge",
+        "team",
+        "incompetents",
+        "worst",
+        "jeong-ha",
+        "neither",
+        "passion",
+        "nor",
+        "motivation",
+        "thing",
+        "knows",
+        "answer",
+        "phone",
+        "head",
+        "brainteaser",
+        "team",
+        "able",
+        "give",
+        "work",
+        "upstart"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 1
   }
 }

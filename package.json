@@ -9,6 +9,8 @@
     "retry": "node scripts/enrich/retryFailed.js",
     "snapshot": "node scripts/snapshots/snapshotAniList.js",
     "build:frontend": "node scripts/build/fetchMangabakaLatest.js && node scripts/build/buildFrontendExports.js",
+    "validate:frontend": "node scripts/evaluate/validateFrontendStatsExport.js",
+    "evaluate:recommendations": "node scripts/evaluate/recommendationContexts.js",
     "daily": "npm run update && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend",
     "update": "node scripts/updates/updateMangabaka.js",
     "incremental": "node scripts/updates/incrementalRawPatch.js",

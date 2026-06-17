@@ -42,8 +42,8 @@
   "first_seen_at": "2026-06-10T15:42:16.189Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-18T23:10:15.973Z",
-  "mangabaka_latest_rank": 6209,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6155,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Seok-Yeong"
   ],
@@ -79,5 +79,75 @@
     "popularityPercentile": 9.6715,
     "fanFavouriteDiscoveryScore": 9.4012,
     "fanFavouriteDiscoveryPercentile": 8.8292
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "dareumi",
+      "anira",
+      "two",
+      "stories",
+      "people",
+      "different",
+      "same",
+      "heart",
+      "end",
+      "manhwakyung",
+      "translated"
+    ],
+    "evidence": {
+      "tags": [
+        "Heterosexual",
+        "Romance",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "dareumi",
+        "anira",
+        "dareumi",
+        "anira",
+        "dareumi",
+        "anira"
+      ],
+      "descriptionTerms": [
+        "two",
+        "stories",
+        "people",
+        "different",
+        "different",
+        "same",
+        "heart",
+        "end",
+        "manhwakyung",
+        "translated"
+      ],
+      "sourceFields": [
+        "anilist"
+      ]
+    },
+    "confidence": 0.38
   }
 }

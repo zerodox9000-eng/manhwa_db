@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-27T20:05:39.946Z",
-  "mangabaka_latest_rank": 9261,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9183,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Ryeong"
   ],
@@ -87,5 +87,114 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "lady",
+      "action",
+      "woman",
+      "dream",
+      "become",
+      "top",
+      "director",
+      "blackmails",
+      "guy",
+      "past",
+      "superstar",
+      "fat",
+      "geeky",
+      "kid",
+      "order",
+      "make",
+      "come",
+      "true",
+      "yeon-jun",
+      "becoming",
+      "film",
+      "dominated"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "lady",
+        "action",
+        "lady",
+        "action"
+      ],
+      "descriptionTerms": [
+        "woman",
+        "dream",
+        "become",
+        "top",
+        "director",
+        "blackmails",
+        "guy",
+        "past",
+        "superstar",
+        "fat",
+        "geeky",
+        "kid",
+        "order",
+        "make",
+        "dream",
+        "come",
+        "true",
+        "yeon-jun",
+        "woman",
+        "dream",
+        "becoming",
+        "film",
+        "director",
+        "dominated"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.98
   }
 }

@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T01:50:33.055Z",
-  "mangabaka_latest_rank": 2065,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 2034,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Anthology"
   ],
@@ -81,5 +81,73 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "secret",
+      "taste",
+      "anthology",
+      "collection",
+      "series",
+      "published",
+      "under",
+      "theme"
+    ],
+    "evidence": {
+      "tags": [
+        "Josei",
+        "Adult",
+        "Smut",
+        "Romance"
+      ],
+      "titleTerms": [
+        "secret",
+        "taste",
+        "anthology",
+        "collection",
+        "secret",
+        "taste",
+        "anthology",
+        "collection"
+      ],
+      "descriptionTerms": [
+        "collection",
+        "series",
+        "published",
+        "under",
+        "secret",
+        "taste",
+        "anthology",
+        "theme"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.39
   }
 }

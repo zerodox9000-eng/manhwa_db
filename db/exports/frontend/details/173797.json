@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:37:33.830Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T01:32:42.763Z",
-  "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 5728,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Cheomji"
   ],
@@ -89,5 +89,100 @@
     "popularityPercentile": 25.8672,
     "fanFavouriteDiscoveryScore": 19.6081,
     "fanFavouriteDiscoveryPercentile": 21.8011
+  },
+  "context": {
+    "primaryProfile": "food-career",
+    "profileGroups": [
+      "food-career",
+      "school-life"
+    ],
+    "primaryAnchors": [
+      "food-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "food"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "comedic"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "food-career / school",
+    "searchKeywords": [
+      "sizzling",
+      "chop",
+      "bogeulbogeul",
+      "chabchab",
+      "eat",
+      "delicious",
+      "food",
+      "well",
+      "glad",
+      "alive",
+      "mouthful",
+      "fill",
+      "your",
+      "everyday",
+      "happiness"
+    ],
+    "evidence": {
+      "tags": [
+        "Cooking",
+        "Primarily Female Cast",
+        "College",
+        "Comedy",
+        "Gourmet",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "sizzling",
+        "chop",
+        "chop",
+        "bogeulbogeul",
+        "chabchab",
+        "bogeulbogeul",
+        "chabchab"
+      ],
+      "descriptionTerms": [
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "eat",
+        "delicious",
+        "food",
+        "well",
+        "glad",
+        "alive",
+        "delicious",
+        "mouthful",
+        "fill",
+        "your",
+        "everyday",
+        "happiness"
+      ],
+      "sourceFields": [
+        "anilist"
+      ]
+    },
+    "confidence": 0.57
   }
 }

@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:38:39.045Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T23:59:18.433Z",
-  "mangabaka_latest_rank": 5791,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 5742,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Ui Yeoung"
   ],
@@ -92,5 +92,74 @@
     "popularityPercentile": 16.0655,
     "fanFavouriteDiscoveryScore": 13.2467,
     "fanFavouriteDiscoveryPercentile": 14.4268
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "without",
+      "word",
+      "amureon",
+      "maldo",
+      "eopsi",
+      "note",
+      "includes",
+      "three",
+      "extra",
+      "chapters"
+    ],
+    "evidence": {
+      "tags": [
+        "Boys Love",
+        "Shounen Ai",
+        "Drama",
+        "Romance",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "without",
+        "word",
+        "amureon",
+        "maldo",
+        "eopsi",
+        "amureon",
+        "maldo",
+        "eopsi"
+      ],
+      "descriptionTerms": [
+        "note",
+        "includes",
+        "three",
+        "extra",
+        "chapters"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.4
   }
 }

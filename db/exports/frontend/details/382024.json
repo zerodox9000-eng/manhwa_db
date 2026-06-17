@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:40:09.235Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2025-09-02T03:04:45.623Z",
-  "mangabaka_latest_rank": 2309,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 2278,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [],
   "artists": [],
   "links": {
@@ -73,5 +73,87 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "euro-fantasy",
+    "profileGroups": [
+      "euro-fantasy",
+      "school-life"
+    ],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "kingdom-fantasy",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "politics"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / school",
+    "searchKeywords": [
+      "animal",
+      "kingdom",
+      "tamer",
+      "tames",
+      "half",
+      "evan",
+      "choose",
+      "two",
+      "halfs",
+      "among",
+      "classmates",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Animal Characteristics",
+        "School",
+        "Comedy",
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "animal",
+        "kingdom",
+        "animal",
+        "kingdom"
+      ],
+      "descriptionTerms": [
+        "tamer",
+        "tames",
+        "half",
+        "evan",
+        "choose",
+        "two",
+        "halfs",
+        "among",
+        "classmates",
+        "toomics"
+      ],
+      "sourceFields": [
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.58
   }
 }

@@ -77,8 +77,8 @@
   "first_seen_at": "2026-06-10T15:43:31.413Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-23T06:14:19.823Z",
-  "mangabaka_latest_rank": 8505,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8442,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Seong-Yong Park"
   ],
@@ -121,5 +121,87 @@
     "popularityPercentile": 7.1522,
     "fanFavouriteDiscoveryScore": 8.0753,
     "fanFavouriteDiscoveryPercentile": 6.5778
+  },
+  "context": {
+    "primaryProfile": "horror-survival",
+    "profileGroups": [
+      "horror-survival"
+    ],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "survival"
+      ],
+      "progressionType": [],
+      "tone": [
+        "dark"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "horror-survival",
+    "searchKeywords": [
+      "monster",
+      "isolation",
+      "gyeongniimul",
+      "survival",
+      "man",
+      "woman",
+      "kidnapped",
+      "secret",
+      "organization",
+      "escaping",
+      "quarantine",
+      "facility",
+      "full",
+      "monsters",
+      "manhwakyung",
+      "translated"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Supernatural",
+        "Action",
+        "Drama",
+        "Horror",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "monster",
+        "isolation",
+        "gyeongniimul",
+        "gyeongniimul"
+      ],
+      "descriptionTerms": [
+        "survival",
+        "man",
+        "woman",
+        "kidnapped",
+        "secret",
+        "organization",
+        "escaping",
+        "quarantine",
+        "facility",
+        "full",
+        "monsters",
+        "manhwakyung",
+        "translated"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.5
   }
 }

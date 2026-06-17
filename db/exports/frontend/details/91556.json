@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:38:39.045Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-19T09:15:39.202Z",
-  "mangabaka_latest_rank": 9036,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8963,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [],
   "artists": [],
   "links": {
@@ -82,5 +82,92 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "sports-career",
+    "profileGroups": [
+      "sports-career"
+    ],
+    "primaryAnchors": [
+      "sports-career"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [
+        "sports"
+      ],
+      "premiseMechanic": [
+        "system"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "major"
+    },
+    "semanticSummary": "sports-career / system",
+    "searchKeywords": [
+      "love",
+      "kwon",
+      "oh-jun",
+      "jun",
+      "jun-kwon",
+      "join",
+      "trent",
+      "gang",
+      "quest",
+      "become",
+      "best",
+      "table",
+      "tennis",
+      "team",
+      "nation",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Drama",
+        "Sports",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "love",
+        "kwon",
+        "oh-jun",
+        "love",
+        "jun",
+        "kwon",
+        "love",
+        "jun-kwon"
+      ],
+      "descriptionTerms": [
+        "join",
+        "trent",
+        "gang",
+        "quest",
+        "become",
+        "best",
+        "table",
+        "tennis",
+        "team",
+        "nation",
+        "toomics"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.49
   }
 }

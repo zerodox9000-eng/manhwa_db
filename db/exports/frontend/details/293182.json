@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:38:39.046Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-04T00:05:21.350Z",
-  "mangabaka_latest_rank": 4685,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4645,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Lena"
   ],
@@ -87,5 +87,66 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "boss",
+      "dog",
+      "lena",
+      "our",
+      "pre-serialization",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Comedy",
+        "Drama",
+        "Slice of Life"
+      ],
+      "titleTerms": [
+        "boss",
+        "dog",
+        "lena",
+        "our",
+        "boss",
+        "dog",
+        "our",
+        "boss",
+        "dog"
+      ],
+      "descriptionTerms": [
+        "pre-serialization",
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.38
   }
 }

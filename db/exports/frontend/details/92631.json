@@ -73,8 +73,8 @@
   "first_seen_at": "2026-06-10T15:38:39.046Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-02T02:52:47.437Z",
-  "mangabaka_latest_rank": 8042,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 7979,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "AA MEDIA"
   ],
@@ -109,5 +109,86 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "corporate-workplace"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / corporate-workplace",
+    "searchKeywords": [
+      "nightwork",
+      "office",
+      "original",
+      "webtoon",
+      "toptoon",
+      "ridibooks",
+      "mrblue",
+      "lezhin",
+      "bookcube",
+      "peanutoon",
+      "anytoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Adult",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "nightwork",
+        "office",
+        "nightwork",
+        "office"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "toptoon",
+        "ridibooks",
+        "mrblue",
+        "lezhin",
+        "bookcube",
+        "peanutoon",
+        "anytoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.99
   }
 }

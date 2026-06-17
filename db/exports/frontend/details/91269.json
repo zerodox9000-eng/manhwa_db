@@ -66,8 +66,8 @@
   "first_seen_at": "2026-06-10T15:38:39.045Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-11T04:43:38.219Z",
-  "mangabaka_latest_rank": 9298,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9220,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Olso"
   ],
@@ -103,5 +103,113 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "kingdom-management",
+    "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
+      "kingdom-management",
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "euro-fantasy",
+      "kingdom-management"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "kingdom-fantasy"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "kingdom-management / modern-korea / kingdom-fantasy",
+    "searchKeywords": [
+      "knight",
+      "driver",
+      "celestial",
+      "princess",
+      "kidnapped",
+      "hands",
+      "demon",
+      "lord",
+      "hope",
+      "paladin",
+      "sunggisa",
+      "saint",
+      "taxi",
+      "gisa",
+      "whose",
+      "surname",
+      "sung",
+      "caught",
+      "dae-han",
+      "fallen",
+      "underworld",
+      "tripped"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Supernatural",
+        "Shounen Ai",
+        "Comedy",
+        "Romance"
+      ],
+      "titleTerms": [
+        "knight",
+        "driver",
+        "knight",
+        "driver"
+      ],
+      "descriptionTerms": [
+        "celestial",
+        "princess",
+        "kidnapped",
+        "hands",
+        "demon",
+        "lord",
+        "hope",
+        "paladin",
+        "sunggisa",
+        "saint",
+        "knight",
+        "taxi",
+        "driver",
+        "gisa",
+        "whose",
+        "surname",
+        "sung",
+        "sung",
+        "caught",
+        "sung",
+        "dae-han",
+        "fallen",
+        "underworld",
+        "tripped"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.86
   }
 }

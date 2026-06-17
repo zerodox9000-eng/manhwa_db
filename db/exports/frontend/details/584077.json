@@ -77,8 +77,8 @@
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T04:06:07.263Z",
-  "mangabaka_latest_rank": 550,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 518,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Geulnamu",
     "Yeon-Bal Baek"
@@ -124,5 +124,128 @@
     "popularityPercentile": 62.0568,
     "fanFavouriteDiscoveryScore": 63.6584,
     "fanFavouriteDiscoveryPercentile": 72.1648
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "modern-korea",
+      "regression-return"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [
+        "system-player"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "regression",
+        "hunter-system"
+      ],
+      "conflictType": [],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "minor",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / modern-korea / regression / hunter-system",
+    "searchKeywords": [
+      "return",
+      "time",
+      "genius",
+      "ranker",
+      "yeokdaegeum",
+      "cheonjae",
+      "ranker-ui",
+      "gwihwan",
+      "all-time",
+      "kaiser",
+      "player",
+      "known",
+      "god",
+      "dominating",
+      "number",
+      "spot",
+      "rankings",
+      "returned",
+      "virtual",
+      "reality",
+      "game",
+      "savior",
+      "inspired",
+      "demrock",
+      "dominated",
+      "top"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "Male Lead",
+        "Fantasy",
+        "Action",
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "return",
+        "time",
+        "genius",
+        "ranker",
+        "yeokdaegeum",
+        "cheonjae",
+        "ranker-ui",
+        "gwihwan",
+        "return",
+        "all-time",
+        "genius",
+        "ranker"
+      ],
+      "descriptionTerms": [
+        "kaiser",
+        "player",
+        "known",
+        "god",
+        "dominating",
+        "number",
+        "spot",
+        "rankings",
+        "returned",
+        "virtual",
+        "reality",
+        "game",
+        "god",
+        "savior",
+        "game",
+        "inspired",
+        "demrock",
+        "kaiser",
+        "player",
+        "dominated",
+        "top",
+        "spot",
+        "known",
+        "god"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.66
   }
 }

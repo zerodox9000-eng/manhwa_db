@@ -56,8 +56,8 @@
   "first_seen_at": "2026-06-10T15:40:09.235Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T03:47:04.409Z",
-  "mangabaka_latest_rank": 9124,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9051,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Oseo"
   ],
@@ -99,5 +99,60 @@
     "popularityPercentile": 17.7349,
     "fanFavouriteDiscoveryScore": 14.3283,
     "fanFavouriteDiscoveryPercentile": 15.7516
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "line",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Boys Love",
+        "Shounen Ai",
+        "Drama",
+        "Romance",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "line",
+        "line",
+        "line"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.47
   }
 }

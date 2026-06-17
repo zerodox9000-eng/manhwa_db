@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-10T15:42:16.190Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-04T05:11:19.957Z",
-  "mangabaka_latest_rank": 4145,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4110,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Bieoiss Eum"
   ],
@@ -82,5 +82,83 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea / school",
+    "searchKeywords": [
+      "school",
+      "water",
+      "pre-serialization",
+      "original",
+      "webtoon",
+      "ktoon",
+      "naver",
+      "series",
+      "ridibooks",
+      "lezhin",
+      "official",
+      "translations",
+      "japanese"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "School",
+        "Drama",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "school",
+        "water",
+        "school",
+        "water"
+      ],
+      "descriptionTerms": [
+        "pre-serialization",
+        "original",
+        "webtoon",
+        "ktoon",
+        "naver",
+        "series",
+        "ridibooks",
+        "lezhin",
+        "official",
+        "translations",
+        "japanese"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-12T05:15:01.893Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-15T15:41:34.926Z",
-  "mangabaka_latest_rank": 30,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Park Hyun Wook"
   ],
@@ -85,5 +85,116 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [
+        "system-player"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / modern-korea / hunter-system",
+    "searchKeywords": [
+      "synodic",
+      "park",
+      "hyun",
+      "wook",
+      "vargrs",
+      "tale",
+      "hunter",
+      "monster",
+      "wolf",
+      "called",
+      "vargr",
+      "crossing",
+      "paths",
+      "change",
+      "cold",
+      "moon",
+      "disappeared",
+      "extinction",
+      "promised",
+      "original",
+      "webtoon",
+      "naver",
+      "series",
+      "official",
+      "translation",
+      "english"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy"
+      ],
+      "titleTerms": [
+        "synodic",
+        "park",
+        "hyun",
+        "wook",
+        "synodic",
+        "park",
+        "hyun",
+        "wook",
+        "synodic",
+        "park",
+        "hyun",
+        "wook"
+      ],
+      "descriptionTerms": [
+        "vargrs",
+        "tale",
+        "hunter",
+        "monster",
+        "wolf",
+        "called",
+        "vargr",
+        "crossing",
+        "paths",
+        "change",
+        "cold",
+        "moon",
+        "disappeared",
+        "extinction",
+        "promised",
+        "original",
+        "webtoon",
+        "naver",
+        "series",
+        "official",
+        "translation",
+        "english"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.52
   }
 }

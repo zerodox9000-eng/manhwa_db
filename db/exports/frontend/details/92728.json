@@ -100,8 +100,8 @@
   "first_seen_at": "2026-06-10T15:41:08.378Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T17:29:42.683Z",
-  "mangabaka_latest_rank": 7950,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 7887,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Hwa-Seong Lee"
   ],
@@ -150,5 +150,77 @@
     "popularityPercentile": 32.9351,
     "fanFavouriteDiscoveryScore": 65.2175,
     "fanFavouriteDiscoveryPercentile": 74.3549
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "birthday",
+      "present",
+      "noye",
+      "gift",
+      "claud",
+      "receives",
+      "unusual",
+      "girl",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Adult",
+        "Hentai",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "birthday",
+        "present",
+        "birthday",
+        "present",
+        "noye"
+      ],
+      "descriptionTerms": [
+        "birthday",
+        "gift",
+        "claud",
+        "receives",
+        "unusual",
+        "gift",
+        "girl",
+        "toomics"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.43
   }
 }

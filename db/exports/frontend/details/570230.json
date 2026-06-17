@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T09:10:21.826Z",
-  "mangabaka_latest_rank": 1239,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1208,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "MINSC"
   ],
@@ -91,5 +91,102 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / hunter-system",
+    "searchKeywords": [
+      "dungeon",
+      "defeating",
+      "demon",
+      "king",
+      "band",
+      "heroes",
+      "discovers",
+      "uncharted",
+      "unlike",
+      "any",
+      "seen",
+      "hiding",
+      "secrets",
+      "beyond",
+      "imagination",
+      "original",
+      "webtoon",
+      "official",
+      "translations",
+      "english",
+      "portuguese"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Fantasy",
+        "Adult",
+        "Ecchi",
+        "Mature",
+        "Smut",
+        "Drama"
+      ],
+      "titleTerms": [
+        "dungeon",
+        "dungeon"
+      ],
+      "descriptionTerms": [
+        "defeating",
+        "demon",
+        "king",
+        "band",
+        "heroes",
+        "discovers",
+        "uncharted",
+        "dungeon",
+        "unlike",
+        "any",
+        "seen",
+        "hiding",
+        "secrets",
+        "beyond",
+        "imagination",
+        "original",
+        "webtoon",
+        "official",
+        "translations",
+        "english",
+        "portuguese"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.58
   }
 }

@@ -63,8 +63,8 @@
   "first_seen_at": "2026-06-10T15:40:09.236Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-09T10:17:43.121Z",
-  "mangabaka_latest_rank": 8922,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8854,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Chinoko"
   ],
@@ -107,5 +107,73 @@
     "popularityPercentile": 16.5633,
     "fanFavouriteDiscoveryScore": 13.5671,
     "fanFavouriteDiscoveryPercentile": 14.825
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "love",
+      "sparkles",
+      "sarangeun",
+      "banjjak",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "extra"
+    ],
+    "evidence": {
+      "tags": [
+        "Boys Love",
+        "Shounen Ai",
+        "Yaoi",
+        "Drama",
+        "Romance",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "love",
+        "sparkles",
+        "sarangeun",
+        "banjjak",
+        "sarangeun",
+        "banjjak"
+      ],
+      "descriptionTerms": [
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "extra",
+        "chapter"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.41
   }
 }

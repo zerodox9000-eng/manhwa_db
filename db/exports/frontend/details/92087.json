@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:41:08.379Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T23:55:36.160Z",
-  "mangabaka_latest_rank": 8540,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8477,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Mojo"
   ],
@@ -92,5 +92,68 @@
     "popularityPercentile": 9.6715,
     "fanFavouriteDiscoveryScore": 29.2981,
     "fanFavouriteDiscoveryPercentile": 31.6563
+  },
+  "context": {
+    "primaryProfile": null,
+    "profileGroups": [],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "",
+    "searchKeywords": [
+      "mojo",
+      "journal",
+      "mojo-ui",
+      "ilji",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "prologue"
+    ],
+    "evidence": {
+      "tags": [
+        "Autobiographical",
+        "Comedy",
+        "Slice of Life",
+        "Episodic",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "mojo",
+        "journal",
+        "mojo-ui",
+        "ilji",
+        "mojo-ui",
+        "ilji"
+      ],
+      "descriptionTerms": [
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "prologue"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.33
   }
 }

@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-13T12:28:19.350Z",
-  "mangabaka_latest_rank": 3409,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3374,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Lee Yeon"
   ],
@@ -73,5 +73,107 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "food-career",
+    "profileGroups": [
+      "food-career",
+      "horror-survival",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "food-career",
+      "horror-survival"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "food"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "survival"
+      ],
+      "progressionType": [],
+      "tone": [
+        "dark"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "food-career / modern-korea",
+    "searchKeywords": [
+      "promise",
+      "survived",
+      "original",
+      "webtoon",
+      "naver",
+      "message",
+      "eradicate",
+      "drugs",
+      "author",
+      "lee",
+      "yeon",
+      "content",
+      "drug",
+      "prevention",
+      "campaign",
+      "delivered",
+      "brand",
+      "ministry",
+      "food",
+      "safety"
+    ],
+    "evidence": {
+      "tags": [
+        "Fantasy",
+        "Drama",
+        "Horror"
+      ],
+      "titleTerms": [
+        "promise",
+        "survived",
+        "promise",
+        "survived"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "naver",
+        "webtoon",
+        "message",
+        "eradicate",
+        "drugs",
+        "author",
+        "lee",
+        "yeon",
+        "content",
+        "drug",
+        "prevention",
+        "campaign",
+        "delivered",
+        "author",
+        "lee",
+        "yeon",
+        "brand",
+        "webtoon",
+        "ministry",
+        "food",
+        "drug",
+        "safety"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.7
   }
 }

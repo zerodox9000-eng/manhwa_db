@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-15T17:35:27.161Z",
-  "mangabaka_latest_rank": 8883,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 8815,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Baek-Su Kwak"
   ],
@@ -94,5 +94,124 @@
     "popularityPercentile": 7.1522,
     "fanFavouriteDiscoveryScore": 8.0753,
     "fanFavouriteDiscoveryPercentile": 6.5778
+  },
+  "context": {
+    "primaryProfile": "korean-corporate-regression",
+    "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "regression-return",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [
+        "regression"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "major",
+      "systemRole": "none"
+    },
+    "semanticSummary": "korean-corporate-regression / modern-korea / regression",
+    "searchKeywords": [
+      "lowly",
+      "man",
+      "hanamja",
+      "heo",
+      "woo-dae",
+      "slacker",
+      "slackers",
+      "always",
+      "running",
+      "away",
+      "turning",
+      "blind",
+      "eye",
+      "making",
+      "excuses",
+      "blaming",
+      "others",
+      "age",
+      "lost",
+      "fortune",
+      "coin",
+      "business",
+      "fired",
+      "job",
+      "kicked",
+      "home",
+      "travels"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Male Lead",
+        "Age Regression",
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "lowly",
+        "man",
+        "hanamja",
+        "hanamja"
+      ],
+      "descriptionTerms": [
+        "heo",
+        "woo-dae",
+        "slacker",
+        "slackers",
+        "always",
+        "running",
+        "away",
+        "turning",
+        "blind",
+        "eye",
+        "making",
+        "excuses",
+        "blaming",
+        "others",
+        "age",
+        "lost",
+        "fortune",
+        "coin",
+        "business",
+        "fired",
+        "job",
+        "kicked",
+        "home",
+        "travels"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 1
   }
 }

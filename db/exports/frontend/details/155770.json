@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T01:10:21.137Z",
-  "mangabaka_latest_rank": 6246,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6192,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Gyeong-Jin Kwon"
   ],
@@ -91,5 +91,81 @@
     "popularityPercentile": 2.7797,
     "fanFavouriteDiscoveryScore": 6.0836,
     "fanFavouriteDiscoveryPercentile": 2.5576
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "romance",
+      "city",
+      "nangmandosi",
+      "searching",
+      "somewhere",
+      "tough",
+      "manhwakyung",
+      "translated",
+      "note",
+      "chapter",
+      "count",
+      "includes",
+      "epilogue"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Urban",
+        "Romance",
+        "Slice of Life"
+      ],
+      "titleTerms": [
+        "romance",
+        "city",
+        "nangmandosi",
+        "nangmandosi"
+      ],
+      "descriptionTerms": [
+        "searching",
+        "romance",
+        "somewhere",
+        "tough",
+        "city",
+        "manhwakyung",
+        "translated",
+        "note",
+        "chapter",
+        "count",
+        "includes",
+        "epilogue"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.39
   }
 }

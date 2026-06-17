@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:45:01.177Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-02T17:20:26.541Z",
-  "mangabaka_latest_rank": 3869,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3834,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "BBO"
   ],
@@ -73,5 +73,57 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "regression-return",
+    "profileGroups": [
+      "regression-return",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "regression-return / school",
+    "searchKeywords": [
+      "return",
+      "friends"
+    ],
+    "evidence": {
+      "tags": [
+        "School",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "return",
+        "friends",
+        "return",
+        "friends"
+      ],
+      "descriptionTerms": [],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.52
   }
 }

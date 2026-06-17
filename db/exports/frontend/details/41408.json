@@ -43,7 +43,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T04:55:34.730Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Seon-Yeong Go"
   ],
@@ -88,5 +88,86 @@
     "popularityPercentile": 11.9841,
     "fanFavouriteDiscoveryScore": 33.1289,
     "fanFavouriteDiscoveryPercentile": 36.381
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "regression-return",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / school",
+    "searchKeywords": [
+      "hello",
+      "android",
+      "boy",
+      "claiming",
+      "son",
+      "suddenly",
+      "appeared",
+      "romance",
+      "starts",
+      "daum",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "School",
+        "Time Manipulation",
+        "Sci-Fi",
+        "Comedy",
+        "Romance",
+        "School Life",
+        "Full Color"
+      ],
+      "titleTerms": [
+        "hello",
+        "android",
+        "hello",
+        "android",
+        "hello",
+        "android"
+      ],
+      "descriptionTerms": [
+        "boy",
+        "claiming",
+        "son",
+        "suddenly",
+        "appeared",
+        "romance",
+        "starts",
+        "daum",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.64
   }
 }

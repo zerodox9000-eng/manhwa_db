@@ -66,8 +66,8 @@
   "first_seen_at": "2026-06-10T15:43:31.413Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-19T12:45:37.492Z",
-  "mangabaka_latest_rank": 3949,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3914,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Lee Myeong-jae"
   ],
@@ -111,5 +111,116 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "horror-survival",
+      "modern-korea"
+    ],
+    "primaryAnchors": [
+      "game-system",
+      "horror-survival"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [
+        "survival"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "comedic",
+        "dark"
+      ],
+      "worldType": [
+        "system-world"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / modern-korea / hunter-system",
+    "searchKeywords": [
+      "zombies",
+      "zombie",
+      "apocalypse",
+      "breaks",
+      "seoul",
+      "tower",
+      "super-large",
+      "shopping",
+      "mall",
+      "government",
+      "puts",
+      "block",
+      "quell",
+      "situation",
+      "kim",
+      "in-jong",
+      "rescued",
+      "lives",
+      "year",
+      "full",
+      "turns"
+    ],
+    "evidence": {
+      "tags": [
+        "Apocalypse",
+        "Supernatural",
+        "Zombies",
+        "Comedy",
+        "Drama",
+        "Horror",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "zombies",
+        "zombies"
+      ],
+      "descriptionTerms": [
+        "zombie",
+        "apocalypse",
+        "breaks",
+        "seoul",
+        "tower",
+        "super-large",
+        "shopping",
+        "mall",
+        "government",
+        "puts",
+        "zombies",
+        "tower",
+        "block",
+        "quell",
+        "situation",
+        "kim",
+        "in-jong",
+        "rescued",
+        "lives",
+        "year",
+        "tower",
+        "full",
+        "zombies",
+        "turns"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.76
   }
 }

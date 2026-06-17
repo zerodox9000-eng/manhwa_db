@@ -53,7 +53,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-05-13T10:19:53.855Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Comic Story"
   ],
@@ -87,5 +87,82 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "corporate-workplace"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "none",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / corporate-workplace",
+    "searchKeywords": [
+      "doki",
+      "hogisim",
+      "company",
+      "original",
+      "webtoon",
+      "bookcube",
+      "anytoon",
+      "ridibooks",
+      "comico"
+    ],
+    "evidence": {
+      "tags": [
+        "Seinen",
+        "Adult",
+        "Drama"
+      ],
+      "titleTerms": [
+        "doki",
+        "doki",
+        "hogisim",
+        "company",
+        "doki",
+        "doki",
+        "hogisim",
+        "company"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "bookcube",
+        "anytoon",
+        "ridibooks",
+        "comico"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.84
   }
 }

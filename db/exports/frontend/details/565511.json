@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-25T14:50:12.646Z",
-  "mangabaka_latest_rank": 1540,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 1509,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "FM"
   ],
@@ -87,5 +87,78 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "business-career",
+    "profileGroups": [
+      "business-career",
+      "korean-business",
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "business-career / modern-korea",
+    "searchKeywords": [
+      "boyfriend",
+      "somehow",
+      "chaebol",
+      "original",
+      "webtoon",
+      "kakaopage",
+      "naver",
+      "series"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Drama",
+        "Romance"
+      ],
+      "titleTerms": [
+        "boyfriend",
+        "somehow",
+        "chaebol",
+        "boyfriend",
+        "somehow",
+        "chaebol"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "kakaopage",
+        "naver",
+        "series"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.68
   }
 }

@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-16T05:20:09.810Z",
-  "mangabaka_latest_rank": 7,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "0117",
     "Bombalam Baechu",
@@ -91,5 +91,130 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "modern-urban",
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "searchKeywords": [
+      "between",
+      "devil",
+      "deep",
+      "sea",
+      "angma-wa",
+      "gipeun",
+      "bada",
+      "sai",
+      "many",
+      "pirates",
+      "hierarchy",
+      "among",
+      "determined",
+      "two",
+      "things",
+      "bounty",
+      "heads",
+      "dictated",
+      "notoriety",
+      "strength",
+      "daphne",
+      "pirate",
+      "recognized",
+      "strongest",
+      "both",
+      "aspects",
+      "spends",
+      "night",
+      "navy",
+      "officer",
+      "dawn"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Fantasy",
+        "Romance"
+      ],
+      "titleTerms": [
+        "between",
+        "devil",
+        "deep",
+        "sea",
+        "angma-wa",
+        "gipeun",
+        "bada",
+        "sai",
+        "angma-wa",
+        "gipeun",
+        "bada",
+        "sai"
+      ],
+      "descriptionTerms": [
+        "many",
+        "pirates",
+        "hierarchy",
+        "among",
+        "pirates",
+        "determined",
+        "two",
+        "things",
+        "bounty",
+        "heads",
+        "dictated",
+        "notoriety",
+        "strength",
+        "daphne",
+        "pirate",
+        "recognized",
+        "strongest",
+        "both",
+        "aspects",
+        "spends",
+        "night",
+        "navy",
+        "officer",
+        "dawn"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.98
   }
 }

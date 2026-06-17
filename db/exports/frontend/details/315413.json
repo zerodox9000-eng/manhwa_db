@@ -52,8 +52,8 @@
   "first_seen_at": "2026-06-10T15:42:16.190Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-26T13:37:03.578Z",
-  "mangabaka_latest_rank": 4095,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 4060,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Omato"
   ],
@@ -94,5 +94,83 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea",
+    "searchKeywords": [
+      "orange",
+      "blossom",
+      "original",
+      "webtoon",
+      "kakaopage",
+      "ridibooks",
+      "naver",
+      "series",
+      "bomtoon",
+      "lezhin",
+      "mrblue",
+      "onestory",
+      "nate"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "orange",
+        "blossom",
+        "orange",
+        "blossom"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "kakaopage",
+        "ridibooks",
+        "naver",
+        "series",
+        "bomtoon",
+        "lezhin",
+        "mrblue",
+        "onestory",
+        "nate"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.48
   }
 }

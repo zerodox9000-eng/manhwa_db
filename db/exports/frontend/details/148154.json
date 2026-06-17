@@ -88,8 +88,8 @@
   "first_seen_at": "2026-06-10T15:39:19.582Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T05:33:20.414Z",
-  "mangabaka_latest_rank": 6395,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6341,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Yi-Won Heo"
   ],
@@ -140,5 +140,79 @@
     "popularityPercentile": 58.1438,
     "fanFavouriteDiscoveryScore": 64.3323,
     "fanFavouriteDiscoveryPercentile": 73.0224
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core",
+    "searchKeywords": [
+      "temple",
+      "romance",
+      "geungnagui",
+      "way",
+      "escape",
+      "stalker",
+      "join",
+      "manta"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Dumb Male Lead",
+        "Monks",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Stalkers",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "temple",
+        "romance",
+        "temple",
+        "romance",
+        "geungnagui",
+        "romance"
+      ],
+      "descriptionTerms": [
+        "way",
+        "escape",
+        "stalker",
+        "join",
+        "temple",
+        "manta"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet",
+        "read-en"
+      ]
+    },
+    "confidence": 0.45
   }
 }

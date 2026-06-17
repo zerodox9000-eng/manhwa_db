@@ -38,8 +38,8 @@
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-04-07T01:50:55.253Z",
-  "mangabaka_latest_rank": 9842,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 9764,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Nokttu"
   ],
@@ -74,5 +74,78 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea / school",
+    "searchKeywords": [
+      "confess",
+      "100",
+      "times",
+      "original",
+      "webtoon",
+      "naver",
+      "series",
+      "kakaopage",
+      "ridibooks",
+      "bookcube"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "School",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "confess",
+        "100",
+        "times",
+        "confess",
+        "100",
+        "times",
+        "100"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "naver",
+        "series",
+        "kakaopage",
+        "ridibooks",
+        "bookcube"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.53
   }
 }

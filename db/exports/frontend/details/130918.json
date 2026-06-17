@@ -107,8 +107,8 @@
   "first_seen_at": "2026-06-10T15:48:24.824Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-17T01:39:07.558Z",
-  "mangabaka_latest_rank": 6565,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 6506,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Gingsalk",
     "Minato"
@@ -161,5 +161,104 @@
     "popularityPercentile": 42.5071,
     "fanFavouriteDiscoveryScore": 35.3176,
     "fanFavouriteDiscoveryPercentile": 39.1224
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "game-system",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / hunter-system",
+    "searchKeywords": [
+      "underground",
+      "babel",
+      "babel-ui",
+      "jiha",
+      "eve",
+      "trapped",
+      "cursed",
+      "tower",
+      "endlessly",
+      "dies",
+      "revives",
+      "struggles",
+      "escape",
+      "uncover",
+      "truth",
+      "toomics"
+    ],
+    "evidence": {
+      "tags": [
+        "Character Aware of Author/Being Fiction",
+        "Fantasy",
+        "Game World",
+        "Action",
+        "Adventure",
+        "Drama",
+        "Romance",
+        "Video Games",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "underground",
+        "babel",
+        "underground",
+        "babel",
+        "babel-ui",
+        "jiha"
+      ],
+      "descriptionTerms": [
+        "eve",
+        "trapped",
+        "cursed",
+        "tower",
+        "babel",
+        "endlessly",
+        "dies",
+        "revives",
+        "struggles",
+        "escape",
+        "uncover",
+        "truth",
+        "toomics"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates",
+        "animeplanet",
+        "read-en"
+      ]
+    },
+    "confidence": 0.62
   }
 }

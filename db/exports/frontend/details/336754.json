@@ -49,8 +49,8 @@
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T00:43:27.652Z",
-  "mangabaka_latest_rank": 3334,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": null,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Patdubu",
     "Tuxedo Penguin"
@@ -100,5 +100,92 @@
     "popularityPercentile": 7.1522,
     "fanFavouriteDiscoveryScore": 8.0753,
     "fanFavouriteDiscoveryPercentile": 6.5778
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea / modern-korea",
+    "searchKeywords": [
+      "taste",
+      "bear",
+      "gomui",
+      "mat",
+      "original",
+      "novel",
+      "webtoon",
+      "ridibooks",
+      "naver",
+      "series",
+      "lezhin",
+      "mrblue",
+      "bookcube"
+    ],
+    "evidence": {
+      "tags": [
+        "Kemonomimi",
+        "Fantasy",
+        "Adult",
+        "Smut",
+        "Boys Love",
+        "Yaoi",
+        "Drama",
+        "Romance",
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "taste",
+        "bear",
+        "gomui",
+        "mat",
+        "gomui",
+        "mat"
+      ],
+      "descriptionTerms": [
+        "original",
+        "novel",
+        "original",
+        "webtoon",
+        "ridibooks",
+        "naver",
+        "series",
+        "lezhin",
+        "mrblue",
+        "bookcube"
+      ],
+      "sourceFields": [
+        "anilist",
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.54
   }
 }

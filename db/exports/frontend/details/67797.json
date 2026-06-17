@@ -90,7 +90,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-15T13:33:23.875Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Park Eun Hyuk (박은혁)"
   ],
@@ -128,5 +128,79 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core",
+      "school-life"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "comedic",
+        "dark",
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "romance-core / modern-korea / school",
+    "searchKeywords": [
+      "girl",
+      "random",
+      "chatting",
+      "pre-serialization",
+      "chatting-ui",
+      "geunyeo",
+      "naver",
+      "removed"
+    ],
+    "evidence": {
+      "tags": [
+        "Shounen",
+        "School",
+        "Comedy",
+        "Drama",
+        "Psychological",
+        "Romance",
+        "School Life"
+      ],
+      "titleTerms": [
+        "girl",
+        "random",
+        "chatting",
+        "pre-serialization",
+        "girl",
+        "random",
+        "chatting",
+        "pre-serialization",
+        "random",
+        "chatting-ui",
+        "geunyeo"
+      ],
+      "descriptionTerms": [
+        "naver",
+        "removed"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.49
   }
 }

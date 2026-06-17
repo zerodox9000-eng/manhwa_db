@@ -45,8 +45,8 @@
   "first_seen_at": "2026-06-12T05:27:33.596Z",
   "first_seen_at_is_trusted": true,
   "last_updated_at": "2026-06-15T14:05:30.871Z",
-  "mangabaka_latest_rank": 35,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Kkamjyo"
   ],
@@ -80,5 +80,62 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [],
+      "protagonistRole": [],
+      "careerDomain": [],
+      "premiseMechanic": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "none"
+    },
+    "semanticSummary": "modern-korea",
+    "searchKeywords": [
+      "loving",
+      "anti-fan",
+      "saranghaneun",
+      "original",
+      "webtoon"
+    ],
+    "evidence": {
+      "tags": [
+        "Adult",
+        "Yaoi",
+        "Romance"
+      ],
+      "titleTerms": [
+        "loving",
+        "anti-fan",
+        "saranghaneun",
+        "anti-fan",
+        "saranghaneun",
+        "anti-fan"
+      ],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
+      "sourceFields": [
+        "mangaupdates"
+      ]
+    },
+    "confidence": 0.45
   }
 }

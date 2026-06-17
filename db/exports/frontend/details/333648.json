@@ -70,8 +70,8 @@
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-06-16T21:55:40.747Z",
-  "mangabaka_latest_rank": 3506,
-  "mangabaka_latest_snapshot_at": "2026-06-17T05:57:05.658Z",
+  "mangabaka_latest_rank": 3471,
+  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
   "authors": [
     "Lee Seo-hyun"
   ],
@@ -113,5 +113,131 @@
     "fanFavouriteRaw": null,
     "fanFavouriteWeighted": null,
     "fanFavouritePercentile": null
+  },
+  "context": {
+    "primaryProfile": "game-system",
+    "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
+      "game-system",
+      "modern-korea",
+      "romance-core"
+    ],
+    "primaryAnchors": [
+      "euro-fantasy",
+      "game-system"
+    ],
+    "excludedProfiles": [],
+    "storySignals": {
+      "setting": [
+        "modern-korea",
+        "kingdom-fantasy"
+      ],
+      "protagonistRole": [
+        "system-player"
+      ],
+      "careerDomain": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "power-growth",
+        "martial-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "major",
+      "regressionRole": "none",
+      "systemRole": "minor"
+    },
+    "semanticSummary": "game-system / modern-korea / kingdom-fantasy / hunter-system",
+    "searchKeywords": [
+      "grand",
+      "duke",
+      "wolves",
+      "companion",
+      "wolf",
+      "archduke",
+      "adele",
+      "became",
+      "hunter",
+      "behalf",
+      "sick",
+      "uncle",
+      "first",
+      "battle",
+      "kidnapped",
+      "human-eating",
+      "carl",
+      "little",
+      "weird",
+      "isn",
+      "comes",
+      "legend",
+      "ancient",
+      "use"
+    ],
+    "evidence": {
+      "tags": [
+        "Shoujo",
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
+      ],
+      "titleTerms": [
+        "grand",
+        "duke",
+        "wolves",
+        "companion",
+        "wolf",
+        "archduke",
+        "companion",
+        "wolf",
+        "archduke",
+        "companion"
+      ],
+      "descriptionTerms": [
+        "adele",
+        "became",
+        "hunter",
+        "behalf",
+        "sick",
+        "uncle",
+        "first",
+        "battle",
+        "kidnapped",
+        "human-eating",
+        "wolf",
+        "carl",
+        "human-eating",
+        "wolf",
+        "little",
+        "weird",
+        "isn",
+        "human-eating",
+        "wolf",
+        "comes",
+        "legend",
+        "ancient",
+        "wolf",
+        "use"
+      ],
+      "sourceFields": [
+        "mangaupdates",
+        "animeplanet"
+      ]
+    },
+    "confidence": 0.88
   }
 }
