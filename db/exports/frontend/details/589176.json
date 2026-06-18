@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Let Go, Before You Get Hurt",
-  "mangabaka_title": "Let Go, Before You Get Hurt",
+  "mangabaka_title": "Pureo, Dachigi Jeone",
   "native_title": "풀어, 다치기 전에",
-  "romanized_title": null,
+  "romanized_title": "Pureo, Dachigi Jeone",
   "titles": [
     {
       "language": "ko",
       "title": "풀어, 다치기 전에",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,6 +20,15 @@
       "language": "en",
       "title": "Let Go, Before You Get Hurt",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Pureo, Dachigi Jeone",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,36 +41,41 @@
     }
   ],
   "description": "‘Former Child Actor Seo Yoon-seo Comes Out?!’\n\nThat single rumor completely shattered Yoon-seo’s life.\nAs the rumors spiraled further and further out of control,\ncastings were canceled,\nbillboards were torn down,\nand his ruined image\neven led to lawsuits for damages.\n\nJust as he reached a dead end with absolutely nowhere left to run—\nHe met the man who would shake up his life once again:\nChoi Do-young.\n\n“When you make a face like that, Seo Yoon-seo, it makes me feel like a total bastard.”\n\n“D-Director... wait a minute.”\n\n“You shouldn't treat the great Choi Do-young like a dog, now should you?”\n\nEyes drenched in desire gleamed intensely.\nEven without him going this far, Yoon-seo already knew that the man coveting him was none other than Choi Do-young.\n\n“Seo Yoon-seo.”\n\nA husky, low voice pierced his eardrums.\n\n“Let go. Before you get hurt.”\n\n[Original Webtoon](https://ridibooks.com/books/5285002443)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI3OTM0LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzMwNy1XeFdQc2RSekIweGMuanBn",
   "total_chapters": "8",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-04",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-13T05:17:46.237Z",
-  "mangabaka_latest_rank": 87,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "last_updated_at": "2026-06-18T01:36:33.459Z",
+  "mangabaka_latest_rank": 131,
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
-    "Richelito"
+    "Richellito",
+    "Wabi"
   ],
   "artists": [
-    "Kim Nom",
-    "Wabi"
+    "Metatoon",
+    "Nom Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589176",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213307,
+      "rating": null,
+      "url": "https://anilist.co/manga/213307"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "if78dhv",
@@ -69,9 +85,14 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -79,9 +100,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6366,
+    "popularityPercentile": 0.1378,
+    "fanFavouriteDiscoveryScore": 5.0748,
+    "fanFavouriteDiscoveryPercentile": 0.1378
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -129,6 +152,9 @@
       "let",
       "before",
       "hurt",
+      "pureo",
+      "dachigi",
+      "jeone",
       "former",
       "child",
       "actor",
@@ -154,17 +180,25 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Adult",
         "Smut",
-        "Romance"
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "let",
         "before",
         "hurt",
-        "let",
-        "before",
-        "hurt"
+        "pureo",
+        "dachigi",
+        "jeone",
+        "pureo",
+        "dachigi",
+        "jeone"
       ],
       "descriptionTerms": [
         "former",
@@ -193,6 +227,7 @@
         "image"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },

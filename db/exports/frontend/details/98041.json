@@ -2,8 +2,8 @@
   "id": 98041,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Imperial Maid",
-  "mangabaka_title": "Jegugui Sinyeo",
+  "display_title": "The Empire's Maid",
+  "mangabaka_title": "The Empire's Maid",
   "native_title": "제국의 시녀",
   "romanized_title": "Jegugui Sinyeo",
   "titles": [
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Imperial Maid",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -28,6 +28,15 @@
       "title": "Jegugui Sinyeo",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Empire's Maid",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -54,12 +63,12 @@
       "note": null
     }
   ],
-  "description": "*\"A plain face, the illegitimate child of a viscount.\"* \n\nWith no notable background to boast of, Leona managed to grasp power from the lowly position of a maid, thanks to her extraordinary intellect. But when the seemingly eternal empire fell to enemy invasion, she too met her end by an enemy soldier’s blade. \n\nA life spent harming others for ambition, scheming without hesitation it was a life full of regrets, and so she welcomed death. But then... she came back. To the very moment she first entered the palace as a maid. Surely, this is a chance to right the wrongs of her past life. \n\n*\"This time, I won't live a life of hurting and taking but one of protecting and nurturing.\"* \n\nWith that resolve, she chooses as the key to changing this life none other than the crown prince, the political rival she had personally dethroned in her previous life. As she serves him once more, now as his maid, everything seems to be going well... Until... \n\n*\"Leona, let’s leave this place together.\"*\n\nSomething feels off. The cold, indifferent crown prince she thought she knew hides a secret. And as truths buried by the world come to light, a shadow of ruin begins to fall over the empire once again. \n\n(Source: KakaoPage, translated)",
+  "description": "In her first life, Leona rose through the ranks of the imperial palace's attendants by aiding the imperial concubine Viotta in her wicked schemes, but her ambition ultimately led to the empire's collapse and her own death. So, when given a second chance, she resolves to atone for her past by changing her allegiance: This time, she'll serve the crown prince whom she helped expel in her first life. But can she shield him from Viotta's ploys and prevent the catastrophic future she once created?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2IvOC84LzUvYi82L2YvOTQ3Ny80MDJjLzhkYWYvYjYzMjEwNTllOTUz",
   "total_chapters": "45",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-03-08",
@@ -69,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T04:22:19.962Z",
-  "mangabaka_latest_rank": 7760,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "last_updated_at": "2026-06-18T04:23:35.323Z",
+  "mangabaka_latest_rank": 7830,
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
     "Gopang",
     "Mokabada"
@@ -81,7 +90,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/98041",
-    "read_en": null
+    "read_en": "https://tapas.io/series/the-empires-maid/info"
   },
   "source": {
     "anilist": {
@@ -126,17 +135,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.1277,
-    "fanRatioPercentile": 72.8693,
-    "popularityPercentile": 51.3516,
-    "fanFavouriteDiscoveryScore": 67.8901,
-    "fanFavouriteDiscoveryPercentile": 76.5985
+    "fanRatioPercentile": 72.9103,
+    "popularityPercentile": 51.3396,
+    "fanFavouriteDiscoveryScore": 67.9237,
+    "fanFavouriteDiscoveryPercentile": 76.6151
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
       "regression-return",
       "romance-core"
     ],
@@ -146,7 +154,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -155,10 +162,11 @@
         "regression"
       ],
       "conflictType": [
-        "politics",
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -169,35 +177,34 @@
       "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / regression",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / regression",
     "searchKeywords": [
-      "imperial",
+      "empire",
       "maid",
       "jegugui",
       "sinyeo",
-      "plain",
-      "face",
-      "illegitimate",
-      "child",
-      "viscount",
-      "notable",
-      "background",
-      "boast",
+      "first",
       "leona",
-      "managed",
-      "grasp",
-      "power",
-      "lowly",
-      "position",
-      "thanks",
-      "extraordinary",
-      "intellect",
-      "seemingly",
-      "eternal",
-      "empire",
-      "fell",
-      "enemy",
-      "invasion"
+      "rose",
+      "through",
+      "ranks",
+      "imperial",
+      "palace",
+      "attendants",
+      "aiding",
+      "concubine",
+      "viotta",
+      "wicked",
+      "schemes",
+      "ambition",
+      "ultimately",
+      "led",
+      "collapse",
+      "death",
+      "given",
+      "second",
+      "chance",
+      "resolves"
     ],
     "evidence": {
       "tags": [
@@ -220,45 +227,46 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "imperial",
+        "empire",
         "maid",
-        "jegugui",
-        "sinyeo",
+        "empire",
+        "maid",
         "jegugui",
         "sinyeo"
       ],
       "descriptionTerms": [
-        "plain",
-        "face",
-        "illegitimate",
-        "child",
-        "viscount",
-        "notable",
-        "background",
-        "boast",
+        "first",
         "leona",
-        "managed",
-        "grasp",
-        "power",
-        "lowly",
-        "position",
-        "maid",
-        "thanks",
-        "extraordinary",
-        "intellect",
-        "seemingly",
-        "eternal",
+        "rose",
+        "through",
+        "ranks",
+        "imperial",
+        "palace",
+        "attendants",
+        "aiding",
+        "imperial",
+        "concubine",
+        "viotta",
+        "wicked",
+        "schemes",
+        "ambition",
+        "ultimately",
+        "led",
         "empire",
-        "fell",
-        "enemy",
-        "invasion"
+        "collapse",
+        "death",
+        "given",
+        "second",
+        "chance",
+        "resolves"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.89
+    "confidence": 0.82
   }
 }

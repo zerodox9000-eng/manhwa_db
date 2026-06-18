@@ -106,9 +106,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T05:06:25.357Z",
-  "mangabaka_latest_rank": 2743,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "last_updated_at": "2026-06-17T10:07:05.261Z",
+  "mangabaka_latest_rank": 2786,
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
     "Gamjagukjumin",
     "Parrr"
@@ -138,6 +138,7 @@
     }
   },
   "tag_ids": [
+    669,
     8,
     460,
     811,
@@ -145,23 +146,32 @@
     123,
     124,
     556,
+    333,
+    59,
     2124,
     58,
     2004,
     74,
+    507,
     874,
+    679,
     849,
     116,
     312,
+    429,
+    163,
+    174,
     231,
     406,
     36,
     22,
+    287,
     1015,
     46,
     21,
     10,
     232,
+    234,
     15,
     41,
     109,
@@ -169,11 +179,24 @@
     290,
     100,
     102,
+    381,
     2693,
+    306,
+    370,
+    169,
+    99,
+    171,
+    103,
     2713,
     2754,
+    510,
+    173,
+    369,
+    228,
     6,
     31,
+    699,
+    2,
     32,
     403,
     9,
@@ -183,36 +206,44 @@
     428
   ],
   "stats": {
-    "popularity": 655,
+    "popularity": 659,
     "favourites": 19,
     "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 2.9008,
-    "fanRatioPercentile": 85.3588,
-    "popularityPercentile": 74.3931,
-    "fanFavouriteDiscoveryScore": 84.4508,
-    "fanFavouriteDiscoveryPercentile": 90.9488
+    "fanFavouriteRaw": 2.8832,
+    "fanRatioPercentile": 85.1806,
+    "popularityPercentile": 74.5254,
+    "fanFavouriteDiscoveryScore": 84.2844,
+    "fanFavouriteDiscoveryPercentile": 90.8221
   },
   "context": {
-    "primaryProfile": "corporate-workplace",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
       "business-career",
+      "business-career-regression",
       "corporate-workplace",
+      "food-career",
       "modern-workplace",
       "office-romance",
       "romance-core"
     ],
     "primaryAnchors": [
-      "corporate-workplace"
+      "business-career-regression",
+      "corporate-workplace",
+      "food-career"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "corporate-workplace"
       ],
-      "protagonistRole": [],
-      "careerDomain": [],
+      "protagonistRole": [
+        "employee"
+      ],
+      "careerDomain": [
+        "food"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "revenge",
@@ -232,7 +263,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "corporate-workplace / corporate-workplace",
+    "semanticSummary": "business-career-regression / corporate-workplace",
     "searchKeywords": [
       "every",
       "building",
@@ -260,6 +291,7 @@
     ],
     "evidence": {
       "tags": [
+        "Cooking",
         "Seinen",
         "Nekomimi",
         "Beautiful Female Character",
@@ -267,39 +299,38 @@
         "Big Breasts",
         "Small Breasts",
         "Big Penis",
+        "Primarily Female Cast",
+        "Female Lead",
         "Virgin Female Lead",
         "Male Lead",
         "Horny Male Lead",
         "Based on a Web Novel",
+        "Restaurant",
         "Caught in the Act",
+        "Memory Manipulation",
         "Abuse of Power",
         "Maids",
         "Office Lady",
+        "Office Worker",
+        "Female Harem",
+        "Incest",
         "Infidelity",
         "Master-Servant Relationship",
         "Fantasy",
         "Supernatural",
+        "Exhibitionism",
         "Urination",
         "Adult",
         "Ecchi",
         "Hentai",
         "Netorare",
+        "Netori",
         "Mature",
         "Smut",
         "Nudity",
         "Sex Toys",
         "69",
-        "Anal Intercourse",
-        "Anal Creampie",
-        "Clothed Intercourse",
-        "Ryokan Intercourse",
-        "Sex in Front of an Audience",
-        "Comedy",
-        "Drama",
-        "Mystery",
-        "Betrayal",
-        "Romance",
-        "Elaborate"
+        "Anal Intercourse"
       ],
       "titleTerms": [
         "every",
@@ -339,6 +370,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.96
+    "confidence": 1
   }
 }

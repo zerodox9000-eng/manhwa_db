@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.825Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T01:50:28.285Z",
+  "last_updated_at": "2026-06-18T00:47:32.038Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
     "Surf Club"
   ],
@@ -88,30 +88,44 @@
     },
     "mangaupdates": {
       "id": "ertid7w",
-      "rating": 62,
+      "rating": 61,
       "url": "https://www.mangaupdates.com/series/ertid7w"
     }
   },
   "tag_ids": [
     285,
     248,
+    315,
+    1787,
+    1788,
+    1050,
+    2523,
+    2395,
+    2425,
     2758,
+    1205,
+    402,
     661,
+    286,
     1732,
     280,
     46,
     14,
     15,
     41,
+    289,
     632,
     180,
+    1947,
     16,
     31,
     893,
     18,
     1037,
     1012,
+    1593,
     93,
+    1167,
     57,
     428
   ],
@@ -122,29 +136,40 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.3333,
-    "fanRatioPercentile": 89.5628,
-    "popularityPercentile": 19.6876,
-    "fanFavouriteDiscoveryScore": 44.1985,
-    "fanFavouriteDiscoveryPercentile": 50.1953
+    "fanRatioPercentile": 89.5974,
+    "popularityPercentile": 19.68,
+    "fanFavouriteDiscoveryScore": 44.2015,
+    "fanFavouriteDiscoveryPercentile": 50.2067
   },
   "context": {
     "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career",
       "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
       "modern-workplace",
       "showbiz-career"
     ],
     "primaryAnchors": [
       "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
       "showbiz-career"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "corporate-workplace"
+      ],
       "protagonistRole": [
         "employee"
       ],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
@@ -156,12 +181,14 @@
         "comedic",
         "dark"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression",
+    "semanticSummary": "business-career-regression / modern-korea / corporate-workplace",
     "searchKeywords": [
       "kick",
       "bucket",
@@ -192,23 +219,37 @@
       "tags": [
         "Blackmail",
         "Working",
+        "Yandere",
+        "Yandere Male Lead",
+        "Yandere Seme",
+        "Possessive Seme",
+        "Crazy Male Lead",
+        "Possessive Male Lead",
+        "Stalkerish Male Lead",
         "Sexually Insatiable Uke",
+        "Company",
+        "Salarymen",
         "Boss-Subordinate Relationship",
+        "Coworkers",
         "Toxic Relationship",
         "Bondage",
         "Adult",
         "Erotica",
         "Mature",
         "Smut",
+        "Sex Toys",
         "Rough Sex",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
         "Obsessive Love",
         "Psychological",
         "Sexual Abuse",
         "Stalkers",
+        "Attempted Suicide",
         "Longstrip",
+        "Short Story",
         "Full Color",
         "Web Comic"
       ],
@@ -252,6 +293,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.88
+    "confidence": 1
   }
 }

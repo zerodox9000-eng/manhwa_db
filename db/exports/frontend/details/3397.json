@@ -33,8 +33,10 @@
     {
       "language": "tr",
       "title": "Ben yanlız gelişirim",
-      "traits": [],
-      "is_primary": true,
+      "traits": [
+        "alternative"
+      ],
+      "is_primary": false,
       "note": null
     },
     {
@@ -75,27 +77,15 @@
     {
       "language": "pt-br",
       "title": "Jogador solo",
-      "traits": [],
-      "is_primary": true,
+      "traits": [
+        "alternative"
+      ],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Na Honjaman Lebel-eob",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "ko",
-      "title": "Na Honjaman Level Up",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "Na Honjaman Level Up",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -117,25 +107,20 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Ore Dake Level Up na Ken",
+      "language": "ja-Latn",
+      "title": "Ore Dake Level-Up na Ken",
       "traits": [
         "native"
       ],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "ja",
-      "title": "Ore Dake Level-Up na Ken",
-      "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "tr",
       "title": "Sadece Ben Seviye Atlayabiliyorum",
-      "traits": [],
+      "traits": [
+        "alternative"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -154,7 +139,16 @@
       "note": null
     },
     {
-      "language": "pt",
+      "language": "pt-br",
+      "title": "Solo Leveling",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "tr",
       "title": "Solo Leveling",
       "traits": [
         "official"
@@ -172,16 +166,20 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Solo Levelling",
-      "traits": [],
-      "is_primary": false,
+      "language": "pt",
+      "title": "Solo Leveling",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "tr",
       "title": "Tek başına seviye atlama",
-      "traits": [],
+      "traits": [
+        "alternative"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -195,14 +193,18 @@
     {
       "language": "pt-br",
       "title": "Upando sozinho",
-      "traits": [],
+      "traits": [
+        "alternative"
+      ],
       "is_primary": false,
       "note": null
     },
     {
       "language": "tr",
       "title": "Yalnız Seviye Atlama",
-      "traits": [],
+      "traits": [
+        "alternative"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -307,7 +309,9 @@
     {
       "language": "ja",
       "title": "俺だけレベルアップな件",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -348,9 +352,9 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.232Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T00:34:51.668Z",
+  "last_updated_at": "2026-06-17T15:05:03.725Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
     "Chu-Gong"
   ],
@@ -495,15 +499,15 @@
     528
   ],
   "stats": {
-    "popularity": 277186,
+    "popularity": 277267,
     "favourites": 31320,
     "meanScore": 84
   },
   "analytics": {
-    "fanFavouriteRaw": 11.2993,
-    "fanRatioPercentile": 99.5176,
+    "fanFavouriteRaw": 11.296,
+    "fanRatioPercentile": 99.5331,
     "popularityPercentile": 100,
-    "fanFavouriteDiscoveryScore": 99.3911,
+    "fanFavouriteDiscoveryScore": 99.4066,
     "fanFavouriteDiscoveryPercentile": 99.977
   },
   "context": {

@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T04:46:30.839Z",
-  "mangabaka_latest_rank": 843,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "last_updated_at": "2026-06-18T04:27:17.905Z",
+  "mangabaka_latest_rank": 886,
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
     "Dae-Won Dae",
     "Youkina Ojisan"
@@ -107,40 +107,55 @@
   },
   "tag_ids": [
     43,
+    266,
     59,
+    748,
+    622,
     108,
+    509,
     36,
     1,
     31,
+    227,
     9,
+    236,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6334,
-    "popularityPercentile": 0.1302,
-    "fanFavouriteDiscoveryScore": 5.0716,
-    "fanFavouriteDiscoveryPercentile": 0.1302
+    "fanRatioPercentile": 31.6366,
+    "popularityPercentile": 1.3319,
+    "fanFavouriteDiscoveryScore": 5.5132,
+    "fanFavouriteDiscoveryPercentile": 1.2477
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
+      "euro-fantasy",
+      "euro-romance",
+      "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression",
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "regression"
+      ],
       "conflictType": [
         "revenge",
         "romance"
@@ -154,10 +169,10 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "business-career-regression / regression",
     "searchKeywords": [
       "enemies",
       "weep",
@@ -194,12 +209,18 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Villainess",
         "Female Lead",
+        "Age Regression",
+        "Fake Relationship",
         "Heterosexual",
+        "Alternate Universe",
         "Fantasy",
         "Sci-Fi",
         "Drama",
+        "Revenge",
         "Romance",
+        "Super Powers",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -246,6 +267,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.97
   }
 }

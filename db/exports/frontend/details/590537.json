@@ -3,14 +3,23 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Love Me More",
-  "mangabaka_title": "Love Me More (Jaeha)",
-  "native_title": "러브 미 모어 (재하)",
-  "romanized_title": null,
+  "mangabaka_title": "Love me more",
+  "native_title": "러브 미 모어",
+  "romanized_title": "Love me more",
   "titles": [
     {
       "language": "ko",
       "title": "러브 미 모어",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Love me more",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,29 +39,33 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-17T04:24:04.097Z",
-  "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "last_updated_at": "2026-06-18T00:46:13.030Z",
+  "mangabaka_latest_rank": 17,
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
-    "Whale (II)",
-    "Woobi"
+    "Ubi",
+    "Whale"
   ],
   "artists": [
-    "Jaeha (재하)"
+    "Jaeha"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/590537",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213304,
+      "rating": null,
+      "url": "https://anilist.co/manga/213304"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "hutkooe",
@@ -75,13 +88,16 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6366,
+    "popularityPercentile": 0.1378,
+    "fanFavouriteDiscoveryScore": 5.0748,
+    "fanFavouriteDiscoveryPercentile": 0.1378
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -105,10 +121,9 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / modern-korea",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "love",
-      "jaeha",
       "si-yul",
       "worked",
       "hard",
@@ -146,7 +161,7 @@
       "titleTerms": [
         "love",
         "love",
-        "jaeha"
+        "love"
       ],
       "descriptionTerms": [
         "si-yul",
@@ -175,9 +190,10 @@
         "part-time"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.42
+    "confidence": 0.49
   }
 }

@@ -2,8 +2,8 @@
   "id": 577011,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Journey of Iron and Ice",
-  "mangabaka_title": "Cheolgwa Eoreumui Yeojeong",
+  "display_title": "The Journey of Ice and Steel",
+  "mangabaka_title": "The Journey of Ice and Steel",
   "native_title": "철과 얼음의 여정",
   "romanized_title": "Cheolgwa Eoreumui Yeojeong",
   "titles": [
@@ -29,7 +29,7 @@
       "language": "en",
       "title": "Journey of Iron and Ice",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -40,6 +40,15 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "The Journey of Ice and Steel",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh",
       "title": "冰与铁的旅程",
       "traits": [],
@@ -47,12 +56,12 @@
       "note": null
     }
   ],
-  "description": "They embark on a pilgrimage to Antarctica to discover their true identity. Who are we, and where are we going?\n\n(Source: Naver, translated)",
+  "description": "Jane Atteras brings a severed head to Dr. Maels. It speaks of a factory in Antarctica. The birthplace of humanity. Or what they think is humanity. Before long, a secret expedition is underway-- a pilgrimage, if you will, to the homeland. Only, more powerful nations have caught wind and are setting sail. What will kill them first? Their fellow humans, the cold, or something much worse?\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzgvYi9mL2YvZi83LzEvYWQxNy80NTZjLzkwYzMvZTQ1ZjIyMDFlZWE2",
-  "total_chapters": "20",
+  "total_chapters": "26",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-01-23",
@@ -62,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-16T06:23:00.090Z",
-  "mangabaka_latest_rank": 955,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "last_updated_at": "2026-06-17T19:56:41.617Z",
+  "mangabaka_latest_rank": 998,
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
     "Ullong"
   ],
@@ -73,7 +82,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/577011",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10250"
   },
   "source": {
     "anilist": {
@@ -100,30 +109,33 @@
     428
   ],
   "stats": {
-    "popularity": 256,
+    "popularity": 260,
     "favourites": 5,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 1.9531,
-    "fanRatioPercentile": 68.7342,
-    "popularityPercentile": 57.4317,
-    "fanFavouriteDiscoveryScore": 65.8255,
-    "fanFavouriteDiscoveryPercentile": 74.8449
+    "fanFavouriteRaw": 1.9231,
+    "fanRatioPercentile": 68.2869,
+    "popularityPercentile": 57.7159,
+    "fanFavouriteDiscoveryScore": 65.462,
+    "fanFavouriteDiscoveryPercentile": 74.556
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "showbiz-career",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "showbiz-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "showbiz-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "showbiz"
+      ],
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
@@ -135,23 +147,37 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "showbiz-career",
     "searchKeywords": [
       "journey",
-      "iron",
       "ice",
+      "steel",
       "cheolgwa",
       "eoreumui",
       "yeojeong",
-      "embark",
-      "pilgrimage",
+      "jane",
+      "atteras",
+      "brings",
+      "severed",
+      "head",
+      "maels",
+      "speaks",
+      "factory",
       "antarctica",
-      "discover",
-      "true",
-      "identity",
-      "going",
-      "naver",
-      "translated"
+      "birthplace",
+      "humanity",
+      "what",
+      "think",
+      "before",
+      "long",
+      "secret",
+      "expedition",
+      "underway--",
+      "pilgrimage",
+      "homeland",
+      "powerful",
+      "nations",
+      "caught"
     ],
     "evidence": {
       "tags": [
@@ -167,31 +193,47 @@
       ],
       "titleTerms": [
         "journey",
-        "iron",
         "ice",
-        "cheolgwa",
-        "eoreumui",
-        "yeojeong",
+        "steel",
+        "journey",
+        "ice",
+        "steel",
         "cheolgwa",
         "eoreumui",
         "yeojeong"
       ],
       "descriptionTerms": [
-        "embark",
-        "pilgrimage",
+        "jane",
+        "atteras",
+        "brings",
+        "severed",
+        "head",
+        "maels",
+        "speaks",
+        "factory",
         "antarctica",
-        "discover",
-        "true",
-        "identity",
-        "going",
-        "naver",
-        "translated"
+        "birthplace",
+        "humanity",
+        "what",
+        "think",
+        "humanity",
+        "before",
+        "long",
+        "secret",
+        "expedition",
+        "underway--",
+        "pilgrimage",
+        "homeland",
+        "powerful",
+        "nations",
+        "caught"
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.6
   }
 }

@@ -120,9 +120,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T04:18:14.861Z",
-  "mangabaka_latest_rank": 6632,
-  "mangabaka_latest_snapshot_at": "2026-06-11T13:46:42.242Z",
+  "last_updated_at": "2026-06-18T04:18:52.432Z",
+  "mangabaka_latest_rank": 6703,
+  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
   "authors": [
     "Elluang",
     "Nuri Han"
@@ -137,7 +137,7 @@
   "source": {
     "anilist": {
       "id": 184530,
-      "rating": 60,
+      "rating": 61,
       "url": "https://anilist.co/manga/184530"
     },
     "animeplanet": {
@@ -154,42 +154,76 @@
   "tag_ids": [
     43,
     266,
+    1455,
+    1456,
+    1522,
+    583,
+    1094,
     59,
+    2175,
+    2126,
+    2197,
+    581,
+    1817,
+    2171,
+    2287,
+    2479,
+    2025,
+    67,
+    2024,
+    75,
     74,
+    394,
+    647,
+    679,
+    584,
     108,
+    1681,
     36,
     94,
+    22,
+    2700,
+    369,
+    620,
+    662,
+    1595,
     31,
+    1816,
     32,
     127,
     128,
+    379,
     9,
+    883,
     605,
+    238,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 241,
+    "popularity": 242,
     "favourites": 2,
-    "meanScore": 60
+    "meanScore": 61
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8299,
-    "fanRatioPercentile": 39.4441,
-    "popularityPercentile": 56.3596,
-    "fanFavouriteDiscoveryScore": 37.6261,
-    "fanFavouriteDiscoveryPercentile": 41.9098
+    "fanFavouriteRaw": 0.8264,
+    "fanRatioPercentile": 39.4213,
+    "popularityPercentile": 56.4146,
+    "fanFavouriteDiscoveryScore": 37.6123,
+    "fanFavouriteDiscoveryPercentile": 41.8402
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
       "euro-fantasy",
       "euro-romance",
       "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
+      "business-career-regression",
       "euro-fantasy"
     ],
     "excludedProfiles": [],
@@ -200,13 +234,16 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
+        "regression",
         "reincarnation"
       ],
       "conflictType": [
+        "politics",
         "romance"
       ],
       "progressionType": [],
       "tone": [
+        "tense",
         "warm"
       ],
       "worldType": [
@@ -214,10 +251,10 @@
         "system-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "minor"
     },
-    "semanticSummary": "euro-fantasy / kingdom-fantasy / reincarnation",
+    "semanticSummary": "business-career-regression / kingdom-fantasy / regression / reincarnation",
     "searchKeywords": [
       "abandon",
       "abandoned",
@@ -250,20 +287,44 @@
       "tags": [
         "Josei",
         "Villainess",
+        "Blue-Eyed Female Lead",
+        "Blue-Eyed Male Lead",
+        "Eye Color Change",
+        "Black-Haired Male Lead",
+        "Blonde-Haired Female Lead",
         "Female Lead",
+        "Dead Female Lead",
+        "Determined Female Lead",
+        "Selfish Female Lead",
+        "Shameless Female Lead",
+        "Strong-Willed Female Lead",
+        "Stubborn Female Lead",
+        "Transmigrated Female Lead",
+        "Cursed Male Lead",
+        "Prince Male Lead",
+        "Strong Male Lead",
+        "Talented Male Lead",
+        "Based on a Novel",
         "Based on a Web Novel",
+        "Curses",
+        "Misunderstandings",
+        "Memory Manipulation",
+        "Time Rewind",
         "Heterosexual",
+        "Royal-Noble Relationship",
         "Fantasy",
         "Isekai",
+        "Supernatural",
+        "First-Night Intercourse",
+        "Virginity",
+        "Goddess",
+        "Spirits",
+        "Near-Death Experience",
         "Drama",
+        "Female Empowerment",
         "Mystery",
         "Nobility",
-        "Royalty",
-        "Romance",
-        "Otome Game",
-        "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Royalty"
       ],
       "titleTerms": [
         "abandon",
@@ -306,6 +367,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.81
+    "confidence": 1
   }
 }
