@@ -2,8 +2,8 @@
   "id": 583758,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Assault on a Superior",
-  "mangabaka_title": "Sangsapokaeng",
+  "display_title": "Corporate Punch",
+  "mangabaka_title": "Corporate Punch",
   "native_title": "상사폭행",
   "romanized_title": "Sangsapokaeng",
   "titles": [
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Assault on a Superior",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -35,6 +35,15 @@
       "title": "Boss Beating",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Corporate Punch",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -54,12 +63,12 @@
       "note": null
     }
   ],
-  "description": "At 18, Kwon Seung-Ho—the “Legend”—reigned supreme over high schools across Seoul, reaching the pinnacle of violence. But after reaching the top, Kwon Seung-Ho vanished without a trace... Now, ten years later, defying everyone’s expectations that he would have become at least a nationwide gang boss, he has reappeared as a new employee at Samjin Corporation!\n\n(Source: Naver, translated)",
+  "description": "Seung-Ho Gwon was once a terrifying underworld legend, but now he’s just an unassuming salaryman trying to survive the corporate grind. His peaceful life is shattered, however, when he reverts to his violent instincts and beats up a vital business partner-- a blunder that leaves his company with catastrophic losses and a warehouse of unmovable stock. To save his career, Seung-Ho must navigate cutthroat office politics and the criminal streets he once ruled to move the inventory. Can Seung-Ho settle the debt as a regular employee, or will “The Legend” have to come out of retirement to finish the job?\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzAvOC9jLzgvZC8zLzAvYzQ2NS80NzU0LzljOTkvYTQwNjdhNWMwNDMx",
   "total_chapters": "0",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-03-29",
@@ -69,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-18T05:28:53.611Z",
-  "mangabaka_latest_rank": 594,
-  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
+  "last_updated_at": "2026-06-19T05:29:39.677Z",
+  "mangabaka_latest_rank": 599,
+  "mangabaka_latest_snapshot_at": "2026-06-19T06:06:18.401Z",
   "authors": [
     "Level Studio"
   ],
@@ -80,7 +89,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/583758",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10337"
   },
   "source": {
     "anilist": {
@@ -107,16 +116,16 @@
     428
   ],
   "stats": {
-    "popularity": 95,
+    "popularity": 99,
     "favourites": 2,
     "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1053,
-    "fanRatioPercentile": 72.2673,
-    "popularityPercentile": 38.9697,
-    "fanFavouriteDiscoveryScore": 59.9326,
-    "fanFavouriteDiscoveryPercentile": 68.1108
+    "fanFavouriteRaw": 2.0202,
+    "fanRatioPercentile": 70.4591,
+    "popularityPercentile": 39.7552,
+    "fanFavouriteDiscoveryScore": 59.0719,
+    "fanFavouriteDiscoveryPercentile": 67.2533
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -126,8 +135,7 @@
       "corporate-workplace",
       "korean-business",
       "modern-korea",
-      "modern-workplace",
-      "school-life"
+      "modern-workplace"
     ],
     "primaryAnchors": [
       "business-career-regression",
@@ -137,20 +145,24 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
-        "corporate-workplace",
-        "school"
+        "corporate-workplace"
       ],
       "protagonistRole": [
         "employee"
       ],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "politics"
+      ],
       "progressionType": [
         "career-growth"
       ],
-      "tone": [],
+      "tone": [
+        "tense"
+      ],
       "worldType": [
         "modern-urban"
       ],
@@ -158,32 +170,34 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression / modern-korea / corporate-workplace",
+    "semanticSummary": "business-career-regression / corporate-workplace",
     "searchKeywords": [
-      "assault",
-      "superior",
+      "corporate",
+      "punch",
       "sangsapokaeng",
-      "kwon",
       "seung-ho",
+      "gwon",
+      "terrifying",
+      "underworld",
       "legend",
-      "reigned",
-      "supreme",
-      "over",
-      "high",
-      "schools",
-      "across",
-      "seoul",
-      "reaching",
-      "pinnacle",
-      "violence",
-      "top",
-      "vanished",
-      "without",
-      "trace",
-      "ten",
-      "years",
-      "later",
-      "defying"
+      "unassuming",
+      "salaryman",
+      "trying",
+      "survive",
+      "grind",
+      "peaceful",
+      "shattered",
+      "however",
+      "reverts",
+      "violent",
+      "instincts",
+      "beats",
+      "vital",
+      "business",
+      "partner--",
+      "blunder",
+      "leaves",
+      "company"
     ],
     "evidence": {
       "tags": [
@@ -198,40 +212,42 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "assault",
-        "superior",
-        "sangsapokaeng",
+        "corporate",
+        "punch",
+        "corporate",
+        "punch",
         "sangsapokaeng"
       ],
       "descriptionTerms": [
-        "kwon",
         "seung-ho",
+        "gwon",
+        "terrifying",
+        "underworld",
         "legend",
-        "reigned",
-        "supreme",
-        "over",
-        "high",
-        "schools",
-        "across",
-        "seoul",
-        "reaching",
-        "pinnacle",
-        "violence",
-        "reaching",
-        "top",
-        "kwon",
-        "seung-ho",
-        "vanished",
-        "without",
-        "trace",
-        "ten",
-        "years",
-        "later",
-        "defying"
+        "unassuming",
+        "salaryman",
+        "trying",
+        "survive",
+        "corporate",
+        "grind",
+        "peaceful",
+        "shattered",
+        "however",
+        "reverts",
+        "violent",
+        "instincts",
+        "beats",
+        "vital",
+        "business",
+        "partner--",
+        "blunder",
+        "leaves",
+        "company"
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
     "confidence": 1

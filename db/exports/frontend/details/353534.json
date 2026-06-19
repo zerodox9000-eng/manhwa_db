@@ -2,8 +2,8 @@
   "id": 353534,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Unrivaled Spear Demon",
-  "mangabaka_title": "Yari Oni Musou",
+  "display_title": "Unrivaled Spear Ghost",
+  "mangabaka_title": "Unrivaled Spear Ghost",
   "native_title": "槍鬼無双",
   "romanized_title": "Unrivaled Spear Ghost",
   "titles": [
@@ -34,14 +34,16 @@
       "language": "en",
       "title": "Unrivaled Spear Demon",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Unrivaled Spear Ghost",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -79,12 +81,12 @@
       "note": null
     }
   ],
-  "description": "Shuji, a soldier who danced with death many times while on the battlefield, was possessed by the grudges and resentment of those he had killed. He too was eventually killed, but somehow he awoke in a younger version of himself. He returned to a time when he was still an errand boy, inexperienced with war, but retained his memories. Remembering Kyo Aiyo, his comrade and savior, Shuji travelled to the ‘Tiger Pit’ Sect. However, instead of the strong and reliable woman, he was met with a cheerful and petite girl. He recalled the tragic past that had caused her to devote herself to the army, where in his previous life her family had fallen apart due to false rumors. ‘This time, I will protect you.’ He vowed to repay the kindness he received in his previous life by changing her fate. With a spear in his right hand, Shuji steps into the battlefield once again, becoming the Unrivaled Spear Demon.",
+  "description": "What lengths would you go for a fallen friend? When the bitter soldier Chui mysteriously finds himself sent back in time, he rushes off to save his sworn brother and comrade-in-arms, Hu Yurang. But when he arrives at Yurang's house, he discovers that his sworn brother... is actually a girl. Now, Chui's out to protect her from dangerous foes (and suitors) using a spear and the terrifying demonic arts from his past life. Can Chui change Yurang's fate, or are these two destined for death once more?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzIvZC8xLzQvYi85LzkvMjg4My80MzRkL2IzOTMvYzRkZmM5MWM0ZDVh",
   "total_chapters": "40",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-06-01",
@@ -94,9 +96,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-18T02:53:16.242Z",
-  "mangabaka_latest_rank": 2915,
-  "mangabaka_latest_snapshot_at": "2026-06-18T05:49:23.796Z",
+  "last_updated_at": "2026-06-19T02:53:39.077Z",
+  "mangabaka_latest_rank": 2920,
+  "mangabaka_latest_snapshot_at": "2026-06-19T06:06:18.401Z",
   "authors": [
     "S.J",
     "Songjang Beolle",
@@ -107,7 +109,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/353534",
-    "read_en": null
+    "read_en": "https://tapas.io/series/unrivaled-spear-ghost/info"
   },
   "source": {
     "anilist": {
@@ -157,22 +159,21 @@
     428
   ],
   "stats": {
-    "popularity": 1201,
+    "popularity": 1203,
     "favourites": 27,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 2.2481,
-    "fanRatioPercentile": 75.3138,
-    "popularityPercentile": 83.7263,
-    "fanFavouriteDiscoveryScore": 74.9437,
-    "fanFavouriteDiscoveryPercentile": 82.9072
+    "fanFavouriteRaw": 2.2444,
+    "fanRatioPercentile": 75.2104,
+    "popularityPercentile": 83.749,
+    "fanFavouriteDiscoveryScore": 74.8414,
+    "fanFavouriteDiscoveryPercentile": 82.8768
   },
   "context": {
     "primaryProfile": "business-career-regression",
     "profileGroups": [
       "business-career-regression",
-      "chinese-murim",
       "horror-survival",
       "modern-korea",
       "murim-wuxia",
@@ -181,15 +182,13 @@
     ],
     "primaryAnchors": [
       "business-career-regression",
-      "chinese-murim",
       "horror-survival",
       "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
-        "murim-world"
+        "modern-korea"
       ],
       "protagonistRole": [
         "martial-artist"
@@ -212,45 +211,39 @@
       ],
       "worldType": [
         "modern-urban",
-        "fantasy-world",
-        "martial-world"
+        "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression / modern-korea / murim-world / regression",
+    "semanticSummary": "business-career-regression / modern-korea / regression",
     "searchKeywords": [
       "unrivaled",
       "spear",
-      "demon",
-      "yari",
-      "oni",
-      "musou",
       "ghost",
-      "shuji",
+      "what",
+      "lengths",
+      "fallen",
+      "friend",
+      "bitter",
       "soldier",
-      "danced",
-      "death",
-      "many",
-      "times",
-      "while",
-      "battlefield",
-      "possessed",
-      "grudges",
-      "resentment",
-      "those",
-      "killed",
-      "too",
-      "eventually",
-      "somehow",
-      "awoke",
-      "younger",
-      "version",
+      "chui",
+      "mysteriously",
+      "finds",
       "himself",
-      "returned",
+      "sent",
       "time",
-      "still"
+      "rushes",
+      "off",
+      "save",
+      "sworn",
+      "brother",
+      "comrade-in-arms",
+      "yurang",
+      "arrives",
+      "house",
+      "discovers"
     ],
     "evidence": {
       "tags": [
@@ -286,44 +279,45 @@
       "titleTerms": [
         "unrivaled",
         "spear",
-        "demon",
-        "yari",
-        "oni",
-        "musou",
+        "ghost",
+        "unrivaled",
+        "spear",
+        "ghost",
         "unrivaled",
         "spear",
         "ghost"
       ],
       "descriptionTerms": [
-        "shuji",
+        "what",
+        "lengths",
+        "fallen",
+        "friend",
+        "bitter",
         "soldier",
-        "danced",
-        "death",
-        "many",
-        "times",
-        "while",
-        "battlefield",
-        "possessed",
-        "grudges",
-        "resentment",
-        "those",
-        "killed",
-        "too",
-        "eventually",
-        "killed",
-        "somehow",
-        "awoke",
-        "younger",
-        "version",
+        "chui",
+        "mysteriously",
+        "finds",
         "himself",
-        "returned",
+        "sent",
         "time",
-        "still"
+        "rushes",
+        "off",
+        "save",
+        "sworn",
+        "brother",
+        "comrade-in-arms",
+        "yurang",
+        "arrives",
+        "yurang",
+        "house",
+        "discovers",
+        "sworn"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 1
