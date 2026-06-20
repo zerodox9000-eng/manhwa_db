@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-18T10:41:43.252Z",
-  "mangabaka_latest_rank": 2363,
-  "mangabaka_latest_snapshot_at": "2026-06-19T06:06:18.401Z",
+  "last_updated_at": "2026-06-19T17:36:57.187Z",
+  "mangabaka_latest_rank": 2374,
+  "mangabaka_latest_snapshot_at": "2026-06-20T05:23:54.441Z",
   "authors": [
     "23"
   ],
@@ -93,17 +93,43 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "0ngf7jo",
-      "rating": 67,
+      "rating": 68,
       "url": "https://www.mangaupdates.com/series/0ngf7jo"
     }
   },
   "tag_ids": [
     43,
+    1094,
+    1409,
+    1376,
     1184,
+    2262,
+    1965,
+    2320,
+    2112,
+    382,
+    2392,
+    2570,
+    595,
+    653,
+    647,
+    1731,
+    885,
+    172,
+    114,
+    98,
     243,
+    242,
+    1567,
     108,
+    1946,
     46,
+    21,
+    41,
+    171,
     6,
+    875,
+    776,
     9,
     226,
     93,
@@ -118,20 +144,26 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.0695,
-    "fanRatioPercentile": 45.9373,
-    "popularityPercentile": 51.1783,
-    "fanFavouriteDiscoveryScore": 42.7559,
-    "fanFavouriteDiscoveryPercentile": 48.2862
+    "fanRatioPercentile": 45.9309,
+    "popularityPercentile": 51.1779,
+    "fanFavouriteDiscoveryScore": 42.7498,
+    "fanFavouriteDiscoveryPercentile": 48.2637
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
-      "romance-core"
+      "modern-korea",
+      "regression-return",
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -143,12 +175,14 @@
         "comedic",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "sweeten",
       "deal",
@@ -183,11 +217,37 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Blonde-Haired Female Lead",
+        "Light-Haired Male Lead",
+        "Long-Haired Female Lead",
         "Cheerful Female Lead",
+        "Simple-Minded Female Lead",
+        "Straightforward Female Lead",
+        "University Student Female Lead",
+        "LGBTQ+ Characters",
+        "Bisexual",
+        "Shy Male Lead",
+        "University Student Male Lead",
+        "South Korea",
+        "Male Lead Falls in Love First",
+        "Misunderstandings",
+        "Realistic Homosexual Relationship",
+        "Unrequited Love Becomes Requited",
+        "Time Skip",
+        "Older Female Younger Male",
+        "Childhood Friends to Lovers",
         "Friends to Lovers",
+        "Friendship",
+        "Tall Male Short Female",
         "Heterosexual",
+        "Korean ambience",
         "Adult",
+        "Ecchi",
+        "Smut",
+        "Cunnilingus",
         "Comedy",
+        "First Love",
+        "Korean Folklore",
         "Romance",
         "Unrequited Love",
         "Longstrip",
@@ -241,6 +301,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.8
   }
 }

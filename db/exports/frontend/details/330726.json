@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Rooftop Guardian Deity",
-  "mangabaka_title": "Rooftop Guardian Deity",
+  "mangabaka_title": "Oktapbang Suhosin",
   "native_title": "옥탑방 수호신",
-  "romanized_title": null,
+  "romanized_title": "Oktapbang Suhosin",
   "titles": [
     {
       "language": "ko",
       "title": "옥탑방 수호신",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Oktapbang Suhosin",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,36 +40,40 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://series.naver.com/comic/detail.series?productNo=13910015)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3Jvb2Z0b3AtZ3VhcmRpYW4tZGVpdHktMS53ZWJwP3Q9MTY5NTc2NzczMQ",
-  "total_chapters": "29",
+  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851822), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13910015)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxMzM0Ni13dXRPSzFZMDBNbEMuanBn",
+  "total_chapters": "31",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
+    "start_date": "2023-08-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-26T00:03:36.038Z",
-  "mangabaka_latest_rank": 3673,
-  "mangabaka_latest_snapshot_at": "2026-06-19T06:06:18.401Z",
+  "last_updated_at": "2026-06-19T17:16:14.195Z",
+  "mangabaka_latest_rank": 3684,
+  "mangabaka_latest_snapshot_at": "2026-06-20T05:23:54.441Z",
   "authors": [
-    "Ibat"
+    "Bat Lee"
   ],
   "artists": [
-    "Ibat"
+    "Bat Lee"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/330726",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213346,
+      "rating": null,
+      "url": "https://anilist.co/manga/213346"
+    },
     "animeplanet": {
       "id": "rooftop-guardian-deity",
       "rating": null,
@@ -72,6 +87,8 @@
   },
   "tag_ids": [
     36,
+    22,
+    31,
     7,
     93,
     57,
@@ -83,9 +100,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5741,
+    "popularityPercentile": 0.1683,
+    "fanFavouriteDiscoveryScore": 5.0756,
+    "fanFavouriteDiscoveryPercentile": 0.1683
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -95,7 +114,9 @@
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -111,17 +132,23 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "rooftop",
       "guardian",
       "deity",
+      "oktapbang",
+      "suhosin",
       "original",
-      "webtoon"
+      "webtoon",
+      "naver",
+      "series"
     ],
     "evidence": {
       "tags": [
         "Fantasy",
+        "Supernatural",
+        "Drama",
         "Slice of Life",
         "Longstrip",
         "Full Color",
@@ -131,19 +158,25 @@
         "rooftop",
         "guardian",
         "deity",
-        "rooftop",
-        "guardian",
-        "deity"
+        "oktapbang",
+        "suhosin",
+        "oktapbang",
+        "suhosin"
       ],
       "descriptionTerms": [
         "original",
-        "webtoon"
+        "webtoon",
+        "naver",
+        "webtoon",
+        "naver",
+        "series"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.42
   }
 }
