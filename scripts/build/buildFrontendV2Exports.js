@@ -379,8 +379,11 @@ function buildDetailRecord(entry, catalogRecord) {
 
 function validateCatalog(catalog) {
   const errors = [];
+  const seenIds = new Set();
   for (const item of catalog) {
     if (!item.id) errors.push("Catalog item missing id");
+    if (seenIds.has(item.id)) errors.push(`Duplicate catalog id ${item.id}`);
+    seenIds.add(item.id);
     if (!item.display_title) errors.push(`Series ${item.id} missing display_title`);
     if (item.anilist_added_rank != null && !item.source_flags.anilist) {
       errors.push(`Series ${item.id} has anilist_added_rank without AniList source`);
@@ -409,9 +412,15 @@ async function main() {
   const catalog = [];
   const details = [];
   const unmatchedAniListIds = new Set(anilistResult.ranks.keys());
+  const uniqueSeriesRows = new Map();
   let animeplanetTitlesDerived = 0;
 
   for (const entry of seriesRows.sort((a, b) => a.id - b.id)) {
+    if (!entry?.id) continue;
+    uniqueSeriesRows.set(Number(entry.id), entry);
+  }
+
+  for (const entry of [...uniqueSeriesRows.values()].sort((a, b) => a.id - b.id)) {
     const record = buildCatalogRecord(
       entry,
       stats,
@@ -515,6 +524,7 @@ async function main() {
     exportDir: EXPORT_DIR,
     buildId,
     recordsRead: seriesRows.length,
+    uniqueRecordsRead: uniqueSeriesRows.size,
     recordsWritten: catalog.length,
     anilistPagesFetched: anilistResult.pages,
     anilistRanksFetched: anilistResult.fetched,

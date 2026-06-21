@@ -42,8 +42,11 @@ function validate() {
 
   let anilistRanks = 0;
   let animeplanetTitles = 0;
+  const seenIds = new Set();
   for (const item of catalog) {
     assert(Number.isInteger(item.id), "Catalog item missing integer id", errors);
+    assert(!seenIds.has(item.id), `Duplicate catalog id ${item.id}`, errors);
+    seenIds.add(item.id);
     assert(Boolean(item.display_title), `Series ${item.id} missing display_title`, errors);
     assert(item.cover?.aspectRatio > 0, `Series ${item.id} missing positive cover aspectRatio`, errors);
     assert(item.release && typeof item.release === "object", `Series ${item.id} missing release object`, errors);
@@ -63,6 +66,13 @@ function validate() {
 
   const detailTemplate = manifest.files?.details?.pathTemplate;
   assert(typeof detailTemplate === "string" && detailTemplate.includes("{id}"), "Missing detail path template", errors);
+  const detailPrefix = typeof detailTemplate === "string" ? detailTemplate.split("{id}")[0] : "";
+  const detailsDir = path.join(EXPORT_DIR, detailPrefix);
+  const detailFileCount = fs.existsSync(detailsDir)
+    ? fs.readdirSync(detailsDir).filter((file) => file.endsWith(".json")).length
+    : 0;
+  assert(detailFileCount === manifest.files?.details?.count, "Detail file count does not match manifest", errors);
+  assert(detailFileCount === catalog.length, "Detail file count does not match catalog count", errors);
   for (const item of catalog.slice(0, 10)) {
     const detailPath = path.join(EXPORT_DIR, detailTemplate.replace("{id}", String(item.id)));
     assert(fs.existsSync(detailPath), `Missing sample detail file: ${detailPath}`, errors);

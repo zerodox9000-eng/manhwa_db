@@ -1,0 +1,64 @@
+{
+  "contract": {
+    "name": "manhwa-frontend-v2",
+    "version": 1,
+    "minimumFrontendContractVersion": 1
+  },
+  "build": {
+    "id": "c3e308eb0c83ef51",
+    "startedAt": "2026-06-21T16:56:35.273Z",
+    "completedAt": "2026-06-21T16:57:18.900Z"
+  },
+  "atomicLoading": {
+    "entrypoint": "manifest.json",
+    "immutableBuildRoot": "builds/c3e308eb0c83ef51/",
+    "switchPolicy": "download-and-validate-build-before-visible-switch"
+  },
+  "sources": {
+    "mangaBakaLatestSnapshotAt": "2026-06-21T16:52:52.885Z",
+    "anilistAddedRankSnapshotAt": "2026-06-21T16:56:35.273Z",
+    "anilistAddedRankSkipped": false
+  },
+  "counts": {
+    "catalog": 18779,
+    "details": 18779,
+    "tags": 2308,
+    "anilistAddedRanksFetched": 200,
+    "anilistAddedRanksMatched": 204,
+    "anilistAddedRanksUnmatched": 7,
+    "animeplanetTitlesDerived": 12041
+  },
+  "files": {
+    "catalog": {
+      "path": "builds/c3e308eb0c83ef51/catalog/index.json",
+      "gzipPath": "builds/c3e308eb0c83ef51/catalog/index.json.gz",
+      "bytes": 50197368,
+      "gzipBytes": 6466111,
+      "sha256": "7d8dc0c1b9ea620d175c1122dfa8ddde8fb1835a974c255d86480cf523afbfba"
+    },
+    "tags": {
+      "path": "builds/c3e308eb0c83ef51/tags/graph.json",
+      "gzipPath": "builds/c3e308eb0c83ef51/tags/graph.json.gz",
+      "bytes": 590103,
+      "gzipBytes": 52280,
+      "sha256": "89143e862dad20c880f07013726d6ffa600a37fe52b94fd7a529960e28345aee"
+    },
+    "details": {
+      "pathTemplate": "builds/c3e308eb0c83ef51/details/{id}.json",
+      "count": 18779,
+      "largest": {
+        "id": 3397,
+        "bytes": 11754
+      }
+    }
+  },
+  "feedSemantics": {
+    "nonAniListAdd": "mangabaka_latest_rank",
+    "aniListAdd": "anilist_added_rank",
+    "aniListRel": "release.rel_sort_date where source_flags.anilist is true",
+    "nonAniListRel": "release.rel_sort_date where source_flags.anilist is false",
+    "estimatedDatesExcludedFromRel": true,
+    "futureDatesExcludedFromRel": true
+  },
+  "warnings": []
+}
