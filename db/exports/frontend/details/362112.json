@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-20T00:18:19.088Z",
-  "mangabaka_latest_rank": 2699,
-  "mangabaka_latest_snapshot_at": "2026-06-20T05:23:54.441Z",
+  "last_updated_at": "2026-06-21T00:18:48.609Z",
+  "mangabaka_latest_rank": 2703,
+  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
   "authors": [
     "BINO"
   ],
@@ -96,6 +96,7 @@
     848,
     890,
     2030,
+    2825,
     889,
     2732,
     280,
@@ -111,10 +112,12 @@
     95,
     348,
     180,
+    1947,
     16,
     31,
     383,
     706,
+    403,
     893,
     237,
     227,
@@ -128,21 +131,22 @@
     428
   ],
   "stats": {
-    "popularity": 517,
+    "popularity": 518,
     "favourites": 14,
     "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7079,
-    "fanRatioPercentile": 82.8897,
-    "popularityPercentile": 70.4375,
-    "fanFavouriteDiscoveryScore": 81.6689,
-    "fanFavouriteDiscoveryPercentile": 88.6416
+    "fanFavouriteRaw": 2.7027,
+    "fanRatioPercentile": 82.8595,
+    "popularityPercentile": 70.4723,
+    "fanFavouriteDiscoveryScore": 81.6426,
+    "fanFavouriteDiscoveryPercentile": 88.5985
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
       "horror-survival",
+      "modern-korea",
       "modern-workplace",
       "office-romance",
       "romance-core"
@@ -152,7 +156,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -171,7 +177,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival",
+    "semanticSummary": "horror-survival / modern-korea",
     "searchKeywords": [
       "bullet",
       "time",
@@ -208,6 +214,7 @@
         "Family Drama",
         "Enemies Become Lovers",
         "Gangster",
+        "Spy",
         "Love-Hate Relationship",
         "Sex Partner",
         "Bondage",
@@ -223,10 +230,12 @@
         "Rape",
         "Human Pets",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
         "Drugs",
         "Espionage",
+        "Betrayal",
         "Obsessive Love",
         "Orphans",
         "Revenge",
@@ -236,8 +245,7 @@
         "Gore",
         "Elaborate",
         "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Full Color"
       ],
       "titleTerms": [
         "bullet",
@@ -280,6 +288,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.89
+    "confidence": 0.96
   }
 }

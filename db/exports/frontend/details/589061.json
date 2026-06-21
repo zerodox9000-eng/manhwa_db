@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Too Much To Call Us Friends",
-  "mangabaka_title": "Too Much To Call Us Friends",
+  "mangabaka_title": "Chingurago Hagieneun",
   "native_title": "친구라고 하기에는",
-  "romanized_title": null,
+  "romanized_title": "Chingurago Hagieneun",
   "titles": [
     {
       "language": "ko",
       "title": "친구라고 하기에는",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Chingurago Hagieneun",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,36 +40,40 @@
       "note": null
     }
   ],
-  "description": "Baek Ji-young enrolls in a newly established high school to reset her social circle. However, rumors from middle school about her being a spoiled princess and playing mind games follow her, leaving her unable to make a single friend even after a month. Feeling a sense of kinship with Yoo Ji-woo, who is also surrounded by rumors, she hopes they can become friends, but she gives up when she sees Ji-woo putting up a wall against everyone in the class. Then, Ji-woo rapidly closes the distance between them… \n\nAs Ji-young gets closer to Ji-woo, rumors that they are dating spread, plunging her into a whirlwind of relationships. To the confused Ji-young, Ji-woo approaches her as more than just a friend, despite having said they were just friends. \n\n\"Can we really stay friends?\"\n\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69324433), [Daum](https://webtoon.kakao.com/content/%EC%B9%9C%EA%B5%AC%EB%9D%BC%EA%B3%A0-%ED%95%98%EA%B8%B0%EC%97%90%EB%8A%94/4851)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2ODExLmpwZw",
+  "description": "Baek Ji-Yeong transfers to a new high school in hopes of starting fresh with her social life. However, rumors from middle school—that she has a “princess complex” and “plays the field”—follow her, and even after a month, she still hasn’t made any friends. She feels a sense of kinship with Yu Ji-U, who is also surrounded by rumors, and hopes they can become friends, but she gives up when she sees Ji-U putting up a wall against everyone in the class. Then, Ji-U begins to rapidly close the distance between them… \n\nAs she grows closer to Ji-U, rumors start spreading that they’re dating, and Ji-Yeong finds herself caught in a whirlwind of relationships. To a confused Ji-Yeong, Ji-U, who claimed to be just a friend, starts getting closer than just friends. \n\nCan we stay friends?\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzM1NC1oQ01xWHRPV2xJaDgucG5n",
   "total_chapters": "0",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-27",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-18T11:09:14.732Z",
-  "mangabaka_latest_rank": 159,
-  "mangabaka_latest_snapshot_at": "2026-06-20T05:23:54.441Z",
+  "last_updated_at": "2026-06-21T05:27:33.046Z",
+  "mangabaka_latest_rank": 163,
+  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
   "authors": [
-    "JIN (II)"
+    "JIN"
   ],
   "artists": [
-    "JIN (II)"
+    "JIN"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589061",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213354,
+      "rating": null,
+      "url": "https://anilist.co/manga/213354"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8johqsf",
@@ -69,8 +84,12 @@
   "tag_ids": [
     40,
     107,
+    108,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -78,9 +97,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.591,
+    "popularityPercentile": 0.2216,
+    "fanFavouriteDiscoveryScore": 5.0973,
+    "fanFavouriteDiscoveryPercentile": 0.2216
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -111,12 +132,10 @@
       "tone": [
         "warm"
       ],
-      "worldType": [
-        "system-world"
-      ],
+      "worldType": [],
       "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "minor"
+      "systemRole": "none"
     },
     "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
@@ -124,77 +143,84 @@
       "much",
       "call",
       "friends",
+      "chingurago",
+      "hagieneun",
       "baek",
-      "ji-young",
-      "enrolls",
-      "newly",
-      "established",
+      "ji-yeong",
+      "transfers",
       "high",
       "school",
-      "reset",
+      "hopes",
+      "starting",
+      "fresh",
       "social",
-      "circle",
       "however",
       "rumors",
       "middle",
-      "being",
-      "spoiled",
       "princess",
-      "playing",
-      "mind",
-      "games",
+      "complex",
+      "plays",
+      "field",
       "follow",
-      "leaving",
-      "unable",
-      "make"
+      "even",
+      "month",
+      "still",
+      "hasn",
+      "made",
+      "any"
     ],
     "evidence": {
       "tags": [
         "Shoujo",
         "School",
+        "Heterosexual",
         "Romance",
-        "School Life"
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "too",
         "much",
         "call",
         "friends",
-        "too",
-        "much",
-        "call",
-        "friends"
+        "chingurago",
+        "hagieneun",
+        "chingurago",
+        "hagieneun"
       ],
       "descriptionTerms": [
         "baek",
-        "ji-young",
-        "enrolls",
-        "newly",
-        "established",
+        "ji-yeong",
+        "transfers",
         "high",
         "school",
-        "reset",
+        "hopes",
+        "starting",
+        "fresh",
         "social",
-        "circle",
         "however",
         "rumors",
         "middle",
         "school",
-        "being",
-        "spoiled",
         "princess",
-        "playing",
-        "mind",
-        "games",
+        "complex",
+        "plays",
+        "field",
         "follow",
-        "leaving",
-        "unable",
-        "make"
+        "even",
+        "month",
+        "still",
+        "hasn",
+        "made",
+        "any"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.76
+    "confidence": 0.8
   }
 }

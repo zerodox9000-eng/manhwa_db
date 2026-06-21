@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-19T23:56:25.242Z",
-  "mangabaka_latest_rank": 36,
-  "mangabaka_latest_snapshot_at": "2026-06-20T05:23:54.441Z",
+  "last_updated_at": "2026-06-20T23:57:46.535Z",
+  "mangabaka_latest_rank": 41,
+  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
   "authors": [
     "Sanghan-nokcha"
   ],
@@ -71,7 +71,7 @@
   "source": {
     "anilist": {
       "id": 213236,
-      "rating": 63,
+      "rating": 65,
       "url": "https://anilist.co/manga/213236"
     },
     "animeplanet": null,
@@ -82,12 +82,22 @@
     }
   },
   "tag_ids": [
+    274,
     279,
+    1806,
+    1205,
+    1206,
+    312,
+    429,
+    661,
     36,
     22,
     46,
     15,
     41,
+    2690,
+    1550,
+    273,
     180,
     16,
     6,
@@ -97,46 +107,65 @@
     428
   ],
   "stats": {
-    "popularity": 20,
+    "popularity": 24,
     "favourites": 2,
-    "meanScore": 63
+    "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 10,
-    "fanRatioPercentile": 99.3804,
-    "popularityPercentile": 14.0278,
-    "fanFavouriteDiscoveryScore": 37.5744,
-    "fanFavouriteDiscoveryPercentile": 41.8311
+    "fanFavouriteRaw": 8.3333,
+    "fanRatioPercentile": 99.1136,
+    "popularityPercentile": 16.5902,
+    "fanFavouriteDiscoveryScore": 42.5631,
+    "fanFavouriteDiscoveryPercentile": 48.0896
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
       "modern-korea",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
-      "protagonistRole": [],
-      "careerDomain": [],
+      "setting": [
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "employee"
+      ],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [
         "comedic",
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "business-career-regression / corporate-workplace",
     "searchKeywords": [
       "kind",
       "snake",
@@ -171,12 +200,22 @@
     ],
     "evidence": {
       "tags": [
+        "Animal Characteristics",
         "Kemonomimi",
+        "Crybaby Uke",
+        "Company",
+        "Office",
+        "Office Lady",
+        "Office Worker",
+        "Boss-Subordinate Relationship",
         "Fantasy",
         "Supernatural",
         "Adult",
         "Mature",
         "Smut",
+        "Office Intercourse",
+        "One-Night Stand",
+        "Workplace Intercourse",
         "Boys Love",
         "Yaoi",
         "Comedy",
@@ -227,6 +266,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.55
+    "confidence": 1
   }
 }

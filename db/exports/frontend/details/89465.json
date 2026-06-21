@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Forgotten Juliet",
-  "mangabaka_title": "Ityeojin Juliet",
+  "mangabaka_title": "The Forgotten Juliet",
   "native_title": "잊혀진 줄리엣",
   "romanized_title": "Forgotten Juliet",
   "titles": [
@@ -37,7 +37,9 @@
     {
       "language": "en",
       "title": "The Forgotten Juliet",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -49,12 +51,12 @@
       "note": null
     }
   ],
-  "description": "In the north, Duke Lennox Carlyle, born with blessings and misfortune, always lived by simple rules: take what he wanted and discard what was no longer useful. Among the discarded was his contract with Juliet Monad, the fallen young countess who, seven years ago, came to him offering love at first sight in exchange for revenge. Now, after a farewell that hurt him like the sharpest dagger, fate grants them a second life marked by secrets, betrayals, and a new contract. This time, Juliet is not looking for love, but to use and be used until she ends the relationship on her own terms. But in a game of cat and mouse, neither the past nor forgotten promises will remain hidden for long.\n\n\n**Original Novel:**     \n[Chapters](https://page.kakao.com/content/54002523), [Volumes](https://page.kakao.com/content/67506643) \n\n**Original Webtoon:**      \n[KakaoPage](https://page.kakao.com/content/67482339), [Daum](https://webtoon.kakao.com/content/%EC%9E%8A%ED%98%80%EC%A7%84-%EC%A4%84%EB%A6%AC%EC%97%A3/4597)\n\n**Official Translations:**      \n[Japanese](https://jp.piccoma.com/web/product/190417)",
+  "description": "It’s Juliet Monad’s birthday, and she has only one wish—for the coldhearted Duke Lenox Carlyle to break up with her. When the infamously promiscuous duke refuses to let her go, Juliet takes matters into her own hands and leaves under the guise of illusion magic. Haunted by memories of a past life, Juliet is desperate for a way to escape a tragic fate. But the nature of magic isn’t always benevolent, and time isn’t on her side. Does Juliet have no choice but to rely on Duke Carlyle?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2QvMS85LzQvZi9hL2YvOTM2ZS80MjllLzk1YTcvZWIwNWQ3ZDg4NTI5",
   "total_chapters": "47",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-08-25",
@@ -64,9 +66,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-19T21:29:25.757Z",
+  "last_updated_at": "2026-06-20T06:14:25.641Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-20T05:23:54.441Z",
+  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
   "authors": [
     "Alberto Irodori",
     "Chayuro"
@@ -76,7 +78,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/89465",
-    "read_en": null
+    "read_en": "https://tapas.io/series/the-forgotten-juliet/info"
   },
   "source": {
     "anilist": {
@@ -117,23 +119,22 @@
     428
   ],
   "stats": {
-    "popularity": 111,
+    "popularity": 112,
     "favourites": 1,
     "meanScore": 55
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9009,
-    "fanRatioPercentile": 41.4181,
-    "popularityPercentile": 41.9,
-    "fanFavouriteDiscoveryScore": 35.6678,
-    "fanFavouriteDiscoveryPercentile": 39.5135
+    "fanFavouriteRaw": 0.8929,
+    "fanRatioPercentile": 41.2578,
+    "popularityPercentile": 42.0679,
+    "fanFavouriteDiscoveryScore": 35.5985,
+    "fanFavouriteDiscoveryPercentile": 39.4391
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -142,7 +143,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -158,40 +158,37 @@
         "warm"
       ],
       "worldType": [
-        "fantasy-world",
-        "system-world"
+        "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "minor"
+      "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "forgotten",
       "juliet",
-      "ityeojin",
-      "north",
-      "duke",
-      "lennox",
-      "carlyle",
-      "born",
-      "blessings",
-      "misfortune",
-      "always",
-      "lived",
-      "simple",
-      "rules",
-      "take",
-      "what",
-      "wanted",
-      "discard",
-      "longer",
-      "useful",
-      "among",
-      "discarded",
-      "contract",
       "monad",
-      "fallen"
+      "birthday",
+      "wish",
+      "coldhearted",
+      "duke",
+      "lenox",
+      "carlyle",
+      "break",
+      "infamously",
+      "promiscuous",
+      "refuses",
+      "let",
+      "takes",
+      "matters",
+      "hands",
+      "leaves",
+      "under",
+      "guise",
+      "illusion",
+      "magic",
+      "haunted"
     ],
     "evidence": {
       "tags": [
@@ -218,43 +215,44 @@
       "titleTerms": [
         "forgotten",
         "juliet",
-        "ityeojin",
+        "forgotten",
         "juliet",
         "forgotten",
         "juliet"
       ],
       "descriptionTerms": [
-        "north",
-        "duke",
-        "lennox",
-        "carlyle",
-        "born",
-        "blessings",
-        "misfortune",
-        "always",
-        "lived",
-        "simple",
-        "rules",
-        "take",
-        "what",
-        "wanted",
-        "discard",
-        "what",
-        "longer",
-        "useful",
-        "among",
-        "discarded",
-        "contract",
         "juliet",
         "monad",
-        "fallen"
+        "birthday",
+        "wish",
+        "coldhearted",
+        "duke",
+        "lenox",
+        "carlyle",
+        "break",
+        "infamously",
+        "promiscuous",
+        "duke",
+        "refuses",
+        "let",
+        "juliet",
+        "takes",
+        "matters",
+        "hands",
+        "leaves",
+        "under",
+        "guise",
+        "illusion",
+        "magic",
+        "haunted"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.84
+    "confidence": 0.77
   }
 }

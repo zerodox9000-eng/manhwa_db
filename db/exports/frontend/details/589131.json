@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "When My Pet Became the Villain",
-  "mangabaka_title": "When My Pet Became the Villain",
-  "native_title": "拾った子犬は冷血公爵でした",
-  "romanized_title": null,
+  "mangabaka_title": "Nae Ballyeodongmuri Akdangi Doeeosseul Ttae",
+  "native_title": "내 반려동물이 악당이 되었을 때",
+  "romanized_title": "Nae Ballyeodongmuri Akdangi Doeeosseul Ttae",
   "titles": [
     {
       "language": "ko",
       "title": "내 반려동물이 악당이 되었을 때",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nae Ballyeodongmuri Akdangi Doeeosseul Ttae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,36 +48,50 @@
     }
   ],
   "description": "“If this door opens, I’ll be dead soon.”\n\nLiliana, sold to the infamous Eberhardt family of slaughter after suffering abuse from her own family. In the place she fled to escape death, she discovers a small gray puppy left alone just like herself. She simply cared for this fellow in a plight similar to hers... Wait, is this puppy I saved actually the head of the Eberhardt family, who came to kill me? \n\n“You still don’t recognize me? What a pity. We’ve been together all this time. It’s me. Your puppy, Momo.”\n\nA cohabitation life filled with the scent of sweetness instead of blood, and puppies instead of brutal revenge! Will Liliana be able to survive safely from this terrifying ‘villainous pet’?\n\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69320755), [Daum](https://webtoon.kakao.com/content/%EB%82%B4-%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%EC%9D%B4-%EC%95%85%EB%8B%B9%EC%9D%B4-%EB%90%98%EC%97%88%EC%9D%84-%EB%95%8C/4864)\n\n**Official Translations:**    \n[Japanese](https://jp.piccoma.com/web/product/200947)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI3MDA4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzM1NS0zWHdheDJrZFlsUEsuanBn",
   "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-19T12:12:43.284Z",
-  "mangabaka_latest_rank": 157,
-  "mangabaka_latest_snapshot_at": "2026-06-20T05:23:54.441Z",
+  "last_updated_at": "2026-06-21T05:36:32.102Z",
+  "mangabaka_latest_rank": 161,
+  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
   "authors": [
+    "Biro",
+    "Hyeon Yeong",
+    "Jae-Mi So",
     "Muhwa",
-    "SO Jaemi"
+    "Su-Jin Baek",
+    "Timtim"
   ],
   "artists": [
-    "WOOSA"
+    "Catlyn",
+    "Ida",
+    "Leda",
+    "Lyna",
+    "Mil",
+    "Ray",
+    "Team USA"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589131",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213355,
+      "rating": null,
+      "url": "https://anilist.co/manga/213355"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "fbaucrq",
@@ -76,9 +101,13 @@
   },
   "tag_ids": [
     40,
+    108,
     36,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -86,9 +115,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.591,
+    "popularityPercentile": 0.2216,
+    "fanFavouriteDiscoveryScore": 5.0973,
+    "fanFavouriteDiscoveryPercentile": 0.2216
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -127,6 +158,11 @@
       "pet",
       "became",
       "villain",
+      "nae",
+      "ballyeodongmuri",
+      "akdangi",
+      "doeeosseul",
+      "ttae",
       "door",
       "opens",
       "dead",
@@ -154,17 +190,27 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Heterosexual",
         "Fantasy",
         "Comedy",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "pet",
         "became",
         "villain",
-        "pet",
-        "became",
-        "villain"
+        "nae",
+        "ballyeodongmuri",
+        "akdangi",
+        "doeeosseul",
+        "ttae",
+        "nae",
+        "ballyeodongmuri",
+        "akdangi",
+        "doeeosseul"
       ],
       "descriptionTerms": [
         "door",
@@ -193,9 +239,10 @@
         "herself"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.5
   }
 }
