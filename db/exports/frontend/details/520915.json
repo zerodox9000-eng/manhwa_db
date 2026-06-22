@@ -113,9 +113,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-21T04:36:55.936Z",
-  "mangabaka_latest_rank": 1882,
-  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
+  "last_updated_at": "2026-06-21T06:22:33.543Z",
+  "mangabaka_latest_rank": 1893,
+  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
   "authors": [
     "Ahil",
     "Medam"
@@ -149,6 +149,7 @@
     266,
     59,
     74,
+    126,
     108,
     36,
     94,
@@ -161,22 +162,23 @@
     428
   ],
   "stats": {
-    "popularity": 202,
+    "popularity": 203,
     "favourites": 3,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4851,
-    "fanRatioPercentile": 57.0533,
-    "popularityPercentile": 53.0567,
-    "fanFavouriteDiscoveryScore": 53.6404,
-    "fanFavouriteDiscoveryPercentile": 61.9593
+    "fanFavouriteRaw": 1.4778,
+    "fanRatioPercentile": 56.8482,
+    "popularityPercentile": 53.1357,
+    "fanFavouriteDiscoveryScore": 53.4685,
+    "fanFavouriteDiscoveryPercentile": 61.8517
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -202,7 +204,7 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
     "semanticSummary": "euro-fantasy / reincarnation",
@@ -240,6 +242,7 @@
         "Villainess",
         "Female Lead",
         "Based on a Web Novel",
+        "Reincarnation",
         "Heterosexual",
         "Fantasy",
         "Isekai",
@@ -297,6 +300,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.72
+    "confidence": 0.8
   }
 }

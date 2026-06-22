@@ -2,7 +2,7 @@
   "id": 590377,
   "state": "active",
   "type": "manhwa",
-  "display_title": "For Belumia",
+  "display_title": "[Younger Man Anthology] For Belumia",
   "mangabaka_title": "Bellumia-reul Wihayeo",
   "native_title": "벨루미아를 위하여",
   "romanized_title": "Bellumia-reul Wihayeo",
@@ -37,20 +37,20 @@
     },
     {
       "language": "en",
-      "title": "For Belumia",
+      "title": "For Bellumia",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "[Younger Man Anthology] For Belumia",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14245361)",
+  "description": "The Aetheria Empire must find the Divine Dragon, Bellumia, to prevent its destruction. Kylik, the 9th Prince, nearly dies due to his brothers' conspiracy but falls in love with Bellumia after she saves him in the forest. He ascends to the throne as a reward for bringing her to the imperial palace. Upon reaching adulthood, Kylik makes Bellumia his Empress, but on their long-awaited wedding night, he realizes that her indifferent gaze is directed not at him, but at someone else. \n\n\"Bellumia, please... just look at me...\"\n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14245361)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5MDE4LmpwZw",
   "total_chapters": "5",
   "status": "completed",
@@ -65,9 +65,9 @@
   },
   "first_seen_at": "2026-06-14T05:29:06.806Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-20T22:33:50.089Z",
-  "mangabaka_latest_rank": 54,
-  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
+  "last_updated_at": "2026-06-21T23:24:10.539Z",
+  "mangabaka_latest_rank": 65,
+  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
   "authors": [
     "Potato Rice Cake"
   ],
@@ -103,21 +103,27 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "kingdom-fantasy"
       ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "politics",
         "romance"
       ],
       "progressionType": [],
@@ -129,15 +135,37 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
+      "younger",
+      "man",
+      "anthology",
       "belumia",
       "bellumia-reul",
       "wihayeo",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "aetheria",
+      "empire",
+      "must",
+      "find",
+      "divine",
+      "dragon",
+      "bellumia",
+      "prevent",
+      "destruction",
+      "kylik",
+      "9th",
+      "prince",
+      "nearly",
+      "dies",
+      "due",
+      "brothers",
+      "conspiracy",
+      "falls",
+      "love",
+      "saves",
+      "forest",
+      "ascends",
+      "throne"
     ],
     "evidence": {
       "tags": [
@@ -146,6 +174,9 @@
         "Romance"
       ],
       "titleTerms": [
+        "younger",
+        "man",
+        "anthology",
         "belumia",
         "bellumia-reul",
         "wihayeo",
@@ -153,15 +184,35 @@
         "wihayeo"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "series"
+        "aetheria",
+        "empire",
+        "must",
+        "find",
+        "divine",
+        "dragon",
+        "bellumia",
+        "prevent",
+        "destruction",
+        "kylik",
+        "9th",
+        "prince",
+        "nearly",
+        "dies",
+        "due",
+        "brothers",
+        "conspiracy",
+        "falls",
+        "love",
+        "bellumia",
+        "saves",
+        "forest",
+        "ascends",
+        "throne"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.68
   }
 }

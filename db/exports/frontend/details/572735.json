@@ -2,8 +2,8 @@
   "id": 572735,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Crown I Will Seize",
-  "mangabaka_title": "Neoege Ppaeaseul Wanggwan",
+  "display_title": "The Crown I'll Claim",
+  "mangabaka_title": "The Crown I'll Claim",
   "native_title": "너에게 빼앗을 왕관",
   "romanized_title": "Neoege Ppaeaseul Wanggwan",
   "titles": [
@@ -27,9 +27,18 @@
     },
     {
       "language": "en",
+      "title": "The Crown I'll Claim",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "The Crown I Will Seize",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -47,12 +56,12 @@
       "note": null
     }
   ],
-  "description": "The crown was never yours to begin with. The one I devoted my entire life to loving. But what I believed to be love was betrayal, My brother, the king, died because of my ignorance, And my homeland collapsed silently and horribly. \n\n*“I've... returned.”*\n\nBut this life will be different. All the glory bestowed upon my uncle shall fade into darkness, and the radiant crown my husband desired shall be taken from him. Even if it burns everything I am, I shall not stop until your blood brightly adorns the path I walk.\n\n(Source: KakaoPage, translated)",
+  "description": "\"I wanted him so badly that I would have given up everything for him... And in the end, I did.\" After losing her crown, her children, and her life to the man she loved, Princess Medea finds herself back in her 17-year-old body. Now aware of the treacherous alliance between her ex-lover and her uncle, who have been scheming for the throne and fueling a rebellion, she's determined to save her kingdom and seize the reins of her future. Can the princess escape a tragic death and reclaim her destiny?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzEvMy8wLzkvYy9kL2MvY2Q5ZC80YzE1L2IzYzkvYTkxZWI5YzZmMjRi",
   "total_chapters": "44",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-01-17",
@@ -62,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-21T04:30:43.619Z",
-  "mangabaka_latest_rank": 1109,
-  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
+  "last_updated_at": "2026-06-22T04:36:40.026Z",
+  "mangabaka_latest_rank": 1120,
+  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
   "authors": [
     "Studio Inus",
     "Willbright"
@@ -74,12 +83,12 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/572735",
-    "read_en": null
+    "read_en": "https://tapas.io/series/the-crown-ill-claim/info"
   },
   "source": {
     "anilist": {
       "id": 207170,
-      "rating": 77,
+      "rating": 76,
       "url": "https://anilist.co/manga/207170"
     },
     "animeplanet": null,
@@ -107,14 +116,14 @@
   "stats": {
     "popularity": 850,
     "favourites": 25,
-    "meanScore": 77
+    "meanScore": 76
   },
   "analytics": {
     "fanFavouriteRaw": 2.9412,
-    "fanRatioPercentile": 85.9239,
-    "popularityPercentile": 78.6795,
-    "fanFavouriteDiscoveryScore": 85.2824,
-    "fanFavouriteDiscoveryPercentile": 91.5864
+    "fanRatioPercentile": 85.9445,
+    "popularityPercentile": 78.68,
+    "fanFavouriteDiscoveryScore": 85.3029,
+    "fanFavouriteDiscoveryPercentile": 91.5973
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -122,7 +131,6 @@
       "business-career-regression",
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
       "regression-return",
       "romance-core"
     ],
@@ -133,7 +141,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -143,6 +150,7 @@
       ],
       "conflictType": [
         "revenge",
+        "politics",
         "romance"
       ],
       "progressionType": [],
@@ -157,36 +165,36 @@
       "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression / modern-korea / kingdom-fantasy / regression",
+    "semanticSummary": "business-career-regression / kingdom-fantasy / regression",
     "searchKeywords": [
       "crown",
-      "seize",
+      "claim",
       "neoege",
       "ppaeaseul",
       "wanggwan",
-      "never",
-      "yours",
-      "begin",
-      "devoted",
-      "entire",
-      "loving",
-      "what",
-      "believed",
-      "love",
-      "betrayal",
-      "brother",
-      "king",
-      "died",
-      "because",
-      "ignorance",
-      "homeland",
-      "collapsed",
-      "silently",
-      "horribly",
-      "returned",
-      "different",
-      "glory",
-      "bestowed"
+      "wanted",
+      "badly",
+      "given",
+      "everything",
+      "end",
+      "losing",
+      "children",
+      "man",
+      "loved",
+      "princess",
+      "medea",
+      "finds",
+      "herself",
+      "17-year-old",
+      "body",
+      "aware",
+      "treacherous",
+      "alliance",
+      "between",
+      "ex-lover",
+      "uncle",
+      "scheming",
+      "throne"
     ],
     "evidence": {
       "tags": [
@@ -206,45 +214,45 @@
       ],
       "titleTerms": [
         "crown",
-        "seize",
-        "neoege",
-        "ppaeaseul",
-        "wanggwan",
+        "claim",
+        "crown",
+        "claim",
         "neoege",
         "ppaeaseul",
         "wanggwan"
       ],
       "descriptionTerms": [
+        "wanted",
+        "badly",
+        "given",
+        "everything",
+        "end",
+        "losing",
         "crown",
-        "never",
-        "yours",
-        "begin",
-        "devoted",
-        "entire",
-        "loving",
-        "what",
-        "believed",
-        "love",
-        "betrayal",
-        "brother",
-        "king",
-        "died",
-        "because",
-        "ignorance",
-        "homeland",
-        "collapsed",
-        "silently",
-        "horribly",
-        "returned",
-        "different",
-        "glory",
-        "bestowed"
+        "children",
+        "man",
+        "loved",
+        "princess",
+        "medea",
+        "finds",
+        "herself",
+        "17-year-old",
+        "body",
+        "aware",
+        "treacherous",
+        "alliance",
+        "between",
+        "ex-lover",
+        "uncle",
+        "scheming",
+        "throne"
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
-    "confidence": 1
+    "confidence": 0.94
   }
 }

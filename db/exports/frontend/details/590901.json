@@ -2,7 +2,7 @@
   "id": 590901,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Jungsaui Dragon",
+  "display_title": "The Sergeant's Dragon",
   "mangabaka_title": "Jungsaui Dragon",
   "native_title": "중사의 드래곤",
   "romanized_title": "Jungsaui Dragon",
@@ -24,11 +24,18 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Sergeant's Dragon",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": null,
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzM1Ny1VbjRpU2hySE92bUguanBn",
-  "total_chapters": null,
+  "total_chapters": "0",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -41,9 +48,9 @@
   },
   "first_seen_at": "2026-06-21T05:38:12.087Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-20T14:16:55.417Z",
-  "mangabaka_latest_rank": 4,
-  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
+  "last_updated_at": "2026-06-21T15:24:25.212Z",
+  "mangabaka_latest_rank": 15,
+  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
   "authors": [
     "Woti"
   ],
@@ -61,9 +68,14 @@
       "url": "https://anilist.co/manga/213357"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "gh2m8fa",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/gh2m8fa"
+    }
   },
   "tag_ids": [
+    8,
     36,
     39,
     93,
@@ -71,16 +83,16 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.591,
-    "popularityPercentile": 0.2216,
-    "fanFavouriteDiscoveryScore": 5.0973,
-    "fanFavouriteDiscoveryPercentile": 0.2216
+    "fanRatioPercentile": 31.5637,
+    "popularityPercentile": 0.8785,
+    "fanFavouriteDiscoveryScore": 5.331,
+    "fanFavouriteDiscoveryPercentile": 0.8326
   },
   "context": {
     "primaryProfile": null,
@@ -104,11 +116,13 @@
     },
     "semanticSummary": "",
     "searchKeywords": [
-      "jungsaui",
-      "dragon"
+      "sergeant",
+      "dragon",
+      "jungsaui"
     ],
     "evidence": {
       "tags": [
+        "Seinen",
         "Fantasy",
         "Action",
         "Longstrip",
@@ -116,7 +130,7 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "jungsaui",
+        "sergeant",
         "dragon",
         "jungsaui",
         "dragon",
@@ -125,9 +139,10 @@
       ],
       "descriptionTerms": [],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.33
+    "confidence": 0.34
   }
 }

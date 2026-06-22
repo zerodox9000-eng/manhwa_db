@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Husband Thief",
-  "mangabaka_title": "Nampyeon Doduk",
+  "mangabaka_title": "Husband Thief",
   "native_title": "남편 도둑",
   "romanized_title": "Nampyeon Doduk",
   "titles": [
@@ -19,7 +19,9 @@
     {
       "language": "en",
       "title": "Husband Thief",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -61,7 +63,7 @@
       "note": null
     }
   ],
-  "description": "Claisy, who must marry in order to inherit her fortune, repeatedly misses opportunities to date due to the meddling of her niece Meron, who is only a few years younger than her. However, she eventually meets a man as if by fate and marries him after finding true love. During their happy honeymoon, a jealous Meron turns back time and returns to the past, and in this new life, she even goes so far as to steal Claisy’s husband. Having always been manipulated by Meron, Claisy declares that if Meron steals her husband, she will steal Meron’s husband in return! \n\nAfter their return to the past, Meron and Claisy end up swapping husbands. A bitter love quadrangle begins as the two men’s affections intertwine amidst the sharp psychological battle between the aunt and niece who know each other all too well.\n\n(Source: Naver, translated)",
+  "description": "By imperial law, Klacie must marry to inherit her family fortune, but her meddling niece Merren keeps jeopardizing her chances. When Klacie finally finds love and ties the knot, Merren, driven by jealousy, rewinds time to steal her husband. Klacie, determined to break free from her niece’s clutches, fights back by targeting Merren’s husband. Their rivalry spirals into an intense love square, with aunt and niece vying for control of love, fate, and ultimately, each other. The question is, who will win?\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2UvYy9kLzMvYi9hLzUvNTUzNC80ZTgyL2E1YWMvNzMwZjNkYzdmMzdk",
   "total_chapters": "21",
   "status": "releasing",
@@ -76,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-20T06:30:20.352Z",
-  "mangabaka_latest_rank": 571,
-  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
+  "last_updated_at": "2026-06-21T07:04:47.841Z",
+  "mangabaka_latest_rank": 582,
+  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
   "authors": [
     "Alpha Tart",
     "Little D",
@@ -91,7 +93,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/584257",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10254"
   },
   "source": {
     "anilist": {
@@ -120,16 +122,16 @@
     428
   ],
   "stats": {
-    "popularity": 124,
-    "favourites": 4,
-    "meanScore": 65
+    "popularity": 134,
+    "favourites": 5,
+    "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": 3.2258,
-    "fanRatioPercentile": 88.7972,
-    "popularityPercentile": 43.879,
-    "fanFavouriteDiscoveryScore": 78.1179,
-    "fanFavouriteDiscoveryPercentile": 85.58
+    "fanFavouriteRaw": 3.7313,
+    "fanRatioPercentile": 92.0327,
+    "popularityPercentile": 45.2601,
+    "fanFavouriteDiscoveryScore": 82.0369,
+    "fanFavouriteDiscoveryPercentile": 88.9924
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -141,19 +143,20 @@
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [
         "revenge",
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [
-        "dark",
         "tense",
         "warm"
       ],
@@ -162,38 +165,36 @@
       ],
       "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea / system",
     "searchKeywords": [
       "husband",
       "thief",
       "nampyeon",
       "doduk",
-      "claisy",
+      "imperial",
+      "law",
+      "klacie",
       "must",
       "marry",
-      "order",
       "inherit",
+      "family",
       "fortune",
-      "repeatedly",
-      "misses",
-      "opportunities",
-      "date",
-      "due",
       "meddling",
       "niece",
-      "meron",
-      "few",
-      "years",
-      "younger",
-      "than",
-      "however",
-      "eventually",
-      "meets",
-      "man",
-      "fate",
-      "marries"
+      "merren",
+      "keeps",
+      "jeopardizing",
+      "chances",
+      "finally",
+      "finds",
+      "love",
+      "ties",
+      "knot",
+      "driven",
+      "jealousy",
+      "rewinds"
     ],
     "evidence": {
       "tags": [
@@ -212,40 +213,41 @@
       "titleTerms": [
         "husband",
         "thief",
-        "nampyeon",
-        "doduk",
+        "husband",
+        "thief",
         "nampyeon",
         "doduk"
       ],
       "descriptionTerms": [
-        "claisy",
+        "imperial",
+        "law",
+        "klacie",
         "must",
         "marry",
-        "order",
         "inherit",
+        "family",
         "fortune",
-        "repeatedly",
-        "misses",
-        "opportunities",
-        "date",
-        "due",
         "meddling",
         "niece",
-        "meron",
-        "few",
-        "years",
-        "younger",
-        "than",
-        "however",
-        "eventually",
-        "meets",
-        "man",
-        "fate",
-        "marries"
+        "merren",
+        "keeps",
+        "jeopardizing",
+        "chances",
+        "klacie",
+        "finally",
+        "finds",
+        "love",
+        "ties",
+        "knot",
+        "merren",
+        "driven",
+        "jealousy",
+        "rewinds"
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
     "confidence": 0.6

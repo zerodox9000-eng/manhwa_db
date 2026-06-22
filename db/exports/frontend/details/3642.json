@@ -2,8 +2,8 @@
   "id": 3642,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The New Employee Chairman Kang",
-  "mangabaka_title": "Sinipsawon Gang Hoejang",
+  "display_title": "Reborn Rookie",
+  "mangabaka_title": "Reborn Rookie",
   "native_title": "신입사원 강 회장",
   "romanized_title": "Chairman Kang, the New Employee",
   "titles": [
@@ -54,8 +54,10 @@
     {
       "language": "en",
       "title": "Reborn Rookie",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -66,8 +68,15 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Sinipsawon Kang Hoejang",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
-      "title": "Sinipsawon Gang Hoejang",
+      "title": "Sinipsawon Kang Hoejang",
       "traits": [
         "native"
       ],
@@ -76,16 +85,9 @@
     },
     {
       "language": "en",
-      "title": "Sinipsawon Kang Hoejang",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "en",
       "title": "The New Employee Chairman Kang",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -117,7 +119,7 @@
       "note": null
     }
   ],
-  "description": "I'm Kang Yong-ho, the Chairman of Choi Sung Group, one of South Korea's top 10 conglomerates. Just when I was basking in the glory of my retirement declaration, out of the blue, a new employee fell from the sky and landed on my head. But hey, where'd my body go, and now I've turned into a new employee?! \n\n\"What's this? Are you telling me to start with Excel or something?\" \n\n(Source: Naver, translated)",
+  "description": "Yong-Ho Kang, chairman of Choi Sung Group, wakes up in the body of the company’s newest recruit. Now that the seat of power is suddenly empty, his entire family starts scrambling for the position, and the group’s future looks far from secure. But Yong-Ho isn’t about to sit back just because he’s now at the bottom of the corporate food chain. This is his company, and he’s going to save it himself. On this corporate battlefield, a newbie with a chairman’s mind is about to call the shots.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzEvNi9iL2UvMC9kLzMvMmM4Mi80NDVlL2E3ZjMvMDY2YThjMzU2NWQz",
   "total_chapters": "103",
   "status": "completed",
@@ -132,9 +134,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.150Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-21T04:36:41.810Z",
+  "last_updated_at": "2026-06-22T05:38:36.297Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-21T05:58:02.615Z",
+  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
   "authors": [
     "San-Gyeong",
     "Seung-i Seung"
@@ -144,7 +146,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/3642",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10470"
   },
   "source": {
     "anilist": {
@@ -181,31 +183,38 @@
     428
   ],
   "stats": {
-    "popularity": 367,
+    "popularity": 369,
     "favourites": 4,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0899,
-    "fanRatioPercentile": 46.4466,
-    "popularityPercentile": 64.2595,
-    "fanFavouriteDiscoveryScore": 45.3131,
-    "fanFavouriteDiscoveryPercentile": 51.75
+    "fanFavouriteRaw": 1.084,
+    "fanRatioPercentile": 46.2073,
+    "popularityPercentile": 64.3343,
+    "fanFavouriteDiscoveryScore": 45.0865,
+    "fanFavouriteDiscoveryPercentile": 51.3101
   },
   "context": {
-    "primaryProfile": "business-career-regression",
+    "primaryProfile": "sci-fi-business-regression",
     "profileGroups": [
       "business-career",
       "business-career-regression",
       "corporate-workplace",
+      "food-career",
       "korean-business",
+      "korean-corporate-regression",
       "modern-korea",
-      "modern-workplace"
+      "modern-workplace",
+      "regression-return",
+      "sci-fi-business-regression"
     ],
     "primaryAnchors": [
       "business-career-regression",
       "corporate-workplace",
-      "korean-business"
+      "food-career",
+      "korean-business",
+      "korean-corporate-regression",
+      "sci-fi-business-regression"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -218,9 +227,12 @@
         "executive"
       ],
       "careerDomain": [
-        "business"
+        "business",
+        "food"
       ],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [],
       "progressionType": [
         "career-growth"
@@ -230,37 +242,37 @@
         "modern-urban"
       ],
       "romanceRole": "minor",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression / modern-korea / corporate-workplace",
+    "semanticSummary": "sci-fi-business-regression / modern-korea / corporate-workplace / reincarnation",
     "searchKeywords": [
-      "employee",
+      "reborn",
+      "rookie",
       "chairman",
       "kang",
-      "sinipsawon",
-      "gang",
-      "hoejang",
+      "employee",
       "yong-ho",
       "choi",
       "sung",
       "group",
-      "south",
-      "korea",
-      "top",
-      "conglomerates",
-      "basking",
-      "glory",
-      "retirement",
-      "declaration",
-      "blue",
-      "fell",
-      "sky",
-      "landed",
-      "head",
-      "hey",
+      "wakes",
       "body",
-      "turned"
+      "company",
+      "newest",
+      "recruit",
+      "seat",
+      "power",
+      "suddenly",
+      "empty",
+      "entire",
+      "family",
+      "starts",
+      "scrambling",
+      "position",
+      "future",
+      "looks",
+      "far"
     ],
     "evidence": {
       "tags": [
@@ -281,46 +293,45 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "employee",
-        "chairman",
-        "kang",
-        "sinipsawon",
-        "gang",
-        "hoejang",
+        "reborn",
+        "rookie",
+        "reborn",
+        "rookie",
         "chairman",
         "kang",
         "employee"
       ],
       "descriptionTerms": [
-        "kang",
         "yong-ho",
+        "kang",
         "chairman",
         "choi",
         "sung",
         "group",
-        "south",
-        "korea",
-        "top",
-        "conglomerates",
-        "basking",
-        "glory",
-        "retirement",
-        "declaration",
-        "blue",
-        "employee",
-        "fell",
-        "sky",
-        "landed",
-        "head",
-        "hey",
+        "wakes",
         "body",
-        "turned",
-        "employee"
+        "company",
+        "newest",
+        "recruit",
+        "seat",
+        "power",
+        "suddenly",
+        "empty",
+        "entire",
+        "family",
+        "starts",
+        "scrambling",
+        "position",
+        "group",
+        "future",
+        "looks",
+        "far"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 1
