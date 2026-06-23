@@ -2,8 +2,8 @@
   "id": 584605,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Marriage Protection Scandal",
-  "mangabaka_title": "Gyeolhonsasu Scandal",
+  "display_title": "Marriage Under Wraps",
+  "mangabaka_title": "Marriage Under Wraps",
   "native_title": "결혼사수스캔들",
   "romanized_title": "Gyeolhonsasu Scandal",
   "titles": [
@@ -36,6 +36,15 @@
       "language": "en",
       "title": "Marriage Protection Scandal",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Marriage Under Wraps",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -61,12 +70,12 @@
       "note": null
     }
   ],
-  "description": "Chae Eun-A, the youngest granddaughter of a wealthy conglomerate family, has it all: looks, money, and brains. Just as she turned twenty and thought a bright future lay ahead of her—they want her to get married?! Losing her credit card and the marriage itself are bad enough, but why does her fiancé have to be her ex-boyfriend, who’s practically her sworn enemy?! A secret campus life as newlyweds to defend her marriage (or rather, her credit card)!\n\n(Source: Naver, translated)",
+  "description": "Euna Chae, the youngest granddaughter of a powerful rich family, has it all. Beauty, brains, and wealth. But just as she becomes an adult and expects her future to finally blossom, she's told to get married?! Losing control of her credit card and having to get married is bad enough, but why does her fiancé have to be her sworn-enemy ex-boyfriend?! To protect her marriage (but really her credit card), a secret newlywed life begins at school!\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzkvNC82LzYvMS8xLzcvNTI3ZC80NTY0L2JiM2YvYmNhZmZiMTBiODc0",
-  "total_chapters": "12",
+  "total_chapters": "17",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-04-06",
@@ -76,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T03:28:23.767Z",
-  "mangabaka_latest_rank": 564,
-  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
+  "last_updated_at": "2026-06-23T03:50:24.225Z",
+  "mangabaka_latest_rank": 572,
+  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
   "authors": [
     "Hae-Su"
   ],
@@ -87,7 +96,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/584605",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10338"
   },
   "source": {
     "anilist": {
@@ -116,41 +125,32 @@
     428
   ],
   "stats": {
-    "popularity": 130,
+    "popularity": 131,
     "favourites": 3,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 2.3077,
-    "fanRatioPercentile": 76.4495,
-    "popularityPercentile": 44.7559,
-    "fanFavouriteDiscoveryScore": 67.8301,
-    "fanFavouriteDiscoveryPercentile": 76.48
+    "fanFavouriteRaw": 2.2901,
+    "fanRatioPercentile": 76.2105,
+    "popularityPercentile": 44.8373,
+    "fanFavouriteDiscoveryScore": 67.6696,
+    "fanFavouriteDiscoveryPercentile": 76.3861
   },
   "context": {
-    "primaryProfile": "business-career",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
-      "business-career",
-      "korean-business",
       "modern-korea",
       "romance-core",
       "school-life"
     ],
-    "primaryAnchors": [
-      "korean-business"
-    ],
+    "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
-      "protagonistRole": [
-        "executive"
-      ],
-      "careerDomain": [
-        "business"
-      ],
+      "protagonistRole": [],
+      "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
@@ -165,35 +165,36 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career / modern-korea / school",
+    "semanticSummary": "modern-korea / school",
     "searchKeywords": [
       "marriage",
-      "protection",
-      "scandal",
+      "under",
+      "wraps",
       "gyeolhonsasu",
+      "scandal",
+      "euna",
       "chae",
-      "eun-a",
       "youngest",
       "granddaughter",
-      "wealthy",
-      "conglomerate",
+      "powerful",
+      "rich",
       "family",
-      "looks",
-      "money",
+      "beauty",
       "brains",
-      "turned",
-      "twenty",
-      "thought",
-      "bright",
+      "wealth",
+      "becomes",
+      "adult",
+      "expects",
       "future",
-      "lay",
-      "ahead",
-      "want",
+      "finally",
+      "blossom",
+      "told",
       "married",
       "losing",
+      "control",
       "credit",
       "card",
-      "itself"
+      "having"
     ],
     "evidence": {
       "tags": [
@@ -211,44 +212,46 @@
       ],
       "titleTerms": [
         "marriage",
-        "protection",
-        "scandal",
-        "gyeolhonsasu",
-        "scandal",
+        "under",
+        "wraps",
+        "marriage",
+        "under",
+        "wraps",
         "gyeolhonsasu",
         "scandal"
       ],
       "descriptionTerms": [
+        "euna",
         "chae",
-        "eun-a",
         "youngest",
         "granddaughter",
-        "wealthy",
-        "conglomerate",
+        "powerful",
+        "rich",
         "family",
-        "looks",
-        "money",
+        "beauty",
         "brains",
-        "turned",
-        "twenty",
-        "thought",
-        "bright",
+        "wealth",
+        "becomes",
+        "adult",
+        "expects",
         "future",
-        "lay",
-        "ahead",
-        "want",
+        "finally",
+        "blossom",
+        "told",
         "married",
         "losing",
+        "control",
         "credit",
         "card",
-        "marriage",
-        "itself"
+        "having",
+        "married"
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
-    "confidence": 0.83
+    "confidence": 0.6
   }
 }

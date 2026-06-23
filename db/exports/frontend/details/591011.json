@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "I Came to Save Your Chili Pepper!",
   "mangabaka_title": "I Came to Save Your Chili Pepper!",
-  "native_title": null,
+  "native_title": "너의 고추를 구하러 왔다!",
   "romanized_title": null,
   "titles": [
     {
@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000078477)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5OTQxLmpwZw",
   "total_chapters": "0",
   "status": "unknown",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-22T05:54:33.114Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-21T14:51:31.973Z",
-  "mangabaka_latest_rank": 7,
-  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
+  "last_updated_at": "2026-06-22T15:42:57.209Z",
+  "mangabaka_latest_rank": 15,
+  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
   "authors": [
     "Ppongpachya"
   ],
@@ -60,6 +60,8 @@
     }
   },
   "tag_ids": [
+    20,
+    36,
     46,
     16,
     31
@@ -75,8 +77,10 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -89,21 +93,27 @@
       ],
       "progressionType": [],
       "tone": [],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "modern-korea",
     "searchKeywords": [
       "came",
       "save",
       "your",
       "chili",
-      "pepper"
+      "pepper",
+      "original",
+      "webtoon"
     ],
     "evidence": {
       "tags": [
+        "Harem",
+        "Fantasy",
         "Adult",
         "Yaoi",
         "Drama"
@@ -120,11 +130,14 @@
         "chili",
         "pepper"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.31
+    "confidence": 0.4
   }
 }

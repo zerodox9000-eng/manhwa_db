@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T02:12:51.786Z",
+  "last_updated_at": "2026-06-23T02:13:52.921Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
+  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
   "authors": [
     "Mingur",
     "Mubok"
@@ -105,22 +105,32 @@
     },
     "mangaupdates": {
       "id": "yrijy2i",
-      "rating": 65,
+      "rating": 66,
       "url": "https://www.mangaupdates.com/series/yrijy2i"
     }
   },
   "tag_ids": [
     1780,
+    1378,
+    1387,
+    1803,
+    75,
+    595,
     107,
+    162,
     647,
+    243,
+    573,
     118,
     46,
     14,
     15,
     41,
     180,
+    1947,
     16,
     31,
+    776,
     9,
     7,
     42,
@@ -129,20 +139,21 @@
     428
   ],
   "stats": {
-    "popularity": 99,
+    "popularity": 100,
     "favourites": 3,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 3.0303,
-    "fanRatioPercentile": 87.0522,
-    "popularityPercentile": 39.7372,
-    "fanFavouriteDiscoveryScore": 72.9656,
-    "fanFavouriteDiscoveryPercentile": 80.9335
+    "fanFavouriteRaw": 3,
+    "fanRatioPercentile": 86.5053,
+    "popularityPercentile": 39.8198,
+    "fanFavouriteDiscoveryScore": 72.5877,
+    "fanFavouriteDiscoveryPercentile": 80.6018
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core",
       "school-life"
     ],
@@ -150,6 +161,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -162,12 +174,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "dandelion",
       "observation",
@@ -200,16 +214,26 @@
     "evidence": {
       "tags": [
         "Tsundere Seme",
+        "Black-Haired Uke",
+        "Blonde-Haired Seme",
+        "Blushing Seme",
+        "Based on a Novel",
+        "South Korea",
         "School",
+        "High School",
         "Misunderstandings",
+        "Friends to Lovers",
+        "Student-Student Relationship",
         "Omegaverse",
         "Adult",
         "Erotica",
         "Mature",
         "Smut",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
+        "Korean Folklore",
         "Romance",
         "Slice of Life",
         "School Life",
@@ -260,6 +284,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.73
   }
 }

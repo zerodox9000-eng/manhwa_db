@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Even if He Keeps Spending, Money Accumulates",
-  "mangabaka_title": "Gyesok Sseodo Don-i Ssahim",
+  "mangabaka_title": "Gyesok Sseodo Doni Ssaim",
   "native_title": "계속 써도 돈이 쌓임",
   "romanized_title": "Gyesok Sseodo Don-i Ssahim",
   "titles": [
     {
       "language": "ko",
       "title": "계속 써도 돈이 쌓임",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -46,6 +48,15 @@
       "language": "ko-Latn",
       "title": "Gyesok Sseodo Don-i Ssahim",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gyesok Sseodo Doni Ssaim",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -64,37 +75,41 @@
       "note": null
     }
   ],
-  "description": "In an era where one million young people are unemployed, Jung Jin‑ho is an out‑of‑work youth with zero qualifications. One day, the CEO of a securities firm—who also happens to have been his guild master in an online game—suddenly says, “You. Come work at my company,” and Jin‑ho is thrown headfirst into the real world. There, his extraordinary talent awakens. With a single click of his mouse, billions of won move in an instant. Thus begins the legend of a crazy stock market genius who sweeps up all the money on the exchange.\n\n_Source: [Naver](https://mangabaka.org/publisher/9vh24ju/naver), translated_\n\n**Original Novel:**   \n[Munpia](https://novel.munpia.com/453976), [Naver Series](https://series.naver.com/novel/detail.series?productNo=12558050)\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851687), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14292289)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5MTk0LmpwZw",
+  "description": "In an era where youth unemployment has reached 1 million, Jung Jinho is a jobless man with zero qualifications. “Come work at my company.” After receiving an unexpected offer from the CEO of a securities firm, who used to be the guild master of the same game he played, he is thrown into the world of society. And there, Jung Jinho’s special ability awakens. With just one click of the mouse, billions of won move. The legend of a crazy stock genius who sweeps up all the money in the financial world begins!\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzQ0My1wYTJhOHVESmd0WUQuanBn",
   "total_chapters": "5",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-21T21:53:31.055Z",
-  "mangabaka_latest_rank": 51,
-  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
+  "last_updated_at": "2026-06-22T22:51:52.130Z",
+  "mangabaka_latest_rank": 59,
+  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
   "authors": [
-    "Nadeuli",
-    "Unjoh Eunnom"
+    "Nadeuri",
+    "Unjoeunnom"
   ],
   "artists": [
-    "Force Studio"
+    "FORCE STUDIO"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/590533",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213443,
+      "rating": null,
+      "url": "https://anilist.co/manga/213443"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ee78j4a",
@@ -104,8 +119,13 @@
   },
   "tag_ids": [
     38,
+    58,
     36,
-    31
+    22,
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -113,9 +133,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5488,
+    "popularityPercentile": 0.1375,
+    "fanFavouriteDiscoveryScore": 5.0606,
+    "fanFavouriteDiscoveryPercentile": 0.1375
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -168,36 +190,44 @@
       "accumulates",
       "gyesok",
       "sseodo",
+      "doni",
+      "ssaim",
       "don-i",
-      "ssahim",
       "era",
-      "million",
-      "people",
-      "unemployed",
-      "jung",
-      "jin",
-      "work",
       "youth",
+      "unemployment",
+      "reached",
+      "million",
+      "jung",
+      "jinho",
+      "jobless",
+      "man",
       "zero",
       "qualifications",
+      "come",
+      "work",
+      "company",
+      "receiving",
+      "unexpected",
+      "offer",
       "ceo",
       "securities",
       "firm",
-      "happens",
+      "used",
       "guild",
       "master",
-      "online",
-      "game",
-      "suddenly",
-      "says",
-      "come",
-      "company"
+      "same"
     ],
     "evidence": {
       "tags": [
         "Shounen",
+        "Male Lead",
         "Fantasy",
-        "Drama"
+        "Supernatural",
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "even",
@@ -207,39 +237,40 @@
         "accumulates",
         "gyesok",
         "sseodo",
-        "don-i",
-        "ssahim",
+        "doni",
+        "ssaim",
         "gyesok",
         "sseodo",
         "don-i"
       ],
       "descriptionTerms": [
         "era",
-        "million",
-        "people",
-        "unemployed",
-        "jung",
-        "jin",
-        "work",
         "youth",
+        "unemployment",
+        "reached",
+        "million",
+        "jung",
+        "jinho",
+        "jobless",
+        "man",
         "zero",
         "qualifications",
-        "ceo",
-        "securities",
-        "firm",
-        "happens",
-        "guild",
-        "master",
-        "online",
-        "game",
-        "suddenly",
-        "says",
         "come",
         "work",
         "company",
-        "jin"
+        "receiving",
+        "unexpected",
+        "offer",
+        "ceo",
+        "securities",
+        "firm",
+        "used",
+        "guild",
+        "master",
+        "same"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },

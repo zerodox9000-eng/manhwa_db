@@ -99,9 +99,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T01:53:04.691Z",
-  "mangabaka_latest_rank": 7608,
-  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
+  "last_updated_at": "2026-06-23T03:57:10.834Z",
+  "mangabaka_latest_rank": 7616,
+  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
   "authors": [
     "Bomgaeul",
     "Geonsilcheongnyeon"
@@ -131,12 +131,14 @@
     }
   },
   "tag_ids": [
+    337,
     38,
     58,
     74,
     126,
     36,
     94,
+    160,
     39,
     37,
     6,
@@ -146,26 +148,28 @@
     428
   ],
   "stats": {
-    "popularity": 2340,
+    "popularity": 2343,
     "favourites": 26,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1111,
-    "fanRatioPercentile": 46.8872,
-    "popularityPercentile": 90.7341,
-    "fanFavouriteDiscoveryScore": 46.7584,
-    "fanFavouriteDiscoveryPercentile": 54.3732
+    "fanFavouriteRaw": 1.1097,
+    "fanRatioPercentile": 46.7619,
+    "popularityPercentile": 90.7362,
+    "fanFavouriteDiscoveryScore": 46.6334,
+    "fanFavouriteDiscoveryPercentile": 54.1622
   },
   "context": {
     "primaryProfile": "kingdom-management",
     "profileGroups": [
       "kingdom-management",
       "modern-korea",
+      "murim-wuxia",
       "regression-return"
     ],
     "primaryAnchors": [
-      "kingdom-management"
+      "kingdom-management",
+      "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -176,7 +180,9 @@
         "reincarnation"
       ],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "martial-growth"
+      ],
       "tone": [
         "comedic"
       ],
@@ -223,12 +229,14 @@
     ],
     "evidence": {
       "tags": [
+        "Swordplay",
         "Shounen",
         "Male Lead",
         "Based on a Web Novel",
         "Reincarnation",
         "Fantasy",
         "Isekai",
+        "Demons",
         "Action",
         "Adventure",
         "Comedy",
@@ -284,6 +292,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.71
+    "confidence": 0.89
   }
 }

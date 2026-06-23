@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Contract Admission",
-  "mangabaka_title": "Contract Admission",
+  "mangabaka_title": "Cheongbuipak",
   "native_title": "청부입학",
-  "romanized_title": null,
+  "romanized_title": "Cheongbuipak",
   "titles": [
     {
       "language": "ko",
       "title": "청부입학",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Cheongbuipak",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,36 +40,40 @@
       "note": null
     }
   ],
-  "description": "Ryu Kang-Min is a member of the massive killer organization 'Batala.' This is a place from which there is no escape once you enter. Then one day, he receives a special commission in exchange for 'freedom.' The mission is to kill a 'target located in Korea.' Ryu returns to Korea for his freedom and, as a warm-up, eliminates the organization's 'traitor' first. Having completed his brief warm-up, he begins the mission in earnest…\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851688), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14297993)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5OTU3LnBuZw",
-  "total_chapters": "1",
-  "status": "unknown",
+  "description": "Ryu Kangmin, a member of the massive assassin organization “Batala.” Once you enter this place, there is no way out. One day, however, he receives a special assignment with freedom as the reward. The mission: eliminate a target located in South Korea. In pursuit of his freedom, Ryu Kangmin returns to Korea and, as a warm-up, takes care of a traitor within the organization first. After finishing that light warm-up with ease, he finally begins the real mission...\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzQ0MS1kcUliSVZhYVJBcG0uanBn",
+  "total_chapters": "5",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-21",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-22T05:54:33.114Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-21T20:51:22.509Z",
-  "mangabaka_latest_rank": 9,
-  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
+  "last_updated_at": "2026-06-23T01:36:51.749Z",
+  "mangabaka_latest_rank": 17,
+  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
   "authors": [
-    "Gangpil"
+    "Pil Kang"
   ],
   "artists": [
-    "Jiddung"
+    "Jittung"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/590997",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213441,
+      "rating": null,
+      "url": "https://anilist.co/manga/213441"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "cpivc2t",
@@ -68,19 +83,25 @@
   },
   "tag_ids": [
     38,
+    58,
     107,
     39,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
-    "favourites": null,
+    "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5488,
+    "popularityPercentile": 0.1375,
+    "fanFavouriteDiscoveryScore": 5.0606,
+    "fanFavouriteDiscoveryPercentile": 0.1375
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -104,7 +125,9 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
@@ -113,72 +136,79 @@
     "searchKeywords": [
       "contract",
       "admission",
+      "cheongbuipak",
       "ryu",
-      "kang-min",
+      "kangmin",
       "member",
       "massive",
-      "killer",
+      "assassin",
       "organization",
       "batala",
-      "place",
-      "which",
-      "escape",
       "enter",
+      "place",
+      "way",
+      "however",
       "receives",
       "special",
-      "commission",
-      "exchange",
+      "assignment",
       "freedom",
+      "reward",
       "mission",
-      "kill",
+      "eliminate",
       "target",
       "located",
+      "south",
       "korea",
-      "returns"
+      "pursuit"
     ],
     "evidence": {
       "tags": [
         "Shounen",
+        "Male Lead",
         "School",
         "Action",
-        "School Life"
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "contract",
         "admission",
-        "contract",
-        "admission"
+        "cheongbuipak",
+        "cheongbuipak"
       ],
       "descriptionTerms": [
         "ryu",
-        "kang-min",
+        "kangmin",
         "member",
         "massive",
-        "killer",
+        "assassin",
         "organization",
         "batala",
-        "place",
-        "which",
-        "escape",
         "enter",
+        "place",
+        "way",
+        "however",
         "receives",
         "special",
-        "commission",
-        "exchange",
+        "assignment",
         "freedom",
+        "reward",
         "mission",
-        "kill",
+        "eliminate",
         "target",
         "located",
+        "south",
         "korea",
-        "ryu",
-        "returns",
-        "korea"
+        "pursuit",
+        "freedom"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.57
   }
 }

@@ -26,7 +26,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=850708), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14162094)",
+  "description": "**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=850708), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14162094)\n\nThe contract killing organization \"Noden Company\". Kim Eun-Ho is a rookie police officer who infiltrates the organization. He survives by a stroke of luck, becoming the direct subordinate of the organization’s ace killer, Tae-Yi. Lee Tae-Yi recognizes Kim Eun-Ho’s hidden talent and begins training him to become a killer. The two, who were polar opposites, gradually become like brothers, but Kim Eun-Ho begins to lose his identity caught between being a police officer and a killer...",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMjY3NS1VakZ6MGl1OFdxRFouanBn",
   "total_chapters": "0",
   "status": "releasing",
@@ -41,9 +41,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-20T11:01:09.773Z",
-  "mangabaka_latest_rank": 159,
-  "mangabaka_latest_snapshot_at": "2026-06-22T06:14:21.098Z",
+  "last_updated_at": "2026-06-22T11:02:07.874Z",
+  "mangabaka_latest_rank": 167,
+  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
   "authors": [
     "Mokagae"
   ],
@@ -75,47 +75,79 @@
     428
   ],
   "stats": {
-    "popularity": 24,
+    "popularity": 25,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5637,
-    "popularityPercentile": 16.5839,
-    "fanFavouriteDiscoveryScore": 13.5505,
-    "fanFavouriteDiscoveryPercentile": 14.8728
+    "fanRatioPercentile": 31.5488,
+    "popularityPercentile": 17.0612,
+    "fanFavouriteDiscoveryScore": 13.8525,
+    "fanFavouriteDiscoveryPercentile": 15.1978
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth",
+        "martial-growth"
+      ],
       "tone": [],
-      "worldType": [],
-      "romanceRole": "none",
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "minor",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "stray",
       "bullet",
       "original",
       "webtoon",
       "naver",
-      "series"
+      "series",
+      "contract",
+      "killing",
+      "organization",
+      "noden",
+      "company",
+      "kim",
+      "eun-ho",
+      "rookie",
+      "police",
+      "officer",
+      "infiltrates",
+      "survives",
+      "stroke",
+      "luck",
+      "becoming",
+      "direct",
+      "subordinate"
     ],
     "evidence": {
       "tags": [
@@ -139,13 +171,31 @@
         "naver",
         "webtoon",
         "naver",
-        "series"
+        "series",
+        "contract",
+        "killing",
+        "organization",
+        "noden",
+        "company",
+        "kim",
+        "eun-ho",
+        "rookie",
+        "police",
+        "officer",
+        "infiltrates",
+        "organization",
+        "survives",
+        "stroke",
+        "luck",
+        "becoming",
+        "direct",
+        "subordinate"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.86
   }
 }
