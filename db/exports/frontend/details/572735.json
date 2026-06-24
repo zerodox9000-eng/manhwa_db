@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T04:33:10.916Z",
-  "mangabaka_latest_rank": 1128,
-  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
+  "last_updated_at": "2026-06-24T04:33:23.182Z",
+  "mangabaka_latest_rank": 1136,
+  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
   "authors": [
     "Studio Inus",
     "Willbright"
@@ -91,7 +91,11 @@
       "rating": 76,
       "url": "https://anilist.co/manga/207170"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-crown-i-will-seize",
+      "rating": 84,
+      "url": "https://www.anime-planet.com/manga/the-crown-i-will-seize"
+    },
     "mangaupdates": {
       "id": "c50ajyv",
       "rating": 70,
@@ -103,8 +107,11 @@
     59,
     2141,
     2147,
+    74,
     748,
+    249,
     36,
+    1,
     31,
     403,
     227,
@@ -114,16 +121,16 @@
     428
   ],
   "stats": {
-    "popularity": 856,
-    "favourites": 26,
+    "popularity": 867,
+    "favourites": 27,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 3.0374,
-    "fanRatioPercentile": 87.0857,
-    "popularityPercentile": 78.7613,
-    "fanFavouriteDiscoveryScore": 86.4399,
-    "fanFavouriteDiscoveryPercentile": 92.3629
+    "fanFavouriteRaw": 3.1142,
+    "fanRatioPercentile": 87.6632,
+    "popularityPercentile": 78.9984,
+    "fanFavouriteDiscoveryScore": 87.0258,
+    "fanFavouriteDiscoveryPercentile": 92.7704
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -202,8 +209,11 @@
         "Female Lead",
         "Princess Female Lead",
         "Regressed Female Lead",
+        "Based on a Web Novel",
         "Age Regression",
+        "Time Travel",
         "Fantasy",
+        "Sci-Fi",
         "Drama",
         "Betrayal",
         "Revenge",
@@ -250,9 +260,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.94
+    "confidence": 0.97
   }
 }

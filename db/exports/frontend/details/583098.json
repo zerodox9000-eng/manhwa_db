@@ -111,9 +111,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-21T03:56:07.823Z",
-  "mangabaka_latest_rank": 692,
-  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
+  "last_updated_at": "2026-06-23T04:54:14.678Z",
+  "mangabaka_latest_rank": 700,
+  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
   "authors": [
     "Bapsot"
   ],
@@ -138,14 +138,26 @@
     }
   },
   "tag_ids": [
+    695,
     43,
+    1460,
+    692,
+    850,
+    68,
+    1067,
+    2124,
+    2444,
+    1064,
     108,
     36,
     15,
     41,
+    875,
+    127,
     9,
     45,
     93,
+    113,
     57,
     428
   ],
@@ -156,27 +168,35 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.0408,
-    "fanRatioPercentile": 71.0631,
-    "popularityPercentile": 27.7073,
-    "fanFavouriteDiscoveryScore": 46.5654,
-    "fanFavouriteDiscoveryPercentile": 54.1088
+    "fanRatioPercentile": 71.0665,
+    "popularityPercentile": 27.6586,
+    "fanFavouriteDiscoveryScore": 46.5024,
+    "fanFavouriteDiscoveryPercentile": 53.8362
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "martial-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -187,7 +207,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "night",
       "awakening",
@@ -220,14 +240,26 @@
     ],
     "evidence": {
       "tags": [
+        "Training",
         "Josei",
+        "Golden/Yellow-Eyed Male Lead",
+        "White/Silver-Haired Male Lead",
+        "Muscular Male Lead",
+        "Handsome Male Lead",
+        "Dark/Tan Skin",
+        "Virgin Female Lead",
+        "Dark/Tan Skin Male Lead",
+        "Weak to Strong",
         "Heterosexual",
         "Fantasy",
         "Mature",
         "Smut",
+        "First Love",
+        "Nobility",
         "Romance",
         "Historical",
         "Longstrip",
+        "Anthology",
         "Full Color",
         "Web Comic"
       ],
@@ -270,6 +302,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.8
   }
 }

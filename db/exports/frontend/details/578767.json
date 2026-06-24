@@ -120,9 +120,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T01:11:03.835Z",
-  "mangabaka_latest_rank": 909,
-  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
+  "last_updated_at": "2026-06-24T01:15:04.667Z",
+  "mangabaka_latest_rank": 917,
+  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
   "authors": [
     "Seoltanghuru",
     "Wolhet"
@@ -140,7 +140,11 @@
       "rating": 81,
       "url": "https://anilist.co/manga/208654"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-was-possessed-but-it-became-a-ghost-story",
+      "rating": 86,
+      "url": "https://www.anime-planet.com/manga/i-was-possessed-but-it-became-a-ghost-story"
+    },
     "mangaupdates": {
       "id": "a0ku54k",
       "rating": 76,
@@ -157,11 +161,13 @@
     108,
     36,
     94,
+    258,
     638,
     22,
     284,
     160,
     6,
+    31,
     44,
     32,
     127,
@@ -172,16 +178,16 @@
     428
   ],
   "stats": {
-    "popularity": 2054,
+    "popularity": 2065,
     "favourites": 71,
     "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 3.4567,
-    "fanRatioPercentile": 90.5147,
-    "popularityPercentile": 89.6288,
-    "fanFavouriteDiscoveryScore": 90.2422,
-    "fanFavouriteDiscoveryPercentile": 94.654
+    "fanFavouriteRaw": 3.4383,
+    "fanRatioPercentile": 90.2054,
+    "popularityPercentile": 89.6633,
+    "fanFavouriteDiscoveryScore": 89.9345,
+    "fanFavouriteDiscoveryPercentile": 94.5416
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -262,11 +268,13 @@
         "Heterosexual",
         "Fantasy",
         "Isekai",
+        "Isekaied Into a Novel",
         "Transmigrated into a Book World",
         "Supernatural",
         "Cats",
         "Demons",
         "Comedy",
+        "Drama",
         "Horror",
         "Mystery",
         "Nobility",
@@ -311,6 +319,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

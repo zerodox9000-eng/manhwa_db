@@ -132,9 +132,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T03:23:02.350Z",
-  "mangabaka_latest_rank": 219,
-  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
+  "last_updated_at": "2026-06-24T03:43:02.970Z",
+  "mangabaka_latest_rank": 227,
+  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
   "authors": [
     "CarroToon",
     "Deok-Su Baek"
@@ -150,10 +150,14 @@
   "source": {
     "anilist": {
       "id": 212562,
-      "rating": 86,
+      "rating": 85,
       "url": "https://anilist.co/manga/212562"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "got-dropped-into-a-ghost-story-still-gotta-work",
+      "rating": 90,
+      "url": "https://www.anime-planet.com/manga/got-dropped-into-a-ghost-story-still-gotta-work"
+    },
     "mangaupdates": {
       "id": "6uqt4zm",
       "rating": 75,
@@ -172,6 +176,7 @@
     58,
     2437,
     75,
+    74,
     1205,
     1156,
     260,
@@ -196,16 +201,16 @@
     428
   ],
   "stats": {
-    "popularity": 2293,
-    "favourites": 178,
-    "meanScore": 86
+    "popularity": 2345,
+    "favourites": 180,
+    "meanScore": 85
   },
   "analytics": {
-    "fanFavouriteRaw": 7.7628,
-    "fanRatioPercentile": 98.9155,
-    "popularityPercentile": 90.6217,
-    "fanFavouriteDiscoveryScore": 98.6413,
-    "fanFavouriteDiscoveryPercentile": 99.7556
+    "fanFavouriteRaw": 7.6759,
+    "fanRatioPercentile": 98.7556,
+    "popularityPercentile": 90.7321,
+    "fanFavouriteDiscoveryScore": 98.4843,
+    "fanFavouriteDiscoveryPercentile": 99.6641
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -302,6 +307,7 @@
         "Male Lead",
         "Misunderstood Male Lead",
         "Based on a Novel",
+        "Based on a Web Novel",
         "Company",
         "Comedic Undertone",
         "Secret Identity",
@@ -367,7 +373,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

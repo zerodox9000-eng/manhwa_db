@@ -41,9 +41,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T03:23:22.023Z",
-  "mangabaka_latest_rank": 208,
-  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
+  "last_updated_at": "2026-06-24T03:43:22.824Z",
+  "mangabaka_latest_rank": 216,
+  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
   "authors": [
     "Byeorebyeol",
     "Haruhue"
@@ -70,6 +70,7 @@
   },
   "tag_ids": [
     118,
+    94,
     46,
     180,
     16,
@@ -79,16 +80,16 @@
     428
   ],
   "stats": {
-    "popularity": 38,
+    "popularity": 40,
     "favourites": 1,
-    "meanScore": 67
+    "meanScore": 56
   },
   "analytics": {
-    "fanFavouriteRaw": 2.6316,
-    "fanRatioPercentile": 81.7474,
-    "popularityPercentile": 23.484,
-    "fanFavouriteDiscoveryScore": 46.7659,
-    "fanFavouriteDiscoveryPercentile": 54.9947
+    "fanFavouriteRaw": 2.5,
+    "fanRatioPercentile": 80.0214,
+    "popularityPercentile": 24.269,
+    "fanFavouriteDiscoveryScore": 47.0535,
+    "fanFavouriteDiscoveryPercentile": 55.7905
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -102,7 +103,9 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -110,12 +113,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "modern-korea / reincarnation",
     "searchKeywords": [
       "rut",
       "partner",
@@ -144,6 +149,7 @@
     "evidence": {
       "tags": [
         "Omegaverse",
+        "Isekai",
         "Adult",
         "Boys Love",
         "Yaoi",
@@ -191,6 +197,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.51
   }
 }

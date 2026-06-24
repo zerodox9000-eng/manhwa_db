@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-20T10:32:52.310Z",
-  "mangabaka_latest_rank": 607,
-  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
+  "last_updated_at": "2026-06-23T10:35:50.679Z",
+  "mangabaka_latest_rank": 615,
+  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
   "authors": [
     "Ji-Won Yun",
     "Manyong"
@@ -99,19 +99,30 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "ks7e1gr",
-      "rating": 64,
+      "rating": 65,
       "url": "https://www.mangaupdates.com/series/ks7e1gr"
     }
   },
   "tag_ids": [
     43,
+    60,
+    844,
+    2124,
+    2442,
+    2575,
+    2398,
+    595,
     108,
     36,
     46,
     41,
+    369,
+    776,
     9,
     45,
+    769,
     93,
+    1167,
     57,
     428
   ],
@@ -122,23 +133,30 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5488,
-    "popularityPercentile": 6.2548,
-    "fanFavouriteDiscoveryScore": 7.6135,
-    "fanFavouriteDiscoveryPercentile": 5.7584
+    "fanRatioPercentile": 31.5749,
+    "popularityPercentile": 6.2677,
+    "fanFavouriteDiscoveryScore": 7.626,
+    "fanFavouriteDiscoveryPercentile": 5.7791
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "horror-survival",
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
+      "euro-fantasy",
       "horror-survival"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
@@ -154,13 +172,14 @@
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "horror-survival / system",
+    "semanticSummary": "horror-survival / modern-korea / kingdom-fantasy / system",
     "searchKeywords": [
       "night",
       "hundred",
@@ -196,13 +215,24 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Abused Female Lead",
+        "Naive Female Lead",
+        "Virgin Female Lead",
+        "Emperor/King Male Lead",
+        "Pretending Male Lead",
+        "Virgin Male Lead",
+        "South Korea",
         "Heterosexual",
         "Fantasy",
         "Adult",
         "Smut",
+        "Virginity",
+        "Korean Folklore",
         "Romance",
         "Historical",
+        "Ancient Korea",
         "Longstrip",
+        "Short Story",
         "Full Color",
         "Web Comic"
       ],
@@ -246,6 +276,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.61
+    "confidence": 1
   }
 }

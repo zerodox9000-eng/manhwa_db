@@ -47,8 +47,8 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Murim's Debt King",
+      "language": "en",
+      "title": "Murim’s Debt King",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -61,7 +61,7 @@
       "note": null
     }
   ],
-  "description": "A place where money is needed to sharpen a sword, to feed and clothe your disciples—no, to simply breathe. \n\nThe Murim.    \n\nDo you need money? Has your credit rating dropped? Then come to the Continental Battlefield. Unsecured same-day loan approval. \n\nYou don't have the money to pay? Ah. Don't worry. We accept your body. Relax! You'll get injured! Thank you, sir!\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851610), [Naver Series](https://m.series.naver.com/comic/detail.series?productNo=14270649)",
+  "description": "Whether it’s forging a single sword, feeding and clothing your disciples, or even just breathing…everything costs money in the Murim. Need cash? Has your credit score tanked? Then come to the Continental Bank. Same-day approval, no collateral required. Can’t pay us back? Oh, don’t you worry. We’ll take it out of your hide. Now, relax! If you tense up, you’ll just give yourself internal injuries! Thank you for your business, valued customer!\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2IvOS8xL2YvNi9lLzAvNDk0Yi80MThlLzllNWYvMjhjMDc0YWY0MjJk",
   "total_chapters": "5",
   "status": "releasing",
@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-11T05:22:26.964Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-22T19:14:21.602Z",
-  "mangabaka_latest_rank": 89,
-  "mangabaka_latest_snapshot_at": "2026-06-23T05:14:03.661Z",
+  "last_updated_at": "2026-06-23T19:14:28.247Z",
+  "mangabaka_latest_rank": 97,
+  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
   "authors": [
     "Hong-Sil",
     "Sallyeojuseyo"
@@ -93,7 +93,7 @@
   "source": {
     "anilist": {
       "id": 213118,
-      "rating": 82,
+      "rating": 81,
       "url": "https://anilist.co/manga/213118"
     },
     "animeplanet": null,
@@ -115,24 +115,27 @@
     428
   ],
   "stats": {
-    "popularity": 75,
+    "popularity": 88,
     "favourites": 2,
-    "meanScore": 82
+    "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 2.6667,
-    "fanRatioPercentile": 82.2514,
-    "popularityPercentile": 35.0313,
-    "fanFavouriteDiscoveryScore": 63.9711,
-    "fanFavouriteDiscoveryPercentile": 72.5294
+    "fanFavouriteRaw": 2.2727,
+    "fanRatioPercentile": 76.0363,
+    "popularityPercentile": 37.6594,
+    "fanFavouriteDiscoveryScore": 61.8405,
+    "fanFavouriteDiscoveryPercentile": 69.9977
   },
   "context": {
     "primaryProfile": "murim-wuxia",
     "profileGroups": [
+      "business-career",
+      "korean-business",
       "modern-korea",
       "murim-wuxia"
     ],
     "primaryAnchors": [
+      "korean-business",
       "murim-wuxia"
     ],
     "excludedProfiles": [],
@@ -144,10 +147,13 @@
       "protagonistRole": [
         "martial-artist"
       ],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [
+        "career-growth",
         "martial-growth"
       ],
       "tone": [
@@ -169,25 +175,27 @@
       "king",
       "murimsachaewang",
       "sachaewang",
-      "place",
-      "money",
-      "needed",
-      "sharpen",
+      "whether",
+      "forging",
+      "single",
       "sword",
-      "feed",
-      "clothe",
+      "feeding",
+      "clothing",
       "your",
       "disciples",
-      "simply",
-      "breathe",
+      "even",
+      "breathing",
+      "everything",
+      "costs",
+      "money",
       "need",
+      "cash",
       "credit",
-      "rating",
-      "dropped",
+      "score",
+      "tanked",
       "come",
       "continental",
-      "battlefield",
-      "unsecured",
+      "bank",
       "same-day"
     ],
     "evidence": {
@@ -212,36 +220,36 @@
         "sachaewang"
       ],
       "descriptionTerms": [
-        "place",
-        "money",
-        "needed",
-        "sharpen",
+        "whether",
+        "forging",
+        "single",
         "sword",
-        "feed",
-        "clothe",
+        "feeding",
+        "clothing",
         "your",
         "disciples",
-        "simply",
-        "breathe",
+        "even",
+        "breathing",
+        "everything",
+        "costs",
+        "money",
         "murim",
         "need",
-        "money",
+        "cash",
         "your",
         "credit",
-        "rating",
-        "dropped",
+        "score",
+        "tanked",
         "come",
         "continental",
-        "battlefield",
-        "unsecured",
-        "same-day",
-        "loan"
+        "bank",
+        "same-day"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.83
   }
 }
