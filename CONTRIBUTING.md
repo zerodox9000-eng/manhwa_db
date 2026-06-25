@@ -16,6 +16,11 @@ This project prioritizes:
 
 Frontend should remain stable even if backend changes internally.
 
+There are two contracts to preserve:
+
+- legacy exports in `db/exports/frontend/`
+- additive v2 exports in `db/exports/frontend-v2/`
+
 ---
 
 ### Never manually edit raw data
@@ -34,6 +39,8 @@ Frontend should never directly access:
 - enrichment
 - cache
 
+The new frontend should prefer the v2 manifest/build contract for new loading code.
+
 ---
 
 ## Future Expansion
@@ -44,3 +51,4 @@ Planned areas:
 - similarity scoring
 - personalization
 - incremental exports
+- smaller API-first v2 refresh jobs

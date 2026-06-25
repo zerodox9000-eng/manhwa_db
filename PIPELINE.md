@@ -23,6 +23,8 @@ Purpose:
 - reduce rebuild overhead
 - enable scalable daily syncing
 
+This is the legacy daily collection path. It still powers the old export contract.
+
 
 ---
 
@@ -45,6 +47,8 @@ Queries AniList GraphQL.
 
 Stored in:
 db/enriched/anilist/
+
+AniList stats are part of both the legacy and v2 contracts because they feed ranking and discovery behavior.
 
 ---
 
@@ -78,6 +82,21 @@ Builds:
 - details
 - gzip files
 
+Legacy contract output lives under `db/exports/frontend/`.
+
+## V2 Frontend Build
+
+npm run build:frontend:v2
+
+Builds:
+- manifest
+- immutable build catalog
+- immutable build tags
+- lazy details
+- gzip files
+
+V2 output lives under `db/exports/frontend-v2/`.
+
 ---
 
 ## Daily Pipeline
@@ -91,3 +110,5 @@ update
 → enrich
 → snapshot
 → build frontend
+
+`npm run daily:incremental` is the current scheduled workflow entrypoint in GitHub Actions.

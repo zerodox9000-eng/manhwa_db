@@ -2,9 +2,13 @@
 
 ## Entry Point
 
-Frontend should consume:
+Legacy frontend should consume:
 
 db/exports/frontend/
+
+New frontend should consume:
+
+db/exports/frontend-v2/manifest.json
 
 ---
 
@@ -27,6 +31,8 @@ Used for:
 - ranking
 - filtering
 
+This is the legacy export shape. The v2 catalog splits this into a smaller manifest-driven catalog plus lazy details.
+
 ---
 
 ### details/{id}.json
@@ -34,6 +40,8 @@ Used for:
 Heavy per-series detail data.
 
 Lazy-loaded only when needed.
+
+In v2, this lives under `db/exports/frontend-v2/builds/{buildId}/details/{id}.json`.
 
 ---
 
@@ -46,6 +54,8 @@ Contains:
 - names
 - hierarchy
 - genre flags
+
+In v2, the tag graph also includes more explicit build metadata and is loaded through the manifest.
 
 ---
 
@@ -72,4 +82,13 @@ Exports also exist as:
 
 .gz
 
-Frontend should prefer compressed versions.
+Frontend should prefer compressed versions where possible.
+
+## V2 Contract Notes
+
+The v2 contract is designed so the frontend can:
+
+- fetch a small manifest first
+- validate a complete build before switching data
+- load catalog entries without loading all details
+- keep legacy and new loading logic separate

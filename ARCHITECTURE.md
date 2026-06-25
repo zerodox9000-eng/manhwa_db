@@ -8,7 +8,8 @@ MangaBaka API
 → AniList enrichment
 → Historical snapshots
 → Analytics generation
-→ Frontend export generation
+→ Legacy frontend export generation
+→ V2 manifest/build export generation
 → Compression
 
 ## Incremental Updating
@@ -24,6 +25,8 @@ Pipeline:
 - rebuilds processed structure from merged raw data
 
 Full rebuild pipeline remains available as fallback verification.
+
+The current workflow is still legacy-first, but the repo also builds a separate `frontend-v2` contract with a manifest and immutable build directory.
 ---
 
 ## Layers
@@ -93,6 +96,19 @@ Contains:
 - history.json
 - gzip files
 
+### V2 Frontend Exports
+
+db/exports/frontend-v2/
+
+Manifest-first frontend contract for the newer app.
+
+Contains:
+- manifest.json
+- builds/{buildId}/catalog/index.json
+- builds/{buildId}/tags/graph.json
+- builds/{buildId}/details/{id}.json
+- gzip files for catalog and tag graph
+
 ---
 
 ## Philosophy
@@ -106,3 +122,5 @@ Frontend NEVER directly reads:
 - cache
 
 Only exports.
+
+The frontend should treat `frontend-v2` as the preferred contract for new work, while legacy exports remain for compatibility and transition safety.

@@ -4,6 +4,8 @@
 
 Surface genuinely loved series without pure popularity dominance.
 
+The analytics layer exists to support discovery and feed ranking in the exported frontend contracts, not to replace the source data model.
+
 ---
 
 ## Metrics
@@ -40,6 +42,8 @@ Purpose:
 - cult-hit surfacing
 - reduced mainstream bias
 
+In the current exports, this is derived from the AniList snapshot data and written into the legacy analytics/history export.
+
 ---
 
 ### Discovery Percentile
@@ -65,3 +69,5 @@ System uses:
 - adaptive weighting
 
 instead of hardcoded static thresholds.
+
+The v2 contract still keeps these ideas, but it favors smaller manifest-driven exports and explicit source fields over frontend-local inference.
