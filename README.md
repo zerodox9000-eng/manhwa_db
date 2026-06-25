@@ -99,7 +99,15 @@ What it does differently:
 
 The tag-weight file is the raw MangaBaka-derived mapping that the frontend can use to build recommendation signals. The recommendation features file is the precomputed, frontend-ready layer when you want the backend to do more of the math ahead of time.
 
-The frontend should not scrape MangaBaka directly. It should consume the exported weights and then run the final scoring/ranking logic on top of them.
+The frontend should not scrape MangaBaka directly. The recommender is backend-prebaked: the backend should compute the recommendation features and ranking inputs ahead of time, and the frontend should only send filter choices and render the returned list.
+
+Default recommendation ordering:
+
+1. Fit score
+2. Fan rank
+3. Popularity percentile
+
+Fit is the main ranking signal. Fan rank and popularity are supporting signals and tie-breakers, not the primary sort key.
 
 ## Daily Workflow
 

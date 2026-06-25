@@ -286,6 +286,11 @@ This is the key takeaway for recommender logic:
 - the broader the slice, the more useless the flat broad tags become
 - the more valuable the exact tag combinations become
 - the model should rank by weighted overlap of anchor + bridge + context, not by one hard tag match
+- default recommendation ordering should be:
+  1. fit score
+  2. fan rank
+  3. popularity percentile
+- fit should dominate the ranking; fan rank and popularity are supporting signals and tie-breakers, not the main driver
 
 ## Other Splits To Keep Separate
 
