@@ -1125,6 +1125,7 @@ for (const file of snapshotFiles) {
 
 const discovery = [];
 const recommendationFeatures = [];
+const recommendationChunks = new Map();
 const tagDocumentCounts = new Map();
 const textDocumentFrequencies = new Map();
 const totalDocuments = seriesMap.size;
@@ -1236,6 +1237,13 @@ for (
 
   recommendationFeatures.push(recommendationFeature);
 
+  const chunkKey =
+    recommendationFeature.primaryAnchors?.[0] ||
+    recommendationFeature.profileGroups?.[0] ||
+    "misc";
+  if (!recommendationChunks.has(chunkKey)) recommendationChunks.set(chunkKey, []);
+  recommendationChunks.get(chunkKey).push(recommendationFeature);
+
   fs.writeFileSync(
 
     path.join(
@@ -1282,6 +1290,48 @@ fs.writeFileSync(
 
   JSON.stringify(
     recommendationFeatures,
+    null,
+    2
+  )
+);
+
+fs.mkdirSync(
+  path.join(
+    EXPORT_DIR,
+    "recommendations/chunks"
+  ),
+  { recursive: true }
+);
+
+const recommendationChunkIndex = [];
+for (const [chunkKey, chunkFeatures] of [...recommendationChunks.entries()].sort(([a], [b]) => a.localeCompare(b))) {
+  const chunkFilePath = path.join(
+    EXPORT_DIR,
+    `recommendations/chunks/${chunkKey}.json`
+  );
+  const chunkJson = JSON.stringify(chunkFeatures, null, 2);
+  fs.writeFileSync(chunkFilePath, chunkJson);
+  fs.writeFileSync(`${chunkFilePath}.gz`, zlib.gzipSync(Buffer.from(chunkJson)));
+  recommendationChunkIndex.push({
+    key: chunkKey,
+    count: chunkFeatures.length,
+    path: `recommendations/chunks/${chunkKey}.json`,
+    gzipPath: `recommendations/chunks/${chunkKey}.json.gz`,
+    bytes: Buffer.byteLength(chunkJson),
+    gzipBytes: fs.statSync(`${chunkFilePath}.gz`).size,
+  });
+}
+
+fs.writeFileSync(
+  path.join(
+    EXPORT_DIR,
+    "recommendations/index.json"
+  ),
+  JSON.stringify(
+    {
+      defaultChunk: recommendationChunkIndex[0]?.key || "misc",
+      chunks: recommendationChunkIndex,
+    },
     null,
     2
   )
