@@ -39,6 +39,7 @@ function validate() {
   assert(Array.isArray(tags), "Tag graph must be an array", errors);
   assert(catalog.length === manifest.counts?.catalog, "Catalog count does not match manifest", errors);
   assert(tags.length === manifest.counts?.tags, "Tag count does not match manifest", errors);
+  assert(catalog.some((item) => item.year === 2013), "Catalog is missing year-2013 titles", errors);
 
   let anilistRanks = 0;
   let animeplanetTitles = 0;
@@ -77,6 +78,9 @@ function validate() {
     const detailPath = path.join(EXPORT_DIR, detailTemplate.replace("{id}", String(item.id)));
     assert(fs.existsSync(detailPath), `Missing sample detail file: ${detailPath}`, errors);
   }
+
+  assert(fs.statSync(catalogPath).size < 100 * 1024 * 1024, "Catalog file exceeds GitHub size limit", errors);
+  assert(fs.statSync(path.join(EXPORT_DIR, manifest.files?.catalog?.gzipPath || "")).size > 0, "Missing catalog gzip bytes", errors);
 
   return errors;
 }
