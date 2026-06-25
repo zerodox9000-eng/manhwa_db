@@ -81,9 +81,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.189Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T22:42:36.402Z",
+  "last_updated_at": "2026-06-25T03:21:44.225Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ginga"
   ],
@@ -96,7 +96,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "punch-drunken-love",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/punch-drunken-love"
+    },
     "mangaupdates": {
       "id": "sfgh6pv",
       "rating": 60,
@@ -110,8 +114,13 @@
     107,
     573,
     14,
+    1550,
     180,
-    16
+    16,
+    2882,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -127,6 +136,7 @@
     "primaryProfile": "modern-korea",
     "profileGroups": [
       "modern-korea",
+      "romance-core",
       "school-life"
     ],
     "primaryAnchors": [],
@@ -184,8 +194,13 @@
         "School",
         "Student-Student Relationship",
         "Erotica",
+        "One-Night Stand",
         "Boys Love",
-        "Yaoi"
+        "Yaoi",
+        "Christmas",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "punch",
@@ -222,9 +237,10 @@
         "jongmin"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.62
   }
 }

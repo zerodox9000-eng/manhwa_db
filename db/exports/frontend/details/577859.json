@@ -83,9 +83,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T18:05:14.720Z",
-  "mangabaka_latest_rank": 982,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T12:06:06.889Z",
+  "mangabaka_latest_rank": 1052,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Baekmong",
     "Goro"
@@ -103,7 +103,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/207193"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-became-the-scoundrel-of-the-cheon-family",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/i-became-the-scoundrel-of-the-cheon-family"
+    },
     "mangaupdates": {
       "id": "lfwo2tg",
       "rating": 67,
@@ -123,16 +127,16 @@
     428
   ],
   "stats": {
-    "popularity": 1029,
+    "popularity": 1032,
     "favourites": 13,
     "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2634,
-    "fanRatioPercentile": 50.7672,
-    "popularityPercentile": 81.5177,
-    "fanFavouriteDiscoveryScore": 50.4676,
-    "fanFavouriteDiscoveryPercentile": 58.9969
+    "fanFavouriteRaw": 1.2597,
+    "fanRatioPercentile": 50.744,
+    "popularityPercentile": 81.5338,
+    "fanFavouriteDiscoveryScore": 50.4449,
+    "fanFavouriteDiscoveryPercentile": 59.008
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -247,7 +251,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.52

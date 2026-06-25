@@ -2,7 +2,7 @@
   "id": 586344,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Martial Genius Who Remembers Everything",
+  "display_title": "The Unforgettable Genius Martial Artist",
   "mangabaka_title": "Modeungeol Gieokaneun Cheonjaemusa",
   "native_title": "모든걸 기억하는 천재무사",
   "romanized_title": "Modeungeol Gieokaneun Cheonjaemusa",
@@ -33,17 +33,17 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "The Martial Genius Who Remembers Everything",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "The Unforgettable Genius Martial Artist",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:25:04.660Z",
-  "mangabaka_latest_rank": 425,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:26:06.284Z",
+  "mangabaka_latest_rank": 495,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jeokseolmok",
     "Omin"
@@ -96,7 +96,11 @@
       "rating": 71,
       "url": "https://anilist.co/manga/211415"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-martial-genius-who-remembers-everything",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-martial-genius-who-remembers-everything"
+    },
     "mangaupdates": {
       "id": "ko9qt7a",
       "rating": 69,
@@ -106,25 +110,30 @@
   "tag_ids": [
     38,
     58,
+    74,
     311,
+    249,
     36,
+    1,
     39,
     29,
+    363,
+    990,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 813,
+    "popularity": 829,
     "favourites": 8,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 0.984,
-    "fanRatioPercentile": 43.5148,
-    "popularityPercentile": 78.0136,
-    "fanFavouriteDiscoveryScore": 43.1715,
-    "fanFavouriteDiscoveryPercentile": 48.7671
+    "fanFavouriteRaw": 0.965,
+    "fanRatioPercentile": 42.9531,
+    "popularityPercentile": 78.2907,
+    "fanFavouriteDiscoveryScore": 42.6219,
+    "fanFavouriteDiscoveryPercentile": 48.0885
   },
   "context": {
     "primaryProfile": "murim-wuxia",
@@ -163,22 +172,23 @@
         "martial-world"
       ],
       "romanceRole": "none",
-      "regressionRole": "minor",
+      "regressionRole": "major",
       "systemRole": "none"
     },
     "semanticSummary": "murim-wuxia / modern-korea / murim-world / regression",
     "searchKeywords": [
-      "martial",
+      "unforgettable",
       "genius",
-      "remembers",
-      "everything",
+      "martial",
+      "artist",
       "modeungeol",
       "gieokaneun",
       "cheonjaemusa",
       "jin",
       "so-un",
       "third-rate",
-      "artist",
+      "remembers",
+      "everything",
       "finds",
       "himself",
       "transported",
@@ -201,19 +211,24 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Based on a Web Novel",
         "Time Manipulation",
+        "Time Travel",
         "Fantasy",
+        "Sci-Fi",
         "Action",
         "Martial Arts",
+        "Cultivation",
+        "Second Chance",
         "Longstrip",
         "Full Color",
         "Web Comic"
       ],
       "titleTerms": [
-        "martial",
+        "unforgettable",
         "genius",
-        "remembers",
-        "everything",
+        "martial",
+        "artist",
         "modeungeol",
         "gieokaneun",
         "cheonjaemusa",
@@ -249,9 +264,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.9
+    "confidence": 0.95
   }
 }

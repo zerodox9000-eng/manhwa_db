@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:35:50.969Z",
-  "mangabaka_latest_rank": 808,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T22:59:39.633Z",
+  "mangabaka_latest_rank": 878,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gyogwan"
   ],
@@ -88,7 +88,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/213007"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "taming-an-alpha-dog",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/taming-an-alpha-dog"
+    },
     "mangaupdates": {
       "id": "17cdt6c",
       "rating": 63,
@@ -115,10 +119,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 15.3846,
-    "fanRatioPercentile": 99.7633,
-    "popularityPercentile": 8.8098,
-    "fanFavouriteDiscoveryScore": 28.1747,
-    "fanFavouriteDiscoveryPercentile": 30.6817
+    "fanRatioPercentile": 99.7634,
+    "popularityPercentile": 8.8134,
+    "fanFavouriteDiscoveryScore": 28.1808,
+    "fanFavouriteDiscoveryPercentile": 30.7058
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -243,7 +247,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.85

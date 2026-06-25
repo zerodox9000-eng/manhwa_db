@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T14:16:36.459Z",
-  "mangabaka_latest_rank": 5620,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:06:04.597Z",
+  "mangabaka_latest_rank": 5688,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Eunset Lee",
     "Nepen"
@@ -82,7 +82,11 @@
       "rating": 80,
       "url": "https://anilist.co/manga/190474"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-husband-resembles-my-first-love",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/my-husband-resembles-my-first-love"
+    },
     "mangaupdates": {
       "id": "vode3he",
       "rating": 62,
@@ -91,8 +95,10 @@
   },
   "tag_ids": [
     40,
+    74,
     108,
     36,
+    127,
     9,
     93,
     57,
@@ -105,10 +111,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.6364,
-    "fanRatioPercentile": 91.5261,
-    "popularityPercentile": 29.8649,
-    "fanFavouriteDiscoveryScore": 63.581,
-    "fanFavouriteDiscoveryPercentile": 72.1353
+    "fanRatioPercentile": 91.4994,
+    "popularityPercentile": 29.8665,
+    "fanFavouriteDiscoveryScore": 63.565,
+    "fanFavouriteDiscoveryPercentile": 72.1099
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -176,8 +182,10 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
+        "Nobility",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -223,9 +231,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.72
+    "confidence": 0.74
   }
 }

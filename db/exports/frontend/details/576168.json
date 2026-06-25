@@ -2,7 +2,7 @@
   "id": 576168,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I'm Trying to Become the Dark Duke's Family",
+  "display_title": "I Intend to Become the Family of the Mastermind Duke",
   "mangabaka_title": "Heungmak Gongjangnimui Gajogi Doeryeo Hamnida",
   "native_title": "흑막 공작님의 가족이 되려 합니다",
   "romanized_title": "Heungmak Gongjangnimui Gajogi Doeryeo Hamnida",
@@ -36,7 +36,7 @@
       "language": "en",
       "title": "I Intend to Become the Family of the Mastermind Duke",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -68,10 +68,10 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "I'm Trying to Become the Dark Duke's Family",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -125,9 +125,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:48:54.671Z",
-  "mangabaka_latest_rank": 1093,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T12:45:18.765Z",
+  "mangabaka_latest_rank": 1163,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hae-Yun Eun",
     "Wigweyang Gatsby"
@@ -145,7 +145,11 @@
       "rating": 72,
       "url": "https://anilist.co/manga/207163"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "im-trying-to-become-the-dark-dukes-family",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/im-trying-to-become-the-dark-dukes-family"
+    },
     "mangaupdates": {
       "id": "siwjf7i",
       "rating": 64,
@@ -155,8 +159,12 @@
   "tag_ids": [
     40,
     59,
+    74,
     108,
     36,
+    94,
+    258,
+    598,
     742,
     9,
     7,
@@ -166,16 +174,16 @@
     428
   ],
   "stats": {
-    "popularity": 160,
+    "popularity": 161,
     "favourites": 8,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 5,
-    "fanRatioPercentile": 96.2745,
-    "popularityPercentile": 48.4617,
-    "fanFavouriteDiscoveryScore": 88.0577,
-    "fanFavouriteDiscoveryPercentile": 93.4193
+    "fanFavouriteRaw": 4.9689,
+    "fanRatioPercentile": 96.1236,
+    "popularityPercentile": 48.5769,
+    "fanFavouriteDiscoveryScore": 87.9914,
+    "fanFavouriteDiscoveryPercentile": 93.3689
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -196,7 +204,9 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -211,13 +221,13 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
-      "trying",
+      "intend",
       "become",
-      "dark",
-      "duke",
       "family",
+      "mastermind",
+      "duke",
       "heungmak",
       "gongjangnimui",
       "gajogi",
@@ -252,8 +262,12 @@
       "tags": [
         "Shoujo",
         "Female Lead",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
+        "Isekai",
+        "Isekaied Into a Novel",
+        "Illness",
         "Parenthood",
         "Romance",
         "Slice of Life",
@@ -263,11 +277,11 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "trying",
+        "intend",
         "become",
-        "dark",
-        "duke",
         "family",
+        "mastermind",
+        "duke",
         "heungmak",
         "gongjangnimui",
         "gajogi",
@@ -304,9 +318,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.76
+    "confidence": 0.8
   }
 }

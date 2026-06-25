@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Married to a Perverted Virgin Duke",
-  "mangabaka_title": "Dongjeong Byeontae Gongjak-gwa Gyeolhonhaetseumnida",
+  "mangabaka_title": "Married to a Perverted Virgin Duke",
   "native_title": "동정 변태 공작과 결혼했습니다",
   "romanized_title": "Dongjeong Byeontae Gongjak-gwa Gyeolhonhaetseumnida",
   "titles": [
@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T14:40:27.786Z",
-  "mangabaka_latest_rank": 978,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:47:38.602Z",
+  "mangabaka_latest_rank": 1048,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Yuchae"
   ],
@@ -91,7 +91,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "married-to-a-perverted-virgin-duke",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/married-to-a-perverted-virgin-duke"
+    },
     "mangaupdates": {
       "id": "3o1329u",
       "rating": 65,
@@ -100,11 +104,16 @@
   },
   "tag_ids": [
     43,
+    74,
     36,
     46,
     41,
     31,
-    9
+    127,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -189,21 +198,26 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Fantasy",
         "Adult",
         "Smut",
         "Drama",
-        "Romance"
+        "Nobility",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "married",
         "perverted",
         "virgin",
         "duke",
-        "dongjeong",
-        "byeontae",
-        "gongjak-gwa",
-        "gyeolhonhaetseumnida",
+        "married",
+        "perverted",
+        "virgin",
+        "duke",
         "dongjeong",
         "byeontae",
         "gongjak-gwa",
@@ -236,9 +250,10 @@
         "military"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.71
+    "confidence": 0.76
   }
 }

@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T22:35:03.971Z",
-  "mangabaka_latest_rank": 828,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T23:30:07.703Z",
+  "mangabaka_latest_rank": 898,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Seo-Hae Lee",
     "Singmok"
@@ -85,7 +85,11 @@
       "rating": 78,
       "url": "https://anilist.co/manga/209606"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "bias-wrecker",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/bias-wrecker"
+    },
     "mangaupdates": {
       "id": "0n170mj",
       "rating": 65,
@@ -99,6 +103,7 @@
     1387,
     158,
     335,
+    74,
     595,
     591,
     627,
@@ -119,16 +124,16 @@
     428
   ],
   "stats": {
-    "popularity": 203,
+    "popularity": 206,
     "favourites": 7,
     "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 3.4483,
-    "fanRatioPercentile": 90.4649,
-    "popularityPercentile": 53.0728,
-    "fanFavouriteDiscoveryScore": 85.0601,
-    "fanFavouriteDiscoveryPercentile": 91.4574
+    "fanFavouriteRaw": 3.3981,
+    "fanRatioPercentile": 90.042,
+    "popularityPercentile": 53.3995,
+    "fanFavouriteDiscoveryScore": 84.7985,
+    "fanFavouriteDiscoveryPercentile": 91.3087
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -205,6 +210,7 @@
         "Blonde-Haired Seme",
         "Primarily Adult Cast",
         "Primarily Male Cast",
+        "Based on a Web Novel",
         "South Korea",
         "Actor",
         "Celebrity",
@@ -263,6 +269,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

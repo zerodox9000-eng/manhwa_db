@@ -2,10 +2,10 @@
   "id": 588861,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Married Woman Sauna",
+  "display_title": "Married Women Only Sauna",
   "mangabaka_title": "Yubunyeo Jeonyong Sauna",
   "native_title": "유부녀 전용 사우나",
-  "romanized_title": "Yubunyeo Jeonyong Sauna",
+  "romanized_title": "Married Woman Sauna",
   "titles": [
     {
       "language": "ko",
@@ -17,17 +17,17 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Married Woman Sauna",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Married Women Only Sauna",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -66,6 +66,13 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "zh",
+      "title": "专为熟女专属的桑拿",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "Sunhwa lives in a city lined with luxury apartment complexes. Feeling bored as a housewife, she visits 'Hwajung Sauna' on an acquaintance's recommendation, which is said to have excellent facilities and high customer satisfaction nearby. However, the sauna, which she was told was women-only, is packed with men… Dizzying desires unfold within the confined space of a sauna.\n\n*\"This shouldn't be happening... but I'm starting to feel good...\"*\n\n(Source: Lezhin, translated)",
@@ -83,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:12:07.543Z",
-  "mangabaka_latest_rank": 220,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:05:20.191Z",
+  "mangabaka_latest_rank": 290,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Haru"
   ],
@@ -102,7 +109,11 @@
       "rating": 77,
       "url": "https://anilist.co/manga/212558"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "married-woman-sauna",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/married-woman-sauna"
+    },
     "mangaupdates": {
       "id": "cksslxk",
       "rating": 61,
@@ -123,16 +134,16 @@
     428
   ],
   "stats": {
-    "popularity": 79,
+    "popularity": 81,
     "favourites": 3,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 3.7975,
-    "fanRatioPercentile": 92.3124,
-    "popularityPercentile": 35.8806,
-    "fanFavouriteDiscoveryScore": 72.9032,
-    "fanFavouriteDiscoveryPercentile": 80.8917
+    "fanFavouriteRaw": 3.7037,
+    "fanRatioPercentile": 91.9725,
+    "popularityPercentile": 36.2457,
+    "fanFavouriteDiscoveryScore": 73.0953,
+    "fanFavouriteDiscoveryPercentile": 81.053
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -157,10 +168,11 @@
     "semanticSummary": "romance-core",
     "searchKeywords": [
       "married",
-      "woman",
+      "women",
       "sauna",
       "yubunyeo",
       "jeonyong",
+      "woman",
       "sunhwa",
       "lives",
       "city",
@@ -201,13 +213,13 @@
       ],
       "titleTerms": [
         "married",
+        "women",
+        "sauna",
+        "yubunyeo",
+        "jeonyong",
+        "sauna",
+        "married",
         "woman",
-        "sauna",
-        "yubunyeo",
-        "jeonyong",
-        "sauna",
-        "yubunyeo",
-        "jeonyong",
         "sauna"
       ],
       "descriptionTerms": [
@@ -238,7 +250,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.46

@@ -2,7 +2,7 @@
   "id": 338060,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Raising a Child Who Will Kill Me",
+  "display_title": "Mama Medusa",
   "mangabaka_title": "Nareul Jugil Aireul Kiunda",
   "native_title": "나를 죽일 아이를 키운다",
   "romanized_title": "Nareul Jugil Aireul Kiunda",
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Mama Medusa",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -33,10 +33,10 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Raising a Child Who Will Kill Me",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T00:50:21.670Z",
-  "mangabaka_latest_rank": 3307,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:41:25.311Z",
+  "mangabaka_latest_rank": 3375,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Pantom"
   ],
@@ -81,7 +81,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/207611"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "raising-a-child-who-will-kill-me",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/raising-a-child-who-will-kill-me"
+    },
     "mangaupdates": {
       "id": "t7mayqh",
       "rating": null,
@@ -89,10 +93,15 @@
     }
   },
   "tag_ids": [
+    269,
     40,
     36,
     6,
     31,
+    742,
+    1120,
+    7,
+    282,
     93,
     57,
     428
@@ -104,10 +113,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 17.7265,
-    "fanFavouriteDiscoveryScore": 14.2964,
-    "fanFavouriteDiscoveryPercentile": 15.7646
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 17.6955,
+    "fanFavouriteDiscoveryScore": 14.2731,
+    "fanFavouriteDiscoveryPercentile": 15.7421
   },
   "context": {
     "primaryProfile": null,
@@ -124,7 +133,8 @@
       ],
       "progressionType": [],
       "tone": [
-        "comedic"
+        "comedic",
+        "warm"
       ],
       "worldType": [
         "fantasy-world"
@@ -135,14 +145,12 @@
     },
     "semanticSummary": "",
     "searchKeywords": [
-      "raising",
-      "child",
-      "kill",
+      "mama",
+      "medusa",
       "nareul",
       "jugil",
       "aireul",
       "kiunda",
-      "medusa",
       "monster",
       "known",
       "grotesque",
@@ -152,7 +160,9 @@
       "children",
       "comes",
       "across",
+      "child",
       "destined",
+      "kill",
       "inside",
       "chest",
       "washed",
@@ -165,18 +175,22 @@
     ],
     "evidence": {
       "tags": [
+        "Childcare",
         "Shoujo",
         "Fantasy",
         "Comedy",
         "Drama",
+        "Parenthood",
+        "Single Parent",
+        "Slice of Life",
+        "Family Life",
         "Longstrip",
         "Full Color",
         "Web Comic"
       ],
       "titleTerms": [
-        "raising",
-        "child",
-        "kill",
+        "mama",
+        "medusa",
         "nareul",
         "jugil",
         "aireul",
@@ -214,9 +228,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.35
+    "confidence": 0.4
   }
 }

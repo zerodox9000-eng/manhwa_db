@@ -5,7 +5,7 @@
   "display_title": "No Open Flames",
   "mangabaka_title": "Hwagieomgeum",
   "native_title": "화기엄금",
-  "romanized_title": "Hwagieomgeum",
+  "romanized_title": "Caution: Flammables",
   "titles": [
     {
       "language": "ko",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja-Latn",
+      "title": "Caution: Flammables",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -55,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:27:17.881Z",
-  "mangabaka_latest_rank": 674,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:28:19.537Z",
+  "mangabaka_latest_rank": 744,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "1999"
   ],
@@ -90,16 +97,16 @@
     7
   ],
   "stats": {
-    "popularity": 77,
+    "popularity": 78,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 35.4302,
-    "fanFavouriteDiscoveryScore": 24.7372,
-    "fanFavouriteDiscoveryPercentile": 27.3838
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 35.5971,
+    "fanFavouriteDiscoveryScore": 24.806,
+    "fanFavouriteDiscoveryPercentile": 27.4781
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -134,6 +141,8 @@
       "open",
       "flames",
       "hwagieomgeum",
+      "caution",
+      "flammables",
       "burst",
       "water",
       "pipe",
@@ -172,7 +181,8 @@
         "open",
         "flames",
         "hwagieomgeum",
-        "hwagieomgeum"
+        "caution",
+        "flammables"
       ],
       "descriptionTerms": [
         "burst",

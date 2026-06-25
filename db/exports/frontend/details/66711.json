@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.147Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T17:46:37.656Z",
+  "last_updated_at": "2026-06-24T11:27:27.723Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Matseoltang"
   ],
@@ -117,10 +117,15 @@
   },
   "tag_ids": [
     1381,
+    579,
     158,
     335,
     58,
     2478,
+    283,
+    172,
+    898,
+    106,
     987,
     434,
     1,
@@ -128,9 +133,13 @@
     100,
     413,
     180,
+    1947,
     16,
+    1595,
     31,
     44,
+    230,
+    984,
     9,
     93,
     57,
@@ -143,15 +152,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.722,
-    "fanRatioPercentile": 37.4151,
-    "popularityPercentile": 58.7984,
-    "fanFavouriteDiscoveryScore": 35.9957,
-    "fanFavouriteDiscoveryPercentile": 39.8198
+    "fanRatioPercentile": 37.4056,
+    "popularityPercentile": 58.7944,
+    "fanFavouriteDiscoveryScore": 35.9861,
+    "fanFavouriteDiscoveryPercentile": 39.8169
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
       "horror-survival",
+      "modern-korea",
       "regression-return",
       "romance-core"
     ],
@@ -160,7 +170,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
@@ -180,7 +192,7 @@
       "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival / regression",
+    "semanticSummary": "horror-survival / modern-korea / regression",
     "searchKeywords": [
       "over",
       "paradise",
@@ -209,10 +221,15 @@
     "evidence": {
       "tags": [
         "Black-Haired Seme",
+        "Scars",
         "Primarily Adult Cast",
         "Primarily Male Cast",
         "Male Lead",
         "Scarred Male Lead",
+        "Amnesia",
+        "Time Skip",
+        "Tragic Past",
+        "Age Gap",
         "Older Seme Younger Uke",
         "Guideverse",
         "Sci-Fi",
@@ -220,9 +237,13 @@
         "Anal Intercourse",
         "Zombies",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
+        "Near-Death Experience",
         "Drama",
         "Horror",
+        "Military",
+        "Reunion",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -269,6 +290,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.77
+    "confidence": 0.89
   }
 }

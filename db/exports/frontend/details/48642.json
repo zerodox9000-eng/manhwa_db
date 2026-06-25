@@ -41,9 +41,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.189Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-12T09:37:55.658Z",
+  "last_updated_at": "2026-06-25T03:28:51.035Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hui"
   ],
@@ -60,7 +60,11 @@
       "rating": 62,
       "url": "https://anilist.co/manga/146985"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "500cc",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/500cc"
+    },
     "mangaupdates": {
       "id": "ridemqk",
       "rating": 62,
@@ -75,11 +79,14 @@
     1550,
     6,
     294,
+    4,
     47,
     33,
     9,
     7,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 241,
@@ -88,10 +95,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.8299,
-    "fanRatioPercentile": 39.4,
-    "popularityPercentile": 56.2944,
-    "fanFavouriteDiscoveryScore": 37.5746,
-    "fanFavouriteDiscoveryPercentile": 41.9269
+    "fanRatioPercentile": 39.4048,
+    "popularityPercentile": 56.2762,
+    "fanFavouriteDiscoveryScore": 37.5766,
+    "fanFavouriteDiscoveryPercentile": 41.9306
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -155,11 +162,14 @@
         "One-Night Stand",
         "Comedy",
         "Alcohol",
+        "Girls Love",
         "Shoujo Ai",
         "Yuri",
         "Romance",
         "Slice of Life",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "500cc",
@@ -195,9 +205,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.57
   }
 }

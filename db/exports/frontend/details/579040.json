@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T20:08:03.321Z",
-  "mangabaka_latest_rank": 900,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:55:00.137Z",
+  "mangabaka_latest_rank": 970,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Posilhan Cream-ppang"
   ],
@@ -81,7 +81,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/212378"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "x-we-met-again",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/x-we-met-again"
+    },
     "mangaupdates": {
       "id": "rxbz10i",
       "rating": null,
@@ -106,10 +110,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 6.2677,
-    "fanFavouriteDiscoveryScore": 7.626,
-    "fanFavouriteDiscoveryPercentile": 5.7791
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 6.2648,
+    "fanFavouriteDiscoveryScore": 7.623,
+    "fanFavouriteDiscoveryPercentile": 5.7688
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -218,7 +222,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.67

@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T17:16:41.254Z",
+  "last_updated_at": "2026-06-24T21:47:05.466Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jeidi",
     "The4Devas"
@@ -96,7 +96,11 @@
       "rating": 100,
       "url": "https://anilist.co/manga/208165"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ex-husband-demands-reunion",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/ex-husband-demands-reunion"
+    },
     "mangaupdates": {
       "id": "zb1yt9o",
       "rating": 63,
@@ -105,8 +109,12 @@
   },
   "tag_ids": [
     43,
+    266,
+    74,
     108,
     36,
+    94,
+    258,
     46,
     9,
     93,
@@ -120,21 +128,24 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 21.6658,
-    "fanFavouriteDiscoveryScore": 16.8815,
-    "fanFavouriteDiscoveryPercentile": 18.7343
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 21.6635,
+    "fanFavouriteDiscoveryScore": 16.8763,
+    "fanFavouriteDiscoveryPercentile": 18.6952
   },
   "context": {
     "primaryProfile": "medical-career",
     "profileGroups": [
       "business-career",
+      "euro-fantasy",
+      "euro-romance",
       "korean-business",
       "medical-career",
       "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
+      "euro-fantasy",
       "korean-business",
       "medical-career"
     ],
@@ -152,7 +163,9 @@
         "business",
         "medical"
       ],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -167,7 +180,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "medical-career / modern-korea / medical",
+    "semanticSummary": "medical-career / modern-korea / medical / reincarnation",
     "searchKeywords": [
       "ex-husband",
       "demands",
@@ -202,8 +215,12 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Villainess",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
+        "Isekai",
+        "Isekaied Into a Novel",
         "Adult",
         "Romance",
         "Longstrip",
@@ -249,9 +266,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.89
+    "confidence": 1
   }
 }

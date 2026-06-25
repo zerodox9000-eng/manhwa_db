@@ -83,9 +83,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:00:16.602Z",
-  "mangabaka_latest_rank": 560,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:00:15.002Z",
+  "mangabaka_latest_rank": 630,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Un-Hyang So"
   ],
@@ -99,10 +99,14 @@
   "source": {
     "anilist": {
       "id": 211637,
-      "rating": 80,
+      "rating": 81,
       "url": "https://anilist.co/manga/211637"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "love-comes-on-a-moonlit-night",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/love-comes-on-a-moonlit-night"
+    },
     "mangaupdates": {
       "id": "h265iw6",
       "rating": 65,
@@ -133,16 +137,16 @@
     428
   ],
   "stats": {
-    "popularity": 115,
+    "popularity": 116,
     "favourites": 2,
-    "meanScore": 80
+    "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7391,
-    "fanRatioPercentile": 64.127,
-    "popularityPercentile": 42.6445,
-    "fanFavouriteDiscoveryScore": 55.689,
-    "fanFavouriteDiscoveryPercentile": 63.8751
+    "fanFavouriteRaw": 1.7241,
+    "fanRatioPercentile": 63.7619,
+    "popularityPercentile": 42.7928,
+    "fanFavouriteDiscoveryScore": 55.4616,
+    "fanFavouriteDiscoveryPercentile": 63.6093
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -271,7 +275,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.56

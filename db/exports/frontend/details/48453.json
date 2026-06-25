@@ -239,9 +239,9 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T00:56:06.657Z",
+  "last_updated_at": "2026-06-24T14:26:45.205Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Poreutopino",
     "Yu-Seong Sin"
@@ -266,21 +266,28 @@
     },
     "mangaupdates": {
       "id": "ni9vuvi",
-      "rating": 75,
+      "rating": 76,
       "url": "https://www.mangaupdates.com/series/ni9vuvi"
     }
   },
   "tag_ids": [
     40,
+    1783,
+    315,
     1456,
     1470,
+    1472,
+    1461,
     1379,
     583,
     1059,
+    813,
     690,
     692,
     72,
     68,
+    1987,
+    1990,
     1069,
     1586,
     2010,
@@ -288,25 +295,44 @@
     59,
     1049,
     2180,
+    2169,
+    2139,
     2126,
     2119,
     1168,
     1024,
     1988,
     577,
+    2358,
+    1965,
     2411,
+    590,
+    2484,
+    2409,
     2417,
     75,
     74,
+    1205,
     405,
+    1603,
+    653,
     849,
     126,
+    1095,
     578,
+    2836,
+    1106,
+    897,
+    649,
+    254,
     256,
     108,
+    998,
+    1713,
     450,
     771,
     36,
+    642,
     94,
     258,
     639,
@@ -315,31 +341,38 @@
     230,
     127,
     128,
+    893,
     378,
+    364,
+    498,
+    227,
     1584,
     9,
     45,
     1126,
     93,
     57,
-    428
+    428,
+    121
   ],
   "stats": {
-    "popularity": 4703,
-    "favourites": 126,
+    "popularity": 4709,
+    "favourites": 127,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 2.6791,
-    "fanRatioPercentile": 82.4948,
-    "popularityPercentile": 95.4577,
-    "fanFavouriteDiscoveryScore": 82.3418,
-    "fanFavouriteDiscoveryPercentile": 89.2969
+    "fanFavouriteRaw": 2.697,
+    "fanRatioPercentile": 82.625,
+    "popularityPercentile": 95.4521,
+    "fanFavouriteDiscoveryScore": 82.4716,
+    "fanFavouriteDiscoveryPercentile": 89.4391
   },
   "context": {
     "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career",
       "business-career-regression",
+      "corporate-workplace",
       "engineering-builder",
       "euro-fantasy",
       "euro-romance",
@@ -351,6 +384,7 @@
     ],
     "primaryAnchors": [
       "business-career-regression",
+      "corporate-workplace",
       "engineering-builder",
       "euro-fantasy",
       "kingdom-management"
@@ -358,18 +392,23 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "corporate-workplace",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [
         "reincarnation"
       ],
       "conflictType": [
+        "revenge",
         "politics",
         "romance"
       ],
       "progressionType": [
+        "career-growth",
         "management-growth"
       ],
       "tone": [
@@ -378,13 +417,14 @@
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression / kingdom-fantasy / reincarnation",
+    "semanticSummary": "business-career-regression / corporate-workplace / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "here",
       "comes",
@@ -421,15 +461,22 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Kuudere Male Lead",
+        "Yandere",
         "Blue-Eyed Male Lead",
         "Pink-Eyed Female Lead",
+        "Red-Eyed Character",
+        "Red-Eyed Female Lead",
         "Black-Haired Female Lead",
         "Black-Haired Male Lead",
         "Black-Haired Protagonist",
+        "Blonde-Haired Character",
         "White/Silver-Haired Character",
         "White/Silver-Haired Male Lead",
         "Beautiful Female Lead",
         "Handsome Male Lead",
+        "Scheming Character",
+        "Scheming Protagonist",
         "Arrogant Characters",
         "Rich Protagonist",
         "Workaholic",
@@ -437,29 +484,22 @@
         "Female Lead",
         "Assertive Female Lead",
         "Competent Female Lead",
+        "Confident Female Lead",
+        "Cunning Female Lead",
         "Determined Female Lead",
         "Hard-Working Female Lead",
         "Noble Female Lead",
         "Rich Female Lead",
         "Scheming Female Lead",
         "Smart Female Lead",
+        "Spoiled Female Lead",
+        "Straightforward Female Lead",
         "Calm Male Lead",
+        "Cold Male Lead",
+        "Confident Male Lead",
+        "Noble Male Lead",
         "Stoic Male Lead",
-        "Based on a Novel",
-        "Based on a Web Novel",
-        "Europe",
-        "Abuse of Power",
-        "Reincarnation",
-        "Knight",
-        "Half-Siblings",
-        "Heterosexual",
-        "European Ambience",
-        "Medieval European Ambience",
-        "Fantasy",
-        "Isekai",
-        "Isekaied Into a Novel",
-        "Reincarnated in a Book World",
-        "Comedy"
+        "Based on a Novel"
       ],
       "titleTerms": [
         "here",

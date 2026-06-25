@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T07:56:25.400Z",
-  "mangabaka_latest_rank": 3020,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:20:16.438Z",
+  "mangabaka_latest_rank": 3088,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Sibil"
   ],
@@ -81,7 +81,11 @@
       "rating": 25,
       "url": "https://anilist.co/manga/194267"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-correlation-between-shooting-stars-and-happiness",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-correlation-between-shooting-stars-and-happiness"
+    },
     "mangaupdates": {
       "id": "1uh5phl",
       "rating": 63,
@@ -106,10 +110,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 22.5895,
-    "fanFavouriteDiscoveryScore": 17.4843,
-    "fanFavouriteDiscoveryPercentile": 19.5206
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 22.5868,
+    "fanFavouriteDiscoveryScore": 17.4788,
+    "fanFavouriteDiscoveryPercentile": 19.4659
   },
   "context": {
     "primaryProfile": "regression-return",
@@ -218,7 +222,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.51

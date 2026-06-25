@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T05:12:56.191Z",
-  "mangabaka_latest_rank": 871,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:56:17.773Z",
+  "mangabaka_latest_rank": 941,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jay",
     "Seung-A Park",
@@ -97,7 +97,11 @@
       "rating": 65,
       "url": "https://anilist.co/manga/209457"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "an-unrequited-love-end",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/an-unrequited-love-end"
+    },
     "mangaupdates": {
       "id": "jbvr8n9",
       "rating": 49,
@@ -107,6 +111,7 @@
   "tag_ids": [
     40,
     2025,
+    74,
     405,
     647,
     885,
@@ -126,10 +131,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.4706,
-    "fanRatioPercentile": 56.783,
-    "popularityPercentile": 33.4606,
-    "fanFavouriteDiscoveryScore": 42.8318,
-    "fanFavouriteDiscoveryPercentile": 48.3548
+    "fanRatioPercentile": 56.7875,
+    "popularityPercentile": 33.4681,
+    "fanFavouriteDiscoveryScore": 42.8418,
+    "fanFavouriteDiscoveryPercentile": 48.3709
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -199,6 +204,7 @@
       "tags": [
         "Shoujo",
         "Prince Male Lead",
+        "Based on a Web Novel",
         "Europe",
         "Misunderstandings",
         "Unrequited Love Becomes Requited",
@@ -248,9 +254,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.78
+    "confidence": 0.79
   }
 }

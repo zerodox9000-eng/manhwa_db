@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T17:12:57.657Z",
+  "last_updated_at": "2026-06-24T22:24:52.470Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Nunggae"
   ],
@@ -83,7 +83,11 @@
       "rating": 77,
       "url": "https://anilist.co/manga/195686"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "bite-to-unlock",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/bite-to-unlock"
+    },
     "mangaupdates": {
       "id": "z0qyph2",
       "rating": 64,
@@ -91,12 +95,15 @@
     }
   },
   "tag_ids": [
+    247,
     257,
+    308,
     36,
     22,
     46,
     14,
     41,
+    547,
     252,
     180,
     16,
@@ -107,16 +114,16 @@
     428
   ],
   "stats": {
-    "popularity": 162,
+    "popularity": 163,
     "favourites": 4,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 2.4691,
-    "fanRatioPercentile": 79.3648,
-    "popularityPercentile": 48.6678,
-    "fanFavouriteDiscoveryScore": 72.6969,
-    "fanFavouriteDiscoveryPercentile": 80.6779
+    "fanFavouriteRaw": 2.454,
+    "fanRatioPercentile": 79.1072,
+    "popularityPercentile": 48.7676,
+    "fanFavouriteDiscoveryScore": 72.5114,
+    "fanFavouriteDiscoveryPercentile": 80.4426
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -183,12 +190,15 @@
     ],
     "evidence": {
       "tags": [
+        "Non-Human Protagonist",
         "College",
+        "Interspecies Relationship",
         "Fantasy",
         "Supernatural",
         "Adult",
         "Erotica",
         "Smut",
+        "Non-human",
         "Vampires",
         "Boys Love",
         "Yaoi",
@@ -236,9 +246,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.59
   }
 }

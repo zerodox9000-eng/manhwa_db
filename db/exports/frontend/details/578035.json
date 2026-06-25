@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:55:12.826Z",
-  "mangabaka_latest_rank": 965,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T18:46:05.032Z",
+  "mangabaka_latest_rank": 1035,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Mandala",
     "Yeong-Il"
@@ -96,7 +96,11 @@
       "rating": 40,
       "url": "https://anilist.co/manga/207938"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "to-my-affectionate-rogue",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/to-my-affectionate-rogue"
+    },
     "mangaupdates": {
       "id": "vcx6muy",
       "rating": 63,
@@ -106,9 +110,11 @@
   "tag_ids": [
     43,
     59,
+    74,
     108,
     36,
     31,
+    127,
     227,
     9,
     93,
@@ -122,10 +128,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2472,
-    "fanRatioPercentile": 75.4867,
-    "popularityPercentile": 37.8579,
-    "fanFavouriteDiscoveryScore": 61.5821,
-    "fanFavouriteDiscoveryPercentile": 69.7305
+    "fanRatioPercentile": 75.5284,
+    "popularityPercentile": 37.8481,
+    "fanFavouriteDiscoveryScore": 61.607,
+    "fanFavouriteDiscoveryPercentile": 69.8436
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -195,9 +201,11 @@
       "tags": [
         "Josei",
         "Female Lead",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
         "Drama",
+        "Nobility",
         "Revenge",
         "Romance",
         "Longstrip",
@@ -242,9 +250,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.77
   }
 }

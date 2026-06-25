@@ -92,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T14:25:32.222Z",
-  "mangabaka_latest_rank": 3209,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:45:18.058Z",
+  "mangabaka_latest_rank": 3277,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Kyeng Na"
   ],
@@ -111,7 +111,11 @@
       "rating": 69,
       "url": "https://anilist.co/manga/193844"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "let-me-love-you",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/let-me-love-you"
+    },
     "mangaupdates": {
       "id": "iq09i2m",
       "rating": 69,
@@ -164,6 +168,7 @@
     1152,
     1037,
     1183,
+    1012,
     1004,
     93,
     57,
@@ -172,16 +177,16 @@
     2058
   ],
   "stats": {
-    "popularity": 388,
+    "popularity": 390,
     "favourites": 3,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 0.7732,
-    "fanRatioPercentile": 38.2625,
-    "popularityPercentile": 65.1729,
-    "fanFavouriteDiscoveryScore": 37.3956,
-    "fanFavouriteDiscoveryPercentile": 41.4917
+    "fanFavouriteRaw": 0.7692,
+    "fanRatioPercentile": 38.1992,
+    "popularityPercentile": 65.2194,
+    "fanFavouriteDiscoveryScore": 37.337,
+    "fanFavouriteDiscoveryPercentile": 41.4804
   },
   "context": {
     "primaryProfile": "korean-corporate-regression",
@@ -339,6 +344,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

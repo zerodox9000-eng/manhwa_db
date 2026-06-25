@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T11:02:27.067Z",
-  "mangabaka_latest_rank": 355,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:16:33.406Z",
+  "mangabaka_latest_rank": 425,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ja-Tang Gam",
     "Mackenro"
@@ -96,7 +96,11 @@
       "rating": 75,
       "url": "https://anilist.co/manga/213240"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-sword-emperor-transmigrates",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/the-sword-emperor-transmigrates"
+    },
     "mangaupdates": {
       "id": "kzycz0s",
       "rating": 63,
@@ -106,39 +110,47 @@
   "tag_ids": [
     38,
     58,
+    74,
     36,
     39,
+    37,
     31,
+    363,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 47,
-    "favourites": 1,
+    "popularity": 49,
+    "favourites": 2,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1277,
-    "fanRatioPercentile": 73.0514,
-    "popularityPercentile": 26.857,
-    "fanFavouriteDiscoveryScore": 46.6864,
-    "fanFavouriteDiscoveryPercentile": 54.3171
+    "fanFavouriteRaw": 4.0816,
+    "fanRatioPercentile": 93.7734,
+    "popularityPercentile": 27.6612,
+    "fanFavouriteDiscoveryScore": 61.3652,
+    "fanFavouriteDiscoveryPercentile": 69.6299
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "murim-wuxia",
     "profileGroups": [
+      "chinese-murim",
       "euro-fantasy",
-      "modern-korea"
+      "modern-korea",
+      "murim-wuxia"
     ],
     "primaryAnchors": [
-      "euro-fantasy"
+      "chinese-murim",
+      "euro-fantasy",
+      "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea",
-        "kingdom-fantasy"
+        "kingdom-fantasy",
+        "murim-world"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -149,13 +161,14 @@
       ],
       "tone": [],
       "worldType": [
-        "fantasy-world"
+        "fantasy-world",
+        "martial-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "murim-wuxia / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "sword",
       "emperor",
@@ -192,9 +205,12 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Based on a Web Novel",
         "Fantasy",
         "Action",
+        "Adventure",
         "Drama",
+        "Cultivation",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -240,9 +256,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.94
   }
 }

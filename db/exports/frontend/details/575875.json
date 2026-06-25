@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T14:06:53.981Z",
-  "mangabaka_latest_rank": 1107,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:40:53.260Z",
+  "mangabaka_latest_rank": 1177,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Susu"
   ],
@@ -74,7 +74,11 @@
       "rating": 18,
       "url": "https://anilist.co/manga/205912"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "married-woman-complex",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/married-woman-complex"
+    },
     "mangaupdates": {
       "id": "oc5an5b",
       "rating": 63,
@@ -100,10 +104,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 15.3523,
-    "fanFavouriteDiscoveryScore": 12.7678,
-    "fanFavouriteDiscoveryPercentile": 13.8178
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 15.3071,
+    "fanFavouriteDiscoveryScore": 12.7364,
+    "fanFavouriteDiscoveryPercentile": 13.7734
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -210,7 +214,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.52

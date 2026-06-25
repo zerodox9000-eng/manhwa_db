@@ -83,9 +83,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T19:02:24.653Z",
-  "mangabaka_latest_rank": 650,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:26:54.397Z",
+  "mangabaka_latest_rank": 720,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Lecur"
   ],
@@ -102,7 +102,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/210216"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "one-night-relationship",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/one-night-relationship"
+    },
     "mangaupdates": {
       "id": "tqma5av",
       "rating": null,
@@ -116,6 +120,7 @@
     108,
     46,
     41,
+    1550,
     31,
     403,
     9,
@@ -130,10 +135,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 11.9322,
-    "fanFavouriteDiscoveryScore": 10.6716,
-    "fanFavouriteDiscoveryPercentile": 10.7947
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 11.9267,
+    "fanFavouriteDiscoveryScore": 10.6661,
+    "fanFavouriteDiscoveryPercentile": 10.7821
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -200,6 +205,7 @@
         "Heterosexual",
         "Adult",
         "Smut",
+        "One-Night Stand",
         "Drama",
         "Betrayal",
         "Romance",
@@ -249,9 +255,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.48
   }
 }

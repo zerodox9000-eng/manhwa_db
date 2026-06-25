@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T23:59:04.234Z",
-  "mangabaka_latest_rank": 1919,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:44:22.475Z",
+  "mangabaka_latest_rank": 1989,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ji-Eun Park"
   ],
@@ -76,7 +76,11 @@
       "rating": 78,
       "url": "https://anilist.co/manga/199762"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "this-is-a-work-of-fiction",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/this-is-a-work-of-fiction"
+    },
     "mangaupdates": {
       "id": "dsrjmsy",
       "rating": 66,
@@ -107,10 +111,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5385,
-    "fanRatioPercentile": 58.5999,
-    "popularityPercentile": 44.7439,
-    "fanFavouriteDiscoveryScore": 51.9871,
-    "fanFavouriteDiscoveryPercentile": 60.4245
+    "fanRatioPercentile": 58.5807,
+    "popularityPercentile": 44.7081,
+    "fanFavouriteDiscoveryScore": 51.9526,
+    "fanFavouriteDiscoveryPercentile": 60.3815
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -228,6 +232,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

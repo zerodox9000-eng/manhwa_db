@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:12:03.658Z",
-  "mangabaka_latest_rank": 762,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:53:40.553Z",
+  "mangabaka_latest_rank": 832,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Osya"
   ],
@@ -73,10 +73,14 @@
   "source": {
     "anilist": {
       "id": 209154,
-      "rating": 58,
+      "rating": 52,
       "url": "https://anilist.co/manga/209154"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "can-i-give-the-boss-a-rating",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/can-i-give-the-boss-a-rating"
+    },
     "mangaupdates": {
       "id": "ut0wgu1",
       "rating": 62,
@@ -104,16 +108,16 @@
     2058
   ],
   "stats": {
-    "popularity": 33,
+    "popularity": 34,
     "favourites": null,
-    "meanScore": 58
+    "meanScore": 52
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 21.2077,
-    "fanFavouriteDiscoveryScore": 16.5813,
-    "fanFavouriteDiscoveryPercentile": 18.3678
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 21.6635,
+    "fanFavouriteDiscoveryScore": 16.8763,
+    "fanFavouriteDiscoveryPercentile": 18.6952
   },
   "context": {
     "primaryProfile": "food-career",
@@ -244,6 +248,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

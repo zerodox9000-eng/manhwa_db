@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:14:11.310Z",
-  "mangabaka_latest_rank": 820,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T17:31:12.114Z",
+  "mangabaka_latest_rank": 890,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Bu-Jang Ma"
   ],
@@ -74,7 +74,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/208442"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-fleeting-spring-dream",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/a-fleeting-spring-dream"
+    },
     "mangaupdates": {
       "id": "xyoqeae",
       "rating": 66,
@@ -105,10 +109,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.6098,
-    "fanRatioPercentile": 35.3767,
-    "popularityPercentile": 48.9121,
-    "fanFavouriteDiscoveryScore": 32.4595,
-    "fanFavouriteDiscoveryPercentile": 35.4684
+    "fanRatioPercentile": 35.3529,
+    "popularityPercentile": 48.8897,
+    "fanFavouriteDiscoveryScore": 32.4326,
+    "fanFavouriteDiscoveryPercentile": 35.3987
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -223,7 +227,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.57

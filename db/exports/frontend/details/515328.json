@@ -176,9 +176,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:19:26.393Z",
-  "mangabaka_latest_rank": 2000,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:20:27.768Z",
+  "mangabaka_latest_rank": 2070,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Riva"
   ],
@@ -192,10 +192,14 @@
   "source": {
     "anilist": {
       "id": 201115,
-      "rating": 76,
+      "rating": 75,
       "url": "https://anilist.co/manga/201115"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-marquis-meitners-funeral",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-marquis-meitners-funeral"
+    },
     "mangaupdates": {
       "id": "n4f3ynl",
       "rating": 66,
@@ -226,16 +230,16 @@
     428
   ],
   "stats": {
-    "popularity": 62,
+    "popularity": 64,
     "favourites": 2,
-    "meanScore": 76
+    "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 3.2258,
-    "fanRatioPercentile": 88.8236,
-    "popularityPercentile": 31.949,
-    "fanFavouriteDiscoveryScore": 64.8609,
-    "fanFavouriteDiscoveryPercentile": 73.7919
+    "fanFavouriteRaw": 3.125,
+    "fanRatioPercentile": 88.0046,
+    "popularityPercentile": 32.5525,
+    "fanFavouriteDiscoveryScore": 65.1246,
+    "fanFavouriteDiscoveryPercentile": 74.2312
   },
   "context": {
     "primaryProfile": "kingdom-management",
@@ -378,6 +382,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

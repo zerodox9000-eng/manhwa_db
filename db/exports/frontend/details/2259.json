@@ -115,9 +115,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.147Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T07:04:08.615Z",
+  "last_updated_at": "2026-06-24T12:47:19.813Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ryeo-Won Eun"
   ],
@@ -141,49 +141,89 @@
     },
     "mangaupdates": {
       "id": "j35ocae",
-      "rating": 67,
+      "rating": 68,
       "url": "https://www.mangaupdates.com/series/j35ocae"
     }
   },
   "tag_ids": [
     40,
+    1470,
     1461,
+    1094,
+    690,
+    1161,
+    2021,
+    2023,
     59,
+    60,
+    65,
+    2117,
+    2141,
+    2287,
+    61,
+    2458,
+    2461,
+    75,
     74,
+    405,
+    1164,
     311,
+    584,
+    249,
+    698,
+    1097,
+    2788,
+    901,
+    450,
     36,
     94,
+    637,
+    399,
     1,
+    1196,
+    594,
+    641,
+    317,
+    160,
     39,
+    499,
     6,
+    1020,
     128,
+    498,
     9,
+    267,
     93,
     57,
-    428
+    428,
+    121
   ],
   "stats": {
-    "popularity": 1063,
+    "popularity": 1064,
     "favourites": 16,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5052,
-    "fanRatioPercentile": 57.6914,
-    "popularityPercentile": 82.0292,
-    "fanFavouriteDiscoveryScore": 57.365,
-    "fanFavouriteDiscoveryPercentile": 65.631
+    "fanFavouriteRaw": 1.5038,
+    "fanRatioPercentile": 57.7184,
+    "popularityPercentile": 82.0374,
+    "fanFavouriteDiscoveryScore": 57.3921,
+    "fanFavouriteDiscoveryPercentile": 65.662
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
       "euro-fantasy",
       "euro-romance",
+      "game-system",
       "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
-      "euro-fantasy"
+      "business-career-regression",
+      "euro-fantasy",
+      "game-system"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -193,6 +233,7 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
+        "regression",
         "reincarnation",
         "system"
       ],
@@ -210,10 +251,10 @@
         "system-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "major"
     },
-    "semanticSummary": "euro-fantasy / kingdom-fantasy / reincarnation / system",
+    "semanticSummary": "business-career-regression / kingdom-fantasy / regression / reincarnation",
     "searchKeywords": [
       "baby",
       "pharmacist",
@@ -248,20 +289,45 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Pink-Eyed Female Lead",
         "Red-Eyed Female Lead",
+        "Blonde-Haired Female Lead",
+        "White/Silver-Haired Character",
+        "Adopted Protagonist",
+        "Child Protagonist",
+        "Debt-Motivated Protagonist",
         "Female Lead",
+        "Abused Female Lead",
+        "Adopted Female Lead",
+        "Capable Female Lead",
+        "Princess Female Lead",
+        "Transmigrated Female Lead",
+        "Abused Male Lead",
+        "Devoted Male Lead",
+        "Regressed Male Lead",
+        "Based on a Novel",
         "Based on a Web Novel",
+        "Europe",
+        "Memories of Past Life",
         "Time Manipulation",
+        "Time Rewind",
+        "Time Travel",
+        "Demon King",
+        "Emperors",
+        "Pharmacists",
+        "Princess",
+        "European Ambience",
         "Fantasy",
         "Isekai",
+        "Summoned Into Another World",
+        "Game Elements",
         "Sci-Fi",
-        "Action",
-        "Comedy",
-        "Royalty",
-        "Romance",
-        "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "System Administrator",
+        "Virtual Reality",
+        "Game World",
+        "Dragons",
+        "Demons",
+        "Action"
       ],
       "titleTerms": [
         "baby",
@@ -307,6 +373,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.8
+    "confidence": 1
   }
 }

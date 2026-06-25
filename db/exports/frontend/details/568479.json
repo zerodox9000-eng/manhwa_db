@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T12:46:21.643Z",
-  "mangabaka_latest_rank": 1364,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:54:11.510Z",
+  "mangabaka_latest_rank": 1434,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Sanghan-nokcha"
   ],
@@ -88,7 +88,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/204929"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-counts-tutors-circumstances",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-counts-tutors-circumstances"
+    },
     "mangaupdates": {
       "id": "wnm7wea",
       "rating": null,
@@ -96,11 +100,13 @@
     }
   },
   "tag_ids": [
+    609,
     15,
     173,
     180,
     16,
     31,
+    127,
     9,
     93,
     57,
@@ -113,20 +119,26 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 9.5656,
-    "fanFavouriteDiscoveryScore": 9.3257,
-    "fanFavouriteDiscoveryPercentile": 8.7564
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 9.5689,
+    "fanFavouriteDiscoveryScore": 9.3255,
+    "fanFavouriteDiscoveryPercentile": 8.7676
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -137,12 +149,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "count",
       "tutor",
@@ -172,11 +186,13 @@
     ],
     "evidence": {
       "tags": [
+        "Tutor",
         "Mature",
         "Threesome",
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Nobility",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -221,9 +237,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.69
   }
 }

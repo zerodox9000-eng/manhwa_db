@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T17:12:14.836Z",
-  "mangabaka_latest_rank": 2878,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:48:01.988Z",
+  "mangabaka_latest_rank": 2946,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jeomeum",
     "Yu-Je"
@@ -98,7 +98,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/195259"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-mouthful-of-sweet-cream-baguette",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/a-mouthful-of-sweet-cream-baguette"
+    },
     "mangaupdates": {
       "id": "ob0lqzc",
       "rating": 65,
@@ -136,6 +140,7 @@
     659,
     2448,
     2398,
+    74,
     405,
     1530,
     507,
@@ -179,10 +184,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 36.4532,
-    "fanFavouriteDiscoveryScore": 25.1828,
-    "fanFavouriteDiscoveryPercentile": 27.8036
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 36.4365,
+    "fanFavouriteDiscoveryScore": 25.1703,
+    "fanFavouriteDiscoveryPercentile": 27.8062
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -292,6 +297,7 @@
         "Rich male lead",
         "Sexually Insatiable Male Lead",
         "Virgin Male Lead",
+        "Based on a Web Novel",
         "Europe",
         "Bakery",
         "Restaurant",
@@ -300,8 +306,7 @@
         "Past Encounter",
         "Herbalist",
         "Thieves",
-        "Heterosexual",
-        "European Ambience"
+        "Heterosexual"
       ],
       "titleTerms": [
         "mouthful",
@@ -346,6 +351,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

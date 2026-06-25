@@ -41,9 +41,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T03:24:22.161Z",
-  "mangabaka_latest_rank": 3707,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:36:06.573Z",
+  "mangabaka_latest_rank": 3775,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ronppang"
   ],
@@ -60,7 +60,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/205796"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "to-my-wish",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/to-my-wish"
+    },
     "mangaupdates": {
       "id": "a2shahj",
       "rating": null,
@@ -71,6 +75,7 @@
     107,
     180,
     23,
+    16,
     235,
     31,
     18,
@@ -87,10 +92,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 7.1227,
-    "fanFavouriteDiscoveryScore": 8.0457,
-    "fanFavouriteDiscoveryPercentile": 6.5883
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 7.1347,
+    "fanFavouriteDiscoveryScore": 8.0499,
+    "fanFavouriteDiscoveryPercentile": 6.6005
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -153,6 +158,7 @@
         "School",
         "Boys Love",
         "Shounen Ai",
+        "Yaoi",
         "Bullying",
         "Drama",
         "Psychological",
@@ -195,9 +201,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.54
   }
 }

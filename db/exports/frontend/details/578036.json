@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:34:26.861Z",
-  "mangabaka_latest_rank": 964,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:55:25.612Z",
+  "mangabaka_latest_rank": 1034,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jeong-Hu",
     "Myomyohui"
@@ -89,7 +89,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/208126"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "please-eat-strawberries",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/please-eat-strawberries"
+    },
     "mangaupdates": {
       "id": "g0a9oa3",
       "rating": 65,
@@ -98,6 +102,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     15,
     370,
@@ -113,10 +118,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 16.047,
-    "fanFavouriteDiscoveryScore": 13.2104,
-    "fanFavouriteDiscoveryPercentile": 14.4057
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 16.032,
+    "fanFavouriteDiscoveryScore": 13.198,
+    "fanFavouriteDiscoveryPercentile": 14.3838
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -183,6 +188,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Mature",
         "Fingering",
@@ -228,9 +234,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.58
   }
 }

@@ -2,7 +2,7 @@
   "id": 587381,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Sword of the Undying",
+  "display_title": "Necromancer of a Prestigious Swordsmanship Family",
   "mangabaka_title": "Geomsulmyeonggaui Necromancer",
   "native_title": "검술명가의 네크로맨서",
   "romanized_title": "Geomsulmyeonggaui Necromancer",
@@ -26,17 +26,17 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "Necromancer of a Prestigious Swordsmanship Family",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Sword of the Undying",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T05:14:55.173Z",
-  "mangabaka_latest_rank": 337,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:46:37.738Z",
+  "mangabaka_latest_rank": 407,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gamtwiiii",
     "Haegyul"
@@ -96,7 +96,11 @@
       "rating": 69,
       "url": "https://anilist.co/manga/211928"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "necromancer-of-a-prestigious-swordsmanship-family",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/necromancer-of-a-prestigious-swordsmanship-family"
+    },
     "mangaupdates": {
       "id": "uj4w7dc",
       "rating": 65,
@@ -109,6 +113,7 @@
     692,
     58,
     2409,
+    74,
     1164,
     126,
     1099,
@@ -126,16 +131,16 @@
     528
   ],
   "stats": {
-    "popularity": 986,
+    "popularity": 994,
     "favourites": 12,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 1.217,
-    "fanRatioPercentile": 49.5534,
-    "popularityPercentile": 80.9069,
-    "fanFavouriteDiscoveryScore": 49.2457,
-    "fanFavouriteDiscoveryPercentile": 57.9128
+    "fanFavouriteRaw": 1.2072,
+    "fanRatioPercentile": 49.3628,
+    "popularityPercentile": 81.0225,
+    "fanFavouriteDiscoveryScore": 49.0593,
+    "fanFavouriteDiscoveryPercentile": 57.749
   },
   "context": {
     "primaryProfile": "murim-wuxia",
@@ -158,7 +163,8 @@
         "kingdom-fantasy"
       ],
       "protagonistRole": [
-        "system-player"
+        "system-player",
+        "martial-artist"
       ],
       "careerDomain": [],
       "premiseMechanic": [
@@ -183,16 +189,18 @@
     },
     "semanticSummary": "murim-wuxia / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
-      "sword",
-      "undying",
-      "geomsulmyeonggaui",
       "necromancer",
+      "prestigious",
+      "swordsmanship",
+      "family",
+      "geomsulmyeonggaui",
       "archimond",
       "strongest",
       "plunged",
       "continent",
       "terror",
       "lost",
+      "sword",
       "hero",
       "berkel",
       "reinland",
@@ -216,6 +224,7 @@
         "White/Silver-Haired Male Lead",
         "Male Lead",
         "Noble Male Lead",
+        "Based on a Web Novel",
         "Memories of Past Life",
         "Reincarnation",
         "Dukes",
@@ -233,8 +242,10 @@
         "Necromancy"
       ],
       "titleTerms": [
-        "sword",
-        "undying",
+        "necromancer",
+        "prestigious",
+        "swordsmanship",
+        "family",
         "geomsulmyeonggaui",
         "necromancer",
         "geomsulmyeonggaui",
@@ -268,7 +279,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

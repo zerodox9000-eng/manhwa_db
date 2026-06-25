@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T17:47:17.436Z",
-  "mangabaka_latest_rank": 836,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:52:26.693Z",
+  "mangabaka_latest_rank": 906,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "MARUCOMICS",
     "Uyu Yang"
@@ -79,10 +79,14 @@
   "source": {
     "anilist": {
       "id": 212659,
-      "rating": null,
+      "rating": 10,
       "url": "https://anilist.co/manga/212659"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "it-came-from-next-door",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/it-came-from-next-door"
+    },
     "mangaupdates": {
       "id": "yrkfvo7",
       "rating": null,
@@ -91,8 +95,10 @@
   },
   "tag_ids": [
     43,
+    401,
     108,
     41,
+    6,
     31,
     9,
     93,
@@ -100,16 +106,16 @@
     428
   ],
   "stats": {
-    "popularity": 10,
+    "popularity": 11,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 10
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 6.2677,
-    "fanFavouriteDiscoveryScore": 7.626,
-    "fanFavouriteDiscoveryPercentile": 5.7791
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 7.1347,
+    "fanFavouriteDiscoveryScore": 8.0499,
+    "fanFavouriteDiscoveryPercentile": 6.6005
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -133,6 +139,7 @@
         "career-growth"
       ],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [],
@@ -172,8 +179,10 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Neighbors",
         "Heterosexual",
         "Smut",
+        "Comedy",
         "Drama",
         "Romance",
         "Longstrip",
@@ -217,9 +226,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.52
   }
 }

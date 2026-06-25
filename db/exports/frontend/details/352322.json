@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T06:43:30.222Z",
-  "mangabaka_latest_rank": 3003,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:36:03.229Z",
+  "mangabaka_latest_rank": 3071,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "2Q",
     "Yaganbihaeng"
@@ -82,7 +82,11 @@
       "rating": 61,
       "url": "https://anilist.co/manga/195347"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-taste-that-i-know",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-taste-that-i-know"
+    },
     "mangaupdates": {
       "id": "mp8rg0c",
       "rating": 58,
@@ -92,12 +96,16 @@
   "tag_ids": [
     75,
     74,
+    2847,
+    106,
+    118,
     985,
     1051,
     95,
     180,
     16,
     31,
+    241,
     93,
     57,
     428
@@ -109,15 +117,17 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 31.2772,
-    "fanFavouriteDiscoveryScore": 22.704,
-    "fanFavouriteDiscoveryPercentile": 25.2386
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 31.2552,
+    "fanFavouriteDiscoveryScore": 22.6875,
+    "fanFavouriteDiscoveryPercentile": 25.227
   },
   "context": {
-    "primaryProfile": "modern-workplace",
+    "primaryProfile": "office-romance",
     "profileGroups": [
-      "modern-workplace"
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -130,13 +140,15 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-workplace",
+    "semanticSummary": "office-romance",
     "searchKeywords": [
       "taste",
       "know",
@@ -171,12 +183,16 @@
       "tags": [
         "Based on a Novel",
         "Based on a Web Novel",
+        "Ship",
+        "Age Gap",
+        "Omegaverse",
         "Dubious Consent",
         "Rape as a Start of Relationship",
         "Rape",
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Mature Romance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -217,9 +233,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.64
   }
 }

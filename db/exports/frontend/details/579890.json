@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T10:48:47.235Z",
-  "mangabaka_latest_rank": 845,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T00:31:38.898Z",
+  "mangabaka_latest_rank": 915,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Boksunga",
     "btlz"
@@ -82,7 +82,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/208295"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "lessons-for-a-bad-father",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/lessons-for-a-bad-father"
+    },
     "mangaupdates": {
       "id": "k9uj4pd",
       "rating": 64,
@@ -90,6 +94,7 @@
     }
   },
   "tag_ids": [
+    74,
     46,
     41,
     180,
@@ -108,10 +113,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 7.9243,
-    "fanFavouriteDiscoveryScore": 8.4527,
-    "fanFavouriteDiscoveryPercentile": 7.3288
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 7.9435,
+    "fanFavouriteDiscoveryScore": 8.4608,
+    "fanFavouriteDiscoveryPercentile": 7.3483
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -172,6 +177,7 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Adult",
         "Smut",
         "Boys Love",
@@ -224,9 +230,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.53
   }
 }

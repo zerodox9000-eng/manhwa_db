@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T01:44:10.477Z",
-  "mangabaka_latest_rank": 524,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T22:15:14.526Z",
+  "mangabaka_latest_rank": 594,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hanae",
     "Huinsae"
@@ -75,7 +75,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/211327"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "midge",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/midge"
+    },
     "mangaupdates": {
       "id": "9zqm0sk",
       "rating": 64,
@@ -83,6 +87,7 @@
     }
   },
   "tag_ids": [
+    74,
     46,
     180,
     16,
@@ -98,10 +103,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 9.5656,
-    "fanFavouriteDiscoveryScore": 9.3257,
-    "fanFavouriteDiscoveryPercentile": 8.7564
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 9.5689,
+    "fanFavouriteDiscoveryScore": 9.3255,
+    "fanFavouriteDiscoveryPercentile": 8.7676
   },
   "context": {
     "primaryProfile": null,
@@ -152,6 +157,7 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Adult",
         "Boys Love",
         "Yaoi",
@@ -193,9 +199,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.35
+    "confidence": 0.36
   }
 }

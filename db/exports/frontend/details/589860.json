@@ -2,7 +2,7 @@
   "id": 589860,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Weird Guy in Glasses Likes Me",
+  "display_title": "The Strange Glasses Like Mine",
   "mangabaka_title": "Isanghan Angyeongi Nal Joahae",
   "native_title": "이상한 안경이 날 좋아해",
   "romanized_title": "Isanghan Angyeongi Nal Joahae",
@@ -36,14 +36,14 @@
       "language": "en",
       "title": "The Strange Glasses Like Mine",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "The Weird Guy in Glasses Likes Me",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:36:35.868Z",
-  "mangabaka_latest_rank": 121,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:37:10.138Z",
+  "mangabaka_latest_rank": 191,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Roboki"
   ],
@@ -81,7 +81,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/213183"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-weird-guy-in-glasses-likes-me",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-weird-guy-in-glasses-likes-me"
+    },
     "mangaupdates": {
       "id": "lhhd6cv",
       "rating": 63,
@@ -95,6 +99,7 @@
     257,
     651,
     874,
+    400,
     161,
     2729,
     180,
@@ -105,16 +110,16 @@
     428
   ],
   "stats": {
-    "popularity": 17,
+    "popularity": 18,
     "favourites": null,
     "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 11.9322,
-    "fanFavouriteDiscoveryScore": 10.6716,
-    "fanFavouriteDiscoveryPercentile": 10.7947
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 12.583,
+    "fanFavouriteDiscoveryScore": 11.0557,
+    "fanFavouriteDiscoveryPercentile": 11.3621
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -145,10 +150,9 @@
     },
     "semanticSummary": "romance-core / school",
     "searchKeywords": [
-      "weird",
-      "guy",
+      "strange",
       "glasses",
-      "likes",
+      "mine",
       "isanghan",
       "angyeongi",
       "nal",
@@ -185,6 +189,7 @@
         "College",
         "Appearance Different from Personality",
         "Caught in the Act",
+        "Senpai-Kouhai Relationship",
         "Masturbation",
         "Sexual Coercion",
         "Boys Love",
@@ -195,10 +200,9 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "weird",
-        "guy",
+        "strange",
         "glasses",
-        "likes",
+        "mine",
         "isanghan",
         "angyeongi",
         "nal",
@@ -236,9 +240,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.57
   }
 }

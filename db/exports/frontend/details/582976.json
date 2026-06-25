@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T21:35:37.447Z",
-  "mangabaka_latest_rank": 712,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:36:07.340Z",
+  "mangabaka_latest_rank": 782,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Byeokpe",
     "Manyong"
@@ -96,7 +96,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/210145"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "voyeurism",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/voyeurism"
+    },
     "mangaupdates": {
       "id": "c6rg2qe",
       "rating": null,
@@ -125,10 +129,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 4.3286,
-    "fanFavouriteDiscoveryScore": 6.7307,
-    "fanFavouriteDiscoveryPercentile": 3.9774
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 4.3495,
+    "fanFavouriteDiscoveryScore": 6.7384,
+    "fanFavouriteDiscoveryPercentile": 3.9985
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -237,7 +241,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.71

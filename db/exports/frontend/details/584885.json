@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Obsession",
-  "mangabaka_title": "Obsession",
+  "mangabaka_title": "Obsession (Dine)",
   "native_title": "집착증",
   "romanized_title": null,
   "titles": [
@@ -22,6 +22,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Obsession (Dine)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ru",
       "title": "Одержимость",
       "traits": [],
@@ -30,9 +37,9 @@
     }
   ],
   "description": "An obsession born of love—is it merely obsession, or is it salvation? Han Jin-sung realizes his true feelings only after cruelly rejecting Lee Eun-jae, who once confessed her love to him. Foolishly, he becomes madly obsessed with Eun-jae after she leaves, but her pure, devoted unrequited love has already withered, replaced only by his own immature one-sided passion. With no room for pity, the man is ultimately abandoned by the woman.\n\n**Original Novel:**    \n[Chapters](https://series.naver.com/novel/detail.series?productNo=12030786), [Volumes](https://series.naver.com/novel/detail.series?productNo=13228176) \n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=13995492)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIxNTI2LmpwZw",
-  "total_chapters": "4",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L29ic2Vzc2lvbi1kaW5lLTEud2VicD90PTE3NzY4MTg0MzI",
+  "total_chapters": "9",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -44,9 +51,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T08:45:40.694Z",
-  "mangabaka_latest_rank": 556,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:06:06.497Z",
+  "mangabaka_latest_rank": 626,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Lee Dahong"
   ],
@@ -59,7 +66,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "obsession-dine",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/obsession-dine"
+    },
     "mangaupdates": {
       "id": "kbr11sk",
       "rating": 62,
@@ -68,8 +79,12 @@
   },
   "tag_ids": [
     43,
+    74,
     15,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -111,6 +126,7 @@
     "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "obsession",
+      "dine",
       "born",
       "love",
       "merely",
@@ -135,12 +151,17 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Mature",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "obsession",
-        "obsession"
+        "obsession",
+        "dine"
       ],
       "descriptionTerms": [
         "obsession",
@@ -169,9 +190,10 @@
         "pure"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.49
   }
 }

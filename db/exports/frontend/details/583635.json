@@ -63,7 +63,7 @@
   ],
   "description": "Reborn as the doomed heroine of a tragic novel, she is determined to avoid the male lead and live a quiet life. But when her family goes bankrupt, she’s forced to work as his aide.\n\nCold and demanding unlike his original self, he keeps her tied to him with money and even a contract engagement. Now trapped in the very story she tried to escape, all she wants is to break free.\n\n**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/68857336), [Daum](https://webtoon.kakao.com/content/%EB%82%A8%EC%A3%BC%EA%B0%80-%EB%8F%88%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%A5%BC-%EC%A1%B0%EB%A0%A8%ED%95%9C%EB%8B%A4/4817)\n\n**Official Translations:**   \n[Japanese](https://jp.piccoma.com/web/product/197592)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80L2YvNi8zL2UvNy9kLzMvMGYyNi80YTVkLzg2MGYvNDU0NjI0NTA0ZWMw",
-  "total_chapters": "25",
+  "total_chapters": "30",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:51:01.346Z",
-  "mangabaka_latest_rank": 654,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:39:51.255Z",
+  "mangabaka_latest_rank": 724,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "053",
     "Miraenabi"
@@ -96,7 +96,11 @@
       "rating": 75,
       "url": "https://anilist.co/manga/210569"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-male-lead-trains-me-with-money",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-male-lead-trains-me-with-money"
+    },
     "mangaupdates": {
       "id": "iooz6nm",
       "rating": 64,
@@ -106,9 +110,12 @@
   "tag_ids": [
     40,
     59,
+    74,
     108,
     36,
+    258,
     6,
+    127,
     9,
     93,
     57,
@@ -121,23 +128,28 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.1236,
-    "fanRatioPercentile": 47.2021,
-    "popularityPercentile": 37.8579,
-    "fanFavouriteDiscoveryScore": 38.5075,
-    "fanFavouriteDiscoveryPercentile": 42.9804
+    "fanRatioPercentile": 47.272,
+    "popularityPercentile": 37.8481,
+    "fanFavouriteDiscoveryScore": 38.5588,
+    "fanFavouriteDiscoveryPercentile": 43.0752
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "kingdom-fantasy"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -159,7 +171,7 @@
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / reincarnation",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "male",
       "lead",
@@ -196,9 +208,12 @@
       "tags": [
         "Shoujo",
         "Female Lead",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
+        "Isekaied Into a Novel",
         "Comedy",
+        "Nobility",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -246,9 +261,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.58
+    "confidence": 0.84
   }
 }

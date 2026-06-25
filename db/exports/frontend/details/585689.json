@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T22:51:09.921Z",
-  "mangabaka_latest_rank": 501,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:36:07.524Z",
+  "mangabaka_latest_rank": 571,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "MARUCOMICS",
     "Seol-Ye Ban"
@@ -89,7 +89,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/212927"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "humidity-sugar-content-density",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/humidity-sugar-content-density"
+    },
     "mangaupdates": {
       "id": "sq6hrt3",
       "rating": null,
@@ -98,6 +102,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
@@ -113,10 +118,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 1.962,
-    "fanFavouriteDiscoveryScore": 5.7452,
-    "fanFavouriteDiscoveryPercentile": 1.8246
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 1.984,
+    "fanFavouriteDiscoveryScore": 5.7525,
+    "fanFavouriteDiscoveryPercentile": 1.8466
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -180,6 +185,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Adult",
         "Smut",
@@ -228,9 +234,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.51
   }
 }

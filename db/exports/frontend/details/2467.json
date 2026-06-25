@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T18:03:10.400Z",
+  "last_updated_at": "2026-06-24T22:16:06.510Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ipa",
     "Oul"
@@ -84,7 +84,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/182002"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "dirty-marriage",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/dirty-marriage"
+    },
     "mangaupdates": {
       "id": "63w274s",
       "rating": 66,
@@ -98,6 +102,7 @@
     158,
     59,
     2004,
+    74,
     108,
     46,
     15,
@@ -118,10 +123,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2346,
-    "fanRatioPercentile": 50.1947,
-    "popularityPercentile": 36.2318,
-    "fanFavouriteDiscoveryScore": 39.8828,
-    "fanFavouriteDiscoveryPercentile": 44.5836
+    "fanRatioPercentile": 50.2022,
+    "popularityPercentile": 36.2457,
+    "fanFavouriteDiscoveryScore": 39.8983,
+    "fanFavouriteDiscoveryPercentile": 44.6013
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -182,6 +187,7 @@
         "Primarily Adult Cast",
         "Female Lead",
         "Horny Male Lead",
+        "Based on a Web Novel",
         "Heterosexual",
         "Adult",
         "Mature",
@@ -232,9 +238,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.54
   }
 }

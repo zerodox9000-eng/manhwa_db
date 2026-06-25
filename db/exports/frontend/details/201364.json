@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T17:03:55.595Z",
-  "mangabaka_latest_rank": 5310,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T00:53:04.212Z",
+  "mangabaka_latest_rank": 5378,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hi-Nun"
   ],
@@ -67,7 +67,11 @@
       "rating": 90,
       "url": "https://anilist.co/manga/195072"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "zero-sugar-love",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/zero-sugar-love"
+    },
     "mangaupdates": {
       "id": "5ljxbvg",
       "rating": null,
@@ -95,10 +99,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 11.9322,
-    "fanFavouriteDiscoveryScore": 10.6716,
-    "fanFavouriteDiscoveryPercentile": 10.7947
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 11.9267,
+    "fanFavouriteDiscoveryScore": 10.6661,
+    "fanFavouriteDiscoveryPercentile": 10.7821
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -206,7 +210,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.54

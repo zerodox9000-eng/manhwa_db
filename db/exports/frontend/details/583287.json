@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T22:07:45.706Z",
-  "mangabaka_latest_rank": 686,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:46:05.507Z",
+  "mangabaka_latest_rank": 756,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Cos"
   ],
@@ -88,7 +88,11 @@
       "rating": 59,
       "url": "https://anilist.co/manga/209763"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "hiking-club-that-rotates-meals",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/hiking-club-that-rotates-meals"
+    },
     "mangaupdates": {
       "id": "rljft9y",
       "rating": 64,
@@ -122,10 +126,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.1364,
-    "fanRatioPercentile": 47.5685,
-    "popularityPercentile": 37.6594,
-    "fanFavouriteDiscoveryScore": 38.6876,
-    "fanFavouriteDiscoveryPercentile": 43.2247
+    "fanRatioPercentile": 47.5925,
+    "popularityPercentile": 37.604,
+    "fanFavouriteDiscoveryScore": 38.6737,
+    "fanFavouriteDiscoveryPercentile": 43.2201
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -213,7 +217,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.6

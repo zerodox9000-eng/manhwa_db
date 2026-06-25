@@ -83,9 +83,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T05:37:36.011Z",
-  "mangabaka_latest_rank": 1229,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T15:36:02.569Z",
+  "mangabaka_latest_rank": 1299,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Do-Tol Hwang"
   ],
@@ -102,7 +102,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/207433"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-love-my-family-too-much-to-get-a-divorce",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/i-love-my-family-too-much-to-get-a-divorce"
+    },
     "mangaupdates": {
       "id": "0zkx3l4",
       "rating": 63,
@@ -112,28 +116,32 @@
   "tag_ids": [
     40,
     59,
+    74,
+    126,
     108,
     36,
+    1035,
     9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 73,
+    "popularity": 78,
     "favourites": 2,
-    "meanScore": 67
+    "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7397,
-    "fanRatioPercentile": 83.4109,
-    "popularityPercentile": 34.5675,
-    "fanFavouriteDiscoveryScore": 64.3098,
-    "fanFavouriteDiscoveryPercentile": 73.0208
+    "fanFavouriteRaw": 2.5641,
+    "fanRatioPercentile": 80.9081,
+    "popularityPercentile": 35.5971,
+    "fanFavouriteDiscoveryScore": 63.5771,
+    "fanFavouriteDiscoveryPercentile": 72.148
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "regression-return",
     "profileGroups": [
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -142,7 +150,9 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -154,10 +164,10 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "regression-return / reincarnation",
     "searchKeywords": [
       "daughter",
       "cute",
@@ -195,8 +205,11 @@
       "tags": [
         "Shoujo",
         "Female Lead",
+        "Based on a Web Novel",
+        "Reincarnation",
         "Heterosexual",
         "Fantasy",
+        "Married Life",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -244,9 +257,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.53
   }
 }

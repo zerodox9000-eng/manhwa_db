@@ -102,9 +102,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T18:32:32.436Z",
-  "mangabaka_latest_rank": 594,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:46:06.549Z",
+  "mangabaka_latest_rank": 664,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Chae-Gun"
   ],
@@ -121,7 +121,11 @@
       "rating": 73,
       "url": "https://anilist.co/manga/210397"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-only-see-you",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/i-only-see-you"
+    },
     "mangaupdates": {
       "id": "hvet8j1",
       "rating": 67,
@@ -159,16 +163,16 @@
     428
   ],
   "stats": {
-    "popularity": 2539,
+    "popularity": 2548,
     "favourites": 55,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1662,
-    "fanRatioPercentile": 73.6468,
-    "popularityPercentile": 91.5413,
-    "fanFavouriteDiscoveryScore": 73.4577,
-    "fanFavouriteDiscoveryPercentile": 81.5787
+    "fanFavouriteRaw": 2.1586,
+    "fanRatioPercentile": 73.5826,
+    "popularityPercentile": 91.5605,
+    "fanFavouriteDiscoveryScore": 73.3939,
+    "fanFavouriteDiscoveryPercentile": 81.5414
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -298,7 +302,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.73

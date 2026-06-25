@@ -74,7 +74,7 @@
   ],
   "description": "Dominic, a war refugee who once lived as a nutritionist in a past life, settles in the small fishing village of Evergreen hoping for a quiet start. Instead, he is abruptly named village headman after the former leader steps down for the absurd reason that he refuses to learn how to read. Dominic’s nutritional and medical knowledge earns him unexpected attention when he diagnoses the former lord’s chronic foot pain through diet alone. His growing reputation soon draws the attention of the entire lord’s castle, changing his peaceful life forever.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzIvYi9jLzYvMC8zLzAvMTNlOS80Yjg3LzlhN2YvMmE4MTNkMWU4NDI5",
-  "total_chapters": "22",
+  "total_chapters": "23",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
@@ -87,9 +87,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T17:40:58.366Z",
-  "mangabaka_latest_rank": 843,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T17:41:06.307Z",
+  "mangabaka_latest_rank": 913,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Fantera",
     "Idijeu"
@@ -107,7 +107,11 @@
       "rating": 79,
       "url": "https://anilist.co/manga/208323"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-otherworldly-nutritionist",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-otherworldly-nutritionist"
+    },
     "mangaupdates": {
       "id": "0xbcr0w",
       "rating": 67,
@@ -116,37 +120,44 @@
   },
   "tag_ids": [
     38,
+    74,
+    126,
     36,
+    94,
     37,
     6,
     31,
+    991,
     7,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 379,
+    "popularity": 386,
     "favourites": 3,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 0.7916,
-    "fanRatioPercentile": 38.5984,
-    "popularityPercentile": 64.7759,
-    "fanFavouriteDiscoveryScore": 37.6952,
-    "fanFavouriteDiscoveryPercentile": 42.0185
+    "fanFavouriteRaw": 0.7772,
+    "fanRatioPercentile": 38.3899,
+    "popularityPercentile": 65.0897,
+    "fanFavouriteDiscoveryScore": 37.5142,
+    "fanFavouriteDiscoveryPercentile": 41.8085
   },
   "context": {
     "primaryProfile": "kingdom-management",
     "profileGroups": [
       "euro-fantasy",
+      "food-career",
       "kingdom-management",
       "medical-career",
-      "modern-korea"
+      "modern-korea",
+      "regression-return"
     ],
     "primaryAnchors": [
       "euro-fantasy",
+      "food-career",
       "kingdom-management",
       "medical-career"
     ],
@@ -157,9 +168,12 @@
       ],
       "protagonistRole": [],
       "careerDomain": [
-        "medical"
+        "medical",
+        "food"
       ],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [],
       "progressionType": [],
       "tone": [
@@ -170,10 +184,10 @@
         "fantasy-world"
       ],
       "romanceRole": "none",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "kingdom-management / kingdom-fantasy",
+    "semanticSummary": "kingdom-management / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "otherworldly",
       "nutritionist",
@@ -208,10 +222,14 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Based on a Web Novel",
+        "Reincarnation",
         "Fantasy",
+        "Isekai",
         "Adventure",
         "Comedy",
         "Drama",
+        "Food and Beverage",
         "Slice of Life",
         "Longstrip",
         "Full Color",
@@ -257,9 +275,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.92
+    "confidence": 1
   }
 }

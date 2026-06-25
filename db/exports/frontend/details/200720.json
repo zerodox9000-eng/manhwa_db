@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T05:55:27.223Z",
-  "mangabaka_latest_rank": 5352,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T17:46:03.711Z",
+  "mangabaka_latest_rank": 5420,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Agapeil"
   ],
@@ -88,7 +88,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/192544"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-companion-robot-isnt-listening",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/my-companion-robot-isnt-listening"
+    },
     "mangaupdates": {
       "id": "fsph6yd",
       "rating": 63,
@@ -113,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 17.7265,
-    "fanFavouriteDiscoveryScore": 14.2964,
-    "fanFavouriteDiscoveryPercentile": 15.7646
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 17.6955,
+    "fanFavouriteDiscoveryScore": 14.2731,
+    "fanFavouriteDiscoveryPercentile": 15.7421
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -248,7 +252,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

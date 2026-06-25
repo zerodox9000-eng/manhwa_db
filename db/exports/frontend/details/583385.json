@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T23:02:35.100Z",
-  "mangabaka_latest_rank": 680,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:57:20.039Z",
+  "mangabaka_latest_rank": 750,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "MARUCOMICS",
     "Ppongsikkongsi"
@@ -89,7 +89,11 @@
       "rating": 90,
       "url": "https://anilist.co/manga/212486"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "erotic-cohabitation",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/erotic-cohabitation"
+    },
     "mangaupdates": {
       "id": "4oobljf",
       "rating": null,
@@ -113,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 5.2218,
-    "fanFavouriteDiscoveryScore": 7.1333,
-    "fanFavouriteDiscoveryPercentile": 4.7866
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 5.2194,
+    "fanFavouriteDiscoveryScore": 7.1306,
+    "fanFavouriteDiscoveryPercentile": 4.7768
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -223,7 +227,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.5

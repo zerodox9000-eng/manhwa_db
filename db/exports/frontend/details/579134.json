@@ -23,9 +23,9 @@
     }
   ],
   "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=848026), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13757875)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTE3MTQ3LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS00LW1pbGxpb24tY29sbGVnZS1ncmFkdWF0ZXMtdW5lbXBsb3llZC0xLndlYnA_dD0xNzcxNDU4NzI2",
+  "total_chapters": "24",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-07T17:47:37.555Z",
-  "mangabaka_latest_rank": 891,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:36:05.002Z",
+  "mangabaka_latest_rank": 961,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Choi Jeong-Ah"
   ],
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-4-million-college-graduates-unemployed",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-4-million-college-graduates-unemployed"
+    },
     "mangaupdates": {
       "id": "3x6qiwy",
       "rating": null,
@@ -61,7 +65,10 @@
   },
   "tag_ids": [
     8,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -111,7 +118,10 @@
     "evidence": {
       "tags": [
         "Seinen",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "million",
@@ -133,9 +143,10 @@
         "series"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.47
   }
 }

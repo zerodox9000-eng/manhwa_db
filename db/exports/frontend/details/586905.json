@@ -17,18 +17,18 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Nebula",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Nebula",
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Nebula",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -42,7 +42,7 @@
   ],
   "description": "Han Seo grew up hearing that he was worthless unless he came in first. Just as he was being consumed by the realization that no matter how hard he tried, he could never satisfy his father, he encountered an extraordinary killer on an ordinary commute home. In a panic, he even kicked the man in the groin before running off, but the killer tracked him down to his home and introduced himself as a creature from the alien planet “Agape.” What’s more, he claims that Han Seo himself is a “flowerpot” for the alien race, and that a “seed” has been planted inside his body...\n\n *“Do you know the easiest way to germinate the seed? It’s pleasure.”*\n\n(Source: MrBlue, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzMvYi9mL2MvMS9iL2EvMzBhZi80ZTM4Lzk5MTMvM2QyMjgwYmFiZGEz",
-  "total_chapters": "5",
+  "total_chapters": "7",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T23:45:16.503Z",
-  "mangabaka_latest_rank": 363,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T23:45:49.415Z",
+  "mangabaka_latest_rank": 433,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "ENCELADUS"
   ],
@@ -74,7 +74,11 @@
       "rating": 73,
       "url": "https://anilist.co/manga/211697"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "nebula",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/nebula"
+    },
     "mangaupdates": {
       "id": "rs2507t",
       "rating": 67,
@@ -82,11 +86,15 @@
     }
   },
   "tag_ids": [
+    247,
+    308,
     36,
     1,
+    296,
     22,
     46,
     41,
+    547,
     180,
     16,
     9,
@@ -95,16 +103,16 @@
     428
   ],
   "stats": {
-    "popularity": 114,
+    "popularity": 116,
     "favourites": 3,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 2.6316,
-    "fanRatioPercentile": 81.823,
-    "popularityPercentile": 42.4689,
-    "fanFavouriteDiscoveryScore": 70.919,
-    "fanFavouriteDiscoveryPercentile": 79.0289
+    "fanFavouriteRaw": 2.5862,
+    "fanRatioPercentile": 81.1522,
+    "popularityPercentile": 42.7928,
+    "fanFavouriteDiscoveryScore": 70.5881,
+    "fanFavouriteDiscoveryPercentile": 78.7638
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -162,11 +170,15 @@
     ],
     "evidence": {
       "tags": [
+        "Non-Human Protagonist",
+        "Interspecies Relationship",
         "Fantasy",
         "Sci-Fi",
+        "Aliens",
         "Supernatural",
         "Adult",
         "Smut",
+        "Non-human",
         "Boys Love",
         "Yaoi",
         "Romance",
@@ -207,9 +219,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.5
   }
 }

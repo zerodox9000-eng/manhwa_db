@@ -58,7 +58,7 @@
   ],
   "description": "After her parents' death, Lady Vanessa is left with only two things—a mountain of debt and a marriage. Her greedy uncle is all too willing to sell her off as a fresh bride to an aging earl. To escape this arranged fate, she needs a scandal. A truly horrible, ruinous scandal.\n\n(Source: Manta)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMjMwNy1uTzBNbmx1bGdQQVAuanBn",
-  "total_chapters": "20",
+  "total_chapters": "21",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": true,
@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T20:52:24.073Z",
-  "mangabaka_latest_rank": 377,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:11:22.700Z",
+  "mangabaka_latest_rank": 447,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Bo-Gyeong Gong",
     "Dam-Yeon Seo",
@@ -94,7 +94,11 @@
       "rating": 79,
       "url": "https://anilist.co/manga/212307"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "garden-of-may",
+      "rating": 82,
+      "url": "https://www.anime-planet.com/manga/garden-of-may"
+    },
     "mangaupdates": {
       "id": "awtqtth",
       "rating": 67,
@@ -103,9 +107,14 @@
   },
   "tag_ids": [
     43,
+    74,
+    884,
     108,
     46,
+    1020,
     31,
+    241,
+    127,
     9,
     45,
     93,
@@ -113,26 +122,32 @@
     428
   ],
   "stats": {
-    "popularity": 369,
+    "popularity": 372,
     "favourites": 3,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 0.813,
-    "fanRatioPercentile": 39.0946,
-    "popularityPercentile": 64.3026,
-    "fanFavouriteDiscoveryScore": 38.1439,
-    "fanFavouriteDiscoveryPercentile": 42.4613
+    "fanFavouriteRaw": 0.8065,
+    "fanRatioPercentile": 38.947,
+    "popularityPercentile": 64.4334,
+    "fanFavouriteDiscoveryScore": 38.0098,
+    "fanFavouriteDiscoveryPercentile": 42.335
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -143,12 +158,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "garden",
       "oworui",
@@ -181,9 +198,14 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
+        "Death of Loved One",
         "Heterosexual",
         "Adult",
+        "Debts",
         "Drama",
+        "Mature Romance",
+        "Nobility",
         "Romance",
         "Historical",
         "Longstrip",
@@ -224,9 +246,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.72
   }
 }

@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T02:05:08.436Z",
+  "last_updated_at": "2026-06-25T02:24:21.103Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "pyogo"
   ],
@@ -67,7 +67,11 @@
       "rating": 52,
       "url": "https://anilist.co/manga/188887"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "big-slick",
+      "rating": 64,
+      "url": "https://www.anime-planet.com/manga/big-slick"
+    },
     "mangaupdates": {
       "id": "hxg1pem",
       "rating": 62,
@@ -85,20 +89,22 @@
     31,
     18,
     9,
+    93,
     1167,
-    57
+    57,
+    428
   ],
   "stats": {
-    "popularity": 108,
+    "popularity": 109,
     "favourites": null,
     "meanScore": 52
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 41.4383,
-    "fanFavouriteDiscoveryScore": 27.0439,
-    "fanFavouriteDiscoveryPercentile": 29.5595
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 41.5795,
+    "fanFavouriteDiscoveryScore": 27.0836,
+    "fanFavouriteDiscoveryPercentile": 29.5994
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -167,8 +173,10 @@
         "Drama",
         "Psychological",
         "Romance",
+        "Longstrip",
         "Short Story",
-        "Full Color"
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "big",
@@ -208,9 +216,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.56
   }
 }

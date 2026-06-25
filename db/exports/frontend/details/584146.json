@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:29:18.145Z",
-  "mangabaka_latest_rank": 605,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:30:12.959Z",
+  "mangabaka_latest_rank": 675,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Lucy",
     "Yeon-San"
@@ -82,7 +82,11 @@
       "rating": 74,
       "url": "https://anilist.co/manga/210331"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-eldest-daughter-walks-down-the-flower-path",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-eldest-daughter-walks-down-the-flower-path"
+    },
     "mangaupdates": {
       "id": "cfrpkkx",
       "rating": 67,
@@ -92,29 +96,35 @@
   "tag_ids": [
     40,
     59,
+    74,
     748,
     584,
+    249,
     108,
     36,
+    1,
+    395,
+    39,
     6,
     403,
     127,
     9,
+    990,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 273,
+    "popularity": 275,
     "favourites": 6,
     "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1978,
-    "fanRatioPercentile": 74.3416,
-    "popularityPercentile": 58.5159,
-    "fanFavouriteDiscoveryScore": 71.4568,
-    "fanFavouriteDiscoveryPercentile": 79.5023
+    "fanFavouriteRaw": 2.1818,
+    "fanRatioPercentile": 74.0481,
+    "popularityPercentile": 58.657,
+    "fanFavouriteDiscoveryScore": 71.207,
+    "fanFavouriteDiscoveryPercentile": 79.2675
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -195,14 +205,20 @@
       "tags": [
         "Shoujo",
         "Female Lead",
+        "Based on a Web Novel",
         "Age Regression",
         "Time Rewind",
+        "Time Travel",
         "Heterosexual",
         "Fantasy",
+        "Sci-Fi",
+        "Monsters",
+        "Action",
         "Comedy",
         "Betrayal",
         "Nobility",
         "Romance",
+        "Second Chance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -248,7 +264,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

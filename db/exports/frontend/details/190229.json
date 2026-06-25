@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T17:36:15.709Z",
-  "mangabaka_latest_rank": 5452,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:46:05.832Z",
+  "mangabaka_latest_rank": 5520,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jiong"
   ],
@@ -83,7 +83,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/209167"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "rockstar-never-die",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/rockstar-never-die"
+    },
     "mangaupdates": {
       "id": "2jxiiex",
       "rating": 66,
@@ -96,6 +100,7 @@
     16,
     228,
     31,
+    241,
     27,
     984,
     9,
@@ -105,16 +110,16 @@
     428
   ],
   "stats": {
-    "popularity": 79,
+    "popularity": 80,
     "favourites": 4,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 5.0633,
-    "fanRatioPercentile": 96.3814,
-    "popularityPercentile": 35.8806,
-    "fanFavouriteDiscoveryScore": 76.1166,
-    "fanFavouriteDiscoveryPercentile": 83.8537
+    "fanFavouriteRaw": 5,
+    "fanRatioPercentile": 96.3296,
+    "popularityPercentile": 36.0702,
+    "fanFavouriteDiscoveryScore": 76.3273,
+    "fanFavouriteDiscoveryPercentile": 84.029
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -183,6 +188,7 @@
         "Yaoi",
         "Cohabitation",
         "Drama",
+        "Mature Romance",
         "Music",
         "Reunion",
         "Romance",
@@ -231,9 +237,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.71
   }
 }

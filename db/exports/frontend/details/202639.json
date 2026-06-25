@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:04:34.004Z",
-  "mangabaka_latest_rank": 5260,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T23:28:24.742Z",
+  "mangabaka_latest_rank": 5328,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Eobeon"
   ],
@@ -76,7 +76,11 @@
       "rating": 64,
       "url": "https://anilist.co/manga/193264"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "tell-me-love-me",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/tell-me-love-me"
+    },
     "mangaupdates": {
       "id": "j5hr0aa",
       "rating": 64,
@@ -86,6 +90,7 @@
   "tag_ids": [
     248,
     158,
+    576,
     46,
     14,
     370,
@@ -93,7 +98,9 @@
     169,
     180,
     16,
+    1020,
     31,
+    241,
     9,
     226,
     93,
@@ -107,32 +114,41 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.0989,
-    "fanRatioPercentile": 46.5608,
-    "popularityPercentile": 38.2548,
-    "fanFavouriteDiscoveryScore": 38.2134,
-    "fanFavouriteDiscoveryPercentile": 42.6292
+    "fanRatioPercentile": 46.5853,
+    "popularityPercentile": 38.2221,
+    "fanFavouriteDiscoveryScore": 38.2147,
+    "fanFavouriteDiscoveryPercentile": 42.6173
   },
   "context": {
     "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career",
       "business-career-regression",
+      "corporate-workplace",
       "modern-workplace",
       "office-romance",
       "romance-core"
     ],
     "primaryAnchors": [
-      "business-career-regression"
+      "business-career-regression",
+      "corporate-workplace"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
-      "protagonistRole": [],
+      "setting": [
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "employee"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -141,7 +157,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression",
+    "semanticSummary": "business-career-regression / corporate-workplace",
     "searchKeywords": [
       "tell",
       "love",
@@ -173,6 +189,7 @@
       "tags": [
         "Working",
         "Primarily Adult Cast",
+        "Boss-Employee Relationship",
         "Adult",
         "Erotica",
         "Fingering",
@@ -180,7 +197,9 @@
         "Nakadashi",
         "Boys Love",
         "Yaoi",
+        "Debts",
         "Drama",
+        "Mature Romance",
         "Romance",
         "Unrequited Love",
         "Longstrip",
@@ -224,9 +243,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.8
+    "confidence": 1
   }
 }

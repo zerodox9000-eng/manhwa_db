@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T05:15:01.632Z",
-  "mangabaka_latest_rank": 864,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T23:10:01.209Z",
+  "mangabaka_latest_rank": 934,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Magyojolgae",
     "Saram"
@@ -91,7 +91,11 @@
       "rating": 68,
       "url": "https://anilist.co/manga/208154"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-regressor-can-make-them-all",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/the-regressor-can-make-them-all"
+    },
     "mangaupdates": {
       "id": "r4mg0qz",
       "rating": 66,
@@ -101,6 +105,7 @@
   "tag_ids": [
     38,
     58,
+    74,
     107,
     748,
     249,
@@ -116,16 +121,16 @@
     428
   ],
   "stats": {
-    "popularity": 1553,
+    "popularity": 1557,
     "favourites": 24,
     "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5454,
-    "fanRatioPercentile": 58.7068,
-    "popularityPercentile": 86.8616,
-    "fanFavouriteDiscoveryScore": 58.4843,
-    "fanFavouriteDiscoveryPercentile": 66.7074
+    "fanFavouriteRaw": 1.5414,
+    "fanRatioPercentile": 58.6265,
+    "popularityPercentile": 86.8905,
+    "fanFavouriteDiscoveryScore": 58.4049,
+    "fanFavouriteDiscoveryPercentile": 66.6997
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -198,6 +203,7 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Based on a Web Novel",
         "School",
         "Age Regression",
         "Time Travel",
@@ -248,9 +254,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.8
+    "confidence": 0.81
   }
 }

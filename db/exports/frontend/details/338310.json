@@ -42,7 +42,7 @@
   ],
   "description": "Job seeker Yu Hyang-Gi, struggling day by day, one day finds herself possessed by Hyang-Dan, the character from the traditional Korean folktale Chunhyangjeon. A supporting character, not even the heroine? How wonderful! Our beautiful young lady Chunhyang, and even a madam who cares for her like her own daughter. Hyang-Dan, who only felt the warmth of family after being possessed by the novel, was enjoying a peaceful life. Until \"him\" showed up! The world's ultimate villain, Byun Hak-Do, is destined to harass Chunhyang and be executed by the male protagonist, Lee Mong-Ryong. How dare he look down on our Chunhyang!\n\n *\"I don't know who you are, but you're a brat.\"\n\"I've been waiting.\"\n\"That's why I'm offering you this. An honor no one else can attain.\"*\n\nBut why do you keep entangling yourself with me? Why does that man care more about me than Chunhyang? \n\nA romantic fantasy about Hyang-Dan and Byeon Hak-Do, a twist on classic novels, Hyangdan's Tale.\n\n(Source: Kakaopage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2QvMi9hL2EvYi80LzQvYTMyNy80NWM0L2E1ODgvMWViMDcxNmZlYjQ0",
-  "total_chapters": "54",
+  "total_chapters": "107",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:50:30.016Z",
-  "mangabaka_latest_rank": 3287,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:06:06.077Z",
+  "mangabaka_latest_rank": 3355,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Chae-San Jang"
   ],
@@ -74,7 +74,11 @@
       "rating": 80,
       "url": "https://anilist.co/manga/199923"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "tale-of-hyangdan",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/tale-of-hyangdan"
+    },
     "mangaupdates": {
       "id": "7rl5ldn",
       "rating": 64,
@@ -84,12 +88,17 @@
   "tag_ids": [
     40,
     59,
+    595,
     108,
     36,
+    94,
+    258,
     6,
     31,
+    776,
     9,
     45,
+    769,
     93,
     57,
     428
@@ -101,10 +110,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.7037,
-    "fanRatioPercentile": 91.9536,
-    "popularityPercentile": 18.093,
-    "fanFavouriteDiscoveryScore": 42.3312,
-    "fanFavouriteDiscoveryPercentile": 47.7975
+    "fanRatioPercentile": 91.9725,
+    "popularityPercentile": 18.0923,
+    "fanFavouriteDiscoveryScore": 42.3387,
+    "fanFavouriteDiscoveryPercentile": 47.8214
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -120,7 +129,9 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -130,13 +141,14 @@
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea / modern-korea / reincarnation",
     "searchKeywords": [
       "hyang-dan",
       "dyeon",
@@ -168,12 +180,17 @@
       "tags": [
         "Shoujo",
         "Female Lead",
+        "South Korea",
         "Heterosexual",
         "Fantasy",
+        "Isekai",
+        "Isekaied Into a Novel",
         "Comedy",
         "Drama",
+        "Korean Folklore",
         "Romance",
         "Historical",
+        "Ancient Korea",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -214,9 +231,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.58
   }
 }

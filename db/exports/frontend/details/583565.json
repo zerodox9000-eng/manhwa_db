@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T16:42:54.760Z",
-  "mangabaka_latest_rank": 664,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:46:05.544Z",
+  "mangabaka_latest_rank": 734,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Nachaneul",
     "Ryesu"
@@ -96,7 +96,11 @@
       "rating": 86,
       "url": "https://anilist.co/manga/212730"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "scary-relationship",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/scary-relationship"
+    },
     "mangaupdates": {
       "id": "f0czg7r",
       "rating": 63,
@@ -106,6 +110,7 @@
   "tag_ids": [
     167,
     43,
+    74,
     12,
     108,
     46,
@@ -123,10 +128,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 3.527,
-    "fanFavouriteDiscoveryScore": 6.3837,
-    "fanFavouriteDiscoveryPercentile": 3.2445
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 3.5101,
+    "fanFavouriteDiscoveryScore": 6.3751,
+    "fanFavouriteDiscoveryPercentile": 3.2278
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -189,6 +194,7 @@
       "tags": [
         "Crossdressing",
         "Josei",
+        "Based on a Web Novel",
         "Gender Bender",
         "Heterosexual",
         "Adult",
@@ -235,9 +241,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.54
   }
 }

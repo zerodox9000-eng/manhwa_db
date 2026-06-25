@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T12:14:30.272Z",
-  "mangabaka_latest_rank": 918,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:07:52.454Z",
+  "mangabaka_latest_rank": 988,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Dongnejeosuji",
     "Seonryanghan Simin"
@@ -105,7 +105,11 @@
       "rating": 54,
       "url": "https://anilist.co/manga/207720"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-last-train-to-hell",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-last-train-to-hell"
+    },
     "mangaupdates": {
       "id": "4jqqrni",
       "rating": 62,
@@ -131,16 +135,16 @@
     428
   ],
   "stats": {
-    "popularity": 88,
+    "popularity": 90,
     "favourites": 2,
-    "meanScore": 54
+    "meanScore": 56
   },
   "analytics": {
-    "fanFavouriteRaw": 2.2727,
-    "fanRatioPercentile": 76.0363,
-    "popularityPercentile": 37.6594,
-    "fanFavouriteDiscoveryScore": 61.8405,
-    "fanFavouriteDiscoveryPercentile": 69.9977
+    "fanFavouriteRaw": 2.2222,
+    "fanRatioPercentile": 75.0172,
+    "popularityPercentile": 38.0313,
+    "fanFavouriteDiscoveryScore": 61.3613,
+    "fanFavouriteDiscoveryPercentile": 69.607
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -260,6 +264,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

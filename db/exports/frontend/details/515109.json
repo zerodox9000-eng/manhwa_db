@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T22:40:10.527Z",
-  "mangabaka_latest_rank": 2008,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:44:44.173Z",
+  "mangabaka_latest_rank": 2078,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gamong"
   ],
@@ -94,10 +94,14 @@
   "source": {
     "anilist": {
       "id": 199105,
-      "rating": 70,
+      "rating": 69,
       "url": "https://anilist.co/manga/199105"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "make-me-purr",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/make-me-purr"
+    },
     "mangaupdates": {
       "id": "e6qtiwg",
       "rating": 65,
@@ -106,7 +110,10 @@
   },
   "tag_ids": [
     43,
+    274,
     460,
+    276,
+    308,
     22,
     46,
     14,
@@ -114,7 +121,9 @@
     41,
     109,
     369,
+    284,
     6,
+    241,
     18,
     9,
     7,
@@ -129,10 +138,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.1111,
-    "fanRatioPercentile": 46.8585,
-    "popularityPercentile": 38.064,
-    "fanFavouriteDiscoveryScore": 38.3475,
-    "fanFavouriteDiscoveryPercentile": 42.7972
+    "fanRatioPercentile": 46.8905,
+    "popularityPercentile": 38.0313,
+    "fanFavouriteDiscoveryScore": 38.3547,
+    "fanFavouriteDiscoveryPercentile": 42.831
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -193,7 +202,10 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Animal Characteristics",
         "Nekomimi",
+        "Animal Transformation",
+        "Interspecies Relationship",
         "Supernatural",
         "Adult",
         "Erotica",
@@ -201,7 +213,9 @@
         "Smut",
         "Nudity",
         "Virginity",
+        "Cats",
         "Comedy",
+        "Mature Romance",
         "Psychological",
         "Romance",
         "Slice of Life",
@@ -246,9 +260,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.56
   }
 }

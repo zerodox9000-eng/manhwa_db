@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T19:01:47.722Z",
-  "mangabaka_latest_rank": 5390,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:46:05.872Z",
+  "mangabaka_latest_rank": 5458,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "JakgaB",
     "Jyo Hong"
@@ -91,7 +91,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/209657"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "batter-up",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/batter-up"
+    },
     "mangaupdates": {
       "id": "aw5rwwt",
       "rating": 64,
@@ -115,10 +119,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.8462,
-    "fanRatioPercentile": 92.6788,
-    "popularityPercentile": 17.7265,
-    "fanFavouriteDiscoveryScore": 41.9629,
-    "fanFavouriteDiscoveryPercentile": 47.2708
+    "fanRatioPercentile": 92.7203,
+    "popularityPercentile": 17.6955,
+    "fanFavouriteDiscoveryScore": 41.9223,
+    "fanFavouriteDiscoveryPercentile": 47.2415
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -225,6 +229,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

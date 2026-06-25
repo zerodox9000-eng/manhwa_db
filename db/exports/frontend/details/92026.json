@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.825Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T12:53:20.833Z",
-  "mangabaka_latest_rank": 8652,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:46:04.666Z",
+  "mangabaka_latest_rank": 8720,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gugsan Fire Tinker BL"
   ],
@@ -83,7 +83,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/196709"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "milky-star",
+      "rating": 64,
+      "url": "https://www.anime-planet.com/manga/milky-star"
+    },
     "mangaupdates": {
       "id": "b6d9hhh",
       "rating": 60,
@@ -130,10 +134,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 30.0939,
-    "fanFavouriteDiscoveryScore": 22.0617,
-    "fanFavouriteDiscoveryPercentile": 24.4752
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 30.0954,
+    "fanFavouriteDiscoveryScore": 22.0577,
+    "fanFavouriteDiscoveryPercentile": 24.4487
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -270,6 +274,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

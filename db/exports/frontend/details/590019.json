@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T17:11:06.512Z",
-  "mangabaka_latest_rank": 113,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:20:36.031Z",
+  "mangabaka_latest_rank": 183,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hoeorigamja"
   ],
@@ -81,7 +81,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/213031"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-priestess-of-dahalen",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-priestess-of-dahalen"
+    },
     "mangaupdates": {
       "id": "sy83hoe",
       "rating": 63,
@@ -96,22 +100,23 @@
     41,
     109,
     414,
+    31,
     9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 9,
+    "popularity": 10,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 5.2218,
-    "fanFavouriteDiscoveryScore": 7.1333,
-    "fanFavouriteDiscoveryPercentile": 4.7866
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 6.2648,
+    "fanFavouriteDiscoveryScore": 7.623,
+    "fanFavouriteDiscoveryPercentile": 5.7688
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -182,6 +187,7 @@
         "Smut",
         "Nudity",
         "Tentacles",
+        "Drama",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -223,9 +229,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.54
   }
 }

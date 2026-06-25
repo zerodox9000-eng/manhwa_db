@@ -99,9 +99,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T01:26:14.291Z",
-  "mangabaka_latest_rank": 867,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:26:22.721Z",
+  "mangabaka_latest_rank": 937,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Muji",
     "Myung-Ran Kim"
@@ -119,7 +119,11 @@
       "rating": 76,
       "url": "https://anilist.co/manga/208094"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "50-ways-to-leave-a-psychopathic-villain",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/50-ways-to-leave-a-psychopathic-villain"
+    },
     "mangaupdates": {
       "id": "yhbagqa",
       "rating": 69,
@@ -131,6 +135,7 @@
     68,
     59,
     2422,
+    74,
     126,
     36,
     94,
@@ -146,16 +151,16 @@
     428
   ],
   "stats": {
-    "popularity": 285,
+    "popularity": 286,
     "favourites": 6,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1053,
-    "fanRatioPercentile": 72.5017,
-    "popularityPercentile": 59.3099,
-    "fanFavouriteDiscoveryScore": 69.8619,
-    "fanFavouriteDiscoveryPercentile": 78.0976
+    "fanFavouriteRaw": 2.0979,
+    "fanRatioPercentile": 72.3388,
+    "popularityPercentile": 59.3667,
+    "fanFavouriteDiscoveryScore": 69.7169,
+    "fanFavouriteDiscoveryPercentile": 78.0084
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -231,6 +236,7 @@
         "Handsome Male Lead",
         "Female Lead",
         "Duke Male Lead",
+        "Based on a Web Novel",
         "Reincarnation",
         "Fantasy",
         "Isekai",
@@ -288,9 +294,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.83
   }
 }

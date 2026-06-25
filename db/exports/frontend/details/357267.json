@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T08:07:03.696Z",
-  "mangabaka_latest_rank": 2863,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:17:16.784Z",
+  "mangabaka_latest_rank": 2931,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Eclair"
   ],
@@ -88,7 +88,11 @@
       "rating": 72,
       "url": "https://anilist.co/manga/195168"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-fake-saint-of-a-reverse-harem-game",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/the-fake-saint-of-a-reverse-harem-game"
+    },
     "mangaupdates": {
       "id": "t6pg9ty",
       "rating": 67,
@@ -137,13 +141,16 @@
     2438,
     659,
     2398,
+    74,
     1615,
     405,
     1064,
     1099,
+    601,
     2845,
     20,
     164,
+    165,
     450,
     36,
     642,
@@ -161,7 +168,9 @@
     1020,
     31,
     127,
+    498,
     9,
+    605,
     93,
     57,
     428
@@ -173,10 +182,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.4483,
-    "fanRatioPercentile": 90.4649,
-    "popularityPercentile": 37.3845,
-    "fanFavouriteDiscoveryScore": 73.2585,
-    "fanFavouriteDiscoveryPercentile": 81.2581
+    "fanRatioPercentile": 90.4464,
+    "popularityPercentile": 37.375,
+    "fanFavouriteDiscoveryScore": 73.2325,
+    "fanFavouriteDiscoveryPercentile": 81.2743
   },
   "context": {
     "primaryProfile": "game-system",
@@ -339,7 +348,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

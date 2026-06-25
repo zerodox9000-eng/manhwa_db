@@ -106,9 +106,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T11:37:26.855Z",
-  "mangabaka_latest_rank": 1151,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T00:57:53.853Z",
+  "mangabaka_latest_rank": 1221,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Apple Mango",
     "Yeon-Ju"
@@ -126,7 +126,11 @@
       "rating": 75,
       "url": "https://anilist.co/manga/206050"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-beast-of-the-abelard-mansion",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/the-beast-of-the-abelard-mansion"
+    },
     "mangaupdates": {
       "id": "evbc54r",
       "rating": 64,
@@ -135,10 +139,15 @@
   },
   "tag_ids": [
     43,
+    274,
     61,
+    247,
+    74,
+    308,
     108,
     36,
     41,
+    547,
     626,
     31,
     128,
@@ -154,10 +163,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 6,
-    "fanRatioPercentile": 97.7708,
-    "popularityPercentile": 28.1548,
-    "fanFavouriteDiscoveryScore": 64.8849,
-    "fanFavouriteDiscoveryPercentile": 73.8377
+    "fanRatioPercentile": 97.7642,
+    "popularityPercentile": 28.1496,
+    "fanFavouriteDiscoveryScore": 64.8709,
+    "fanFavouriteDiscoveryPercentile": 73.7963
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -224,10 +233,15 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Animal Characteristics",
         "Abused Male Lead",
+        "Non-Human Protagonist",
+        "Based on a Web Novel",
+        "Interspecies Relationship",
         "Heterosexual",
         "Fantasy",
         "Smut",
+        "Non-human",
         "Werewolves",
         "Drama",
         "Royalty",
@@ -276,9 +290,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.75
   }
 }

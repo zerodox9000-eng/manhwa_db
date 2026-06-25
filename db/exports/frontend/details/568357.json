@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T21:20:21.387Z",
-  "mangabaka_latest_rank": 1369,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:37:43.207Z",
+  "mangabaka_latest_rank": 1439,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Dubidu",
     "Dugo"
@@ -77,7 +77,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/204715"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "until-you-say-my-name-thrice",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/until-you-say-my-name-thrice"
+    },
     "mangaupdates": {
       "id": "678enuu",
       "rating": 62,
@@ -86,6 +90,8 @@
   },
   "tag_ids": [
     75,
+    74,
+    848,
     106,
     987,
     22,
@@ -96,8 +102,12 @@
     228,
     31,
     875,
+    241,
+    237,
     9,
     226,
+    7,
+    282,
     1004,
     93,
     57,
@@ -111,10 +121,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 20.6733,
-    "fanFavouriteDiscoveryScore": 16.2303,
-    "fanFavouriteDiscoveryPercentile": 17.9556
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 20.6715,
+    "fanFavouriteDiscoveryScore": 16.2256,
+    "fanFavouriteDiscoveryPercentile": 17.9473
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -180,6 +190,8 @@
     "evidence": {
       "tags": [
         "Based on a Novel",
+        "Based on a Web Novel",
+        "Family Drama",
         "Age Gap",
         "Older Seme Younger Uke",
         "Supernatural",
@@ -190,8 +202,12 @@
         "Cohabitation",
         "Drama",
         "First Love",
+        "Mature Romance",
+        "Orphans",
         "Romance",
         "Unrequited Love",
+        "Slice of Life",
+        "Family Life",
         "Modern Era",
         "Longstrip",
         "Full Color",
@@ -241,9 +257,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.59
   }
 }

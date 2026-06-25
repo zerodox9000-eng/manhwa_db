@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T10:14:37.049Z",
-  "mangabaka_latest_rank": 850,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:14:03.107Z",
+  "mangabaka_latest_rank": 920,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ingsug"
   ],
@@ -90,16 +90,21 @@
       "rating": 69,
       "url": "https://anilist.co/manga/208046"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "never-just-friends",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/never-just-friends"
+    },
     "mangaupdates": {
       "id": "mkd2h99",
-      "rating": 64,
+      "rating": 65,
       "url": "https://www.mangaupdates.com/series/mkd2h99"
     }
   },
   "tag_ids": [
     8,
     58,
+    97,
     108,
     46,
     10,
@@ -113,16 +118,16 @@
     428
   ],
   "stats": {
-    "popularity": 199,
+    "popularity": 203,
     "favourites": 3,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5075,
-    "fanRatioPercentile": 57.7678,
-    "popularityPercentile": 52.6681,
-    "fanFavouriteDiscoveryScore": 54.2054,
-    "fanFavouriteDiscoveryPercentile": 62.3864
+    "fanFavouriteRaw": 1.4778,
+    "fanRatioPercentile": 56.9172,
+    "popularityPercentile": 53.0485,
+    "fanFavouriteDiscoveryScore": 53.5102,
+    "fanFavouriteDiscoveryPercentile": 61.8161
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -167,6 +172,7 @@
       "tags": [
         "Seinen",
         "Male Lead",
+        "Childhood Friends",
         "Heterosexual",
         "Adult",
         "Hentai",
@@ -201,9 +207,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.49
   }
 }

@@ -83,9 +83,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T13:32:40.918Z",
-  "mangabaka_latest_rank": 2041,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T00:30:23.772Z",
+  "mangabaka_latest_rank": 2111,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hogi"
   ],
@@ -102,7 +102,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/199065"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "that-annoying-little-swallow",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/that-annoying-little-swallow"
+    },
     "mangaupdates": {
       "id": "0hmfdbx",
       "rating": 62,
@@ -122,16 +126,16 @@
     428
   ],
   "stats": {
-    "popularity": 19,
+    "popularity": 20,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 13.3216,
-    "fanFavouriteDiscoveryScore": 11.5043,
-    "fanFavouriteDiscoveryPercentile": 12.0238
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 13.9641,
+    "fanFavouriteDiscoveryScore": 11.8961,
+    "fanFavouriteDiscoveryPercentile": 12.5906
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -240,7 +244,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.52

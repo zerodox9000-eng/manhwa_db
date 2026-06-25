@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:00:10.745Z",
-  "mangabaka_latest_rank": 592,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:00:14.997Z",
+  "mangabaka_latest_rank": 662,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Je-Yeol Im",
     "Studio Inus"
@@ -89,7 +89,11 @@
       "rating": 73,
       "url": "https://anilist.co/manga/210414"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "only-i-have-an-ex-grade-summon",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/only-i-have-an-ex-grade-summon"
+    },
     "mangaupdates": {
       "id": "kjpl8mx",
       "rating": 69,
@@ -99,6 +103,7 @@
   "tag_ids": [
     2103,
     58,
+    74,
     500,
     36,
     642,
@@ -111,16 +116,16 @@
     428
   ],
   "stats": {
-    "popularity": 1336,
+    "popularity": 1340,
     "favourites": 20,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1.497,
-    "fanRatioPercentile": 57.4853,
-    "popularityPercentile": 85.2279,
-    "fanFavouriteDiscoveryScore": 57.2358,
-    "fanFavouriteDiscoveryPercentile": 65.4859
+    "fanFavouriteRaw": 1.4925,
+    "fanRatioPercentile": 57.3827,
+    "popularityPercentile": 85.2652,
+    "fanFavouriteDiscoveryScore": 57.1344,
+    "fanFavouriteDiscoveryPercentile": 65.3644
   },
   "context": {
     "primaryProfile": "game-system",
@@ -179,6 +184,7 @@
       "tags": [
         "Dungeon Exploring",
         "Male Lead",
+        "Based on a Web Novel",
         "Dungeon",
         "Fantasy",
         "Fantasy World",
@@ -218,9 +224,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.63
+    "confidence": 0.64
   }
 }

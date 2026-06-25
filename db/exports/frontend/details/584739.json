@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T08:25:41.774Z",
-  "mangabaka_latest_rank": 565,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:06:05.186Z",
+  "mangabaka_latest_rank": 635,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jeon-Hui Yeo",
     "Min-Seong"
@@ -90,7 +90,11 @@
       "rating": 55,
       "url": "https://anilist.co/manga/210600"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "adult-subscription-service",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/adult-subscription-service"
+    },
     "mangaupdates": {
       "id": "d8bmzs5",
       "rating": null,
@@ -99,9 +103,11 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
+    241,
     9,
     93,
     57,
@@ -114,10 +120,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 9.5656,
-    "fanFavouriteDiscoveryScore": 9.3257,
-    "fanFavouriteDiscoveryPercentile": 8.7564
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 9.5689,
+    "fanFavouriteDiscoveryScore": 9.3255,
+    "fanFavouriteDiscoveryPercentile": 8.7676
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -162,9 +168,11 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Adult",
         "Smut",
+        "Mature Romance",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -193,9 +201,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.45
   }
 }

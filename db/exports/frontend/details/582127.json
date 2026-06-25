@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T13:25:54.044Z",
-  "mangabaka_latest_rank": 761,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:06:05.525Z",
+  "mangabaka_latest_rank": 831,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Mosem"
   ],
@@ -81,7 +81,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/209172"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "crown-prince-education",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/crown-prince-education"
+    },
     "mangaupdates": {
       "id": "8jkrrzq",
       "rating": null,
@@ -91,13 +95,17 @@
   "tag_ids": [
     43,
     59,
+    595,
     46,
     15,
     41,
     109,
     31,
+    776,
+    128,
     9,
     45,
+    769,
     93,
     57,
     428
@@ -109,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 5.2218,
-    "fanFavouriteDiscoveryScore": 7.1333,
-    "fanFavouriteDiscoveryPercentile": 4.7866
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 5.2194,
+    "fanFavouriteDiscoveryScore": 7.1306,
+    "fanFavouriteDiscoveryPercentile": 4.7768
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -128,6 +136,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -140,12 +149,15 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban",
+        "fantasy-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "crown",
       "prince",
@@ -180,13 +192,17 @@
       "tags": [
         "Josei",
         "Female Lead",
+        "South Korea",
         "Adult",
         "Mature",
         "Smut",
         "Nudity",
         "Drama",
+        "Korean Folklore",
+        "Royalty",
         "Romance",
         "Historical",
+        "Ancient Korea",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -228,9 +244,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.77
+    "confidence": 0.81
   }
 }

@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:18:37.242Z",
-  "mangabaka_latest_rank": 2957,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:46:33.317Z",
+  "mangabaka_latest_rank": 3025,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jwimang"
   ],
@@ -97,7 +97,11 @@
       "rating": 85,
       "url": "https://anilist.co/manga/195069"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "itll-be-okay",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/itll-be-okay"
+    },
     "mangaupdates": {
       "id": "oc77hs9",
       "rating": 62,
@@ -106,11 +110,16 @@
   },
   "tag_ids": [
     38,
+    664,
+    247,
     257,
+    278,
     342,
+    547,
     508,
     416,
     31,
+    598,
     7,
     93,
     57,
@@ -123,10 +132,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.0769,
-    "fanRatioPercentile": 87.4952,
-    "popularityPercentile": 32.8422,
-    "fanFavouriteDiscoveryScore": 65.1517,
-    "fanFavouriteDiscoveryPercentile": 74.2957
+    "fanRatioPercentile": 87.501,
+    "popularityPercentile": 32.8424,
+    "fanFavouriteDiscoveryScore": 65.1563,
+    "fanFavouriteDiscoveryPercentile": 74.2846
   },
   "context": {
     "primaryProfile": "medical-career",
@@ -193,11 +202,16 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Animal Protagonists",
+        "Non-Human Protagonist",
         "College",
+        "Animals",
         "Anthropomorphic",
+        "Non-human",
         "Autobiographical",
         "Disability",
         "Drama",
+        "Illness",
         "Slice of Life",
         "Longstrip",
         "Full Color",
@@ -239,9 +253,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.68
+    "confidence": 0.73
   }
 }

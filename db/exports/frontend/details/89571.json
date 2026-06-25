@@ -30,7 +30,7 @@
     }
   ],
   "description": "**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/gambler_vs_psychic), [Naver Series](https://series.naver.com/comic/detail.series?productNo=6769938), [Ridibooks](https://ridibooks.com/books/4419006962)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzcyMjAyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2dhbWJsZXItdnMtcHN5Y2hpYy0xLndlYnA_dD0xNzY4MzY2MTk2",
   "total_chapters": "24",
   "status": "completed",
   "content_rating": "safe",
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:38:39.046Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-07T16:35:24.697Z",
+  "last_updated_at": "2026-06-25T04:41:08.492Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Masa Rabbit"
   ],
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "gambler-vs-psychic",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/gambler-vs-psychic"
+    },
     "mangaupdates": {
       "id": "9b7fcc3",
       "rating": null,
@@ -71,7 +75,10 @@
     36,
     1,
     22,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -124,7 +131,10 @@
         "Fantasy",
         "Sci-Fi",
         "Supernatural",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "gambler",
@@ -141,9 +151,10 @@
         "ridibooks"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.43
   }
 }

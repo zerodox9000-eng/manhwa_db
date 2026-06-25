@@ -35,7 +35,7 @@
   ],
   "description": "In the barbaric age, those who knew honor were called knights.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzEvYS81LzEvMi85L2IvMWFiZC80NDY2LzhiOWEvM2JmYTM2MmExYzJl",
-  "total_chapters": "0",
+  "total_chapters": "27",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:24:23.605Z",
-  "mangabaka_latest_rank": 1019,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:36:05.073Z",
+  "mangabaka_latest_rank": 1089,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Mr. Quokka",
     "Nine"
@@ -68,7 +68,11 @@
       "rating": 77,
       "url": "https://anilist.co/manga/206917"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "black-haired-knight-king",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/black-haired-knight-king"
+    },
     "mangaupdates": {
       "id": "97cv91i",
       "rating": 64,
@@ -76,6 +80,7 @@
     }
   },
   "tag_ids": [
+    74,
     36,
     39,
     45,
@@ -91,10 +96,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 39.3541,
-    "fanFavouriteDiscoveryScore": 26.3274,
-    "fanFavouriteDiscoveryPercentile": 28.964
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 39.3209,
+    "fanFavouriteDiscoveryScore": 26.3095,
+    "fanFavouriteDiscoveryPercentile": 28.9584
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -143,6 +148,7 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Fantasy",
         "Action",
         "Historical",
@@ -174,9 +180,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.58
+    "confidence": 0.59
   }
 }

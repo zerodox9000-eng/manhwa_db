@@ -30,9 +30,9 @@
     }
   ],
   "description": "**Official Translations:**  \nJapanese (Localized): \n[Horizontal](https://www.cmoa.jp/title/310832/), [Vertical](https://www.cmoa.jp/title/310833/)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIxMzc0LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2JlY29taW5nLWEtdmlsbGFpbmVzcy15ZXQtd2FudGluZy10by1saXZlLWxvbmctMS53ZWJwP3Q9MTc3OTU1NjUwNw",
+  "total_chapters": "24",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-18T12:21:21.643Z",
-  "mangabaka_latest_rank": 563,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T22:06:07.208Z",
+  "mangabaka_latest_rank": 633,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Mongzzee",
     "Pearl Kim"
@@ -60,7 +60,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "becoming-a-villainess-yet-wanting-to-live-long",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/becoming-a-villainess-yet-wanting-to-live-long"
+    },
     "mangaupdates": {
       "id": "sxt7mjb",
       "rating": null,
@@ -69,8 +73,15 @@
   },
   "tag_ids": [
     40,
+    266,
+    74,
     36,
-    9
+    94,
+    258,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -97,7 +108,9 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -112,7 +125,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy",
+    "semanticSummary": "euro-fantasy / reincarnation",
     "searchKeywords": [
       "becoming",
       "villainess",
@@ -130,8 +143,15 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Villainess",
+        "Based on a Web Novel",
         "Fantasy",
-        "Romance"
+        "Isekai",
+        "Isekaied Into a Novel",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "becoming",
@@ -156,9 +176,10 @@
         "vertical"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.61
+    "confidence": 0.68
   }
 }

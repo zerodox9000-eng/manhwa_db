@@ -84,7 +84,7 @@
   ],
   "description": "An old, shabby mage in his seventies returns to sixty years in the past to a much-awaited, deeply missed day from long ago…\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvMC8yL2YvZC82LzUvODhkMS80YTQzL2IxZjkvOTQyNWNiNTQ2OTc0",
-  "total_chapters": "15",
+  "total_chapters": "16",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -97,9 +97,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:46:22.997Z",
-  "mangabaka_latest_rank": 496,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:47:47.230Z",
+  "mangabaka_latest_rank": 566,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Peullin",
     "Pyeong Yang"
@@ -117,7 +117,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/211153"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-margraves-10th-class-ruffian",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/the-margraves-10th-class-ruffian"
+    },
     "mangaupdates": {
       "id": "wbpgtvl",
       "rating": 67,
@@ -127,42 +131,53 @@
   "tag_ids": [
     38,
     58,
+    74,
+    249,
     36,
+    1,
     39,
     37,
     31,
+    127,
+    990,
     93,
     57,
     428,
     121
   ],
   "stats": {
-    "popularity": 752,
+    "popularity": 757,
     "favourites": 6,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 0.7979,
-    "fanRatioPercentile": 38.7663,
-    "popularityPercentile": 76.7616,
-    "fanFavouriteDiscoveryScore": 38.4272,
-    "fanFavouriteDiscoveryPercentile": 42.8582
+    "fanFavouriteRaw": 0.7926,
+    "fanRatioPercentile": 38.6723,
+    "popularityPercentile": 76.963,
+    "fanFavouriteDiscoveryScore": 38.3395,
+    "fanFavouriteDiscoveryPercentile": 42.7318
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
       "modern-korea",
       "regression-return"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "kingdom-fantasy"
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "regression"
+      ],
       "conflictType": [],
       "progressionType": [],
       "tone": [],
@@ -170,10 +185,10 @@
         "fantasy-world"
       ],
       "romanceRole": "none",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / regression",
     "searchKeywords": [
       "margrave",
       "10th-class",
@@ -201,10 +216,15 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Based on a Web Novel",
+        "Time Travel",
         "Fantasy",
+        "Sci-Fi",
         "Action",
         "Adventure",
         "Drama",
+        "Nobility",
+        "Second Chance",
         "Longstrip",
         "Full Color",
         "Web Comic",
@@ -240,9 +260,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.73
   }
 }

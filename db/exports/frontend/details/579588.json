@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T14:11:36.534Z",
-  "mangabaka_latest_rank": 862,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:42:56.007Z",
+  "mangabaka_latest_rank": 932,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hwaper",
     "Jyo-Jyo Park"
@@ -75,7 +75,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/208415"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "new-bride",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/new-bride"
+    },
     "mangaupdates": {
       "id": "o9wpu6e",
       "rating": null,
@@ -84,10 +88,22 @@
   },
   "tag_ids": [
     43,
+    74,
+    595,
+    848,
     108,
     41,
+    31,
+    776,
+    359,
+    1035,
+    241,
+    237,
     9,
+    7,
+    282,
     45,
+    769,
     93,
     57,
     428
@@ -99,10 +115,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 5.5556,
-    "fanRatioPercentile": 97.328,
-    "popularityPercentile": 12.5887,
-    "fanFavouriteDiscoveryScore": 34.0966,
-    "fanFavouriteDiscoveryPercentile": 37.7204
+    "fanRatioPercentile": 97.3216,
+    "popularityPercentile": 12.583,
+    "fanFavouriteDiscoveryScore": 34.0837,
+    "fanFavouriteDiscoveryPercentile": 37.6803
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -113,7 +129,9 @@
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -124,12 +142,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "bride",
       "saesaeksi",
@@ -161,10 +181,22 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
+        "South Korea",
+        "Family Drama",
         "Heterosexual",
         "Smut",
+        "Drama",
+        "Korean Folklore",
+        "Arranged Marriage",
+        "Married Life",
+        "Mature Romance",
+        "Orphans",
         "Romance",
+        "Slice of Life",
+        "Family Life",
         "Historical",
+        "Ancient Korea",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -202,9 +234,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.62
   }
 }

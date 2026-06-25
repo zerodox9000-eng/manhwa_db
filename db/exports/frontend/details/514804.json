@@ -2,7 +2,7 @@
   "id": 514804,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Fluttering Sound",
+  "display_title": "Heartbeat Sounds",
   "mangabaka_title": "Seolleneun Sori",
   "native_title": "설레는 소리",
   "romanized_title": "Seolleneun Sori",
@@ -20,14 +20,14 @@
       "language": "en",
       "title": "A Fluttering Sound",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Heartbeat Sounds",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -63,7 +63,7 @@
   ],
   "description": "Han Ye-Rim, a video production major at an arts high school, can hear the inner thoughts of those captured in photos and videos. Ye-Rim, who's reluctant to film anything because of her talent, encounters Cha Jin-Ho, a famous model from the entertainment department. But what? Can you hear their inner thoughts too? A bumbling school romance between the prim Ye-Rim and the affectionate Jin-Ho!\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83L2MvZS9jL2QvMC9jL2UvZWU3OS80OTFjLzhlMjcvNWNhYTI2ODdkZTdi",
-  "total_chapters": "33",
+  "total_chapters": "42",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:31:06.836Z",
-  "mangabaka_latest_rank": 2012,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:32:08.958Z",
+  "mangabaka_latest_rank": 2082,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "koer"
   ],
@@ -95,7 +95,11 @@
       "rating": 80,
       "url": "https://anilist.co/manga/199104"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-fluttering-sound",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-fluttering-sound"
+    },
     "mangaupdates": {
       "id": "hrfr5sc",
       "rating": 64,
@@ -120,10 +124,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.6129,
-    "fanRatioPercentile": 60.8596,
-    "popularityPercentile": 31.949,
-    "fanFavouriteDiscoveryScore": 44.441,
-    "fanFavouriteDiscoveryPercentile": 50.4237
+    "fanRatioPercentile": 60.9004,
+    "popularityPercentile": 31.9191,
+    "fanFavouriteDiscoveryScore": 44.4409,
+    "fanFavouriteDiscoveryPercentile": 50.4311
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -158,8 +162,8 @@
     },
     "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
-      "fluttering",
-      "sound",
+      "heartbeat",
+      "sounds",
       "seolleneun",
       "sori",
       "han",
@@ -199,8 +203,8 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "fluttering",
-        "sound",
+        "heartbeat",
+        "sounds",
         "seolleneun",
         "sori",
         "seolleneun",
@@ -234,7 +238,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.58

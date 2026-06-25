@@ -2,7 +2,7 @@
   "id": 578522,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I'm the Only Man in This Clan?!",
+  "display_title": "I'm the Only Man in the Female-Dominated Clan",
   "mangabaka_title": "I'm the Only Man in This Clan?!",
   "native_title": "여초 클랜에서 나만 남자다",
   "romanized_title": null,
@@ -18,19 +18,19 @@
       "language": "en",
       "title": "I'm the Only Man in the Female-Dominated Clan",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "I'm the Only Man in This Clan?!",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "A lonely, divorced dad goes to meet up with his gaming buddies, thinking they'll all be men his age... but as it turns out, he's the only man in this clan!\n\n[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9028) \n \n**Official Translations:**  \n[English](https://toomics.com/en/webtoon/episode/toon/9028)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI3ODQzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ltLXRoZS1vbmx5LW1hbi1pbi10aGlzLWNsYW4tMS53ZWJwP3Q9MTc3ODI4OTU1OA",
   "total_chapters": "22",
   "status": "releasing",
   "content_rating": "erotica",
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T13:29:16.166Z",
-  "mangabaka_latest_rank": 932,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:16:05.033Z",
+  "mangabaka_latest_rank": 1002,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Saekma Shingong"
   ],
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "im-the-only-man-in-this-clan",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/im-the-only-man-in-this-clan"
+    },
     "mangaupdates": {
       "id": "lc0iwwc",
       "rating": 62,
@@ -73,7 +77,10 @@
     15,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -113,6 +120,7 @@
     "semanticSummary": "modern-korea",
     "searchKeywords": [
       "man",
+      "female-dominated",
       "clan",
       "lonely",
       "divorced",
@@ -139,10 +147,14 @@
         "Mature",
         "Smut",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "man",
+        "female-dominated",
         "clan",
         "man",
         "clan"
@@ -168,9 +180,10 @@
         "english"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.49
+    "confidence": 0.52
   }
 }

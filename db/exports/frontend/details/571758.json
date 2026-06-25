@@ -23,9 +23,9 @@
     }
   ],
   "description": "**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=13548002), [KakaoPage](https://page.kakao.com/content/68317730) \n\nThe death of an actress begins as if by accident.\nOne by one, the men surrounding her make inexplicable choices. While everyone believes it's love, only one detective pursues the truth behind this obsession. And all clues lead to the Venus Lodge.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTEzMTMzLmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3BvcnRyYWl0LW9mLXZlbnVzLTEud2VicD90PTE3NzAxNDEzMzQ",
+  "total_chapters": "23",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-26T17:03:15.316Z",
-  "mangabaka_latest_rank": 1173,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:06:04.844Z",
+  "mangabaka_latest_rank": 1243,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Go Haeng Seok"
   ],
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "portrait-of-venus",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/portrait-of-venus"
+    },
     "mangaupdates": {
       "id": "9ih7r3r",
       "rating": null,
@@ -62,7 +66,10 @@
   "tag_ids": [
     8,
     31,
-    32
+    32,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -134,7 +141,10 @@
       "tags": [
         "Seinen",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "portrait",
@@ -169,9 +179,10 @@
         "clues"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.57
   }
 }

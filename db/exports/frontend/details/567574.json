@@ -73,9 +73,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T04:27:22.412Z",
-  "mangabaka_latest_rank": 1433,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:40:47.590Z",
+  "mangabaka_latest_rank": 1503,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Dae-Won Dae",
     "Kanojyo"
@@ -93,7 +93,11 @@
       "rating": 68,
       "url": "https://anilist.co/manga/205213"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "dungeon-gourmet",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/dungeon-gourmet"
+    },
     "mangaupdates": {
       "id": "yh3lx2z",
       "rating": 60,
@@ -102,6 +106,7 @@
   },
   "tag_ids": [
     38,
+    74,
     36,
     39,
     37,
@@ -111,16 +116,16 @@
     428
   ],
   "stats": {
-    "popularity": 228,
+    "popularity": 229,
     "favourites": 4,
     "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7544,
-    "fanRatioPercentile": 64.524,
-    "popularityPercentile": 55.3019,
-    "fanFavouriteDiscoveryScore": 61.2898,
-    "fanFavouriteDiscoveryPercentile": 69.4328
+    "fanFavouriteRaw": 1.7467,
+    "fanRatioPercentile": 64.319,
+    "popularityPercentile": 55.3682,
+    "fanFavouriteDiscoveryScore": 61.1119,
+    "fanFavouriteDiscoveryPercentile": 69.3323
   },
   "context": {
     "primaryProfile": "game-system",
@@ -196,6 +201,7 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Based on a Web Novel",
         "Fantasy",
         "Action",
         "Adventure",
@@ -247,9 +253,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.68
+    "confidence": 0.69
   }
 }

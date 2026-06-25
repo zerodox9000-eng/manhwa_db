@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T12:32:54.027Z",
-  "mangabaka_latest_rank": 1493,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T18:46:04.592Z",
+  "mangabaka_latest_rank": 1563,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Yeopdongnematjip"
   ],
@@ -81,7 +81,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/208590"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "mixed-blood",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/mixed-blood"
+    },
     "mangaupdates": {
       "id": "cbjdykt",
       "rating": 59,
@@ -111,10 +115,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.7037,
-    "fanRatioPercentile": 91.9536,
-    "popularityPercentile": 18.093,
-    "fanFavouriteDiscoveryScore": 42.3312,
-    "fanFavouriteDiscoveryPercentile": 47.7975
+    "fanRatioPercentile": 91.9725,
+    "popularityPercentile": 18.0923,
+    "fanFavouriteDiscoveryScore": 42.3387,
+    "fanFavouriteDiscoveryPercentile": 47.8214
   },
   "context": {
     "primaryProfile": "kingdom-management",
@@ -215,7 +219,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.58

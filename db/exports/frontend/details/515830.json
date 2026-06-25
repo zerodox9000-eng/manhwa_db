@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:33:21.242Z",
-  "mangabaka_latest_rank": 1989,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:34:17.135Z",
+  "mangabaka_latest_rank": 2059,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Dan Kim",
     "Red Peach"
@@ -91,7 +91,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/199534"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "beneath-him",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/beneath-him"
+    },
     "mangaupdates": {
       "id": "i8xpcwr",
       "rating": 62,
@@ -99,6 +103,7 @@
     }
   },
   "tag_ids": [
+    74,
     595,
     1680,
     1043,
@@ -118,16 +123,16 @@
     2058
   ],
   "stats": {
-    "popularity": 28,
+    "popularity": 29,
     "favourites": null,
     "meanScore": 60
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 18.635,
-    "fanFavouriteDiscoveryScore": 14.8905,
-    "fanFavouriteDiscoveryPercentile": 16.5051
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 19.1835,
+    "fanFavouriteDiscoveryScore": 15.2473,
+    "fanFavouriteDiscoveryPercentile": 16.8943
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -194,6 +199,7 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "South Korea",
         "Noble-Commoner Relationship",
         "Historical Setting",
@@ -248,9 +254,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.76
   }
 }

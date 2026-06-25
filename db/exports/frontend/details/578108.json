@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Witch Hunt (Linza)",
-  "mangabaka_title": "Manyeosanyang (Linza)",
+  "mangabaka_title": "Witch Hunt (Rinza)",
   "native_title": "마녀사냥 (린자)",
   "romanized_title": "Manyeosanyang (Linza)",
   "titles": [
@@ -52,12 +52,19 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Witch Hunt (Rinza)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
   "description": "Sian, a witch hiding her past, lives in secrecy in a small forest on the outskirts of a rural village. One day, the witch hunter Pedric appears before her. When her identity is exposed, and death seems inevitable, Pedric offers a strange proposal in exchange for her life: to be with him and become human. \n\nAs her magic is slowly stripped away with every touch—replaced by an unfamiliar warmth—Sian begins to dream of a future as an ordinary human by his side. But the shadows of her past gradually tighten around them both.\n\n**Original Webtoon:**    \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=13697533), [Ridibooks](https://ridibooks.com/books/1746033772), [Bomtoon](https://www.bomtoon.com/detail/witch_hunt), [Lezhin](https://www.lezhin.com/ko/comic/witch_hunt), [MrBlue](https://www.mrblue.com/webtoon/wt_000077522)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzcvOS9iL2EvZC8zL2EvMzc0Ni80M2ViL2JhOTgvNGYyNzBjZWQ0ZDE5",
   "total_chapters": "10",
-  "status": "completed",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
@@ -69,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T14:26:53.191Z",
-  "mangabaka_latest_rank": 956,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:06:04.954Z",
+  "mangabaka_latest_rank": 1026,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Osibsam"
   ],
@@ -84,7 +91,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "witch-hunt-rinza",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/witch-hunt-rinza"
+    },
     "mangaupdates": {
       "id": "1gds687",
       "rating": 63,
@@ -97,7 +108,10 @@
     46,
     41,
     9,
-    5
+    5,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -153,6 +167,7 @@
       "witch",
       "hunt",
       "linza",
+      "rinza",
       "manyeosanyang",
       "sian",
       "hiding",
@@ -183,14 +198,18 @@
         "Adult",
         "Smut",
         "Romance",
-        "Tragedy"
+        "Tragedy",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "witch",
         "hunt",
         "linza",
-        "manyeosanyang",
-        "linza",
+        "witch",
+        "hunt",
+        "rinza",
         "manyeosanyang",
         "linza"
       ],
@@ -221,9 +240,10 @@
         "strange"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.64
+    "confidence": 0.67
   }
 }

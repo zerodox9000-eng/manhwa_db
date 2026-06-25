@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T02:38:25.211Z",
-  "mangabaka_latest_rank": 3469,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:46:31.523Z",
+  "mangabaka_latest_rank": 3537,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "GAL-BI"
   ],
@@ -90,7 +90,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/201933"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "fated-to-find-you",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/fated-to-find-you"
+    },
     "mangaupdates": {
       "id": "it7387x",
       "rating": null,
@@ -111,16 +115,16 @@
     428
   ],
   "stats": {
-    "popularity": 24,
+    "popularity": 26,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 16.5356,
-    "fanFavouriteDiscoveryScore": 13.5243,
-    "fanFavouriteDiscoveryPercentile": 14.8179
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 17.6955,
+    "fanFavouriteDiscoveryScore": 14.2731,
+    "fanFavouriteDiscoveryPercentile": 15.7421
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -237,6 +241,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

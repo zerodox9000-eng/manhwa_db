@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T19:32:44.017Z",
-  "mangabaka_latest_rank": 334,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:06:26.947Z",
+  "mangabaka_latest_rank": 404,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gugsan Fire Tinker BL"
   ],
@@ -81,7 +81,11 @@
       "rating": 69,
       "url": "https://anilist.co/manga/212020"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-crazy-elf-gets-a-dragon",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/the-crazy-elf-gets-a-dragon"
+    },
     "mangaupdates": {
       "id": "qduq88l",
       "rating": 67,
@@ -109,6 +113,7 @@
     2758,
     880,
     1565,
+    308,
     36,
     46,
     41,
@@ -138,16 +143,16 @@
     428
   ],
   "stats": {
-    "popularity": 89,
+    "popularity": 92,
     "favourites": 2,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 2.2472,
-    "fanRatioPercentile": 75.4867,
-    "popularityPercentile": 37.8579,
-    "fanFavouriteDiscoveryScore": 61.5821,
-    "fanFavouriteDiscoveryPercentile": 69.7305
+    "fanFavouriteRaw": 2.1739,
+    "fanRatioPercentile": 73.9184,
+    "popularityPercentile": 38.451,
+    "fanFavouriteDiscoveryScore": 60.8431,
+    "fanFavouriteDiscoveryPercentile": 69.0271
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -231,6 +236,7 @@
         "Sexually Insatiable Uke",
         "Older Uke Younger Seme",
         "Tall Uke Short Seme",
+        "Interspecies Relationship",
         "Fantasy",
         "Adult",
         "Smut",
@@ -249,8 +255,7 @@
         "Dragons",
         "Non-human",
         "Elves",
-        "Half-Elf",
-        "Boys Love"
+        "Half-Elf"
       ],
       "titleTerms": [
         "crazy",
@@ -291,7 +296,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.66

@@ -22,7 +22,7 @@
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "ko-Latn",
       "title": "Manjong",
       "traits": [],
       "is_primary": true,
@@ -37,9 +37,9 @@
     }
   ],
   "description": "Lee Seo-woo, the Imoogi who lost his parents when he was young and was raised by tigers. It's been 10 years since I started training in the human world to fulfill my long-held wish to ascend to the dragon, but the end of training is rarely seen. Meanwhile, the couple's amazing cohabitation begins when an old friend, Beom Ji-ho, suddenly comes to visit and says he will take him back to Taebaek...?\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000068097)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDgwNTQ0LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L21hbmpvbmctMS53ZWJwP3Q9MTc3NTIzMjE2NA",
   "total_chapters": "25",
-  "status": "releasing",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
@@ -51,9 +51,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T22:46:12.794Z",
-  "mangabaka_latest_rank": 3195,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:49:34.846Z",
+  "mangabaka_latest_rank": 3263,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Pyolyu"
   ],
@@ -66,7 +66,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "manjong",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/manjong"
+    },
     "mangaupdates": {
       "id": "9d7adrd",
       "rating": null,
@@ -74,11 +78,20 @@
     }
   },
   "tag_ids": [
+    274,
+    848,
     36,
     22,
     46,
+    180,
     16,
-    31
+    31,
+    237,
+    7,
+    282,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -109,7 +122,9 @@
       "progressionType": [
         "martial-growth"
       ],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [
         "fantasy-world"
       ],
@@ -147,11 +162,20 @@
     ],
     "evidence": {
       "tags": [
+        "Animal Characteristics",
+        "Family Drama",
         "Fantasy",
         "Supernatural",
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Orphans",
+        "Slice of Life",
+        "Family Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "curfew",
@@ -185,9 +209,10 @@
         "amazing"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.56
   }
 }

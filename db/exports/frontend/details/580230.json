@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T21:30:58.327Z",
-  "mangabaka_latest_rank": 805,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T15:56:00.388Z",
+  "mangabaka_latest_rank": 875,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ji-Ha"
   ],
@@ -67,7 +67,11 @@
       "rating": 72,
       "url": "https://anilist.co/manga/208643"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-strange-day",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-strange-day"
+    },
     "mangaupdates": {
       "id": "hxhdflu",
       "rating": null,
@@ -75,9 +79,13 @@
     }
   },
   "tag_ids": [
+    247,
     415,
+    276,
+    308,
     22,
     46,
+    547,
     180,
     16,
     31,
@@ -93,10 +101,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.7027,
-    "fanRatioPercentile": 82.9147,
-    "popularityPercentile": 23.0628,
-    "fanFavouriteDiscoveryScore": 46.7195,
-    "fanFavouriteDiscoveryPercentile": 54.592
+    "fanRatioPercentile": 82.892,
+    "popularityPercentile": 23.0294,
+    "fanFavouriteDiscoveryScore": 46.6499,
+    "fanFavouriteDiscoveryPercentile": 54.3533
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -150,9 +158,13 @@
     ],
     "evidence": {
       "tags": [
+        "Non-Human Protagonist",
         "Countryside",
+        "Animal Transformation",
+        "Interspecies Relationship",
         "Supernatural",
         "Adult",
+        "Non-human",
         "Boys Love",
         "Yaoi",
         "Drama",
@@ -196,9 +208,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.49
   }
 }

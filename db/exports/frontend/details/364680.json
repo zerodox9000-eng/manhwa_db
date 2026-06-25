@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:55:12.803Z",
-  "mangabaka_latest_rank": 2638,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:06:04.779Z",
+  "mangabaka_latest_rank": 2707,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Lucid"
   ],
@@ -90,7 +90,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/212956"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sol-in-wonderland",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/sol-in-wonderland"
+    },
     "mangaupdates": {
       "id": "rggkpsj",
       "rating": null,
@@ -98,8 +102,10 @@
     }
   },
   "tag_ids": [
+    597,
     43,
     59,
+    404,
     6,
     31,
     47,
@@ -109,16 +115,16 @@
     428
   ],
   "stats": {
-    "popularity": 17,
+    "popularity": 18,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 11.9322,
-    "fanFavouriteDiscoveryScore": 10.6716,
-    "fanFavouriteDiscoveryPercentile": 10.7947
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 12.583,
+    "fanFavouriteDiscoveryScore": 11.0557,
+    "fanFavouriteDiscoveryPercentile": 11.3621
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -178,8 +184,10 @@
     ],
     "evidence": {
       "tags": [
+        "Writing",
         "Josei",
         "Female Lead",
+        "Writers",
         "Comedy",
         "Drama",
         "Shoujo Ai",
@@ -225,9 +233,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.46
   }
 }

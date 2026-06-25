@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.826Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T23:54:21.804Z",
+  "last_updated_at": "2026-06-24T20:16:05.008Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Wangye"
   ],
@@ -76,7 +76,11 @@
       "rating": 86,
       "url": "https://anilist.co/manga/212681"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "extra-virgin",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/extra-virgin"
+    },
     "mangaupdates": {
       "id": "5s3hq34",
       "rating": 64,
@@ -84,7 +88,10 @@
     }
   },
   "tag_ids": [
+    167,
     58,
+    116,
+    406,
     36,
     46,
     15,
@@ -93,6 +100,8 @@
     16,
     6,
     31,
+    128,
+    227,
     9,
     93,
     1167,
@@ -106,10 +115,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.3478,
-    "fanRatioPercentile": 94.8469,
-    "popularityPercentile": 16.047,
-    "fanFavouriteDiscoveryScore": 39.6824,
-    "fanFavouriteDiscoveryPercentile": 44.2858
+    "fanRatioPercentile": 94.8722,
+    "popularityPercentile": 16.032,
+    "fanFavouriteDiscoveryScore": 39.6641,
+    "fanFavouriteDiscoveryPercentile": 44.2732
   },
   "context": {
     "primaryProfile": "kingdom-management",
@@ -134,6 +143,7 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [
@@ -141,6 +151,7 @@
       ],
       "tone": [
         "comedic",
+        "tense",
         "warm"
       ],
       "worldType": [
@@ -179,7 +190,10 @@
     ],
     "evidence": {
       "tags": [
+        "Crossdressing",
         "Male Lead",
+        "Maids",
+        "Master-Servant Relationship",
         "Fantasy",
         "Adult",
         "Mature",
@@ -188,6 +202,8 @@
         "Yaoi",
         "Comedy",
         "Drama",
+        "Royalty",
+        "Revenge",
         "Romance",
         "Longstrip",
         "Short Story",
@@ -231,6 +247,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

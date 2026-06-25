@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T05:52:34.550Z",
-  "mangabaka_latest_rank": 8902,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:06:04.970Z",
+  "mangabaka_latest_rank": 8970,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Eun-Rip Ryu"
   ],
@@ -83,7 +83,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/211197"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-night-of-ruin",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-night-of-ruin"
+    },
     "mangaupdates": {
       "id": "baxoxez",
       "rating": 63,
@@ -93,6 +97,7 @@
   "tag_ids": [
     1795,
     2442,
+    595,
     1596,
     106,
     880,
@@ -104,10 +109,16 @@
     180,
     16,
     31,
+    776,
+    128,
     9,
     45,
+    769,
     5,
-    1167
+    93,
+    1167,
+    57,
+    428
   ],
   "stats": {
     "popularity": 17,
@@ -116,16 +127,17 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 11.9322,
-    "fanFavouriteDiscoveryScore": 10.6716,
-    "fanFavouriteDiscoveryPercentile": 10.7947
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 11.9267,
+    "fanFavouriteDiscoveryScore": 10.6661,
+    "fanFavouriteDiscoveryPercentile": 10.7821
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -134,6 +146,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -148,13 +161,14 @@
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "night",
       "ruin",
@@ -186,6 +200,7 @@
       "tags": [
         "Androgynous Uke",
         "Emperor/King Male Lead",
+        "South Korea",
         "Death of Leading Characters",
         "Age Gap",
         "Older Uke Younger Seme",
@@ -197,10 +212,16 @@
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Korean Folklore",
+        "Royalty",
         "Romance",
         "Historical",
+        "Ancient Korea",
         "Tragedy",
-        "Short Story"
+        "Longstrip",
+        "Short Story",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "night",
@@ -239,9 +260,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.89
   }
 }

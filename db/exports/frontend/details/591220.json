@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Deceive Your Magic",
   "mangabaka_title": "Deceive Your Magic",
-  "native_title": null,
+  "native_title": "너의 마법을 속여라",
   "romanized_title": null,
   "titles": [
     {
@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**    \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14241209)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMjI0LmpwZw",
   "total_chapters": "62",
   "status": "completed",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-24T04:48:59.818Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-24T04:06:20.909Z",
-  "mangabaka_latest_rank": 2,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:25:04.183Z",
+  "mangabaka_latest_rank": 72,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Min.E"
   ],
@@ -75,12 +75,16 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -96,11 +100,15 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "deceive",
       "your",
-      "magic"
+      "magic",
+      "original",
+      "webtoon",
+      "naver",
+      "series"
     ],
     "evidence": {
       "tags": [
@@ -116,11 +124,16 @@
         "your",
         "magic"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "naver",
+        "series"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.31
+    "confidence": 0.38
   }
 }

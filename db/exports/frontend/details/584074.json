@@ -92,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T10:33:31.393Z",
-  "mangabaka_latest_rank": 611,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:46:33.876Z",
+  "mangabaka_latest_rank": 681,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jae-Ri Kim"
   ],
@@ -111,7 +111,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/211334"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "unspoken",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/unspoken"
+    },
     "mangaupdates": {
       "id": "don9sk0",
       "rating": 62,
@@ -120,6 +124,7 @@
   },
   "tag_ids": [
     107,
+    884,
     175,
     106,
     46,
@@ -141,10 +146,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 32.2467,
-    "fanFavouriteDiscoveryScore": 23.2102,
-    "fanFavouriteDiscoveryPercentile": 25.7577
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 32.2091,
+    "fanFavouriteDiscoveryScore": 23.1858,
+    "fanFavouriteDiscoveryPercentile": 25.7383
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -202,6 +207,7 @@
     "evidence": {
       "tags": [
         "School",
+        "Death of Loved One",
         "Teachers",
         "Age Gap",
         "Adult",
@@ -250,9 +256,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.57
   }
 }

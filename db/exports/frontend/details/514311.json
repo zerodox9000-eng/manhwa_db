@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-20T08:39:33.085Z",
-  "mangabaka_latest_rank": 2026,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T00:15:43.764Z",
+  "mangabaka_latest_rank": 2096,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Geonsi"
   ],
@@ -81,7 +81,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/200336"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-man-from-the-basement-is-locked-in-my-room",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-man-from-the-basement-is-locked-in-my-room"
+    },
     "mangaupdates": {
       "id": "nrcbxqx",
       "rating": 62,
@@ -98,7 +102,9 @@
     180,
     16,
     31,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 30,
@@ -107,10 +113,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 19.6351,
-    "fanFavouriteDiscoveryScore": 15.5474,
-    "fanFavouriteDiscoveryPercentile": 17.2227
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 19.6566,
+    "fanFavouriteDiscoveryScore": 15.5582,
+    "fanFavouriteDiscoveryPercentile": 17.2301
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -189,7 +195,9 @@
         "Boys Love",
         "Yaoi",
         "Drama",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "man",
@@ -233,9 +241,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.84
+    "confidence": 0.86
   }
 }

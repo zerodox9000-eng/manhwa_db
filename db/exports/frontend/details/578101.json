@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T22:38:19.619Z",
-  "mangabaka_latest_rank": 959,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:16:06.567Z",
+  "mangabaka_latest_rank": 1029,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Mienneu",
     "Tozzi"
@@ -68,7 +68,11 @@
       "rating": 78,
       "url": "https://anilist.co/manga/207445"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "collage",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/collage"
+    },
     "mangaupdates": {
       "id": "s1gmcyg",
       "rating": 64,
@@ -76,12 +80,15 @@
     }
   },
   "tag_ids": [
+    74,
     107,
+    257,
     46,
     14,
     180,
     16,
     31,
+    241,
     9,
     42,
     93,
@@ -89,16 +96,16 @@
     428
   ],
   "stats": {
-    "popularity": 36,
+    "popularity": 37,
     "favourites": 1,
     "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7778,
-    "fanRatioPercentile": 84.0599,
-    "popularityPercentile": 22.5895,
-    "fanFavouriteDiscoveryScore": 46.5473,
-    "fanFavouriteDiscoveryPercentile": 54.1415
+    "fanFavouriteRaw": 2.7027,
+    "fanRatioPercentile": 82.892,
+    "popularityPercentile": 23.0294,
+    "fanFavouriteDiscoveryScore": 46.6499,
+    "fanFavouriteDiscoveryPercentile": 54.3533
   },
   "context": {
     "primaryProfile": "office-romance",
@@ -160,12 +167,15 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "School",
+        "College",
         "Adult",
         "Erotica",
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Mature Romance",
         "Romance",
         "School Life",
         "Longstrip",
@@ -205,9 +215,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.81
+    "confidence": 0.84
   }
 }

@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:11:39.582Z",
-  "mangabaka_latest_rank": 2595,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T00:46:39.790Z",
+  "mangabaka_latest_rank": 2664,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "So-Min",
     "Yulatte"
@@ -105,7 +105,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/197053"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "even-the-slightest-touch",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/even-the-slightest-touch"
+    },
     "mangaupdates": {
       "id": "4fytn0q",
       "rating": null,
@@ -114,6 +118,9 @@
   },
   "tag_ids": [
     43,
+    74,
+    107,
+    175,
     108,
     46,
     14,
@@ -132,10 +139,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 20.6733,
-    "fanFavouriteDiscoveryScore": 16.2303,
-    "fanFavouriteDiscoveryPercentile": 17.9556
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 20.6715,
+    "fanFavouriteDiscoveryScore": 16.2256,
+    "fanFavouriteDiscoveryPercentile": 17.9473
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -196,6 +203,9 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
+        "School",
+        "Teachers",
         "Heterosexual",
         "Adult",
         "Erotica",
@@ -246,9 +256,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.56
   }
 }

@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T18:21:40.832Z",
-  "mangabaka_latest_rank": 277,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:05:44.708Z",
+  "mangabaka_latest_rank": 347,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hae-Jin"
   ],
@@ -81,7 +81,11 @@
       "rating": 55,
       "url": "https://anilist.co/manga/212362"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-disasters-courting",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-disasters-courting"
+    },
     "mangaupdates": {
       "id": "77pju0m",
       "rating": 57,
@@ -103,16 +107,16 @@
     428
   ],
   "stats": {
-    "popularity": 88,
+    "popularity": 89,
     "favourites": 1,
     "meanScore": 55
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1364,
-    "fanRatioPercentile": 47.5685,
-    "popularityPercentile": 37.6594,
-    "fanFavouriteDiscoveryScore": 38.6876,
-    "fanFavouriteDiscoveryPercentile": 43.2247
+    "fanFavouriteRaw": 1.1236,
+    "fanRatioPercentile": 47.272,
+    "popularityPercentile": 37.8481,
+    "fanFavouriteDiscoveryScore": 38.5588,
+    "fanFavouriteDiscoveryPercentile": 43.0752
   },
   "context": {
     "primaryProfile": "business-career",
@@ -225,7 +229,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.61

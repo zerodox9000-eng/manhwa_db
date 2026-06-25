@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:18:04.522Z",
-  "mangabaka_latest_rank": 703,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:57:22.437Z",
+  "mangabaka_latest_rank": 773,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "0 Sure",
     "Gukgeorijangdan"
@@ -82,7 +82,11 @@
       "rating": 63,
       "url": "https://anilist.co/manga/209659"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "magical-girl-wife",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/magical-girl-wife"
+    },
     "mangaupdates": {
       "id": "l8i9xef",
       "rating": 66,
@@ -103,6 +107,7 @@
     2134,
     2193,
     58,
+    74,
     580,
     108,
     36,
@@ -125,6 +130,7 @@
     31,
     875,
     360,
+    1035,
     9,
     93,
     57,
@@ -133,16 +139,16 @@
     17
   ],
   "stats": {
-    "popularity": 344,
+    "popularity": 350,
     "favourites": 6,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7442,
-    "fanRatioPercentile": 64.2263,
-    "popularityPercentile": 62.8598,
-    "fanFavouriteDiscoveryScore": 62.4703,
-    "fanFavouriteDiscoveryPercentile": 70.8069
+    "fanFavouriteRaw": 1.7143,
+    "fanRatioPercentile": 63.3651,
+    "popularityPercentile": 63.2583,
+    "fanFavouriteDiscoveryScore": 61.6878,
+    "fanFavouriteDiscoveryPercentile": 69.9275
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -211,6 +217,7 @@
         "Married Female Lead",
         "Mature Female Lead",
         "Male Lead",
+        "Based on a Web Novel",
         "Married Couple",
         "Heterosexual",
         "Fantasy",
@@ -233,11 +240,10 @@
         "Drama",
         "First Love",
         "Marriage",
+        "Married Life",
         "Romance",
         "Longstrip",
-        "Full Color",
-        "Web Comic",
-        "Magic"
+        "Full Color"
       ],
       "titleTerms": [
         "magical",
@@ -276,7 +282,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.59

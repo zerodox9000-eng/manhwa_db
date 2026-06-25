@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T18:37:48.052Z",
+  "last_updated_at": "2026-06-24T23:36:07.358Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hye-Gyeong Ji"
   ],
@@ -83,7 +83,11 @@
       "rating": 76,
       "url": "https://anilist.co/manga/192903"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sunny-snow-flurries",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/sunny-snow-flurries"
+    },
     "mangaupdates": {
       "id": "xejz8td",
       "rating": null,
@@ -92,10 +96,14 @@
   },
   "tag_ids": [
     43,
+    595,
     108,
     46,
+    776,
+    128,
     9,
     45,
+    769,
     93,
     57,
     428
@@ -107,16 +115,17 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 11.9322,
-    "fanFavouriteDiscoveryScore": 10.6716,
-    "fanFavouriteDiscoveryPercentile": 10.7947
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 11.9267,
+    "fanFavouriteDiscoveryScore": 10.6661,
+    "fanFavouriteDiscoveryPercentile": 10.7821
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -125,6 +134,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -138,12 +148,15 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban",
+        "fantasy-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "sunny",
       "snow",
@@ -178,10 +191,14 @@
     "evidence": {
       "tags": [
         "Josei",
+        "South Korea",
         "Heterosexual",
         "Adult",
+        "Korean Folklore",
+        "Royalty",
         "Romance",
         "Historical",
+        "Ancient Korea",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -226,9 +243,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.66
+    "confidence": 0.77
   }
 }

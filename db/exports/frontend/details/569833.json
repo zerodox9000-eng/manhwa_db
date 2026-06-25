@@ -66,9 +66,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T18:43:57.564Z",
-  "mangabaka_latest_rank": 1316,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:44:10.239Z",
+  "mangabaka_latest_rank": 1386,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jae-Yeong"
   ],
@@ -85,7 +85,11 @@
       "rating": 65,
       "url": "https://anilist.co/manga/204027"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "hunger-for-you",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/hunger-for-you"
+    },
     "mangaupdates": {
       "id": "0b3d6fz",
       "rating": 71,
@@ -134,16 +138,16 @@
     428
   ],
   "stats": {
-    "popularity": 165,
+    "popularity": 166,
     "favourites": 3,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 1.8182,
-    "fanRatioPercentile": 65.9974,
-    "popularityPercentile": 49.0572,
-    "fanFavouriteDiscoveryScore": 60.6151,
-    "fanFavouriteDiscoveryPercentile": 68.7075
+    "fanFavouriteRaw": 1.8072,
+    "fanRatioPercentile": 65.6391,
+    "popularityPercentile": 49.1568,
+    "fanFavouriteDiscoveryScore": 60.3267,
+    "fanFavouriteDiscoveryPercentile": 68.4853
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -281,6 +285,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

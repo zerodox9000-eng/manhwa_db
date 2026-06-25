@@ -38,6 +38,13 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ja",
+      "title": "猫をかぶったままじゃいられない!?",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "There are two kinds of people in this world: those who choose, and those who are chosen. But most people make mistakes because they don't know which side they belong to.\n\n*\"Do I look easy to you just because I've been staying quiet?\"*\n\n(Source: TOPTOON, translated)",
@@ -55,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T10:48:43.550Z",
-  "mangabaka_latest_rank": 321,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:16:05.295Z",
+  "mangabaka_latest_rank": 391,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gomudongnyeokgi"
   ],
@@ -71,10 +78,14 @@
   "source": {
     "anilist": {
       "id": 211878,
-      "rating": 70,
+      "rating": 71,
       "url": "https://anilist.co/manga/211878"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-quiet-cat",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-quiet-cat"
+    },
     "mangaupdates": {
       "id": "i4km7f2",
       "rating": 64,
@@ -95,14 +106,14 @@
   "stats": {
     "popularity": 149,
     "favourites": 2,
-    "meanScore": 70
+    "meanScore": 71
   },
   "analytics": {
     "fanFavouriteRaw": 1.3423,
-    "fanRatioPercentile": 52.943,
-    "popularityPercentile": 47.1563,
-    "fanFavouriteDiscoveryScore": 47.954,
-    "fanFavouriteDiscoveryPercentile": 56.6379
+    "fanRatioPercentile": 52.995,
+    "popularityPercentile": 47.1271,
+    "fanFavouriteDiscoveryScore": 47.9902,
+    "fanFavouriteDiscoveryPercentile": 56.6959
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -204,7 +215,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.44

@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:31:47.116Z",
-  "mangabaka_latest_rank": 2241,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:11:22.971Z",
+  "mangabaka_latest_rank": 2310,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hwi-Bin Kim"
   ],
@@ -95,7 +95,11 @@
       "rating": 92,
       "url": "https://anilist.co/manga/208642"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-only-way-to-world-peace",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-only-way-to-world-peace"
+    },
     "mangaupdates": {
       "id": "1m2lt1n",
       "rating": 63,
@@ -104,7 +108,9 @@
   },
   "tag_ids": [
     43,
+    74,
     20,
+    165,
     108,
     36,
     41,
@@ -121,10 +127,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 13.3216,
-    "fanFavouriteDiscoveryScore": 11.5043,
-    "fanFavouriteDiscoveryPercentile": 12.0238
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 13.3003,
+    "fanFavouriteDiscoveryScore": 11.4888,
+    "fanFavouriteDiscoveryPercentile": 12.0107
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -189,7 +195,9 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Harem",
+        "Reverse Harem",
         "Heterosexual",
         "Fantasy",
         "Smut",
@@ -241,9 +249,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.54
   }
 }

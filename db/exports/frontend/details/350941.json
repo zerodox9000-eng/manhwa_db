@@ -99,9 +99,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T09:26:27.627Z",
-  "mangabaka_latest_rank": 3056,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T22:50:02.759Z",
+  "mangabaka_latest_rank": 3124,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Chae-San Jang"
   ],
@@ -118,7 +118,11 @@
       "rating": 52,
       "url": "https://anilist.co/manga/193718"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "youre-in-trouble-mister",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/youre-in-trouble-mister"
+    },
     "mangaupdates": {
       "id": "t3n9fig",
       "rating": 64,
@@ -132,6 +136,7 @@
     15,
     41,
     109,
+    2882,
     6,
     31,
     9,
@@ -140,16 +145,16 @@
     428
   ],
   "stats": {
-    "popularity": 53,
+    "popularity": 54,
     "favourites": 1,
     "meanScore": 52
   },
   "analytics": {
-    "fanFavouriteRaw": 1.8868,
-    "fanRatioPercentile": 67.4784,
-    "popularityPercentile": 29.2694,
-    "fanFavouriteDiscoveryScore": 46.1587,
-    "fanFavouriteDiscoveryPercentile": 53.1338
+    "fanFavouriteRaw": 1.8519,
+    "fanRatioPercentile": 66.7989,
+    "popularityPercentile": 29.462,
+    "fanFavouriteDiscoveryScore": 45.9249,
+    "fanFavouriteDiscoveryPercentile": 52.6974
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -216,6 +221,7 @@
         "Mature",
         "Smut",
         "Nudity",
+        "Christmas",
         "Comedy",
         "Drama",
         "Romance",
@@ -261,9 +267,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.48
   }
 }

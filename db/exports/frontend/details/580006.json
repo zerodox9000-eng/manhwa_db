@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T07:31:19.669Z",
-  "mangabaka_latest_rank": 834,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T12:06:06.946Z",
+  "mangabaka_latest_rank": 904,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Buffering",
     "Ssangbongnakta 3"
@@ -98,7 +98,11 @@
       "rating": 73,
       "url": "https://anilist.co/manga/208364"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "life-of-a-demon-hunter",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/life-of-a-demon-hunter"
+    },
     "mangaupdates": {
       "id": "k48d48u",
       "rating": 70,
@@ -108,6 +112,7 @@
   "tag_ids": [
     38,
     58,
+    74,
     36,
     22,
     39,
@@ -116,16 +121,16 @@
     428
   ],
   "stats": {
-    "popularity": 1070,
+    "popularity": 1072,
     "favourites": 15,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4019,
-    "fanRatioPercentile": 54.6912,
-    "popularityPercentile": 82.0979,
-    "fanFavouriteDiscoveryScore": 54.3835,
-    "fanFavouriteDiscoveryPercentile": 62.6078
+    "fanFavouriteRaw": 1.3993,
+    "fanRatioPercentile": 54.689,
+    "popularityPercentile": 82.1213,
+    "fanFavouriteDiscoveryScore": 54.382,
+    "fanFavouriteDiscoveryPercentile": 62.5944
   },
   "context": {
     "primaryProfile": "kingdom-management",
@@ -198,6 +203,7 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Based on a Web Novel",
         "Fantasy",
         "Supernatural",
         "Action",
@@ -245,9 +251,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.83
   }
 }

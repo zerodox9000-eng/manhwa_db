@@ -2,7 +2,7 @@
   "id": 582433,
   "state": "active",
   "type": "manhwa",
-  "display_title": "When the Male Lead and Female Lead Broke Apart",
+  "display_title": "The Main Protagonists Broke Up",
   "mangabaka_title": "Namjuwa Yeojuga Heeojyeotda",
   "native_title": "남주와 여주가 헤어졌다",
   "romanized_title": "Namjuwa Yeojuga Heeojyeotda",
@@ -36,7 +36,7 @@
       "language": "en",
       "title": "The Main Protagonists Broke Up",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -61,10 +61,10 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "When the Male Lead and Female Lead Broke Apart",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -84,7 +84,7 @@
   ],
   "description": "I am “Villainess Belita” from a romance fantasy novel. I’ve possessed the body of a character destined for a gruesome death—one who stalks the male lead, torments the female lead, and meets a tragic end. If I want to survive, there’s only one solution: call off the engagement with the male lead before the novel begins and leave this city. After meticulous planning, I succeeded in ending the engagement and secured a diamond mine as alimony.\n\n…I thought I was finally safe— But then came the shocking news that the male and female leads had broken up. The male lead, who used to despise me, confesses his love, the female lead looks up to me like a savior, and the man who was originally destined to kill me is now flirting with me. Even a character who didn’t exist in the original story says he’ll risk his life for me. But even though the original story has turned into such a mess… what’s with this unfairness where only the events driving me to my death are still unfolding as planned? In this chaotic mess of the original story, will I… be able to survive?\n\n(Source: KakaoPage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2MvNS81LzAvZC9kLzAvZjdiNi80NDU1LzgxNTMvNDkyNTFlODE0MTVm",
-  "total_chapters": "26",
+  "total_chapters": "27",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -97,9 +97,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:59:07.074Z",
-  "mangabaka_latest_rank": 737,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:59:15.036Z",
+  "mangabaka_latest_rank": 807,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Biro",
     "Deidei",
@@ -127,7 +127,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/210195"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "when-the-male-lead-and-female-lead-broke-apart",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/when-the-male-lead-and-female-lead-broke-apart"
+    },
     "mangaupdates": {
       "id": "vncsvkr",
       "rating": 59,
@@ -136,10 +140,13 @@
   },
   "tag_ids": [
     40,
+    266,
     59,
+    74,
     108,
     36,
     94,
+    258,
     639,
     127,
     9,
@@ -148,16 +155,16 @@
     428
   ],
   "stats": {
-    "popularity": 94,
+    "popularity": 95,
     "favourites": 1,
     "meanScore": 50
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0638,
-    "fanRatioPercentile": 45.7974,
-    "popularityPercentile": 38.774,
-    "fanFavouriteDiscoveryScore": 37.8743,
-    "fanFavouriteDiscoveryPercentile": 42.217
+    "fanFavouriteRaw": 1.0526,
+    "fanRatioPercentile": 45.4865,
+    "popularityPercentile": 38.9164,
+    "fanFavouriteDiscoveryScore": 37.6942,
+    "fanFavouriteDiscoveryPercentile": 42.0374
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -198,11 +205,9 @@
     },
     "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
-      "male",
-      "lead",
-      "female",
+      "main",
+      "protagonists",
       "broke",
-      "apart",
       "namjuwa",
       "yeojuga",
       "heeojyeotda",
@@ -218,7 +223,10 @@
       "gruesome",
       "death",
       "stalks",
+      "male",
+      "lead",
       "torments",
+      "female",
       "meets",
       "tragic",
       "end",
@@ -230,10 +238,13 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Villainess",
         "Female Lead",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
         "Isekai",
+        "Isekaied Into a Novel",
         "Reincarnated in a Book World",
         "Nobility",
         "Romance",
@@ -242,12 +253,9 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "male",
-        "lead",
-        "female",
-        "lead",
+        "main",
+        "protagonists",
         "broke",
-        "apart",
         "namjuwa",
         "yeojuga",
         "heeojyeotda",
@@ -283,9 +291,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.76
+    "confidence": 0.79
   }
 }

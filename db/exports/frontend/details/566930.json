@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T17:28:39.813Z",
-  "mangabaka_latest_rank": 1495,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:26:26.354Z",
+  "mangabaka_latest_rank": 1565,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ppukon Kang"
   ],
@@ -74,7 +74,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/208593"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "huh-this-isnt-mine",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/huh-this-isnt-mine"
+    },
     "mangaupdates": {
       "id": "zdgen6s",
       "rating": 61,
@@ -101,10 +105,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 13.9782,
-    "fanFavouriteDiscoveryScore": 11.9073,
-    "fanFavouriteDiscoveryPercentile": 12.6116
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 13.9641,
+    "fanFavouriteDiscoveryScore": 11.8961,
+    "fanFavouriteDiscoveryPercentile": 12.5906
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -218,7 +222,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.46

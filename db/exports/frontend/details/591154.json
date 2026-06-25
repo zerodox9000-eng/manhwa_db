@@ -2,9 +2,9 @@
   "id": 591154,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Someone Like You (kimxion)",
-  "mangabaka_title": "Someone Like You (kimxion)",
-  "native_title": null,
+  "display_title": "Someone Like You (moozin)",
+  "mangabaka_title": "Someone Like You (moozin)",
+  "native_title": "너 같은 건",
   "romanized_title": null,
   "titles": [
     {
@@ -16,13 +16,20 @@
     },
     {
       "language": "en",
-      "title": "Someone Like You (kimxion)",
+      "title": "Someone Like You (moozin)",
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Thing Like You",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**     \n[Bomtoon](https://www.bomtoon.com/detail/_YOU), [Lezhin](https://www.lezhin.com/ko/comic/thing_like_you)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMTY5LmpwZw",
   "total_chapters": "0",
   "status": "unknown",
@@ -37,9 +44,9 @@
   },
   "first_seen_at": "2026-06-24T04:59:38.584Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-23T17:01:27.694Z",
-  "mangabaka_latest_rank": 9,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T18:02:10.141Z",
+  "mangabaka_latest_rank": 79,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "kimxion",
     "Seonmyeong"
@@ -56,7 +63,7 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "ojkdl00",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/ojkdl00"
     }
   },
@@ -76,8 +83,10 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -95,10 +104,14 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "modern-korea",
     "searchKeywords": [
       "someone",
-      "kimxion"
+      "moozin",
+      "original",
+      "webtoon",
+      "bomtoon",
+      "lezhin"
     ],
     "evidence": {
       "tags": [
@@ -108,15 +121,20 @@
       ],
       "titleTerms": [
         "someone",
-        "kimxion",
+        "moozin",
         "someone",
-        "kimxion"
+        "moozin"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "bomtoon",
+        "lezhin"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.31
+    "confidence": 0.38
   }
 }

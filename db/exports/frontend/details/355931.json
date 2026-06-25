@@ -50,9 +50,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:58:17.171Z",
-  "mangabaka_latest_rank": 2895,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:16:06.181Z",
+  "mangabaka_latest_rank": 2963,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "JayJay"
   ],
@@ -69,7 +69,11 @@
       "rating": 68,
       "url": "https://anilist.co/manga/195113"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "zero-side",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/zero-side"
+    },
     "mangaupdates": {
       "id": "2niscpn",
       "rating": 64,
@@ -84,8 +88,11 @@
     180,
     16,
     31,
+    241,
     351,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 59,
@@ -94,17 +101,19 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 31.0024,
-    "fanFavouriteDiscoveryScore": 22.5572,
-    "fanFavouriteDiscoveryPercentile": 25.0783
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 31.0111,
+    "fanFavouriteDiscoveryScore": 22.557,
+    "fanFavouriteDiscoveryPercentile": 25.0744
   },
   "context": {
     "primaryProfile": "corporate-workplace",
     "profileGroups": [
       "business-career",
       "corporate-workplace",
-      "modern-workplace"
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
     ],
     "primaryAnchors": [
       "corporate-workplace"
@@ -121,11 +130,13 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [
         "modern-urban"
       ],
-      "romanceRole": "minor",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -166,8 +177,11 @@
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Mature Romance",
         "Organized Crime",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "zero",
@@ -206,9 +220,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.67
+    "confidence": 0.84
   }
 }

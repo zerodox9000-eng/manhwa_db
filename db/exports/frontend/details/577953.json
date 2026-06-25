@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T02:54:17.292Z",
-  "mangabaka_latest_rank": 970,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:54:20.276Z",
+  "mangabaka_latest_rank": 1040,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jakyak",
     "Kkumink"
@@ -68,7 +68,11 @@
       "rating": 68,
       "url": "https://anilist.co/manga/207322"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "heavy-rain",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/heavy-rain"
+    },
     "mangaupdates": {
       "id": "1p3da59",
       "rating": 62,
@@ -79,6 +83,7 @@
     366,
     808,
     75,
+    74,
     831,
     884,
     849,
@@ -99,16 +104,16 @@
     428
   ],
   "stats": {
-    "popularity": 91,
+    "popularity": 92,
     "favourites": 3,
     "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": 3.2967,
-    "fanRatioPercentile": 89.3427,
-    "popularityPercentile": 38.2548,
-    "fanFavouriteDiscoveryScore": 73.3254,
-    "fanFavouriteDiscoveryPercentile": 81.4184
+    "fanFavouriteRaw": 3.2609,
+    "fanRatioPercentile": 89.0424,
+    "popularityPercentile": 38.451,
+    "fanFavouriteDiscoveryScore": 73.2919,
+    "fanFavouriteDiscoveryPercentile": 81.3583
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -168,6 +173,7 @@
         "Prostitution",
         "Abusive Character",
         "Based on a Novel",
+        "Based on a Web Novel",
         "Dead Family Member",
         "Death of Loved One",
         "Abuse of Power",
@@ -223,9 +229,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.57
   }
 }

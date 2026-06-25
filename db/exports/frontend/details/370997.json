@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:34:55.012Z",
-  "mangabaka_latest_rank": 2417,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T17:29:30.531Z",
+  "mangabaka_latest_rank": 2486,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Bamkkoekkori",
     "Studio Inus"
@@ -96,7 +96,11 @@
       "rating": 63,
       "url": "https://anilist.co/manga/198126"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-senior-brother-that-i-respected-had-became-a-villain",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-senior-brother-that-i-respected-had-became-a-villain"
+    },
     "mangaupdates": {
       "id": "qbahnd8",
       "rating": null,
@@ -105,6 +109,8 @@
   },
   "tag_ids": [
     58,
+    74,
+    126,
     1677,
     434,
     118,
@@ -128,7 +134,9 @@
     226,
     236,
     45,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 42,
@@ -137,10 +145,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 25.0248,
-    "fanFavouriteDiscoveryScore": 19.0454,
-    "fanFavouriteDiscoveryPercentile": 21.1696
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 25.0134,
+    "fanFavouriteDiscoveryScore": 19.034,
+    "fanFavouriteDiscoveryPercentile": 21.1522
   },
   "context": {
     "primaryProfile": "murim-wuxia",
@@ -148,6 +156,7 @@
       "chinese-murim",
       "modern-korea",
       "murim-wuxia",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -181,7 +190,7 @@
         "martial-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
     "semanticSummary": "murim-wuxia / modern-korea / murim-world / reincarnation",
@@ -221,6 +230,8 @@
     "evidence": {
       "tags": [
         "Male Lead",
+        "Based on a Web Novel",
+        "Reincarnation",
         "Master-Disciple Relationship",
         "Guideverse",
         "Omegaverse",
@@ -244,7 +255,9 @@
         "Unrequited Love",
         "Super Powers",
         "Historical",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "senior",
@@ -288,9 +301,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.98
+    "confidence": 1
   }
 }

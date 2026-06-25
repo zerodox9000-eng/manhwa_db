@@ -90,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T04:56:11.926Z",
-  "mangabaka_latest_rank": 448,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T11:16:05.976Z",
+  "mangabaka_latest_rank": 518,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hamel",
     "U-Gak"
@@ -110,7 +110,11 @@
       "rating": 73,
       "url": "https://anilist.co/manga/211365"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sand-mage-of-the-burnt-desert",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/sand-mage-of-the-burnt-desert"
+    },
     "mangaupdates": {
       "id": "2ucrf2e",
       "rating": 68,
@@ -119,6 +123,8 @@
   },
   "tag_ids": [
     58,
+    74,
+    704,
     265,
     36,
     390,
@@ -131,16 +137,16 @@
     121
   ],
   "stats": {
-    "popularity": 2157,
+    "popularity": 2164,
     "favourites": 37,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7153,
-    "fanRatioPercentile": 63.3789,
-    "popularityPercentile": 90.0756,
-    "fanFavouriteDiscoveryScore": 63.195,
-    "fanFavouriteDiscoveryPercentile": 71.6543
+    "fanFavouriteRaw": 1.7098,
+    "fanRatioPercentile": 63.2659,
+    "popularityPercentile": 90.103,
+    "fanFavouriteDiscoveryScore": 63.0828,
+    "fanFavouriteDiscoveryPercentile": 71.5223
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -199,6 +205,8 @@
     "evidence": {
       "tags": [
         "Male Lead",
+        "Based on a Web Novel",
+        "Desert",
         "Survival",
         "Fantasy",
         "Post-Apocalyptic",
@@ -250,9 +258,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.48
   }
 }

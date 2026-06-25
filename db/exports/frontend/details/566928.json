@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T17:28:39.820Z",
-  "mangabaka_latest_rank": 1496,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:11:13.942Z",
+  "mangabaka_latest_rank": 1566,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Mulgorae"
   ],
@@ -74,7 +74,11 @@
       "rating": 56,
       "url": "https://anilist.co/manga/208594"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "tattoo-alert",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/tattoo-alert"
+    },
     "mangaupdates": {
       "id": "nml09hs",
       "rating": 63,
@@ -82,13 +86,16 @@
     }
   },
   "tag_ids": [
+    247,
     1798,
+    308,
     36,
     22,
     46,
     15,
     41,
     173,
+    547,
     252,
     626,
     180,
@@ -100,16 +107,16 @@
     428
   ],
   "stats": {
-    "popularity": 16,
+    "popularity": 17,
     "favourites": 1,
     "meanScore": 56
   },
   "analytics": {
-    "fanFavouriteRaw": 6.25,
-    "fanRatioPercentile": 98.038,
-    "popularityPercentile": 11.2299,
-    "fanFavouriteDiscoveryScore": 31.8633,
-    "fanFavouriteDiscoveryPercentile": 34.6515
+    "fanFavouriteRaw": 5.8824,
+    "fanRatioPercentile": 97.7184,
+    "popularityPercentile": 11.9267,
+    "fanFavouriteDiscoveryScore": 33.0168,
+    "fanFavouriteDiscoveryPercentile": 36.3525
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -166,13 +173,16 @@
     ],
     "evidence": {
       "tags": [
+        "Non-Human Protagonist",
         "Tattoo Artist",
+        "Interspecies Relationship",
         "Fantasy",
         "Supernatural",
         "Adult",
         "Mature",
         "Smut",
         "Threesome",
+        "Non-human",
         "Vampires",
         "Werewolves",
         "Boys Love",
@@ -217,9 +227,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.54
   }
 }

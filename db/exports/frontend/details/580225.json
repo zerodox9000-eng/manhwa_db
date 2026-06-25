@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T02:08:24.244Z",
-  "mangabaka_latest_rank": 810,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:47:43.970Z",
+  "mangabaka_latest_rank": 880,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Naepilmyeong"
   ],
@@ -81,7 +81,11 @@
       "rating": 30,
       "url": "https://anilist.co/manga/213009"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "rookie-scammer-caught-a-bear",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/rookie-scammer-caught-a-bear"
+    },
     "mangaupdates": {
       "id": "ow9ynck",
       "rating": 61,
@@ -113,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 2.7636,
-    "fanFavouriteDiscoveryScore": 6.0658,
-    "fanFavouriteDiscoveryPercentile": 2.5422
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 2.7928,
+    "fanFavouriteDiscoveryScore": 6.0764,
+    "fanFavouriteDiscoveryPercentile": 2.5715
   },
   "context": {
     "primaryProfile": "business-career",
@@ -251,7 +255,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.88

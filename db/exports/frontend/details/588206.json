@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T20:39:39.497Z",
-  "mangabaka_latest_rank": 269,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:32:55.099Z",
+  "mangabaka_latest_rank": 339,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Horaengikong",
     "Se-Ra Yoo"
@@ -96,7 +96,11 @@
       "rating": 59,
       "url": "https://anilist.co/manga/212341"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "you-are-at-the-end-of-the-downfall",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/you-are-at-the-end-of-the-downfall"
+    },
     "mangaupdates": {
       "id": "oarn6dh",
       "rating": 51,
@@ -106,26 +110,30 @@
   "tag_ids": [
     43,
     2473,
+    74,
     584,
+    249,
     108,
     36,
+    1,
     31,
     9,
+    990,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 75,
+    "popularity": 76,
     "favourites": null,
     "meanScore": 59
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 34.9798,
-    "fanFavouriteDiscoveryScore": 24.534,
-    "fanFavouriteDiscoveryPercentile": 27.1471
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 35.2232,
+    "fanFavouriteDiscoveryScore": 24.639,
+    "fanFavouriteDiscoveryPercentile": 27.2949
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -200,11 +208,15 @@
       "tags": [
         "Josei",
         "Cheating Male Lead",
+        "Based on a Web Novel",
         "Time Rewind",
+        "Time Travel",
         "Heterosexual",
         "Fantasy",
+        "Sci-Fi",
         "Drama",
         "Romance",
+        "Second Chance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -249,9 +261,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.79
   }
 }

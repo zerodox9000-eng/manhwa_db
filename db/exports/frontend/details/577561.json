@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:24:37.665Z",
-  "mangabaka_latest_rank": 996,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T18:46:04.981Z",
+  "mangabaka_latest_rank": 1066,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Eun-Dong Jeong",
     "Hamong",
@@ -92,7 +92,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/208210"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-night-of-deception",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-night-of-deception"
+    },
     "mangaupdates": {
       "id": "um7tums",
       "rating": 63,
@@ -104,6 +108,7 @@
     159,
     108,
     31,
+    361,
     32,
     227,
     9,
@@ -118,10 +123,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.8462,
-    "fanRatioPercentile": 92.6788,
-    "popularityPercentile": 28.964,
-    "fanFavouriteDiscoveryScore": 62.8849,
-    "fanFavouriteDiscoveryPercentile": 71.3108
+    "fanRatioPercentile": 92.7203,
+    "popularityPercentile": 28.9355,
+    "fanFavouriteDiscoveryScore": 62.865,
+    "fanFavouriteDiscoveryPercentile": 71.2781
   },
   "context": {
     "primaryProfile": "business-career",
@@ -198,6 +203,7 @@
         "Adult Cast",
         "Heterosexual",
         "Drama",
+        "Marriage of Convenience",
         "Mystery",
         "Revenge",
         "Romance",
@@ -243,9 +249,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.76
   }
 }

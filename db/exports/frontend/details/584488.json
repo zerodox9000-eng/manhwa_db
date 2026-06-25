@@ -41,9 +41,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T17:11:27.175Z",
-  "mangabaka_latest_rank": 590,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:42:24.611Z",
+  "mangabaka_latest_rank": 660,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Spoon Comics"
   ],
@@ -60,7 +60,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/210457"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "business-triangle",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/business-triangle"
+    },
     "mangaupdates": {
       "id": "2kizaej",
       "rating": null,
@@ -86,10 +90,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 4.3286,
-    "fanFavouriteDiscoveryScore": 6.7307,
-    "fanFavouriteDiscoveryPercentile": 3.9774
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 4.3495,
+    "fanFavouriteDiscoveryScore": 6.7384,
+    "fanFavouriteDiscoveryPercentile": 3.9985
   },
   "context": {
     "primaryProfile": "business-career",
@@ -172,7 +176,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.75

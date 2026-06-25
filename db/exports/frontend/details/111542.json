@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T22:42:08.403Z",
-  "mangabaka_latest_rank": 7615,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T18:46:04.251Z",
+  "mangabaka_latest_rank": 7683,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jyeonni"
   ],
@@ -104,7 +104,11 @@
       "rating": 62,
       "url": "https://anilist.co/manga/191033"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "best-friends-for-never",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/best-friends-for-never"
+    },
     "mangaupdates": {
       "id": "3ulen9e",
       "rating": 67,
@@ -143,10 +147,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2195,
-    "fanRatioPercentile": 49.7595,
-    "popularityPercentile": 36.4532,
-    "fanFavouriteDiscoveryScore": 39.6861,
-    "fanFavouriteDiscoveryPercentile": 44.3774
+    "fanRatioPercentile": 49.8054,
+    "popularityPercentile": 36.4365,
+    "fanFavouriteDiscoveryScore": 39.7115,
+    "fanFavouriteDiscoveryPercentile": 44.3876
   },
   "context": {
     "primaryProfile": "regression-return",
@@ -275,6 +279,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

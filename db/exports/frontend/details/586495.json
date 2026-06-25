@@ -2,10 +2,10 @@
   "id": 586495,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Benevolent Curse and a Tasty Childhood Friend",
+  "display_title": "The Curse Is Kind and the Childhood Friend Is Delicious",
   "mangabaka_title": "Jeojuga Chinjeolhago Sokkupchinguga Masisseoyo",
   "native_title": "저주가 친절하고 소꿉친구가 맛있어요",
-  "romanized_title": "Jeojuga Chinjeolhago Sokkupchinguga Masisseoyo",
+  "romanized_title": "A Benevolent Curse and a Tasty Childhood Friend",
   "titles": [
     {
       "language": "ko",
@@ -17,10 +17,10 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "A Benevolent Curse and a Tasty Childhood Friend",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -57,7 +57,7 @@
       "language": "en",
       "title": "The Curse Is Kind and the Childhood Friend Is Delicious",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -84,7 +84,7 @@
   ],
   "description": "'Sex with a childhood friend... Is that possible for anyone?'\n\nEnsign Lee Seol, an S-class hunter in South Korea, has one childhood friend.\nCaptain Yeo Woogyeong, an S-class hunter who is so outstanding he even received a special promotion.\n\n\"You should suck, Seol-ah.\"\n\nBut with this foxy bastard...\nShe's been caught by a terrible curse that will kill her if she doesn't 'shamelessly' (or 'sexually') stick with him!\n\n[Kissing her childhood friend vs. Kissing her friend's 'balls']\n\nWhen she was a naive twenty-year-old, after sleeping with Woogyeong while drunk, Seol had resolved never to make trouble again.\nHowever, because of the sudden curse, Seol's resolve crumbles, and their relationship becomes even more complicated...\n\n'Are we still friends, or not?'\n\n[Original Webtoon](https://ridibooks.com/books/1746033656)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMTY4NC0zZlFoTmQ0WU1xMTEuanBn",
-  "total_chapters": "0",
+  "total_chapters": "17",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -97,9 +97,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T08:10:36.446Z",
-  "mangabaka_latest_rank": 413,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:20:41.040Z",
+  "mangabaka_latest_rank": 483,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "624"
   ],
@@ -116,7 +116,11 @@
       "rating": 85,
       "url": "https://anilist.co/manga/211684"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-benevolent-curse-and-a-tasty-childhood-friend",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-benevolent-curse-and-a-tasty-childhood-friend"
+    },
     "mangaupdates": {
       "id": "xzq5mz2",
       "rating": null,
@@ -125,6 +129,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     36,
     46,
@@ -141,10 +146,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 9.5656,
-    "fanFavouriteDiscoveryScore": 9.3257,
-    "fanFavouriteDiscoveryPercentile": 8.7564
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 9.5689,
+    "fanFavouriteDiscoveryScore": 9.3255,
+    "fanFavouriteDiscoveryPercentile": 8.7676
   },
   "context": {
     "primaryProfile": "game-system",
@@ -189,15 +194,17 @@
     },
     "semanticSummary": "game-system / modern-korea / hunter-system",
     "searchKeywords": [
-      "benevolent",
       "curse",
-      "tasty",
+      "kind",
       "childhood",
       "friend",
+      "delicious",
       "jeojuga",
       "chinjeolhago",
       "sokkupchinguga",
       "masisseoyo",
+      "benevolent",
+      "tasty",
       "sex",
       "possible",
       "anyone",
@@ -220,6 +227,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
         "Adult",
@@ -230,18 +238,18 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "benevolent",
         "curse",
-        "tasty",
+        "kind",
         "childhood",
         "friend",
+        "delicious",
         "jeojuga",
         "chinjeolhago",
         "sokkupchinguga",
         "masisseoyo",
-        "jeojuga",
-        "chinjeolhago",
-        "sokkupchinguga"
+        "benevolent",
+        "curse",
+        "tasty"
       ],
       "descriptionTerms": [
         "sex",
@@ -271,9 +279,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.67
+    "confidence": 0.68
   }
 }

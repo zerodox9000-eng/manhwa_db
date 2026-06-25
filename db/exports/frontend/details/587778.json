@@ -90,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T15:55:54.933Z",
-  "mangabaka_latest_rank": 318,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T23:46:08.166Z",
+  "mangabaka_latest_rank": 388,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Childi"
   ],
@@ -109,7 +109,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/212127"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-wolf-and-the-delinquent",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-wolf-and-the-delinquent"
+    },
     "mangaupdates": {
       "id": "2olbcps",
       "rating": null,
@@ -117,9 +121,13 @@
     }
   },
   "tag_ids": [
+    274,
+    247,
+    308,
     36,
     46,
     41,
+    547,
     180,
     16,
     9,
@@ -134,10 +142,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 13.9782,
-    "fanFavouriteDiscoveryScore": 11.9073,
-    "fanFavouriteDiscoveryPercentile": 12.6116
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 13.9641,
+    "fanFavouriteDiscoveryScore": 11.8961,
+    "fanFavouriteDiscoveryPercentile": 12.5906
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -178,9 +186,13 @@
     ],
     "evidence": {
       "tags": [
+        "Animal Characteristics",
+        "Non-Human Protagonist",
+        "Interspecies Relationship",
         "Fantasy",
         "Adult",
         "Smut",
+        "Non-human",
         "Boys Love",
         "Yaoi",
         "Romance",
@@ -202,9 +214,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.55
   }
 }

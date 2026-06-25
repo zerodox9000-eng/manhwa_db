@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T15:19:32.443Z",
-  "mangabaka_latest_rank": 2275,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T22:20:05.283Z",
+  "mangabaka_latest_rank": 2344,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Rang-Ho Eun"
   ],
@@ -97,7 +97,11 @@
       "rating": 71,
       "url": "https://anilist.co/manga/198902"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "behold-the-tiger",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/behold-the-tiger"
+    },
     "mangaupdates": {
       "id": "tftjqdx",
       "rating": 61,
@@ -118,16 +122,16 @@
     428
   ],
   "stats": {
-    "popularity": 67,
+    "popularity": 68,
     "favourites": 2,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 2.9851,
-    "fanRatioPercentile": 86.4035,
-    "popularityPercentile": 33.2239,
-    "fanFavouriteDiscoveryScore": 64.8574,
-    "fanFavouriteDiscoveryPercentile": 73.7461
+    "fanFavouriteRaw": 2.9412,
+    "fanRatioPercentile": 85.9672,
+    "popularityPercentile": 33.4681,
+    "fanFavouriteDiscoveryScore": 64.8557,
+    "fanFavouriteDiscoveryPercentile": 73.781
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -240,6 +244,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T17:14:55.678Z",
-  "mangabaka_latest_rank": 629,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:57:28.570Z",
+  "mangabaka_latest_rank": 699,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jjinppangmaen",
     "Ttokbaksa"
@@ -82,7 +82,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/210218"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "door-to-door-sales-are-here",
+      "rating": 70,
+      "url": "https://www.anime-planet.com/manga/door-to-door-sales-are-here"
+    },
     "mangaupdates": {
       "id": "6ol8fx2",
       "rating": 59,
@@ -91,6 +95,7 @@
   },
   "tag_ids": [
     2726,
+    74,
     1198,
     36,
     1,
@@ -117,10 +122,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 23.7804,
-    "fanFavouriteDiscoveryScore": 18.2539,
-    "fanFavouriteDiscoveryPercentile": 20.3756
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 23.7696,
+    "fanFavouriteDiscoveryScore": 18.243,
+    "fanFavouriteDiscoveryPercentile": 20.3663
   },
   "context": {
     "primaryProfile": "game-system",
@@ -195,6 +200,7 @@
     "evidence": {
       "tags": [
         "Sex Slave",
+        "Based on a Web Novel",
         "Mind control",
         "Fantasy",
         "Sci-Fi",
@@ -253,9 +259,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.77
+    "confidence": 0.78
   }
 }

@@ -86,7 +86,7 @@
   ],
   "description": "By imperial law, Klacie must marry to inherit her family fortune, but her meddling niece Merren keeps jeopardizing her chances. When Klacie finally finds love and ties the knot, Merren, driven by jealousy, rewinds time to steal her husband. Klacie, determined to break free from her niece’s clutches, fights back by targeting Merren’s husband. Their rivalry spirals into an intense love square, with aunt and niece vying for control of love, fate, and ultimately, each other. The question is, who will win?\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hL2UvYy9kLzMvYi9hLzUvNTUzNC80ZTgyL2E1YWMvNzMwZjNkYzdmMzdk",
-  "total_chapters": "21",
+  "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
@@ -99,9 +99,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T08:36:05.238Z",
-  "mangabaka_latest_rank": 598,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:46:33.923Z",
+  "mangabaka_latest_rank": 668,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Alpha Tart",
     "Little D",
@@ -122,7 +122,11 @@
       "rating": 63,
       "url": "https://anilist.co/manga/210311"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "husband-thief",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/husband-thief"
+    },
     "mangaupdates": {
       "id": "927wfeo",
       "rating": 63,
@@ -132,42 +136,54 @@
   "tag_ids": [
     43,
     59,
+    74,
     311,
+    249,
     108,
     36,
+    1,
     31,
+    127,
     227,
     9,
+    990,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 146,
-    "favourites": 5,
+    "popularity": 149,
+    "favourites": 6,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 3.4247,
-    "fanRatioPercentile": 90.1672,
-    "popularityPercentile": 46.7364,
-    "fanFavouriteDiscoveryScore": 81.3974,
-    "fanFavouriteDiscoveryPercentile": 88.4342
+    "fanFavouriteRaw": 4.0268,
+    "fanRatioPercentile": 93.5673,
+    "popularityPercentile": 47.1271,
+    "fanFavouriteDiscoveryScore": 84.7308,
+    "fanFavouriteDiscoveryPercentile": 91.24
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
+        "regression",
         "system"
       ],
       "conflictType": [
@@ -185,10 +201,10 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / system",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / regression / system",
     "searchKeywords": [
       "husband",
       "thief",
@@ -221,12 +237,17 @@
       "tags": [
         "Josei",
         "Female Lead",
+        "Based on a Web Novel",
         "Time Manipulation",
+        "Time Travel",
         "Heterosexual",
         "Fantasy",
+        "Sci-Fi",
         "Drama",
+        "Nobility",
         "Revenge",
         "Romance",
+        "Second Chance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -268,9 +289,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.88
   }
 }

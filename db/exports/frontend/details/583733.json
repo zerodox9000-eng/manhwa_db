@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-21T21:50:13.326Z",
-  "mangabaka_latest_rank": 645,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T22:48:27.867Z",
+  "mangabaka_latest_rank": 715,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Boksunga",
     "Manyong"
@@ -89,27 +89,43 @@
       "rating": 65,
       "url": "https://anilist.co/manga/210161"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-young-lady-and-the-scoundrels",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-young-lady-and-the-scoundrels"
+    },
     "mangaupdates": {
       "id": "3dbn6d2",
-      "rating": 63,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/3dbn6d2"
     }
   },
   "tag_ids": [
     43,
     59,
+    2006,
+    2134,
+    2124,
+    74,
+    595,
     20,
     164,
+    165,
+    2718,
     108,
+    2879,
+    985,
     46,
     41,
     100,
     731,
     655,
+    95,
     31,
+    776,
     9,
     45,
+    769,
     93,
     57,
     428
@@ -121,10 +137,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 5.2632,
-    "fanRatioPercentile": 96.7936,
-    "popularityPercentile": 13.3216,
-    "fanFavouriteDiscoveryScore": 35.2668,
-    "fanFavouriteDiscoveryPercentile": 39.0411
+    "fanRatioPercentile": 96.818,
+    "popularityPercentile": 13.3003,
+    "fanFavouriteDiscoveryScore": 35.2358,
+    "fanFavouriteDiscoveryPercentile": 39.008
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -135,10 +151,14 @@
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -146,12 +166,15 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban",
+        "fantasy-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "modern-korea / modern-korea / reincarnation",
     "searchKeywords": [
       "lady",
       "scoundrels",
@@ -181,17 +204,29 @@
       "tags": [
         "Josei",
         "Female Lead",
+        "Horny Female Lead",
+        "Married Female Lead",
+        "Virgin Female Lead",
+        "Based on a Web Novel",
+        "South Korea",
         "Harem",
         "Male Harem",
+        "Reverse Harem",
+        "Multiple Sexual Partners",
         "Heterosexual",
+        "Reverse Isekai",
+        "Dubious Consent",
         "Adult",
         "Smut",
         "Anal Intercourse",
         "Cervix Penetration",
         "Double/Multiple Penetration",
+        "Rape",
         "Drama",
+        "Korean Folklore",
         "Romance",
         "Historical",
+        "Ancient Korea",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -232,9 +267,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.58
+    "confidence": 0.66
   }
 }

@@ -60,9 +60,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-10T15:50:09.308Z",
+  "last_updated_at": "2026-06-24T20:07:35.142Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Kkongte"
   ],
@@ -87,11 +87,13 @@
     }
   },
   "tag_ids": [
+    1856,
     38,
     2261,
     39,
     31,
     29,
+    30,
     93,
     57,
     428
@@ -107,18 +109,23 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "sports-career",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "sports-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "sports-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "sports"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "revenge",
@@ -135,7 +142,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "sports-career / modern-korea",
     "searchKeywords": [
       "octagon",
       "revenge",
@@ -164,11 +171,13 @@
     ],
     "evidence": {
       "tags": [
+        "Hand to Hand Combat",
         "Shounen",
         "Muscular Female Lead",
         "Action",
         "Drama",
         "Martial Arts",
+        "Sports",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -210,6 +219,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.61
   }
 }

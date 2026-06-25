@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T08:56:02.061Z",
-  "mangabaka_latest_rank": 740,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:16:06.739Z",
+  "mangabaka_latest_rank": 810,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Rookies"
   ],
@@ -67,7 +67,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/209906"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "garden-flora",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/garden-flora"
+    },
     "mangaupdates": {
       "id": "kysksm0",
       "rating": null,
@@ -92,10 +96,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 3.527,
-    "fanFavouriteDiscoveryScore": 6.3837,
-    "fanFavouriteDiscoveryPercentile": 3.2445
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 3.5101,
+    "fanFavouriteDiscoveryScore": 6.3751,
+    "fanFavouriteDiscoveryPercentile": 3.2278
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -218,7 +222,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

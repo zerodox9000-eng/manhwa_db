@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T07:39:46.146Z",
-  "mangabaka_latest_rank": 6871,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:16:32.977Z",
+  "mangabaka_latest_rank": 6939,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Diction"
   ],
@@ -83,7 +83,11 @@
       "rating": 74,
       "url": "https://anilist.co/manga/190916"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "when-the-violets-bloom",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/when-the-violets-bloom"
+    },
     "mangaupdates": {
       "id": "iya463h",
       "rating": 65,
@@ -126,10 +130,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.0979,
-    "fanRatioPercentile": 72.3261,
-    "popularityPercentile": 46.3089,
-    "fanFavouriteDiscoveryScore": 65.0621,
-    "fanFavouriteDiscoveryPercentile": 74.0973
+    "fanRatioPercentile": 72.3388,
+    "popularityPercentile": 46.3106,
+    "fanFavouriteDiscoveryScore": 65.0744,
+    "fanFavouriteDiscoveryPercentile": 74.071
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -262,6 +266,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

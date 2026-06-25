@@ -20,13 +20,20 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "At the End of the Blue Twilight",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5NzYzLmpwZw",
+  "description": "Ja-Yoon willingly becomes a blade to exact revenge for her master, Cheong-Un. However, everything changes when the Prince appears before her while she is participating in the Emperor's imperial concubine selection. The Prince, suspicious of Ja-Yoon's identity, stands in her way, while her master Cheong-Un is forced to watch from afar. In this journey of vengeance to bring down the Emperor, a bitter and cruel tale of love and obsession between three people begins!\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69500840), [Daum](https://webtoon.kakao.com/content/%ED%91%B8%EB%A5%B8-%EB%AF%B8%EB%AA%85-%EB%81%9D%EC%97%90%EC%84%9C/4724)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMjk0LmpwZw",
   "total_chapters": "0",
   "status": "unknown",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
@@ -37,9 +44,9 @@
   },
   "first_seen_at": "2026-06-20T05:04:28.731Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-23T19:50:23.569Z",
-  "mangabaka_latest_rank": 40,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:44:03.801Z",
+  "mangabaka_latest_rank": 110,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "ALIC"
   ],
@@ -61,6 +68,8 @@
   },
   "tag_ids": [
     43,
+    41,
+    31,
     9,
     45
   ],
@@ -75,22 +84,32 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
+      "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [],
       "tone": [
+        "tense",
         "warm"
       ],
       "worldType": [],
@@ -98,15 +117,39 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "end",
       "blue",
-      "dawn"
+      "dawn",
+      "ja-yoon",
+      "willingly",
+      "becomes",
+      "blade",
+      "exact",
+      "revenge",
+      "master",
+      "cheong-un",
+      "however",
+      "everything",
+      "changes",
+      "prince",
+      "appears",
+      "before",
+      "while",
+      "participating",
+      "emperor",
+      "imperial",
+      "concubine",
+      "selection",
+      "suspicious",
+      "identity"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Smut",
+        "Drama",
         "Romance",
         "Historical"
       ],
@@ -118,11 +161,36 @@
         "blue",
         "dawn"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "ja-yoon",
+        "willingly",
+        "becomes",
+        "blade",
+        "exact",
+        "revenge",
+        "master",
+        "cheong-un",
+        "however",
+        "everything",
+        "changes",
+        "prince",
+        "appears",
+        "before",
+        "while",
+        "participating",
+        "emperor",
+        "imperial",
+        "concubine",
+        "selection",
+        "prince",
+        "suspicious",
+        "ja-yoon",
+        "identity"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.7
   }
 }

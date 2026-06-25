@@ -106,9 +106,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T10:27:01.697Z",
+  "last_updated_at": "2026-06-24T12:40:36.747Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Karin Park",
     "Sisse"
@@ -143,11 +143,16 @@
     266,
     59,
     74,
+    732,
+    126,
     308,
+    108,
     36,
     94,
     258,
+    547,
     626,
+    6,
     359,
     1035,
     241,
@@ -162,16 +167,16 @@
     428
   ],
   "stats": {
-    "popularity": 671,
+    "popularity": 674,
     "favourites": 11,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 1.6393,
-    "fanRatioPercentile": 61.4322,
-    "popularityPercentile": 74.8072,
-    "fanFavouriteDiscoveryScore": 60.8007,
-    "fanFavouriteDiscoveryPercentile": 68.8984
+    "fanFavouriteRaw": 1.632,
+    "fanRatioPercentile": 61.2056,
+    "popularityPercentile": 74.9027,
+    "fanFavouriteDiscoveryScore": 60.5814,
+    "fanFavouriteDiscoveryPercentile": 68.7371
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -179,6 +184,7 @@
       "euro-fantasy",
       "euro-romance",
       "modern-korea",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -199,13 +205,14 @@
       ],
       "progressionType": [],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
     "semanticSummary": "euro-fantasy / kingdom-fantasy / reincarnation",
@@ -248,11 +255,16 @@
         "Villainess",
         "Female Lead",
         "Based on a Web Novel",
+        "Shapeshifting",
+        "Reincarnation",
         "Interspecies Relationship",
+        "Heterosexual",
         "Fantasy",
         "Isekai",
         "Isekaied Into a Novel",
+        "Non-human",
         "Werewolves",
+        "Comedy",
         "Arranged Marriage",
         "Married Life",
         "Mature Romance",
@@ -309,6 +321,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.87
+    "confidence": 0.96
   }
 }

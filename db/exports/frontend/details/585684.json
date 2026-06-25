@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T07:25:02.561Z",
-  "mangabaka_latest_rank": 503,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T04:36:05.182Z",
+  "mangabaka_latest_rank": 573,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Arahwi",
     "Marillin"
@@ -89,7 +89,11 @@
       "rating": 90,
       "url": "https://anilist.co/manga/212696"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "an-unending-marriage",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/an-unending-marriage"
+    },
     "mangaupdates": {
       "id": "lam8mto",
       "rating": 62,
@@ -98,6 +102,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
@@ -114,10 +119,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 1.3742,
-    "fanFavouriteDiscoveryScore": 5.5185,
-    "fanFavouriteDiscoveryPercentile": 1.2902
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 1.404,
+    "fanFavouriteDiscoveryScore": 5.5287,
+    "fanFavouriteDiscoveryPercentile": 1.3201
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -191,6 +196,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Adult",
         "Smut",
@@ -238,7 +244,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

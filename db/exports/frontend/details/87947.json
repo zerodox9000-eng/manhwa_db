@@ -23,9 +23,9 @@
     }
   ],
   "description": "**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/bust_out), [Bomtoon](https://www.bomtoon.com/detail/bust_out)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDU5NzkzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2J1cnN0LW91dC0xLndlYnA_dD0xNzcwNjU1MDM3",
   "total_chapters": "17",
-  "status": "hiatus",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2024,
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T21:14:34.431Z",
+  "last_updated_at": "2026-06-25T01:39:48.013Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Jo Nan-pa"
   ],
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "burst-out",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/burst-out"
+    },
     "mangaupdates": {
       "id": "vzlsl23",
       "rating": 62,
@@ -66,8 +70,12 @@
     1693,
     15,
     95,
+    180,
     16,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -119,8 +127,12 @@
         "Contractual Relationship",
         "Mature",
         "Rape",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "burst",
@@ -133,9 +145,10 @@
         "bomtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.47
   }
 }

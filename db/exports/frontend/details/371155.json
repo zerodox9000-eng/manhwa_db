@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T20:03:00.212Z",
-  "mangabaka_latest_rank": 2405,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T21:40:01.687Z",
+  "mangabaka_latest_rank": 2474,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "23"
   ],
@@ -90,7 +90,11 @@
       "rating": 74,
       "url": "https://anilist.co/manga/198145"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sweeten-the-deal-believe-in-love",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/sweeten-the-deal-believe-in-love"
+    },
     "mangaupdates": {
       "id": "0ngf7jo",
       "rating": 68,
@@ -138,16 +142,16 @@
     428
   ],
   "stats": {
-    "popularity": 187,
+    "popularity": 188,
     "favourites": 2,
     "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0695,
-    "fanRatioPercentile": 45.9043,
-    "popularityPercentile": 51.1184,
-    "fanFavouriteDiscoveryScore": 42.7104,
-    "fanFavouriteDiscoveryPercentile": 48.1869
+    "fanFavouriteRaw": 1.0638,
+    "fanRatioPercentile": 45.8604,
+    "popularityPercentile": 51.2629,
+    "fanFavouriteDiscoveryScore": 42.7051,
+    "fanFavouriteDiscoveryPercentile": 48.1648
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -298,6 +302,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

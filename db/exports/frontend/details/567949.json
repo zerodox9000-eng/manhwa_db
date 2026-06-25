@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:01:35.257Z",
-  "mangabaka_latest_rank": 1406,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T17:16:03.960Z",
+  "mangabaka_latest_rank": 1476,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Goldman"
   ],
@@ -88,7 +88,11 @@
       "rating": 61,
       "url": "https://anilist.co/manga/203237"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "female-recruit-training-corps",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/female-recruit-training-corps"
+    },
     "mangaupdates": {
       "id": "cs86oyr",
       "rating": 64,
@@ -98,6 +102,7 @@
   "tag_ids": [
     8,
     58,
+    2093,
     20,
     46,
     21,
@@ -106,6 +111,7 @@
     41,
     109,
     31,
+    230,
     9,
     93,
     57,
@@ -118,10 +124,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.6217,
-    "fanRatioPercentile": 81.5635,
-    "popularityPercentile": 58.1495,
-    "fanFavouriteDiscoveryScore": 78.3043,
-    "fanFavouriteDiscoveryPercentile": 85.7394
+    "fanRatioPercentile": 81.6101,
+    "popularityPercentile": 58.1381,
+    "fanFavouriteDiscoveryScore": 78.3461,
+    "fanFavouriteDiscoveryPercentile": 85.8069
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -190,6 +196,7 @@
       "tags": [
         "Seinen",
         "Male Lead",
+        "Military School",
         "Harem",
         "Adult",
         "Ecchi",
@@ -198,6 +205,7 @@
         "Smut",
         "Nudity",
         "Drama",
+        "Military",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -243,9 +251,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.58
   }
 }

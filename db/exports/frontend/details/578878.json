@@ -134,9 +134,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:04:05.119Z",
-  "mangabaka_latest_rank": 913,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:49:34.170Z",
+  "mangabaka_latest_rank": 983,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Bonita",
     "Milbeom"
@@ -151,10 +151,14 @@
   "source": {
     "anilist": {
       "id": 207784,
-      "rating": 72,
+      "rating": 71,
       "url": "https://anilist.co/manga/207784"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "full-service-moving",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/full-service-moving"
+    },
     "mangaupdates": {
       "id": "x2b8aif",
       "rating": 68,
@@ -186,16 +190,16 @@
     428
   ],
   "stats": {
-    "popularity": 131,
+    "popularity": 134,
     "favourites": 4,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 3.0534,
-    "fanRatioPercentile": 87.2586,
-    "popularityPercentile": 44.8355,
-    "fanFavouriteDiscoveryScore": 77.4782,
-    "fanFavouriteDiscoveryPercentile": 84.976
+    "fanFavouriteRaw": 2.9851,
+    "fanRatioPercentile": 86.3945,
+    "popularityPercentile": 45.1431,
+    "fanFavouriteDiscoveryScore": 76.9292,
+    "fanFavouriteDiscoveryPercentile": 84.5021
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -334,6 +338,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

@@ -2,7 +2,7 @@
   "id": 567181,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Sinimugidam",
+  "display_title": "The Tale of Shinimu",
   "mangabaka_title": "Sinimugidam",
   "native_title": "신이무기담",
   "romanized_title": "Sinimugidam",
@@ -33,16 +33,16 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "The Tale of Shinimu",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
   "description": "Kang Min-Seok, the youngest kitchen staff member at the restaurant Black Hundred, is unexpectedly asked out on a date by designer Yun Ji-Ho at a broadcasting station where he's working as a food styling assistant. Min-Seok, entranced by Ji-Ho, who resembles his favorite, shares a meal with him and is drawn into Ji-Ho's strange power, ending up spending the night with him at a hotel. Ji-Ho, confused, demands, \"Give me back the energy you stole.\" Min-Seok, who hurriedly flees, is suddenly attacked by Hee-Gong, the owner of the restaurant and his close friend of 10 years. Min-Seok learns that these monsters are approximately 1,000-year-old demons who need the energy he carries in their stomach to ascend to heaven and become dragons... ?!\n\n(Source: Ridibooks, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMzI1Ni1oOEhCMTNpcEM1Y2kuanBn",
-  "total_chapters": "19",
+  "total_chapters": "28",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T20:55:01.365Z",
-  "mangabaka_latest_rank": 1466,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T23:36:07.526Z",
+  "mangabaka_latest_rank": 1536,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Body Suyeom"
   ],
@@ -74,7 +74,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/203256"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-tale-of-shinimu",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-tale-of-shinimu"
+    },
     "mangaupdates": {
       "id": "oxm08tb",
       "rating": 62,
@@ -88,10 +92,12 @@
     46,
     41,
     95,
+    368,
     39,
     180,
     16,
     31,
+    773,
     93,
     57,
     428
@@ -103,10 +109,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 6.2677,
-    "fanFavouriteDiscoveryScore": 7.626,
-    "fanFavouriteDiscoveryPercentile": 5.7791
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 6.2648,
+    "fanFavouriteDiscoveryScore": 7.623,
+    "fanFavouriteDiscoveryPercentile": 5.7688
   },
   "context": {
     "primaryProfile": "food-career",
@@ -139,6 +145,8 @@
     },
     "semanticSummary": "food-career",
     "searchKeywords": [
+      "tale",
+      "shinimu",
       "sinimugidam",
       "kang",
       "min-seok",
@@ -171,16 +179,19 @@
         "Adult",
         "Smut",
         "Rape",
+        "Youkai",
         "Action",
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Japanese Folklore",
         "Longstrip",
         "Full Color",
         "Web Comic"
       ],
       "titleTerms": [
-        "sinimugidam",
+        "tale",
+        "shinimu",
         "sinimugidam",
         "sinimugidam"
       ],
@@ -212,9 +223,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.64
+    "confidence": 0.66
   }
 }

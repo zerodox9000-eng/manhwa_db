@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T04:31:58.109Z",
+  "last_updated_at": "2026-06-25T03:45:45.945Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "RISA LISA"
   ],
@@ -74,7 +74,11 @@
       "rating": 10,
       "url": "https://anilist.co/manga/200453"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "darling-honey",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/darling-honey"
+    },
     "mangaupdates": {
       "id": "tuv1p63",
       "rating": 62,
@@ -99,10 +103,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 11.9322,
-    "fanFavouriteDiscoveryScore": 10.6716,
-    "fanFavouriteDiscoveryPercentile": 10.7947
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 11.9267,
+    "fanFavouriteDiscoveryScore": 10.6661,
+    "fanFavouriteDiscoveryPercentile": 10.7821
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -159,7 +163,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.44

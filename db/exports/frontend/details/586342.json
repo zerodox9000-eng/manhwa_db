@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:02:24.168Z",
-  "mangabaka_latest_rank": 427,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T16:22:35.961Z",
+  "mangabaka_latest_rank": 497,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Ro-Ju"
   ],
@@ -88,7 +88,11 @@
       "rating": 76,
       "url": "https://anilist.co/manga/211685"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "not-you-but-your-roommate",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/not-you-but-your-roommate"
+    },
     "mangaupdates": {
       "id": "1tl7qyb",
       "rating": 66,
@@ -113,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 19.6351,
-    "fanFavouriteDiscoveryScore": 15.5474,
-    "fanFavouriteDiscoveryPercentile": 17.2227
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 19.6566,
+    "fanFavouriteDiscoveryScore": 15.5582,
+    "fanFavouriteDiscoveryPercentile": 17.2301
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -215,7 +219,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.51

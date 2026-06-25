@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T03:20:32.899Z",
-  "mangabaka_latest_rank": 1059,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T02:41:43.806Z",
+  "mangabaka_latest_rank": 1129,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Chakhansaenggak"
   ],
@@ -81,7 +81,11 @@
       "rating": 59,
       "url": "https://anilist.co/manga/206433"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-story-on-my-stepsisters-secret-account",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/my-story-on-my-stepsisters-secret-account"
+    },
     "mangaupdates": {
       "id": "u31cekc",
       "rating": 65,
@@ -102,16 +106,16 @@
     428
   ],
   "stats": {
-    "popularity": 108,
+    "popularity": 109,
     "favourites": 2,
     "meanScore": 59
   },
   "analytics": {
-    "fanFavouriteRaw": 1.8519,
-    "fanRatioPercentile": 66.7532,
-    "popularityPercentile": 41.4383,
-    "fanFavouriteDiscoveryScore": 57.1741,
-    "fanFavouriteDiscoveryPercentile": 65.379
+    "fanFavouriteRaw": 1.8349,
+    "fanRatioPercentile": 66.3487,
+    "popularityPercentile": 41.5795,
+    "fanFavouriteDiscoveryScore": 56.9233,
+    "fanFavouriteDiscoveryPercentile": 65.2194
   },
   "context": {
     "primaryProfile": null,
@@ -217,7 +221,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.39

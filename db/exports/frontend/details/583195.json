@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Climax Training App - Humiliation Play Edition",
-  "mangabaka_title": "Climax Training App - Humiliation Play Edition",
+  "mangabaka_title": "Climax Training App: Humiliation Play Edition",
   "native_title": "절정 조교 어플 - 수치플 편",
   "romanized_title": null,
   "titles": [
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T20:31:13.654Z",
-  "mangabaka_latest_rank": 690,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:27:38.162Z",
+  "mangabaka_latest_rank": 760,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gukdo",
     "Wangnya"
@@ -53,7 +53,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "climax-training-app-humiliation-play-edition",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/climax-training-app-humiliation-play-edition"
+    },
     "mangaupdates": {
       "id": "o8ilko0",
       "rating": null,
@@ -61,11 +65,16 @@
     }
   },
   "tag_ids": [
+    74,
     46,
     21,
     15,
     41,
-    16
+    180,
+    16,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -114,11 +123,16 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Adult",
         "Ecchi",
         "Mature",
         "Smut",
-        "Yaoi"
+        "Boys Love",
+        "Yaoi",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "climax",
@@ -139,9 +153,10 @@
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.45
   }
 }

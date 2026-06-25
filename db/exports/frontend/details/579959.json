@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T10:07:38.278Z",
-  "mangabaka_latest_rank": 841,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T23:16:07.824Z",
+  "mangabaka_latest_rank": 911,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Buhyeon Hwang"
   ],
@@ -88,7 +88,11 @@
       "rating": 75,
       "url": "https://anilist.co/manga/208338"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "would-you-like-to-have-sex-with-the-bartender",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/would-you-like-to-have-sex-with-the-bartender"
+    },
     "mangaupdates": {
       "id": "s74z0z2",
       "rating": 63,
@@ -113,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5749,
-    "popularityPercentile": 20.6733,
-    "fanFavouriteDiscoveryScore": 16.2303,
-    "fanFavouriteDiscoveryPercentile": 17.9556
+    "fanRatioPercentile": 31.5681,
+    "popularityPercentile": 20.6715,
+    "fanFavouriteDiscoveryScore": 16.2256,
+    "fanFavouriteDiscoveryPercentile": 17.9473
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -216,7 +220,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.51

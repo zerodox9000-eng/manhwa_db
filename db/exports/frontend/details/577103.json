@@ -127,9 +127,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:48:30.681Z",
-  "mangabaka_latest_rank": 1044,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T10:46:05.822Z",
+  "mangabaka_latest_rank": 1114,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Hui-Bin Sin",
     "Korita"
@@ -147,7 +147,11 @@
       "rating": 74,
       "url": "https://anilist.co/manga/206766"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "theres-no-such-thing-as-a-bad-lady",
+      "rating": 82,
+      "url": "https://www.anime-planet.com/manga/theres-no-such-thing-as-a-bad-lady"
+    },
     "mangaupdates": {
       "id": "fx9ewqq",
       "rating": 68,
@@ -158,9 +162,12 @@
     1093,
     58,
     2536,
+    74,
+    1064,
     126,
     670,
     36,
+    94,
     39,
     37,
     6,
@@ -174,16 +181,16 @@
     121
   ],
   "stats": {
-    "popularity": 3555,
+    "popularity": 3583,
     "favourites": 66,
     "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 1.8565,
-    "fanRatioPercentile": 66.7685,
-    "popularityPercentile": 93.9079,
-    "fanFavouriteDiscoveryScore": 66.6276,
-    "fanFavouriteDiscoveryPercentile": 75.5554
+    "fanFavouriteRaw": 1.842,
+    "fanRatioPercentile": 66.4784,
+    "popularityPercentile": 93.9641,
+    "fanFavouriteDiscoveryScore": 66.3388,
+    "fanFavouriteDiscoveryPercentile": 75.2919
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -257,9 +264,12 @@
         "Calm Protagonist",
         "Male Lead",
         "Commoner Male Lead",
+        "Based on a Web Novel",
+        "Weak to Strong",
         "Reincarnation",
         "Mages",
         "Fantasy",
+        "Isekai",
         "Action",
         "Adventure",
         "Comedy",
@@ -315,9 +325,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.78
   }
 }

@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T03:31:11.572Z",
-  "mangabaka_latest_rank": 477,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T03:32:11.818Z",
+  "mangabaka_latest_rank": 547,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Abaringgo",
     "Ttingjini"
@@ -89,7 +89,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/211237"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-sex-partners-were-actually-family",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/my-sex-partners-were-actually-family"
+    },
     "mangaupdates": {
       "id": "hon6t7i",
       "rating": 64,
@@ -99,6 +103,7 @@
   "tag_ids": [
     8,
     58,
+    74,
     755,
     20,
     231,
@@ -113,16 +118,16 @@
     428
   ],
   "stats": {
-    "popularity": 281,
-    "favourites": 6,
+    "popularity": 284,
+    "favourites": 7,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1352,
-    "fanRatioPercentile": 73.1354,
-    "popularityPercentile": 59.0503,
-    "fanFavouriteDiscoveryScore": 70.4164,
-    "fanFavouriteDiscoveryPercentile": 78.6472
+    "fanFavouriteRaw": 2.4648,
+    "fanRatioPercentile": 79.2903,
+    "popularityPercentile": 59.2217,
+    "fanFavouriteDiscoveryScore": 76.3829,
+    "fanFavouriteDiscoveryPercentile": 84.0595
   },
   "context": {
     "primaryProfile": null,
@@ -180,6 +185,7 @@
       "tags": [
         "Seinen",
         "Male Lead",
+        "Based on a Web Novel",
         "Inseki",
         "Harem",
         "Infidelity",
@@ -235,9 +241,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.42
+    "confidence": 0.43
   }
 }

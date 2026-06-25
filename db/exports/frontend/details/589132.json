@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T20:55:49.470Z",
-  "mangabaka_latest_rank": 187,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T20:56:07.248Z",
+  "mangabaka_latest_rank": 257,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Geonjin",
     "Pitsu"
@@ -89,7 +89,11 @@
       "rating": 61,
       "url": "https://anilist.co/manga/212674"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-seventh-prince-wants-to-bail",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/the-seventh-prince-wants-to-bail"
+    },
     "mangaupdates": {
       "id": "vmz45lc",
       "rating": 63,
@@ -99,24 +103,28 @@
   "tag_ids": [
     38,
     58,
+    74,
     36,
+    94,
+    258,
     39,
     31,
+    128,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 353,
+    "popularity": 359,
     "favourites": 3,
     "meanScore": 61
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8499,
-    "fanRatioPercentile": 39.8504,
-    "popularityPercentile": 63.5163,
-    "fanFavouriteDiscoveryScore": 38.8173,
-    "fanFavouriteDiscoveryPercentile": 43.3621
+    "fanFavouriteRaw": 0.8357,
+    "fanRatioPercentile": 39.5651,
+    "popularityPercentile": 63.823,
+    "fanFavouriteDiscoveryScore": 38.5646,
+    "fanFavouriteDiscoveryPercentile": 43.0828
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -135,7 +143,9 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [],
       "progressionType": [],
       "tone": [],
@@ -146,7 +156,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "seventh",
       "prince",
@@ -182,9 +192,13 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Based on a Web Novel",
         "Fantasy",
+        "Isekai",
+        "Isekaied Into a Novel",
         "Action",
         "Drama",
+        "Royalty",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -229,9 +243,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.63
   }
 }

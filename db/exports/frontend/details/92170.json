@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-16T19:59:29.123Z",
-  "mangabaka_latest_rank": 8520,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-24T19:44:07.313Z",
+  "mangabaka_latest_rank": 8588,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Writing Ghost"
   ],
@@ -66,6 +66,8 @@
   "tag_ids": [
     43,
     74,
+    1205,
+    411,
     46,
     15,
     6,
@@ -85,9 +87,10 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "corporate-workplace",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
       "business-career",
+      "business-career-regression",
       "corporate-workplace",
       "horror-survival",
       "korean-business",
@@ -97,6 +100,7 @@
       "romance-core"
     ],
     "primaryAnchors": [
+      "business-career-regression",
       "corporate-workplace",
       "horror-survival",
       "korean-business"
@@ -110,22 +114,28 @@
       "protagonistRole": [
         "executive"
       ],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [
         "comedic",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "semanticSummary": "business-career-regression / modern-korea / corporate-workplace",
     "searchKeywords": [
       "dangerous",
       "president",
@@ -153,6 +163,8 @@
       "tags": [
         "Josei",
         "Based on a Web Novel",
+        "Company",
+        "CEOs",
         "Adult",
         "Mature",
         "Comedy",

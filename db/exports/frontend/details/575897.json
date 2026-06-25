@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T01:02:03.016Z",
-  "mangabaka_latest_rank": 1104,
-  "mangabaka_latest_snapshot_at": "2026-06-24T05:19:29.499Z",
+  "last_updated_at": "2026-06-25T01:02:25.601Z",
+  "mangabaka_latest_rank": 1174,
+  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
   "authors": [
     "Gwabaekdongharabeoji"
   ],
@@ -104,7 +104,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/206899"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "open-up",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/open-up"
+    },
     "mangaupdates": {
       "id": "2gdlgsd",
       "rating": 66,
@@ -128,16 +132,16 @@
     428
   ],
   "stats": {
-    "popularity": 119,
+    "popularity": 120,
     "favourites": 2,
     "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": 1.6807,
-    "fanRatioPercentile": 62.3941,
-    "popularityPercentile": 43.2247,
-    "fanFavouriteDiscoveryScore": 54.5227,
-    "fanFavouriteDiscoveryPercentile": 62.7071
+    "fanFavouriteRaw": 1.6667,
+    "fanRatioPercentile": 62.1976,
+    "popularityPercentile": 43.4109,
+    "fanFavouriteDiscoveryScore": 54.4569,
+    "fanFavouriteDiscoveryPercentile": 62.686
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -249,6 +253,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
