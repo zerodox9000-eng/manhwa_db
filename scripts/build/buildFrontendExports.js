@@ -399,13 +399,20 @@ function buildRecommendationFeature(entry, tagDocumentCounts, textDocumentFreque
       "food-career"
     ].includes(group)
   );
+  const context = buildSemanticContext(entry, profileGroups, primaryAnchors);
   return {
     id: entry.id,
     profileGroups,
     primaryAnchors,
-    context: buildSemanticContext(entry, profileGroups, primaryAnchors),
+    context,
     tagFeatures,
     textFeatures: buildTextFeatures(entry, textDocumentFrequencies, totalDocuments),
+    ranking: {
+      defaultOrder: ["fitScore", "fanRankPercentile", "popularityPercentile"],
+      fitScore: Number(context.confidence.toFixed(4)),
+      fanRankPercentile: entry.analytics?.fanFavouriteDiscoveryPercentile ?? null,
+      popularityPercentile: entry.analytics?.popularityPercentile ?? null
+    },
     quality: {
       discPct: entry.analytics?.fanFavouriteDiscoveryPercentile ?? null,
       fanPct: entry.analytics?.fanFavouriteRaw ?? null,
