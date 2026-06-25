@@ -152,6 +152,9 @@ The pipeline is currently organized as:
 - `scripts/build/buildFrontendExports.js`
 - `scripts/build/buildFrontendV2Exports.js`
 - `docs/recommendation-taxonomy-research.md`
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.log`
+- `db/updates/changelog/`
+- `db/state/`
 
 ## Old Vs New In One Sentence
 

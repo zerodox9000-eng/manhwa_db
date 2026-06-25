@@ -211,3 +211,16 @@ These are common across many families and should not be treated as family anchor
 - Compare 99%+ versus 90-99% to see which tag relations remain stable.
 - Build an overlap map rather than forcing one tag to own a trope.
 
+## Logs To Use
+
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.log`
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.progress.jsonl`
+- `db/updates/changelog/`
+- `db/state/`
+
+Use these to confirm:
+- scrape completeness
+- failed titles
+- timing / batch behavior
+- whether a weight export actually matches the catalog snapshot used for analysis
+

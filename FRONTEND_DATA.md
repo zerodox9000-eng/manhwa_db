@@ -74,6 +74,12 @@ Used for:
 
 Prefer the compressed `.json.gz` version when available.
 
+Related log file:
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.log`
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.progress.jsonl`
+
+These logs are useful when you need to check scrape health, failed titles, or how complete the weight export was.
+
 ---
 
 ### recommendations/features.json
@@ -128,3 +134,9 @@ The v2 contract is designed so the frontend can:
 - validate a complete build before switching data
 - load catalog entries without loading all details
 - keep legacy and new loading logic separate
+
+## Agent Notes
+
+- Read the logs before assuming a data export is complete or correct.
+- Use the progress log when you need per-title scrape status.
+- Use the summary log when you need a quick health check.
