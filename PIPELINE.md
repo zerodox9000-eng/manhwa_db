@@ -24,6 +24,7 @@ Purpose:
 - enable scalable daily syncing
 
 This is the legacy daily collection path. It still powers the old export contract.
+Current MangaBaka coverage starts at 2013 and runs through the current year.
 
 
 ---
@@ -112,3 +113,4 @@ update
 → build frontend
 
 `npm run daily:incremental` is the current scheduled workflow entrypoint in GitHub Actions.
+That incremental path now includes 2013 onward, so the daily job and the local backfill stay aligned.

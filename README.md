@@ -51,6 +51,7 @@ What each step does:
 
 - `incremental`
   - Pulls MangaBaka search results year by year.
+  - Coverage currently starts at 2013 and runs through the current year.
   - Updates raw yearly files.
   - Writes per-day changelog entries.
 
@@ -69,6 +70,10 @@ What each step does:
   - Builds the legacy frontend export folder.
   - Produces the big catalog, history, recommendation, tag, and detail files.
   - Gzips the main export artifacts.
+
+Note:
+
+- The MangaBaka fetch/update scripts include 2013 onward, so the raw yearly store and daily incremental runs stay aligned.
 
 ## V2 Pipeline
 

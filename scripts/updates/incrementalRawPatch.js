@@ -69,7 +69,7 @@ const CHANGELOG_DIR =
     "../../db/updates/changelog"
   );
 
-const YEARS = Array.from({ length: new Date().getFullYear() - 2013 }, (_, i) => 2014 + i);
+const YEARS = Array.from({ length: new Date().getFullYear() - 2012 }, (_, i) => 2013 + i);
 
 let dynamicDelay = 25;
 
