@@ -86,10 +86,33 @@ What it does differently:
 - Separates catalog, tags, and details more cleanly.
 - Uses explicit release metadata and source flags for frontend logic.
 
+## Recommendation Data
+
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.json`
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.json.gz`
+- `db/exports/frontend/recommendations/features.json`
+
+The tag-weight file is the raw MangaBaka-derived mapping that the frontend can use to build recommendation signals. The recommendation features file is the precomputed, frontend-ready layer when you want the backend to do more of the math ahead of time.
+
+The frontend should not scrape MangaBaka directly. It should consume the exported weights and then run the final scoring/ranking logic on top of them.
+
 ## Daily Workflow
+## Recommendation Data
+
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.json`
+- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.json.gz`
+- `db/exports/frontend/recommendations/features.json`
+
+The tag-weight file is the raw MangaBaka-derived mapping that the frontend can use to build recommendation signals. The recommendation features file is the precomputed, frontend-ready layer when you want the backend to do more of the math ahead of time.
+
+The frontend should not scrape MangaBaka directly. It should consume the exported weights and then run the final scoring/ranking logic on top of them.
+
+---
+>>>>>>> 9347c728c2 (docs: document frontend recommendation data)
 
 The GitHub Actions workflow in `.github/workflows/daily-pipeline.yml` currently:
 
+<<<<<<< HEAD
 1. Installs dependencies.
 2. Bootstraps the expected `db/` subdirectories.
 3. Writes `MANGABAKA_API` into `.env` from repository secrets.
@@ -142,3 +165,8 @@ The pipeline is currently organized as:
 
 - Legacy = one big export set for the old app.
 - V2 = a manifest plus immutable build assets for the newer frontend contract.
+
+## APIs
+
+- MangaBaka API
+- AniList GraphQL API

@@ -59,6 +59,42 @@ In v2, the tag graph also includes more explicit build metadata and is loaded th
 
 ---
 
+### meta/mangabaka-tag-weights.safe-suggestive-anilist.json
+
+Raw MangaBaka tag-weight mapping for the safe + suggestive + AniList export set.
+
+Contains:
+- series id
+- `tag_weights` per title
+
+Used for:
+- recommendation feature building
+- tag affinity math
+- backend-precomputed or frontend-fallback scoring
+
+Prefer the compressed `.json.gz` version when available.
+
+---
+
+### recommendations/features.json
+
+Precomputed recommendation feature vectors.
+
+Contains:
+- profile groups
+- primary anchors
+- tag features
+- text features
+- quality signals
+
+Used for:
+- faster recommendation ranking
+- stable frontend fallback when the backend has already done the feature math
+
+Prefer the compressed `.json.gz` version when available.
+
+---
+
 ### stats/history.json
 
 Historical AniList snapshots.
