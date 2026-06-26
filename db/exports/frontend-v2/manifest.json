@@ -5,55 +5,51 @@
     "minimumFrontendContractVersion": 1
   },
   "build": {
-    "id": "f47f6d5ac024c494",
-    "startedAt": "2026-06-25T16:10:55.390Z",
-    "completedAt": "2026-06-25T16:11:50.229Z"
+    "id": "c3e308eb0c83ef51",
+    "startedAt": "2026-06-21T16:56:35.273Z",
+    "completedAt": "2026-06-21T16:57:18.900Z"
   },
   "atomicLoading": {
     "entrypoint": "manifest.json",
-    "immutableBuildRoot": "builds/f47f6d5ac024c494/",
+    "immutableBuildRoot": "builds/c3e308eb0c83ef51/",
     "switchPolicy": "download-and-validate-build-before-visible-switch"
   },
   "sources": {
-    "mangaBakaLatestSnapshotAt": null,
-    "anilistAddedRankSnapshotAt": null,
-    "anilistAddedRankSkipped": true
+    "mangaBakaLatestSnapshotAt": "2026-06-21T16:52:52.885Z",
+    "anilistAddedRankSnapshotAt": "2026-06-21T16:56:35.273Z",
+    "anilistAddedRankSkipped": false
   },
   "counts": {
-    "catalog": 19123,
-    "details": 19123,
-    "tags": 2317,
-    "anilistAddedRanksFetched": 0,
-    "anilistAddedRanksMatched": 0,
-    "anilistAddedRanksUnmatched": 0,
-    "animeplanetTitlesDerived": 12783
+    "catalog": 18779,
+    "details": 18779,
+    "tags": 2308,
+    "anilistAddedRanksFetched": 200,
+    "anilistAddedRanksMatched": 204,
+    "anilistAddedRanksUnmatched": 7,
+    "animeplanetTitlesDerived": 12041
   },
   "files": {
     "catalog": {
-      "path": "builds/f47f6d5ac024c494/catalog/index.json",
-      "gzipPath": "builds/f47f6d5ac024c494/catalog/index.json.gz",
-      "bytes": 50724729,
-      "gzipBytes": 6548178,
-      "sha256": "f60d8d57b1403c2b4798beb8aaa37b947fcf3abd97439e32e6431b5f1e2b57a2"
+      "path": "builds/c3e308eb0c83ef51/catalog/index.json",
+      "gzipPath": "builds/c3e308eb0c83ef51/catalog/index.json.gz",
+      "bytes": 50197368,
+      "gzipBytes": 6466111,
+      "sha256": "7d8dc0c1b9ea620d175c1122dfa8ddde8fb1835a974c255d86480cf523afbfba"
     },
     "tags": {
-      "path": "builds/f47f6d5ac024c494/tags/graph.json",
-      "gzipPath": "builds/f47f6d5ac024c494/tags/graph.json.gz",
-      "bytes": 592525,
-      "gzipBytes": 52442,
-      "sha256": "769a215dfadbfaf5a8e5ac6104fd321fbcce6891d8ab68d8d25dfdd69bc33c2d"
+      "path": "builds/c3e308eb0c83ef51/tags/graph.json",
+      "gzipPath": "builds/c3e308eb0c83ef51/tags/graph.json.gz",
+      "bytes": 590103,
+      "gzipBytes": 52280,
+      "sha256": "89143e862dad20c880f07013726d6ffa600a37fe52b94fd7a529960e28345aee"
     },
     "details": {
-      "pathTemplate": "builds/f47f6d5ac024c494/details/{id}.json",
-      "count": 19123,
+      "pathTemplate": "builds/c3e308eb0c83ef51/details/{id}.json",
+      "count": 18779,
       "largest": {
         "id": 3397,
-        "bytes": 11732
+        "bytes": 11754
       }
-    },
-    "recommendations": {
-      "path": "recommendations/index.json",
-      "gzipPath": "recommendations/index.json.gz"
     }
   },
   "feedSemantics": {
@@ -64,7 +60,5 @@
     "estimatedDatesExcludedFromRel": true,
     "futureDatesExcludedFromRel": true
   },
-  "warnings": [
-    "Missing MangaBaka latest cache: C:\\Users\\japne\\OneDrive\\Documents\\manhwa_db\\db\\cache\\mangabaka-latest.json"
-  ]
+  "warnings": []
 }

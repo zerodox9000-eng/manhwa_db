@@ -44,7 +44,6 @@ jobs:
           mkdir -p db/exports/frontend/meta
           mkdir -p db/exports/frontend/series
           mkdir -p db/exports/frontend/stats
-          mkdir -p db/exports/frontend-v2/builds
           mkdir -p db/updates/changelog
           mkdir -p db/state  
 

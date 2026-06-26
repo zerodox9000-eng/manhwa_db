@@ -2,13 +2,9 @@
 
 ## Entry Point
 
-Legacy frontend should consume:
+Frontend should consume:
 
 db/exports/frontend/
-
-New frontend should consume:
-
-db/exports/frontend-v2/manifest.json
 
 ---
 
@@ -31,8 +27,6 @@ Used for:
 - ranking
 - filtering
 
-This is the legacy export shape. The v2 catalog splits this into a smaller manifest-driven catalog plus lazy details.
-
 ---
 
 ### details/{id}.json
@@ -40,8 +34,6 @@ This is the legacy export shape. The v2 catalog splits this into a smaller manif
 Heavy per-series detail data.
 
 Lazy-loaded only when needed.
-
-In v2, this lives under `db/exports/frontend-v2/builds/{buildId}/details/{id}.json`.
 
 ---
 
@@ -54,50 +46,6 @@ Contains:
 - names
 - hierarchy
 - genre flags
-
-In v2, the tag graph also includes more explicit build metadata and is loaded through the manifest.
-
----
-
-### meta/mangabaka-tag-weights.safe-suggestive-anilist.json
-
-Raw MangaBaka tag-weight mapping for the safe + suggestive + AniList export set.
-
-Contains:
-- series id
-- `tag_weights` per title
-
-Used for:
-- recommendation feature building
-- tag affinity math
-- backend-precomputed or frontend-fallback scoring
-
-Prefer the compressed `.json.gz` version when available.
-
-Related log file:
-- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.log`
-- `db/exports/frontend/meta/mangabaka-tag-weights.safe-suggestive-anilist.progress.jsonl`
-
-These logs are useful when you need to check scrape health, failed titles, or how complete the weight export was.
-
----
-
-### recommendations/features.json
-
-Precomputed recommendation feature vectors.
-
-Contains:
-- profile groups
-- primary anchors
-- tag features
-- text features
-- quality signals
-
-Used for:
-- faster recommendation ranking
-- stable frontend fallback when the backend has already done the feature math
-
-Prefer the compressed `.json.gz` version when available.
 
 ---
 
@@ -124,19 +72,4 @@ Exports also exist as:
 
 .gz
 
-Frontend should prefer compressed versions where possible.
-
-## V2 Contract Notes
-
-The v2 contract is designed so the frontend can:
-
-- fetch a small manifest first
-- validate a complete build before switching data
-- load catalog entries without loading all details
-- keep legacy and new loading logic separate
-
-## Agent Notes
-
-- Read the logs before assuming a data export is complete or correct.
-- Use the progress log when you need per-title scrape status.
-- Use the summary log when you need a quick health check.
+Frontend should prefer compressed versions.

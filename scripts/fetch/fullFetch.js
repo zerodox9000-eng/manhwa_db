@@ -111,7 +111,7 @@ async function fetchYear(year) {
 
 async function main() {
 
-  for (let year = 2013; year <= 2026; year++) {
+  for (let year = 2014; year <= 2026; year++) {
 
     await fetchYear(year);
 
