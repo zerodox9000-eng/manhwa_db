@@ -90,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T22:05:53.124Z",
-  "mangabaka_latest_rank": 445,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T22:07:31.855Z",
+  "mangabaka_latest_rank": 460,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Bo-Yeon Han"
   ],
@@ -106,10 +106,14 @@
   "source": {
     "anilist": {
       "id": 212259,
-      "rating": null,
+      "rating": 80,
       "url": "https://anilist.co/manga/212259"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "atonement-for-your-cruelty",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/atonement-for-your-cruelty"
+    },
     "mangaupdates": {
       "id": "20m514q",
       "rating": 63,
@@ -118,6 +122,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     36,
     41,
@@ -134,10 +139,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2821,
-    "fanRatioPercentile": 51.4155,
-    "popularityPercentile": 35.5971,
-    "fanFavouriteDiscoveryScore": 40.402,
-    "fanFavouriteDiscoveryPercentile": 45.2575
+    "fanRatioPercentile": 51.4107,
+    "popularityPercentile": 35.6184,
+    "fanFavouriteDiscoveryScore": 40.4136,
+    "fanFavouriteDiscoveryPercentile": 45.2494
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -207,6 +212,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
         "Smut",
@@ -257,9 +263,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.52
   }
 }

@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T02:04:09.064Z",
-  "mangabaka_latest_rank": 949,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T02:05:12.208Z",
+  "mangabaka_latest_rank": 964,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Hyeon-Ji Dal"
   ],
@@ -97,7 +97,11 @@
       "rating": 77,
       "url": "https://anilist.co/manga/208022"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "cat-choice",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/cat-choice"
+    },
     "mangaupdates": {
       "id": "h2j47t4",
       "rating": 61,
@@ -125,6 +129,7 @@
     180,
     1947,
     16,
+    241,
     9,
     7,
     42,
@@ -133,16 +138,16 @@
     428
   ],
   "stats": {
-    "popularity": 211,
+    "popularity": 213,
     "favourites": 2,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9479,
-    "fanRatioPercentile": 42.4571,
-    "popularityPercentile": 53.8497,
-    "fanFavouriteDiscoveryScore": 40.0706,
-    "fanFavouriteDiscoveryPercentile": 44.7692
+    "fanFavouriteRaw": 0.939,
+    "fanRatioPercentile": 42.2602,
+    "popularityPercentile": 54.0491,
+    "fanFavouriteDiscoveryScore": 39.9217,
+    "fanFavouriteDiscoveryPercentile": 44.6241
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -225,6 +230,7 @@
         "Boys Love",
         "Korean Boys Love",
         "Yaoi",
+        "Mature Romance",
         "Romance",
         "Slice of Life",
         "School Life",
@@ -268,6 +274,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

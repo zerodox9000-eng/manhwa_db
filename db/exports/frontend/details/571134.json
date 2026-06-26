@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Precocious Pea-Sized Physician",
-  "mangabaka_title": "Sihanbu Agi Uiwoni Cheonjaein Geol An Sumgim",
+  "mangabaka_title": "The Precocious Pea-Sized Physician",
   "native_title": "시한부 아기 의원이 천재인 걸 안 숨김",
   "romanized_title": "Sihanbu Agi Uiwoni Cheonjaein Geol An Sumgim",
   "titles": [
@@ -42,7 +42,9 @@
     {
       "language": "en",
       "title": "The Precocious Pea-Sized Physician",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -111,9 +113,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T12:21:56.248Z",
-  "mangabaka_latest_rank": 1281,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T04:58:26.168Z",
+  "mangabaka_latest_rank": 1296,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Dinggeul",
     "Si-Hyeon Mun"
@@ -123,7 +125,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/571134",
-    "read_en": null
+    "read_en": "https://tapas.io/series/the-precocious-pea-sized-physician/info"
   },
   "source": {
     "anilist": {
@@ -180,16 +182,16 @@
     428
   ],
   "stats": {
-    "popularity": 219,
+    "popularity": 220,
     "favourites": 6,
     "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7397,
-    "fanRatioPercentile": 83.4109,
-    "popularityPercentile": 54.5364,
-    "fanFavouriteDiscoveryScore": 78.9693,
-    "fanFavouriteDiscoveryPercentile": 86.4327
+    "fanFavouriteRaw": 2.7273,
+    "fanRatioPercentile": 83.1478,
+    "popularityPercentile": 54.6744,
+    "fanFavouriteDiscoveryScore": 78.7681,
+    "fanFavouriteDiscoveryPercentile": 86.2742
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -310,15 +312,15 @@
         "precocious",
         "pea-sized",
         "physician",
+        "precocious",
+        "pea-sized",
+        "physician",
         "sihanbu",
         "agi",
         "uiwoni",
         "cheonjaein",
         "geol",
-        "sumgim",
-        "sihanbu",
-        "agi",
-        "uiwoni"
+        "sumgim"
       ],
       "descriptionTerms": [
         "third",
@@ -349,7 +351,8 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 1

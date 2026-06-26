@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Why Do You Say Things Change After Getting Married?",
   "mangabaka_title": "Why Do You Say Things Change After Getting Married?",
-  "native_title": null,
+  "native_title": "[순애 단편선] 왜 결혼하니 말이 달라지는 건데요",
   "romanized_title": null,
   "titles": [
     {
@@ -30,16 +30,23 @@
     },
     {
       "language": "en",
+      "title": "Why Do You Change Your Tune After Marriage?",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Why Do You Say Things Change After Getting Married?",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": null,
+  "description": "[Original Webtoon](https://ridibooks.com/books/5285002473)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMzA2LmpwZw",
   "total_chapters": "0",
-  "status": "unknown",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
@@ -51,9 +58,9 @@
   },
   "first_seen_at": "2026-06-25T04:58:12.454Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-24T18:36:07.403Z",
-  "mangabaka_latest_rank": 40,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T18:37:26.376Z",
+  "mangabaka_latest_rank": 55,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Golanikik",
     "Hwam"
@@ -92,8 +99,9 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -117,14 +125,16 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea",
     "searchKeywords": [
       "why",
       "say",
       "things",
       "change",
       "getting",
-      "married"
+      "married",
+      "original",
+      "webtoon"
     ],
     "evidence": {
       "tags": [
@@ -147,11 +157,14 @@
         "getting",
         "married"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "original",
+        "webtoon"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.46
   }
 }

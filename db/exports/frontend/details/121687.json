@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-13T05:14:25.954Z",
-  "mangabaka_latest_rank": 6966,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T08:16:05.577Z",
+  "mangabaka_latest_rank": 6982,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Next Girl"
   ],
@@ -81,7 +81,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/189243"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-underlings",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-underlings"
+    },
     "mangaupdates": {
       "id": "mbqy2qh",
       "rating": 63,
@@ -94,7 +98,10 @@
     15,
     39,
     180,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 4,
@@ -103,10 +110,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 1.404,
-    "fanFavouriteDiscoveryScore": 5.5287,
-    "fanFavouriteDiscoveryPercentile": 1.3201
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 1.426,
+    "fanFavouriteDiscoveryScore": 5.5386,
+    "fanFavouriteDiscoveryPercentile": 1.3421
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -153,7 +160,10 @@
         "Mature",
         "Action",
         "Boys Love",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "underlings",
@@ -172,9 +182,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.44
   }
 }

@@ -120,9 +120,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T10:16:20.835Z",
-  "mangabaka_latest_rank": 3048,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T12:23:26.557Z",
+  "mangabaka_latest_rank": 3064,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Eun-Chae Go",
     "Super Comix Studio"
@@ -140,7 +140,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/194657"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "first-time-for-everything",
+      "rating": 70,
+      "url": "https://www.anime-planet.com/manga/first-time-for-everything"
+    },
     "mangaupdates": {
       "id": "fhpj37z",
       "rating": 67,
@@ -152,6 +156,7 @@
     1168,
     2482,
     1045,
+    74,
     1125,
     647,
     888,
@@ -174,10 +179,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.9553,
-    "fanRatioPercentile": 68.9203,
-    "popularityPercentile": 63.7696,
-    "fanFavouriteDiscoveryScore": 67.17,
-    "fanFavouriteDiscoveryPercentile": 75.9939
+    "fanRatioPercentile": 68.9568,
+    "popularityPercentile": 63.7944,
+    "fanFavouriteDiscoveryScore": 67.2092,
+    "fanFavouriteDiscoveryPercentile": 76.0027
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -251,6 +256,7 @@
         "Noble Female Lead",
         "Knight Male Lead",
         "Manipulative Antagonists",
+        "Based on a Web Novel",
         "Childhood Promise",
         "Misunderstandings",
         "Unrequited Love Stays Unrequited",
@@ -306,9 +312,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.76
+    "confidence": 0.77
   }
 }

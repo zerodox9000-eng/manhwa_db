@@ -2,13 +2,13 @@
   "id": 567380,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Magahito",
+  "display_title": "Magahito – The Bearer of Misfortune",
   "mangabaka_title": "Magahito",
   "native_title": "禍人 -マガヒト-",
-  "romanized_title": null,
+  "romanized_title": "Magahito",
   "titles": [
     {
-      "language": "en",
+      "language": "ja-Latn",
       "title": "Magahito",
       "traits": [],
       "is_primary": true,
@@ -18,7 +18,7 @@
       "language": "en",
       "title": "Magahito – The Bearer of Misfortune",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -30,9 +30,9 @@
     }
   ],
   "description": "When a person experiences strong trauma, their mind sometimes cracks under the strain. If those wounds remain unhealed, their psyche distorts, festers, and eventually breeds darkness. From this darkness, superhuman abilities—“Kizuato” (Scar Powers)—are born, sometimes leading people to crime. Those who reach into this darkness, seeking to fill the cracks in their hearts, become criminals wielding supernatural powers. To stop them, another group rises: “Karma,” the clean-up professionals who hunt down and exact retribution on those who abuse their psychic scars for evil.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTA4OTY3LmpwZw",
-  "total_chapters": "21",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L21hZ2FoaXRvLTEud2VicD90PTE3ODIyMjc0MDE",
+  "total_chapters": "45",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2025,
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-03T03:48:16.240Z",
-  "mangabaka_latest_rank": 1524,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T11:36:53.686Z",
+  "mangabaka_latest_rank": 1539,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "SUWA Dokaku"
   ],
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "magahito",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/magahito"
+    },
     "mangaupdates": {
       "id": "mbecw1s",
       "rating": 64,
@@ -69,7 +73,10 @@
   "tag_ids": [
     8,
     39,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -104,6 +111,8 @@
     "semanticSummary": "",
     "searchKeywords": [
       "magahito",
+      "bearer",
+      "misfortune",
       "person",
       "experiences",
       "strong",
@@ -132,9 +141,15 @@
       "tags": [
         "Seinen",
         "Action",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "magahito",
+        "bearer",
+        "misfortune",
         "magahito",
         "magahito"
       ],
@@ -165,9 +180,10 @@
         "scar"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.31
+    "confidence": 0.34
   }
 }

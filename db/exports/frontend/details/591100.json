@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851928), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14331950)  \nYoonju loses her father in an unexpected accident. She later discovers that his death, as the former head of the legal team at Chiseong Group, may be connected to a secret involving the company. Moon Dogyeong, first in line to inherit Chiseong, proposes a contract marriage to Yoonju. In order to investigate her father’s death, she accepts his offer. “Our mothers aren’t that easy to fool.” “If we want to look like a real married couple, you might have to sleep with me.” I have to sleep with this man? Determined to avenge her father and uncover the person responsible for his death, Yoonju steels herself to endure everything. But she finds herself increasingly drawn to him. And Moon Dogyeong’s behavior starts to feel strange. If I end up falling in love with him… what am I supposed to do",
+  "description": "Yoonju loses her father in an unexpected accident. She later discovers that his death, as the former head of the legal team at Chiseong Group, may be connected to a secret involving the company. Moon Dogyeong, first in line to inherit Chiseong, proposes a contract marriage to Yoonju. In order to investigate her father’s death, she accepts his offer. \n\n“Our mothers aren’t that easy to fool.” \n\n“If we want to look like a real married couple, you might have to sleep with me.” \n\nI have to sleep with this man? Determined to avenge her father and uncover the person responsible for his death, Yoonju steels herself to endure everything. But she finds herself increasingly drawn to him. And Moon Dogyeong’s behavior starts to feel strange. If I end up falling in love with him… what am I supposed to do?\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851928), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14331950)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMTIzLmpwZw",
   "total_chapters": "0",
   "status": "unknown",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-23T04:54:10.603Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-24T21:51:24.378Z",
-  "mangabaka_latest_rank": 85,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T21:51:54.955Z",
+  "mangabaka_latest_rank": 100,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Rebel Studio"
   ],
@@ -76,12 +76,20 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
       "modern-korea",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -109,15 +117,11 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / corporate-workplace",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "pretending",
       "married",
       "couple",
-      "original",
-      "webtoon",
-      "naver",
-      "series",
       "yoonju",
       "loses",
       "father",
@@ -135,7 +139,12 @@
       "connected",
       "secret",
       "involving",
-      "company"
+      "company",
+      "moon",
+      "dogyeong",
+      "first",
+      "line",
+      "inherit"
     ],
     "evidence": {
       "tags": [
@@ -153,12 +162,6 @@
         "couple"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series",
         "yoonju",
         "loses",
         "father",
@@ -176,12 +179,18 @@
         "connected",
         "secret",
         "involving",
-        "company"
+        "company",
+        "moon",
+        "dogyeong",
+        "first",
+        "line",
+        "inherit",
+        "chiseong"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.99
   }
 }

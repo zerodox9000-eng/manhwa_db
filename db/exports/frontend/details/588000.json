@@ -54,10 +54,10 @@
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "en",
       "title": "Sports (With a Man), LOVE (Let's Do It)!",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T02:18:09.605Z",
-  "mangabaka_latest_rank": 360,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T11:55:25.540Z",
+  "mangabaka_latest_rank": 375,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Riye"
   ],
@@ -95,7 +95,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/212249"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sports-with-a-man-love-lets-do-it",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/sports-with-a-man-love-lets-do-it"
+    },
     "mangaupdates": {
       "id": "fj4k2s4",
       "rating": null,
@@ -120,10 +124,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 6.2648,
-    "fanFavouriteDiscoveryScore": 7.623,
-    "fanFavouriteDiscoveryPercentile": 5.7688
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 6.2834,
+    "fanFavouriteDiscoveryScore": 7.634,
+    "fanFavouriteDiscoveryPercentile": 5.7953
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -233,7 +237,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.67

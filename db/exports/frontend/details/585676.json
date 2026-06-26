@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T02:09:27.982Z",
-  "mangabaka_latest_rank": 575,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T02:10:49.380Z",
+  "mangabaka_latest_rank": 590,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Ondo",
     "ZIG"
@@ -77,7 +77,11 @@
       "rating": 73,
       "url": "https://anilist.co/manga/212389"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "desire-me-if-you-can",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/desire-me-if-you-can"
+    },
     "mangaupdates": {
       "id": "jcww06f",
       "rating": 63,
@@ -86,6 +90,9 @@
   },
   "tag_ids": [
     315,
+    74,
+    621,
+    725,
     108,
     118,
     2750,
@@ -101,16 +108,16 @@
     428
   ],
   "stats": {
-    "popularity": 439,
+    "popularity": 443,
     "favourites": 7,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5945,
-    "fanRatioPercentile": 60.2366,
-    "popularityPercentile": 67.4704,
-    "fanFavouriteDiscoveryScore": 59.1052,
-    "fanFavouriteDiscoveryPercentile": 67.3254
+    "fanFavouriteRaw": 1.5801,
+    "fanRatioPercentile": 59.7758,
+    "popularityPercentile": 67.6605,
+    "fanFavouriteDiscoveryScore": 58.6704,
+    "fanFavouriteDiscoveryPercentile": 66.9513
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -166,6 +173,9 @@
     "evidence": {
       "tags": [
         "Yandere",
+        "Based on a Web Novel",
+        "Fated Lovers",
+        "Firefighters",
         "Heterosexual",
         "Omegaverse",
         "Hetero Sex in Yaoi Manga",
@@ -213,9 +223,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.49
+    "confidence": 0.52
   }
 }

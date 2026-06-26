@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Legend of the Demon God in Joseon",
-  "mangabaka_title": "Joseon Gwisinjeon",
+  "mangabaka_title": "Legend of the Demon God in Joseon",
   "native_title": "조선귀신전",
   "romanized_title": "Joseon Gwisinjeon",
   "titles": [
@@ -22,17 +22,17 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Legend of the Demon God in Joseon",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**   \n[Toomics](https://www.toomics.com/webtoon/episode/toon/8611), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14215383), [Lezhin](https://www.lezhin.com/ko/comic/joseon_gwisinjeon)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI4NjgxLmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2xlZ2VuZC1vZi10aGUtZGVtb24tZ29kLWluLWpvc2Vvbi0xLndlYnA_dD0xNzgxMTE0ODk4",
+  "total_chapters": "8",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-11T05:22:26.965Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-11T17:07:02.496Z",
-  "mangabaka_latest_rank": 170,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T11:49:15.781Z",
+  "mangabaka_latest_rank": 185,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Solho"
   ],
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "legend-of-the-demon-god-in-joseon",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/legend-of-the-demon-god-in-joseon"
+    },
     "mangaupdates": {
       "id": "zs24viz",
       "rating": null,
@@ -69,7 +73,10 @@
   "tag_ids": [
     38,
     36,
-    22
+    22,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -123,15 +130,20 @@
       "tags": [
         "Shounen",
         "Fantasy",
-        "Supernatural"
+        "Supernatural",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "legend",
         "demon",
         "god",
         "joseon",
+        "legend",
+        "demon",
+        "god",
         "joseon",
-        "gwisinjeon",
         "joseon",
         "gwisinjeon"
       ],
@@ -144,9 +156,10 @@
         "lezhin"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.41
   }
 }

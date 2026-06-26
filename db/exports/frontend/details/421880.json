@@ -42,7 +42,7 @@
   ],
   "description": "In this ordinary other world, a party of heroes with no screws has appeared somewhere! Self-proclaimed heroes include the little tank Farming, the gloomy beast wizard Happy, the pervert nun Claire who is not only different from her on the outside, and the cowardly thief Kim Do-Jeok... Unlike other adventurers, these people get caught up in various incidents. One day, they accidentally obtain a magical sword and end up entangled with the Demon King's army... \n\nWill these quirky and lively adventurers be able to overcome all the threats that come their way, shed their self-proclaimed names, and be reborn as a true party of heroes?\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzUvMy84L2EvNC84L2YvNGI4MS80OWYxL2FmOTIvMDgzM2Q5MjMzMjNi",
-  "total_chapters": "9",
+  "total_chapters": "135",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T13:44:12.810Z",
-  "mangabaka_latest_rank": 2316,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T08:46:34.398Z",
+  "mangabaka_latest_rank": 2331,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Chikta"
   ],
@@ -74,7 +74,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/198607"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "hero-party-comic",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/hero-party-comic"
+    },
     "mangaupdates": {
       "id": "y7nl19z",
       "rating": null,
@@ -87,7 +91,9 @@
     39,
     37,
     6,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 19,
@@ -96,10 +102,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 13.3003,
-    "fanFavouriteDiscoveryScore": 11.4888,
-    "fanFavouriteDiscoveryPercentile": 12.0107
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 13.2759,
+    "fanFavouriteDiscoveryScore": 11.4772,
+    "fanFavouriteDiscoveryPercentile": 11.9872
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -168,7 +174,9 @@
         "Action",
         "Adventure",
         "Comedy",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "hero",
@@ -207,9 +215,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.5
   }
 }

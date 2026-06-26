@@ -5,7 +5,7 @@
   "display_title": "Sumi Chado Gwaenchana",
   "mangabaka_title": "Sumi Chado Gwaenchana",
   "native_title": "숨이 차도 괜찮아",
-  "romanized_title": "It's Okay to Be Out of Breath",
+  "romanized_title": "Sumi Chado Gwaenchana",
   "titles": [
     {
       "language": "ko",
@@ -17,7 +17,7 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "It's Okay to Be Out of Breath",
       "traits": [],
       "is_primary": false,
@@ -29,6 +29,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Sumi Chado Gwaenchana",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
@@ -48,9 +55,9 @@
   },
   "first_seen_at": "2026-06-25T04:58:12.454Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-25T01:52:17.060Z",
-  "mangabaka_latest_rank": 65,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T19:16:02.350Z",
+  "mangabaka_latest_rank": 80,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Ju-Yeong Hwang"
   ],
@@ -64,7 +71,7 @@
   "source": {
     "anilist": {
       "id": 213478,
-      "rating": null,
+      "rating": 100,
       "url": "https://anilist.co/manga/213478"
     },
     "animeplanet": null,
@@ -76,6 +83,7 @@
   },
   "tag_ids": [
     8,
+    159,
     31,
     30,
     93,
@@ -83,16 +91,16 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 100
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 0.145,
-    "fanFavouriteDiscoveryScore": 5.0664,
-    "fanFavouriteDiscoveryPercentile": 0.145
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 5.2539,
+    "fanFavouriteDiscoveryScore": 7.1485,
+    "fanFavouriteDiscoveryPercentile": 4.8193
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -126,8 +134,6 @@
       "sumi",
       "chado",
       "gwaenchana",
-      "okay",
-      "breath",
       "original",
       "webtoon",
       "naver",
@@ -136,6 +142,7 @@
     "evidence": {
       "tags": [
         "Seinen",
+        "Adult Cast",
         "Drama",
         "Sports",
         "Longstrip",
@@ -149,8 +156,9 @@
         "sumi",
         "chado",
         "gwaenchana",
-        "okay",
-        "breath"
+        "sumi",
+        "chado",
+        "gwaenchana"
       ],
       "descriptionTerms": [
         "original",
@@ -165,6 +173,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.58
   }
 }

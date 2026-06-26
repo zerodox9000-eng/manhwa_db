@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-19T05:46:34.506Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-25T00:19:14.765Z",
-  "mangabaka_latest_rank": 117,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T00:20:04.662Z",
+  "mangabaka_latest_rank": 132,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Mu-Hyang",
     "Reika"
@@ -88,60 +88,78 @@
   },
   "tag_ids": [
     38,
+    1080,
     58,
     74,
+    1677,
+    588,
     36,
     39,
     31,
     29,
+    2864,
+    227,
     45,
+    505,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 282,
+    "popularity": 296,
     "favourites": 2,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 0.7092,
-    "fanRatioPercentile": 37.2072,
-    "popularityPercentile": 59.0919,
-    "fanFavouriteDiscoveryScore": 35.8286,
-    "fanFavouriteDiscoveryPercentile": 39.5956
+    "fanFavouriteRaw": 0.6757,
+    "fanRatioPercentile": 36.5182,
+    "popularityPercentile": 59.8978,
+    "fanFavouriteDiscoveryScore": 35.25,
+    "fanFavouriteDiscoveryPercentile": 39.0422
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "murim-wuxia",
     "profileGroups": [
+      "chinese-murim",
       "euro-fantasy",
-      "modern-korea"
+      "modern-korea",
+      "murim-wuxia"
     ],
     "primaryAnchors": [
-      "euro-fantasy"
+      "chinese-murim",
+      "euro-fantasy",
+      "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea",
-        "kingdom-fantasy"
+        "kingdom-fantasy",
+        "murim-world"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "martial-artist"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "revenge"
+      ],
       "progressionType": [
         "martial-growth"
       ],
-      "tone": [],
+      "tone": [
+        "tense"
+      ],
       "worldType": [
-        "fantasy-world"
+        "fantasy-world",
+        "martial-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "murim-wuxia / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "sword",
       "emperor",
@@ -177,13 +195,19 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Determined Protagonist",
         "Male Lead",
         "Based on a Web Novel",
+        "Master-Disciple Relationship",
+        "Chinese Ambience",
         "Fantasy",
         "Action",
         "Drama",
         "Martial Arts",
+        "Sects",
+        "Revenge",
         "Historical",
+        "Wuxia",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -234,6 +258,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.62
+    "confidence": 1
   }
 }

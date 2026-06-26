@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T10:44:35.014Z",
-  "mangabaka_latest_rank": 6050,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T10:21:09.192Z",
+  "mangabaka_latest_rank": 6066,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Do-Dam Cheon",
     "Sikorsky"
@@ -98,7 +98,11 @@
       "rating": 81,
       "url": "https://anilist.co/manga/183750"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ten-midnight-stories",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ten-midnight-stories"
+    },
     "mangaupdates": {
       "id": "4tv9csa",
       "rating": 61,
@@ -107,13 +111,17 @@
   },
   "tag_ids": [
     8,
+    74,
     107,
     22,
     31,
     44,
     32,
     42,
-    19
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 23,
@@ -122,10 +130,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 16.032,
-    "fanFavouriteDiscoveryScore": 13.198,
-    "fanFavouriteDiscoveryPercentile": 14.3838
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 16.0515,
+    "fanFavouriteDiscoveryScore": 13.2142,
+    "fanFavouriteDiscoveryPercentile": 14.3968
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -186,13 +194,17 @@
     "evidence": {
       "tags": [
         "Seinen",
+        "Based on a Web Novel",
         "School",
         "Supernatural",
         "Drama",
         "Horror",
         "Mystery",
         "School Life",
-        "Thriller"
+        "Thriller",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "ten",
@@ -232,9 +244,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.63
   }
 }

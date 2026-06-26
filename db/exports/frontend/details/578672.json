@@ -83,9 +83,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T01:31:23.739Z",
-  "mangabaka_latest_rank": 996,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T01:32:26.884Z",
+  "mangabaka_latest_rank": 1011,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Ecira",
     "Meongmung"
@@ -103,7 +103,11 @@
       "rating": 80,
       "url": "https://anilist.co/manga/208160"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "between-your-letter-and-my-reply",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/between-your-letter-and-my-reply"
+    },
     "mangaupdates": {
       "id": "rdvms97",
       "rating": 64,
@@ -112,6 +116,7 @@
   },
   "tag_ids": [
     40,
+    74,
     108,
     36,
     9,
@@ -126,10 +131,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.4691,
-    "fanRatioPercentile": 79.3895,
-    "popularityPercentile": 36.2457,
-    "fanFavouriteDiscoveryScore": 63.095,
-    "fanFavouriteDiscoveryPercentile": 71.5605
+    "fanRatioPercentile": 79.3579,
+    "popularityPercentile": 36.2361,
+    "fanFavouriteDiscoveryScore": 63.0595,
+    "fanFavouriteDiscoveryPercentile": 71.4885
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -202,6 +207,7 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Based on a Web Novel",
         "Heterosexual",
         "Fantasy",
         "Romance",
@@ -251,9 +257,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.65
+    "confidence": 0.66
   }
 }

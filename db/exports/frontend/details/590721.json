@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-18T05:29:51.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-25T04:17:11.247Z",
-  "mangabaka_latest_rank": 119,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T04:29:51.727Z",
+  "mangabaka_latest_rank": 134,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Auset",
     "Sikmok"
@@ -53,7 +53,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "this-is-me",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/this-is-me"
+    },
     "mangaupdates": {
       "id": "umgmpss",
       "rating": null,
@@ -61,10 +65,15 @@
     }
   },
   "tag_ids": [
+    74,
     22,
     46,
+    180,
     16,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -107,10 +116,15 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Supernatural",
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [],
       "descriptionTerms": [
@@ -120,9 +134,10 @@
         "lezhin"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.44
   }
 }

@@ -111,9 +111,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T20:38:11.195Z",
-  "mangabaka_latest_rank": 373,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T12:24:41.850Z",
+  "mangabaka_latest_rank": 388,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Hobakgeobuk",
     "Iroun"
@@ -132,7 +132,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/212302"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-fox-borrowing-the-tigers-might",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-fox-borrowing-the-tigers-might"
+    },
     "mangaupdates": {
       "id": "h19xo6x",
       "rating": 63,
@@ -141,10 +145,16 @@
   },
   "tag_ids": [
     43,
+    247,
+    74,
+    308,
     108,
     36,
     46,
     41,
+    284,
+    1544,
+    547,
     9,
     93,
     57,
@@ -157,10 +167,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 1.404,
-    "fanFavouriteDiscoveryScore": 5.5287,
-    "fanFavouriteDiscoveryPercentile": 1.3201
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 1.426,
+    "fanFavouriteDiscoveryScore": 5.5386,
+    "fanFavouriteDiscoveryPercentile": 1.3421
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -204,10 +214,16 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Non-Human Protagonist",
+        "Based on a Web Novel",
+        "Interspecies Relationship",
         "Heterosexual",
         "Fantasy",
         "Adult",
         "Smut",
+        "Cats",
+        "Foxes",
+        "Non-human",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -230,9 +246,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.5
   }
 }

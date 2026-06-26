@@ -30,9 +30,9 @@
     }
   ],
   "description": "[Original Webtoon](https://series.naver.com/comic/detail.series?productNo=14051205)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2NjM5LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1kYXduLWRyYXduLWJ5LXRoZS1tb29uLTEud2VicD90PTE3Nzk4MjEzODc",
+  "total_chapters": "10",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T12:30:30.496Z",
-  "mangabaka_latest_rank": 274,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T12:36:09.387Z",
+  "mangabaka_latest_rank": 289,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Gam Seo-Yoon"
   ],
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-dawn-drawn-by-the-moon",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-dawn-drawn-by-the-moon"
+    },
     "mangaupdates": {
       "id": "btv67f6",
       "rating": null,
@@ -67,10 +71,15 @@
     }
   },
   "tag_ids": [
+    74,
     36,
     46,
+    180,
     16,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -116,10 +125,15 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Fantasy",
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "dawn",
@@ -134,9 +148,10 @@
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.44
   }
 }

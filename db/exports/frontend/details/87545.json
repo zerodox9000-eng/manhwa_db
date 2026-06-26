@@ -23,7 +23,7 @@
     }
   ],
   "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/sami)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDUwODI1LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2JlYXV0aWZ1bC1naXJsLWNodW4tc2FtaS0xLndlYnA_dD0xNzcwNjU0NjM1",
   "total_chapters": "20",
   "status": "completed",
   "content_rating": "safe",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-07T15:49:44.153Z",
+  "last_updated_at": "2026-06-25T07:41:38.223Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Narumo"
   ],
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "beautiful-girl-chun-sami",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/beautiful-girl-chun-sami"
+    },
     "mangaupdates": {
       "id": "3u8srn6",
       "rating": null,
@@ -65,7 +69,10 @@
     6,
     31,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -122,7 +129,10 @@
         "Comedy",
         "Drama",
         "Romance",
-        "School Life"
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "beautiful",
@@ -143,9 +153,10 @@
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.58
   }
 }

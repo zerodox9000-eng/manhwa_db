@@ -56,7 +56,7 @@
   ],
   "description": "Ban Ga-I makes a living by exorcising monsters on the side. One day, a thread goblin suddenly appears and makes a request. \n\n *“I’m looking for someone to find my younger brother, the Forest Keeper.”*\n\nHe accepts the request on the condition that his wish be granted, but the events that unfold during the search for the Forest Keeper begin to strangely overlap with Ban Ga-I’s childhood. Meanwhile, with the Forest Keeper’s absence, the gates to the underworld grow lax, and evil spirits begin to multiply on Earth, taking advantage of the opening…\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzcvZi83L2EvMC80LzIvYmMyNS80ZGY1L2E4M2QvMmFkZGVlMzhiZjFi",
-  "total_chapters": "9",
+  "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T06:25:42.374Z",
-  "mangabaka_latest_rank": 791,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T21:19:07.910Z",
+  "mangabaka_latest_rank": 806,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "WINSTON"
   ],
@@ -88,7 +88,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/209476"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "lands-records",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/lands-records"
+    },
     "mangaupdates": {
       "id": "57442tg",
       "rating": 62,
@@ -98,8 +102,12 @@
   "tag_ids": [
     38,
     58,
+    631,
     36,
     22,
+    160,
+    229,
+    616,
     93,
     57,
     428
@@ -111,17 +119,20 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.7037,
-    "fanRatioPercentile": 91.9725,
-    "popularityPercentile": 18.0923,
-    "fanFavouriteDiscoveryScore": 42.3387,
-    "fanFavouriteDiscoveryPercentile": 47.8214
+    "fanRatioPercentile": 91.9704,
+    "popularityPercentile": 18.0875,
+    "fanFavouriteDiscoveryScore": 42.3286,
+    "fanFavouriteDiscoveryPercentile": 47.8268
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
+      "horror-survival",
       "modern-korea"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -144,7 +155,7 @@
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / modern-korea / system",
+    "semanticSummary": "horror-survival / modern-korea / system",
     "searchKeywords": [
       "land",
       "records",
@@ -177,8 +188,12 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Exorcists",
         "Fantasy",
         "Supernatural",
+        "Demons",
+        "Ghosts",
+        "Exorcism",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -219,9 +234,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.42
+    "confidence": 0.62
   }
 }

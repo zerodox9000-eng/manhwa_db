@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T03:34:11.098Z",
-  "mangabaka_latest_rank": 5790,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T03:35:07.807Z",
+  "mangabaka_latest_rank": 5806,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Hirip"
   ],
@@ -67,7 +67,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/192082"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "moon-and-emerald",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/moon-and-emerald"
+    },
     "mangaupdates": {
       "id": "gj66xts",
       "rating": null,
@@ -81,19 +85,21 @@
     31,
     9,
     42,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": 15,
+    "popularity": 16,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 10.393,
-    "fanFavouriteDiscoveryScore": 9.783,
-    "fanFavouriteDiscoveryPercentile": 9.4926
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 11.2475,
+    "fanFavouriteDiscoveryScore": 10.273,
+    "fanFavouriteDiscoveryPercentile": 10.2105
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -172,7 +178,9 @@
         "Drama",
         "Romance",
         "School Life",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "moon",
@@ -210,9 +218,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.86
+    "confidence": 0.88
   }
 }

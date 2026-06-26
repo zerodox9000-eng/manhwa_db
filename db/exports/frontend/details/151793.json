@@ -92,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.412Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T13:41:27.031Z",
-  "mangabaka_latest_rank": 6468,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T11:48:38.974Z",
+  "mangabaka_latest_rank": 6484,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Hyeon-A Kim"
   ],
@@ -111,7 +111,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/147260"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "reverse-run",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/reverse-run"
+    },
     "mangaupdates": {
       "id": "4pg1g8f",
       "rating": 63,
@@ -129,7 +133,9 @@
     27,
     9,
     344,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 29,
@@ -138,10 +144,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.4483,
-    "fanRatioPercentile": 90.4464,
-    "popularityPercentile": 19.1835,
-    "fanFavouriteDiscoveryScore": 43.6853,
-    "fanFavouriteDiscoveryPercentile": 49.4163
+    "fanRatioPercentile": 90.4377,
+    "popularityPercentile": 19.2085,
+    "fanFavouriteDiscoveryScore": 43.7281,
+    "fanFavouriteDiscoveryPercentile": 49.4738
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -229,7 +235,9 @@
         "Music",
         "Romance",
         "Showbiz",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "yeokjuhaeng",
@@ -265,7 +273,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

@@ -23,7 +23,7 @@
     }
   ],
   "description": "**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/cin_ema_heaven), [MrBlue](https://www.mrblue.com/webtoon/wt_scene_wz), [Ridibooks](https://ridibooks.com/books/1434008933), [Naver Series](https://series.naver.com/comic/detail.series?productNo=5032877)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzU1MTA2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2NpbmVtYS1oZWF2ZW4tMS53ZWJwP3Q9MTc3MDI1Nzk0Ng",
   "total_chapters": "50",
   "status": "completed",
   "content_rating": "safe",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.189Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-07T20:45:37.559Z",
+  "last_updated_at": "2026-06-25T10:53:30.775Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Huangppussyen (후앙뿌쏀)"
   ],
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "cinema-heaven",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/cinema-heaven"
+    },
     "mangaupdates": {
       "id": "aphvins",
       "rating": null,
@@ -63,7 +67,10 @@
     8,
     36,
     1,
-    39
+    39,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -116,7 +123,10 @@
         "Seinen",
         "Fantasy",
         "Sci-Fi",
-        "Action"
+        "Action",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "cinema",
@@ -134,9 +144,10 @@
         "series"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.42
   }
 }

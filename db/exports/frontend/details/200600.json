@@ -90,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T19:15:56.184Z",
-  "mangabaka_latest_rank": 5441,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T10:30:37.445Z",
+  "mangabaka_latest_rank": 5457,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Eun-Bi"
   ],
@@ -109,7 +109,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/193315"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "please-let-me-resign",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/please-let-me-resign"
+    },
     "mangaupdates": {
       "id": "evqtnae",
       "rating": 61,
@@ -117,6 +121,7 @@
     }
   },
   "tag_ids": [
+    434,
     36,
     46,
     41,
@@ -137,10 +142,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 22.5868,
-    "fanFavouriteDiscoveryScore": 17.4788,
-    "fanFavouriteDiscoveryPercentile": 19.4659
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 22.5942,
+    "fanFavouriteDiscoveryScore": 17.4884,
+    "fanFavouriteDiscoveryPercentile": 19.483
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -213,6 +218,7 @@
     ],
     "evidence": {
       "tags": [
+        "Guideverse",
         "Fantasy",
         "Adult",
         "Smut",
@@ -261,9 +267,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.84
+    "confidence": 0.85
   }
 }

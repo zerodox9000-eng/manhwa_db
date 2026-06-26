@@ -23,7 +23,7 @@
     }
   ],
   "description": "[Original Webtoon](https://www.bomtoon.com/detail/carnivores)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDU4Njg5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2Nhcm5pdm9yZXMtYXJlLW5vdC1hbGxvd2VkLTEud2VicD90PTE3NzY4MTIyODI",
   "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-08T07:54:06.429Z",
+  "last_updated_at": "2026-06-25T08:09:55.994Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Soop"
   ],
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "carnivores-are-not-allowed",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/carnivores-are-not-allowed"
+    },
     "mangaupdates": {
       "id": "1g48ha0",
       "rating": null,
@@ -62,9 +66,13 @@
   "tag_ids": [
     46,
     41,
+    180,
     16,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -112,9 +120,13 @@
       "tags": [
         "Adult",
         "Smut",
+        "Boys Love",
         "Yaoi",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "carnivores",
@@ -127,9 +139,10 @@
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.51
   }
 }

@@ -108,9 +108,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T04:08:05.719Z",
-  "mangabaka_latest_rank": 852,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T04:08:07.163Z",
+  "mangabaka_latest_rank": 867,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Baekdan",
     "Ra-Nyong"
@@ -125,10 +125,14 @@
   "source": {
     "anilist": {
       "id": 210990,
-      "rating": 75,
+      "rating": 74,
       "url": "https://anilist.co/manga/210990"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-only-need-our-child-your-grace",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/i-only-need-our-child-your-grace"
+    },
     "mangaupdates": {
       "id": "gwgnf7d",
       "rating": 52,
@@ -147,34 +151,38 @@
     2443,
     2599,
     75,
+    74,
     748,
     394,
     647,
     311,
     584,
+    249,
     108,
     36,
+    1,
     22,
     31,
     361,
     127,
     227,
     9,
+    990,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 434,
+    "popularity": 454,
     "favourites": 5,
-    "meanScore": 75
+    "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1521,
-    "fanRatioPercentile": 47.9206,
-    "popularityPercentile": 67.2186,
-    "fanFavouriteDiscoveryScore": 47.0019,
-    "fanFavouriteDiscoveryPercentile": 55.4445
+    "fanFavouriteRaw": 1.1013,
+    "fanRatioPercentile": 46.6829,
+    "popularityPercentile": 68.1562,
+    "fanFavouriteDiscoveryScore": 45.8539,
+    "fanFavouriteDiscoveryPercentile": 52.4859
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -261,19 +269,23 @@
         "Obsessive Male Lead",
         "Sickly Male Lead",
         "Based on a Novel",
+        "Based on a Web Novel",
         "Age Regression",
         "Curses",
         "Misunderstandings",
         "Time Manipulation",
         "Time Rewind",
+        "Time Travel",
         "Heterosexual",
         "Fantasy",
+        "Sci-Fi",
         "Supernatural",
         "Drama",
         "Marriage of Convenience",
         "Nobility",
         "Revenge",
         "Romance",
+        "Second Chance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -321,6 +333,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

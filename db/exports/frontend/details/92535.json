@@ -30,7 +30,7 @@
     }
   ],
   "description": "The set of stories is about young lads and their siblings, who have secret lives. How will they accept that news and does sex have a place in those relationships?\n\n**Original Webtoon:**  \n[Toomics](https://toomics.com/click/intro?cno=6244&pid=webtoonguide), [MrBlue](https://www.mrblue.com/comic/C000052541), [Anytoon](https://www.anytoon.co.kr/webtoon/episode/3556), [Mootoon](https://www.mootoon.co.kr/comic/moo_list.mg?tcode=3kzh), [Qtoon](https://www.qtoon.co.kr/toon/list.mg?tcode=zqho), MeToon\n\n**Official English:**  \nHoneyToon, [Coolmic](https://coolmic.me/titles/7307)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDIwNjMzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L25hdWdodHktc2lzdGVycy0xLndlYnA_dD0xNzcwMzE5NTk2",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "pornographic",
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.188Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-22T06:46:14.022Z",
-  "mangabaka_latest_rank": 8259,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T11:17:51.002Z",
+  "mangabaka_latest_rank": 8275,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "AP Books"
   ],
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "naughty-sisters",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/naughty-sisters"
+    },
     "mangaupdates": {
       "id": "8knr3gp",
       "rating": 62,
@@ -71,7 +75,10 @@
     46,
     10,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -143,7 +150,10 @@
         "Adult",
         "Hentai",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "naughty",
@@ -178,9 +188,10 @@
         "coolmic"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.5
   }
 }

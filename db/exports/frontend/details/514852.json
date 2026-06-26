@@ -84,7 +84,7 @@
   ],
   "description": "If you're born with an ugly face, you have to know where to fit in and where to leave out, and be able to discern what's acceptable and what's not. Noeul considered himself fortunate to have been born with that kind of discernment.\n\n(Source: KakaoPage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2YvNy9kLzAvNC9jL2UvNzVjYS80OTU0LzhjOTEvZjgwMGIyNGVmMDE0",
-  "total_chapters": "19",
+  "total_chapters": "52",
   "status": "hiatus",
   "content_rating": "safe",
   "is_licensed": false,
@@ -97,9 +97,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T03:22:22.362Z",
-  "mangabaka_latest_rank": 2081,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T03:23:12.521Z",
+  "mangabaka_latest_rank": 2096,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Insaengeungotong",
     "Yeon-Min"
@@ -114,10 +114,14 @@
   "source": {
     "anilist": {
       "id": 199117,
-      "rating": 69,
+      "rating": 70,
       "url": "https://anilist.co/manga/199117"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "you-expect-anyone-to-like-you-with-that-face",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/you-expect-anyone-to-like-you-with-that-face"
+    },
     "mangaupdates": {
       "id": "vmx9uoi",
       "rating": 61,
@@ -126,6 +130,7 @@
   },
   "tag_ids": [
     38,
+    74,
     20,
     108,
     6,
@@ -135,16 +140,16 @@
     428
   ],
   "stats": {
-    "popularity": 405,
+    "popularity": 412,
     "favourites": 8,
-    "meanScore": 69
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 1.9753,
-    "fanRatioPercentile": 69.4773,
-    "popularityPercentile": 65.929,
-    "fanFavouriteDiscoveryScore": 67.9973,
-    "fanFavouriteDiscoveryPercentile": 76.6578
+    "fanFavouriteRaw": 1.9417,
+    "fanRatioPercentile": 68.7433,
+    "popularityPercentile": 66.2803,
+    "fanFavouriteDiscoveryScore": 67.3203,
+    "fanFavouriteDiscoveryPercentile": 76.0866
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -204,6 +209,7 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Based on a Web Novel",
         "Harem",
         "Heterosexual",
         "Comedy",
@@ -249,9 +255,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.51
   }
 }

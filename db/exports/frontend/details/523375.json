@@ -26,6 +26,15 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Spoiler",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "th",
       "title": "ระวัง! สปอยล์!",
       "traits": [],
@@ -33,12 +42,12 @@
       "note": null
     }
   ],
-  "description": "*\"New photos have arrived.\"*\n\nI picked up a cell phone that shows the future. If I just had this device, I could be happy.\n\n(Source: Naver, translated)",
+  "description": "Ha-Yeong Yun is a top‑ranked student living in poverty, clinging to her grades as her only escape. Her longtime friendship with Yeon-U Seo, wealthy, kind, and effortlessly successful, has begun to rot with unspoken resentment. One night, Ha-Yeong finds an old phone and discovers it can show photos of the future. Using its predictions, she rises higher than ever before and grows close to Jeong-Ho Jeon, a charming transfer student. When Yeon-U reveals the phone is hers, Ha-Yeong lies without hesitation. Everything seems to be going her way, until the gallery updates with another image: herself, dead on the floor of her own bedroom. The clock in the photo reads May 17, 10:43 PM, five minutes from now.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yL2YvYi9lL2UvZS83LzEvZmQ4Yy80MTc3LzhlMTUvNjA2MzYwYTdlMTEy",
   "total_chapters": "33",
   "status": "completed",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-10-20",
@@ -48,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T06:15:43.547Z",
-  "mangabaka_latest_rank": 1885,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T06:55:28.288Z",
+  "mangabaka_latest_rank": 1900,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "PORTO"
   ],
@@ -59,7 +68,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/523375",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10281"
   },
   "source": {
     "anilist": {
@@ -88,33 +97,37 @@
     428
   ],
   "stats": {
-    "popularity": 72,
+    "popularity": 73,
     "favourites": 4,
     "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": 5.5556,
-    "fanRatioPercentile": 97.3216,
-    "popularityPercentile": 34.4143,
-    "fanFavouriteDiscoveryScore": 74.8148,
-    "fanFavouriteDiscoveryPercentile": 82.7165
+    "fanFavouriteRaw": 5.4795,
+    "fanRatioPercentile": 97.1405,
+    "popularityPercentile": 34.5966,
+    "fanFavouriteDiscoveryScore": 74.9367,
+    "fanFavouriteDiscoveryPercentile": 82.7589
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth",
+        "power-growth"
+      ],
       "tone": [],
       "worldType": [
         "fantasy-world"
@@ -123,20 +136,32 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea / school",
     "searchKeywords": [
       "spoiler",
-      "photos",
-      "arrived",
-      "picked",
-      "cell",
-      "phone",
-      "shows",
-      "future",
-      "device",
-      "happy",
-      "naver",
-      "translated"
+      "ha-yeong",
+      "yun",
+      "top",
+      "ranked",
+      "student",
+      "living",
+      "poverty",
+      "clinging",
+      "grades",
+      "escape",
+      "longtime",
+      "friendship",
+      "yeon-u",
+      "seo",
+      "wealthy",
+      "kind",
+      "effortlessly",
+      "successful",
+      "begun",
+      "rot",
+      "unspoken",
+      "resentment",
+      "night"
     ],
     "evidence": {
       "tags": [
@@ -154,24 +179,38 @@
         "spoiler"
       ],
       "descriptionTerms": [
-        "photos",
-        "arrived",
-        "picked",
-        "cell",
-        "phone",
-        "shows",
-        "future",
-        "device",
-        "happy",
-        "naver",
-        "translated"
+        "ha-yeong",
+        "yun",
+        "top",
+        "ranked",
+        "student",
+        "living",
+        "poverty",
+        "clinging",
+        "grades",
+        "escape",
+        "longtime",
+        "friendship",
+        "yeon-u",
+        "seo",
+        "wealthy",
+        "kind",
+        "effortlessly",
+        "successful",
+        "begun",
+        "rot",
+        "unspoken",
+        "resentment",
+        "night",
+        "ha-yeong"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.42
+    "confidence": 0.49
   }
 }

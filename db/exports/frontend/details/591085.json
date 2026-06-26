@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Anna's Squeaky",
-  "mangabaka_title": "Anna's Squeaky",
+  "mangabaka_title": "Anna-ui Kkikki",
   "native_title": "안나의 끼끼",
-  "romanized_title": null,
+  "romanized_title": "Anna's Kkikki",
   "titles": [
     {
       "language": "ko",
       "title": "안나의 끼끼",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Anna's Kkikki",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -20,39 +29,56 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Anna-ui Kkikki",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/anna_kkikki)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMDY0LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2FubmFzLXNxdWVha3ktMS53ZWJwP3Q9MTc4MjE4NTkwMw",
+  "total_chapters": "6",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-22",
+    "end_date": "2026-06-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-23T04:54:10.603Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-24T17:37:53.255Z",
-  "mangabaka_latest_rank": 86,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T07:05:28.392Z",
+  "mangabaka_latest_rank": 101,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
-    "Manli"
+    "Malli"
   ],
   "artists": [
-    "Manli"
+    "Malli"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/591085",
     "read_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
+    "anilist": {
+      "id": 213542,
+      "rating": null,
+      "url": "https://anilist.co/manga/213542"
+    },
+    "animeplanet": {
+      "id": "annas-squeaky",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/annas-squeaky"
+    },
     "mangaupdates": {
       "id": "gzqzvxw",
       "rating": null,
@@ -62,7 +88,12 @@
   "tag_ids": [
     46,
     41,
-    16
+    180,
+    16,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,14 +101,17 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 0.1678,
+    "fanFavouriteDiscoveryScore": 5.0759,
+    "fanFavouriteDiscoveryPercentile": 0.1678
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -90,9 +124,11 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -100,6 +136,8 @@
     "searchKeywords": [
       "anna",
       "squeaky",
+      "anna-ui",
+      "kkikki",
       "original",
       "webtoon"
     ],
@@ -107,22 +145,31 @@
       "tags": [
         "Adult",
         "Smut",
-        "Yaoi"
+        "Boys Love",
+        "Yaoi",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "anna",
         "squeaky",
+        "anna-ui",
+        "kkikki",
         "anna",
-        "squeaky"
+        "kkikki"
       ],
       "descriptionTerms": [
         "original",
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.5
   }
 }

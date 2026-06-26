@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T01:12:03.919Z",
-  "mangabaka_latest_rank": 1567,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T12:01:58.911Z",
+  "mangabaka_latest_rank": 1582,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Shida"
   ],
@@ -74,7 +74,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/208595"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-sunflower-has-bloomed",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-sunflower-has-bloomed"
+    },
     "mangaupdates": {
       "id": "vq8nuda",
       "rating": 63,
@@ -99,10 +103,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 7.9435,
-    "fanFavouriteDiscoveryScore": 8.4608,
-    "fanFavouriteDiscoveryPercentile": 7.3483
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 7.9533,
+    "fanFavouriteDiscoveryScore": 8.4682,
+    "fanFavouriteDiscoveryPercentile": 7.3662
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -210,7 +214,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.44

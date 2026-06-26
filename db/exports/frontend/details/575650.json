@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-23T02:12:15.637Z",
-  "mangabaka_latest_rank": 1181,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-26T03:32:10.462Z",
+  "mangabaka_latest_rank": 1196,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Hangsiheung Bunjung",
     "Sum"
@@ -96,7 +96,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/207562"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "snake-and-rabbit-mating-guide",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/snake-and-rabbit-mating-guide"
+    },
     "mangaupdates": {
       "id": "w4yfz7b",
       "rating": 64,
@@ -119,6 +123,7 @@
     2026,
     2420,
     2448,
+    74,
     2883,
     2076,
     854,
@@ -154,10 +159,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5681,
-    "popularityPercentile": 7.1347,
-    "fanFavouriteDiscoveryScore": 8.0499,
-    "fanFavouriteDiscoveryPercentile": 6.6005
+    "fanRatioPercentile": 31.5769,
+    "popularityPercentile": 7.1679,
+    "fanFavouriteDiscoveryScore": 8.0688,
+    "fanFavouriteDiscoveryPercentile": 6.6341
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -228,6 +233,7 @@
         "Mysterious Male Lead",
         "Quiet Male Lead",
         "Sexually Insatiable Male Lead",
+        "Based on a Web Novel",
         "Hidden Identity/ies",
         "Library",
         "Academy",
@@ -251,8 +257,7 @@
         "Coming of Age",
         "Marriage Proposal",
         "Nobility",
-        "Romance",
-        "Longstrip"
+        "Romance"
       ],
       "titleTerms": [
         "snake",
@@ -279,7 +284,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.89

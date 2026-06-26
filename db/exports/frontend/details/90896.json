@@ -30,9 +30,9 @@
     }
   ],
   "description": "[Original Webtoon](https://www.bomtoon.com/detail/imperfectbond)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDcxNTk5LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2luY29tcGxldGUtYm9uZC0xLndlYnA_dD0xNzc2ODIyMjI5",
+  "total_chapters": "6",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2024,
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T05:55:07.887Z",
-  "mangabaka_latest_rank": 9773,
-  "mangabaka_latest_snapshot_at": "2026-06-25T05:17:42.868Z",
+  "last_updated_at": "2026-06-25T12:14:24.071Z",
+  "mangabaka_latest_rank": 9789,
+  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
   "authors": [
     "Cheong Gyeok"
   ],
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "incomplete-bond",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/incomplete-bond"
+    },
     "mangaupdates": {
       "id": "v29k1nm",
       "rating": null,
@@ -68,9 +72,13 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -117,9 +125,13 @@
     "evidence": {
       "tags": [
         "Adult",
+        "Boys Love",
         "Yaoi",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "incomplete",
@@ -132,9 +144,10 @@
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.5
   }
 }
