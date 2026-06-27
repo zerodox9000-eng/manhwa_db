@@ -120,9 +120,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.149Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T06:42:15.243Z",
+  "last_updated_at": "2026-06-27T02:21:28.486Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
+  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
   "authors": [
     "Wann"
   ],
@@ -146,21 +146,32 @@
     },
     "mangaupdates": {
       "id": "dovlpv2",
-      "rating": 64,
+      "rating": 65,
       "url": "https://www.mangaupdates.com/series/dovlpv2"
     }
   },
   "tag_ids": [
+    695,
     43,
+    692,
+    850,
     59,
+    2149,
+    1047,
+    2444,
+    1064,
+    653,
     108,
     22,
     46,
     41,
     109,
     31,
+    1033,
     32,
     9,
+    883,
+    132,
     93,
     57,
     428
@@ -172,10 +183,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.439,
-    "fanRatioPercentile": 78.8699,
-    "popularityPercentile": 24.6759,
-    "fanFavouriteDiscoveryScore": 47.0223,
-    "fanFavouriteDiscoveryPercentile": 55.5437
+    "fanRatioPercentile": 78.8824,
+    "popularityPercentile": 24.6474,
+    "fanFavouriteDiscoveryScore": 46.9846,
+    "fanFavouriteDiscoveryPercentile": 55.3633
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -192,11 +203,15 @@
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "martial-growth"
+      ],
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
@@ -232,16 +247,27 @@
     ],
     "evidence": {
       "tags": [
+        "Training",
         "Josei",
+        "White/Silver-Haired Male Lead",
+        "Muscular Male Lead",
         "Female Lead",
+        "Annoying Female Lead",
+        "Dumb Female Lead",
+        "Dark/Tan Skin Male Lead",
+        "Weak to Strong",
+        "Male Lead Falls in Love First",
         "Heterosexual",
         "Supernatural",
         "Adult",
         "Smut",
         "Nudity",
         "Drama",
+        "Dreams",
         "Mystery",
         "Romance",
+        "Special Ability",
+        "21st century",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -284,6 +310,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.59
   }
 }

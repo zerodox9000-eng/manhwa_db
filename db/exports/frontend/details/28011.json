@@ -2,7 +2,7 @@
   "id": 28011,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Miracle Appstore",
+  "display_title": "Miracle App Store",
   "mangabaka_title": "Gijeogui App Store",
   "native_title": "기적의 앱스토어",
   "romanized_title": "Gijeogui App Store",
@@ -27,9 +27,9 @@
     },
     {
       "language": "en",
-      "title": "Miracle Appstore",
+      "title": "Gijeok-ui App Store",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -39,6 +39,13 @@
         "native"
       ],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Miracle App Store",
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
@@ -64,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:38:01.910Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T09:46:07.803Z",
+  "last_updated_at": "2026-06-26T09:44:05.391Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
+  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
   "authors": [
     "Jeong-Jun"
   ],
@@ -102,6 +109,7 @@
     107,
     1104,
     36,
+    261,
     22,
     39,
     37,
@@ -122,10 +130,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.9553,
-    "fanRatioPercentile": 42.7101,
-    "popularityPercentile": 89.3473,
-    "fanFavouriteDiscoveryScore": 42.5784,
-    "fanFavouriteDiscoveryPercentile": 48.0555
+    "fanRatioPercentile": 42.7232,
+    "popularityPercentile": 89.3345,
+    "fanFavouriteDiscoveryScore": 42.5914,
+    "fanFavouriteDiscoveryPercentile": 48.0217
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -153,6 +161,7 @@
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "none",
@@ -162,10 +171,9 @@
     "semanticSummary": "business-career-regression / modern-korea / school",
     "searchKeywords": [
       "miracle",
-      "appstore",
-      "gijeogui",
       "app",
       "store",
+      "gijeogui",
       "stuck",
       "our",
       "mundane",
@@ -191,6 +199,7 @@
         "School",
         "Magic Items",
         "Fantasy",
+        "Urban Fantasy",
         "Supernatural",
         "Action",
         "Adventure",
@@ -206,7 +215,8 @@
       ],
       "titleTerms": [
         "miracle",
-        "appstore",
+        "app",
+        "store",
         "gijeogui",
         "app",
         "store",
@@ -238,6 +248,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.84
+    "confidence": 0.85
   }
 }

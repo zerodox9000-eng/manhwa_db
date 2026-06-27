@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T06:33:26.571Z",
-  "mangabaka_latest_rank": 2121,
-  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
+  "last_updated_at": "2026-06-26T17:51:36.361Z",
+  "mangabaka_latest_rank": 2128,
+  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
   "authors": [
     "37"
   ],
@@ -109,11 +109,15 @@
     }
   },
   "tag_ids": [
+    107,
     46,
+    15,
     41,
     180,
     16,
     31,
+    18,
+    42,
     93,
     57,
     428
@@ -125,18 +129,22 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5769,
-    "popularityPercentile": 24.287,
-    "fanFavouriteDiscoveryScore": 18.5791,
-    "fanFavouriteDiscoveryPercentile": 20.6954
+    "fanRatioPercentile": 31.6002,
+    "popularityPercentile": 24.2662,
+    "fanFavouriteDiscoveryScore": 18.5795,
+    "fanFavouriteDiscoveryPercentile": 20.7136
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "school-life",
+    "profileGroups": [
+      "school-life"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -144,13 +152,16 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "dark",
+        "warm"
+      ],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "school-life / school",
     "searchKeywords": [
       "digging",
       "moment",
@@ -178,11 +189,15 @@
     ],
     "evidence": {
       "tags": [
+        "School",
         "Adult",
+        "Mature",
         "Smut",
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Psychological",
+        "School Life",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -225,6 +240,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.36
+    "confidence": 0.47
   }
 }

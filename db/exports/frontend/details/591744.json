@@ -33,7 +33,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851866), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14333001)",
+  "description": "I can say with certainty that the ugliest emotion of all is inferiority. \n\nMy grandmother had wanted a daughter her whole life, but she never had a daughter or a granddaughter. Her grandson, Ho Su-Won, who is now the director of a ballet academy, has made a living off his grandmother’s name. The family members who gather at the funeral home to divide her estate are confronted with the true legacy she left behind. The final daughter created by a woman who vowed never to leave behind a sense of inferiority. The sense of inferiority has not ended. It has merely changed form and begun anew.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzQ3OS1aUUwxbXNFT3VJaG4uanBn",
   "total_chapters": "0",
   "status": "releasing",
@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-25T04:58:12.454Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-25T16:17:53.558Z",
-  "mangabaka_latest_rank": 71,
-  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
+  "last_updated_at": "2026-06-26T16:32:05.864Z",
+  "mangabaka_latest_rank": 78,
+  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
   "authors": [
     "Gwailcha"
   ],
@@ -75,58 +75,101 @@
     }
   },
   "tag_ids": [
+    482,
+    59,
+    499,
     31,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 22,
+    "popularity": 25,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5769,
-    "popularityPercentile": 15.3576,
-    "fanFavouriteDiscoveryScore": 12.772,
-    "fanFavouriteDiscoveryPercentile": 13.8173
+    "fanRatioPercentile": 31.6002,
+    "popularityPercentile": 16.978,
+    "fanFavouriteDiscoveryScore": 13.821,
+    "fanFavouriteDiscoveryPercentile": 15.1407
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "corporate-workplace",
+      "engineering-builder",
+      "kingdom-management",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "engineering-builder",
+      "kingdom-management",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace",
+        "kingdom-fantasy",
+        "school"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "executive"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "management-growth"
+      ],
       "tone": [],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "swan",
       "lake",
       "hosuui",
       "baekjo",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "say",
+      "certainty",
+      "ugliest",
+      "emotion",
+      "inferiority",
+      "grandmother",
+      "wanted",
+      "daughter",
+      "whole",
+      "never",
+      "granddaughter",
+      "grandson",
+      "su-won",
+      "director",
+      "ballet",
+      "academy",
+      "made",
+      "living",
+      "off",
+      "name",
+      "family",
+      "members"
     ],
     "evidence": {
       "tags": [
+        "Ballet",
+        "Female Lead",
+        "Adoption",
         "Drama",
         "Longstrip",
         "Full Color",
@@ -141,18 +184,36 @@
         "baekjo"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "say",
+        "certainty",
+        "ugliest",
+        "emotion",
+        "inferiority",
+        "grandmother",
+        "wanted",
+        "daughter",
+        "whole",
+        "never",
+        "daughter",
+        "granddaughter",
+        "grandson",
+        "su-won",
+        "director",
+        "ballet",
+        "academy",
+        "made",
+        "living",
+        "off",
+        "grandmother",
+        "name",
+        "family",
+        "members"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.39
+    "confidence": 1
   }
 }

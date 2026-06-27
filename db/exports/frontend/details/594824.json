@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Ma Geumgang, Hell's Mightiest Fighter",
-  "mangabaka_title": "Jiok Choegang Mageumgang",
+  "mangabaka_title": "Jiok Choegang Ma Geum-Gang",
   "native_title": "지옥 최강 마금강",
-  "romanized_title": "Jiok Choegang Mageumgang",
+  "romanized_title": "Jiok Choegang Ma Geum-Gang",
   "titles": [
     {
       "language": "ko",
@@ -18,7 +18,7 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Jiok Choegang Mageumgang",
+      "title": "Jiok Choegang Ma Geum-Gang",
       "traits": [
         "native"
       ],
@@ -40,7 +40,7 @@
       "note": null
     }
   ],
-  "description": "Born with overwhelming physical strength, Ma Geumgang feared nothing in the world. But while pushing his power to its absolute limit, he was cast into Hell. To make matters worse, even his parents have ended up there. The only way back to his original world is to defeat the sinners of Hell and rise to become its strongest warrior. A brutal, high-octane martial arts action story of a man who smashes his way through Hell itself.\n\n**Original Webtoon:** [Naver](https://comic.naver.com/webtoon/list?titleId=850745), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14168919)",
+  "description": "Ma Geum-Gang, who feared nothing in the world thanks to his innate superhuman strength, fell into hell after testing the limits of his power. Even his parents? To return to his original world, he must defeat the villains of hell and become the strongest. The ultimate fighting action series as he smashes his way out of hell!\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzUwNC1vRmFRa3NUTGF5OHcuanBn",
   "total_chapters": "6",
   "status": "releasing",
@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-26T07:23:43.012Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-26T06:36:35.655Z",
-  "mangabaka_latest_rank": 8,
-  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
+  "last_updated_at": "2026-06-26T13:17:06.599Z",
+  "mangabaka_latest_rank": 15,
+  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
   "authors": [
     "Bong-Su Choi"
   ],
@@ -93,21 +93,22 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5769,
-    "popularityPercentile": 0.1678,
-    "fanFavouriteDiscoveryScore": 5.0759,
-    "fanFavouriteDiscoveryPercentile": 0.1678
+    "fanRatioPercentile": 31.6002,
+    "popularityPercentile": 1.9822,
+    "fanFavouriteDiscoveryScore": 5.7577,
+    "fanFavouriteDiscoveryPercentile": 1.8449
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "regression-return"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -140,29 +141,28 @@
       "fighter",
       "jiok",
       "choegang",
-      "mageumgang",
-      "born",
-      "overwhelming",
-      "physical",
-      "strength",
+      "geum-gang",
       "feared",
       "nothing",
-      "while",
-      "pushing",
+      "thanks",
+      "innate",
+      "superhuman",
+      "strength",
+      "fell",
+      "testing",
+      "limits",
       "power",
-      "absolute",
-      "limit",
-      "cast",
-      "make",
-      "matters",
-      "worse",
       "even",
       "parents",
-      "ended",
-      "way",
+      "return",
       "original",
+      "must",
       "defeat",
-      "sinners"
+      "villains",
+      "become",
+      "strongest",
+      "ultimate",
+      "fighting"
     ],
     "evidence": {
       "tags": [
@@ -183,42 +183,42 @@
         "fighter",
         "jiok",
         "choegang",
-        "mageumgang",
+        "geum-gang",
         "jiok",
         "choegang",
-        "mageumgang"
+        "geum-gang"
       ],
       "descriptionTerms": [
-        "born",
-        "overwhelming",
-        "physical",
-        "strength",
-        "geumgang",
+        "geum-gang",
         "feared",
         "nothing",
-        "while",
-        "pushing",
-        "power",
-        "absolute",
-        "limit",
-        "cast",
+        "thanks",
+        "innate",
+        "superhuman",
+        "strength",
+        "fell",
         "hell",
-        "make",
-        "matters",
-        "worse",
+        "testing",
+        "limits",
+        "power",
         "even",
         "parents",
-        "ended",
-        "way",
+        "return",
         "original",
+        "must",
         "defeat",
-        "sinners"
+        "villains",
+        "hell",
+        "become",
+        "strongest",
+        "ultimate",
+        "fighting"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.51
   }
 }

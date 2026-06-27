@@ -155,9 +155,9 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T04:24:27.068Z",
+  "last_updated_at": "2026-06-27T04:25:20.105Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-26T07:43:25.301Z",
+  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
   "authors": [
     "EVY"
   ],
@@ -192,12 +192,14 @@
     251,
     366,
     367,
+    1050,
     2728,
     158,
     382,
     58,
     2424,
     2748,
+    2758,
     831,
     848,
     125,
@@ -223,6 +225,7 @@
     95,
     1103,
     180,
+    1947,
     16,
     1090,
     31,
@@ -246,21 +249,22 @@
     428
   ],
   "stats": {
-    "popularity": 3989,
+    "popularity": 3991,
     "favourites": 104,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 2.6072,
-    "fanRatioPercentile": 81.3177,
-    "popularityPercentile": 94.5173,
-    "fanFavouriteDiscoveryScore": 81.1546,
-    "fanFavouriteDiscoveryPercentile": 88.1958
+    "fanFavouriteRaw": 2.6059,
+    "fanRatioPercentile": 81.2686,
+    "popularityPercentile": 94.5186,
+    "fanFavouriteDiscoveryScore": 81.1056,
+    "fanFavouriteDiscoveryPercentile": 88.1452
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
       "horror-survival",
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -268,7 +272,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -290,7 +296,7 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "horror-survival",
+    "semanticSummary": "horror-survival / modern-korea",
     "searchKeywords": [
       "pawn",
       "revenge",
@@ -328,12 +334,14 @@
         "Mass Murder",
         "Prostitution",
         "Male Prostitution",
+        "Possessive Seme",
         "Bisexual Protagonist",
         "Primarily Adult Cast",
         "Bisexual",
         "Male Lead",
         "Bisexual Male Lead",
         "Bisexual Uke",
+        "Sexually Insatiable Uke",
         "Dead Family Member",
         "Family Drama",
         "Love Triangle",
@@ -359,9 +367,7 @@
         "Rape",
         "Affairs",
         "Boys Love",
-        "Yaoi",
-        "Depression",
-        "Drama"
+        "Korean Boys Love"
       ],
       "titleTerms": [
         "pawn",
@@ -404,6 +410,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.82
   }
 }
