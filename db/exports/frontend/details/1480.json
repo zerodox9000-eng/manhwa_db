@@ -106,9 +106,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.821Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-28T00:40:27.616Z",
+  "last_updated_at": "2026-06-28T10:49:09.927Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-28T10:30:43.483Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T11:40:42.085Z",
   "authors": [
     "Aengmusae",
     "Ojikjaemi"
@@ -144,6 +144,8 @@
     74,
     107,
     356,
+    283,
+    748,
     125,
     520,
     20,
@@ -169,19 +171,22 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.1291,
-    "fanRatioPercentile": 73.12,
-    "popularityPercentile": 86.1562,
-    "fanFavouriteDiscoveryScore": 72.8262,
-    "fanFavouriteDiscoveryPercentile": 80.6705
+    "fanRatioPercentile": 73.1276,
+    "popularityPercentile": 86.141,
+    "fanFavouriteDiscoveryScore": 72.8334,
+    "fanFavouriteDiscoveryPercentile": 80.6629
   },
   "context": {
-    "primaryProfile": "horror-survival",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
       "horror-survival",
+      "regression-return",
       "romance-core",
       "school-life"
     ],
     "primaryAnchors": [
+      "business-career-regression",
       "horror-survival"
     ],
     "excludedProfiles": [],
@@ -192,6 +197,7 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
+        "regression",
         "system"
       ],
       "conflictType": [
@@ -209,10 +215,10 @@
         "system-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "major"
     },
-    "semanticSummary": "horror-survival / school / system",
+    "semanticSummary": "business-career-regression / school / regression / system",
     "searchKeywords": [
       "horror",
       "club",
@@ -247,6 +253,8 @@
         "Based on a Web Novel",
         "School",
         "School Clubs",
+        "Amnesia",
+        "Age Regression",
         "Love Triangle",
         "Death Game",
         "Harem",
@@ -306,6 +314,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.81
+    "confidence": 1
   }
 }
