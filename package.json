@@ -12,6 +12,7 @@
     "build:frontend:v2": "node scripts/build/buildFrontendV2Exports.js",
     "validate:frontend": "node scripts/evaluate/validateFrontendStatsExport.js",
     "validate:frontend:v2": "node scripts/evaluate/validateFrontendV2Export.js",
+    "validate:github-sizes": "node scripts/evaluate/validateGitHubFileSizes.js",
     "evaluate:recommendations": "node scripts/evaluate/recommendationContexts.js",
     "daily": "npm run update && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend",
     "update": "node scripts/updates/updateMangabaka.js",

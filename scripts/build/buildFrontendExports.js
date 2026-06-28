@@ -1259,11 +1259,7 @@ fs.writeFileSync(
     "series/all.json"
   ),
 
-  JSON.stringify(
-    discovery,
-    null,
-    2
-  )
+  JSON.stringify(discovery)
 );
 
 fs.writeFileSync(
@@ -1273,11 +1269,7 @@ fs.writeFileSync(
     "recommendations/features.json"
   ),
 
-  JSON.stringify(
-    recommendationFeatures,
-    null,
-    2
-  )
+  JSON.stringify(recommendationFeatures)
 );
 
 fs.writeFileSync(
@@ -1301,11 +1293,7 @@ fs.writeFileSync(
     "stats/history.json"
   ),
 
-  JSON.stringify(
-    historyMap,
-    null,
-    2
-  )
+  JSON.stringify(historyMap)
 );
 
 fs.writeFileSync(

@@ -7,6 +7,9 @@ concurrency:
   group: daily-pipeline
   cancel-in-progress: false
 
+permissions:
+  contents: write
+
 on:
 
   schedule:
@@ -19,11 +22,14 @@ jobs:
   pipeline:
 
     runs-on: ubuntu-latest
+    timeout-minutes: 90
 
     steps:
 
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v5
@@ -31,7 +37,7 @@ jobs:
           node-version: 22
 
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
 
       - name: Bootstrap directories
         run: |
@@ -54,15 +60,26 @@ jobs:
       - name: Run Daily Pipeline
         run: npm run daily:incremental
 
+      - name: Validate GitHub file sizes
+        run: npm run validate:github-sizes
+
       - name: Commit Updated DB
         run: |
-
           git config user.name "github-actions"
-
           git config user.email "actions@github.com"
-
           git add .
-
           git diff --cached --quiet || git commit -m "daily db update"
 
-          git push
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed; rebasing onto origin/main before retry."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((attempt * 10))
+          done
+
+          echo "Unable to publish the daily update after 3 attempts."
+          exit 1
