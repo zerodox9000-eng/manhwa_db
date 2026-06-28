@@ -1,10 +1,41 @@
 const fs = require("fs");
 const path = require("path");
+const zlib = require("zlib");
 
 const EXPORT_DIR = path.resolve(__dirname, "../../db/exports/frontend");
 
 function readJson(relativePath) {
-  return JSON.parse(fs.readFileSync(path.join(EXPORT_DIR, relativePath), "utf-8"));
+  const jsonPath = path.join(EXPORT_DIR, relativePath);
+  if (fs.existsSync(jsonPath)) {
+    return JSON.parse(fs.readFileSync(jsonPath, "utf8"));
+  }
+  const gzipPath = `${jsonPath}.gz`;
+  if (fs.existsSync(gzipPath)) {
+    return JSON.parse(zlib.gunzipSync(fs.readFileSync(gzipPath)).toString("utf8"));
+  }
+
+  const manifest = JSON.parse(
+    fs.readFileSync(path.join(EXPORT_DIR, "meta/data-manifest.json"), "utf8")
+  );
+  const datasetName =
+    relativePath === "series/all.json"
+      ? "catalog"
+      : relativePath === "stats/history.json"
+        ? "history"
+        : null;
+  if (!datasetName) throw new Error(`No frontend data source for ${relativePath}`);
+  const descriptor = manifest.datasets[datasetName];
+  const combined = descriptor.kind === "array" ? [] : {};
+  for (const chunk of descriptor.chunks) {
+    const parsed = JSON.parse(
+      zlib.gunzipSync(
+        fs.readFileSync(path.join(EXPORT_DIR, chunk.path))
+      ).toString("utf8")
+    );
+    if (descriptor.kind === "array") combined.push(...parsed);
+    else Object.assign(combined, parsed);
+  }
+  return combined;
 }
 
 function isDateLike(value) {

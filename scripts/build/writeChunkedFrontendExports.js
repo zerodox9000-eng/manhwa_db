@@ -7,6 +7,12 @@ const CONTRACT = "manhwa-frontend-data";
 const SCHEMA_VERSION = 1;
 const CHUNK_TARGET_BYTES = 8 * 1024 * 1024;
 const MAX_CHUNK_BYTES = 20 * 1024 * 1024;
+const LEGACY_COMPATIBILITY_MAX_BYTES = 80 * 1024 * 1024;
+const LEGACY_AGGREGATES = [
+  "series/all.json",
+  "stats/history.json",
+  "recommendations/features.json",
+];
 
 function sha256(buffer) {
   return crypto.createHash("sha256").update(buffer).digest("hex");
@@ -196,10 +202,37 @@ function writeChunkedFrontendExports({
   return manifest;
 }
 
+function finalizeLegacyFrontendExports(exportDir) {
+  const gzipPaths = LEGACY_AGGREGATES.map((relativePath) =>
+    path.join(exportDir, `${relativePath}.gz`)
+  );
+  const retireCompatibilityBundle = gzipPaths.some(
+    (gzipPath) =>
+      !fs.existsSync(gzipPath) ||
+      fs.statSync(gzipPath).size >= LEGACY_COMPATIBILITY_MAX_BYTES
+  );
+
+  for (const relativePath of LEGACY_AGGREGATES) {
+    fs.rmSync(path.join(exportDir, relativePath), { force: true });
+  }
+
+  if (retireCompatibilityBundle) {
+    for (const gzipPath of gzipPaths) {
+      fs.rmSync(gzipPath, { force: true });
+    }
+    console.log("Legacy aggregate gzip bundle retired before reaching the GitHub size limit.");
+    return;
+  }
+
+  console.log("Legacy aggregate gzip bundle retained for older frontend versions.");
+}
+
 module.exports = {
   CHUNK_TARGET_BYTES,
   CONTRACT,
+  LEGACY_COMPATIBILITY_MAX_BYTES,
   MAX_CHUNK_BYTES,
   SCHEMA_VERSION,
+  finalizeLegacyFrontendExports,
   writeChunkedFrontendExports,
 };

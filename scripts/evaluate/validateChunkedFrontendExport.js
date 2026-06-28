@@ -22,7 +22,10 @@ function readLegacy(relativePath) {
   if (fs.existsSync(jsonPath)) {
     return JSON.parse(fs.readFileSync(jsonPath, "utf8"));
   }
-  return JSON.parse(zlib.gunzipSync(fs.readFileSync(gzipPath)).toString("utf8"));
+  if (fs.existsSync(gzipPath)) {
+    return JSON.parse(zlib.gunzipSync(fs.readFileSync(gzipPath)).toString("utf8"));
+  }
+  return null;
 }
 
 function safeChunkPath(relativePath) {
@@ -85,11 +88,13 @@ function main() {
     const descriptor = manifest.datasets?.[datasetName];
     assert(descriptor, `Manifest is missing ${datasetName}`);
     const chunkedValue = loadDataset(datasetName, descriptor);
-    assert.deepStrictEqual(
-      chunkedValue,
-      expectedValue,
-      `${datasetName} chunks do not reconstruct the legacy export`
-    );
+    if (expectedValue != null) {
+      assert.deepStrictEqual(
+        chunkedValue,
+        expectedValue,
+        `${datasetName} chunks do not reconstruct the legacy export`
+      );
+    }
   }
 
   console.log(

@@ -1,7 +1,10 @@
 const fs = require("fs");
 const path = require("path");
 const zlib = require("zlib");
-const { writeChunkedFrontendExports } = require("./writeChunkedFrontendExports");
+const {
+  finalizeLegacyFrontendExports,
+  writeChunkedFrontendExports,
+} = require("./writeChunkedFrontendExports");
 
 const SERIES_DIR =
   path.resolve(
@@ -1384,6 +1387,8 @@ writeChunkedFrontendExports({
   recommendations: recommendationFeatures,
   generatedAt: latestCache.snapshotAt || new Date().toISOString(),
 });
+
+finalizeLegacyFrontendExports(EXPORT_DIR);
 
 
 
