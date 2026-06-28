@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const zlib = require("zlib");
+const { writeChunkedFrontendExports } = require("./writeChunkedFrontendExports");
 
 const SERIES_DIR =
   path.resolve(
@@ -1252,6 +1253,8 @@ fs.mkdirSync(
   { recursive: true }
 );
 
+const tagsExport = Object.fromEntries(tagMap);
+
 fs.writeFileSync(
 
   path.join(
@@ -1280,7 +1283,7 @@ fs.writeFileSync(
   ),
 
   JSON.stringify(
-    Object.fromEntries(tagMap),
+    tagsExport,
     null,
     2
   )
@@ -1373,6 +1376,14 @@ console.log(
   "Gzip exports built."
 );
 
+writeChunkedFrontendExports({
+  exportDir: EXPORT_DIR,
+  catalog: discovery,
+  tags: tagsExport,
+  history: historyMap,
+  recommendations: recommendationFeatures,
+  generatedAt: latestCache.snapshotAt || new Date().toISOString(),
+});
 
 
 

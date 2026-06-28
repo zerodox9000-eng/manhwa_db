@@ -47,6 +47,7 @@ jobs:
           mkdir -p db/enriched/anilist
           mkdir -p db/snapshots/anilist-daily
           mkdir -p db/exports/frontend/details
+          mkdir -p db/exports/frontend/builds
           mkdir -p db/exports/frontend/meta
           mkdir -p db/exports/frontend/series
           mkdir -p db/exports/frontend/stats
@@ -59,6 +60,11 @@ jobs:
 
       - name: Run Daily Pipeline
         run: npm run daily:incremental
+
+      - name: Validate frontend data contract
+        run: |
+          npm run validate:frontend
+          npm run validate:frontend:chunks
 
       - name: Validate GitHub file sizes
         run: npm run validate:github-sizes
