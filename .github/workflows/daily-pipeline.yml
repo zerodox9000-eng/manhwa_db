@@ -61,6 +61,9 @@ jobs:
       - name: Run Daily Pipeline
         run: npm run daily:incremental
 
+      - name: Validate AniList year coverage
+        run: npm run validate:anilist
+
       - name: Validate frontend data contract
         run: |
           npm run validate:frontend
