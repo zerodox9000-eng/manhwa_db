@@ -40,7 +40,7 @@
       "note": null
     },
     {
-      "language": "zh",
+      "language": "zh-hk",
       "title": "是誰殺了我",
       "traits": [],
       "is_primary": true,
@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T22:21:24.113Z",
+  "last_updated_at": "2026-06-27T17:16:27.955Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Yun-Hu Lee"
   ],
@@ -86,12 +86,18 @@
       "rating": null,
       "url": "https://www.anime-planet.com/manga/who-killed-me"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "g9o7lp6",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/g9o7lp6"
+    }
   },
   "tag_ids": [
     59,
     31,
     32,
+    18,
+    9,
     19,
     93,
     57,
@@ -104,15 +110,16 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6002,
-    "popularityPercentile": 31.5468,
-    "fanFavouriteDiscoveryScore": 22.865,
-    "fanFavouriteDiscoveryPercentile": 25.4098
+    "fanRatioPercentile": 31.6291,
+    "popularityPercentile": 31.5376,
+    "fanFavouriteDiscoveryScore": 22.881,
+    "fanFavouriteDiscoveryPercentile": 25.4038
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -127,9 +134,12 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "dark",
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -166,6 +176,8 @@
         "Female Lead",
         "Drama",
         "Mystery",
+        "Psychological",
+        "Romance",
         "Thriller",
         "Longstrip",
         "Full Color",
@@ -208,9 +220,10 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.42
+    "confidence": 0.51
   }
 }

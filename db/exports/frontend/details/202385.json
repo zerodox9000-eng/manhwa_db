@@ -5,7 +5,7 @@
   "display_title": "Even a Wild Man Wants to Love!",
   "mangabaka_title": "Even a Wild Man Wants to Love!",
   "native_title": "자연인도 사랑 하고싶어!",
-  "romanized_title": "Jayeonindo Sarang Hagosipeo!",
+  "romanized_title": "Jayeon-indo Salanghago Sip-eo!",
   "titles": [
     {
       "language": "ko",
@@ -34,11 +34,25 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Jayeon-indo Salanghago Sip-eo!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Jayeonindo Sarang Hagosipeo!",
       "traits": [
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Let Me Love a Wild Man Too!",
+      "traits": [],
+      "is_primary": false,
       "note": null
     }
   ],
@@ -57,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T02:28:12.747Z",
-  "mangabaka_latest_rank": 5368,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-28T05:46:34.801Z",
+  "mangabaka_latest_rank": 5389,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Hyeonggae"
   ],
@@ -81,42 +95,66 @@
       "rating": null,
       "url": "https://www.anime-planet.com/manga/i-want-to-love-nature-too"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "m8gjxgo",
+      "rating": 62,
+      "url": "https://www.mangaupdates.com/series/m8gjxgo"
+    }
   },
   "tag_ids": [
+    1006,
+    1381,
+    1442,
+    1585,
     158,
+    1533,
+    987,
+    1571,
+    287,
+    46,
     14,
+    109,
     161,
+    103,
+    95,
+    2729,
     180,
+    1947,
     16,
     6,
     31,
     9,
     93,
+    1167,
     57,
-    428
+    428,
+    1128,
+    2058
   ],
   "stats": {
-    "popularity": 116,
+    "popularity": 117,
     "favourites": 1,
     "meanScore": 56
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8621,
-    "fanRatioPercentile": 40.3141,
-    "popularityPercentile": 42.7689,
-    "fanFavouriteDiscoveryScore": 35.0571,
-    "fanFavouriteDiscoveryPercentile": 38.8046
+    "fanFavouriteRaw": 0.8547,
+    "fanRatioPercentile": 40.1326,
+    "popularityPercentile": 42.929,
+    "fanFavouriteDiscoveryScore": 34.9596,
+    "fanFavouriteDiscoveryPercentile": 38.723
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -133,15 +171,15 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "even",
       "wild",
       "man",
       "wants",
       "love",
-      "jayeonindo",
-      "sarang",
+      "jayeon-indo",
+      "salanghago",
       "jung",
       "hyun-do",
       "wanted",
@@ -167,17 +205,34 @@
     ],
     "evidence": {
       "tags": [
+        "Sexual Assault",
+        "Black-Haired Seme",
+        "Gray-Haired Uke",
+        "Rich Seme",
         "Primarily Adult Cast",
+        "Mountain",
+        "Older Seme Younger Uke",
+        "Height Gap",
+        "Exhibitionism",
+        "Adult",
         "Erotica",
+        "Nudity",
         "Masturbation",
+        "Public Intercourse",
+        "Rape",
+        "Sexual Coercion",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Comedy",
         "Drama",
         "Romance",
         "Longstrip",
+        "Short Story",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "even",
@@ -190,8 +245,8 @@
         "man",
         "wants",
         "love",
-        "jayeonindo",
-        "sarang"
+        "jayeon-indo",
+        "salanghago"
       ],
       "descriptionTerms": [
         "jung",
@@ -221,10 +276,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.66
   }
 }

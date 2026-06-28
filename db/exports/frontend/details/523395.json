@@ -2,11 +2,25 @@
   "id": 523395,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Let's Spread the Words, Mister",
+  "display_title": "Open Up, Ahjussi",
   "mangabaka_title": "Beollyeoyo, Ajeossi",
   "native_title": "벌려요, 아저씨",
   "romanized_title": "Beollyeoyo, Ajeossi",
   "titles": [
+    {
+      "language": "ko",
+      "title": "벌려요",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "아저씨",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
     {
       "language": "ko",
       "title": "벌려요, 아저씨",
@@ -29,13 +43,20 @@
       "language": "en",
       "title": "Let's Spread the Words, Mister",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Open Up, Ahjussi",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Jang Hui-Mun, who runs a cafe with his mother in the quiet countryside village of Sanbom, is troubled by his mother's sudden employment of a shabby man. Hui-Mun, constantly entangled with this slightly flawed man, resolves to kick him out, but strangely, his lower half finds himself drawn back to him...! \n\nA slightly wild, slightly murderous romance begins!\n\n(Source: Boomtoon, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwMTk2OS1vVjJ3cGRyY1d3dkIucG5n",
-  "total_chapters": null,
+  "total_chapters": "28",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -48,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-16T01:05:09.584Z",
-  "mangabaka_latest_rank": 1906,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-28T00:35:20.559Z",
+  "mangabaka_latest_rank": 1927,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Jedi",
     "Ppibim"
@@ -68,10 +89,19 @@
       "rating": null,
       "url": "https://anilist.co/manga/201969"
     },
-    "animeplanet": null,
-    "mangaupdates": null
+    "animeplanet": {
+      "id": "open-up-ahjussi",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/open-up-ahjussi"
+    },
+    "mangaupdates": {
+      "id": "t7gu4ur",
+      "rating": 62,
+      "url": "https://www.mangaupdates.com/series/t7gu4ur"
+    }
   },
   "tag_ids": [
+    74,
     106,
     46,
     41,
@@ -90,10 +120,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6002,
-    "popularityPercentile": 8.7825,
-    "fanFavouriteDiscoveryScore": 8.9098,
-    "fanFavouriteDiscoveryPercentile": 8.0659
+    "fanRatioPercentile": 31.6291,
+    "popularityPercentile": 8.7854,
+    "fanFavouriteDiscoveryScore": 8.9195,
+    "fanFavouriteDiscoveryPercentile": 8.0692
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -123,10 +153,8 @@
     },
     "semanticSummary": "romance-core",
     "searchKeywords": [
-      "let",
-      "spread",
-      "words",
-      "mister",
+      "open",
+      "ahjussi",
       "beollyeoyo",
       "ajeossi",
       "jang",
@@ -153,6 +181,7 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Age Gap",
         "Adult",
         "Smut",
@@ -165,10 +194,8 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "let",
-        "spread",
-        "words",
-        "mister",
+        "open",
+        "ahjussi",
         "beollyeoyo",
         "ajeossi",
         "beollyeoyo",
@@ -201,9 +228,11 @@
         "strangely"
       ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.46
   }
 }

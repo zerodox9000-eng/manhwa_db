@@ -26,6 +26,20 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "How to Escape from a Reverse Harem Cliché",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "How to Escape the Reverse Harem Cliché",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Yeokarem Keullisyeeseo Domangchineun Beop",
       "traits": [
@@ -37,6 +51,13 @@
     {
       "language": "ru",
       "title": "Как избежать клишированного реверс-гаремника",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "逆ハーレム小説のヒロインなんかお断りします!",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -57,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T11:01:17.435Z",
-  "mangabaka_latest_rank": 1999,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T18:14:27.989Z",
+  "mangabaka_latest_rank": 2020,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Da-Reum Dan",
     "Yeong-Su"
@@ -82,21 +103,32 @@
       "rating": 76,
       "url": "https://www.anime-planet.com/manga/how-to-escape-an-esper-harem"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "0mxgkol",
+      "rating": 66,
+      "url": "https://www.mangaupdates.com/series/0mxgkol"
+    }
   },
   "tag_ids": [
     43,
+    1459,
+    693,
     59,
     74,
+    405,
+    107,
     126,
     20,
     164,
     165,
     108,
     434,
+    450,
     36,
     94,
     258,
+    639,
+    127,
     9,
     236,
     93,
@@ -104,29 +136,36 @@
     428
   ],
   "stats": {
-    "popularity": 124,
+    "popularity": 125,
     "favourites": 1,
     "meanScore": 55
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8065,
-    "fanRatioPercentile": 38.9418,
-    "popularityPercentile": 43.9125,
-    "fanFavouriteDiscoveryScore": 34.2699,
-    "fanFavouriteDiscoveryPercentile": 37.8745
+    "fanFavouriteRaw": 0.8,
+    "fanRatioPercentile": 38.8449,
+    "popularityPercentile": 43.9957,
+    "fanFavouriteDiscoveryScore": 34.213,
+    "fanFavouriteDiscoveryPercentile": 37.8391
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "regression-return",
-      "romance-core"
+      "romance-core",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "kingdom-fantasy",
+        "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -147,7 +186,7 @@
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / reincarnation",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "escape",
       "esper",
@@ -182,17 +221,24 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Purple/Violet-Eyed Female Lead",
+        "White/Silver-Haired Female Lead",
         "Female Lead",
         "Based on a Web Novel",
+        "Europe",
+        "School",
         "Reincarnation",
         "Harem",
         "Male Harem",
         "Reverse Harem",
         "Heterosexual",
         "Guideverse",
+        "European Ambience",
         "Fantasy",
         "Isekai",
         "Isekaied Into a Novel",
+        "Reincarnated in a Book World",
+        "Nobility",
         "Romance",
         "Super Powers",
         "Longstrip",
@@ -239,10 +285,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.66
+    "confidence": 1
   }
 }

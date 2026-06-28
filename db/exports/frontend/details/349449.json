@@ -42,8 +42,8 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Let's Do It Once, Sir",
+      "language": "en",
+      "title": "Let’s Do It Once, Sir",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -51,6 +51,13 @@
     {
       "language": "en",
       "title": "Let's Do It Once, Teacher",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Shall We Try It, Teacher?",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -71,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.824Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T22:08:19.192Z",
-  "mangabaka_latest_rank": 3209,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T17:16:29.862Z",
+  "mangabaka_latest_rank": 3230,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Hwaro",
     "Yulatte"
@@ -96,17 +103,25 @@
       "rating": null,
       "url": "https://www.anime-planet.com/manga/hit-me-one-more-time-teacher"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "tpgw5u8",
+      "rating": 62,
+      "url": "https://www.mangaupdates.com/series/tpgw5u8"
+    }
   },
   "tag_ids": [
+    43,
     158,
     59,
     74,
     107,
     175,
     106,
+    46,
     14,
+    41,
     1550,
+    6,
     31,
     241,
     9,
@@ -121,10 +136,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6002,
-    "popularityPercentile": 13.2347,
-    "fanFavouriteDiscoveryScore": 11.4606,
-    "fanFavouriteDiscoveryPercentile": 11.954
+    "fanRatioPercentile": 31.6291,
+    "popularityPercentile": 13.1972,
+    "fanFavouriteDiscoveryScore": 11.4482,
+    "fanFavouriteDiscoveryPercentile": 11.9171
   },
   "context": {
     "primaryProfile": "office-romance",
@@ -150,6 +165,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [],
@@ -191,14 +207,18 @@
     ],
     "evidence": {
       "tags": [
+        "Josei",
         "Primarily Adult Cast",
         "Female Lead",
         "Based on a Web Novel",
         "School",
         "Teachers",
         "Age Gap",
+        "Adult",
         "Erotica",
+        "Smut",
         "One-Night Stand",
+        "Comedy",
         "Drama",
         "Mature Romance",
         "Romance",
@@ -245,10 +265,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.74
   }
 }

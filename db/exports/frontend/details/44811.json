@@ -17,6 +17,20 @@
       "note": null
     },
     {
+      "language": "es",
+      "title": "De mala racha",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "De Todos Modos Nuestro Equipo Es El Último",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Eochapi Uritimeun Kkoljjiya",
       "traits": [
@@ -27,7 +41,28 @@
     },
     {
       "language": "en",
+      "title": "First Base",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Nụ Hôn May Mắn",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Our Team is Last Place Anyway",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Our Team Is the Last Anyway",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -44,6 +79,27 @@
     {
       "language": "ru",
       "title": "В любом случае наша команда придет последней",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "ทีมเรามันที่โหล่ตลอดกาล",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "反正我们队是倒数第一",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh-hk",
+      "title": "拯救萬年墊底棒球隊",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -64,9 +120,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.186Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T16:59:16.210Z",
+  "last_updated_at": "2026-06-27T17:16:27.233Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Peralta"
   ],
@@ -88,7 +144,11 @@
       "rating": 74,
       "url": "https://www.anime-planet.com/manga/the-losing-streak"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "vbva2t6",
+      "rating": 67,
+      "url": "https://www.mangaupdates.com/series/vbva2t6"
+    }
   },
   "tag_ids": [
     695,
@@ -96,10 +156,17 @@
     503,
     850,
     72,
+    1993,
     158,
+    2131,
+    2193,
+    2481,
+    2520,
+    2716,
     1064,
     108,
     398,
+    46,
     14,
     41,
     6,
@@ -118,10 +185,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.9569,
-    "fanRatioPercentile": 42.7765,
-    "popularityPercentile": 66.4786,
-    "fanFavouriteDiscoveryScore": 41.9053,
-    "fanFavouriteDiscoveryPercentile": 47.2364
+    "fanRatioPercentile": 42.7918,
+    "popularityPercentile": 66.4813,
+    "fanFavouriteDiscoveryScore": 41.9204,
+    "fanFavouriteDiscoveryPercentile": 47.2569
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -192,10 +259,17 @@
         "Ojou-sama",
         "Muscular Male Lead",
         "Beautiful Female Lead",
+        "Muscles",
         "Primarily Adult Cast",
+        "Female Lead with Sexual Experience",
+        "Mature Female Lead",
+        "Inexperienced Male Lead",
+        "Male Lead without Sexual Experience",
+        "Sexually Active Protagonist",
         "Weak to Strong",
         "Heterosexual",
         "Femdom",
+        "Adult",
         "Erotica",
         "Smut",
         "Comedy",
@@ -244,10 +318,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.75
   }
 }

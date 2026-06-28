@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T10:09:10.084Z",
-  "mangabaka_latest_rank": 2539,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T17:16:30.038Z",
+  "mangabaka_latest_rank": 2560,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Sa-Geum"
   ],
@@ -72,9 +72,19 @@
       "rating": 72,
       "url": "https://www.anime-planet.com/manga/story-time-a-ghost-confessed-to-me"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "0ik5kps",
+      "rating": 68,
+      "url": "https://www.mangaupdates.com/series/0ik5kps"
+    }
   },
   "tag_ids": [
+    1526,
+    1489,
+    1378,
+    1810,
+    1067,
+    2530,
     848,
     449,
     648,
@@ -84,6 +94,7 @@
     41,
     229,
     180,
+    1947,
     16,
     6,
     31,
@@ -97,25 +108,27 @@
     282,
     19,
     93,
+    1167,
     57,
     428
   ],
   "stats": {
-    "popularity": 209,
+    "popularity": 213,
     "favourites": 2,
     "meanScore": 64
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9569,
-    "fanRatioPercentile": 42.7765,
-    "popularityPercentile": 53.6327,
-    "fanFavouriteDiscoveryScore": 40.3307,
-    "fanFavouriteDiscoveryPercentile": 45.1628
+    "fanFavouriteRaw": 0.939,
+    "fanRatioPercentile": 42.3118,
+    "popularityPercentile": 54.0232,
+    "fanFavouriteDiscoveryScore": 39.9657,
+    "fanFavouriteDiscoveryPercentile": 44.6358
   },
   "context": {
     "primaryProfile": "sports-career",
     "profileGroups": [
       "horror-survival",
+      "modern-korea",
       "romance-core",
       "sports-career"
     ],
@@ -125,7 +138,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [
         "sports"
@@ -148,7 +163,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "sports-career",
+    "semanticSummary": "sports-career / modern-korea",
     "searchKeywords": [
       "time",
       "ghost",
@@ -184,6 +199,12 @@
     ],
     "evidence": {
       "tags": [
+        "Eyebags",
+        "Green-Eyed Seme",
+        "Black-Haired Uke",
+        "Crybaby Seme",
+        "Dark/Tan Skin",
+        "Clingy Male Lead",
         "Family Drama",
         "Flashbacks",
         "Past Plays a Big Role",
@@ -193,6 +214,7 @@
         "Smut",
         "Ghosts",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Comedy",
         "Drama",
@@ -206,6 +228,7 @@
         "Family Life",
         "Thriller",
         "Longstrip",
+        "Short Story",
         "Full Color",
         "Web Comic"
       ],
@@ -251,9 +274,10 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.91
+    "confidence": 0.98
   }
 }

@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Became the Villain's Daughter at the Academy",
-  "mangabaka_title": "Academy no Kuromaku no Musume ni Natta",
+  "mangabaka_title": "I Became the Villain's Daughter at the Academy",
   "native_title": "アカデミーの黒幕の娘になった",
   "romanized_title": "Academy Heungmagui Ttari Doeeotda",
   "titles": [
@@ -54,7 +54,9 @@
     {
       "language": "en",
       "title": "I Became the Villain's Daughter at the Academy",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -68,7 +70,7 @@
       "note": null
     }
   ],
-  "description": "Graduate the Academy by Luck is a trash VR game loved by no one—except for him. But that doesn’t mean he wanted to end up inside of it! After transmigrating into the body of a young female character named Oknodie, this protagonist will have to start from the bottom of a hierarchy based on luck. With only his wits and the help of a few new friends, will he be able to raise Oknodie up and win the game, or will he be trapped inside the body of a weakling character forever?!\n\n**Original Webtoon:**     \n[KakaoPage](https://page.kakao.com/content/67991554), [Daum](https://webtoon.kakao.com/content/%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%ED%9D%91%EB%A7%89%EC%9D%98-%EB%94%B8%EC%9D%B4-%EB%90%98%EC%97%88%EB%8B%A4/4682) \n\n**Official Translations:**   \n[Japanese](https://jp.piccoma.com/web/product/184958), [English](https://tapas.io/series/i-became-the-villains-daughter-at-the-academy/info)",
+  "description": "Graduate the Academy by Luck is a trash VR game loved by no one—except for him. But that doesn’t mean he wanted to end up inside of it! After transmigrating into the body of a young female character named Oknodie, this protagonist will have to start from the bottom of a hierarchy based on luck. With only his wits and the help of a few new friends, will he be able to raise Oknodie up and win the game, or will he be trapped inside the body of a weakling character forever?! \n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzQvYS8xL2YvZi84LzMvOTI2My80NGQwL2JjMWEvYzJhOTIxMGY4NDMw",
   "total_chapters": "50",
   "status": "releasing",
@@ -83,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T10:42:05.256Z",
-  "mangabaka_latest_rank": 2166,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-28T07:52:31.850Z",
+  "mangabaka_latest_rank": 2187,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Huigwi Handy Bear"
   ],
@@ -94,7 +96,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/513815",
-    "read_en": null
+    "read_en": "https://tapas.io/series/329188/info"
   },
   "source": {
     "anilist": {
@@ -129,28 +131,26 @@
     428
   ],
   "stats": {
-    "popularity": 82,
+    "popularity": 85,
     "favourites": 2,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 2.439,
-    "fanRatioPercentile": 78.8824,
-    "popularityPercentile": 36.4031,
-    "fanFavouriteDiscoveryScore": 62.8601,
-    "fanFavouriteDiscoveryPercentile": 71.2739
+    "fanFavouriteRaw": 2.3529,
+    "fanRatioPercentile": 77.4688,
+    "popularityPercentile": 36.9628,
+    "fanFavouriteDiscoveryScore": 62.3103,
+    "fanFavouriteDiscoveryPercentile": 70.634
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "school-life",
     "profileGroups": [
-      "modern-korea",
       "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -174,15 +174,12 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "modern-korea / modern-korea / school / reincarnation",
+    "semanticSummary": "school-life / school / reincarnation",
     "searchKeywords": [
       "became",
       "villain",
       "daughter",
       "academy",
-      "kuromaku",
-      "musume",
-      "natta",
       "heungmagui",
       "ttari",
       "doeeotda",
@@ -230,10 +227,10 @@
         "villain",
         "daughter",
         "academy",
+        "became",
+        "villain",
+        "daughter",
         "academy",
-        "kuromaku",
-        "musume",
-        "natta",
         "academy",
         "heungmagui",
         "ttari",
@@ -268,9 +265,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.48
   }
 }

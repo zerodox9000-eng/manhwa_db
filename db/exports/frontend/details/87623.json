@@ -75,6 +75,13 @@
       "note": null
     },
     {
+      "language": "vi",
+      "title": "Giữa tình cờ và định mệnh",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Uyeongwa Pillyeonsai",
       "traits": [
@@ -127,9 +134,9 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.173Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T16:53:42.181Z",
+  "last_updated_at": "2026-06-28T00:38:40.355Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Mono"
   ],
@@ -151,11 +158,17 @@
       "rating": 82,
       "url": "https://www.anime-planet.com/manga/between-fate-and-fortune"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "wcajlpy",
+      "rating": 72,
+      "url": "https://www.mangaupdates.com/series/wcajlpy"
+    }
   },
   "tag_ids": [
     285,
     315,
+    1378,
+    1415,
     1019,
     579,
     158,
@@ -168,7 +181,9 @@
     125,
     898,
     880,
+    1693,
     755,
+    1969,
     985,
     14,
     109,
@@ -181,8 +196,10 @@
     511,
     95,
     180,
+    1947,
     16,
     117,
+    1595,
     31,
     893,
     9,
@@ -200,14 +217,15 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2823,
-    "fanRatioPercentile": 76.2293,
-    "popularityPercentile": 83.4947,
-    "fanFavouriteDiscoveryScore": 75.8474,
-    "fanFavouriteDiscoveryPercentile": 83.5786
+    "fanRatioPercentile": 76.1887,
+    "popularityPercentile": 83.5035,
+    "fanFavouriteDiscoveryScore": 75.8072,
+    "fanFavouriteDiscoveryPercentile": 83.5111
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core",
       "school-life"
     ],
@@ -215,6 +233,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -234,7 +253,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "between",
       "fate",
@@ -268,6 +287,8 @@
       "tags": [
         "Blackmail",
         "Yandere",
+        "Black-Haired Uke",
+        "Light-Haired Seme",
         "Handsome Seme",
         "Scars",
         "Primarily Adult Cast",
@@ -280,7 +301,9 @@
         "Love Triangle",
         "Tragic Past",
         "Older Uke Younger Seme",
+        "Contractual Relationship",
         "Inseki",
+        "Manly Gay Couple",
         "Dubious Consent",
         "Erotica",
         "Nudity",
@@ -293,17 +316,15 @@
         "Deepthroat",
         "Rape",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Coming of Age",
+        "Near-Death Experience",
         "Drama",
         "Obsessive Love",
         "Romance",
         "Unrequited Love",
-        "Tragedy",
-        "Traumatic Past",
-        "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Tragedy"
       ],
       "titleTerms": [
         "between",
@@ -343,10 +364,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.66
+    "confidence": 0.73
   }
 }

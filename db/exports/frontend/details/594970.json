@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "My Husband Is Definitely a Paladin",
   "mangabaka_title": "My Husband Is Definitely a Paladin",
-  "native_title": null,
+  "native_title": "남편은 분명 성기사였는데",
   "romanized_title": null,
   "titles": [
     {
@@ -16,14 +16,21 @@
     },
     {
       "language": "en",
+      "title": "Holy Night: My Husband is Definitely a Paladin",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "My Husband Is Definitely a Paladin",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": null,
-  "cover": null,
+  "description": "\"Tonight, too, I want to receive your purification.\"\n\nIt was a miserable life. Despite possessing the power to purify demonic energy, Irene was classified as the lowest rank. Throughout her short life, she was never welcomed or loved by anyone. Even in her final moments, she died completely alone—yet somehow, she returned to the past.\n\nSpecifically, right before she met Michael, the husband whose life she had ruined.\n\n'The very first mistake I must fix in this lifetime. It is… getting involved with Michael.'\n\nBut Michael is acting strange.\n\n\"I… need you. Please, purify me.\"\n\nNot only does he ask for purification first, but this holy knight—who might as well be a celibate priest—keeps coming to her room every night.\n\n\"Irene. My Pair. My wife. Tonight, I want to receive your purification. Very slowly, for a long time.\"\n\nExcuse me, but in our past life, weren't you the holy knight who couldn't even bear the thought of our fingers brushing?",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwNTUxLmpwZw",
   "total_chapters": "0",
   "status": "unknown",
   "content_rating": "safe",
@@ -37,11 +44,11 @@
   },
   "first_seen_at": "2026-06-27T04:47:35.338Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-26T19:26:07.475Z",
-  "mangabaka_latest_rank": 2,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T19:50:26.590Z",
+  "mangabaka_latest_rank": 23,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
-    "Baek Seol-Ah"
+    "BAEK Seolhong"
   ],
   "artists": [
     "Jagae"
@@ -55,11 +62,12 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "lnxas9h",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/lnxas9h"
     }
   },
   "tag_ids": [
+    43,
     36,
     9
   ],
@@ -74,8 +82,9 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "regression-return",
     "profileGroups": [
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -84,11 +93,15 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "regression"
+      ],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -96,17 +109,42 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "regression-return / regression",
     "searchKeywords": [
       "husband",
       "definitely",
-      "paladin"
+      "paladin",
+      "tonight",
+      "too",
+      "want",
+      "receive",
+      "your",
+      "purification",
+      "miserable",
+      "despite",
+      "possessing",
+      "power",
+      "purify",
+      "demonic",
+      "energy",
+      "irene",
+      "classified",
+      "lowest",
+      "rank",
+      "throughout",
+      "short",
+      "never",
+      "welcomed",
+      "loved",
+      "anyone",
+      "even"
     ],
     "evidence": {
       "tags": [
+        "Josei",
         "Fantasy",
         "Romance"
       ],
@@ -118,11 +156,36 @@
         "definitely",
         "paladin"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "tonight",
+        "too",
+        "want",
+        "receive",
+        "your",
+        "purification",
+        "miserable",
+        "despite",
+        "possessing",
+        "power",
+        "purify",
+        "demonic",
+        "energy",
+        "irene",
+        "classified",
+        "lowest",
+        "rank",
+        "throughout",
+        "short",
+        "never",
+        "welcomed",
+        "loved",
+        "anyone",
+        "even"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.45
   }
 }

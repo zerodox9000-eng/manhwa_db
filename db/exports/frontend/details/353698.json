@@ -2,7 +2,7 @@
   "id": 353698,
   "state": "active",
   "type": "manhwa",
-  "display_title": "In The Bed",
+  "display_title": "Bedtime",
   "mangabaka_title": "Chimya",
   "native_title": "침야",
   "romanized_title": "Chimya",
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Bedtime",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -41,7 +41,35 @@
     },
     {
       "language": "en",
-      "title": "In The Bed",
+      "title": "In the Bed",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Rest Night",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Xâm Dạ",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "침야(侵夜)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "夜阑",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -62,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T20:21:28.680Z",
-  "mangabaka_latest_rank": 3047,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T17:16:29.916Z",
+  "mangabaka_latest_rank": 3068,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Mwejin",
     "Seo-Ye Eun"
@@ -87,23 +115,39 @@
       "rating": null,
       "url": "https://www.anime-planet.com/manga/bedtime"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "peqnc8q",
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/peqnc8q"
+    }
   },
   "tag_ids": [
     250,
     43,
+    1457,
+    1376,
     900,
     1029,
     123,
     556,
     1049,
+    2124,
+    2444,
+    2442,
+    2437,
+    2443,
+    2395,
+    2545,
+    2398,
     74,
+    2883,
     852,
     884,
     357,
     116,
     406,
     108,
+    1736,
     46,
     41,
     665,
@@ -126,10 +170,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.381,
-    "fanRatioPercentile": 77.9675,
-    "popularityPercentile": 24.9981,
-    "fanFavouriteDiscoveryScore": 46.9869,
-    "fanFavouriteDiscoveryPercentile": 55.4624
+    "fanRatioPercentile": 78.0021,
+    "popularityPercentile": 24.9771,
+    "fanFavouriteDiscoveryScore": 46.9752,
+    "fanFavouriteDiscoveryPercentile": 55.6995
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -168,7 +212,7 @@
     },
     "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
-      "bed",
+      "bedtime",
       "chimya",
       "emperor",
       "must",
@@ -198,18 +242,30 @@
       "tags": [
         "Murder",
         "Josei",
+        "Red-Eyed Male Lead",
+        "Long-Haired Female Lead",
         "Long-Haired Male Lead",
         "Blushing Male Lead",
         "Big Breasts",
         "Big Penis",
         "Assertive Female Lead",
+        "Virgin Female Lead",
+        "Dark/Tan Skin Male Lead",
+        "Emperor/King Male Lead",
+        "Misunderstood Male Lead",
+        "Obsessive Male Lead",
+        "Possessive Male Lead",
+        "Traumatized Male Lead",
+        "Virgin Male Lead",
         "Based on a Web Novel",
+        "Hidden Identity/ies",
         "Changed by Love",
         "Death of Loved One",
         "Assassins",
         "Maids",
         "Master-Servant Relationship",
         "Heterosexual",
+        "Royal-Commoner Relationship",
         "Adult",
         "Smut",
         "Facial",
@@ -226,7 +282,7 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "bed",
+        "bedtime",
         "chimya",
         "chimya"
       ],
@@ -258,6 +314,7 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet"
       ]
     },

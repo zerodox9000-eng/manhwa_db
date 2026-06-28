@@ -42,6 +42,13 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Meongx2MAN",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Dog-like Man",
       "traits": [],
@@ -51,6 +58,13 @@
     {
       "language": "ru",
       "title": "Пёс как парень",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "好きな人に犬扱いされてます",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -71,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.187Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T03:27:24.509Z",
+  "last_updated_at": "2026-06-28T03:27:44.622Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Man-Seong"
   ],
@@ -95,18 +109,30 @@
       "rating": 70,
       "url": "https://www.anime-planet.com/manga/mans-best-boyfriend"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "crohryy",
+      "rating": 64,
+      "url": "https://www.mangaupdates.com/series/crohryy"
+    }
   },
   "tag_ids": [
+    1977,
+    1979,
+    1378,
     683,
+    1387,
+    1963,
     159,
+    1975,
     760,
     283,
     663,
     125,
+    1847,
     408,
     106,
     880,
+    1703,
     446,
     737,
     180,
@@ -116,6 +142,7 @@
     425,
     31,
     350,
+    614,
     9,
     93,
     57,
@@ -128,10 +155,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.3115,
-    "fanRatioPercentile": 32.0576,
-    "popularityPercentile": 61.3936,
-    "fanFavouriteDiscoveryScore": 31.0707,
-    "fanFavouriteDiscoveryPercentile": 32.7666
+    "fanRatioPercentile": 32.1015,
+    "popularityPercentile": 61.3913,
+    "fanFavouriteDiscoveryScore": 31.1131,
+    "fanFavouriteDiscoveryPercentile": 32.8711
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -215,15 +242,23 @@
     ],
     "evidence": {
       "tags": [
+        "Wanko",
+        "Wanko Seme",
+        "Black-Haired Uke",
         "Blonde-Haired Male Lead",
+        "Blonde-Haired Seme",
+        "Glasses-Wearing Uke",
         "Adult Cast",
+        "Gay Seme",
         "Hospital",
         "Amnesia",
         "Love At First Sight",
         "Love Triangle",
+        "Astronauts",
         "Doctors",
         "Age Gap",
         "Older Uke Younger Seme",
+        "Doctor-Patient Relationship",
         "Dogs",
         "Astronomy",
         "Boys Love",
@@ -233,6 +268,7 @@
         "Slapstick",
         "Drama",
         "Medical",
+        "Mental Illness",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -277,6 +313,7 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]

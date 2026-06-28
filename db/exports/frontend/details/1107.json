@@ -25,6 +25,13 @@
     },
     {
       "language": "en",
+      "title": "God Sent Actor",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Godsent Top Star",
       "traits": [],
       "is_primary": false,
@@ -69,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.825Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T06:37:55.170Z",
+  "last_updated_at": "2026-06-28T06:38:39.805Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Dong-Jeon Pass",
     "Yeong-Jun Gwon"
@@ -94,7 +101,11 @@
       "rating": 78,
       "url": "https://www.anime-planet.com/manga/top-star-sent-by-god"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "r56a32f",
+      "rating": 69,
+      "url": "https://www.mangaupdates.com/series/r56a32f"
+    }
   },
   "tag_ids": [
     8,
@@ -109,16 +120,16 @@
     428
   ],
   "stats": {
-    "popularity": 366,
+    "popularity": 367,
     "favourites": 1,
     "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 0.2732,
-    "fanRatioPercentile": 31.8289,
-    "popularityPercentile": 64.1915,
-    "fanFavouriteDiscoveryScore": 31.0479,
-    "fanFavouriteDiscoveryPercentile": 32.6294
+    "fanFavouriteRaw": 0.2725,
+    "fanRatioPercentile": 31.8424,
+    "popularityPercentile": 64.2258,
+    "fanFavouriteDiscoveryScore": 31.0632,
+    "fanFavouriteDiscoveryPercentile": 32.5358
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -237,6 +248,7 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet"
       ]
     },

@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T10:13:05.288Z",
-  "mangabaka_latest_rank": 884,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T17:16:30.681Z",
+  "mangabaka_latest_rank": 905,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Byeol Han"
   ],
@@ -86,10 +86,18 @@
       "rating": null,
       "url": "https://www.anime-planet.com/manga/the-strongest-romantic"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "g3uyzea",
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/g3uyzea"
+    }
   },
   "tag_ids": [
+    1867,
+    38,
     58,
+    2488,
+    67,
     107,
     108,
     39,
@@ -107,10 +115,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.1915,
-    "fanRatioPercentile": 88.412,
-    "popularityPercentile": 51.216,
-    "fanFavouriteDiscoveryScore": 82.3069,
-    "fanFavouriteDiscoveryPercentile": 89.2963
+    "fanRatioPercentile": 88.4105,
+    "popularityPercentile": 51.2268,
+    "fanFavouriteDiscoveryScore": 82.3107,
+    "fanFavouriteDiscoveryPercentile": 89.2563
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -172,7 +180,11 @@
     ],
     "evidence": {
       "tags": [
+        "Fights",
+        "Shounen",
         "Male Lead",
+        "Delinquent Male Lead",
+        "Strong Male Lead",
         "School",
         "Heterosexual",
         "Action",
@@ -219,9 +231,10 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.63
   }
 }

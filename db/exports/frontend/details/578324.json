@@ -8,12 +8,26 @@
   "romanized_title": "S-geup Gongmusuhaenge Hyeopjo Butakdeurimnida",
   "titles": [
     {
+      "language": "vi",
+      "title": "Hợp Tác Cấp S",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Please Assist with This S-Class Mission",
       "traits": [
         "official"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Please Cooperate in the Execution of S-Class Official Duties",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -64,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T06:29:13.234Z",
-  "mangabaka_latest_rank": 1040,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-28T06:31:36.765Z",
+  "mangabaka_latest_rank": 1061,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Jaegyeom",
     "Magwi"
@@ -89,9 +103,14 @@
       "rating": 76,
       "url": "https://www.anime-planet.com/manga/please-assist-with-this-s-class-mission"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "qx1uz2e",
+      "rating": 66,
+      "url": "https://www.mangaupdates.com/series/qx1uz2e"
+    }
   },
   "tag_ids": [
+    40,
     59,
     74,
     500,
@@ -100,6 +119,8 @@
     642,
     261,
     39,
+    6,
+    31,
     9,
     93,
     57,
@@ -112,10 +133,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.1496,
-    "fanRatioPercentile": 88.0765,
-    "popularityPercentile": 44.2327,
-    "fanFavouriteDiscoveryScore": 77.7555,
-    "fanFavouriteDiscoveryPercentile": 85.2405
+    "fanRatioPercentile": 88.0829,
+    "popularityPercentile": 44.2319,
+    "fanFavouriteDiscoveryScore": 77.7606,
+    "fanFavouriteDiscoveryPercentile": 85.2103
   },
   "context": {
     "primaryProfile": "game-system",
@@ -145,6 +166,7 @@
         "power-growth"
       ],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [
@@ -192,6 +214,7 @@
     ],
     "evidence": {
       "tags": [
+        "Shoujo",
         "Female Lead",
         "Based on a Web Novel",
         "Dungeon",
@@ -200,6 +223,8 @@
         "Fantasy World",
         "Urban Fantasy",
         "Action",
+        "Comedy",
+        "Drama",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -247,10 +272,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.73
   }
 }

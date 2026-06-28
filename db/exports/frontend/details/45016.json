@@ -17,19 +17,19 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Angelic Lady",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Angelic Lady",
       "traits": [
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Angelic Lady",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -92,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T15:14:37.950Z",
+  "last_updated_at": "2026-06-28T05:52:42.796Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Susu"
   ],
@@ -116,7 +116,11 @@
       "rating": 72,
       "url": "https://www.anime-planet.com/manga/angel-or-villainess"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "gv134tg",
+      "rating": 65,
+      "url": "https://www.mangaupdates.com/series/gv134tg"
+    }
   },
   "tag_ids": [
     40,
@@ -124,9 +128,11 @@
     266,
     683,
     59,
+    2147,
     75,
     74,
     405,
+    1596,
     853,
     311,
     584,
@@ -137,6 +143,7 @@
     36,
     1,
     673,
+    1594,
     31,
     1153,
     403,
@@ -153,16 +160,16 @@
     121
   ],
   "stats": {
-    "popularity": 3152,
+    "popularity": 3155,
     "favourites": 63,
     "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 1.9987,
-    "fanRatioPercentile": 69.8864,
-    "popularityPercentile": 93.2073,
-    "fanFavouriteDiscoveryScore": 69.7301,
-    "fanFavouriteDiscoveryPercentile": 77.9828
+    "fanFavouriteRaw": 1.9968,
+    "fanRatioPercentile": 69.9101,
+    "popularityPercentile": 93.2185,
+    "fanFavouriteDiscoveryScore": 69.7539,
+    "fanFavouriteDiscoveryPercentile": 77.964
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -244,9 +251,11 @@
         "Villainess",
         "Blonde-Haired Male Lead",
         "Female Lead",
+        "Regressed Female Lead",
         "Based on a Novel",
         "Based on a Web Novel",
         "Europe",
+        "Death of Leading Characters",
         "Subtle Romance",
         "Time Manipulation",
         "Time Rewind",
@@ -257,6 +266,7 @@
         "Fantasy",
         "Sci-Fi",
         "Conspiracy",
+        "Death",
         "Drama",
         "Manipulation",
         "Betrayal",
@@ -308,6 +318,7 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]

@@ -24,6 +24,13 @@
       "note": null
     },
     {
+      "language": "fr",
+      "title": "La demoiselle qui avala le mage",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Mabeobsaleul Kkulkkeoghan Agassi",
       "traits": [],
@@ -91,8 +98,22 @@
       "note": null
     },
     {
+      "language": "zh",
+      "title": "吞噬魔法師的少女",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh-hk",
       "title": "小姐占有魔法師",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "魔法使い、いただきます♡",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -113,9 +134,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T17:04:12.763Z",
-  "mangabaka_latest_rank": 3312,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T22:52:48.233Z",
+  "mangabaka_latest_rank": 3333,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Ddasoom",
     "Haedam Bak"
@@ -138,12 +159,25 @@
       "rating": 76,
       "url": "https://www.anime-planet.com/manga/miss-who-swallowed-a-mage"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "gl064sw",
+      "rating": 71,
+      "url": "https://www.mangaupdates.com/series/gl064sw"
+    }
   },
   "tag_ids": [
     43,
+    1460,
+    1458,
+    1379,
     683,
     59,
+    2156,
+    2124,
+    2479,
+    2502,
+    2397,
+    2435,
     75,
     74,
     405,
@@ -151,6 +185,7 @@
     660,
     1165,
     670,
+    2836,
     1106,
     106,
     649,
@@ -181,10 +216,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.7341,
-    "fanRatioPercentile": 64.039,
-    "popularityPercentile": 49.7903,
-    "fanFavouriteDiscoveryScore": 59.1021,
-    "fanFavouriteDiscoveryPercentile": 67.2867
+    "fanRatioPercentile": 64.0506,
+    "popularityPercentile": 49.8019,
+    "fanFavouriteDiscoveryScore": 59.1172,
+    "fanFavouriteDiscoveryPercentile": 67.2508
   },
   "context": {
     "primaryProfile": "game-system",
@@ -257,8 +292,17 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Golden/Yellow-Eyed Male Lead",
+        "Green-Eyed Female Lead",
+        "Black-Haired Female Lead",
         "Blonde-Haired Male Lead",
         "Female Lead",
+        "Orphan Female Lead",
+        "Virgin Female Lead",
+        "Cursed Male Lead",
+        "Mage Male Lead",
+        "Older Male Lead",
+        "Teasing Male Lead",
         "Based on a Novel",
         "Based on a Web Novel",
         "Europe",
@@ -266,6 +310,7 @@
         "Female Lead Falls in Love First",
         "Past Encounter",
         "Mages",
+        "Priestess",
         "Priests",
         "Age Gap",
         "Older Male Younger Female",
@@ -285,9 +330,7 @@
         "Romance",
         "Traumatic Past",
         "Longstrip",
-        "Full Color",
-        "Web Comic",
-        "Magic"
+        "Full Color"
       ],
       "titleTerms": [
         "miss",
@@ -328,6 +371,7 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]

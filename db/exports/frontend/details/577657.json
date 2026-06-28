@@ -27,9 +27,44 @@
     },
     {
       "language": "en",
+      "title": "I Became the Degenerate First Prince",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "I Became the First Prince: Legend of Sword's Song",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I Became the Rogue First Prince",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I Became the Rouge First Prince: Legend of Sword's Song",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I Became the Trashy First Prince",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Kiếm Ca Truyền Thuyết",
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
@@ -40,11 +75,25 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ja",
+      "title": "英雄の神剣、ろくでなし王子に転生する",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "重生恶棍第一王子",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "The dark blade Gruhorn, constant companion to heroes throughout the ages. Knights, rebels, and slayers—all became legend wielding this sentient blade. But, centuries after being claimed by the first hero, Gruhorn winds up in the clutches of his descendant: a greedy, greasy, bratty lout of a first prince. Even worse: when the prince falls onto the blade, Gruhorn becomes him! But is this new body a prison, or a chance for the legendary blade to become a hero himself?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzEvZi80L2MvNy9mLzcvNTYyNi80MzdlL2FlYWEvYzEzN2QzYzJiMDFh",
-  "total_chapters": null,
+  "total_chapters": "41",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
@@ -57,9 +106,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T03:14:15.440Z",
-  "mangabaka_latest_rank": 1084,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-28T03:14:32.363Z",
+  "mangabaka_latest_rank": 1105,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Glump",
     "Maengsong"
@@ -82,12 +131,26 @@
       "rating": null,
       "url": "https://www.anime-planet.com/manga/i-became-the-first-prince"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "lp44txt",
+      "rating": 69,
+      "url": "https://www.mangaupdates.com/series/lp44txt"
+    }
   },
   "tag_ids": [
+    337,
+    695,
+    683,
+    68,
     58,
+    2025,
+    405,
+    1064,
     126,
+    1074,
+    450,
     36,
+    340,
     39,
     37,
     6,
@@ -96,25 +159,27 @@
     428
   ],
   "stats": {
-    "popularity": 3282,
+    "popularity": 3297,
     "favourites": 66,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 2.011,
-    "fanRatioPercentile": 70.3896,
-    "popularityPercentile": 93.4894,
-    "fanFavouriteDiscoveryScore": 70.2358,
-    "fanFavouriteDiscoveryPercentile": 78.4707
+    "fanFavouriteRaw": 2.0018,
+    "fanRatioPercentile": 70.1996,
+    "popularityPercentile": 93.5157,
+    "fanFavouriteDiscoveryScore": 70.0466,
+    "fanFavouriteDiscoveryPercentile": 78.2383
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "murim-wuxia",
     "profileGroups": [
       "euro-fantasy",
+      "murim-wuxia",
       "regression-return"
     ],
     "primaryAnchors": [
-      "euro-fantasy"
+      "euro-fantasy",
+      "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -127,7 +192,9 @@
         "reincarnation"
       ],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "martial-growth"
+      ],
       "tone": [
         "comedic"
       ],
@@ -138,7 +205,7 @@
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / kingdom-fantasy / reincarnation",
+    "semanticSummary": "murim-wuxia / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "became",
       "lout",
@@ -170,9 +237,19 @@
     ],
     "evidence": {
       "tags": [
+        "Swordplay",
+        "Training",
+        "Blonde-Haired Male Lead",
+        "Handsome Male Lead",
         "Male Lead",
+        "Prince Male Lead",
+        "Europe",
+        "Weak to Strong",
         "Reincarnation",
+        "Swords",
+        "European Ambience",
         "Fantasy",
+        "Elves",
         "Action",
         "Adventure",
         "Comedy",
@@ -221,10 +298,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.86
   }
 }

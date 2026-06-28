@@ -2,9 +2,9 @@
   "id": 57468,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Brave Girls Are Here To Help",
+  "display_title": "Brave Girls Are Here to Help",
   "mangabaka_title": "Brave Girls Are Here To Help",
-  "native_title": "용감한 언니가 도와줄게!",
+  "native_title": "勇敢なお姉さんにまかせなさい",
   "romanized_title": null,
   "titles": [
     {
@@ -18,18 +18,25 @@
     },
     {
       "language": "en",
-      "title": "Brave Girls Are Here To Help",
+      "title": "Brave Girls Are Here to Help",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "勇敢なお姉さんにまかせなさい",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Hyun-joo dreams of becoming a famous idol singer and pursues her dream every day. But everything collapses around her until mysterious dolls aid her to get her back up on her feet. An endearing story about a woman that finds another chance at life with mysterious helpers in tow\nSource: INKR",
+  "description": "From INKR:  \nHyun-joo dreams of becoming a famous idol singer and pursues her dream every day. But everything collapses around her until mysterious dolls aid her to get her back up on her feet. An endearing story about a woman that finds another chance at life with mysterious helpers in tow.\n\n**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/56549450), [Bomtoon](https://www.bomtoon.com/detail/toontory1)\n\n**Official Translations:**  \nEnglish ([INKR](https://comics.inkr.com/title/698-brave-girls-are-here-to-help), [WebComics](https://www.webcomicsapp.com/comic/Brave-Girls-are-Here-to-Help/61de84128c252b5a810e611a)), [Japanese](https://www.amazon.co.jp/-/en/dp/B0BPPMQ6MP/)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2JyYXZlLWdpcmxzLWFyZS1oZXJlLXRvLWhlbHAtMS53ZWJwP3Q9MTc0NDA3MDQwMA",
   "total_chapters": "15",
   "status": "completed",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2021,
   "published": {
     "start_date": "2021-01-01",
@@ -39,11 +46,15 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.413Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T03:59:41.173Z",
+  "last_updated_at": "2026-06-28T00:47:12.250Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
-  "authors": [],
-  "artists": [],
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
+  "authors": [
+    "CatnotDog"
+  ],
+  "artists": [
+    "Dingu"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/57468",
     "read_en": null
@@ -55,13 +66,18 @@
       "rating": null,
       "url": "https://www.anime-planet.com/manga/brave-girls-are-here-to-help"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "26yibsu",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/26yibsu"
+    }
   },
   "tag_ids": [
     281,
     36,
     31,
     27,
+    7,
     93,
     57,
     428
@@ -79,6 +95,7 @@
   "context": {
     "primaryProfile": "showbiz-career",
     "profileGroups": [
+      "modern-korea",
       "showbiz-career"
     ],
     "primaryAnchors": [
@@ -86,7 +103,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [
         "showbiz"
@@ -94,7 +113,9 @@
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [
         "fantasy-world"
       ],
@@ -102,12 +123,13 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "showbiz-career",
+    "semanticSummary": "showbiz-career / modern-korea",
     "searchKeywords": [
       "brave",
       "girls",
       "here",
       "help",
+      "inkr",
       "hyun-joo",
       "dreams",
       "becoming",
@@ -129,8 +151,7 @@
       "woman",
       "finds",
       "another",
-      "chance",
-      "helpers"
+      "chance"
     ],
     "evidence": {
       "tags": [
@@ -138,6 +159,7 @@
         "Fantasy",
         "Drama",
         "Music",
+        "Slice of Life",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -153,6 +175,7 @@
         "help"
       ],
       "descriptionTerms": [
+        "inkr",
         "hyun-joo",
         "dreams",
         "becoming",
@@ -175,13 +198,13 @@
         "finds",
         "another",
         "chance",
-        "mysterious",
-        "helpers"
+        "mysterious"
       ],
       "sourceFields": [
+        "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.59
   }
 }

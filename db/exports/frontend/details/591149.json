@@ -2,44 +2,48 @@
   "id": 591149,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Pedal to the Metal",
-  "mangabaka_title": "Pedal to the Metal",
-  "native_title": "페달 투 더 메탈",
-  "romanized_title": null,
+  "display_title": "Pedal to the metal",
+  "mangabaka_title": "Pedal to the metal",
+  "native_title": "페달투더메탈",
+  "romanized_title": "Pedal to the metal",
   "titles": [
     {
       "language": "ko",
       "title": "페달투더메탈",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Pedal to the Metal",
-      "traits": [],
+      "language": "ko-Latn",
+      "title": "Pedal to the metal",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000078478)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMTc5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzUwMC1vajg3SjhlR3h5bWYuanBn",
   "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-23",
+    "end_date": "2026-06-23",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-24T04:59:38.584Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-26T18:16:21.851Z",
-  "mangabaka_latest_rank": 102,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-27T21:06:24.479Z",
+  "mangabaka_latest_rank": 123,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "50177"
   ],
@@ -51,7 +55,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213500,
+      "rating": null,
+      "url": "https://anilist.co/manga/213500"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "vdyues3",
@@ -60,24 +68,33 @@
     }
   },
   "tag_ids": [
+    58,
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6291,
+    "popularityPercentile": 3.4974,
+    "fanFavouriteDiscoveryScore": 6.3821,
+    "fanFavouriteDiscoveryPercentile": 3.2231
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -90,9 +107,11 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -105,11 +124,19 @@
     ],
     "evidence": {
       "tags": [
+        "Male Lead",
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "pedal",
+        "metal",
         "pedal",
         "metal",
         "pedal",
@@ -120,9 +147,10 @@
         "webtoon"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.51
   }
 }

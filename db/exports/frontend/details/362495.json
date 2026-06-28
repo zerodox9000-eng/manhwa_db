@@ -8,6 +8,20 @@
   "romanized_title": "PC Bang Geunyeo",
   "titles": [
     {
+      "language": "vi",
+      "title": "Cô Nàng Ở Tiệm Net",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "La chica del cibercafé",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko",
       "title": "PC방 그녀",
       "traits": [
@@ -55,6 +69,13 @@
     },
     {
       "language": "en",
+      "title": "PC Room Her",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "The Girl from the PC Bang",
       "traits": [],
       "is_primary": false,
@@ -70,8 +91,29 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "The Goddess in PC Room",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ru",
       "title": "Девушка из интернет-кафе",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "ネカフェの彼女",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "我的网咖女友",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -92,9 +134,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T04:34:17.454Z",
-  "mangabaka_latest_rank": 2803,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-28T05:49:15.670Z",
+  "mangabaka_latest_rank": 2824,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Samosa"
   ],
@@ -116,21 +158,36 @@
       "rating": 74,
       "url": "https://www.anime-planet.com/manga/pc-room-girl"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "z9gbxcb",
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/z9gbxcb"
+    }
   },
   "tag_ids": [
     8,
     553,
     123,
+    2022,
     1049,
+    2127,
+    2201,
+    2150,
+    2368,
+    2124,
+    2138,
     58,
+    2402,
+    2545,
     647,
     661,
+    20,
     46,
     14,
     10,
     41,
     109,
+    1070,
     370,
     99,
     273,
@@ -138,7 +195,9 @@
     6,
     31,
     9,
+    1286,
     93,
+    1167,
     57,
     428
   ],
@@ -149,10 +208,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.2258,
-    "fanRatioPercentile": 88.8008,
-    "popularityPercentile": 72.6843,
-    "fanFavouriteDiscoveryScore": 87.7135,
-    "fanFavouriteDiscoveryPercentile": 93.2073
+    "fanRatioPercentile": 88.8144,
+    "popularityPercentile": 72.6989,
+    "fanFavouriteDiscoveryScore": 87.7282,
+    "fanFavouriteDiscoveryPercentile": 93.1957
   },
   "context": {
     "primaryProfile": "business-career",
@@ -175,6 +234,7 @@
       "progressionType": [],
       "tone": [
         "comedic",
+        "dark",
         "warm"
       ],
       "worldType": [],
@@ -217,15 +277,26 @@
         "Seinen",
         "Big Ass",
         "Big Breasts",
+        "Bullied Protagonist",
         "Assertive Female Lead",
+        "Bullied Female Lead",
+        "Delinquent Female Lead",
+        "Misunderstood Female Lead",
+        "Tattooed Female Lead",
+        "Virgin Female Lead",
+        "Voluptuous Female Lead",
         "Male Lead",
+        "Bullied Male Lead",
+        "Traumatized Male Lead",
         "Misunderstandings",
         "Boss-Subordinate Relationship",
+        "Harem",
         "Adult",
         "Erotica",
         "Hentai",
         "Smut",
         "Nudity",
+        "Toilet Intercourse",
         "Fingering",
         "Oral Intercourse",
         "Workplace Intercourse",
@@ -233,7 +304,9 @@
         "Comedy",
         "Drama",
         "Romance",
+        "Simple",
         "Longstrip",
+        "Short Story",
         "Full Color",
         "Web Comic"
       ],
@@ -273,10 +346,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.64
+    "confidence": 0.66
   }
 }

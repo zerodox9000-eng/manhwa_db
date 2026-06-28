@@ -38,6 +38,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Awful Romance",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Hyeongpyeoneomneun Romance",
       "traits": [
@@ -57,6 +64,13 @@
     },
     {
       "language": "ru",
+      "title": "Роман без обязательств",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ru",
       "title": "Ужасный роман",
       "traits": [],
       "is_primary": true,
@@ -66,6 +80,13 @@
       "language": "zh",
       "title": "一塌糊涂的爰情 Rotten Love",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "一塌糊涂的爱情",
+      "traits": [],
       "is_primary": false,
       "note": null
     },
@@ -73,12 +94,26 @@
       "language": "zh",
       "title": "威胁他的男人",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ja",
       "title": "情けないロマンス",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "糟糕的罗曼史",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "zh-hk",
+      "title": "糟糕的羅曼史",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -99,9 +134,9 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.411Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T18:41:22.229Z",
+  "last_updated_at": "2026-06-28T06:20:32.721Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Chamji"
   ],
@@ -123,25 +158,41 @@
       "rating": 74,
       "url": "https://www.anime-planet.com/manga/miserable-in-love"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "82rzbmh",
+      "rating": 67,
+      "url": "https://www.mangaupdates.com/series/82rzbmh"
+    }
   },
   "tag_ids": [
     376,
     597,
+    1381,
+    1384,
+    1442,
+    2728,
     158,
     335,
     382,
     58,
+    2424,
     654,
+    2666,
+    2747,
+    1976,
     125,
     268,
     591,
     404,
     106,
     880,
+    1692,
+    1571,
+    2718,
     108,
     280,
     14,
+    41,
     109,
     289,
     100,
@@ -151,6 +202,7 @@
     99,
     173,
     180,
+    1947,
     16,
     31,
     18,
@@ -160,20 +212,21 @@
     428
   ],
   "stats": {
-    "popularity": 300,
+    "popularity": 301,
     "favourites": 5,
     "meanScore": 61
   },
   "analytics": {
-    "fanFavouriteRaw": 1.6667,
-    "fanRatioPercentile": 62.2246,
-    "popularityPercentile": 60.1357,
-    "fanFavouriteDiscoveryScore": 60.1045,
-    "fanFavouriteDiscoveryPercentile": 68.3007
+    "fanFavouriteRaw": 1.6611,
+    "fanRatioPercentile": 62.0314,
+    "popularityPercentile": 60.1646,
+    "fanFavouriteDiscoveryScore": 59.9228,
+    "fanFavouriteDiscoveryPercentile": 68.1195
   },
   "context": {
     "primaryProfile": "showbiz-career",
     "profileGroups": [
+      "modern-korea",
       "romance-core",
       "showbiz-career"
     ],
@@ -182,7 +235,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [
         "showbiz"
@@ -201,7 +256,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "showbiz-career",
+    "semanticSummary": "showbiz-career / modern-korea",
     "searchKeywords": [
       "miserable",
       "love",
@@ -234,20 +289,32 @@
       "tags": [
         "Acting",
         "Writing",
+        "Black-Haired Seme",
+        "Brown-Haired Male Lead",
+        "Gray-Haired Uke",
+        "Bisexual Protagonist",
         "Primarily Adult Cast",
         "Primarily Male Cast",
         "Bisexual",
         "Male Lead",
+        "Bisexual Male Lead",
         "Kind Male Lead",
+        "Pansexual Male Lead",
+        "Bisexual Seme",
+        "Gay Uke",
         "Love Triangle",
         "Love Polygon",
         "Actor",
         "Writers",
         "Age Gap",
         "Older Uke Younger Seme",
+        "Complicated Relationships",
+        "Height Gap",
+        "Multiple Sexual Partners",
         "Heterosexual",
         "Bondage",
         "Erotica",
+        "Smut",
         "Nudity",
         "Sex Toys",
         "Anal Intercourse",
@@ -257,13 +324,9 @@
         "Oral Intercourse",
         "Threesome",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
-        "Drama",
-        "Psychological",
-        "Romance",
-        "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Drama"
       ],
       "titleTerms": [
         "miserable",
@@ -301,10 +364,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.82
   }
 }

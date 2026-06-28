@@ -9,6 +9,13 @@
   "titles": [
     {
       "language": "ko",
+      "title": "내 새끼 데뷔시키려다",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
       "title": "내 새끼 데뷔시키려다 내가 데뷔하게 생김",
       "traits": [
         "native"
@@ -33,6 +40,13 @@
       "note": null
     },
     {
+      "language": "es",
+      "title": "Intenté debutar a mi bias, pero terminé debutando yo misma",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "I Tried to Debut My Child",
       "traits": [],
@@ -48,7 +62,14 @@
     },
     {
       "language": "en",
-      "title": "I Was Trying To Debut My Baby, But I Ended Up Debuting Instead",
+      "title": "I Was Trying to Debut My Baby, but I Ended up Debuting Instead",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I Was Trying to Debut My Kid, but I Ended Up Debuting Myself",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -78,6 +99,13 @@
     },
     {
       "language": "en",
+      "title": "Tried to Debut My Child, but Ended Up Debuting Myself",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Tried to Debut My Idol... Ended up Debuting Myself",
       "traits": [],
       "is_primary": false,
@@ -89,11 +117,32 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "th",
+      "title": "ก็แค่อยากให้ลูกสาวได้เดบิวต์ ทำไมฉันถึงเดบิวต์ซะเองได้ล่ะ?!",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "推しをデビューさせようとしたら私もデビューすることになりました",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "本想送我家崽出道，结果自己反倒要出道了",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "With her weird talents and weirder personality, idol trainee Yoon Hyesung can't help but catch everyone's eye, even though that's far from what she wants. She's actually a fangirl from a different future with one goal in mind—help Na Yeonwoo debut as an idol! Now as Yeonwoo's friend, Hyesung is determined to get Yeonwoo the top spot on an idol survival program with the help of an oddly supportive game system. Can Hyesung help Yeonwoo debut, even if it means she will too?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2YvZi8yLzYvNC80LzIvNzc0NC80Y2NiL2E5ZGQvNzJjYzM5OWE4OTJj",
-  "total_chapters": "48",
+  "total_chapters": "63",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
@@ -106,9 +155,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T06:06:08.133Z",
-  "mangabaka_latest_rank": 2852,
-  "mangabaka_latest_snapshot_at": "2026-06-27T05:07:41.493Z",
+  "last_updated_at": "2026-06-28T06:07:31.532Z",
+  "mangabaka_latest_rank": 2873,
+  "mangabaka_latest_snapshot_at": "2026-06-28T08:28:54.817Z",
   "authors": [
     "Basaktwiing",
     "MIDNIGHT STUDIO"
@@ -131,12 +180,17 @@
       "rating": 84,
       "url": "https://www.anime-planet.com/manga/i-was-trying-to-debut-my-baby-but-i-ended-up-debuting-instead"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "kxbf8bx",
+      "rating": 63,
+      "url": "https://www.mangaupdates.com/series/kxbf8bx"
+    }
   },
   "tag_ids": [
     40,
     333,
     59,
+    2304,
     74,
     748,
     281,
@@ -150,16 +204,16 @@
     428
   ],
   "stats": {
-    "popularity": 397,
+    "popularity": 398,
     "favourites": 11,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7708,
-    "fanRatioPercentile": 83.7692,
-    "popularityPercentile": 65.5638,
-    "fanFavouriteDiscoveryScore": 81.9308,
-    "fanFavouriteDiscoveryPercentile": 88.8694
+    "fanFavouriteRaw": 2.7638,
+    "fanRatioPercentile": 83.6788,
+    "popularityPercentile": 65.5898,
+    "fanFavouriteDiscoveryScore": 81.8462,
+    "fanFavouriteDiscoveryPercentile": 88.7915
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -238,6 +292,7 @@
         "Shoujo",
         "Primarily Female Cast",
         "Female Lead",
+        "Idol Female Lead",
         "Based on a Web Novel",
         "Age Regression",
         "Idols",
@@ -288,10 +343,11 @@
       ],
       "sourceFields": [
         "anilist",
+        "mangaupdates",
         "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.97
+    "confidence": 0.98
   }
 }
