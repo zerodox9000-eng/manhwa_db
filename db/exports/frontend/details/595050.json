@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Hypnosis Pure Love App",
   "mangabaka_title": "Hypnosis Pure Love App",
-  "native_title": null,
+  "native_title": "최면 순애 어플",
   "romanized_title": null,
   "titles": [
     {
@@ -22,10 +22,10 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**    \nR19: [Ridibooks](https://ridibooks.com/books/4343003523)   \nR15: [Ridibooks](https://ridibooks.com/books/4343003525)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwNTI5LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "total_chapters": "15",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-28T08:09:06.071Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-27T15:31:28.267Z",
-  "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": null,
+  "last_updated_at": "2026-06-28T15:43:36.836Z",
+  "mangabaka_latest_rank": 15,
+  "mangabaka_latest_snapshot_at": "2026-06-29T05:42:02.980Z",
   "authors": [
     "Ryesu",
     "Tokkaeng Jeonsa"
@@ -76,8 +76,9 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -99,12 +100,17 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea",
     "searchKeywords": [
       "hypnosis",
       "pure",
       "love",
-      "app"
+      "app",
+      "original",
+      "webtoon",
+      "r19",
+      "ridibooks",
+      "r15"
     ],
     "evidence": {
       "tags": [
@@ -122,11 +128,18 @@
         "love",
         "app"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "r19",
+        "ridibooks",
+        "r15",
+        "ridibooks"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.45
   }
 }

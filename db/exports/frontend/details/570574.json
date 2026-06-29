@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Villain's Pure Love",
-  "mangabaka_title": "Villain-ui Sunjeong",
+  "mangabaka_title": "The Villain's Pure Love",
   "native_title": "빌런의 순정",
   "romanized_title": "Villain-ui Sunjeong",
   "titles": [
@@ -26,7 +26,9 @@
     {
       "language": "en",
       "title": "The Villain's Pure Love",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -40,6 +42,13 @@
       "note": null
     },
     {
+      "language": "th",
+      "title": "ตัวร้ายสายบริสุทธิ์",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh",
       "title": "反派的温柔",
       "traits": [],
@@ -47,12 +56,12 @@
       "note": null
     }
   ],
-  "description": "Secretary Yeon-woo flees to her hometown of Moksan County, facing the harassment of Vice President Yoon-seok. There, she meets Seong-heon, the executive director of Seolyang Construction. Seong-heon's once icy heart melts and seeps into Yeon-woo, who resembles the warmth of spring. Meanwhile, Yoon-seok sets out to find Yeon-woo...\n\n(Source: Naver, translated)",
+  "description": "Fleeing a life of quiet torment, Yeon-U Ji finds refuge in a secluded estate where magnolias bloom and time seems to slow. She arrives like spring--soft, unassuming, yet impossible to ignore--carrying scars that glow like dim embers. Yet her presence begins to thaw a man who buried his heart in ice long ago. Beneath a canopy of stars, over a sea of petals, love flickers… fragile, defiant, and dangerously pure.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzQvMC85L2EvNS8xLzgvZTNlNi80YjcxL2EwMjUvNGViYjRkZGVhMWVl",
   "total_chapters": "33",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-12-21",
@@ -62,19 +71,19 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T21:38:23.273Z",
-  "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": null,
+  "last_updated_at": "2026-06-29T03:56:33.702Z",
+  "mangabaka_latest_rank": 1380,
+  "mangabaka_latest_snapshot_at": "2026-06-29T05:42:02.980Z",
   "authors": [
     "Rose Bean",
-    "Sumin"
+    "Su-Min"
   ],
   "artists": [
-    "Sumin"
+    "Su-Min"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/570574",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10259"
   },
   "source": {
     "anilist": {
@@ -97,6 +106,7 @@
     43,
     1911,
     74,
+    108,
     31,
     9,
     1012,
@@ -111,40 +121,30 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.0404,
-    "fanRatioPercentile": 93.661,
-    "popularityPercentile": 39.6038,
-    "fanFavouriteDiscoveryScore": 78.3632,
-    "fanFavouriteDiscoveryPercentile": 85.7448
+    "fanRatioPercentile": 93.6695,
+    "popularityPercentile": 39.613,
+    "fanFavouriteDiscoveryScore": 78.3802,
+    "fanFavouriteDiscoveryPercentile": 85.7393
   },
   "context": {
-    "primaryProfile": "corporate-workplace",
+    "primaryProfile": "kingdom-management",
     "profileGroups": [
-      "business-career",
-      "corporate-workplace",
       "engineering-builder",
-      "korean-business",
+      "kingdom-management",
       "modern-korea",
-      "modern-workplace",
-      "office-romance",
       "romance-core"
     ],
     "primaryAnchors": [
-      "corporate-workplace",
       "engineering-builder",
-      "korean-business"
+      "kingdom-management"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
-        "corporate-workplace"
+        "kingdom-fantasy"
       ],
-      "protagonistRole": [
-        "executive"
-      ],
-      "careerDomain": [
-        "engineering"
-      ],
+      "protagonistRole": [],
+      "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
@@ -160,41 +160,43 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "semanticSummary": "kingdom-management / kingdom-fantasy",
     "searchKeywords": [
       "villain",
       "pure",
       "love",
       "villain-ui",
       "sunjeong",
-      "secretary",
-      "yeon-woo",
-      "flees",
-      "hometown",
-      "moksan",
-      "county",
-      "facing",
-      "harassment",
-      "vice",
-      "president",
-      "yoon-seok",
-      "meets",
-      "seong-heon",
-      "executive",
-      "director",
-      "seolyang",
-      "construction",
-      "icy",
-      "heart",
-      "melts",
-      "seeps",
-      "resembles"
+      "fleeing",
+      "quiet",
+      "torment",
+      "yeon-u",
+      "finds",
+      "refuge",
+      "secluded",
+      "estate",
+      "magnolias",
+      "bloom",
+      "time",
+      "seems",
+      "slow",
+      "arrives",
+      "spring--soft",
+      "unassuming",
+      "yet",
+      "impossible",
+      "ignore--carrying",
+      "scars",
+      "glow",
+      "dim",
+      "embers"
     ],
     "evidence": {
       "tags": [
         "Josei",
         "Runaways",
         "Based on a Web Novel",
+        "Heterosexual",
         "Drama",
         "Romance",
         "Stalkers",
@@ -206,43 +208,45 @@
         "villain",
         "pure",
         "love",
-        "villain-ui",
-        "sunjeong",
+        "villain",
+        "pure",
+        "love",
         "villain-ui",
         "sunjeong"
       ],
       "descriptionTerms": [
-        "secretary",
-        "yeon-woo",
-        "flees",
-        "hometown",
-        "moksan",
-        "county",
-        "facing",
-        "harassment",
-        "vice",
-        "president",
-        "yoon-seok",
-        "meets",
-        "seong-heon",
-        "executive",
-        "director",
-        "seolyang",
-        "construction",
-        "seong-heon",
-        "icy",
-        "heart",
-        "melts",
-        "seeps",
-        "yeon-woo",
-        "resembles"
+        "fleeing",
+        "quiet",
+        "torment",
+        "yeon-u",
+        "finds",
+        "refuge",
+        "secluded",
+        "estate",
+        "magnolias",
+        "bloom",
+        "time",
+        "seems",
+        "slow",
+        "arrives",
+        "spring--soft",
+        "unassuming",
+        "yet",
+        "impossible",
+        "ignore--carrying",
+        "scars",
+        "glow",
+        "dim",
+        "embers",
+        "yet"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 1
+    "confidence": 0.84
   }
 }
