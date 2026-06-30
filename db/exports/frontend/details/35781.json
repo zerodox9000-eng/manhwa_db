@@ -90,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.583Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-28T22:59:29.903Z",
+  "last_updated_at": "2026-06-29T07:01:51.463Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-29T05:42:02.980Z",
+  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
   "authors": [
     "Yu-Ri Sin"
   ],
@@ -121,17 +121,27 @@
     }
   },
   "tag_ids": [
+    2395,
+    2096,
+    125,
+    1097,
+    575,
     36,
     22,
     10,
     41,
     160,
     180,
+    1947,
     16,
+    676,
+    31,
+    128,
     9,
     5,
     93,
     57,
+    1098,
     428
   ],
   "stats": {
@@ -141,24 +151,33 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6218,
-    "popularityPercentile": 44.2066,
-    "fanFavouriteDiscoveryScore": 27.9092,
-    "fanFavouriteDiscoveryPercentile": 30.4715
+    "fanRatioPercentile": 31.6258,
+    "popularityPercentile": 44.2,
+    "fanFavouriteDiscoveryScore": 27.9109,
+    "fanFavouriteDiscoveryPercentile": 30.4613
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
+      "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "politics",
         "romance"
       ],
       "progressionType": [],
@@ -172,7 +191,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "sound",
       "fire",
@@ -200,17 +219,27 @@
     ],
     "evidence": {
       "tags": [
+        "Possessive Male Lead",
+        "Kingdom",
+        "Love Triangle",
+        "Emperors",
+        "Human-Nonhuman Relationship",
         "Fantasy",
         "Supernatural",
         "Hentai",
         "Smut",
         "Demons",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
+        "Discrimination",
+        "Drama",
+        "Royalty",
         "Romance",
         "Tragedy",
         "Longstrip",
         "Full Color",
+        "Partially Colored",
         "Web Comic"
       ],
       "titleTerms": [
@@ -251,6 +280,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.87
   }
 }

@@ -5,7 +5,7 @@
   "display_title": "Crazy About",
   "mangabaka_title": "Crazy About",
   "native_title": "폭군의 실록",
-  "romanized_title": null,
+  "romanized_title": "Pokgunui Sillok",
   "titles": [
     {
       "language": "ko",
@@ -33,6 +33,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Pokgunui Sillok",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Tyrant's Annals",
       "traits": [],
@@ -54,8 +63,8 @@
       "note": null
     }
   ],
-  "description": "Welcome to Seoul, 2022. Woo San is an orphaned gangster who makes a living by stealing and selling artifacts. Following the orders of his gang superiors, he steals an ancient relic that once belonged to Yeong Jong, the 25th king of the Hwa-yeon kingdom. Meanwhile, back in the year 1852, during the Hwa-yeon Kingdom's reign, Heo Myeon is trying to retrieve a precious family heirloom that his father gave away to a disgruntled customer. Something unexplainable happens and San is transported back 170 years in the past and comes across a captured Myeon. As the two tussle over this incredibly valuable object, it is clear that whatever happens from now on, history, as it was known, has been altered, and their destinies are now forever intertwined.\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/crazyabout), [Bomtoon](https://www.bomtoon.com/detail/crazyabout), [MrBlue](https://www.mrblue.com/webtoon/wt_000065453), [Naver Series](https://series.naver.com/comic/detail.series?productNo=11662748), [BookCube](https://www.bookcube.com/toon/detail.asp?webtoon_num=240988), [KakaoPage](https://page.kakao.com/content/65386478)\n\n**Official Translations:**  \nEnglish: [Lezhin](https://www.lezhinus.com/en/comic/crazy_about)  \nJapanese: [Beltoon](https://www.beltoon.jp/detail/crazyabout), [Lezhin](https://lezhin.jp/comic/crazyabout)  \nOthers: [Spanish](https://lezhin.es/detail/crazy-about)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8xLzI4ODUyOGwuanBn",
+  "description": "Welcome to Seoul, 2022. Woo San is an orphaned gangster who makes a living by stealing and selling artifacts. Following the orders of his gang superiors, he steals an ancient relic that once belonged to Yeong Jong, the 25th king of the Hwa-yeon kingdom. Meanwhile back in the year 1852 during the Hwa-yeon Kingdom’s reign, Heo Myeon is trying to retrieve a precious family heirloom that his father gave away to a disgruntled customer. Something unexplainable happens and San is transported back 170 years in the past and comes across a captured Myeon. As the two tussle over this incredibly valuable object, it is clear that whatever happens from now on, history as it was known has been altered and their destinies are now forever intertwined.\n<br><br>\n(Source: Lezhin US)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE1MzM5MS1jSUhRMEh3WmdFOFAuanBn",
   "total_chapters": "56",
   "status": "completed",
   "content_rating": "erotica",
@@ -69,21 +78,25 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.174Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T15:37:51.122Z",
+  "last_updated_at": "2026-06-29T11:16:14.001Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-29T05:42:02.980Z",
+  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
   "authors": [
     "YD"
   ],
   "artists": [
-    "NIMBY"
+    "Nimby"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/56865",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 153391,
+      "rating": 58,
+      "url": "https://anilist.co/manga/153391"
+    },
     "animeplanet": {
       "id": "crazy-about",
       "rating": 72,
@@ -125,14 +138,16 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 153,
+    "favourites": 1,
+    "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0.6536,
+    "fanRatioPercentile": 36.1242,
+    "popularityPercentile": 47.648,
+    "fanFavouriteDiscoveryScore": 32.8444,
+    "fanFavouriteDiscoveryPercentile": 35.9263
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -177,6 +192,8 @@
     "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / regression",
     "searchKeywords": [
       "crazy",
+      "pokgunui",
+      "sillok",
       "welcome",
       "seoul",
       "2022",
@@ -234,7 +251,9 @@
       ],
       "titleTerms": [
         "crazy",
-        "crazy"
+        "crazy",
+        "pokgunui",
+        "sillok"
       ],
       "descriptionTerms": [
         "welcome",
@@ -263,6 +282,7 @@
         "king"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
