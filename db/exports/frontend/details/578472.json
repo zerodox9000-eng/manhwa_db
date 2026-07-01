@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Boiling Frog Syndrome",
-  "mangabaka_title": "Gaeguri Salgi",
+  "mangabaka_title": "Boiling Frog Syndrome",
   "native_title": "개구리 삶기",
   "romanized_title": "Gaeguri Salgi",
   "titles": [
@@ -33,6 +33,15 @@
     {
       "language": "en",
       "title": "Boiling Frog Syndrome",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "El síndrome de la rana hervida",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -62,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-30T02:14:52.679Z",
-  "mangabaka_latest_rank": 1061,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-07-01T05:19:56.341Z",
+  "mangabaka_latest_rank": 1068,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
     "Suttanssakba"
   ],
@@ -78,7 +87,7 @@
   "source": {
     "anilist": {
       "id": 207671,
-      "rating": 71,
+      "rating": 73,
       "url": "https://anilist.co/manga/207671"
     },
     "animeplanet": {
@@ -114,10 +123,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.885,
-    "fanRatioPercentile": 41.0869,
-    "popularityPercentile": 42.1449,
-    "fanFavouriteDiscoveryScore": 35.4821,
-    "fanFavouriteDiscoveryPercentile": 39.3287
+    "fanRatioPercentile": 41.197,
+    "popularityPercentile": 42.1629,
+    "fanFavouriteDiscoveryScore": 35.5845,
+    "fanFavouriteDiscoveryPercentile": 39.4098
   },
   "context": {
     "primaryProfile": "school-life",
@@ -195,8 +204,9 @@
         "boiling",
         "frog",
         "syndrome",
-        "gaeguri",
-        "salgi",
+        "boiling",
+        "frog",
+        "syndrome",
         "gaeguri",
         "salgi"
       ],

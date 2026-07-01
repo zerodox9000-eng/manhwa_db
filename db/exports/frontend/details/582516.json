@@ -4,13 +4,15 @@
   "type": "manhwa",
   "display_title": "Triple Partner",
   "mangabaka_title": "Triple Partner",
-  "native_title": "三人关系",
-  "romanized_title": null,
+  "native_title": "트리플 파트너",
+  "romanized_title": "Triple Partner",
   "titles": [
     {
       "language": "ko",
       "title": "트리플 파트너",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,9 +24,11 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Triple Partner",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,26 +40,26 @@
       "note": null
     }
   ],
-  "description": "Since childhood, Seo-ah has always been fascinated by love triangles.   \n\nNow that she is an adult, she sometimes imagines, “Would it feel good to do it with three people?”  \n\nBut in reality, she has been without a partner for a long time and only comforts herself.   \n\nThen, all of a sudden, two men appear before Seo-ah: Woo-kyung and Doyun.  \n\nWill Seo-ah be able to fulfill the dream she has had since childhood and have a relationship with all three?\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000076157)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTE5NTE4LmpwZw",
+  "description": "Seo-Ah, who had always been fascinated by love triangles since childhood, often imagines as an adult, “Would it feel good with three people?” Reality is she's been single for ages, only comforting herself. Then suddenly, two men appear before her—Woo-Kyung and Do-Yun!\n\nCould Seo-Ah finally fulfill her childhood dream of a relationship with three?\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwOTE5OC1SU1VDQTlJQ2pWbVYuanBn",
   "total_chapters": "17",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-03-10",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T15:17:16.302Z",
-  "mangabaka_latest_rank": 853,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-06-30T15:27:48.625Z",
+  "mangabaka_latest_rank": 860,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
-    "Haedohae"
+    "Do-Hae Hae"
   ],
   "artists": [
     "Bobae"
@@ -65,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 209198,
+      "rating": null,
+      "url": "https://anilist.co/manga/209198"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ddkbri2",
@@ -75,26 +83,33 @@
   },
   "tag_ids": [
     43,
+    59,
     20,
+    108,
     46,
     41,
+    173,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 16,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 11.1796,
+    "fanFavouriteDiscoveryScore": 10.2682,
+    "fanFavouriteDiscoveryPercentile": 10.1833
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -116,79 +131,89 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "triple",
       "partner",
-      "since",
-      "childhood",
       "seo-ah",
       "always",
       "fascinated",
       "love",
       "triangles",
-      "adult",
-      "sometimes",
+      "since",
+      "childhood",
+      "often",
       "imagines",
+      "adult",
       "feel",
       "good",
       "three",
       "people",
       "reality",
-      "without",
-      "long",
-      "time",
-      "comforts",
+      "single",
+      "ages",
+      "comforting",
       "herself",
-      "sudden",
+      "suddenly",
       "two",
-      "men"
+      "men",
+      "appear",
+      "before"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Female Lead",
         "Harem",
+        "Heterosexual",
         "Adult",
         "Smut",
+        "Threesome",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "triple",
+        "partner",
         "triple",
         "partner",
         "triple",
         "partner"
       ],
       "descriptionTerms": [
-        "since",
-        "childhood",
         "seo-ah",
         "always",
         "fascinated",
         "love",
         "triangles",
-        "adult",
-        "sometimes",
+        "since",
+        "childhood",
+        "often",
         "imagines",
+        "adult",
         "feel",
         "good",
         "three",
         "people",
         "reality",
-        "without",
-        "partner",
-        "long",
-        "time",
-        "comforts",
+        "single",
+        "ages",
+        "comforting",
         "herself",
-        "sudden",
+        "suddenly",
         "two",
-        "men"
+        "men",
+        "appear",
+        "before"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.47
   }
 }

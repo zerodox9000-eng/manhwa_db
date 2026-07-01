@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Forbidden Night",
-  "mangabaka_title": "Forbidden Night",
-  "native_title": "[색야 단편선] 금단의 밤",
-  "romanized_title": null,
+  "mangabaka_title": "Geumdanui Bam",
+  "native_title": "금단의 밤",
+  "romanized_title": "Geumdanui Bam",
   "titles": [
     {
       "language": "ko",
       "title": "금단의 밤",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[색야 단편선] 금단의 밤",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -34,40 +36,60 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geumdanui Bam",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Saegya Danpyeonseon] Geumdanui Bam",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "Baek Su-ryeon, the arrogant heiress of Jeil Pharmaceutical, finds her marriage prospects ruined by rumors that she has a 'man-eating' fortune. Desperate, her mother—a fervent believer in shamanism—takes her to 'Master Cheongmok,' a shaman famous for his ability to change one's destiny. Expecting a decrepit old man, Su-ryeon is stunned to find that Cheongmok is an unexpectedly handsome man with a refined aura. Dismissing him as a mere con artist, she remains skeptical until he proposes a strange ritual. As the ceremony begins, Su-ryeon's haughty composure quickly unravels, giving way to an intense, uncontrollable desire that she never imagined possible.\n\n[Original Webtoon](https://ridibooks.com/books/3587013959)",
+  "description": "*Note: Part of Haewadal Studio's Saegya Danpyeonseon (색야 단편선) Collection.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwNTQyLmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "total_chapters": "5",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-27",
+    "end_date": "2026-06-27",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-28T08:09:06.071Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-29T16:07:52.031Z",
-  "mangabaka_latest_rank": 24,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-07-01T02:20:36.829Z",
+  "mangabaka_latest_rank": 36,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
-    "Byeokhee",
-    "soom"
+    "Seong-In",
+    "Sum"
   ],
   "artists": [
     "Haewadal Studio",
-    "iMedia"
+    "Imedia"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595043",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213765,
+      "rating": null,
+      "url": "https://anilist.co/manga/213765"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ib5ovkh",
@@ -87,14 +109,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 0.2053,
+    "fanFavouriteDiscoveryScore": 5.1063,
+    "fanFavouriteDiscoveryPercentile": 0.2053
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -116,34 +139,19 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "forbidden",
       "night",
-      "baek",
-      "su-ryeon",
-      "arrogant",
-      "heiress",
-      "jeil",
-      "pharmaceutical",
-      "finds",
-      "marriage",
-      "prospects",
-      "ruined",
-      "rumors",
-      "man-eating",
-      "fortune",
-      "desperate",
-      "mother",
-      "fervent",
-      "believer",
-      "shamanism",
-      "takes",
-      "master",
-      "cheongmok",
-      "shaman",
-      "famous",
-      "ability"
+      "geumdanui",
+      "bam",
+      "note",
+      "part",
+      "haewadal",
+      "studio",
+      "saegya",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
@@ -155,39 +163,25 @@
       "titleTerms": [
         "forbidden",
         "night",
-        "forbidden",
-        "night"
+        "geumdanui",
+        "bam",
+        "geumdanui",
+        "bam"
       ],
       "descriptionTerms": [
-        "baek",
-        "su-ryeon",
-        "arrogant",
-        "heiress",
-        "jeil",
-        "pharmaceutical",
-        "finds",
-        "marriage",
-        "prospects",
-        "ruined",
-        "rumors",
-        "man-eating",
-        "fortune",
-        "desperate",
-        "mother",
-        "fervent",
-        "believer",
-        "shamanism",
-        "takes",
-        "master",
-        "cheongmok",
-        "shaman",
-        "famous",
-        "ability"
+        "note",
+        "part",
+        "haewadal",
+        "studio",
+        "saegya",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.39
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Duke and Duchess Have a Secret",
-  "mangabaka_title": "The Duke and Duchess Have a Secret",
+  "mangabaka_title": "Gongjang Bubuegen Bimiri Itda",
   "native_title": "공작 부부에겐 비밀이 있다",
-  "romanized_title": null,
+  "romanized_title": "Gongjang Bubuegen Bimiri Itda",
   "titles": [
     {
       "language": "ko",
       "title": "공작 부부에겐 비밀이 있다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gongjang Bubuegen Bimiri Itda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,25 +34,25 @@
     }
   ],
   "description": "Letitia Marionette, a female knight to the Emperor, stops by the Setrian Duchy while returning to the Imperial Palace after a victorious battle. Lowell Setrian, the master of the duchy, treats her and her subordinates with hospitality, but Letitia senses something suspicious hidden behind his kindness—and intends to report this to her master, Emperor Belet! \n\n\"So, Miss Letitia. How about you marry me?\" \n\n\"Are you drunk by any chance?\" \n\nLowell stops her and makes a new proposal. Letitia enters the marriage to stop Lowell’s treason and protect her subordinates, while Lowell enters it to prevent Letitia from interfering with his plans for rebellion. Holding each other's weaknesses, the two are forced into a dangerous alliance through a 'contract marriage'.\n\n[Original Webtoon](https://ridibooks.com/books/1746035224)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwNTI2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzc2Mi1yU2NUVWpVTGh4V1EucG5n",
   "total_chapters": "0",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-28T08:09:06.071Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-29T16:08:02.841Z",
-  "mangabaka_latest_rank": 18,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-06-30T19:36:59.545Z",
+  "mangabaka_latest_rank": 30,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
-    "Dawoo"
+    "Dau"
   ],
   "artists": [
     "Jandaeng"
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213762,
+      "rating": null,
+      "url": "https://anilist.co/manga/213762"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "x887l3j",
@@ -61,9 +76,13 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -71,9 +90,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 0.2053,
+    "fanFavouriteDiscoveryScore": 5.1063,
+    "fanFavouriteDiscoveryPercentile": 0.2053
   },
   "context": {
     "primaryProfile": "medical-career",
@@ -119,6 +140,10 @@
       "duke",
       "duchess",
       "secret",
+      "gongjang",
+      "bubuegen",
+      "bimiri",
+      "itda",
       "letitia",
       "marionette",
       "female",
@@ -144,17 +169,26 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Fantasy",
         "Adult",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "duke",
         "duchess",
         "secret",
-        "duke",
-        "duchess",
-        "secret"
+        "gongjang",
+        "bubuegen",
+        "bimiri",
+        "itda",
+        "gongjang",
+        "bubuegen",
+        "bimiri",
+        "itda"
       ],
       "descriptionTerms": [
         "letitia",
@@ -183,9 +217,10 @@
         "something"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.92
+    "confidence": 0.96
   }
 }

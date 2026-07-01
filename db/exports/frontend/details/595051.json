@@ -26,7 +26,7 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://ridibooks.com/books/4379001795)",
+  "description": "As soon as Do-Hyeon returned to civilian life after his military discharge, he was faced with the threat of the breakup of “Prism Noise,” the band he had been part of since high school as a composer and bassist. The trouble began when Seon-U, who appeared on the music variety show “Eco Star,” covered a Prism Noise song and the cover version ended up becoming more famous than the original. Compounding the problem, the drummer and guitarist both announced their departures one after another, ultimately bringing Prism Noise’s activities to an end. A troubled Do-Hyeon happens to find a drunk Seon-U and takes him back to his hotel…\n\nThis incident leads the two to start keeping in touch, and they become confidants who listen to each other’s worries. Upon learning of this, Jae-Hun begins to show signs of insecurity toward Do-Hyeon and Seon-U, and the conflict between Do-Hyeon and Jae-Hun, who were once a couple, escalates out of control. Eventually, Do-Hyeon and Jae-Hun end their relationship, but Do-Hyeon and Seon-U, comforting each other’s wounds, develop a deep bond.\n\n(Source: Ridibooks, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzcyOS1aY0ZhVkZsM0pUOXMucG5n",
   "total_chapters": "0",
   "status": "releasing",
@@ -41,9 +41,9 @@
   },
   "first_seen_at": "2026-06-28T08:09:06.071Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-29T23:06:22.871Z",
-  "mangabaka_latest_rank": 19,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-06-30T23:00:32.282Z",
+  "mangabaka_latest_rank": 31,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
     "Myeon-Ji"
   ],
@@ -68,6 +68,7 @@
     }
   },
   "tag_ids": [
+    125,
     46,
     180,
     16,
@@ -78,30 +79,35 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6258,
-    "popularityPercentile": 0.1446,
-    "fanFavouriteDiscoveryScore": 5.0755,
-    "fanFavouriteDiscoveryPercentile": 0.1446
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 0.4943,
+    "fanFavouriteDiscoveryScore": 5.2103,
+    "fanFavouriteDiscoveryPercentile": 0.4867
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "regression-return",
     "profileGroups": [
-      "modern-korea",
-      "romance-core"
+      "regression-return",
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "regression"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -111,18 +117,41 @@
       ],
       "worldType": [],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "regression-return / school / regression",
     "searchKeywords": [
       "hexagon",
       "love",
-      "original",
-      "webtoon"
+      "soon",
+      "do-hyeon",
+      "returned",
+      "civilian",
+      "military",
+      "discharge",
+      "faced",
+      "threat",
+      "breakup",
+      "prism",
+      "noise",
+      "band",
+      "part",
+      "since",
+      "high",
+      "school",
+      "composer",
+      "bassist",
+      "trouble",
+      "began",
+      "seon-u",
+      "appeared",
+      "music",
+      "variety"
     ],
     "evidence": {
       "tags": [
+        "Love Triangle",
         "Adult",
         "Boys Love",
         "Yaoi",
@@ -141,14 +170,36 @@
         "love"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "soon",
+        "do-hyeon",
+        "returned",
+        "civilian",
+        "military",
+        "discharge",
+        "faced",
+        "threat",
+        "breakup",
+        "prism",
+        "noise",
+        "band",
+        "part",
+        "since",
+        "high",
+        "school",
+        "composer",
+        "bassist",
+        "trouble",
+        "began",
+        "seon-u",
+        "appeared",
+        "music",
+        "variety"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.58
   }
 }

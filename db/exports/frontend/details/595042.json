@@ -3,29 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Bad Old Man",
-  "mangabaka_title": "Bad Old Man",
-  "native_title": "[키잡 단편선] 질 나쁜 아저씨",
+  "mangabaka_title": "Jil Nappeun Ajeossi",
+  "native_title": "질 나쁜 아저씨",
   "romanized_title": "A Bad Man (Coriander Jjang)",
   "titles": [
     {
       "language": "ko",
       "title": "질 나쁜 아저씨",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[키잡 단편선] 질 나쁜 아저씨",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "A Bad Man (Coriander Jjang)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -48,32 +50,48 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jil Nappeun Ajeossi",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Kijam Danpyeonseon] Jil Nappeun Ajeossi",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "\"I sponsored you so you wouldn't end up like a lowlife like me.\"    \n\"Hng... Ah, Mister...\"     \n\"Do you think I'd be amused if you spread your legs for a scumbag like me, Nabom? Huh?\"     \n\nIt’s been five years since Nabom lost her parents in an accident and started living alone with her ailing grandmother. She accidentally discovers her grandmother's bankbook, filled with monthly deposits from a man she’s never met. The sponsor, whom she imagined would have a kind and likable face, turned out to be... a gangster.\n\n\"I am a bad man, but I don't have any intention of doing bad things to a brat like you. So just focus on studying and get into college. Got it?\" \n\n[Original Webtoon](https://ridibooks.com/books/5285002483)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwNTQ0LmpwZw",
-  "total_chapters": "5",
+  "description": "*Note: Part of Metatoon's Kijam Danpyeonseon (키잡 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzc2NC1TMFByc3pTR1k5VnUuanBn",
+  "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-27",
+    "end_date": "2026-06-27",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-28T08:09:06.071Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-29T16:07:48.909Z",
-  "mangabaka_latest_rank": 25,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-06-30T19:16:29.322Z",
+  "mangabaka_latest_rank": 37,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
-    "Kang Kuri",
-    "Kwak Dupal"
+    "Coriander Jjang",
+    "Du-Pal Gwak"
   ],
   "artists": [
-    "Coriander Jjang",
+    "Gangkeuri",
     "Metatoon"
   ],
   "links": {
@@ -81,7 +99,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213764,
+      "rating": null,
+      "url": "https://anilist.co/manga/213764"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "z2atwq5",
@@ -91,10 +113,14 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -102,16 +128,16 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 0.2053,
+    "fanFavouriteDiscoveryScore": 5.1063,
+    "fanFavouriteDiscoveryPercentile": 0.2053
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
-      "romance-core",
-      "school-life"
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -132,87 +158,60 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "bad",
       "old",
       "man",
+      "jil",
+      "nappeun",
+      "ajeossi",
       "coriander",
       "jjang",
-      "sponsored",
-      "wouldn",
-      "end",
-      "lowlife",
-      "hng",
-      "mister",
-      "think",
-      "amused",
-      "spread",
-      "your",
-      "legs",
-      "scumbag",
-      "nabom",
-      "huh",
-      "five",
-      "years",
-      "since",
-      "lost",
-      "parents",
-      "accident",
-      "started",
-      "living",
-      "alone"
+      "note",
+      "part",
+      "metatoon",
+      "kijam",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Adult",
         "Smut",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "bad",
         "old",
         "man",
-        "bad",
-        "old",
-        "man",
+        "jil",
+        "nappeun",
+        "ajeossi",
         "bad",
         "man",
         "coriander",
         "jjang"
       ],
       "descriptionTerms": [
-        "sponsored",
-        "wouldn",
-        "end",
-        "lowlife",
-        "hng",
-        "mister",
-        "think",
-        "amused",
-        "spread",
-        "your",
-        "legs",
-        "scumbag",
-        "nabom",
-        "huh",
-        "five",
-        "years",
-        "since",
-        "nabom",
-        "lost",
-        "parents",
-        "accident",
-        "started",
-        "living",
-        "alone"
+        "note",
+        "part",
+        "metatoon",
+        "kijam",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.44
   }
 }

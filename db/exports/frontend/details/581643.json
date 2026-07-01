@@ -90,9 +90,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T14:36:21.022Z",
-  "mangabaka_latest_rank": 901,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-06-30T14:47:24.978Z",
+  "mangabaka_latest_rank": 908,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
     "Cha-Yun Kang",
     "Hichae"
@@ -117,13 +117,17 @@
     },
     "mangaupdates": {
       "id": "lumdk51",
-      "rating": 63,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/lumdk51"
     }
   },
   "tag_ids": [
     43,
+    407,
+    2194,
     74,
+    257,
+    1007,
     108,
     46,
     41,
@@ -140,20 +144,23 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6258,
-    "popularityPercentile": 21.1676,
-    "fanFavouriteDiscoveryScore": 16.5816,
-    "fanFavouriteDiscoveryPercentile": 18.3666
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 21.1879,
+    "fanFavouriteDiscoveryScore": 16.625,
+    "fanFavouriteDiscoveryPercentile": 18.412
   },
   "context": {
     "primaryProfile": "romance-core",
     "profileGroups": [
-      "romance-core"
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -169,7 +176,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "romance-core / school",
     "searchKeywords": [
       "nerd",
       "bride",
@@ -184,7 +191,11 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Glasses-Wearing Female Lead",
+        "Studious Female Lead",
         "Based on a Web Novel",
+        "College",
+        "Adult couple",
         "Heterosexual",
         "Adult",
         "Smut",
@@ -218,6 +229,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.56
   }
 }

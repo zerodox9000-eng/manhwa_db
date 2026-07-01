@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Perfect Error",
   "mangabaka_title": "Perfect Error",
-  "native_title": null,
+  "native_title": "퍼펙트 에러",
   "romanized_title": null,
   "titles": [
     {
@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nLezhin\n\n**Official Translations:**  \nEnglish, Spanish, French, German, Japanese, T.Chinese, Thai\n\n##### Note: This series is a global release, meaning all official translations come out on the same day as the original Korean.",
+  "description": "**Original Webtoon:**  \nLezhin\n\n**Official Translations:**  \nEnglish, Spanish, French, German, T.Chinese, Thai\n\n##### Note: All official translations are uncensored, except for Japanese. This series is a global release, meaning all official translations come out on the same day as the original Korean.",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwNzE2LnBuZw",
   "total_chapters": "0",
   "status": "unknown",
@@ -37,11 +37,15 @@
   },
   "first_seen_at": "2026-06-30T04:59:15.716Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-29T17:26:39.749Z",
-  "mangabaka_latest_rank": 4,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
-  "authors": [],
-  "artists": [],
+  "last_updated_at": "2026-06-30T17:43:07.324Z",
+  "mangabaka_latest_rank": 16,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
+  "authors": [
+    "Daedokman"
+  ],
+  "artists": [
+    "Daedokman"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/595416",
     "read_en": null
@@ -106,17 +110,17 @@
       "spanish",
       "french",
       "german",
-      "japanese",
       "chinese",
       "thai",
       "note",
+      "uncensored",
+      "except",
+      "japanese",
       "series",
       "global",
       "release",
       "meaning",
-      "come",
-      "same",
-      "korean"
+      "come"
     ],
     "evidence": {
       "tags": [
@@ -139,20 +143,21 @@
         "spanish",
         "french",
         "german",
-        "japanese",
         "chinese",
         "thai",
         "note",
+        "official",
+        "translations",
+        "uncensored",
+        "except",
+        "japanese",
         "series",
         "global",
         "release",
         "meaning",
         "official",
         "translations",
-        "come",
-        "same",
-        "original",
-        "korean"
+        "come"
       ],
       "sourceFields": [
         "mangaupdates"

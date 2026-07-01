@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Murim Salon",
   "mangabaka_title": "Murim Salon",
-  "native_title": "ようこそ武林サロンへ",
+  "native_title": "무림살롱",
   "romanized_title": "Murim Salon",
   "titles": [
     {
@@ -19,7 +19,9 @@
     {
       "language": "ko-Latn",
       "title": "Murim Salon",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -31,37 +33,41 @@
       "note": null
     }
   ],
-  "description": "In the Immortal Realm, Jinyul was renowned as the Beauty Immortal, leading fashion trends and styles as the personal barber of the Jade Emperor. However, he, who was (literally) intoxicated by his high status, behaved recklessly and caused a major accident, completely shaving off the Jade Emperor's hair. Enraged, the Jade Emperor banished him to the Mortal Realm. After falling into the Mortal Realm, Jinyul planned to regain his prowess and return to the Immortal Realm once again. But the moment he landed, things started going awry! Can Jinyul regain his status and return to his rightful place in the Immortal Realm?\n\n**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/64163427), [Daum](https://webtoon.kakao.com/content/%EB%AC%B4%EB%A6%BC%EC%82%B4%EB%A1%B1/4078)\n\n**Official Translations:**    \n[Japanese](https://jp.piccoma.com/web/product/177062)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L211cmltLXNhbG9uLTEud2VicD90PTE3MTc5NDQyOTg",
+  "description": "Jin-Yul is the Jade Emperor’s exclusive hair designer in the heavenly realm, envied by all immortals as a god of beauty who leads fashion and trends. However, due to an arrogant, alcohol-induced mistake on an important day, he accidentally shaves off the Jade Emperor’s crown! Banished to the human world (the Murim) as punishment, Jin-Yul loses his divine powers. To regain his strength and return to the heavens, he decides to open a hair salon in the martial arts world, using his legendary grooming skills to survive and fight his way back to the top.",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzczNy1odE9sYmtFWGVpTGguanBn",
   "total_chapters": "60",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2024-05-19",
+    "end_date": "2025-02-02",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-24T16:55:27.913Z",
+  "last_updated_at": "2026-07-01T01:57:36.295Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
-    "Jiun",
+    "Ji-Un",
     "Mannyeon 2 Inja"
   ],
   "artists": [
-    "Jiun"
+    "Ji-Un"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/4854",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213737,
+      "rating": null,
+      "url": "https://anilist.co/manga/213737"
+    },
     "animeplanet": {
       "id": "murim-salon",
       "rating": 74,
@@ -75,8 +81,12 @@
   },
   "tag_ids": [
     38,
+    58,
     36,
+    22,
+    39,
     6,
+    31,
     29,
     45,
     93,
@@ -84,20 +94,21 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 0.2053,
+    "fanFavouriteDiscoveryScore": 5.1063,
+    "fanFavouriteDiscoveryPercentile": 0.2053
   },
   "context": {
     "primaryProfile": "murim-wuxia",
     "profileGroups": [
       "euro-fantasy",
-      "modern-korea",
       "murim-wuxia",
       "regression-return"
     ],
@@ -108,13 +119,14 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy",
         "murim-world"
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [],
       "progressionType": [
         "martial-growth"
@@ -128,41 +140,46 @@
       ],
       "romanceRole": "none",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "murim-wuxia / modern-korea / kingdom-fantasy",
+    "semanticSummary": "murim-wuxia / kingdom-fantasy / murim-world / system",
     "searchKeywords": [
       "murim",
       "salon",
-      "immortal",
-      "realm",
-      "jinyul",
-      "renowned",
-      "beauty",
-      "leading",
-      "fashion",
-      "trends",
-      "styles",
-      "personal",
-      "barber",
+      "jin-yul",
       "jade",
       "emperor",
+      "exclusive",
+      "hair",
+      "designer",
+      "heavenly",
+      "realm",
+      "envied",
+      "immortals",
+      "god",
+      "beauty",
+      "leads",
+      "fashion",
+      "trends",
       "however",
-      "literally",
-      "intoxicated",
-      "high",
-      "status",
-      "behaved",
-      "recklessly",
-      "caused",
-      "major",
-      "accident"
+      "due",
+      "arrogant",
+      "alcohol-induced",
+      "mistake",
+      "important",
+      "accidentally",
+      "shaves",
+      "off"
     ],
     "evidence": {
       "tags": [
         "Shounen",
+        "Male Lead",
         "Fantasy",
+        "Supernatural",
+        "Action",
         "Comedy",
+        "Drama",
         "Martial Arts",
         "Historical",
         "Longstrip",
@@ -178,36 +195,37 @@
         "salon"
       ],
       "descriptionTerms": [
-        "immortal",
-        "realm",
-        "jinyul",
-        "renowned",
-        "beauty",
-        "immortal",
-        "leading",
-        "fashion",
-        "trends",
-        "styles",
-        "personal",
-        "barber",
+        "jin-yul",
         "jade",
         "emperor",
+        "exclusive",
+        "hair",
+        "designer",
+        "heavenly",
+        "realm",
+        "envied",
+        "immortals",
+        "god",
+        "beauty",
+        "leads",
+        "fashion",
+        "trends",
         "however",
-        "literally",
-        "intoxicated",
-        "high",
-        "status",
-        "behaved",
-        "recklessly",
-        "caused",
-        "major",
-        "accident"
+        "due",
+        "arrogant",
+        "alcohol-induced",
+        "mistake",
+        "important",
+        "accidentally",
+        "shaves",
+        "off"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.79
   }
 }

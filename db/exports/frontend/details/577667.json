@@ -2,7 +2,7 @@
   "id": 577667,
   "state": "active",
   "type": "manhwa",
-  "display_title": "B-Grade Dating Simulation Game",
+  "display_title": "Love Simulator, Love Simulator",
   "mangabaka_title": "B-geup Yeonae Simulation Game",
   "native_title": "B급 연애 시뮬레이션 게임",
   "romanized_title": "B-geup Yeonae Simulation Game",
@@ -14,13 +14,6 @@
         "native"
       ],
       "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "B-Class Love Simulation Game",
-      "traits": [],
-      "is_primary": false,
       "note": null
     },
     {
@@ -36,16 +29,23 @@
       "language": "en",
       "title": "B-Grade Dating Simulation Game",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Love Simulator, Love Simulator",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "\"'??'s favorability rating has increased.\"\n\nThe game I was trying to play wouldn't work, so I slammed my laptop in frustration, driven by drunken rage and a sense of hopelessness. Surprisingly, I found myself in a dating simulation game!\n\nBut why does my favorability rating keep increasing, even when I make bad choices?\n\nThis game is fucking ruined.\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/211030490), [MrBlue](https://www.mrblue.com/novel/sybk1608), [Bookcube](https://www.bookcube.com/detail.asp?series_num=919021584)\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/BclassLoveGame), [Lezhin](https://www.lezhin.com/ko/comic/b_love_simulation_game)",
+  "description": "\"'??'s favorability rating has increased.\"\n\nThe game I was trying to play wouldn't work, so I slammed my laptop in frustration, driven by drunken rage and a sense of hopelessness. Surprisingly, I found myself in a dating simulation game!\n\nBut why does my favorability rating keep increasing, even when I make bad choices?\n\nThis game is fucking ruined.\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/211030490), [MrBlue](https://www.mrblue.com/novel/sybk1608), [Bookcube](https://www.bookcube.com/detail.asp?series_num=919021584)\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/BclassLoveGame), [Lezhin](https://www.lezhin.com/ko/comic/b_love_simulation_game)\n\n**Official Translations:**  \nEnglish (Jul 22)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwNzM1Ni1YVkVmd0hMdGJBMDMucG5n",
   "total_chapters": "12",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-01-30",
@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T17:53:07.552Z",
-  "mangabaka_latest_rank": 1110,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-06-30T18:11:18.351Z",
+  "mangabaka_latest_rank": 1117,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
     "Caviar Stick",
     "Mangmyo"
@@ -100,15 +100,14 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6258,
-    "popularityPercentile": 15.9309,
-    "fanFavouriteDiscoveryScore": 13.1573,
-    "fanFavouriteDiscoveryPercentile": 14.3172
+    "fanRatioPercentile": 31.683,
+    "popularityPercentile": 15.9784,
+    "fanFavouriteDiscoveryScore": 13.2116,
+    "fanFavouriteDiscoveryPercentile": 14.3737
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -133,14 +132,14 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
-      "b-grade",
-      "dating",
-      "simulation",
-      "game",
+      "love",
+      "simulator",
       "b-geup",
       "yeonae",
+      "simulation",
+      "game",
       "favorability",
       "rating",
       "increased",
@@ -159,6 +158,7 @@
       "surprisingly",
       "found",
       "myself",
+      "dating",
       "why"
     ],
     "evidence": {
@@ -174,10 +174,10 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "b-grade",
-        "dating",
-        "simulation",
-        "game",
+        "love",
+        "simulator",
+        "love",
+        "simulator",
         "b-geup",
         "yeonae",
         "simulation",
@@ -218,6 +218,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.44
   }
 }

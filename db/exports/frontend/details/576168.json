@@ -127,9 +127,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-29T10:43:15.482Z",
-  "mangabaka_latest_rank": 1215,
-  "mangabaka_latest_snapshot_at": "2026-06-30T05:15:08.142Z",
+  "last_updated_at": "2026-06-30T15:46:55.895Z",
+  "mangabaka_latest_rank": 1222,
+  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
   "authors": [
     "Hae-Yun Eun",
     "Wigweyang Gatsby"
@@ -162,6 +162,7 @@
     40,
     59,
     74,
+    126,
     108,
     36,
     94,
@@ -176,22 +177,23 @@
     428
   ],
   "stats": {
-    "popularity": 170,
+    "popularity": 172,
     "favourites": 8,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 4.7059,
-    "fanRatioPercentile": 95.6691,
-    "popularityPercentile": 49.5281,
-    "fanFavouriteDiscoveryScore": 88.1436,
-    "fanFavouriteDiscoveryPercentile": 93.4693
+    "fanFavouriteRaw": 4.6512,
+    "fanRatioPercentile": 95.5738,
+    "popularityPercentile": 49.73,
+    "fanFavouriteDiscoveryScore": 88.1716,
+    "fanFavouriteDiscoveryPercentile": 93.4824
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -218,7 +220,7 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
     "semanticSummary": "euro-fantasy / kingdom-fantasy / reincarnation",
@@ -259,6 +261,7 @@
         "Shoujo",
         "Female Lead",
         "Based on a Web Novel",
+        "Reincarnation",
         "Heterosexual",
         "Fantasy",
         "Isekai",
@@ -319,6 +322,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.73
+    "confidence": 0.81
   }
 }
