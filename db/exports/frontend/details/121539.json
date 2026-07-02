@@ -40,7 +40,7 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/cute_her)\n\n**Official Translations:**  \n[Thai](https://www.lezhinth.com/detail/cute_her)",
+  "description": "Could such a thing happen? Meeting the same fate as a girl who falls in love by chance. Cha Seol-hee, an undefeated boxing star with platinum blonde hair and blue eyes, who seemed like a cold hunter, no one would have known she would be this cute.\n\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/cute_her)\n\n**Official Translations:**  \n[Thai](https://www.lezhinth.com/detail/cute_her)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4Nzc2MC1OOXltemlMZHo4VWYuanBn",
   "total_chapters": "25",
   "status": "completed",
@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.826Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T03:31:47.817Z",
-  "mangabaka_latest_rank": 7041,
-  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
+  "last_updated_at": "2026-07-02T03:44:05.731Z",
+  "mangabaka_latest_rank": 7050,
+  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
   "authors": [
     "Tan-Hwan Eun"
   ],
@@ -105,52 +105,81 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.0833,
-    "fanRatioPercentile": 72.226,
-    "popularityPercentile": 27.2568,
-    "fanFavouriteDiscoveryScore": 46.7114,
-    "fanFavouriteDiscoveryPercentile": 54.8026
+    "fanRatioPercentile": 72.2966,
+    "popularityPercentile": 27.2015,
+    "fanFavouriteDiscoveryScore": 46.6808,
+    "fanFavouriteDiscoveryPercentile": 54.8137
   },
   "context": {
-    "primaryProfile": "sports-career",
+    "primaryProfile": "game-system",
     "profileGroups": [
+      "game-system",
       "modern-korea",
       "romance-core",
       "sports-career"
     ],
     "primaryAnchors": [
+      "game-system",
       "sports-career"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "system-player"
+      ],
       "careerDomain": [
         "sports"
       ],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "system-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "minor"
     },
-    "semanticSummary": "sports-career",
+    "semanticSummary": "game-system / hunter-system",
     "searchKeywords": [
       "cute",
       "naegeman",
       "gwiyeoun",
       "geunyeo",
-      "original",
-      "webtoon",
-      "official",
-      "translations",
-      "thai"
+      "such",
+      "thing",
+      "happen",
+      "meeting",
+      "same",
+      "fate",
+      "girl",
+      "falls",
+      "love",
+      "chance",
+      "cha",
+      "seol-hee",
+      "undefeated",
+      "boxing",
+      "star",
+      "platinum",
+      "blonde",
+      "hair",
+      "blue",
+      "eyes",
+      "seemed",
+      "cold",
+      "hunter",
+      "known"
     ],
     "evidence": {
       "tags": [
@@ -176,11 +205,30 @@
         "geunyeo"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "official",
-        "translations",
-        "thai"
+        "such",
+        "thing",
+        "happen",
+        "meeting",
+        "same",
+        "fate",
+        "girl",
+        "falls",
+        "love",
+        "chance",
+        "cha",
+        "seol-hee",
+        "undefeated",
+        "boxing",
+        "star",
+        "platinum",
+        "blonde",
+        "hair",
+        "blue",
+        "eyes",
+        "seemed",
+        "cold",
+        "hunter",
+        "known"
       ],
       "sourceFields": [
         "anilist",
@@ -188,6 +236,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.69
+    "confidence": 0.85
   }
 }

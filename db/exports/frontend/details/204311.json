@@ -2,8 +2,8 @@
   "id": 204311,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Revenge Guide for the Terminally Ill Maid",
-  "mangabaka_title": "Sihanbu Hanyeoreul Wihan Boksu Jichimseo",
+  "display_title": "A Dying Maid’s Guide to Revenge",
+  "mangabaka_title": "A Dying Maid’s Guide to Revenge",
   "native_title": "시한부 하녀를 위한 복수 지침서",
   "romanized_title": "Sihanbu Hanyeoreul Wihan Boksu Jichimseo",
   "titles": [
@@ -18,16 +18,18 @@
     },
     {
       "language": "en",
-      "title": "A Dying Maid's Guide to Revenge",
-      "traits": [],
-      "is_primary": false,
+      "title": "A Dying Maid’s Guide to Revenge",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "A Revenge Guide for the Terminally Ill Maid",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -68,7 +70,7 @@
       "note": null
     }
   ],
-  "description": "Framed for a crime she didn't commit, Isabel died leaving behind her little daughter. Ten years later, she awakens in another woman's body, with only one year left to live. But the world she returns to is even crueler. Her daughter is now married to the very man who murdered her, all in the name of revenge. With just one year, Isabel must find a way to save her daughter, no matter the cost.\n\n(Source: Naver, translated)",
+  "description": "Framed for the murder of the countess she served, Isabel Gemnin was executed, leaving her beloved daughter behind. Death should have been the end, but Isabel wakes in another woman's body to find that ten years have passed and she has only one year left to live. Now, she must find her way back to her daughter while uncovering the secrets tied to the identity she has awakened into.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jLzIvYi8yLzYvOS9mLzcvNzU5NC80ZDZkLzllZDEvMWE4MDY5MzRmNjM0",
   "total_chapters": "57",
   "status": "releasing",
@@ -83,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-01T02:31:46.702Z",
-  "mangabaka_latest_rank": 5299,
-  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
+  "last_updated_at": "2026-07-02T02:32:28.971Z",
+  "mangabaka_latest_rank": 5308,
+  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
   "authors": [
     "Haparang",
     "Na-Jeon",
@@ -96,7 +98,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/204311",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10246"
   },
   "source": {
     "anilist": {
@@ -132,16 +134,16 @@
     428
   ],
   "stats": {
-    "popularity": 519,
+    "popularity": 520,
     "favourites": 8,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5414,
-    "fanRatioPercentile": 58.7497,
-    "popularityPercentile": 70.4921,
-    "fanFavouriteDiscoveryScore": 57.8883,
-    "fanFavouriteDiscoveryPercentile": 66.005
+    "fanFavouriteRaw": 1.5385,
+    "fanRatioPercentile": 58.7681,
+    "popularityPercentile": 70.4791,
+    "fanFavouriteDiscoveryScore": 57.9054,
+    "fanFavouriteDiscoveryPercentile": 66.038
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -153,9 +155,7 @@
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
@@ -177,41 +177,39 @@
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / reincarnation",
+    "semanticSummary": "modern-korea / reincarnation",
     "searchKeywords": [
-      "revenge",
-      "guide",
-      "terminally",
-      "ill",
+      "dying",
       "maid",
+      "guide",
+      "revenge",
       "sihanbu",
       "hanyeoreul",
       "wihan",
       "boksu",
-      "jichimseo",
       "framed",
-      "crime",
-      "didn",
-      "commit",
+      "murder",
+      "countess",
+      "served",
       "isabel",
-      "died",
+      "gemnin",
+      "executed",
       "leaving",
-      "behind",
-      "little",
+      "beloved",
       "daughter",
-      "ten",
-      "years",
-      "later",
-      "awakens",
+      "behind",
+      "death",
+      "should",
+      "end",
+      "wakes",
       "another",
       "woman",
       "body",
-      "year",
-      "left",
-      "live",
-      "returns",
-      "even",
-      "crueler"
+      "find",
+      "ten",
+      "years",
+      "passed",
+      "year"
     ],
     "evidence": {
       "tags": [
@@ -231,49 +229,50 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "revenge",
-        "guide",
-        "terminally",
-        "ill",
+        "dying",
         "maid",
+        "guide",
+        "revenge",
+        "dying",
+        "maid",
+        "guide",
+        "revenge",
         "sihanbu",
         "hanyeoreul",
         "wihan",
-        "boksu",
-        "jichimseo",
-        "sihanbu",
-        "hanyeoreul"
+        "boksu"
       ],
       "descriptionTerms": [
         "framed",
-        "crime",
-        "didn",
-        "commit",
+        "murder",
+        "countess",
+        "served",
         "isabel",
-        "died",
+        "gemnin",
+        "executed",
         "leaving",
-        "behind",
-        "little",
+        "beloved",
         "daughter",
-        "ten",
-        "years",
-        "later",
-        "awakens",
+        "behind",
+        "death",
+        "should",
+        "end",
+        "isabel",
+        "wakes",
         "another",
         "woman",
         "body",
-        "year",
-        "left",
-        "live",
-        "returns",
-        "even",
-        "crueler",
-        "daughter"
+        "find",
+        "ten",
+        "years",
+        "passed",
+        "year"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 0.63

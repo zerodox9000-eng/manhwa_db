@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9251)",
+  "description": "The moment college student Kang Min-jun accidentally witnesses his seemingly perfect mother’s secret private life, his world shatters into pieces. Having had everything stolen by his friend, he begins to slowly infiltrate that friend’s ‘most precious person’ to pay back in the same way.\n\n[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9251)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMjI1LmpwZw",
   "total_chapters": "0",
   "status": "unknown",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-06-24T04:59:38.584Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-25T04:25:04.045Z",
-  "mangabaka_latest_rank": 133,
-  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
+  "last_updated_at": "2026-07-01T06:46:03.444Z",
+  "mangabaka_latest_rank": 143,
+  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
   "authors": [
     "Studio Moon"
   ],
@@ -55,16 +55,18 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "fjeki9u",
-      "rating": null,
+      "rating": 61,
       "url": "https://www.mangaupdates.com/series/fjeki9u"
     }
   },
   "tag_ids": [
     8,
+    874,
     46,
     15,
     41,
-    31
+    31,
+    1061
   ],
   "stats": {
     "popularity": null,
@@ -79,16 +81,21 @@
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [],
       "tone": [],
       "worldType": [
@@ -98,23 +105,45 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "modern-korea / school",
     "searchKeywords": [
       "game",
       "mom",
       "friend",
       "were",
       "playing",
-      "original",
-      "webtoon"
+      "moment",
+      "college",
+      "student",
+      "kang",
+      "min-jun",
+      "accidentally",
+      "witnesses",
+      "seemingly",
+      "perfect",
+      "mother",
+      "secret",
+      "private",
+      "shatters",
+      "pieces",
+      "having",
+      "everything",
+      "stolen",
+      "begins",
+      "slowly",
+      "infiltrate",
+      "most",
+      "precious"
     ],
     "evidence": {
       "tags": [
         "Seinen",
+        "Caught in the Act",
         "Adult",
         "Mature",
         "Smut",
-        "Drama"
+        "Drama",
+        "AI Generated"
       ],
       "titleTerms": [
         "game",
@@ -129,13 +158,35 @@
         "playing"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "moment",
+        "college",
+        "student",
+        "kang",
+        "min-jun",
+        "accidentally",
+        "witnesses",
+        "seemingly",
+        "perfect",
+        "mother",
+        "secret",
+        "private",
+        "shatters",
+        "pieces",
+        "having",
+        "everything",
+        "stolen",
+        "friend",
+        "begins",
+        "slowly",
+        "infiltrate",
+        "friend",
+        "most",
+        "precious"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.49
   }
 }

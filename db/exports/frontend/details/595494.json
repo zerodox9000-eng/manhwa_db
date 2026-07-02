@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "A Dragon's Love",
   "mangabaka_title": "A Dragon's Love",
-  "native_title": null,
+  "native_title": "我的新婚對象是龍？！",
   "romanized_title": null,
   "titles": [
     {
@@ -22,8 +22,29 @@
       "note": null
     },
     {
+      "language": "de",
+      "title": "Das Liebesnest",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fr",
+      "title": "Le nid d'amour",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "es",
       "title": "Nidito de amor",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "วิมานรักมังกรฉบับข้าวใหม่ปลามัน",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -43,7 +64,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nBomtoon\n\n**Official Translations:**  \nEnglish, Spanish, French, German, T.Chinese, Thai, Japanese\n\n##### Note: All official translations are uncensored, except for Japanese. This series is a global release, meaning all official translations come out on the same day as the original Korean.",
+  "description": "On a stormy night, hardened mobster Cha San is limping home when he stumbles upon Shin Ro, a dragon bleeding out on the pavement. It’s love at first sight, pulling two entirely different worlds together in an instant. Fast forward to the present, and the unlikely couple is officially navigating newlyweds bliss. To support his beloved, Shin Ro hilariously adapts to human life by taking a job as a car salesman, while Cha San completely leaves his criminal syndicate behind to become a dedicated, apron-wearing stay-at-home husband. Relying entirely on each other, they dive headfirst into a chaotic, sweet, and incredibly steamy new chapter together.\n\n\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/newly_married)\n\n**Official Translations:**  \n[English](https://www.lezhinus.com/en/comic/dragonslove), Spanish, French, German, T.Chinese, Thai, Japanese\n\n##### Note: All official translations are uncensored, except for Japanese. This series is a global release, meaning all official translations come out on the same day as the original Korean.",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwODUyLnBuZw",
   "total_chapters": "0",
   "status": "unknown",
@@ -58,9 +79,9 @@
   },
   "first_seen_at": "2026-07-01T05:20:54.513Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-30T16:52:01.390Z",
-  "mangabaka_latest_rank": 6,
-  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
+  "last_updated_at": "2026-07-01T17:14:04.437Z",
+  "mangabaka_latest_rank": 20,
+  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
   "authors": [
     "Brothers Without a Tomorrow"
   ],
@@ -96,19 +117,25 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "business-career",
     "profileGroups": [
+      "business-career",
+      "korean-business",
       "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
@@ -122,29 +149,32 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "business-career / modern-korea",
     "searchKeywords": [
       "dragon",
       "love",
-      "original",
-      "webtoon",
-      "bomtoon",
-      "official",
-      "translations",
-      "english",
-      "spanish",
-      "french",
-      "german",
-      "chinese",
-      "thai",
-      "japanese",
-      "note",
-      "uncensored",
-      "except",
-      "series",
-      "global",
-      "release",
-      "meaning"
+      "stormy",
+      "night",
+      "hardened",
+      "mobster",
+      "cha",
+      "san",
+      "limping",
+      "home",
+      "stumbles",
+      "upon",
+      "shin",
+      "bleeding",
+      "pavement",
+      "first",
+      "sight",
+      "pulling",
+      "two",
+      "entirely",
+      "different",
+      "worlds",
+      "together",
+      "instant"
     ],
     "evidence": {
       "tags": [
@@ -159,35 +189,35 @@
         "love"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "bomtoon",
-        "official",
-        "translations",
-        "english",
-        "spanish",
-        "french",
-        "german",
-        "chinese",
-        "thai",
-        "japanese",
-        "note",
-        "official",
-        "translations",
-        "uncensored",
-        "except",
-        "japanese",
-        "series",
-        "global",
-        "release",
-        "meaning",
-        "official",
-        "translations"
+        "stormy",
+        "night",
+        "hardened",
+        "mobster",
+        "cha",
+        "san",
+        "limping",
+        "home",
+        "stumbles",
+        "upon",
+        "shin",
+        "dragon",
+        "bleeding",
+        "pavement",
+        "love",
+        "first",
+        "sight",
+        "pulling",
+        "two",
+        "entirely",
+        "different",
+        "worlds",
+        "together",
+        "instant"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.68
   }
 }

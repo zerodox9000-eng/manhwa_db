@@ -5,8 +5,22 @@
   "display_title": "Love on the Clock",
   "mangabaka_title": "Love on the Clock",
   "native_title": "왜 안 돼요, 대표님?!",
-  "romanized_title": "Love on the Clock (Che-Oh)",
+  "romanized_title": "Daepyonim?!",
   "titles": [
+    {
+      "language": "ko",
+      "title": "대표님?!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "왜 안 돼요",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
     {
       "language": "ko",
       "title": "왜 안 돼요, 대표님?!",
@@ -24,6 +38,13 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Daepyonim?!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Love on the Clock",
       "traits": [
@@ -35,6 +56,20 @@
     {
       "language": "ko-Latn",
       "title": "Love on the Clock (Che-Oh)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Love on the Clock (Tan Geum)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wae An Dwaeyo",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -85,9 +120,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.188Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-29T17:33:33.298Z",
+  "last_updated_at": "2026-07-01T08:24:08.405Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-01T05:36:59.183Z",
+  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
   "authors": [
     "Chae-O",
     "Tangeum"
@@ -106,7 +141,11 @@
       "rating": 65,
       "url": "https://anilist.co/manga/131152"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "love-on-the-clock-tan-geum",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/love-on-the-clock-tan-geum"
+    },
     "mangaupdates": {
       "id": "8i8op1d",
       "rating": 65,
@@ -138,7 +177,9 @@
     31,
     776,
     9,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 434,
@@ -147,10 +188,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.6912,
-    "fanRatioPercentile": 36.961,
-    "popularityPercentile": 67.161,
-    "fanFavouriteDiscoveryScore": 36.249,
-    "fanFavouriteDiscoveryPercentile": 40.1323
+    "fanRatioPercentile": 36.943,
+    "popularityPercentile": 67.1255,
+    "fanFavouriteDiscoveryScore": 36.2292,
+    "fanFavouriteDiscoveryPercentile": 40.1825
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -206,7 +247,7 @@
     "searchKeywords": [
       "love",
       "clock",
-      "che-oh",
+      "daepyonim",
       "grow",
       "wanna",
       "marry",
@@ -254,16 +295,16 @@
         "Drama",
         "Korean Folklore",
         "Romance",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "love",
         "clock",
         "love",
         "clock",
-        "love",
-        "clock",
-        "che-oh"
+        "daepyonim"
       ],
       "descriptionTerms": [
         "grow",
@@ -294,6 +335,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
