@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Safe Relationship",
   "mangabaka_title": "Safe Relationship",
-  "native_title": null,
+  "native_title": "안전한 관계",
   "romanized_title": null,
   "titles": [
     {
@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852309), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14340388)",
+  "description": "Raised under the oppression of a patriarchal household, Gamin marries a client's employee against her father's wishes. However, just two months into their marriage, her husband dies in a car accident—along with his 'legal spouse.' Overnight, Gamin finds herself a victim of a fraudulent marriage and branded an adulteress. To bury the pain, she becomes an accountant and decides to start fresh in a rural town. But there, she frequently witnesses 'office affairs' and begins to be drawn into that world. She falls into a risky, passionate affair with her boss, Jungeun, who has also experienced a failed marriage. In this relationship, free from commitment and obligations, where they keep a certain distance and enjoy only a physical bond—perhaps this relationship, which cannot be spoken of to others, is the most 'safe relationship' of all?\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852309), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14340388)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwOTU1LmpwZw",
   "total_chapters": "0",
   "status": "unknown",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-01T16:07:01.098Z",
-  "mangabaka_latest_rank": 9,
-  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
+  "last_updated_at": "2026-07-02T16:07:56.738Z",
+  "mangabaka_latest_rank": 21,
+  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
   "authors": [
     "Yoon Ji-Woon"
   ],
@@ -75,40 +75,75 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
       "modern-korea",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "employee"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "safe",
       "relationship",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "raised",
+      "under",
+      "oppression",
+      "patriarchal",
+      "household",
+      "gamin",
+      "marries",
+      "client",
+      "employee",
+      "against",
+      "father",
+      "wishes",
+      "however",
+      "two",
+      "months",
+      "marriage",
+      "husband",
+      "dies",
+      "car",
+      "accident",
+      "along",
+      "legal",
+      "spouse",
+      "overnight"
     ],
     "evidence": {
       "tags": [
@@ -123,17 +158,35 @@
         "relationship"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "raised",
+        "under",
+        "oppression",
+        "patriarchal",
+        "household",
+        "gamin",
+        "marries",
+        "client",
+        "employee",
+        "against",
+        "father",
+        "wishes",
+        "however",
+        "two",
+        "months",
+        "marriage",
+        "husband",
+        "dies",
+        "car",
+        "accident",
+        "along",
+        "legal",
+        "spouse",
+        "overnight"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.98
   }
 }

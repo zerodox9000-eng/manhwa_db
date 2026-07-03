@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-01T22:46:16.628Z",
-  "mangabaka_latest_rank": 3730,
-  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
+  "last_updated_at": "2026-07-02T22:22:04.364Z",
+  "mangabaka_latest_rank": 3739,
+  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
   "authors": [
     "31"
   ],
@@ -84,6 +84,7 @@
   "tag_ids": [
     38,
     281,
+    6,
     31,
     27,
     93,
@@ -91,16 +92,16 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6654,
-    "popularityPercentile": 0.1141,
-    "fanFavouriteDiscoveryScore": 5.071,
-    "fanFavouriteDiscoveryPercentile": 0.1141
+    "fanRatioPercentile": 31.6741,
+    "popularityPercentile": 0.1368,
+    "fanFavouriteDiscoveryScore": 5.0805,
+    "fanFavouriteDiscoveryPercentile": 0.1368
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -120,7 +121,9 @@
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "comedic"
+      ],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
@@ -146,6 +149,7 @@
       "tags": [
         "Shounen",
         "Idols",
+        "Comedy",
         "Drama",
         "Music",
         "Longstrip",
@@ -180,6 +184,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.52
   }
 }

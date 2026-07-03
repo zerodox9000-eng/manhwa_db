@@ -49,12 +49,12 @@
       "note": null
     }
   ],
-  "description": "The villainess, Ednia, conquers the academy with the fist of the overlord.\n\n(Source: KakaoPage, translated)",
+  "description": "As the descendant of a legendary hero, Idnia Katze inherited a power that makes her as imposing as a workhorse. But when she's forced to enroll at a prestigious academy to avoid her own death, she realizes she should probably rein it in; otherwise, she might just steal the spotlight from the future saint and become an obstacle in her quest to save the world! In a place where the professors' egos are rivaled only by the noble students' pride, she's got her work cut out for her...\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi82LzkvYS9lL2UvMi84L2IvMDc0ZC80NzIyL2JiYTAvZDM2Mzk5NTMyMTg3",
   "total_chapters": "26",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-08-12",
@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-02T00:17:19.448Z",
-  "mangabaka_latest_rank": 5680,
-  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
+  "last_updated_at": "2026-07-03T00:18:39.836Z",
+  "mangabaka_latest_rank": 5688,
+  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
   "authors": [
     "Jeong-Hoon Hong",
     "Weol Shin"
@@ -76,7 +76,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/189060",
-    "read_en": null
+    "read_en": "https://tapas.io/series/lady-overlord/info"
   },
   "source": {
     "anilist": {
@@ -103,23 +103,22 @@
     121
   ],
   "stats": {
-    "popularity": 21,
+    "popularity": 22,
     "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": 4.7619,
-    "fanRatioPercentile": 95.8403,
-    "popularityPercentile": 14.6008,
-    "fanFavouriteDiscoveryScore": 37.3179,
-    "fanFavouriteDiscoveryPercentile": 41.597
+    "fanFavouriteRaw": 4.5455,
+    "fanRatioPercentile": 95.3112,
+    "popularityPercentile": 15.2747,
+    "fanFavouriteDiscoveryScore": 38.3922,
+    "fanFavouriteDiscoveryPercentile": 42.868
   },
   "context": {
     "primaryProfile": "kingdom-management",
     "profileGroups": [
       "euro-fantasy",
       "kingdom-management",
-      "modern-korea",
       "school-life"
     ],
     "primaryAnchors": [
@@ -129,34 +128,54 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [],
       "worldType": [
         "fantasy-world"
       ],
       "romanceRole": "minor",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "kingdom-management / modern-korea / school",
+    "semanticSummary": "kingdom-management / school / system",
     "searchKeywords": [
       "lady",
       "overlord",
       "paewangyeongae",
-      "villainess",
-      "ednia",
-      "conquers",
+      "descendant",
+      "legendary",
+      "hero",
+      "idnia",
+      "katze",
+      "inherited",
+      "power",
+      "makes",
+      "imposing",
+      "workhorse",
+      "forced",
+      "enroll",
+      "prestigious",
       "academy",
-      "fist",
-      "kakaopage",
-      "translated"
+      "avoid",
+      "death",
+      "realizes",
+      "should",
+      "probably",
+      "rein",
+      "otherwise",
+      "might",
+      "steal",
+      "spotlight"
     ],
     "evidence": {
       "tags": [
@@ -178,20 +197,37 @@
         "paewangyeongae"
       ],
       "descriptionTerms": [
-        "villainess",
-        "ednia",
-        "conquers",
+        "descendant",
+        "legendary",
+        "hero",
+        "idnia",
+        "katze",
+        "inherited",
+        "power",
+        "makes",
+        "imposing",
+        "workhorse",
+        "forced",
+        "enroll",
+        "prestigious",
         "academy",
-        "fist",
-        "overlord",
-        "kakaopage",
-        "translated"
+        "avoid",
+        "death",
+        "realizes",
+        "should",
+        "probably",
+        "rein",
+        "otherwise",
+        "might",
+        "steal",
+        "spotlight"
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
-    "confidence": 0.83
+    "confidence": 0.76
   }
 }

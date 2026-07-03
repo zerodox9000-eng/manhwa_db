@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Sex Slave Nun",
-  "mangabaka_title": "Sex Slave Nun",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Seongcheori Noye Sunyeo",
+  "native_title": "성처리 노예 수녀",
+  "romanized_title": "Seongcheori Noye Sunyeo",
   "titles": [
     {
       "language": "ko",
       "title": "성처리 노예 수녀",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Seongcheori Noye Sunyeo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,25 +34,25 @@
     }
   ],
   "description": "Deep in the mountains of Gangwon-do lies the 'Almighty Faith Church,' a cult isolated from the world. Suryeon, a nun who fled domestic abuse to join the church, believes it is her only sanctuary. Then one day, she is chosen by the cult leader as a 'Candidate for the Female Christ.' It is a holy mission to conceive a messiah who will save everyone. Believing this, Suryeon heads to the training room to follow God's will. However, what awaited her was the completely different face of the once-gentle Father Kwon Hyuk. \"Sister, you have no right to refuse.\" The touch she believed to be salvation gradually turns into commands, and the mission she believed to be faith slowly transforms into total submission. Even amidst fear and guilt, Suryeon finds herself relying on Kwon Hyuk's words, clinging to the false tenderness he offers, and slowly losing her sense of self.\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/slave_nun)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMDE3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzcwMC1ZcFF4UGtuQVlDTXguanBn",
   "total_chapters": "0",
-  "status": "unknown",
-  "content_rating": "erotica",
+  "status": "releasing",
+  "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-02T03:46:24.940Z",
-  "mangabaka_latest_rank": 3,
-  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
+  "last_updated_at": "2026-07-03T03:47:56.040Z",
+  "mangabaka_latest_rank": 15,
+  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
   "authors": [
-    "Malg Eum"
+    "Malkeum"
   ],
   "artists": [
     "Hyoki"
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213700,
+      "rating": 45,
+      "url": "https://anilist.co/manga/213700"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qrvac1m",
@@ -61,20 +76,29 @@
   },
   "tag_ids": [
     8,
+    629,
     46,
+    10,
     15,
     41,
-    31
+    109,
+    31,
+    498,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 45
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6741,
+    "popularityPercentile": 5.2512,
+    "fanFavouriteDiscoveryScore": 7.1693,
+    "fanFavouriteDiscoveryPercentile": 4.8104
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -103,6 +127,9 @@
       "sex",
       "slave",
       "nun",
+      "seongcheori",
+      "noye",
+      "sunyeo",
       "deep",
       "mountains",
       "gangwon-do",
@@ -128,18 +155,28 @@
     "evidence": {
       "tags": [
         "Seinen",
+        "Nun",
         "Adult",
+        "Hentai",
         "Mature",
         "Smut",
-        "Drama"
+        "Nudity",
+        "Drama",
+        "Religion",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "sex",
         "slave",
         "nun",
-        "sex",
-        "slave",
-        "nun"
+        "seongcheori",
+        "noye",
+        "sunyeo",
+        "seongcheori",
+        "noye",
+        "sunyeo"
       ],
       "descriptionTerms": [
         "deep",
@@ -168,9 +205,10 @@
         "christ"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.47
   }
 }

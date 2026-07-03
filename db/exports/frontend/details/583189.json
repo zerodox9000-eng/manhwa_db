@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Wrongful Romance",
-  "mangabaka_title": "A Wrongful Romance",
+  "mangabaka_title": "Geulleomeogeun Sunjeong",
   "native_title": "글러먹은 순정",
-  "romanized_title": null,
+  "romanized_title": "Geulleomeogeun Sunjeong",
   "titles": [
     {
       "language": "ko",
       "title": "글러먹은 순정",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,6 +27,15 @@
       "language": "en",
       "title": "A Wrongful Romance",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geulleomeogeun Sunjeong",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -57,37 +68,41 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=13890637), [Ridibooks](https://ridibooks.com/books/1561017549), [Lezhin](https://www.lezhin.com/ko/comic/doomed_first_love), [MrBlue](https://www.mrblue.com/webtoon/wt_000078993), [BookCube](https://www.bookcube.com/toon/detail.asp?webtoon_num=260444)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIwMTE2LmpwZw",
+  "description": "I was betrayed by a boyfriend I’d even considered marrying. I knew there would be challenges since we were dating at work, but I never imagined I’d actually see him hooking up with someone else right in front of me. Still reeling from the shock, Da-Jeong impulsively headed to the countryside where her parents lived. And there, she ran into her high school classmate and first love, Si-Mun.\n\n*“It wouldn’t be fair if you just used me and then ran off, would it?”\n\n“I haven’t even had a taste of Yu Da-Jeong yet.”*\n\nWas he always this forward?\n\n(Source: Naver Series, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzc1OC1VQ2F6WEF4MlZnNkcuanBn",
   "total_chapters": "23",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-03-20",
+    "end_date": "2026-06-19",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-30T15:22:16.344Z",
-  "mangabaka_latest_rank": 831,
-  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
+  "last_updated_at": "2026-07-02T09:06:48.193Z",
+  "mangabaka_latest_rank": 839,
+  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
   "authors": [
-    "Ileunkkoch",
-    "Jang Yeon"
+    "Ireunkkot",
+    "Jang-Yeon"
   ],
   "artists": [
-    "Sseulalin"
+    "Sseurarin"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/583189",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213758,
+      "rating": null,
+      "url": "https://anilist.co/manga/213758"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "2w7e272",
@@ -97,31 +112,40 @@
   },
   "tag_ids": [
     43,
+    415,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6741,
+    "popularityPercentile": 0.8815,
+    "fanFavouriteDiscoveryScore": 5.3508,
+    "fanFavouriteDiscoveryPercentile": 0.8435
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
       "modern-korea",
-      "romance-core"
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -138,46 +162,88 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "wrongful",
       "romance",
-      "original",
-      "webtoon",
-      "naver",
-      "series",
-      "ridibooks",
-      "lezhin",
-      "mrblue",
-      "bookcube"
+      "geulleomeogeun",
+      "sunjeong",
+      "betrayed",
+      "boyfriend",
+      "even",
+      "considered",
+      "marrying",
+      "knew",
+      "challenges",
+      "since",
+      "were",
+      "dating",
+      "work",
+      "never",
+      "imagined",
+      "actually",
+      "see",
+      "hooking",
+      "someone",
+      "else",
+      "right",
+      "front",
+      "still",
+      "reeling",
+      "shock",
+      "da-jeong"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Countryside",
+        "Heterosexual",
         "Adult",
         "Smut",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "wrongful",
         "romance",
-        "wrongful",
-        "romance"
+        "geulleomeogeun",
+        "sunjeong",
+        "geulleomeogeun",
+        "sunjeong"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "series",
-        "ridibooks",
-        "lezhin",
-        "mrblue",
-        "bookcube"
+        "betrayed",
+        "boyfriend",
+        "even",
+        "considered",
+        "marrying",
+        "knew",
+        "challenges",
+        "since",
+        "were",
+        "dating",
+        "work",
+        "never",
+        "imagined",
+        "actually",
+        "see",
+        "hooking",
+        "someone",
+        "else",
+        "right",
+        "front",
+        "still",
+        "reeling",
+        "shock",
+        "da-jeong"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.58
   }
 }

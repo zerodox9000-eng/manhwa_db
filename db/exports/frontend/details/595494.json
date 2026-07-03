@@ -79,9 +79,9 @@
   },
   "first_seen_at": "2026-07-01T05:20:54.513Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-01T17:14:04.437Z",
-  "mangabaka_latest_rank": 20,
-  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
+  "last_updated_at": "2026-07-02T17:14:36.515Z",
+  "mangabaka_latest_rank": 32,
+  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
   "authors": [
     "Brothers Without a Tomorrow"
   ],
@@ -97,12 +97,15 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "s7abup2",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/s7abup2"
     }
   },
   "tag_ids": [
+    36,
     46,
+    15,
+    41,
     16,
     9
   ],
@@ -144,7 +147,9 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
@@ -178,7 +183,10 @@
     ],
     "evidence": {
       "tags": [
+        "Fantasy",
         "Adult",
+        "Mature",
+        "Smut",
         "Yaoi",
         "Romance"
       ],
@@ -218,6 +226,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.68
+    "confidence": 0.71
   }
 }

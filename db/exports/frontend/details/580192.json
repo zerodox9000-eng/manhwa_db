@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-01T21:37:14.845Z",
-  "mangabaka_latest_rank": 953,
-  "mangabaka_latest_snapshot_at": "2026-07-02T05:09:47.630Z",
+  "last_updated_at": "2026-07-02T21:46:06.359Z",
+  "mangabaka_latest_rank": 961,
+  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
   "authors": [
     "0103"
   ],
@@ -97,7 +97,11 @@
       "rating": 71,
       "url": "https://anilist.co/manga/208458"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "im-the-only-guy-at-the-massage-shop",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/im-the-only-guy-at-the-massage-shop"
+    },
     "mangaupdates": {
       "id": "m9o1w6z",
       "rating": 63,
@@ -123,16 +127,16 @@
     428
   ],
   "stats": {
-    "popularity": 296,
+    "popularity": 297,
     "favourites": 5,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 1.6892,
-    "fanRatioPercentile": 62.8897,
-    "popularityPercentile": 59.8935,
-    "fanFavouriteDiscoveryScore": 60.7049,
-    "fanFavouriteDiscoveryPercentile": 68.8137
+    "fanFavouriteRaw": 1.6835,
+    "fanRatioPercentile": 62.7023,
+    "popularityPercentile": 59.9514,
+    "fanFavouriteDiscoveryScore": 60.5341,
+    "fanFavouriteDiscoveryPercentile": 68.6602
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -250,7 +254,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.81
