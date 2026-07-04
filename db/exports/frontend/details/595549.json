@@ -5,7 +5,7 @@
   "display_title": "Substitute Hero",
   "mangabaka_title": "Substitute Hero",
   "native_title": "대타용사",
-  "romanized_title": null,
+  "romanized_title": "Daetayongsa",
   "titles": [
     {
       "language": "ko",
@@ -15,17 +15,45 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Daetayongsa",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Stand-in Hero",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Substitute Hero",
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Hero's Stand-In",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Substitute Hero",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=849541), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14340388)",
+  "description": "To escape the looming threat of the Demon King, the people of another world begin summoning powerful warriors from different worlds. Meanwhile, an ordinary office worker named Song Lee-seok is summoned by mistake simply because he shares the same name as South Korea's strongest martial artist. But the people of this world mistake him for the legendary hero! Thrown into an adventure built on a lie, can this completely average man keep up the act and somehow defeat the Demon King before his true identity is exposed?\n\n**Original Webtoon**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=849541), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13991460)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwOTU2LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "total_chapters": "6",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -37,9 +65,9 @@
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-02T16:07:56.761Z",
-  "mangabaka_latest_rank": 22,
-  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
+  "last_updated_at": "2026-07-03T16:25:23.834Z",
+  "mangabaka_latest_rank": 28,
+  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
   "authors": [
     "Bat (밭)"
   ],
@@ -62,7 +90,8 @@
   "tag_ids": [
     38,
     36,
-    39
+    39,
+    37
   ],
   "stats": {
     "popularity": null,
@@ -75,62 +104,117 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace",
+      "murim-wuxia"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business",
+      "murim-wuxia"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "employee",
+        "martial-artist"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
       "tone": [],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
-      "romanceRole": "none",
+      "romanceRole": "minor",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "substitute",
       "hero",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "daetayongsa",
+      "escape",
+      "looming",
+      "threat",
+      "demon",
+      "king",
+      "people",
+      "another",
+      "begin",
+      "summoning",
+      "powerful",
+      "warriors",
+      "different",
+      "worlds",
+      "meanwhile",
+      "ordinary",
+      "office",
+      "worker",
+      "named",
+      "song",
+      "lee-seok",
+      "summoned",
+      "mistake",
+      "simply",
+      "because"
     ],
     "evidence": {
       "tags": [
         "Shounen",
         "Fantasy",
-        "Action"
+        "Action",
+        "Adventure"
       ],
       "titleTerms": [
         "substitute",
         "hero",
         "substitute",
-        "hero"
+        "hero",
+        "daetayongsa"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "escape",
+        "looming",
+        "threat",
+        "demon",
+        "king",
+        "people",
+        "another",
+        "begin",
+        "summoning",
+        "powerful",
+        "warriors",
+        "different",
+        "worlds",
+        "meanwhile",
+        "ordinary",
+        "office",
+        "worker",
+        "named",
+        "song",
+        "lee-seok",
+        "summoned",
+        "mistake",
+        "simply",
+        "because"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 1
   }
 }

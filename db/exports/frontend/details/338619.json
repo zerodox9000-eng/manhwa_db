@@ -99,9 +99,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-30T05:39:16.036Z",
-  "mangabaka_latest_rank": 3410,
-  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
+  "last_updated_at": "2026-07-03T17:34:10.983Z",
+  "mangabaka_latest_rank": 3416,
+  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
   "authors": [
     "Seobyeol"
   ],
@@ -130,7 +130,13 @@
     }
   },
   "tag_ids": [
+    1493,
+    1585,
+    595,
+    257,
+    1165,
     987,
+    1571,
     118,
     985,
     280,
@@ -138,32 +144,36 @@
     41,
     95,
     180,
+    1947,
     16,
     1020,
     31,
+    776,
     18,
     9,
+    1004,
     93,
     57,
     428,
     1128
   ],
   "stats": {
-    "popularity": 94,
+    "popularity": 95,
     "favourites": 1,
-    "meanScore": 60
+    "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0638,
-    "fanRatioPercentile": 45.9153,
-    "popularityPercentile": 38.7415,
-    "fanFavouriteDiscoveryScore": 37.9541,
-    "fanFavouriteDiscoveryPercentile": 42.2676
+    "fanFavouriteRaw": 1.0526,
+    "fanRatioPercentile": 45.5995,
+    "popularityPercentile": 38.8412,
+    "fanFavouriteDiscoveryScore": 37.7472,
+    "fanFavouriteDiscoveryPercentile": 42.1216
   },
   "context": {
     "primaryProfile": "medical-career",
     "profileGroups": [
       "medical-career",
+      "modern-korea",
       "modern-workplace",
       "office-romance",
       "romance-core",
@@ -175,6 +185,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -190,12 +201,14 @@
         "dark",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "medical-career / school",
+    "semanticSummary": "medical-career / modern-korea / school",
     "searchKeywords": [
       "cradle",
       "tiger",
@@ -225,7 +238,13 @@
     ],
     "evidence": {
       "tags": [
+        "Golden/Yellow-Eyed Seme",
+        "Rich Seme",
+        "South Korea",
+        "College",
+        "Past Encounter",
         "Older Seme Younger Uke",
+        "Height Gap",
         "Omegaverse",
         "Dubious Consent",
         "Bondage",
@@ -233,11 +252,14 @@
         "Smut",
         "Rape",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Debts",
         "Drama",
+        "Korean Folklore",
         "Psychological",
         "Romance",
+        "Modern Era",
         "Longstrip",
         "Full Color",
         "Web Comic",
@@ -284,6 +306,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.89
+    "confidence": 1
   }
 }

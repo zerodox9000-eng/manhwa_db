@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Loving Anti-Fan",
-  "mangabaka_title": "Saranghaneun Anti-fan",
+  "mangabaka_title": "Saranghaneun Anti-Fan",
   "native_title": "사랑하는 안티팬",
-  "romanized_title": "Saranghaneun Anti-fan",
+  "romanized_title": "Saranghaneun Anti-Fan",
   "titles": [
     {
       "language": "ko",
       "title": "사랑하는 안티팬",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Dear Anti-Fan",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -23,30 +32,32 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Saranghaneun Anti-fan",
-      "traits": [],
+      "title": "Saranghaneun Anti-Fan",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000078608)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI4NzYyLmpwZw",
+  "description": "Kang Hae-Yeong is a die-hard anti-fan of Lee Hyeon, the lead singer of a popular band. He spends his days following Lee Hyeon’s every move and picking fights with him—a truly pathetic existence. Then one day, he finds himself drawn to a stranger with a voice similar to Lee Hyeon’s and ends up having a one-night stand with him... But this guy... now that he looks at him, it’s not just his voice that’s similar—he’s Lee Hyeon himself, isn’t he?!\n\n*“If you were going to write something like that... you should at least tell me if you really hated me that much.”*\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzg1OC1kOFFmSGF2RFFOcWkuanBn",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-10",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-12T05:27:33.596Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-02T00:53:40.174Z",
-  "mangabaka_latest_rank": 243,
-  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
+  "last_updated_at": "2026-07-04T04:16:21.397Z",
+  "mangabaka_latest_rank": 249,
+  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
   "authors": [
     "Kkamjyo"
   ],
@@ -58,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213858,
+      "rating": null,
+      "url": "https://anilist.co/manga/213858"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ze6p4n8",
@@ -68,8 +83,13 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    9
+    6,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -77,14 +97,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6501,
+    "popularityPercentile": 0.1671,
+    "fanFavouriteDiscoveryScore": 5.0874,
+    "fanFavouriteDiscoveryPercentile": 0.1671
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -99,6 +120,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [],
@@ -106,19 +128,43 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "loving",
       "anti-fan",
       "saranghaneun",
-      "original",
-      "webtoon"
+      "kang",
+      "hae-yeong",
+      "die-hard",
+      "lee",
+      "hyeon",
+      "lead",
+      "singer",
+      "popular",
+      "band",
+      "spends",
+      "days",
+      "following",
+      "every",
+      "move",
+      "picking",
+      "fights",
+      "truly",
+      "pathetic",
+      "existence",
+      "finds",
+      "himself"
     ],
     "evidence": {
       "tags": [
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Romance"
+        "Comedy",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "loving",
@@ -129,13 +175,36 @@
         "anti-fan"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "kang",
+        "hae-yeong",
+        "die-hard",
+        "anti-fan",
+        "lee",
+        "hyeon",
+        "lead",
+        "singer",
+        "popular",
+        "band",
+        "spends",
+        "days",
+        "following",
+        "lee",
+        "hyeon",
+        "every",
+        "move",
+        "picking",
+        "fights",
+        "truly",
+        "pathetic",
+        "existence",
+        "finds",
+        "himself"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.43
   }
 }

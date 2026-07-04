@@ -2,7 +2,7 @@
   "id": 595632,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Ruler Of Darkness",
+  "display_title": "The Ruler of Darkness",
   "mangabaka_title": "Jeamjincheongyeong",
   "native_title": "제암진천경",
   "romanized_title": "Jeamjincheongyeong",
@@ -27,7 +27,7 @@
     },
     {
       "language": "en",
-      "title": "The Ruler Of Darkness",
+      "title": "The Ruler of Darkness",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -48,9 +48,9 @@
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-02T16:46:05.194Z",
-  "mangabaka_latest_rank": 7,
-  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
+  "last_updated_at": "2026-07-03T18:06:18.227Z",
+  "mangabaka_latest_rank": 13,
+  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
   "authors": [
     "Hyun Lee",
     "Yugwa"
@@ -65,33 +65,37 @@
   "source": {
     "anilist": {
       "id": 213806,
-      "rating": null,
+      "rating": 70,
       "url": "https://anilist.co/manga/213806"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "0jhf594",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/0jhf594"
     }
   },
   "tag_ids": [
     38,
+    58,
     36,
     39,
-    29
+    29,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 99,
     "favourites": 1,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6741,
-    "popularityPercentile": 0.1368,
-    "fanFavouriteDiscoveryScore": 5.0805,
-    "fanFavouriteDiscoveryPercentile": 0.1368
+    "fanFavouriteRaw": 1.0101,
+    "fanRatioPercentile": 44.4301,
+    "popularityPercentile": 39.6385,
+    "fanFavouriteDiscoveryScore": 37.1909,
+    "fanFavouriteDiscoveryPercentile": 41.4382
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -154,9 +158,13 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Male Lead",
         "Fantasy",
         "Action",
-        "Martial Arts"
+        "Martial Arts",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "ruler",
@@ -195,6 +203,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.5
   }
 }

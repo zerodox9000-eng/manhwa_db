@@ -2,8 +2,8 @@
   "id": 567823,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Regressed Extra Becomes a Genius",
-  "mangabaka_title": "Hoegwihan Extra-ga Cheonjaega Doem",
+  "display_title": "The New Protagonist's Challenge",
+  "mangabaka_title": "The New Protagonist's Challenge",
   "native_title": "회귀한 엑스트라가 천재가 됨",
   "romanized_title": "Hoegwihan Extra-ga Cheonjaega Doem",
   "titles": [
@@ -34,9 +34,25 @@
     },
     {
       "language": "en",
+      "title": "Regressed Extras Become Geniuses",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The New Protagonist's Challenge",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "The Regressed Extra Becomes a Genius",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -61,12 +77,12 @@
       "note": null
     }
   ],
-  "description": "I, a mere extra, have to protect the main character?!\n\n(Source: KakaoPage, translated)",
+  "description": "Kim Seonu is perfectly content being an extra in the novel \"Modern Mage.\" However, when the protagonist, Lee Seojun, dies unexpectedly, Seonu is sent back to his high school days with one goal: to keep his classmate safe. Armed with knowledge of the story’s future events, Seonu begins to alter the original plot. But the more he intervenes, the more he changes his own fate—until he’s no longer just an NPC, but the novel’s new protagonist. Now, every choice he makes could rewrite the entire story!\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2QvOC81L2YvMS9kLzUvMTNhNS80ZTgxL2FhOGYvYjg1NzdkMzkwZTli",
   "total_chapters": "536",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-11-30",
@@ -76,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-02T17:13:08.625Z",
-  "mangabaka_latest_rank": 1558,
-  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
+  "last_updated_at": "2026-07-03T17:13:20.792Z",
+  "mangabaka_latest_rank": 1564,
+  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
   "authors": [
     "Studio Sigma",
     "Tekgol"
@@ -88,7 +104,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/567823",
-    "read_en": null
+    "read_en": "https://tapas.io/series/the-new-protagonists-challenge/info"
   },
   "source": {
     "anilist": {
@@ -126,21 +142,20 @@
     121
   ],
   "stats": {
-    "popularity": 1587,
+    "popularity": 1604,
     "favourites": 20,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2602,
-    "fanRatioPercentile": 50.8321,
-    "popularityPercentile": 86.9975,
-    "fanFavouriteDiscoveryScore": 50.6417,
-    "fanFavouriteDiscoveryPercentile": 59.0774
+    "fanFavouriteRaw": 1.2469,
+    "fanRatioPercentile": 50.6493,
+    "popularityPercentile": 87.1289,
+    "fanFavouriteDiscoveryScore": 50.4615,
+    "fanFavouriteDiscoveryPercentile": 58.9339
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "regression-return",
     "profileGroups": [
-      "modern-korea",
       "regression-return",
       "school-life"
     ],
@@ -148,7 +163,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -163,28 +177,43 @@
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "none",
       "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / school / regression / reincarnation",
+    "semanticSummary": "regression-return / school / regression / reincarnation",
     "searchKeywords": [
-      "regressed",
-      "extra",
-      "becomes",
-      "genius",
+      "protagonist",
+      "challenge",
       "hoegwihan",
       "extra-ga",
       "cheonjaega",
       "doem",
-      "mere",
-      "protect",
-      "main",
-      "character",
-      "kakaopage",
-      "translated"
+      "kim",
+      "seonu",
+      "perfectly",
+      "content",
+      "being",
+      "extra",
+      "novel",
+      "modern",
+      "mage",
+      "however",
+      "lee",
+      "seojun",
+      "dies",
+      "unexpectedly",
+      "sent",
+      "high",
+      "school",
+      "days",
+      "goal",
+      "keep",
+      "classmate",
+      "safe"
     ],
     "evidence": {
       "tags": [
@@ -206,34 +235,48 @@
         "Magic"
       ],
       "titleTerms": [
-        "regressed",
-        "extra",
-        "becomes",
-        "genius",
-        "hoegwihan",
-        "extra-ga",
-        "cheonjaega",
-        "doem",
+        "protagonist",
+        "challenge",
+        "protagonist",
+        "challenge",
         "hoegwihan",
         "extra-ga",
         "cheonjaega",
         "doem"
       ],
       "descriptionTerms": [
-        "mere",
+        "kim",
+        "seonu",
+        "perfectly",
+        "content",
+        "being",
         "extra",
-        "protect",
-        "main",
-        "character",
-        "kakaopage",
-        "translated"
+        "novel",
+        "modern",
+        "mage",
+        "however",
+        "protagonist",
+        "lee",
+        "seojun",
+        "dies",
+        "unexpectedly",
+        "seonu",
+        "sent",
+        "high",
+        "school",
+        "days",
+        "goal",
+        "keep",
+        "classmate",
+        "safe"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.65
+    "confidence": 0.58
   }
 }

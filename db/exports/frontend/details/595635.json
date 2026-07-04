@@ -2,14 +2,32 @@
   "id": 595635,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Secret That Made You Cry",
-  "mangabaka_title": "The Secret That Made You Cry",
-  "native_title": null,
-  "romanized_title": null,
+  "display_title": "Neoreul Ullin Bimil",
+  "mangabaka_title": "Neoreul Ullin Bimil",
+  "native_title": "너를 울린 비밀",
+  "romanized_title": "Neoreul Ullin Bimil",
   "titles": [
     {
       "language": "ko",
       "title": "너를 울린 비밀",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Neoreul Ullin Bimil",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Neoreul Ullin Bimil",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -18,40 +36,44 @@
       "language": "en",
       "title": "The Secret That Made You Cry",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851715), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14380320)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMDYxLmpwZw",
+  "description": "Han So-Eun finds herself preparing a photo exhibition ahead of the school festival. As she takes photos with Yun Ji-Hu, a boy she met by chance, her ordinary daily life gradually begins to feel special. But behind her smiling face lay a secret she couldn’t share with anyone. A story about our first love and coming of age at the age of eighteen, the most radiant time of our lives.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzgxMS1yclVjZUR4Slk3ejYuanBn",
   "total_chapters": "0",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-02T16:36:11.800Z",
-  "mangabaka_latest_rank": 6,
-  "mangabaka_latest_snapshot_at": "2026-07-03T04:55:45.737Z",
+  "last_updated_at": "2026-07-03T19:06:19.256Z",
+  "mangabaka_latest_rank": 12,
+  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
   "authors": [
-    "Yeonsu"
+    "Yeon-Su"
   ],
   "artists": [
-    "Yeonsu"
+    "Yeon-Su"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595635",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213811,
+      "rating": null,
+      "url": "https://anilist.co/manga/213811"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "w4ppd2r",
@@ -60,21 +82,29 @@
     }
   },
   "tag_ids": [
+    593,
     40,
     107,
+    108,
     31,
     9,
-    42
+    42,
+    455,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6501,
+    "popularityPercentile": 5.2396,
+    "fanFavouriteDiscoveryScore": 7.1585,
+    "fanFavouriteDiscoveryPercentile": 4.7916
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -107,42 +137,90 @@
     },
     "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
-      "secret",
-      "made",
-      "cry",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "neoreul",
+      "ullin",
+      "bimil",
+      "han",
+      "so-eun",
+      "finds",
+      "herself",
+      "preparing",
+      "photo",
+      "exhibition",
+      "ahead",
+      "school",
+      "festival",
+      "takes",
+      "photos",
+      "yun",
+      "ji-hu",
+      "boy",
+      "met",
+      "chance",
+      "ordinary",
+      "daily",
+      "gradually",
+      "begins",
+      "feel",
+      "special",
+      "behind"
     ],
     "evidence": {
       "tags": [
+        "Photography",
         "Shoujo",
         "School",
+        "Heterosexual",
         "Drama",
         "Romance",
-        "School Life"
+        "School Life",
+        "Visual Arts",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "secret",
-        "made",
-        "cry",
-        "secret",
-        "made",
-        "cry"
+        "neoreul",
+        "ullin",
+        "bimil",
+        "neoreul",
+        "ullin",
+        "bimil",
+        "neoreul",
+        "ullin",
+        "bimil"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "han",
+        "so-eun",
+        "finds",
+        "herself",
+        "preparing",
+        "photo",
+        "exhibition",
+        "ahead",
+        "school",
+        "festival",
+        "takes",
+        "photos",
+        "yun",
+        "ji-hu",
+        "boy",
+        "met",
+        "chance",
+        "ordinary",
+        "daily",
+        "gradually",
+        "begins",
+        "feel",
+        "special",
+        "behind"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.6
   }
 }
