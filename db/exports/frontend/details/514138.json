@@ -92,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T03:02:30.740Z",
-  "mangabaka_latest_rank": 2201,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T03:02:50.323Z",
+  "mangabaka_latest_rank": 2208,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Huin Yangmal"
   ],
@@ -108,7 +108,7 @@
   "source": {
     "anilist": {
       "id": 205308,
-      "rating": 56,
+      "rating": 58,
       "url": "https://anilist.co/manga/205308"
     },
     "animeplanet": {
@@ -123,38 +123,58 @@
     }
   },
   "tag_ids": [
+    1499,
+    1378,
+    1395,
+    1581,
+    1569,
     107,
+    1962,
+    631,
+    98,
+    1564,
+    36,
     22,
     46,
     15,
     41,
+    160,
+    229,
     180,
+    1947,
     16,
     31,
+    616,
     18,
     9,
+    226,
     7,
     42,
+    1004,
     93,
+    1167,
     57,
-    428
+    428,
+    1128,
+    2058
   ],
   "stats": {
-    "popularity": 66,
+    "popularity": 69,
     "favourites": 1,
-    "meanScore": 56
+    "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5152,
-    "fanRatioPercentile": 58.1441,
-    "popularityPercentile": 32.9638,
-    "fanFavouriteDiscoveryScore": 43.4077,
-    "fanFavouriteDiscoveryPercentile": 48.9179
+    "fanFavouriteRaw": 1.4493,
+    "fanRatioPercentile": 56.4901,
+    "popularityPercentile": 33.6193,
+    "fanFavouriteDiscoveryScore": 42.7488,
+    "fanFavouriteDiscoveryPercentile": 48.1327
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
       "horror-survival",
+      "modern-korea",
       "regression-return",
       "romance-core",
       "school-life"
@@ -165,6 +185,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -179,13 +200,15 @@
         "warm"
       ],
       "worldType": [
+        "modern-urban",
+        "fantasy-world",
         "system-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "horror-survival / school",
+    "semanticSummary": "horror-survival / modern-korea / school",
     "searchKeywords": [
       "exorcism",
       "childhood",
@@ -221,21 +244,40 @@
     ],
     "evidence": {
       "tags": [
+        "Red-Eyed Uke",
+        "Black-Haired Uke",
+        "White/Silver-Haired Seme",
+        "Short Uke",
+        "Tall Seme",
         "School",
+        "Seme Falling In Love First",
+        "Exorcists",
+        "Childhood Friends to Lovers",
+        "Tall Seme Short Uke",
+        "Fantasy",
         "Supernatural",
         "Adult",
         "Mature",
         "Smut",
+        "Demons",
+        "Ghosts",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
+        "Exorcism",
         "Psychological",
         "Romance",
+        "Unrequited Love",
         "Slice of Life",
         "School Life",
+        "Modern Era",
         "Longstrip",
+        "Short Story",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "exorcism",
@@ -283,6 +325,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.8
+    "confidence": 0.96
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Self-Bound",
-  "mangabaka_title": "Self-Bound",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Jaseungjabak",
+  "native_title": "자승자박",
+  "romanized_title": "Jaseungjabak",
   "titles": [
     {
       "language": "ko",
       "title": "자승자박",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jaseungjabak",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,26 +31,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Self-Inflicted Trap",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000078481)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMDQ0LmpwZw",
-  "total_chapters": "0",
-  "status": "unknown",
+  "description": "Kang Hyeon-Su, who got dumped after asking his girlfriend for a prostate massage. Hyeon-Su, a dopamine addict, was wondering if there was anyone who could satisfy his desires when he happened to run into Kwon Seo-Hyeok, a college junior who had come to his company to request a remodeling project. As the two shared drinks during their long-awaited reunion, they naturally ended up at Seo-Hyeok’s place...\n\nWhat Hyeon-Su encountered there was none other than a walk-in closet filled with “adult toys”?! His initial shock was short-lived, and as Hyeon-Eu showed interest, Seo-Hyeok, as if he’d been waiting for this moment, made a suggestive remark. \n\n*“I collected all of this to share with you, Senior.”*\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzg1My0xYXZkUW53OU5zZXIuanBn",
+  "total_chapters": "8",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-28",
+    "end_date": "2026-06-28",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-02T16:36:13.956Z",
-  "mangabaka_latest_rank": 10,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T03:27:32.459Z",
+  "mangabaka_latest_rank": 17,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Kkonyang"
   ],
@@ -51,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213853,
+      "rating": null,
+      "url": "https://anilist.co/manga/213853"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "gi7nlmo",
@@ -60,66 +82,152 @@
     }
   },
   "tag_ids": [
+    257,
     46,
+    289,
+    180,
     16,
-    31
+    6,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7064,
+    "popularityPercentile": 0.4706,
+    "fanFavouriteDiscoveryScore": 5.2056,
+    "fanFavouriteDiscoveryPercentile": 0.463
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "corporate-workplace",
+      "modern-workplace",
+      "office-romance",
+      "romance-core",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "corporate-workplace",
+        "school"
+      ],
       "protagonistRole": [],
-      "careerDomain": [],
-      "premiseMechanic": [],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
-      "tone": [],
-      "worldType": [],
-      "romanceRole": "none",
+      "progressionType": [
+        "career-growth",
+        "power-growth"
+      ],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "corporate-workplace / corporate-workplace / school / system",
     "searchKeywords": [
       "self-bound",
-      "original",
-      "webtoon"
+      "jaseungjabak",
+      "kang",
+      "hyeon-su",
+      "got",
+      "dumped",
+      "asking",
+      "girlfriend",
+      "prostate",
+      "massage",
+      "dopamine",
+      "addict",
+      "wondering",
+      "anyone",
+      "satisfy",
+      "desires",
+      "happened",
+      "run",
+      "kwon",
+      "seo-hyeok",
+      "college",
+      "junior",
+      "come",
+      "company",
+      "request"
     ],
     "evidence": {
       "tags": [
+        "College",
         "Adult",
+        "Sex Toys",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "self-bound",
-        "self-bound"
+        "jaseungjabak",
+        "jaseungjabak"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "kang",
+        "hyeon-su",
+        "got",
+        "dumped",
+        "asking",
+        "girlfriend",
+        "prostate",
+        "massage",
+        "hyeon-su",
+        "dopamine",
+        "addict",
+        "wondering",
+        "anyone",
+        "satisfy",
+        "desires",
+        "happened",
+        "run",
+        "kwon",
+        "seo-hyeok",
+        "college",
+        "junior",
+        "come",
+        "company",
+        "request"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.9
   }
 }

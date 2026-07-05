@@ -17,6 +17,15 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Annoying Boy",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Annoying Boy",
       "traits": [
@@ -33,7 +42,7 @@
       "note": null
     }
   ],
-  "description": "Lee Seo-Jun is a playboy whose hobby is changing partners every day. By chance, actor Yoon Ji-Han enters Seo-Jun’s life. Despite leaving each other with the worst first meeting and the worst first impression, Seo-Jun becomes intrigued by Ji-Han and starts hanging around him…\n\n(Source: Ridibooks, translated)",
+  "description": "In the cutthroat world of showbiz, reclusive actor Ji-Han is forced by his struggling agency into a secretive hotel meeting with a powerful investor. What should be a business deal instantly devolves into a volatile power struggle when Ji-Han is trapped in an intense first meeting with Seo-Joon, who seemingly has no qualms in overstepping boundaries. Over multiple encounters, Seo-Joon pushes to assert dominance that Ji-Han fiercely resists, which only fuels Seo-Joon’s obsession. As the toxic friction between them grows, so does a different emotion that neither of them are ready for…\n\n(Source: Tappytoon)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMDA4My1LSkVzWlFOYU5ockoucG5n",
   "total_chapters": "17",
   "status": "completed",
@@ -48,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T02:43:35.830Z",
-  "mangabaka_latest_rank": 820,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T02:44:32.382Z",
+  "mangabaka_latest_rank": 827,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Hae-Beul Lee"
   ],
@@ -59,7 +68,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/583524",
-    "read_en": null
+    "read_en": "https://www.tappytoon.com/en/book/1502"
   },
   "source": {
     "anilist": {
@@ -104,14 +113,15 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6501,
-    "popularityPercentile": 32.4854,
-    "fanFavouriteDiscoveryScore": 23.3874,
-    "fanFavouriteDiscoveryPercentile": 25.9397
+    "fanRatioPercentile": 31.7064,
+    "popularityPercentile": 32.4579,
+    "fanFavouriteDiscoveryScore": 23.415,
+    "fanFavouriteDiscoveryPercentile": 25.9375
   },
   "context": {
     "primaryProfile": "showbiz-career",
     "profileGroups": [
+      "business-career",
       "romance-core",
       "showbiz-career"
     ],
@@ -123,13 +133,16 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [
+        "business",
         "showbiz"
       ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -142,26 +155,29 @@
     "searchKeywords": [
       "annoying",
       "boy",
-      "lee",
-      "seo-jun",
-      "playboy",
-      "whose",
-      "hobby",
-      "changing",
-      "partners",
-      "every",
-      "chance",
+      "cutthroat",
+      "showbiz",
+      "reclusive",
       "actor",
-      "yoon",
       "ji-han",
-      "enters",
-      "despite",
-      "leaving",
-      "each",
-      "worst",
-      "first",
+      "forced",
+      "struggling",
+      "agency",
+      "secretive",
+      "hotel",
       "meeting",
-      "impression"
+      "powerful",
+      "investor",
+      "what",
+      "should",
+      "business",
+      "deal",
+      "instantly",
+      "devolves",
+      "volatile",
+      "power",
+      "struggle",
+      "trapped"
     ],
     "evidence": {
       "tags": [
@@ -192,37 +208,38 @@
         "boy"
       ],
       "descriptionTerms": [
-        "lee",
-        "seo-jun",
-        "playboy",
-        "whose",
-        "hobby",
-        "changing",
-        "partners",
-        "every",
-        "chance",
+        "cutthroat",
+        "showbiz",
+        "reclusive",
         "actor",
-        "yoon",
         "ji-han",
-        "enters",
-        "seo-jun",
-        "despite",
-        "leaving",
-        "each",
-        "worst",
-        "first",
+        "forced",
+        "struggling",
+        "agency",
+        "secretive",
+        "hotel",
         "meeting",
-        "worst",
-        "first",
-        "impression",
-        "seo-jun"
+        "powerful",
+        "investor",
+        "what",
+        "should",
+        "business",
+        "deal",
+        "instantly",
+        "devolves",
+        "volatile",
+        "power",
+        "struggle",
+        "ji-han",
+        "trapped"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.68
+    "confidence": 0.75
   }
 }

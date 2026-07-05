@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-03T21:40:34.224Z",
-  "mangabaka_latest_rank": 5788,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T04:35:09.040Z",
+  "mangabaka_latest_rank": 5795,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Anoreuisil",
     "Jung-Kwon"
@@ -114,7 +114,9 @@
     1571,
     36,
     280,
+    46,
     14,
+    41,
     289,
     180,
     1947,
@@ -122,6 +124,7 @@
     6,
     31,
     1197,
+    9,
     93,
     57,
     428,
@@ -130,22 +133,23 @@
     121
   ],
   "stats": {
-    "popularity": 186,
+    "popularity": 187,
     "favourites": 5,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 2.6882,
-    "fanRatioPercentile": 82.6259,
-    "popularityPercentile": 51.0289,
-    "fanFavouriteDiscoveryScore": 76.837,
-    "fanFavouriteDiscoveryPercentile": 84.3192
+    "fanFavouriteRaw": 2.6738,
+    "fanRatioPercentile": 82.4958,
+    "popularityPercentile": 51.0855,
+    "fanFavouriteDiscoveryScore": 76.7413,
+    "fanFavouriteDiscoveryPercentile": 84.2113
   },
   "context": {
     "primaryProfile": "kingdom-management",
     "profileGroups": [
       "kingdom-management",
-      "modern-korea"
+      "modern-korea",
+      "romance-core"
     ],
     "primaryAnchors": [
       "kingdom-management"
@@ -163,12 +167,13 @@
       ],
       "progressionType": [],
       "tone": [
-        "comedic"
+        "comedic",
+        "warm"
       ],
       "worldType": [
         "fantasy-world"
       ],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -217,7 +222,9 @@
         "Height Gap",
         "Fantasy",
         "Bondage",
+        "Adult",
         "Erotica",
+        "Smut",
         "Sex Toys",
         "Boys Love",
         "Korean Boys Love",
@@ -225,6 +232,7 @@
         "Comedy",
         "Drama",
         "Experiments",
+        "Romance",
         "Longstrip",
         "Full Color",
         "Web Comic",
@@ -275,6 +283,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.75
+    "confidence": 0.82
   }
 }

@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:41:08.378Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-27T14:08:33.927Z",
+  "last_updated_at": "2026-07-04T14:17:31.502Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Kkamja"
   ],
@@ -95,39 +95,59 @@
     }
   },
   "tag_ids": [
+    1163,
+    257,
+    449,
+    1193,
+    1164,
+    648,
+    126,
+    671,
     46,
     180,
+    1947,
     16,
+    228,
     31,
+    984,
     9,
+    1004,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 42,
+    "popularity": 43,
     "favourites": null,
-    "meanScore": 51
+    "meanScore": 52
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6501,
-    "popularityPercentile": 24.9222,
-    "fanFavouriteDiscoveryScore": 19.0259,
-    "fanFavouriteDiscoveryPercentile": 21.1785
+    "fanRatioPercentile": 31.7064,
+    "popularityPercentile": 25.2467,
+    "fanFavouriteDiscoveryScore": 19.2647,
+    "fanFavouriteDiscoveryPercentile": 21.4058
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
-      "romance-core"
+      "modern-korea",
+      "regression-return",
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -135,12 +155,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea / school / reincarnation",
     "searchKeywords": [
       "butterfly",
       "awaits",
@@ -174,11 +196,23 @@
     ],
     "evidence": {
       "tags": [
+        "Dormitory",
+        "College",
+        "Flashbacks",
+        "Friends Grow Distant",
+        "Memories of Past Life",
+        "Past Plays a Big Role",
+        "Reincarnation",
+        "Roommates",
         "Adult",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
+        "Cohabitation",
         "Drama",
+        "Reunion",
         "Romance",
+        "Modern Era",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -226,6 +260,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.76
   }
 }

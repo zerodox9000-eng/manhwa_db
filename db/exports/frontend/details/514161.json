@@ -106,9 +106,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T02:20:06.185Z",
-  "mangabaka_latest_rank": 2191,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T02:20:44.559Z",
+  "mangabaka_latest_rank": 2198,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Geonwon"
   ],
@@ -122,7 +122,7 @@
   "source": {
     "anilist": {
       "id": 207371,
-      "rating": 31,
+      "rating": 32,
       "url": "https://anilist.co/manga/207371"
     },
     "animeplanet": {
@@ -132,45 +132,61 @@
     },
     "mangaupdates": {
       "id": "l8i93hm",
-      "rating": 58,
+      "rating": 57,
       "url": "https://www.mangaupdates.com/series/l8i93hm"
     }
   },
   "tag_ids": [
+    878,
+    1788,
+    758,
+    2023,
     107,
+    1564,
+    1732,
+    985,
+    842,
     46,
     15,
     41,
+    2691,
     180,
+    1947,
     16,
     31,
     18,
     42,
+    1004,
     93,
+    1167,
     57,
-    428
+    428,
+    1128,
+    2058
   ],
   "stats": {
-    "popularity": 48,
+    "popularity": 50,
     "favourites": null,
-    "meanScore": 31
+    "meanScore": 32
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6501,
-    "popularityPercentile": 27.1167,
-    "fanFavouriteDiscoveryScore": 20.3848,
-    "fanFavouriteDiscoveryPercentile": 22.6896
+    "fanRatioPercentile": 31.7064,
+    "popularityPercentile": 27.949,
+    "fanFavouriteDiscoveryScore": 20.92,
+    "fanFavouriteDiscoveryPercentile": 23.1972
   },
   "context": {
-    "primaryProfile": "school-life",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -184,12 +200,14 @@
         "dark",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "school-life / school",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "mine",
       "eumnanchimgong",
@@ -223,18 +241,32 @@
     ],
     "evidence": {
       "tags": [
+        "Kidnapping",
+        "Yandere Seme",
+        "Psychopaths",
+        "Debt-Motivated Protagonist",
         "School",
+        "Tall Seme Short Uke",
+        "Toxic Relationship",
+        "Dubious Consent",
+        "BDSM",
         "Adult",
         "Mature",
         "Smut",
+        "Sleep Intercourse",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
         "Psychological",
         "School Life",
+        "Modern Era",
         "Longstrip",
+        "Short Story",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "mine",
@@ -277,6 +309,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.66
   }
 }

@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T04:24:42.385Z",
-  "mangabaka_latest_rank": 2645,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T04:25:20.708Z",
+  "mangabaka_latest_rank": 2652,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Eun Eun"
   ],
@@ -87,8 +87,10 @@
   },
   "tag_ids": [
     107,
+    172,
     180,
     23,
+    235,
     31,
     9,
     42,
@@ -97,20 +99,21 @@
     428
   ],
   "stats": {
-    "popularity": 400,
+    "popularity": 402,
     "favourites": 37,
     "meanScore": 82
   },
   "analytics": {
-    "fanFavouriteRaw": 9.25,
-    "fanRatioPercentile": 99.2558,
-    "popularityPercentile": 65.6314,
-    "fanFavouriteDiscoveryScore": 97.0895,
-    "fanFavouriteDiscoveryPercentile": 99.028
+    "fanFavouriteRaw": 9.204,
+    "fanRatioPercentile": 99.2637,
+    "popularityPercentile": 65.6369,
+    "fanFavouriteDiscoveryScore": 97.0982,
+    "fanFavouriteDiscoveryPercentile": 99.0512
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "regression-return",
     "profileGroups": [
+      "regression-return",
       "romance-core",
       "school-life"
     ],
@@ -135,7 +138,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "regression-return / school",
     "searchKeywords": [
       "bad",
       "friend",
@@ -167,8 +170,10 @@
     "evidence": {
       "tags": [
         "School",
+        "Time Skip",
         "Boys Love",
         "Shounen Ai",
+        "Bullying",
         "Drama",
         "Romance",
         "School Life",
@@ -217,6 +222,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.6
   }
 }

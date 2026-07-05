@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T02:15:10.592Z",
-  "mangabaka_latest_rank": 658,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T02:15:43.527Z",
+  "mangabaka_latest_rank": 665,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Ondo",
     "ZIG"
@@ -90,44 +90,57 @@
   },
   "tag_ids": [
     315,
+    1387,
+    1374,
+    1425,
+    1067,
+    1585,
+    659,
     74,
     621,
     725,
+    1812,
+    1969,
     108,
     118,
     2750,
     46,
     14,
     180,
+    1947,
     16,
     31,
     893,
     9,
+    1004,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 461,
-    "favourites": 7,
+    "popularity": 466,
+    "favourites": 8,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5184,
-    "fanRatioPercentile": 58.1669,
-    "popularityPercentile": 68.3499,
-    "fanFavouriteDiscoveryScore": 57.1502,
-    "fanFavouriteDiscoveryPercentile": 65.2214
+    "fanFavouriteRaw": 1.7167,
+    "fanRatioPercentile": 63.7923,
+    "popularityPercentile": 68.5213,
+    "fanFavouriteDiscoveryScore": 62.6929,
+    "fanFavouriteDiscoveryPercentile": 70.8972
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -138,12 +151,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "desire",
       "grayson",
@@ -173,19 +188,29 @@
     "evidence": {
       "tags": [
         "Yandere",
+        "Blonde-Haired Seme",
+        "Long-Haired Seme",
+        "Red-Haired Uke",
+        "Dark/Tan Skin",
+        "Rich Seme",
+        "Rich male lead",
         "Based on a Web Novel",
         "Fated Lovers",
         "Firefighters",
+        "Bickering Love",
+        "Manly Gay Couple",
         "Heterosexual",
         "Omegaverse",
         "Hetero Sex in Yaoi Manga",
         "Adult",
         "Erotica",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
         "Obsessive Love",
         "Romance",
+        "Modern Era",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -227,6 +252,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.66
   }
 }

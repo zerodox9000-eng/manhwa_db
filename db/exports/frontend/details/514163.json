@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-03T19:27:28.034Z",
-  "mangabaka_latest_rank": 2189,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-04T19:39:21.872Z",
+  "mangabaka_latest_rank": 2196,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "37"
   ],
@@ -94,7 +94,7 @@
   "source": {
     "anilist": {
       "id": 207372,
-      "rating": 50,
+      "rating": 47,
       "url": "https://anilist.co/manga/207372"
     },
     "animeplanet": {
@@ -109,7 +109,10 @@
     }
   },
   "tag_ids": [
+    250,
     107,
+    1732,
+    985,
     46,
     15,
     41,
@@ -118,21 +121,25 @@
     31,
     18,
     42,
+    1004,
     93,
+    1167,
     57,
-    428
+    428,
+    1128,
+    2058
   ],
   "stats": {
-    "popularity": 43,
+    "popularity": 46,
     "favourites": null,
-    "meanScore": 47
+    "meanScore": 48
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6501,
-    "popularityPercentile": 25.2639,
-    "fanFavouriteDiscoveryScore": 19.2413,
-    "fanFavouriteDiscoveryPercentile": 21.3911
+    "fanRatioPercentile": 31.7064,
+    "popularityPercentile": 26.2487,
+    "fanFavouriteDiscoveryScore": 19.8899,
+    "fanFavouriteDiscoveryPercentile": 22.1497
   },
   "context": {
     "primaryProfile": "school-life",
@@ -149,14 +156,18 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [],
       "tone": [
         "dark",
+        "tense",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
@@ -189,7 +200,10 @@
     ],
     "evidence": {
       "tags": [
+        "Murder",
         "School",
+        "Toxic Relationship",
+        "Dubious Consent",
         "Adult",
         "Mature",
         "Smut",
@@ -198,9 +212,13 @@
         "Drama",
         "Psychological",
         "School Life",
+        "Modern Era",
         "Longstrip",
+        "Short Story",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "digging",
@@ -240,6 +258,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.54
   }
 }

@@ -92,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-03T05:04:11.074Z",
-  "mangabaka_latest_rank": 2197,
-  "mangabaka_latest_snapshot_at": "2026-07-04T04:43:12.842Z",
+  "last_updated_at": "2026-07-05T01:36:32.988Z",
+  "mangabaka_latest_rank": 2204,
+  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
   "authors": [
     "Matryo"
   ],
@@ -108,7 +108,7 @@
   "source": {
     "anilist": {
       "id": 205120,
-      "rating": 56,
+      "rating": 54,
       "url": "https://anilist.co/manga/205120"
     },
     "animeplanet": {
@@ -126,10 +126,15 @@
     376,
     315,
     1585,
+    2589,
     874,
     1707,
     172,
+    591,
+    627,
     987,
+    1693,
+    988,
     580,
     118,
     22,
@@ -141,6 +146,7 @@
     109,
     1051,
     100,
+    655,
     2699,
     95,
     2729,
@@ -151,6 +157,7 @@
     416,
     31,
     360,
+    403,
     893,
     364,
     365,
@@ -165,38 +172,45 @@
     2058
   ],
   "stats": {
-    "popularity": 149,
+    "popularity": 150,
     "favourites": null,
     "meanScore": 54
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6501,
-    "popularityPercentile": 47.0195,
-    "fanFavouriteDiscoveryScore": 28.6367,
-    "fanFavouriteDiscoveryPercentile": 31.0806
+    "fanRatioPercentile": 31.7064,
+    "popularityPercentile": 47.0548,
+    "fanFavouriteDiscoveryScore": 28.6957,
+    "fanFavouriteDiscoveryPercentile": 31.1219
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "showbiz-career",
     "profileGroups": [
       "modern-korea",
       "regression-return",
-      "romance-core"
+      "romance-core",
+      "showbiz-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "showbiz-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "showbiz"
+      ],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [],
       "tone": [
+        "tense",
         "warm"
       ],
       "worldType": [
@@ -207,7 +221,7 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "showbiz-career / modern-korea",
     "searchKeywords": [
       "brotherly",
       "love",
@@ -243,10 +257,15 @@
         "Acting",
         "Yandere",
         "Rich Seme",
+        "Blind Male Lead",
         "Caught in the Act",
         "Forced into a Relationship",
         "Time Skip",
+        "Actor",
+        "Celebrity",
         "Older Seme Younger Uke",
+        "Contractual Relationship",
+        "Brothers",
         "Married Couple",
         "Omegaverse",
         "Supernatural",
@@ -258,6 +277,7 @@
         "Nudity",
         "Rape as a Start of Relationship",
         "Anal Intercourse",
+        "Double/Multiple Penetration",
         "Filmed Intercourse",
         "Rape",
         "Sexual Coercion",
@@ -268,18 +288,12 @@
         "Disability",
         "Drama",
         "Marriage",
+        "Betrayal",
         "Obsessive Love",
         "Pregnancy",
         "Male Pregnancy",
         "Romance",
-        "Modern Era",
-        "Tragedy",
-        "Longstrip",
-        "Short Story",
-        "Full Color",
-        "Web Comic",
-        "Uncensored Version Available",
-        "Official English Uncensored"
+        "Modern Era"
       ],
       "titleTerms": [
         "brotherly",
@@ -323,6 +337,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.73
+    "confidence": 0.89
   }
 }
