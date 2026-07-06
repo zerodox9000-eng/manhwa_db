@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-05T01:16:22.401Z",
-  "mangabaka_latest_rank": 1341,
-  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
+  "last_updated_at": "2026-07-06T01:42:08.194Z",
+  "mangabaka_latest_rank": 1345,
+  "mangabaka_latest_snapshot_at": "2026-07-06T05:22:29.858Z",
   "authors": [
     "Eon Kim",
     "Gonbung"
@@ -89,7 +89,11 @@
       "rating": 79,
       "url": "https://anilist.co/manga/204974"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "murim-psychopath",
+      "rating": 84,
+      "url": "https://www.anime-planet.com/manga/murim-psychopath"
+    },
     "mangaupdates": {
       "id": "7nugp52",
       "rating": 77,
@@ -97,6 +101,7 @@
     }
   },
   "tag_ids": [
+    251,
     8,
     419,
     1601,
@@ -111,6 +116,7 @@
     2555,
     1984,
     2427,
+    74,
     1064,
     126,
     688,
@@ -130,16 +136,16 @@
     428
   ],
   "stats": {
-    "popularity": 3805,
-    "favourites": 108,
+    "popularity": 3827,
+    "favourites": 109,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 2.8384,
-    "fanRatioPercentile": 84.6516,
-    "popularityPercentile": 94.2311,
-    "fanFavouriteDiscoveryScore": 84.4777,
-    "fanFavouriteDiscoveryPercentile": 90.9746
+    "fanFavouriteRaw": 2.8482,
+    "fanRatioPercentile": 84.7427,
+    "popularityPercentile": 94.2614,
+    "fanFavouriteDiscoveryScore": 84.5691,
+    "fanFavouriteDiscoveryPercentile": 90.9898
   },
   "context": {
     "primaryProfile": "murim-wuxia",
@@ -170,12 +176,15 @@
       "premiseMechanic": [
         "reincarnation"
       ],
-      "conflictType": [],
+      "conflictType": [
+        "revenge"
+      ],
       "progressionType": [
         "martial-growth"
       ],
       "tone": [
-        "dark"
+        "dark",
+        "tense"
       ],
       "worldType": [
         "fantasy-world",
@@ -213,6 +222,7 @@
     ],
     "evidence": {
       "tags": [
+        "Mass Murder",
         "Seinen",
         "Anti-Hero",
         "Villain Protagonist",
@@ -227,6 +237,7 @@
         "Deceptively Weak-Looking Male Lead",
         "Ruthless Male Lead",
         "Violent Male Lead",
+        "Based on a Web Novel",
         "Weak to Strong",
         "Reincarnation",
         "Martial Artist",
@@ -281,7 +292,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

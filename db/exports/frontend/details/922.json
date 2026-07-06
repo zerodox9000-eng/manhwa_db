@@ -274,9 +274,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T17:10:16.717Z",
+  "last_updated_at": "2026-07-05T22:43:07.395Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
+  "mangabaka_latest_snapshot_at": "2026-07-06T05:22:29.858Z",
   "authors": [
     "Yong-Taek Chae"
   ],
@@ -329,6 +329,7 @@
     257,
     831,
     849,
+    357,
     239,
     2030,
     175,
@@ -340,6 +341,7 @@
     1090,
     676,
     31,
+    383,
     1816,
     351,
     392,
@@ -347,6 +349,7 @@
     227,
     42,
     1367,
+    470,
     309,
     132,
     1004,
@@ -362,31 +365,36 @@
     428
   ],
   "stats": {
-    "popularity": 16037,
+    "popularity": 16049,
     "favourites": 581,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 3.6229,
-    "fanRatioPercentile": 91.3921,
+    "fanFavouriteRaw": 3.6202,
+    "fanRatioPercentile": 91.4301,
     "popularityPercentile": 99.1271,
-    "fanFavouriteDiscoveryScore": 91.2672,
-    "fanFavouriteDiscoveryPercentile": 95.3621
+    "fanFavouriteDiscoveryScore": 91.3051,
+    "fanFavouriteDiscoveryPercentile": 95.3697
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "sports-career",
     "profileGroups": [
       "modern-korea",
-      "school-life"
+      "school-life",
+      "sports-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "sports-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "school"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "sports"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "revenge"
@@ -404,7 +412,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / school",
+    "semanticSummary": "sports-career / school",
     "searchKeywords": [
       "schooled",
       "chamgyoyuk",
@@ -459,6 +467,7 @@
         "College",
         "Dead Family Member",
         "Abuse of Power",
+        "Assassins",
         "Delinquents",
         "Gangster",
         "Teachers",
@@ -470,11 +479,10 @@
         "Depression",
         "Discrimination",
         "Drama",
+        "Drugs",
         "Female Empowerment",
         "Organized Crime",
-        "Gangs",
-        "Mafia",
-        "Revenge"
+        "Gangs"
       ],
       "titleTerms": [
         "schooled",
@@ -514,6 +522,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.66
+    "confidence": 0.82
   }
 }

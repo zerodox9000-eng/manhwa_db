@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T08:30:27.160Z",
-  "mangabaka_latest_rank": 1324,
-  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
+  "last_updated_at": "2026-07-05T08:31:27.780Z",
+  "mangabaka_latest_rank": 1328,
+  "mangabaka_latest_snapshot_at": "2026-07-06T05:22:29.858Z",
   "authors": [
     "Dopamine"
   ],
@@ -110,16 +110,24 @@
   },
   "tag_ids": [
     1006,
+    125,
+    880,
+    988,
     46,
     41,
+    1000,
     95,
     180,
+    1947,
     16,
     228,
     31,
     18,
     9,
+    226,
+    1004,
     93,
+    1167,
     57,
     428,
     1128,
@@ -132,20 +140,23 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.0753,
-    "fanRatioPercentile": 46.3337,
-    "popularityPercentile": 38.4773,
-    "fanFavouriteDiscoveryScore": 38.1526,
-    "fanFavouriteDiscoveryPercentile": 42.5915
+    "fanRatioPercentile": 46.3185,
+    "popularityPercentile": 38.4318,
+    "fanFavouriteDiscoveryScore": 38.1146,
+    "fanFavouriteDiscoveryPercentile": 42.5611
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -157,12 +168,14 @@
         "dark",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "under",
       "facade",
@@ -193,16 +206,24 @@
     "evidence": {
       "tags": [
         "Sexual Assault",
+        "Love Triangle",
+        "Older Uke Younger Seme",
+        "Brothers",
         "Adult",
         "Smut",
+        "Drunken Intercourse",
         "Rape",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Cohabitation",
         "Drama",
         "Psychological",
         "Romance",
+        "Unrequited Love",
+        "Modern Era",
         "Longstrip",
+        "Short Story",
         "Full Color",
         "Web Comic",
         "Uncensored Version Available",
@@ -249,6 +270,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.65
   }
 }

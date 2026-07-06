@@ -99,9 +99,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-05T04:06:14.346Z",
-  "mangabaka_latest_rank": 1086,
-  "mangabaka_latest_snapshot_at": "2026-07-05T05:09:51.931Z",
+  "last_updated_at": "2026-07-05T20:47:50.074Z",
+  "mangabaka_latest_rank": 1090,
+  "mangabaka_latest_snapshot_at": "2026-07-06T05:22:29.858Z",
   "authors": [
     "Hye-Bin"
   ],
@@ -118,7 +118,11 @@
       "rating": 47,
       "url": "https://anilist.co/manga/210154"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "winged-robe-affair",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/winged-robe-affair"
+    },
     "mangaupdates": {
       "id": "y65xvyt",
       "rating": 66,
@@ -127,6 +131,7 @@
   },
   "tag_ids": [
     43,
+    84,
     108,
     22,
     41,
@@ -137,16 +142,16 @@
     428
   ],
   "stats": {
-    "popularity": 41,
+    "popularity": 40,
     "favourites": null,
     "meanScore": 47
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.7064,
-    "popularityPercentile": 24.5787,
-    "fanFavouriteDiscoveryScore": 18.8415,
-    "fanFavouriteDiscoveryPercentile": 20.9807
+    "fanRatioPercentile": 31.6684,
+    "popularityPercentile": 24.0853,
+    "fanFavouriteDiscoveryScore": 18.5038,
+    "fanFavouriteDiscoveryPercentile": 20.6543
   },
   "context": {
     "primaryProfile": "kingdom-management",
@@ -205,6 +210,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Fairy Tale",
         "Heterosexual",
         "Supernatural",
         "Smut",
@@ -252,9 +258,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.61
   }
 }
