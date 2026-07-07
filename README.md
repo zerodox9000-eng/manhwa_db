@@ -71,6 +71,12 @@ Everything else is backend/internal pipeline structure.
 
 ---
 
+## Notes For Agents
+
+Read [AGENTS.md](./AGENTS.md) before editing. This repo uses the DOX AGENTS.md hierarchy from `agent0ai/dox`; follow the nearest applicable child AGENTS.md for scripts, data, and workflow changes.
+
+---
+
 ## APIs
 
 - MangaBaka API
