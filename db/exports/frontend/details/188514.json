@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.147Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-30T19:54:35.696Z",
-  "mangabaka_latest_rank": 5737,
-  "mangabaka_latest_snapshot_at": "2026-07-06T05:22:29.858Z",
+  "last_updated_at": "2026-07-07T00:35:23.976Z",
+  "mangabaka_latest_rank": 5743,
+  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
   "authors": [
     "Naja",
     "Yu-Ni Lim"
@@ -81,7 +81,7 @@
   "source": {
     "anilist": {
       "id": 190784,
-      "rating": 68,
+      "rating": 69,
       "url": "https://anilist.co/manga/190784"
     },
     "animeplanet": {
@@ -96,37 +96,50 @@
     }
   },
   "tag_ids": [
+    1785,
+    75,
     74,
+    595,
     107,
+    162,
+    899,
     249,
+    573,
     1,
     46,
     14,
     15,
     180,
+    1947,
     16,
+    1090,
     31,
+    875,
+    776,
     9,
+    226,
     42,
+    1004,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 125,
+    "popularity": 126,
     "favourites": null,
-    "meanScore": 68
+    "meanScore": 69
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6684,
-    "popularityPercentile": 43.8743,
-    "fanFavouriteDiscoveryScore": 27.8585,
-    "fanFavouriteDiscoveryPercentile": 30.3173
+    "fanRatioPercentile": 31.6385,
+    "popularityPercentile": 43.9781,
+    "fanFavouriteDiscoveryScore": 27.861,
+    "fanFavouriteDiscoveryPercentile": 30.3939
   },
   "context": {
-    "primaryProfile": "regression-return",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "regression-return",
       "romance-core",
       "school-life"
@@ -135,6 +148,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -150,12 +164,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "regression-return / school / regression",
+    "semanticSummary": "modern-korea / modern-korea / school / regression",
     "searchKeywords": [
       "hero",
       "wants",
@@ -188,18 +204,30 @@
     ],
     "evidence": {
       "tags": [
+        "Kuudere Uke",
+        "Based on a Novel",
         "Based on a Web Novel",
+        "South Korea",
         "School",
+        "High School",
+        "Appearance Different from Actual Age",
         "Time Travel",
+        "Student-Student Relationship",
         "Sci-Fi",
         "Adult",
         "Erotica",
         "Mature",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
+        "Depression",
         "Drama",
+        "First Love",
+        "Korean Folklore",
         "Romance",
+        "Unrequited Love",
         "School Life",
+        "Modern Era",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -248,6 +276,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.64
+    "confidence": 0.8
   }
 }

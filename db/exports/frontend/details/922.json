@@ -274,9 +274,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-05T22:43:07.395Z",
+  "last_updated_at": "2026-07-06T17:57:37.885Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-06T05:22:29.858Z",
+  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
   "authors": [
     "Yong-Taek Chae"
   ],
@@ -307,6 +307,7 @@
   "tag_ids": [
     288,
     250,
+    521,
     391,
     1918,
     675,
@@ -333,6 +334,10 @@
     239,
     2030,
     175,
+    36,
+    22,
+    160,
+    229,
     39,
     37,
     235,
@@ -342,11 +347,18 @@
     676,
     31,
     383,
+    324,
+    616,
     1816,
+    29,
     351,
     392,
     353,
+    742,
+    1084,
     227,
+    7,
+    282,
     42,
     1367,
     470,
@@ -365,25 +377,27 @@
     428
   ],
   "stats": {
-    "popularity": 16049,
-    "favourites": 581,
+    "popularity": 16065,
+    "favourites": 583,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 3.6202,
-    "fanRatioPercentile": 91.4301,
-    "popularityPercentile": 99.1271,
-    "fanFavouriteDiscoveryScore": 91.3051,
-    "fanFavouriteDiscoveryPercentile": 95.3697
+    "fanFavouriteRaw": 3.629,
+    "fanRatioPercentile": 91.4472,
+    "popularityPercentile": 99.1273,
+    "fanFavouriteDiscoveryScore": 91.3222,
+    "fanFavouriteDiscoveryPercentile": 95.3859
   },
   "context": {
     "primaryProfile": "sports-career",
     "profileGroups": [
+      "horror-survival",
       "modern-korea",
       "school-life",
       "sports-career"
     ],
     "primaryAnchors": [
+      "horror-survival",
       "sports-career"
     ],
     "excludedProfiles": [],
@@ -399,14 +413,17 @@
       "conflictType": [
         "revenge"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "martial-growth"
+      ],
       "tone": [
         "dark",
         "tense",
         "warm"
       ],
       "worldType": [
-        "modern-urban"
+        "modern-urban",
+        "fantasy-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
@@ -445,6 +462,7 @@
       "tags": [
         "Crimes",
         "Murder",
+        "Gambling",
         "Travel",
         "Teaching",
         "Adult Male Lead",
@@ -471,18 +489,17 @@
         "Delinquents",
         "Gangster",
         "Teachers",
+        "Fantasy",
+        "Supernatural",
+        "Demons",
+        "Ghosts",
         "Action",
         "Adventure",
         "Bullying",
         "Corruption",
         "Debts",
         "Depression",
-        "Discrimination",
-        "Drama",
-        "Drugs",
-        "Female Empowerment",
-        "Organized Crime",
-        "Gangs"
+        "Discrimination"
       ],
       "titleTerms": [
         "schooled",
@@ -522,6 +539,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.98
   }
 }

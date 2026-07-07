@@ -2,7 +2,7 @@
   "id": 565996,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Polygamy in High Society",
+  "display_title": "The House of Many Wives",
   "mangabaka_title": "Polygamy in High Society",
   "native_title": "상류사회의 일부다처제",
   "romanized_title": null,
@@ -18,7 +18,7 @@
       "language": "en",
       "title": "Polygamy in High Society",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -27,14 +27,21 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The House of Many Wives",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**     \n[Ridibooks](https://ridibooks.com/books/5700000684), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13347491), [MrBlue](https://www.mrblue.com/webtoon/wt_000073836), [Anytoon](https://www.anytoon.co.kr/webtoon/episode/11714), [Toomics](https://www.toomics.com/webtoon/episode/toon/8910)",
+  "description": "When you're the elite of the elite, the law means nothing… even multiple wives are fair game.\n\n\n**Original Webtoon:**     \n[Ridibooks](https://ridibooks.com/books/5700000684), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13347491), [MrBlue](https://www.mrblue.com/webtoon/wt_000073836), [Anytoon](https://www.anytoon.co.kr/webtoon/episode/11714), [Toomics](https://www.toomics.com/webtoon/episode/toon/8910) \n\n**Official Translations:**  \n[English](https://toomics.com/en/webtoon/episode/toon/8910)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3BvbHlnYW15LWluLWhpZ2gtc29jaWV0eS0xLndlYnA_dD0xNzYzMTYzMjcy",
   "total_chapters": "11",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-01-01",
@@ -44,9 +51,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-26T11:17:06.320Z",
-  "mangabaka_latest_rank": 1741,
-  "mangabaka_latest_snapshot_at": "2026-07-06T05:22:29.858Z",
+  "last_updated_at": "2026-07-06T13:17:33.075Z",
+  "mangabaka_latest_rank": 1747,
+  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
   "authors": [
     "one team"
   ],
@@ -126,17 +133,29 @@
       ],
       "tone": [],
       "worldType": [
-        "modern-urban"
+        "modern-urban",
+        "system-world"
       ],
       "romanceRole": "minor",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "minor"
     },
     "semanticSummary": "business-career-regression / modern-korea / corporate-workplace",
     "searchKeywords": [
+      "house",
+      "many",
+      "wives",
       "polygamy",
       "high",
       "society",
+      "elite",
+      "law",
+      "means",
+      "nothing",
+      "even",
+      "multiple",
+      "fair",
+      "game",
       "original",
       "webtoon",
       "ridibooks",
@@ -144,7 +163,10 @@
       "series",
       "mrblue",
       "anytoon",
-      "toomics"
+      "toomics",
+      "official",
+      "translations",
+      "english"
     ],
     "evidence": {
       "tags": [
@@ -160,14 +182,24 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "polygamy",
-        "high",
-        "society",
+        "house",
+        "many",
+        "wives",
         "polygamy",
         "high",
         "society"
       ],
       "descriptionTerms": [
+        "elite",
+        "elite",
+        "law",
+        "means",
+        "nothing",
+        "even",
+        "multiple",
+        "wives",
+        "fair",
+        "game",
         "original",
         "webtoon",
         "ridibooks",
@@ -175,7 +207,10 @@
         "series",
         "mrblue",
         "anytoon",
-        "toomics"
+        "toomics",
+        "official",
+        "translations",
+        "english"
       ],
       "sourceFields": [
         "mangaupdates",
