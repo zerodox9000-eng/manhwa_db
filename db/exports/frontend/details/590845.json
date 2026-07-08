@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "At the End of the Blue Dawn",
-  "mangabaka_title": "At the End of the Blue Dawn",
+  "mangabaka_title": "Pureun Mimyeong Kkeuteseo",
   "native_title": "푸른 미명 끝에서",
-  "romanized_title": null,
+  "romanized_title": "Pureun Mimyeong Kkeuteseo",
   "titles": [
     {
       "language": "ko",
       "title": "푸른 미명 끝에서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,26 +29,35 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Pureun Mimyeong Kkeuteseo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Ja-Yoon willingly becomes a blade to exact revenge for her master, Cheong-Un. However, everything changes when the Prince appears before her while she is participating in the Emperor's imperial concubine selection. The Prince, suspicious of Ja-Yoon's identity, stands in her way, while her master Cheong-Un is forced to watch from afar. In this journey of vengeance to bring down the Emperor, a bitter and cruel tale of love and obsession between three people begins!\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69500840), [Daum](https://webtoon.kakao.com/content/%ED%91%B8%EB%A5%B8-%EB%AF%B8%EB%AA%85-%EB%81%9D%EC%97%90%EC%84%9C/4724)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMjk0LmpwZw",
+  "description": "Ja-Yun has willingly agreed to become her mentor Cheong-Un’s weapon in his quest for revenge. As Ja-Yun participates in the Emperor’s concubine selection ceremony, the Crown Prince appears, turning the entire situation upside down. The Crown Prince, who suspects Ja-Yun’s true identity and stands in her way, and Master Cheong-Un, who can only watch from afar. Amid a journey of vengeance to bring down the Emperor, a bitter and brutal love triangle involving these three begins!\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxMzk0OC1ienN5a1h2a0JvTGUucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-20T05:04:28.731Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-06T23:46:16.042Z",
-  "mangabaka_latest_rank": 213,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-08T02:05:34.147Z",
+  "mangabaka_latest_rank": 217,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "ALIC"
   ],
@@ -58,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213948,
+      "rating": null,
+      "url": "https://anilist.co/manga/213948"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "w69ibgu",
@@ -68,10 +83,15 @@
   },
   "tag_ids": [
     43,
+    125,
+    108,
     41,
     31,
     9,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -79,9 +99,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 0.1819,
+    "fanFavouriteDiscoveryScore": 5.0927,
+    "fanFavouriteDiscoveryPercentile": 0.1819
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -102,12 +124,16 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [
         "revenge",
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [
         "tense",
         "warm"
@@ -115,82 +141,93 @@
       "worldType": [],
       "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / system",
     "searchKeywords": [
       "end",
       "blue",
       "dawn",
-      "ja-yoon",
+      "pureun",
+      "mimyeong",
+      "kkeuteseo",
+      "ja-yun",
       "willingly",
-      "becomes",
-      "blade",
-      "exact",
-      "revenge",
-      "master",
+      "agreed",
+      "become",
+      "mentor",
       "cheong-un",
-      "however",
-      "everything",
-      "changes",
-      "prince",
-      "appears",
-      "before",
-      "while",
-      "participating",
+      "weapon",
+      "quest",
+      "revenge",
+      "participates",
       "emperor",
-      "imperial",
       "concubine",
       "selection",
-      "suspicious",
-      "identity"
+      "ceremony",
+      "crown",
+      "prince",
+      "appears",
+      "turning",
+      "entire",
+      "situation",
+      "upside"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Love Triangle",
+        "Heterosexual",
         "Smut",
         "Drama",
         "Romance",
-        "Historical"
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "end",
         "blue",
         "dawn",
-        "end",
-        "blue",
-        "dawn"
+        "pureun",
+        "mimyeong",
+        "kkeuteseo",
+        "pureun",
+        "mimyeong",
+        "kkeuteseo"
       ],
       "descriptionTerms": [
-        "ja-yoon",
+        "ja-yun",
         "willingly",
-        "becomes",
-        "blade",
-        "exact",
-        "revenge",
-        "master",
+        "agreed",
+        "become",
+        "mentor",
         "cheong-un",
-        "however",
-        "everything",
-        "changes",
-        "prince",
-        "appears",
-        "before",
-        "while",
-        "participating",
+        "weapon",
+        "quest",
+        "revenge",
+        "ja-yun",
+        "participates",
         "emperor",
-        "imperial",
         "concubine",
         "selection",
+        "ceremony",
+        "crown",
         "prince",
-        "suspicious",
-        "ja-yoon",
-        "identity"
+        "appears",
+        "turning",
+        "entire",
+        "situation",
+        "upside",
+        "crown",
+        "prince"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.75
   }
 }

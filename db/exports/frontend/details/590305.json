@@ -3,21 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Importance of Joining the Company",
-  "mangabaka_title": "Ipsa-ui Jungyoseong",
+  "mangabaka_title": "Ipsaui Jungyoseong",
   "native_title": "입사의 중요성",
-  "romanized_title": "Ipsa-ui Jungyoseong",
+  "romanized_title": "Ipsaui Jungyoseong",
   "titles": [
     {
       "language": "ko",
       "title": "입사의 중요성",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Ipsa-ui Jungyoseong",
-      "traits": [],
+      "title": "Ipsaui Jungyoseong",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,10 +41,10 @@
     }
   ],
   "description": "Kitae hurriedly found a part-time job to earn tuition, but... the boss at the company he joined is asking for something unusual?!\n\nOriginal Webtoon",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI4ODkzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzg4OC0yMVM5eDcwY0ZSd1QuanBn",
   "total_chapters": null,
-  "status": "releasing",
-  "content_rating": "safe",
+  "status": "upcoming",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
@@ -51,9 +55,9 @@
   },
   "first_seen_at": "2026-06-18T05:29:51.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-06T18:51:29.854Z",
-  "mangabaka_latest_rank": 260,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-07T16:09:44.991Z",
+  "mangabaka_latest_rank": 264,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "Gato"
   ],
@@ -65,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213888,
+      "rating": null,
+      "url": "https://anilist.co/manga/213888"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8i40gou",
@@ -74,17 +82,23 @@
     }
   },
   "tag_ids": [
-    16
+    180,
+    16,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 0.1819,
+    "fanFavouriteDiscoveryScore": 5.0927,
+    "fanFavouriteDiscoveryPercentile": 0.1819
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -128,7 +142,7 @@
       "importance",
       "joining",
       "company",
-      "ipsa-ui",
+      "ipsaui",
       "jungyoseong",
       "kitae",
       "hurriedly",
@@ -147,15 +161,19 @@
     ],
     "evidence": {
       "tags": [
-        "Yaoi"
+        "Boys Love",
+        "Yaoi",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "importance",
         "joining",
         "company",
-        "ipsa-ui",
+        "ipsaui",
         "jungyoseong",
-        "ipsa-ui",
+        "ipsaui",
         "jungyoseong"
       ],
       "descriptionTerms": [
@@ -176,9 +194,10 @@
         "webtoon"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.86
   }
 }

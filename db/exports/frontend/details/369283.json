@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Hell City",
-  "mangabaka_title": "Jiokdosi",
+  "mangabaka_title": "Hell City",
   "native_title": "지옥도시",
   "romanized_title": "Jiokdosi",
   "titles": [
@@ -19,7 +19,9 @@
     {
       "language": "en",
       "title": "Hell City",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -40,7 +42,7 @@
       "note": null
     }
   ],
-  "description": "In Songcheon, a megacity with a population of 4 million, a mysterious creature and a girl appear before Min-Ho, a high school student who dreams of becoming a judo athlete. In an instant, Songcheon has become a living hell. Will Min-Ho be able to survive?\n\n(Source: Naver, translated)",
+  "description": "One day, Min-Ho’s world collapses, starting with his high school. When grotesque creatures descend upon Songcheon, the citizens are left helpless against their overwhelming violence and power. Worse still, the government abandons the city entirely, declaring that Songcheon must be sacrificed to protect the rest of humanity. With no rescue coming and danger closing in from every direction, Minho and his friends are forced to fight for survival in an apocalyptic city where the deadly creatures aren’t the only thing they can’t trust.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzYvOC81LzAvMC8yLzAvNDQ4ZC80OWIwLzg5YzIvOWIzMjU3Yzg1MmM2",
   "total_chapters": "31",
   "status": "releasing",
@@ -55,18 +57,18 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-07T04:41:21.403Z",
-  "mangabaka_latest_rank": 2642,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-07T22:27:09.189Z",
+  "mangabaka_latest_rank": 2646,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
-    "Giho"
+    "Ki-Ho"
   ],
   "artists": [
-    "Giho"
+    "Ki-Ho"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/369283",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10485"
   },
   "source": {
     "anilist": {
@@ -91,6 +93,7 @@
     265,
     22,
     39,
+    235,
     44,
     32,
     19,
@@ -99,16 +102,16 @@
     428
   ],
   "stats": {
-    "popularity": 55,
+    "popularity": 59,
     "favourites": null,
     "meanScore": 50
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6385,
-    "popularityPercentile": 29.5439,
-    "fanFavouriteDiscoveryScore": 21.7981,
-    "fanFavouriteDiscoveryPercentile": 24.2088
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 30.7179,
+    "fanFavouriteDiscoveryScore": 22.4573,
+    "fanFavouriteDiscoveryPercentile": 24.8427
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -123,7 +126,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -141,32 +143,34 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival / modern-korea / school",
+    "semanticSummary": "horror-survival / school",
     "searchKeywords": [
       "hell",
       "city",
       "jiokdosi",
-      "songcheon",
-      "megacity",
-      "population",
-      "million",
-      "mysterious",
-      "creature",
-      "girl",
-      "appear",
-      "before",
       "min-ho",
+      "collapses",
+      "starting",
       "high",
       "school",
-      "student",
-      "dreams",
-      "becoming",
-      "judo",
-      "athlete",
-      "instant",
-      "become",
-      "living",
-      "able"
+      "grotesque",
+      "creatures",
+      "descend",
+      "upon",
+      "songcheon",
+      "citizens",
+      "left",
+      "helpless",
+      "against",
+      "overwhelming",
+      "violence",
+      "power",
+      "worse",
+      "still",
+      "government",
+      "abandons",
+      "entirely",
+      "declaring"
     ],
     "evidence": {
       "tags": [
@@ -175,6 +179,7 @@
         "Survival",
         "Supernatural",
         "Action",
+        "Bullying",
         "Horror",
         "Mystery",
         "Thriller",
@@ -185,41 +190,43 @@
       "titleTerms": [
         "hell",
         "city",
-        "jiokdosi",
+        "hell",
+        "city",
         "jiokdosi"
       ],
       "descriptionTerms": [
-        "songcheon",
-        "megacity",
-        "population",
-        "million",
-        "mysterious",
-        "creature",
-        "girl",
-        "appear",
-        "before",
         "min-ho",
+        "collapses",
+        "starting",
         "high",
         "school",
-        "student",
-        "dreams",
-        "becoming",
-        "judo",
-        "athlete",
-        "instant",
+        "grotesque",
+        "creatures",
+        "descend",
+        "upon",
         "songcheon",
-        "become",
-        "living",
-        "hell",
-        "min-ho",
-        "able"
+        "citizens",
+        "left",
+        "helpless",
+        "against",
+        "overwhelming",
+        "violence",
+        "power",
+        "worse",
+        "still",
+        "government",
+        "abandons",
+        "city",
+        "entirely",
+        "declaring"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.69
+    "confidence": 0.7
   }
 }

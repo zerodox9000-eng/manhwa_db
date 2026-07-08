@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Love Recycling (Milpu)",
-  "mangabaka_title": "Love Recycling (Milpu)",
+  "mangabaka_title": "Love Recycling",
   "native_title": "러브 리사이클링",
-  "romanized_title": null,
+  "romanized_title": "Love Recycling",
   "titles": [
     {
       "language": "ko",
       "title": "러브 리사이클링",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Love Recycling",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,27 +33,27 @@
       "note": null
     }
   ],
-  "description": "Original Webtoon:   \nR19: [Ridibooks](https://ridibooks.com/books/297090357)    \nR15: [Ridibooks](https://ridibooks.com/books/297090358)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwOTY0LmpwZw",
+  "description": "Lim Mun-Yeong runs into his high school first love, Yeon Hae-Jeong, in an unexpected place. And not just anywhere—as an executive at a major corporation and a janitor at that same company. It’s been ten years since he gave up on his unrequited love. Whether Hae-Jeong recognized Mun-Yeong, who was hiding his name and pretending not to know him or not, Hae-Jeong drags him around, making him do odd jobs under all sorts of childish pretexts. Although Hae-Jeong’s strange behavior, as if he somehow remembered him, made him uncomfortable, Mun-Yeong didn’t care because he no longer had any feelings for him.\n\n*“You don’t still like me, do you, Lim Mun-Yeong?”*\n\nThat is, until he heard those words from Hae-Jeong.\n\n(Source: Ridibooks, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk1MC1OSXk3N2ltdzhzNGkucG5n",
   "total_chapters": "1",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-06T17:20:33.411Z",
-  "mangabaka_latest_rank": 52,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-08T03:16:15.247Z",
+  "mangabaka_latest_rank": 56,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
-    "Chinese Kiwi Spinach",
-    "Nateach"
+    "Chamdaraesigeumchi",
+    "Seon-Saeng Na"
   ],
   "artists": [
     "Milpu"
@@ -52,7 +63,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213950,
+      "rating": null,
+      "url": "https://anilist.co/manga/213950"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qrr3mkj",
@@ -61,9 +76,16 @@
     }
   },
   "tag_ids": [
+    158,
     46,
+    180,
     16,
-    9
+    6,
+    9,
+    226,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -71,51 +93,95 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 0.1819,
+    "fanFavouriteDiscoveryScore": 5.0927,
+    "fanFavouriteDiscoveryPercentile": 0.1819
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
-      "modern-korea",
-      "romance-core"
+      "business-career",
+      "corporate-workplace",
+      "modern-workplace",
+      "office-romance",
+      "romance-core",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
-      "protagonistRole": [],
-      "careerDomain": [],
+      "setting": [
+        "corporate-workplace",
+        "school"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [
+        "comedic",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "corporate-workplace / corporate-workplace / school",
     "searchKeywords": [
       "love",
       "recycling",
       "milpu",
-      "original",
-      "webtoon",
-      "r19",
-      "ridibooks",
-      "r15"
+      "lim",
+      "mun-yeong",
+      "runs",
+      "high",
+      "school",
+      "first",
+      "yeon",
+      "hae-jeong",
+      "unexpected",
+      "place",
+      "anywhere",
+      "executive",
+      "major",
+      "corporation",
+      "janitor",
+      "same",
+      "company",
+      "ten",
+      "years",
+      "since",
+      "gave",
+      "unrequited"
     ],
     "evidence": {
       "tags": [
+        "Primarily Adult Cast",
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Romance"
+        "Comedy",
+        "Romance",
+        "Unrequited Love",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "love",
@@ -123,20 +189,40 @@
         "milpu",
         "love",
         "recycling",
-        "milpu"
+        "love",
+        "recycling"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "r19",
-        "ridibooks",
-        "r15",
-        "ridibooks"
+        "lim",
+        "mun-yeong",
+        "runs",
+        "high",
+        "school",
+        "first",
+        "love",
+        "yeon",
+        "hae-jeong",
+        "unexpected",
+        "place",
+        "anywhere",
+        "executive",
+        "major",
+        "corporation",
+        "janitor",
+        "same",
+        "company",
+        "ten",
+        "years",
+        "since",
+        "gave",
+        "unrequited",
+        "love"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.89
   }
 }

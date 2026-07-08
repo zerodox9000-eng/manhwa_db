@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.826Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-06T06:11:28.852Z",
+  "last_updated_at": "2026-07-07T06:56:23.639Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "Kunzoman"
   ],
@@ -138,10 +138,12 @@
     180,
     16,
     31,
+    44,
     18,
     498,
     9,
     1593,
+    45,
     93,
     1167,
     57,
@@ -154,20 +156,22 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6385,
-    "popularityPercentile": 40.4796,
-    "fanFavouriteDiscoveryScore": 26.7788,
-    "fanFavouriteDiscoveryPercentile": 29.4149
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 40.467,
+    "fanFavouriteDiscoveryScore": 26.7845,
+    "fanFavouriteDiscoveryPercentile": 29.4367
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
+      "horror-survival",
       "romance-core"
     ],
     "primaryAnchors": [
-      "euro-fantasy"
+      "euro-fantasy",
+      "horror-survival"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -176,6 +180,7 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "survival",
         "romance"
       ],
       "progressionType": [],
@@ -190,7 +195,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy",
+    "semanticSummary": "horror-survival",
     "searchKeywords": [
       "unholy",
       "communion",
@@ -253,10 +258,12 @@
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Horror",
         "Psychological",
         "Religion",
         "Romance",
         "Attempted Suicide",
+        "Historical",
         "Longstrip",
         "Short Story",
         "Full Color",
@@ -304,6 +311,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.98
   }
 }

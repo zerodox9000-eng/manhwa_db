@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-06T17:16:18.336Z",
-  "mangabaka_latest_rank": 280,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-07T17:27:55.267Z",
+  "mangabaka_latest_rank": 284,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "papapa"
   ],
@@ -97,11 +97,20 @@
   },
   "tag_ids": [
     38,
+    72,
+    68,
+    58,
     2470,
     74,
+    405,
+    1125,
+    450,
     36,
+    894,
     6,
     31,
+    875,
+    1192,
     9,
     7,
     93,
@@ -119,13 +128,17 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -151,7 +164,7 @@
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / regression",
+    "semanticSummary": "euro-fantasy / modern-korea / regression",
     "searchKeywords": [
       "wife",
       "waited",
@@ -188,11 +201,20 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Beautiful Female Lead",
+        "Handsome Male Lead",
+        "Male Lead",
         "Ugly Male Lead",
         "Based on a Web Novel",
+        "Europe",
+        "Childhood Promise",
+        "European Ambience",
         "Fantasy",
+        "Childhood love",
         "Comedy",
         "Drama",
+        "First Love",
+        "Inheritance",
         "Romance",
         "Slice of Life",
         "Longstrip",
@@ -243,6 +265,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.92
   }
 }

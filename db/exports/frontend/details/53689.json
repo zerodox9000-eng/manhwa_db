@@ -5,7 +5,7 @@
   "display_title": "Mafia in Closed Room",
   "mangabaka_title": "Mafia in Closed Room",
   "native_title": "밀실 마피아 게임",
-  "romanized_title": null,
+  "romanized_title": "Milsil Mafia Geim",
   "titles": [
     {
       "language": "ko",
@@ -54,6 +54,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Milsil Mafia Geim",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ru",
       "title": "Игра в мафию",
       "traits": [],
@@ -83,22 +92,26 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-04T20:02:20.205Z",
+  "last_updated_at": "2026-07-08T03:58:40.319Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "PAN",
     "WONS"
   ],
   "artists": [
-    "Baek Jiwoon"
+    "Ji-Wun Baek"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/53689",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213951,
+      "rating": null,
+      "url": "https://anilist.co/manga/213951"
+    },
     "animeplanet": {
       "id": "mafia-in-closed-room",
       "rating": 76,
@@ -116,10 +129,13 @@
     38,
     456,
     265,
+    36,
     37,
     31,
+    44,
     32,
     18,
+    19,
     26,
     93,
     57,
@@ -131,17 +147,22 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 0.1819,
+    "fanFavouriteDiscoveryScore": 5.0927,
+    "fanFavouriteDiscoveryPercentile": 0.1819
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
+      "horror-survival",
       "modern-korea",
       "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -161,17 +182,20 @@
         "dark"
       ],
       "worldType": [
+        "fantasy-world",
         "system-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / modern-korea / school / system",
+    "semanticSummary": "horror-survival / modern-korea / school / system",
     "searchKeywords": [
       "mafia",
       "closed",
       "room",
+      "milsil",
+      "geim",
       "high",
       "school",
       "student",
@@ -201,10 +225,13 @@
         "Shounen",
         "High Stakes Game",
         "Survival",
+        "Fantasy",
         "Adventure",
         "Drama",
+        "Horror",
         "Mystery",
         "Psychological",
+        "Thriller",
         "Suspense",
         "Longstrip",
         "Full Color",
@@ -216,7 +243,10 @@
         "room",
         "mafia",
         "closed",
-        "room"
+        "room",
+        "milsil",
+        "mafia",
+        "geim"
       ],
       "descriptionTerms": [
         "high",
@@ -245,10 +275,11 @@
         "mp3"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.74
   }
 }

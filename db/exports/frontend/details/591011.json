@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Came to Save Your Chili Pepper!",
-  "mangabaka_title": "I Came to Save Your Chili Pepper!",
+  "mangabaka_title": "Neoui Gochureul Guhareo Watda!",
   "native_title": "너의 고추를 구하러 왔다!",
-  "romanized_title": null,
+  "romanized_title": "Neoui Gochureul Guhareo Watda!",
   "titles": [
     {
       "language": "ko",
       "title": "너의 고추를 구하러 왔다!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,9 +22,25 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "I Came to Save Your Pepper!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Neoui Gochureul Guhareo Watda!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Nam Kyu-hyuk is multi-talented, possesses outstanding looks, and even has wealth.   \nDespite his seemingly perfect exterior, he has one fatal flaw: he has never lost his virginity.\n\nOne day, the \"Fairy of Big Penis\" visits him.\n\n\"I am the Fairy of Big Penis! I have come to save your penis!\"\n\nThus begins the fairy's lesson on losing his virginity, and Kyu-hyuk is half-forced to use a sex toy to\ngradually learn \"how to use a penis\"...    \n\nBut something is off. This sensation is far too vivid to be just a simple device.\nIs this... really just an ordinary sex toy?\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000078477)",
+  "description": "Nam Gyu-Hyeok is versatile, exceptionally handsome, and wealthy. But even this seemingly perfect man has one fatal flaw. He’s still a virgin. One day, the “Fairy of Big Ones” appears before him. \n\n*“I am the Fairy of Big Ones! I’ve come to save your dick! \"*\n\nAnd so, the fairy’s lesson in losing his virginity begins, and Gyu-Hyeok, almost forced into it, even resorts to using a sex toy to gradually learn “how to use his penis”… But something feels off. This sensation is far too vivid to be coming from a simple toy. Is this… really just an ordinary sex toy?\n\n(Souce: MrBlue, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzYvMy8zL2IvNi85L2QvZjE4Ny80ZTRkL2I5MzkvM2M5ZTIxZTMxMWJj",
   "total_chapters": "12",
   "status": "completed",
@@ -30,16 +48,16 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-20",
+    "end_date": "2026-06-20",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-22T05:54:33.114Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-07T03:38:46.475Z",
-  "mangabaka_latest_rank": 196,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-08T03:40:48.635Z",
+  "mangabaka_latest_rank": 200,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "Ppongpachya"
   ],
@@ -51,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213890,
+      "rating": 70,
+      "url": "https://anilist.co/manga/213890"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8txrnzm",
@@ -61,27 +83,36 @@
   },
   "tag_ids": [
     556,
+    268,
     429,
     20,
+    164,
     36,
     46,
     15,
     41,
     289,
+    373,
     558,
+    180,
     16,
     6,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 1.4783,
+    "fanFavouriteDiscoveryScore": 5.5714,
+    "fanFavouriteDiscoveryPercentile": 1.3949
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -89,14 +120,13 @@
       "business-career",
       "business-career-regression",
       "corporate-workplace",
-      "korean-business",
-      "modern-korea",
-      "modern-workplace"
+      "modern-workplace",
+      "office-romance",
+      "romance-core"
     ],
     "primaryAnchors": [
       "business-career-regression",
-      "corporate-workplace",
-      "korean-business"
+      "corporate-workplace"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -119,7 +149,7 @@
         "modern-urban",
         "fantasy-world"
       ],
-      "romanceRole": "minor",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -130,42 +160,52 @@
       "your",
       "chili",
       "pepper",
+      "neoui",
+      "gochureul",
+      "guhareo",
+      "watda",
       "nam",
-      "kyu-hyuk",
-      "multi-talented",
-      "possesses",
-      "outstanding",
-      "looks",
+      "gyu-hyeok",
+      "versatile",
+      "exceptionally",
+      "handsome",
+      "wealthy",
       "even",
-      "wealth",
-      "despite",
       "seemingly",
       "perfect",
-      "exterior",
+      "man",
       "fatal",
       "flaw",
-      "never",
-      "lost",
-      "virginity",
+      "still",
+      "virgin",
       "fairy",
       "big",
-      "penis",
-      "visits"
+      "ones",
+      "appears",
+      "before",
+      "come"
     ],
     "evidence": {
       "tags": [
         "Big Penis",
+        "Love Polygon",
         "Office Worker",
         "Harem",
+        "Male Harem",
         "Fantasy",
         "Adult",
         "Mature",
         "Smut",
         "Sex Toys",
+        "Group Intercourse",
         "Incubus",
+        "Boys Love",
         "Yaoi",
         "Comedy",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "came",
@@ -173,39 +213,42 @@
         "your",
         "chili",
         "pepper",
-        "came",
-        "save",
-        "your",
-        "chili",
-        "pepper"
+        "neoui",
+        "gochureul",
+        "guhareo",
+        "watda",
+        "neoui",
+        "gochureul",
+        "guhareo"
       ],
       "descriptionTerms": [
         "nam",
-        "kyu-hyuk",
-        "multi-talented",
-        "possesses",
-        "outstanding",
-        "looks",
+        "gyu-hyeok",
+        "versatile",
+        "exceptionally",
+        "handsome",
+        "wealthy",
         "even",
-        "wealth",
-        "despite",
         "seemingly",
         "perfect",
-        "exterior",
+        "man",
         "fatal",
         "flaw",
-        "never",
-        "lost",
-        "virginity",
+        "still",
+        "virgin",
         "fairy",
         "big",
-        "penis",
-        "visits",
+        "ones",
+        "appears",
+        "before",
         "fairy",
         "big",
-        "penis"
+        "ones",
+        "come",
+        "save"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },

@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Platform Zero",
-  "mangabaka_title": "Jiokcheol",
+  "mangabaka_title": "Platform Zero",
   "native_title": "지옥철",
   "romanized_title": "Jiokcheol",
   "titles": [
@@ -19,6 +19,13 @@
     {
       "language": "en",
       "title": "Hell Train",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Jiokcheol",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -42,12 +49,14 @@
     {
       "language": "en",
       "title": "Platform Zero",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "One day, when Jin-Woo Lim opens his eyes, he finds himself trapped in a station he has never seen before with no exit. There, he meets another survivor, Seo-Yeon, and while searching for the exit together, he is attacked by monsters. At a critical moment, he is saved by another survivor, Sang-Jun, and they travel together, but while searching for the exit, he is seriously injured by a monster and gradually transforms into a monster. \n\nWill they be able to escape the station alive?\n\n(Source: Naver, translated)",
+  "description": "Jin-Woo Lim finds himself trapped in a subway station he’s never seen before. As monsters begin hunting trapped survivors, Jin-Woo meets Su-Yeon and Sang-Joon, and they must fight their way to escape. But during an attack, one of the creatures tears out Jin-Woo’s eye. But people who are injured by the monsters eventually become monsters themselves. Jin-Woo soon realizes that his eye is beginning to change, but if someone leaves the station before transforming into a monster, their body returns to normal outside. Will they make it out alive or will it be too late?\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzIvMy8zL2QvYi9lLzMvOTE0Zi80MGY0L2E2ODYvYzk1YTE4ODEyOTEy",
   "total_chapters": "40",
   "status": "completed",
@@ -62,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-07T04:41:50.489Z",
-  "mangabaka_latest_rank": 7835,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-07T13:36:12.984Z",
+  "mangabaka_latest_rank": 7839,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "yamka"
   ],
@@ -73,7 +82,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/109310",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10488"
   },
   "source": {
     "anilist": {
@@ -90,6 +99,7 @@
   },
   "tag_ids": [
     265,
+    22,
     15,
     31,
     44,
@@ -98,31 +108,30 @@
     428
   ],
   "stats": {
-    "popularity": 26,
+    "popularity": 29,
     "favourites": null,
     "meanScore": 30
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6385,
-    "popularityPercentile": 17.4319,
-    "fanFavouriteDiscoveryScore": 14.1329,
-    "fanFavouriteDiscoveryPercentile": 15.5346
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 19.013,
+    "fanFavouriteDiscoveryScore": 15.1747,
+    "fanFavouriteDiscoveryPercentile": 16.769
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
       "horror-survival",
-      "modern-korea"
+      "modern-korea",
+      "regression-return"
     ],
     "primaryAnchors": [
       "horror-survival"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -138,38 +147,38 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival / modern-korea",
+    "semanticSummary": "horror-survival",
     "searchKeywords": [
       "platform",
       "zero",
       "jiokcheol",
       "jin-woo",
       "lim",
-      "opens",
-      "eyes",
       "finds",
       "himself",
       "trapped",
+      "subway",
       "station",
       "never",
       "seen",
       "before",
-      "exit",
-      "meets",
-      "another",
-      "survivor",
-      "seo-yeon",
-      "while",
-      "searching",
-      "together",
-      "attacked",
       "monsters",
-      "critical",
-      "moment"
+      "begin",
+      "hunting",
+      "survivors",
+      "meets",
+      "su-yeon",
+      "sang-joon",
+      "must",
+      "fight",
+      "way",
+      "escape",
+      "during"
     ],
     "evidence": {
       "tags": [
         "Survival",
+        "Supernatural",
         "Mature",
         "Drama",
         "Horror",
@@ -180,40 +189,42 @@
       "titleTerms": [
         "platform",
         "zero",
-        "jiokcheol",
+        "platform",
+        "zero",
         "jiokcheol"
       ],
       "descriptionTerms": [
         "jin-woo",
         "lim",
-        "opens",
-        "eyes",
         "finds",
         "himself",
         "trapped",
+        "subway",
         "station",
         "never",
         "seen",
         "before",
-        "exit",
-        "meets",
-        "another",
-        "survivor",
-        "seo-yeon",
-        "while",
-        "searching",
-        "exit",
-        "together",
-        "attacked",
         "monsters",
-        "critical",
-        "moment"
+        "begin",
+        "hunting",
+        "trapped",
+        "survivors",
+        "jin-woo",
+        "meets",
+        "su-yeon",
+        "sang-joon",
+        "must",
+        "fight",
+        "way",
+        "escape",
+        "during"
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
-    "confidence": 0.58
+    "confidence": 0.66
   }
 }

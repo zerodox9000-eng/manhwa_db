@@ -2,14 +2,14 @@
   "id": 53420,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Give Me the Manuscript!",
+  "display_title": "The Manuscript, Please!",
   "mangabaka_title": "The Manuscript, Please!",
-  "native_title": "原稿をください！",
-  "romanized_title": null,
+  "native_title": "원고를 주세요",
+  "romanized_title": "Wongoreul Juseyo",
   "titles": [
     {
       "language": "ko",
-      "title": "원고를 주세요!",
+      "title": "원고를 주세요",
       "traits": [
         "native"
       ],
@@ -17,23 +17,48 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Give Me the Manuscript!",
+      "language": "es",
+      "title": "¡Dame el manuscrito!",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "de",
+      "title": "Das Manuskript, wenn ich bitten darf!",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
-      "title": "The Manuscript, Please!",
+      "title": "Give Me the Manuscript!",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Manuscript, Please!",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "fr",
       "title": "Vos fichiers s'il vous plait !",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wongoreul Juseyo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -73,37 +98,41 @@
       "note": null
     }
   ],
-  "description": "There's the beautiful yet mysterious writer Da-In Jung, and the newly-hired, diehard fanatic Hyunsoo Lee becomes her editor! But there's little time for glee, for as the writer's deadline approaches, she keeps ghosting him... and there isn't much time left! Ms. Jung, “The Manuscript, Please!”\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/give_me_script)\n\n**Official Translations:**  \n[S.Chinese](https://www.dongmanmanhua.cn/METROPOLIS/dadajintianjiaogaolema/list?title_no=1878), [French](https://www.delitoon.com/detail/daf_0000130), Russian, [Japanese](https://www.amazon.co.jp/-/en/dp/B0CQ889919/)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1tYW51c2NyaXB0LXBsZWFzZS0xLndlYnA_dD0xNjU4NTkwNDk1",
+  "description": "There's the beautiful yet mysterious writer Da-In Jung, and the newly-hired, diehard fanatic Hyun-Soo Lee becomes her editor! But there's little time for glee, for as the writer's deadline approaches, she keeps ghosting him... and there isn't much time left! Ms. Jung, “The Manuscript, Please!”\n\n(Source: Copin Comics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzg4MC1KalppSjg1OEpvR0kucG5n",
   "total_chapters": "30",
   "status": "completed",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2018,
   "published": {
-    "start_date": "2018-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2018-03-31",
+    "end_date": "2018-10-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:40:09.235Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-03T20:30:44.685Z",
+  "last_updated_at": "2026-07-07T09:06:20.186Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
-    "Indigo",
-    "KWON Dohee"
+    "Do-Hui Kwon",
+    "Indigo"
   ],
   "artists": [
-    "Noah (II)"
+    "N'oah"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/53420",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213880,
+      "rating": 72,
+      "url": "https://anilist.co/manga/213880"
+    },
     "animeplanet": {
       "id": "the-manuscript-please",
       "rating": 74,
@@ -119,6 +148,7 @@
     597,
     767,
     404,
+    108,
     6,
     9,
     7,
@@ -127,14 +157,16 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6504,
+    "popularityPercentile": 2.8656,
+    "fanFavouriteDiscoveryScore": 6.1222,
+    "fanFavouriteDiscoveryPercentile": 2.6457
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -157,6 +189,7 @@
       "progressionType": [],
       "tone": [
         "comedic",
+        "dark",
         "warm"
       ],
       "worldType": [],
@@ -166,9 +199,10 @@
     },
     "semanticSummary": "horror-survival",
     "searchKeywords": [
-      "give",
       "manuscript",
       "please",
+      "wongoreul",
+      "juseyo",
       "beautiful",
       "yet",
       "mysterious",
@@ -178,7 +212,7 @@
       "newly-hired",
       "diehard",
       "fanatic",
-      "hyunsoo",
+      "hyun-soo",
       "lee",
       "becomes",
       "editor",
@@ -197,6 +231,7 @@
         "Writing",
         "Editor",
         "Writers",
+        "Heterosexual",
         "Comedy",
         "Romance",
         "Slice of Life",
@@ -205,10 +240,12 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "give",
         "manuscript",
+        "please",
         "manuscript",
-        "please"
+        "please",
+        "wongoreul",
+        "juseyo"
       ],
       "descriptionTerms": [
         "beautiful",
@@ -220,7 +257,7 @@
         "newly-hired",
         "diehard",
         "fanatic",
-        "hyunsoo",
+        "hyun-soo",
         "lee",
         "becomes",
         "editor",
@@ -237,10 +274,11 @@
         "time"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.61
   }
 }

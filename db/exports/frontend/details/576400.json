@@ -113,9 +113,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-06T12:12:33.912Z",
-  "mangabaka_latest_rank": 1243,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-07T12:13:26.103Z",
+  "mangabaka_latest_rank": 1247,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "Rupta",
     "Yuramseon"
@@ -142,7 +142,13 @@
   },
   "tag_ids": [
     40,
+    2177,
+    1965,
+    2442,
+    2468,
+    647,
     36,
+    642,
     6,
     9,
     93,
@@ -150,30 +156,35 @@
     428
   ],
   "stats": {
-    "popularity": 387,
+    "popularity": 391,
     "favourites": 5,
     "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 1.292,
-    "fanRatioPercentile": 51.901,
-    "popularityPercentile": 64.9541,
-    "fanFavouriteDiscoveryScore": 50.704,
-    "fanFavouriteDiscoveryPercentile": 59.0574
+    "fanFavouriteRaw": 1.2788,
+    "fanRatioPercentile": 51.5048,
+    "popularityPercentile": 65.1353,
+    "fanFavouriteDiscoveryScore": 50.3343,
+    "fanFavouriteDiscoveryPercentile": 58.7901
   },
   "context": {
     "primaryProfile": "murim-wuxia",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "murim-wuxia",
       "romance-core"
     ],
     "primaryAnchors": [
+      "euro-fantasy",
       "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [
         "martial-artist"
       ],
@@ -196,7 +207,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "murim-wuxia",
+    "semanticSummary": "murim-wuxia / kingdom-fantasy",
     "searchKeywords": [
       "majesty",
       "vexed",
@@ -230,7 +241,13 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Maid Female Lead",
+        "Straightforward Female Lead",
+        "Emperor/King Male Lead",
+        "Narcissistic Male Lead",
+        "Misunderstandings",
         "Fantasy",
+        "Fantasy World",
         "Comedy",
         "Romance",
         "Longstrip",
@@ -280,6 +297,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.65
+    "confidence": 0.94
   }
 }

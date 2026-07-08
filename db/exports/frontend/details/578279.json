@@ -2,7 +2,7 @@
   "id": 578279,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Not A Saint, But A Celestial Maiden",
+  "display_title": "She's Not a Saint, but a Fairy",
   "mangabaka_title": "Seongnyeoga Anira Seonnyeoindeyo",
   "native_title": "성녀가 아니라 선녀인데요",
   "romanized_title": "I'm not a Saintess, I'm Seon-nyeo",
@@ -18,7 +18,21 @@
     },
     {
       "language": "en",
+      "title": "I'm a Fairy",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "I'm a Fairy, Not a Saintess",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I'm Not a Saint",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -55,7 +69,7 @@
       "language": "en",
       "title": "Not A Saint, But A Celestial Maiden",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -69,9 +83,9 @@
     },
     {
       "language": "en",
-      "title": "She's Not a Saint, But a Fairy",
+      "title": "She's Not a Saint, but a Fairy",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -97,9 +111,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-06T15:21:30.725Z",
-  "mangabaka_latest_rank": 1124,
-  "mangabaka_latest_snapshot_at": "2026-07-07T05:03:43.811Z",
+  "last_updated_at": "2026-07-07T15:22:24.933Z",
+  "mangabaka_latest_rank": 1128,
+  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
   "authors": [
     "Yeomjangi",
     "Yong Go-Gi"
@@ -126,24 +140,26 @@
   },
   "tag_ids": [
     40,
+    126,
     108,
     36,
+    94,
     9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 145,
+    "popularity": 146,
     "favourites": 4,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7586,
-    "fanRatioPercentile": 83.7444,
-    "popularityPercentile": 46.3839,
-    "fanFavouriteDiscoveryScore": 75.3807,
-    "fanFavouriteDiscoveryPercentile": 83.0159
+    "fanFavouriteRaw": 2.7397,
+    "fanRatioPercentile": 83.5266,
+    "popularityPercentile": 46.5241,
+    "fanFavouriteDiscoveryScore": 75.2721,
+    "fanFavouriteDiscoveryPercentile": 82.9126
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -151,6 +167,7 @@
       "euro-fantasy",
       "euro-romance",
       "modern-korea",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -164,7 +181,9 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -176,14 +195,13 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "saint",
-      "celestial",
-      "maiden",
+      "fairy",
       "seongnyeoga",
       "anira",
       "seonnyeoindeyo",
@@ -216,8 +234,10 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Reincarnation",
         "Heterosexual",
         "Fantasy",
+        "Isekai",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -225,8 +245,7 @@
       ],
       "titleTerms": [
         "saint",
-        "celestial",
-        "maiden",
+        "fairy",
         "seongnyeoga",
         "anira",
         "seonnyeoindeyo",
@@ -264,6 +283,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.72
+    "confidence": 0.81
   }
 }
