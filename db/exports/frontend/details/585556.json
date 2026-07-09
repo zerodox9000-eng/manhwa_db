@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Husband Simply Won't Die",
-  "mangabaka_title": "Nampyeoni Domuji Jukji Anneunda",
+  "mangabaka_title": "My Husband Never Dies",
   "native_title": "남편이 도무지 죽지 않는다",
-  "romanized_title": "My Husband Never Dies",
+  "romanized_title": "Nampyeoni Domuji Jukji Anneunda",
   "titles": [
     {
       "language": "ko",
@@ -59,9 +59,11 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "My Husband Never Dies",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -110,7 +112,7 @@
       "note": null
     }
   ],
-  "description": "I killed my husband. It was the third time. I had dismembered the body deep in the forest and returned to the mansion, covered in blood, sweat, and dirt...\n\n *“Eve, have you been through a lot?”*\n\nA familiar voice echoed in her ears, and serpentine arms wrapped around her slender waist. Strong arms—she could see a red line below the elbow. It was exactly where she had cut him. Her husband had returned. For the third time.\n\n(Source: Ridibooks, translated)",
+  "description": "Evelia is a fearsome assassin who goes undercover as Princess Evelyn to wed and assassinate Duke Calix Broomfield. The only problem is that her husband won't die despite her killing him three times! Not only does Calix mysteriously come back to life, but everyone else around him forgets he ever died in the first place. And with each revival, he hunts Evelia down so he can be with her again... Will Evelia find a way to escape her obsessive husband and the hellish loop she's stuck in?\n\n(Source: Tappytoon)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzYvZC9jL2EvNS8wLzkvODcyOC80OWEzL2EyMDYvOWEyYWM5YWJlODg5",
   "total_chapters": "8",
   "status": "completed",
@@ -125,9 +127,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-07T23:42:02.440Z",
-  "mangabaka_latest_rank": 688,
-  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
+  "last_updated_at": "2026-07-08T23:54:07.626Z",
+  "mangabaka_latest_rank": 698,
+  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
   "authors": [
     "Baek-A",
     "Crunchy"
@@ -137,7 +139,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/585556",
-    "read_en": null
+    "read_en": "https://www.tappytoon.com/en/book/1526"
   },
   "source": {
     "anilist": {
@@ -152,7 +154,7 @@
     },
     "mangaupdates": {
       "id": "79jfwpj",
-      "rating": 62,
+      "rating": 61,
       "url": "https://www.mangaupdates.com/series/79jfwpj"
     }
   },
@@ -188,35 +190,37 @@
     428
   ],
   "stats": {
-    "popularity": 22,
+    "popularity": 24,
     "favourites": null,
     "meanScore": 40
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6504,
-    "popularityPercentile": 15.1619,
-    "fanFavouriteDiscoveryScore": 12.6775,
-    "fanFavouriteDiscoveryPercentile": 13.6457
+    "fanRatioPercentile": 31.638,
+    "popularityPercentile": 16.3875,
+    "fanFavouriteDiscoveryScore": 13.4557,
+    "fanFavouriteDiscoveryPercentile": 14.6896
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "horror-survival",
-      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
+      "euro-fantasy",
       "horror-survival"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [
-        "regression"
-      ],
+      "premiseMechanic": [],
       "conflictType": [
         "revenge",
         "survival",
@@ -232,44 +236,41 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "minor",
+      "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival / regression",
+    "semanticSummary": "horror-survival / kingdom-fantasy",
     "searchKeywords": [
       "husband",
       "simply",
       "won",
       "die",
+      "never",
+      "dies",
       "nampyeoni",
       "domuji",
       "jukji",
       "anneunda",
-      "never",
-      "dies",
-      "killed",
-      "third",
-      "time",
-      "dismembered",
-      "body",
-      "deep",
-      "forest",
-      "returned",
-      "mansion",
-      "covered",
-      "blood",
-      "sweat",
-      "dirt",
-      "eve",
-      "through",
-      "lot",
-      "familiar",
-      "voice",
-      "echoed",
-      "ears",
-      "serpentine",
-      "arms",
-      "wrapped"
+      "evelia",
+      "fearsome",
+      "assassin",
+      "goes",
+      "undercover",
+      "princess",
+      "evelyn",
+      "wed",
+      "assassinate",
+      "duke",
+      "calix",
+      "broomfield",
+      "problem",
+      "despite",
+      "killing",
+      "three",
+      "times",
+      "mysteriously",
+      "come",
+      "everyone"
     ],
     "evidence": {
       "tags": [
@@ -308,46 +309,47 @@
         "simply",
         "won",
         "die",
+        "husband",
+        "never",
+        "dies",
         "nampyeoni",
         "domuji",
         "jukji",
-        "anneunda",
-        "husband",
-        "never",
-        "dies"
+        "anneunda"
       ],
       "descriptionTerms": [
-        "killed",
+        "evelia",
+        "fearsome",
+        "assassin",
+        "goes",
+        "undercover",
+        "princess",
+        "evelyn",
+        "wed",
+        "assassinate",
+        "duke",
+        "calix",
+        "broomfield",
+        "problem",
         "husband",
-        "third",
-        "time",
-        "dismembered",
-        "body",
-        "deep",
-        "forest",
-        "returned",
-        "mansion",
-        "covered",
-        "blood",
-        "sweat",
-        "dirt",
-        "eve",
-        "through",
-        "lot",
-        "familiar",
-        "voice",
-        "echoed",
-        "ears",
-        "serpentine",
-        "arms",
-        "wrapped"
+        "won",
+        "die",
+        "despite",
+        "killing",
+        "three",
+        "times",
+        "calix",
+        "mysteriously",
+        "come",
+        "everyone"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.98
   }
 }

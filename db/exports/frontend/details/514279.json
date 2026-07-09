@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-07T12:06:21.947Z",
-  "mangabaka_latest_rank": 2203,
-  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
+  "last_updated_at": "2026-07-08T12:25:46.252Z",
+  "mangabaka_latest_rank": 2213,
+  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
   "authors": [
     "Cutie Pyong"
   ],
@@ -117,7 +117,11 @@
   },
   "tag_ids": [
     8,
+    334,
     59,
+    107,
+    338,
+    499,
     31,
     18,
     30,
@@ -127,16 +131,16 @@
     428
   ],
   "stats": {
-    "popularity": 723,
+    "popularity": 729,
     "favourites": 17,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 2.3513,
-    "fanRatioPercentile": 77.424,
-    "popularityPercentile": 76.0215,
-    "fanFavouriteDiscoveryScore": 76.704,
-    "fanFavouriteDiscoveryPercentile": 84.2013
+    "fanFavouriteRaw": 2.332,
+    "fanRatioPercentile": 77.2379,
+    "popularityPercentile": 76.1389,
+    "fanFavouriteDiscoveryScore": 76.5266,
+    "fanFavouriteDiscoveryPercentile": 84.0067
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -146,6 +150,7 @@
       "korean-business",
       "modern-korea",
       "modern-workplace",
+      "school-life",
       "sports-career"
     ],
     "primaryAnchors": [
@@ -155,7 +160,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "school"
+      ],
       "protagonistRole": [
         "system-player"
       ],
@@ -171,13 +178,14 @@
         "dark"
       ],
       "worldType": [
+        "modern-urban",
         "system-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "corporate-workplace",
+    "semanticSummary": "corporate-workplace / school",
     "searchKeywords": [
       "game",
       "sonyeobaduk",
@@ -207,7 +215,11 @@
     "evidence": {
       "tags": [
         "Seinen",
+        "Primarily Teen Cast",
         "Female Lead",
+        "School",
+        "Urban",
+        "Adoption",
         "Drama",
         "Psychological",
         "Sports",

@@ -2,8 +2,8 @@
   "id": 357303,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Octopus Game",
-  "mangabaka_title": "Octopus Game",
+  "display_title": "The Octopus Game",
+  "mangabaka_title": "The Octopus Game",
   "native_title": "문어게임",
   "romanized_title": "Muneogeim",
   "titles": [
@@ -29,14 +29,16 @@
       "language": "en",
       "title": "Octopus Game",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "The Octopus Game",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -47,7 +49,7 @@
       "note": null
     }
   ],
-  "description": "Every Sunday, Hongjoo and Chung play board games together. But the new Octopus Game Hongjoo brings turns out to be adults-only. Embarrassing missions pop out, but they are forced to keep playing, thanks to an old pact, and what starts as a game quickly turns dangerously personal.\n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=12742057), [Ridibooks](https://ridibooks.com/books/1561015345), [Lezhin](https://www.lezhin.com/ko/comic/octopus_game), [MrBlue](https://www.mrblue.com/webtoon/wt_000071406), [BookCube](https://www.bookcube.com/toon/detail.asp?webtoon_num=250507) \n\n**Official Translations:**    \n[English](https://manta.net/en/series/the-octopus-game-full-ver?seriesId=4486)",
+  "description": "Every Sunday, Hong-Joo and Chung play board games together. But the new Octopus Game Hong-Joo brings turns out to be adults-only. Embarrassing missions pop out, but they are forced to keep playing, thanks to an old pact, and what starts as a game quickly turns dangerously personal.\n\n(Source: Manta)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5NzAwMi1RNFRLU1FsWEg2b2QuanBn",
   "total_chapters": "11",
   "status": "completed",
@@ -62,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-07T21:53:06.455Z",
-  "mangabaka_latest_rank": 3032,
-  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
+  "last_updated_at": "2026-07-08T21:59:23.807Z",
+  "mangabaka_latest_rank": 3042,
+  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
   "authors": [
     "Atiban 4mg",
     "Erica"
@@ -74,7 +76,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/357303",
-    "read_en": null
+    "read_en": "https://manta.net/en/series/the-octopus-game-full-ver?seriesId=4486"
   },
   "source": {
     "anilist": {
@@ -133,21 +135,20 @@
     428
   ],
   "stats": {
-    "popularity": 141,
+    "popularity": 142,
     "favourites": 3,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1277,
-    "fanRatioPercentile": 73.3682,
-    "popularityPercentile": 45.8873,
-    "fanFavouriteDiscoveryScore": 65.7634,
-    "fanFavouriteDiscoveryPercentile": 74.6191
+    "fanFavouriteRaw": 2.1127,
+    "fanRatioPercentile": 72.9326,
+    "popularityPercentile": 45.9865,
+    "fanFavouriteDiscoveryScore": 65.4287,
+    "fanFavouriteDiscoveryPercentile": 74.3425
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core",
       "school-life"
     ],
@@ -155,7 +156,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -177,14 +177,14 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "modern-korea / modern-korea / school",
+    "semanticSummary": "romance-core / school",
     "searchKeywords": [
       "octopus",
       "game",
       "muneogeim",
       "every",
       "sunday",
-      "hongjoo",
+      "hong-joo",
       "chung",
       "play",
       "board",
@@ -254,7 +254,7 @@
       "descriptionTerms": [
         "every",
         "sunday",
-        "hongjoo",
+        "hong-joo",
         "chung",
         "play",
         "board",
@@ -262,7 +262,7 @@
         "together",
         "octopus",
         "game",
-        "hongjoo",
+        "hong-joo",
         "brings",
         "turns",
         "adults-only",
@@ -280,9 +280,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.73
+    "confidence": 0.66
   }
 }

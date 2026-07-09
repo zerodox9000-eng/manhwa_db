@@ -183,9 +183,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-07T10:46:02.015Z",
-  "mangabaka_latest_rank": 2037,
-  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
+  "last_updated_at": "2026-07-08T10:55:45.709Z",
+  "mangabaka_latest_rank": 2047,
+  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
   "authors": [
     "Chikeumil",
     "Meotjinsegye",
@@ -211,20 +211,30 @@
     },
     "mangaupdates": {
       "id": "a0405bg",
-      "rating": 59,
+      "rating": 60,
       "url": "https://www.mangaupdates.com/series/a0405bg"
     }
   },
   "tag_ids": [
     43,
+    583,
+    587,
+    693,
+    75,
     74,
+    405,
+    647,
+    1676,
     108,
+    450,
     36,
     46,
     14,
     41,
     6,
     31,
+    403,
+    127,
     9,
     93,
     57,
@@ -237,32 +247,39 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5873,
-    "fanRatioPercentile": 60.4351,
-    "popularityPercentile": 31.9915,
-    "fanFavouriteDiscoveryScore": 44.1732,
-    "fanFavouriteDiscoveryPercentile": 50.2161
+    "fanRatioPercentile": 60.4715,
+    "popularityPercentile": 31.9033,
+    "fanFavouriteDiscoveryScore": 44.1122,
+    "fanFavouriteDiscoveryPercentile": 50.1933
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "romance-core",
       "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "kingdom-fantasy",
         "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [],
       "tone": [
         "comedic",
+        "tense",
         "warm"
       ],
       "worldType": [
@@ -272,7 +289,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / school",
     "searchKeywords": [
       "swapped",
       "husband",
@@ -307,14 +324,24 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Black-Haired Male Lead",
+        "Long-Haired Male Character",
+        "White/Silver-Haired Female Lead",
+        "Based on a Novel",
         "Based on a Web Novel",
+        "Europe",
+        "Misunderstandings",
+        "Noble-Noble Relationship",
         "Heterosexual",
+        "European Ambience",
         "Fantasy",
         "Adult",
         "Erotica",
         "Smut",
         "Comedy",
         "Drama",
+        "Betrayal",
+        "Nobility",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -364,6 +391,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.88
   }
 }

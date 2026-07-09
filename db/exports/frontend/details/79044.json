@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.148Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-07T18:03:56.184Z",
+  "last_updated_at": "2026-07-09T01:28:23.160Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
+  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
   "authors": [
     "Rucola",
     "Yeon Yeolha"
@@ -111,35 +111,58 @@
   },
   "tag_ids": [
     40,
+    1458,
+    1464,
+    583,
+    690,
+    693,
+    59,
+    2236,
+    2422,
+    2409,
+    75,
     74,
+    405,
+    853,
+    172,
+    1099,
+    709,
+    617,
+    497,
+    114,
     108,
+    450,
     36,
+    642,
     39,
     37,
     31,
+    403,
     127,
     9,
     93,
     57,
-    428
+    428,
+    121
   ],
   "stats": {
-    "popularity": 677,
+    "popularity": 678,
     "favourites": 8,
     "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1817,
-    "fanRatioPercentile": 48.9273,
-    "popularityPercentile": 74.8616,
-    "fanFavouriteDiscoveryScore": 48.4266,
-    "fanFavouriteDiscoveryPercentile": 57.1147
+    "fanFavouriteRaw": 1.1799,
+    "fanRatioPercentile": 48.9729,
+    "popularityPercentile": 74.8655,
+    "fanFavouriteDiscoveryScore": 48.4719,
+    "fanFavouriteDiscoveryPercentile": 57.1667
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -154,10 +177,14 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "martial-growth"
+      ],
       "tone": [
+        "tense",
         "warm"
       ],
       "worldType": [
@@ -199,17 +226,39 @@
     "evidence": {
       "tags": [
         "Shoujo",
+        "Green-Eyed Female Lead",
+        "Purple/Violet-Eyed Male Lead",
+        "Black-Haired Male Lead",
+        "White/Silver-Haired Character",
+        "White/Silver-Haired Female Lead",
+        "Female Lead",
+        "Knight Female Lead",
+        "Duke Male Lead",
+        "Noble Male Lead",
+        "Based on a Novel",
         "Based on a Web Novel",
+        "Europe",
+        "Subtle Romance",
+        "Time Skip",
+        "Dukes",
+        "Homeless",
+        "Swordswoman",
+        "Witch",
+        "Older Female Younger Male",
         "Heterosexual",
+        "European Ambience",
         "Fantasy",
+        "Fantasy World",
         "Action",
         "Adventure",
         "Drama",
+        "Betrayal",
         "Nobility",
         "Romance",
         "Longstrip",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Magic"
       ],
       "titleTerms": [
         "protecting",
@@ -256,6 +305,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.89
   }
 }

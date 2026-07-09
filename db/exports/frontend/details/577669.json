@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Swimming Lesson Record",
-  "mangabaka_title": "Suyeong Lesson Ilji",
+  "mangabaka_title": "Swimming Lesson Record",
   "native_title": "수영 레슨 일지",
   "romanized_title": "Suyeong Lesson Ilji",
   "titles": [
@@ -42,12 +42,14 @@
     {
       "language": "en",
       "title": "Swimming Lesson Record",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Nahyeon joins a dawn swim class to conquer her water phobia—and crushes hard on her hot instructor, Jaehwan. She shuts it down fast. No point eyeing a tree she can't climb. But what if that tree wants to be climbed? Before she knows it, Jaehwan is insisting she take responsibility for taking his virginity!\n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=13631945), [Ridibooks](https://ridibooks.com/books/3498026359), [Bomtoon](https://www.bomtoon.com/detail/swimming_lesson), [Lezhin](https://www.lezhin.com/ko/comic/swim_lesson_log), [MrBlue](https://www.mrblue.com/webtoon/wt_000077735) \n\n**Official Translations:**    \n[English](https://manta.net/en/series/swimming-lesson-record-full-ver?seriesId=4493)",
+  "description": "Na-Hyeon joins a dawn swim class to conquer her water phobia—and crushes hard on her hot instructor, Jae-Hwan. She shuts it down fast. No point eyeing a tree she can't climb. But what if that tree wants to be climbed? Before she knows it, Jae-Hwan is insisting she take responsibility for taking his virginity!\n\n(Source: Manta)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwOTE1Ni1vekNmR012UWRxMFAuanBn",
   "total_chapters": "10",
   "status": "completed",
@@ -62,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-06T13:29:21.528Z",
-  "mangabaka_latest_rank": 1161,
-  "mangabaka_latest_snapshot_at": "2026-07-08T04:24:36.994Z",
+  "last_updated_at": "2026-07-08T19:17:45.792Z",
+  "mangabaka_latest_rank": 1171,
+  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
   "authors": [
     "Doyeon",
     "Junpil"
@@ -74,12 +76,12 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/577669",
-    "read_en": null
+    "read_en": "https://manta.net/en/series/swimming-lesson-record-full-ver?seriesId=4493"
   },
   "source": {
     "anilist": {
       "id": 209156,
-      "rating": 84,
+      "rating": 88,
       "url": "https://anilist.co/manga/209156"
     },
     "animeplanet": null,
@@ -102,29 +104,26 @@
     428
   ],
   "stats": {
-    "popularity": 26,
+    "popularity": 27,
     "favourites": 2,
-    "meanScore": 84
+    "meanScore": 88
   },
   "analytics": {
-    "fanFavouriteRaw": 7.6923,
-    "fanRatioPercentile": 98.9083,
-    "popularityPercentile": 17.4134,
-    "fanFavouriteDiscoveryScore": 44.1448,
-    "fanFavouriteDiscoveryPercentile": 50.0569
+    "fanFavouriteRaw": 7.4074,
+    "fanRatioPercentile": 98.7342,
+    "popularityPercentile": 17.9186,
+    "fanFavouriteDiscoveryScore": 45.0964,
+    "fanFavouriteDiscoveryPercentile": 51.6183
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -141,14 +140,14 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "swimming",
       "lesson",
       "record",
       "suyeong",
       "ilji",
-      "nahyeon",
+      "na-hyeon",
       "joins",
       "dawn",
       "swim",
@@ -160,7 +159,7 @@
       "hard",
       "hot",
       "instructor",
-      "jaehwan",
+      "jae-hwan",
       "shuts",
       "fast",
       "point",
@@ -189,15 +188,15 @@
         "swimming",
         "lesson",
         "record",
-        "suyeong",
+        "swimming",
         "lesson",
-        "ilji",
+        "record",
         "suyeong",
         "lesson",
         "ilji"
       ],
       "descriptionTerms": [
-        "nahyeon",
+        "na-hyeon",
         "joins",
         "dawn",
         "swim",
@@ -209,7 +208,7 @@
         "hard",
         "hot",
         "instructor",
-        "jaehwan",
+        "jae-hwan",
         "shuts",
         "fast",
         "point",
@@ -224,9 +223,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "read-en"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.45
   }
 }
