@@ -2,7 +2,7 @@
   "id": 566755,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Mawang ui Channel",
+  "display_title": "The Demon Lord's Channel",
   "mangabaka_title": "Mawang ui Channel",
   "native_title": "마왕의 채널",
   "romanized_title": "Mawang ui Channel",
@@ -31,6 +31,13 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Demon Lord's Channel",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "Alien species from outer space have started participating in Earth’s broadcasts, and Ale, a Demon King from the Demon King Planet, teams up with the human Dohyun to become the Best Streamer, encountering and getting entangled with various other alien species along the way...",
@@ -48,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-08T10:58:33.473Z",
-  "mangabaka_latest_rank": 1693,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "last_updated_at": "2026-07-09T11:36:23.975Z",
+  "mangabaka_latest_rank": 1694,
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
     "Mallaeng 2"
   ],
@@ -64,7 +71,7 @@
   "source": {
     "anilist": {
       "id": 202570,
-      "rating": 65,
+      "rating": 63,
       "url": "https://anilist.co/manga/202570"
     },
     "animeplanet": {
@@ -97,23 +104,26 @@
     121
   ],
   "stats": {
-    "popularity": 156,
+    "popularity": 157,
     "favourites": 3,
-    "meanScore": 65
+    "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 1.9231,
-    "fanRatioPercentile": 68.8699,
-    "popularityPercentile": 47.7829,
-    "fanFavouriteDiscoveryScore": 62.6806,
-    "fanFavouriteDiscoveryPercentile": 70.9012
+    "fanFavouriteRaw": 1.9108,
+    "fanRatioPercentile": 68.4649,
+    "popularityPercentile": 47.8406,
+    "fanFavouriteDiscoveryScore": 62.3389,
+    "fanFavouriteDiscoveryPercentile": 70.541
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "kingdom-management",
     "profileGroups": [
+      "kingdom-management",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "kingdom-management"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
@@ -137,10 +147,12 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / reincarnation",
+    "semanticSummary": "kingdom-management / reincarnation",
     "searchKeywords": [
-      "mawang",
+      "demon",
+      "lord",
       "channel",
+      "mawang",
       "alien",
       "species",
       "outer",
@@ -150,7 +162,6 @@
       "earth",
       "broadcasts",
       "ale",
-      "demon",
       "king",
       "planet",
       "teams",
@@ -184,7 +195,8 @@
         "Magic"
       ],
       "titleTerms": [
-        "mawang",
+        "demon",
+        "lord",
         "channel",
         "mawang",
         "channel",
@@ -223,6 +235,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.67
   }
 }

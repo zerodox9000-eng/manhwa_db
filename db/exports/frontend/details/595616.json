@@ -2,15 +2,17 @@
   "id": 595616,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Deer Hunting",
+  "display_title": "Dear Hunting",
   "mangabaka_title": "Deer Hunting",
   "native_title": "디어 헌팅",
-  "romanized_title": null,
+  "romanized_title": "Deer Hunting",
   "titles": [
     {
       "language": "ko",
       "title": "디어 헌팅",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,35 +20,37 @@
       "language": "en",
       "title": "Dear Hunting",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Deer Hunting",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079170)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMDQzLmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "Ever since the baby mountain spirit, his only friend in childhood, had left him, Kal had been hunting down and killing every deer he could find, believing them to be the mountain spirit’s incarnation. He believed in a legend that said if a species in the mountains were wiped out, the mountain spirit would descend and restore that species. After several years of focusing solely on hunting deer without ever encountering the Mountain Spirit, a handsome man with fair skin appeared and completely turned Kal’s life upside down... \n\n *“Fifty. That’s the number of my children you’ve killed. And that’s the number of my children you’ll bear.”*\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk2NC1od09kbVY4YXdOQXYuanBn",
+  "total_chapters": "7",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-30",
+    "end_date": "2026-06-30",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-08T08:02:17.514Z",
-  "mangabaka_latest_rank": 52,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "last_updated_at": "2026-07-10T03:37:26.208Z",
+  "mangabaka_latest_rank": 53,
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
     "Guisa"
   ],
@@ -58,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213964,
+      "rating": null,
+      "url": "https://anilist.co/manga/213964"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "n2v2wut",
@@ -67,24 +75,33 @@
     }
   },
   "tag_ids": [
+    336,
+    22,
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6336,
+    "popularityPercentile": 0.4546,
+    "fanFavouriteDiscoveryScore": 5.1878,
+    "fanFavouriteDiscoveryPercentile": 0.447
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea"
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -97,39 +114,92 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
-      "deer",
+      "dear",
       "hunting",
-      "original",
-      "webtoon"
+      "deer",
+      "ever",
+      "since",
+      "baby",
+      "mountain",
+      "spirit",
+      "friend",
+      "childhood",
+      "left",
+      "kal",
+      "killing",
+      "every",
+      "find",
+      "believing",
+      "incarnation",
+      "believed",
+      "legend",
+      "said",
+      "species",
+      "mountains",
+      "were"
     ],
     "evidence": {
       "tags": [
+        "Foreign",
+        "Supernatural",
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "dear",
+        "hunting",
         "deer",
         "hunting",
         "deer",
         "hunting"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "ever",
+        "since",
+        "baby",
+        "mountain",
+        "spirit",
+        "friend",
+        "childhood",
+        "left",
+        "kal",
+        "hunting",
+        "killing",
+        "every",
+        "deer",
+        "find",
+        "believing",
+        "mountain",
+        "spirit",
+        "incarnation",
+        "believed",
+        "legend",
+        "said",
+        "species",
+        "mountains",
+        "were"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.45
   }
 }

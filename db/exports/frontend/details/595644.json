@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Longing",
-  "mangabaka_title": "My Longing",
+  "mangabaka_title": "Donggyeonghaneun Naui",
   "native_title": "동경하는 나의",
-  "romanized_title": null,
+  "romanized_title": "Donggyeonghaneun Naui",
   "titles": [
     {
       "language": "ko",
       "title": "동경하는 나의",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Donggyeonghaneun Naui",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,26 +31,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "My Watchful Protector",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079171)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMDY2LmpwZw",
+  "description": "Due to a plot hatched by the Great Spirit and Seol Ji-Han, the head of the Hyunmu Clan, the Cheongryong Clan is wiped out overnight. Eun Do-Hyeon, the head of the Cheongryong Clan, took up his sword to seek revenge against the two spirits, but was taken prisoner. To make matters worse, he finds himself bound by an unbreakable master-servant contract with his sworn enemy, Seol Ji-Han...\n\n *“You’re my slave now. You mustn’t question your master’s orders.”\n\n“Seol Ji-Han, I’ll never forgive you, even if it costs me my life...!”*\n\nEun Do-Hyeon cannot deny that, despite wanting to kill his sworn enemy, he finds himself increasingly drawn to him. And as time goes on, he begins to notice Seol Ji-Han’s strange behavior.\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk3MC1SU1c3RDlIQkdBZnkuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-08T20:45:53.589Z",
-  "mangabaka_latest_rank": 42,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "last_updated_at": "2026-07-09T21:08:09.180Z",
+  "mangabaka_latest_rank": 43,
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
     "Onyul"
   ],
@@ -51,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213970,
+      "rating": null,
+      "url": "https://anilist.co/manga/213970"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "l13ebpk",
@@ -60,9 +82,16 @@
     }
   },
   "tag_ids": [
+    36,
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,14 +99,16 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6336,
+    "popularityPercentile": 0.144,
+    "fanFavouriteDiscoveryScore": 5.0765,
+    "fanFavouriteDiscoveryPercentile": 0.144
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea"
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -85,41 +116,105 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [
+        "revenge",
         "romance"
       ],
-      "progressionType": [],
-      "tone": [],
-      "worldType": [],
-      "romanceRole": "none",
+      "progressionType": [
+        "power-growth",
+        "martial-growth"
+      ],
+      "tone": [
+        "tense",
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world"
+      ],
+      "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core / system",
     "searchKeywords": [
       "longing",
-      "original",
-      "webtoon"
+      "donggyeonghaneun",
+      "naui",
+      "due",
+      "plot",
+      "hatched",
+      "great",
+      "spirit",
+      "seol",
+      "ji-han",
+      "head",
+      "hyunmu",
+      "clan",
+      "cheongryong",
+      "wiped",
+      "overnight",
+      "eun",
+      "do-hyeon",
+      "took",
+      "sword",
+      "seek",
+      "revenge",
+      "against"
     ],
     "evidence": {
       "tags": [
+        "Fantasy",
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Romance",
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "longing",
-        "longing"
+        "donggyeonghaneun",
+        "naui",
+        "donggyeonghaneun",
+        "naui"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "due",
+        "plot",
+        "hatched",
+        "great",
+        "spirit",
+        "seol",
+        "ji-han",
+        "head",
+        "hyunmu",
+        "clan",
+        "cheongryong",
+        "clan",
+        "wiped",
+        "overnight",
+        "eun",
+        "do-hyeon",
+        "head",
+        "cheongryong",
+        "clan",
+        "took",
+        "sword",
+        "seek",
+        "revenge",
+        "against"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.45
   }
 }

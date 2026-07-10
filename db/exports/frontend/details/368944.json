@@ -55,9 +55,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-08T12:56:03.702Z",
-  "mangabaka_latest_rank": 2676,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "last_updated_at": "2026-07-09T23:38:54.126Z",
+  "mangabaka_latest_rank": 2678,
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
     "Eun Eun"
   ],
@@ -86,14 +86,20 @@
     }
   },
   "tag_ids": [
+    1394,
+    595,
     107,
+    162,
     172,
     180,
+    1947,
     23,
     235,
     31,
+    776,
     9,
     42,
+    1004,
     93,
     57,
     428
@@ -105,14 +111,15 @@
   },
   "analytics": {
     "fanFavouriteRaw": 8.4951,
-    "fanRatioPercentile": 99.1586,
-    "popularityPercentile": 66.0881,
-    "fanFavouriteDiscoveryScore": 97.0736,
-    "fanFavouriteDiscoveryPercentile": 98.9995
+    "fanRatioPercentile": 99.1514,
+    "popularityPercentile": 66.063,
+    "fanFavouriteDiscoveryScore": 97.0622,
+    "fanFavouriteDiscoveryPercentile": 98.9998
   },
   "context": {
-    "primaryProfile": "regression-return",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "regression-return",
       "romance-core",
       "school-life"
@@ -121,6 +128,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -133,12 +141,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "regression-return / school",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "bad",
       "friend",
@@ -169,14 +179,20 @@
     ],
     "evidence": {
       "tags": [
+        "Short Haircut",
+        "South Korea",
         "School",
+        "High School",
         "Time Skip",
         "Boys Love",
+        "Korean Boys Love",
         "Shounen Ai",
         "Bullying",
         "Drama",
+        "Korean Folklore",
         "Romance",
         "School Life",
+        "Modern Era",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -222,6 +238,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.73
   }
 }

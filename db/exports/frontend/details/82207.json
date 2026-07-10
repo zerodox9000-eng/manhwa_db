@@ -2,8 +2,8 @@
   "id": 82207,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Daughter of a Rogue Successor!",
-  "mangabaka_title": "Mangnani Hugyejaui Ttarirani!",
+  "display_title": "Heir-Raising Daddy Issues",
+  "mangabaka_title": "Heir-Raising Daddy Issues",
   "native_title": "망나니 후계자의 딸이라니!",
   "romanized_title": "Mangnani Hugyejaui Ttarirani!",
   "titles": [
@@ -12,6 +12,15 @@
       "title": "망나니 후계자의 딸이라니!",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Heir-Raising Daddy Issues",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -36,7 +45,7 @@
       "language": "en",
       "title": "The Daughter of a Rogue Successor!",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -61,12 +70,12 @@
       "note": null
     }
   ],
-  "description": "Reincarnated as the daughter of a disgraceful marquis, she works hard to fix her father’s mistakes and earns the respect of her grandfather, only to find herself entangled in a web of obsession.\n\n(Source: KakaoPage, translated)",
+  "description": "Transmigrating as the background character Erusha Shablin wouldn’t be so bad if her father, Leonardo, weren’t such a menace. At this rate, the story will play out exactly as written: eviction by her grandfather followed by a tragic death. To avoid her canon ending, Erusha must prove her worth and win her grandfather’s approval—but that would be far easier if he weren't constantly angered by her father's antics. Can she navigate this multi-generational “daddy issues” disaster? \n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80L2UvMy9kL2QvNi8yLzUvNmNlNi80YzM4Lzk2YWMvYjNkY2I4ZGMxZjY4",
   "total_chapters": "62",
   "status": "hiatus",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-01-14",
@@ -76,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-08T03:07:01.420Z",
+  "last_updated_at": "2026-07-09T13:12:31.826Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
     "Dal-Ri Lee"
   ],
@@ -87,7 +96,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/82207",
-    "read_en": null
+    "read_en": "https://tapas.io/series/heir-raising-daddy-issues/info"
   },
   "source": {
     "anilist": {
@@ -120,16 +129,16 @@
     428
   ],
   "stats": {
-    "popularity": 223,
+    "popularity": 224,
     "favourites": 4,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7937,
-    "fanRatioPercentile": 65.6409,
-    "popularityPercentile": 54.7033,
-    "fanFavouriteDiscoveryScore": 62.1912,
-    "fanFavouriteDiscoveryPercentile": 70.3707
+    "fanFavouriteRaw": 1.7857,
+    "fanRatioPercentile": 65.5251,
+    "popularityPercentile": 54.7204,
+    "fanFavouriteDiscoveryScore": 62.0862,
+    "fanFavouriteDiscoveryPercentile": 70.1849
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -146,7 +155,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -157,9 +165,7 @@
       "conflictType": [
         "romance"
       ],
-      "progressionType": [
-        "career-growth"
-      ],
+      "progressionType": [],
       "tone": [
         "warm"
       ],
@@ -170,32 +176,38 @@
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / reincarnation",
     "searchKeywords": [
-      "daughter",
-      "rogue",
-      "successor",
+      "heir-raising",
+      "daddy",
+      "issues",
       "mangnani",
       "hugyejaui",
       "ttarirani",
-      "reincarnated",
-      "disgraceful",
-      "marquis",
-      "works",
-      "hard",
-      "fix",
+      "transmigrating",
+      "background",
+      "character",
+      "erusha",
+      "shablin",
+      "wouldn",
+      "bad",
       "father",
-      "mistakes",
-      "earns",
-      "respect",
+      "leonardo",
+      "weren",
+      "such",
+      "menace",
+      "rate",
+      "play",
+      "exactly",
+      "written",
+      "eviction",
       "grandfather",
-      "find",
-      "herself",
-      "entangled",
-      "web",
-      "obsession",
-      "kakaopage",
-      "translated"
+      "followed",
+      "tragic",
+      "death",
+      "avoid",
+      "canon",
+      "ending"
     ],
     "evidence": {
       "tags": [
@@ -212,41 +224,47 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "daughter",
-        "rogue",
-        "successor",
-        "mangnani",
-        "hugyejaui",
-        "ttarirani",
+        "heir-raising",
+        "daddy",
+        "issues",
+        "heir-raising",
+        "daddy",
+        "issues",
         "mangnani",
         "hugyejaui",
         "ttarirani"
       ],
       "descriptionTerms": [
-        "reincarnated",
-        "daughter",
-        "disgraceful",
-        "marquis",
-        "works",
-        "hard",
-        "fix",
+        "transmigrating",
+        "background",
+        "character",
+        "erusha",
+        "shablin",
+        "wouldn",
+        "bad",
         "father",
-        "mistakes",
-        "earns",
-        "respect",
+        "leonardo",
+        "weren",
+        "such",
+        "menace",
+        "rate",
+        "play",
+        "exactly",
+        "written",
+        "eviction",
         "grandfather",
-        "find",
-        "herself",
-        "entangled",
-        "web",
-        "obsession",
-        "kakaopage",
-        "translated"
+        "followed",
+        "tragic",
+        "death",
+        "avoid",
+        "canon",
+        "ending"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 0.83

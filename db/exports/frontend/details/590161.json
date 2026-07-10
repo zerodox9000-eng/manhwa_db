@@ -5,13 +5,20 @@
   "display_title": "Legend of the Demon God in Joseon",
   "mangabaka_title": "Legend of the Demon God in Joseon",
   "native_title": "조선귀신전",
-  "romanized_title": "Joseon Gwisinjeon",
+  "romanized_title": "Jeon Ghost Story",
   "titles": [
     {
       "language": "ko",
       "title": "조선귀신전",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jeon Ghost Story",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,9 +36,9 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Toomics](https://www.toomics.com/webtoon/episode/toon/8611), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14215383), [Lezhin](https://www.lezhin.com/ko/comic/joseon_gwisinjeon), [Ridibooks](https://ridibooks.com/books/5601002047)",
+  "description": "Demons awakened by plague and famine have engulfed the Joseon Dynasty.\n\nMinho is resurrected as the 101st and begins a journey to die.\n\n**Original Webtoon:**   \n[Toomics](https://www.toomics.com/webtoon/episode/toon/8611), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14215383), [Lezhin](https://www.lezhin.com/ko/comic/joseon_gwisinjeon), [Ridibooks](https://ridibooks.com/books/5601002047)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2xlZ2VuZC1vZi10aGUtZGVtb24tZ29kLWluLWpvc2Vvbi0xLndlYnA_dD0xNzgxMTE0ODk4",
-  "total_chapters": "8",
+  "total_chapters": "12",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -44,9 +51,9 @@
   },
   "first_seen_at": "2026-06-11T05:22:26.965Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-08T05:40:46.850Z",
-  "mangabaka_latest_rank": 286,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "last_updated_at": "2026-07-09T05:40:44.583Z",
+  "mangabaka_latest_rank": 287,
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
     "Solho"
   ],
@@ -89,11 +96,14 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
+      "horror-survival",
       "modern-korea"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -112,13 +122,26 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "horror-survival / modern-korea",
     "searchKeywords": [
       "legend",
       "demon",
       "god",
       "joseon",
-      "gwisinjeon",
+      "jeon",
+      "ghost",
+      "demons",
+      "awakened",
+      "plague",
+      "famine",
+      "engulfed",
+      "dynasty",
+      "minho",
+      "resurrected",
+      "101st",
+      "begins",
+      "journey",
+      "die",
       "original",
       "webtoon",
       "toomics",
@@ -145,10 +168,23 @@
         "demon",
         "god",
         "joseon",
-        "joseon",
-        "gwisinjeon"
+        "jeon",
+        "ghost"
       ],
       "descriptionTerms": [
+        "demons",
+        "awakened",
+        "plague",
+        "famine",
+        "engulfed",
+        "joseon",
+        "dynasty",
+        "minho",
+        "resurrected",
+        "101st",
+        "begins",
+        "journey",
+        "die",
         "original",
         "webtoon",
         "toomics",
@@ -162,6 +198,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.57
   }
 }

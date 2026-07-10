@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-07-07T04:47:25.909Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-08T07:08:35.719Z",
-  "mangabaka_latest_rank": 20,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "last_updated_at": "2026-07-09T07:07:00.470Z",
+  "mangabaka_latest_rank": 21,
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
     "Gwendolyn",
     "Nayang"
@@ -61,6 +61,7 @@
     }
   },
   "tag_ids": [
+    36,
     46,
     16,
     31,
@@ -93,7 +94,9 @@
       ],
       "progressionType": [],
       "tone": [],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
@@ -110,6 +113,7 @@
     ],
     "evidence": {
       "tags": [
+        "Fantasy",
         "Adult",
         "Yaoi",
         "Drama",
@@ -134,6 +138,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.4
   }
 }

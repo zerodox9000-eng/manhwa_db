@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Princess Goes to the Gym",
-  "mangabaka_title": "The Princess Goes to the Gym",
+  "mangabaka_title": "Gongjuneun Helseujange Ganda",
   "native_title": "공주는 헬스장에 간다",
-  "romanized_title": null,
+  "romanized_title": "Gongjuneun Helseujange Ganda",
   "titles": [
     {
       "language": "ko",
       "title": "공주는 헬스장에 간다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gongjuneun Helseujange Ganda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,36 +33,40 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852173), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14385744)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMzc2LmpwZw",
+  "description": "Hye-Jin became a hikikomori after being brutally dumped by her first love. Now that she’s 26, she wants to finally break free from a “life that’s falling behind everyone else’s”! Dreaming of a normal everyday life, she started a part-time job at a gym. But it turns out there was a “helper” waiting for her as she took her first step toward this challenge? Four men gather around the confused Hye-Jin. A full set of romantic entanglements with these four men as grueling as her workouts is about to begin…?!\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk3Mi1nMW90NkJhRmgxOVMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-05",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-06T05:06:36.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-08T15:48:32.395Z",
-  "mangabaka_latest_rank": 25,
-  "mangabaka_latest_snapshot_at": "2026-07-09T05:02:32.450Z",
+  "last_updated_at": "2026-07-09T22:16:23.838Z",
+  "mangabaka_latest_rank": 26,
+  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
   "authors": [
-    "Cog"
+    "Kok"
   ],
   "artists": [
-    "Cog"
+    "Kok"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595843",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213972,
+      "rating": null,
+      "url": "https://anilist.co/manga/213972"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "bjikjoc",
@@ -69,9 +84,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6336,
+    "popularityPercentile": 0.144,
+    "fanFavouriteDiscoveryScore": 5.0765,
+    "fanFavouriteDiscoveryPercentile": 0.144
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -110,10 +127,32 @@
       "princess",
       "goes",
       "gym",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "gongjuneun",
+      "helseujange",
+      "ganda",
+      "hye-jin",
+      "became",
+      "hikikomori",
+      "being",
+      "brutally",
+      "dumped",
+      "first",
+      "love",
+      "wants",
+      "finally",
+      "break",
+      "free",
+      "falling",
+      "behind",
+      "everyone",
+      "else",
+      "dreaming",
+      "normal",
+      "everyday",
+      "started",
+      "part-time",
+      "job",
+      "turns"
     ],
     "evidence": {
       "tags": [
@@ -124,19 +163,41 @@
         "princess",
         "goes",
         "gym",
-        "princess",
-        "goes",
-        "gym"
+        "gongjuneun",
+        "helseujange",
+        "ganda",
+        "gongjuneun",
+        "helseujange",
+        "ganda"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "hye-jin",
+        "became",
+        "hikikomori",
+        "being",
+        "brutally",
+        "dumped",
+        "first",
+        "love",
+        "wants",
+        "finally",
+        "break",
+        "free",
+        "falling",
+        "behind",
+        "everyone",
+        "else",
+        "dreaming",
+        "normal",
+        "everyday",
+        "started",
+        "part-time",
+        "job",
+        "gym",
+        "turns"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
