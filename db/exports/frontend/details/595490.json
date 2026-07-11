@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "To Me, Who Will Shake Tomorrow as Well",
-  "mangabaka_title": "To Me, Who Will Shake Tomorrow as Well",
+  "mangabaka_title": "Naeildo Heundeullil Naege",
   "native_title": "내일도 흔들릴 나에게",
-  "romanized_title": null,
+  "romanized_title": "Naeildo Heundeullil Naege",
   "titles": [
     {
       "language": "ko",
       "title": "내일도 흔들릴 나에게",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Naeildo Heundeullil Naege",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,36 +33,40 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69521638), [Daum](https://webtoon.kakao.com/content/%EB%82%B4%EC%9D%BC%EB%8F%84-%ED%9D%94%EB%93%A4%EB%A6%B4-%EB%82%98%EC%97%90%EA%B2%8C/4882)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwODYwLmpwZw",
+  "description": "Despite the abuse she suffered at the hands of her parents and partners, Didi was unable to break free from these relationships due to chronic anxiety and a sense of deprivation. Then one day, she meets the kind and thoughtful Eugene and finally finds the courage to escape her abusive relationships. But just because love has begun doesn’t mean her wounds will disappear. Didi, an anxious person who constantly craves reassurance of love, and Eugene, an avoidant person who gradually distances himself, unable to cope with those feelings. As they grow closer, the two become increasingly unstable. Will they truly be able to love each other? And will Didi be able to save herself and grow? \n\nA emotional drama that delicately yet sharply portrays the real-life romance between an anxious woman and an avoidant man.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk5NC1JQWdjRWJNcnFzZHAucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-01T05:20:54.515Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-01T17:14:23.450Z",
-  "mangabaka_latest_rank": 76,
-  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
+  "last_updated_at": "2026-07-10T23:36:32.097Z",
+  "mangabaka_latest_rank": 80,
+  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
   "authors": [
-    "Namdidi"
+    "Di-Di Nam"
   ],
   "artists": [
-    "Namdidi"
+    "Di-Di Nam"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595490",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213994,
+      "rating": null,
+      "url": "https://anilist.co/manga/213994"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "49wm4ly",
@@ -61,7 +76,14 @@
   },
   "tag_ids": [
     40,
-    9
+    108,
+    508,
+    31,
+    9,
+    7,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -69,9 +91,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6375,
+    "popularityPercentile": 0.1968,
+    "fanFavouriteDiscoveryScore": 5.096,
+    "fanFavouriteDiscoveryPercentile": 0.1968
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -105,34 +129,88 @@
       "shake",
       "tomorrow",
       "well",
-      "original",
-      "webtoon",
-      "kakaopage",
-      "daum"
+      "naeildo",
+      "heundeullil",
+      "naege",
+      "despite",
+      "abuse",
+      "suffered",
+      "hands",
+      "parents",
+      "partners",
+      "didi",
+      "unable",
+      "break",
+      "free",
+      "these",
+      "relationships",
+      "due",
+      "chronic",
+      "anxiety",
+      "sense",
+      "deprivation",
+      "meets",
+      "kind",
+      "thoughtful",
+      "eugene",
+      "finally",
+      "finds",
+      "courage"
     ],
     "evidence": {
       "tags": [
         "Shoujo",
-        "Romance"
+        "Heterosexual",
+        "Autobiographical",
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "shake",
         "tomorrow",
         "well",
-        "shake",
-        "tomorrow",
-        "well"
+        "naeildo",
+        "heundeullil",
+        "naege",
+        "naeildo",
+        "heundeullil",
+        "naege"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "kakaopage",
-        "daum"
+        "despite",
+        "abuse",
+        "suffered",
+        "hands",
+        "parents",
+        "partners",
+        "didi",
+        "unable",
+        "break",
+        "free",
+        "these",
+        "relationships",
+        "due",
+        "chronic",
+        "anxiety",
+        "sense",
+        "deprivation",
+        "meets",
+        "kind",
+        "thoughtful",
+        "eugene",
+        "finally",
+        "finds",
+        "courage"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.51
   }
 }

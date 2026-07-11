@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Heartbeat Office Love",
-  "mangabaka_title": "Doki Doki: Love in Office",
+  "mangabaka_title": "Heartbeat Office Love",
   "native_title": "두근두근 사내 연애",
   "romanized_title": "Dokidoki Love in Office",
   "titles": [
     {
       "language": "ko",
-      "title": "두근두근 사내연애",
-      "traits": [],
+      "title": "두근두근 사내 연애",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,8 +39,10 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Dugeundugeun Sanae Yeon-ae",
-      "traits": [],
+      "title": "Dugeundugeun Sanae Yeonae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -59,7 +63,9 @@
     {
       "language": "en",
       "title": "Heartbeat Office Love",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -85,36 +91,40 @@
       "note": null
     }
   ],
-  "description": "Myeongha and Joosung are high school sweethearts. However, now that Joosung has a job, things are different… especially when his new team lead arrives.\n\n**Original Webtoon:**  \nR19: [Naver Series](https://series.naver.com/comic/detail.series?productNo=2646371)  \nR15: [Naver Series](https://series.naver.com/comic/detail.series?productNo=2678731), [Lezhin](https://www.lezhin.com/ko/comic/dokidoki_love_in_office), [KakaoPage](https://page.kakao.com/content/49408768), [Bomtoon](https://www.bomtoon.com/detail/DOKIoffice)\n\n**Official Translations:**  \n[English](https://lalatoon.com/en/webtoon/episode/toon/8072)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2Rva2ktZG9raS1sb3ZlLWluLW9mZmljZS0xLmpwZz90PTE2MjU5MjE0ODA",
+  "description": "Myeong-Ha and Joo-Sung are high school sweethearts. However, now that Joo-Sung has a job, things are different… especially when his new team lead arrives.\n\n(Source: Lalatoon)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk5MS1zWmRTOE1PYWxUVUMuanBn",
   "total_chapters": "51",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2017,
   "published": {
-    "start_date": "2017-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2017-01-26",
+    "end_date": "2017-11-14",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:39:19.583Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-08T09:04:08.776Z",
+  "last_updated_at": "2026-07-10T22:06:20.116Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
+  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
   "authors": [
-    "Phuphen"
+    "Pupeun"
   ],
   "artists": [
-    "Phuphen"
+    "Pupeun"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/90045",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213991,
+      "rating": null,
+      "url": "https://anilist.co/manga/213991"
+    },
     "animeplanet": {
       "id": "doki-doki-love-in-office",
       "rating": null,
@@ -127,6 +137,7 @@
     }
   },
   "tag_ids": [
+    429,
     180,
     16,
     31,
@@ -142,34 +153,36 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6375,
+    "popularityPercentile": 0.1968,
+    "fanFavouriteDiscoveryScore": 5.096,
+    "fanFavouriteDiscoveryPercentile": 0.1968
   },
   "context": {
-    "primaryProfile": "corporate-workplace",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
       "business-career",
+      "business-career-regression",
       "corporate-workplace",
-      "korean-business",
-      "modern-korea",
       "modern-workplace",
       "office-romance",
       "romance-core",
       "school-life"
     ],
     "primaryAnchors": [
-      "corporate-workplace",
-      "korean-business"
+      "business-career-regression",
+      "corporate-workplace"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "corporate-workplace",
         "school"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "employee"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
@@ -186,15 +199,14 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "semanticSummary": "business-career-regression / corporate-workplace / school",
     "searchKeywords": [
       "heartbeat",
       "office",
       "love",
-      "doki",
       "dokidoki",
-      "myeongha",
-      "joosung",
+      "myeong-ha",
+      "joo-sung",
       "high",
       "school",
       "sweethearts",
@@ -206,17 +218,11 @@
       "team",
       "lead",
       "arrives",
-      "original",
-      "webtoon",
-      "r19",
-      "naver",
-      "series",
-      "r15",
-      "lezhin",
-      "kakaopage"
+      "lalatoon"
     ],
     "evidence": {
       "tags": [
+        "Office Worker",
         "Boys Love",
         "Yaoi",
         "Drama",
@@ -230,22 +236,21 @@
         "heartbeat",
         "office",
         "love",
-        "doki",
-        "doki",
-        "love",
+        "heartbeat",
         "office",
+        "love",
         "dokidoki",
         "love",
         "office"
       ],
       "descriptionTerms": [
-        "myeongha",
-        "joosung",
+        "myeong-ha",
+        "joo-sung",
         "high",
         "school",
         "sweethearts",
         "however",
-        "joosung",
+        "joo-sung",
         "job",
         "things",
         "different",
@@ -253,18 +258,10 @@
         "team",
         "lead",
         "arrives",
-        "original",
-        "webtoon",
-        "r19",
-        "naver",
-        "series",
-        "r15",
-        "naver",
-        "series",
-        "lezhin",
-        "kakaopage"
+        "lalatoon"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]

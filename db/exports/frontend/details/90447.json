@@ -3,15 +3,15 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Corolla",
-  "mangabaka_title": "Hwagwan",
-  "native_title": "花冠：無法盛開的花",
+  "mangabaka_title": "Hwagwan: Pil Su Eomneun Kkot",
+  "native_title": "화관(花冠): 필 수 없는 꽃",
   "romanized_title": "Hwagwan",
   "titles": [
     {
       "language": "ko",
       "title": "화관",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -24,6 +24,13 @@
     {
       "language": "en",
       "title": "Corolla: A Flower That Cannot Bloom",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Corolla: A Flower That Can Not Bloom Flower Crown",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -43,10 +50,21 @@
       "note": null
     },
     {
+      "language": "ja-Latn",
+      "title": "Hwagwan: Pil Su Eomneun Kkot",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko",
       "title": "화관(花冠): 필 수 없는 꽃",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -57,26 +75,26 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Lezhin](https://www.lezhin.com/ko/comic/unbloomable_flower), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14009589), [MrBlue](https://www.mrblue.com/webtoon/wt_000077967)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI0ODg1LmpwZw",
+  "description": "Murderer, prostitute, old bustard…This is my identity in society for ten years. And here, I only have one identity, that is 7762.",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE3OTY2MC0yMGx6OWhKSk1mdEYuanBn",
   "total_chapters": "24",
   "status": "completed",
-  "content_rating": "erotica",
+  "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2017,
   "published": {
-    "start_date": "2017-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2017-02-26",
+    "end_date": "2017-07-02",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:39:19.584Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-21T12:32:07.472Z",
+  "last_updated_at": "2026-07-10T21:53:14.588Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
+  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
   "authors": [
-    "Kim Chang-won"
+    "Chang-Won Kim"
   ],
   "artists": [
     "Kurenai"
@@ -86,7 +104,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 179660,
+      "rating": null,
+      "url": "https://anilist.co/manga/179660"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "gn4pw1i",
@@ -96,73 +118,101 @@
   },
   "tag_ids": [
     8,
-    46
+    46,
+    10,
+    31,
+    9
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
+    "popularity": 6,
+    "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 16.6667,
+    "fanRatioPercentile": 99.8334,
+    "popularityPercentile": 2.892,
+    "fanFavouriteDiscoveryScore": 19.3452,
+    "fanFavouriteDiscoveryPercentile": 21.4475
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea"
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "revenge",
+        "romance"
+      ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "tense",
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "corolla",
       "hwagwan",
-      "original",
-      "webtoon",
-      "lezhin",
-      "naver",
-      "series",
-      "mrblue"
+      "pil",
+      "eomneun",
+      "kkot",
+      "murderer",
+      "prostitute",
+      "old",
+      "bustard",
+      "identity",
+      "society",
+      "ten",
+      "years",
+      "here",
+      "7762"
     ],
     "evidence": {
       "tags": [
         "Seinen",
-        "Adult"
+        "Adult",
+        "Hentai",
+        "Drama",
+        "Romance"
       ],
       "titleTerms": [
         "corolla",
         "hwagwan",
+        "pil",
+        "eomneun",
+        "kkot",
         "hwagwan"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "lezhin",
-        "naver",
-        "series",
-        "mrblue"
+        "murderer",
+        "prostitute",
+        "old",
+        "bustard",
+        "identity",
+        "society",
+        "ten",
+        "years",
+        "here",
+        "identity",
+        "7762"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.4
   }
 }

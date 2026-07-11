@@ -5,7 +5,7 @@
   "display_title": "To Be Dolsoe",
   "mangabaka_title": "To Be Dolsoe",
   "native_title": "돌쇠가 되어 줘",
-  "romanized_title": "To Be Dolsoe",
+  "romanized_title": "Be My Dolsoe",
   "titles": [
     {
       "language": "ko",
@@ -16,17 +16,24 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Be My Dolsoe",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "To Be Dolsoe",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNTg0LmpwZw",
-  "total_chapters": null,
+  "description": "**Original Webtoon :**   \n[Ridibooks](https://ridibooks.com/books/4443003357)\n\nHye-seo and Seon-il, longtime childhood friends, discover through a past-life regression experience that in a former life, Hye-seo was a noblewoman and Seon-il was her servant, Dolsoe. Despite the forbidden nature of their status in the past, they shared a passionate connection. The intense atmosphere between the noblewoman and her servant leaves subtle lingering feelings even after the two wake up from the experience. Eventually, the two act on these feelings in reality, leading to a massive shift in their childhood friend dynamic...",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNzc1LnBuZw",
+  "total_chapters": "3",
   "status": "unknown",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
@@ -37,9 +44,9 @@
   },
   "first_seen_at": "2026-07-08T04:08:35.871Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-09T16:59:18.961Z",
-  "mangabaka_latest_rank": 15,
-  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
+  "last_updated_at": "2026-07-10T16:36:28.417Z",
+  "mangabaka_latest_rank": 19,
+  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
   "authors": [
     "Red Sesame"
   ],
@@ -61,6 +68,9 @@
   },
   "tag_ids": [
     43,
+    22,
+    46,
+    41,
     9
   ],
   "stats": {
@@ -74,8 +84,10 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -84,7 +96,9 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "regression"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -94,16 +108,40 @@
       ],
       "worldType": [],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / regression",
     "searchKeywords": [
-      "dolsoe"
+      "dolsoe",
+      "original",
+      "webtoon",
+      "ridibooks",
+      "hye-seo",
+      "seon-il",
+      "longtime",
+      "childhood",
+      "friends",
+      "discover",
+      "through",
+      "past-life",
+      "regression",
+      "experience",
+      "former",
+      "noblewoman",
+      "servant",
+      "despite",
+      "forbidden",
+      "nature",
+      "status",
+      "past"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Supernatural",
+        "Adult",
+        "Smut",
         "Romance"
       ],
       "titleTerms": [
@@ -111,11 +149,36 @@
         "dolsoe",
         "dolsoe"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "ridibooks",
+        "hye-seo",
+        "seon-il",
+        "longtime",
+        "childhood",
+        "friends",
+        "discover",
+        "through",
+        "past-life",
+        "regression",
+        "experience",
+        "former",
+        "hye-seo",
+        "noblewoman",
+        "seon-il",
+        "servant",
+        "dolsoe",
+        "despite",
+        "forbidden",
+        "nature",
+        "status",
+        "past"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.54
   }
 }

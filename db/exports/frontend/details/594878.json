@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Despised Stepmother Begins Her Second Life",
-  "mangabaka_title": "The Despised Stepmother Begins Her Second Life",
+  "mangabaka_title": "Kiraware Keibo, Daini no Jinsei Hajimemasu",
   "native_title": "嫌われ継母、第二の人生始めます",
-  "romanized_title": "Kiraware Mamahaha Daini no Jinsei Hajimemasu",
+  "romanized_title": "Kiraware Keibo, Daini no Jinsei Hajimemasu",
   "titles": [
     {
       "language": "ko",
@@ -16,9 +16,18 @@
     },
     {
       "language": "ja-Latn",
+      "title": "Kiraware Keibo, Daini no Jinsei Hajimemasu",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja-Latn",
       "title": "Kiraware Mamahaha Daini no Jinsei Hajimemasu",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -45,29 +54,31 @@
     {
       "language": "ja",
       "title": "嫌われ継母、第二の人生始めます",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "“If I were to suddenly pass away… would you look after my family for me?”\n\nFor the sake of my beloved best friend, I married her husband. It was the final wish of my one and only true friend in this world. To protect the two children she left behind, I became their stepmother.\n\nEnduring the deep resentment of her sons and the harsh, judging glares of society, I spent seven long years in a contract marriage just to fulfill that promise. But the moment the children came of age, I walked away without a single shred of regret—exactly as agreed.\n\nJust as I was finally setting out to live life on my own terms, completely unexpected people began appearing before me.\nThe Third Prince, who vanished without a trace seven years ago; my first love, whom I haven’t forgotten for a single day; and even my ex-husband and stepsons, who are only now realizing what they’ve lost…!\n\n***Note:** This series was pre-released in Japan, despite being a Korean work.*\n\n**Original Webtoon:**     \n[KakaoPage](https://page.kakao.com/content/69522914), [Daum](https://webtoon.kakao.com/content/%EC%83%88%EC%97%84%EB%A7%88%EA%B0%80-%EB%96%A0%EB%82%AC%EB%8B%A4/4894)\n\n**Official Translations:**   \n[Japanese](https://piccoma.com/web/product/201602)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwODU4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk5My1UMUJ2Q2Y4Y0J2bHQuanBn",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-26T07:23:43.012Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-09T21:38:57.484Z",
-  "mangabaka_latest_rank": 118,
-  "mangabaka_latest_snapshot_at": "2026-07-10T05:04:55.345Z",
+  "last_updated_at": "2026-07-10T23:16:02.018Z",
+  "mangabaka_latest_rank": 122,
+  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
   "authors": [
     "AO-hyeong",
     "SOON"
@@ -80,7 +91,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213993,
+      "rating": null,
+      "url": "https://anilist.co/manga/213993"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "907c7fv",
@@ -89,9 +104,13 @@
     }
   },
   "tag_ids": [
+    108,
     36,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -99,9 +118,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6375,
+    "popularityPercentile": 0.1968,
+    "fanFavouriteDiscoveryScore": 5.096,
+    "fanFavouriteDiscoveryPercentile": 0.1968
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -144,9 +165,10 @@
       "begins",
       "second",
       "kiraware",
-      "mamahaha",
+      "keibo",
       "daini",
       "jinsei",
+      "hajimemasu",
       "were",
       "suddenly",
       "pass",
@@ -172,23 +194,27 @@
     ],
     "evidence": {
       "tags": [
+        "Heterosexual",
         "Fantasy",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "despised",
         "stepmother",
         "begins",
         "second",
-        "despised",
-        "stepmother",
-        "begins",
-        "second",
         "kiraware",
-        "mamahaha",
+        "keibo",
         "daini",
-        "jinsei"
+        "jinsei",
+        "hajimemasu",
+        "kiraware",
+        "keibo",
+        "daini"
       ],
       "descriptionTerms": [
         "were",
@@ -217,9 +243,10 @@
         "enduring"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.68
+    "confidence": 0.72
   }
 }
