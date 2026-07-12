@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Peanut Diary Special",
-  "mangabaka_title": "Peanut Diary Special",
+  "mangabaka_title": "Ttangkongilgi Special",
   "native_title": "땅콩일기 스페셜",
-  "romanized_title": null,
+  "romanized_title": "Ttangkongilgi Special",
   "titles": [
     {
       "language": "ko",
       "title": "땅콩일기 스페셜",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,26 +22,35 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ttangkongilgi Special",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69521641), [Daum](https://webtoon.kakao.com/content/%EB%95%85%EC%BD%A9%EC%9D%BC%EA%B8%B0-%EC%8A%A4%ED%8E%98%EC%85%9C/4886)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwOTU5LmpwZw",
+  "description": "*\"The pure, smooth pebbles of life. You have to hold them tightly in your hands.\"*\n\n“Peanut Diary,” an illustrated essay by Jeong Jji, an artist who writes and draws from the heart. The joys and sorrows, anxieties and consolations encountered as the seasons pass. The story of Peanut, who lives each day even with a fragile heart, discovers moments in life as pure as pebbles even amidst sorrow, and believes that tomorrow will surely be better. Yet these are records of everyday life that mirror our own where we want to lie down at the slightest chance, and live by laughing and crying over the little things.\n\n\"Peanut Diary Special\" brings together the episodes most beloved by readers. We invite you into Peanut’s world, filled with solid sincerity, delightful humor, empathy, and warmth!\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk5Ny13eXJaeWhRVHg3cnEucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-03T16:25:21.092Z",
-  "mangabaka_latest_rank": 69,
-  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
+  "last_updated_at": "2026-07-11T09:06:07.566Z",
+  "mangabaka_latest_rank": 75,
+  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
   "authors": [
     "Jjeongjji"
   ],
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213997,
+      "rating": null,
+      "url": "https://anilist.co/manga/213997"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "186ffb3",
@@ -61,7 +76,8 @@
   },
   "tag_ids": [
     8,
-    7
+    7,
+    57
   ],
   "stats": {
     "popularity": null,
@@ -69,9 +85,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.608,
+    "popularityPercentile": 0.1665,
+    "fanFavouriteDiscoveryScore": 5.0804,
+    "fanFavouriteDiscoveryPercentile": 0.1665
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -87,7 +105,9 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [],
       "tone": [
         "warm"
@@ -102,34 +122,76 @@
       "peanut",
       "diary",
       "special",
-      "original",
-      "webtoon",
-      "kakaopage",
-      "daum"
+      "ttangkongilgi",
+      "pure",
+      "smooth",
+      "pebbles",
+      "hold",
+      "tightly",
+      "your",
+      "hands",
+      "illustrated",
+      "essay",
+      "jeong",
+      "jji",
+      "artist",
+      "writes",
+      "draws",
+      "heart",
+      "joys",
+      "sorrows",
+      "anxieties",
+      "consolations",
+      "encountered",
+      "seasons",
+      "pass"
     ],
     "evidence": {
       "tags": [
         "Seinen",
-        "Slice of Life"
+        "Slice of Life",
+        "Full Color"
       ],
       "titleTerms": [
         "peanut",
         "diary",
         "special",
-        "peanut",
-        "diary",
+        "ttangkongilgi",
+        "special",
+        "ttangkongilgi",
         "special"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "kakaopage",
-        "daum"
+        "pure",
+        "smooth",
+        "pebbles",
+        "hold",
+        "tightly",
+        "your",
+        "hands",
+        "peanut",
+        "diary",
+        "illustrated",
+        "essay",
+        "jeong",
+        "jji",
+        "artist",
+        "writes",
+        "draws",
+        "heart",
+        "joys",
+        "sorrows",
+        "anxieties",
+        "consolations",
+        "encountered",
+        "seasons",
+        "pass"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.38
   }
 }

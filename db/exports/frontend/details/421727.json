@@ -2,8 +2,8 @@
   "id": 421727,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Heavy Rain Advisory",
-  "mangabaka_title": "Kang-U Juuibo",
+  "display_title": "The Kangwoo Effect",
+  "mangabaka_title": "The Kangwoo Effect",
   "native_title": "강우주의보",
   "romanized_title": "Gang-Woo Juuibo",
   "titles": [
@@ -34,7 +34,7 @@
       "language": "en",
       "title": "Heavy Rain Advisory",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -56,14 +56,16 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "The Kangwoo Effect",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "In the eight years since he disappeared, Choi Kang-Woo has become a notorious gangster in the neighborhood. That cold and scary Choi Kang-Woo still likes me.\n\n(Source: Ridibooks, translated)",
+  "description": "After 8 years in Seoul, San-Deul returns home and agrees to mentor a former student—only to find that Kang-Woo is no longer the innocent kid he remembers. Yet somewhere beneath the surface, Kang-Woo's soft spot for San-Deul never quite faded, and what begins as mentorship slowly becomes something more.\n\n(Source: Manta)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE5OTEyMy03QlpuM3B3TDlkQkYucG5n",
   "total_chapters": "30",
   "status": "completed",
@@ -78,9 +80,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-10T14:17:54.564Z",
-  "mangabaka_latest_rank": 2444,
-  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
+  "last_updated_at": "2026-07-11T14:25:03.130Z",
+  "mangabaka_latest_rank": 2450,
+  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
   "authors": [
     "Salwon"
   ],
@@ -89,7 +91,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/421727",
-    "read_en": null
+    "read_en": "https://manta.net/en/series/the-kangwoo-effect-full-ver?seriesId=4577"
   },
   "source": {
     "anilist": {
@@ -122,26 +124,32 @@
     428
   ],
   "stats": {
-    "popularity": 182,
+    "popularity": 184,
     "favourites": 1,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 0.5495,
-    "fanRatioPercentile": 34.5143,
-    "popularityPercentile": 50.458,
-    "fanFavouriteDiscoveryScore": 31.987,
-    "fanFavouriteDiscoveryPercentile": 34.802
+    "fanFavouriteRaw": 0.5435,
+    "fanRatioPercentile": 34.4381,
+    "popularityPercentile": 50.6697,
+    "fanFavouriteDiscoveryScore": 31.9573,
+    "fanFavouriteDiscoveryPercentile": 34.7711
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
-      "romance-core"
+      "modern-korea",
+      "regression-return",
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -160,30 +168,34 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
-      "heavy",
-      "rain",
-      "advisory",
-      "kang-u",
-      "juuibo",
+      "kangwoo",
+      "effect",
       "gang-woo",
-      "eight",
+      "juuibo",
       "years",
-      "since",
-      "disappeared",
-      "choi",
+      "seoul",
+      "san-deul",
+      "returns",
+      "home",
+      "agrees",
+      "mentor",
+      "former",
+      "student",
+      "find",
       "kang-woo",
-      "become",
-      "notorious",
-      "gangster",
-      "neighborhood",
-      "cold",
-      "scary",
-      "still",
-      "likes",
-      "ridibooks",
-      "translated"
+      "longer",
+      "innocent",
+      "kid",
+      "remembers",
+      "yet",
+      "somewhere",
+      "beneath",
+      "surface",
+      "soft",
+      "spot",
+      "never"
     ],
     "evidence": {
       "tags": [
@@ -200,40 +212,46 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "heavy",
-        "rain",
-        "advisory",
-        "kang-u",
-        "juuibo",
+        "kangwoo",
+        "effect",
+        "kangwoo",
+        "effect",
         "gang-woo",
         "juuibo"
       ],
       "descriptionTerms": [
-        "eight",
         "years",
-        "since",
-        "disappeared",
-        "choi",
+        "seoul",
+        "san-deul",
+        "returns",
+        "home",
+        "agrees",
+        "mentor",
+        "former",
+        "student",
+        "find",
         "kang-woo",
-        "become",
-        "notorious",
-        "gangster",
-        "neighborhood",
-        "cold",
-        "scary",
-        "choi",
+        "longer",
+        "innocent",
+        "kid",
+        "remembers",
+        "yet",
+        "somewhere",
+        "beneath",
+        "surface",
         "kang-woo",
-        "still",
-        "likes",
-        "ridibooks",
-        "translated"
+        "soft",
+        "spot",
+        "san-deul",
+        "never"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.67
   }
 }

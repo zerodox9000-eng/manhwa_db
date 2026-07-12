@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Mermaid Tales",
-  "mangabaka_title": "Mermaid Tales",
+  "mangabaka_title": "Ineogidam",
   "native_title": "인어기담",
-  "romanized_title": null,
+  "romanized_title": "Ineogidam",
   "titles": [
     {
       "language": "ko",
       "title": "인어기담",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ineogidam",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,36 +33,40 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**     \n[KakaoPage](https://page.kakao.com/content/69515183), [Daum](https://webtoon.kakao.com/content/%EC%9D%B8%EC%96%B4%EA%B8%B0%EB%8B%B4/4883)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwODU2LmpwZw",
+  "description": "I’m changing. Wasn’t mermaid meat supposed to be the elixir of immortality? \n\nIn the late Goryeo period, as a noble girl fled from war, the moment she ate mermaid meat to survive, the fates of her twin sister, the villagers where she had newly settled, and a man she came to believe was her destined partner were swept into a turbulent whirlwind… \n\nA girl’s passionate obsession clashes with a man’s burning desire for revenge!\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk5Ni13NmtvRzdCMGxMRzEucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-01T05:20:54.515Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-07T18:36:22.148Z",
-  "mangabaka_latest_rank": 78,
-  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
+  "last_updated_at": "2026-07-11T09:06:07.489Z",
+  "mangabaka_latest_rank": 84,
+  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
   "authors": [
-    "Jellybeans"
+    "Jelly Bean"
   ],
   "artists": [
-    "Jellybeans"
+    "Jelly Bean"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595492",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213996,
+      "rating": null,
+      "url": "https://anilist.co/manga/213996"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ztjts8b",
@@ -61,17 +76,26 @@
   },
   "tag_ids": [
     43,
-    36
+    59,
+    36,
+    512,
+    31,
+    227,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.608,
+    "popularityPercentile": 0.8702,
+    "fanFavouriteDiscoveryScore": 5.3355,
+    "fanFavouriteDiscoveryPercentile": 0.8248
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -87,9 +111,13 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "revenge"
+      ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "tense"
+      ],
       "worldType": [
         "fantasy-world"
       ],
@@ -101,32 +129,78 @@
     "searchKeywords": [
       "mermaid",
       "tales",
-      "original",
-      "webtoon",
-      "kakaopage",
-      "daum"
+      "ineogidam",
+      "changing",
+      "wasn",
+      "meat",
+      "supposed",
+      "elixir",
+      "immortality",
+      "late",
+      "goryeo",
+      "period",
+      "noble",
+      "girl",
+      "fled",
+      "war",
+      "moment",
+      "ate",
+      "survive",
+      "fates",
+      "twin",
+      "sister",
+      "villagers",
+      "newly"
     ],
     "evidence": {
       "tags": [
         "Josei",
-        "Fantasy"
+        "Female Lead",
+        "Fantasy",
+        "Mermaid",
+        "Drama",
+        "Revenge",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "mermaid",
         "tales",
-        "mermaid",
-        "tales"
+        "ineogidam",
+        "ineogidam"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "kakaopage",
-        "daum"
+        "changing",
+        "wasn",
+        "mermaid",
+        "meat",
+        "supposed",
+        "elixir",
+        "immortality",
+        "late",
+        "goryeo",
+        "period",
+        "noble",
+        "girl",
+        "fled",
+        "war",
+        "moment",
+        "ate",
+        "mermaid",
+        "meat",
+        "survive",
+        "fates",
+        "twin",
+        "sister",
+        "villagers",
+        "newly"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.44
   }
 }

@@ -17,6 +17,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Black Ops",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Black Ops",
       "traits": [
@@ -41,9 +48,9 @@
   },
   "first_seen_at": "2026-07-11T04:06:32.456Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-10T19:00:30.440Z",
-  "mangabaka_latest_rank": 2,
-  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
+  "last_updated_at": "2026-07-11T19:01:27.585Z",
+  "mangabaka_latest_rank": 8,
+  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
   "authors": [
     "Jin-U Sin"
   ],
@@ -64,19 +71,24 @@
     "mangaupdates": null
   },
   "tag_ids": [
-    39
+    159,
+    39,
+    230,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6375,
-    "popularityPercentile": 0.1968,
-    "fanFavouriteDiscoveryScore": 5.096,
-    "fanFavouriteDiscoveryPercentile": 0.1968
+    "fanRatioPercentile": 31.608,
+    "popularityPercentile": 5.3046,
+    "fanFavouriteDiscoveryScore": 7.179,
+    "fanFavouriteDiscoveryPercentile": 4.8505
   },
   "context": {
     "primaryProfile": null,
@@ -103,7 +115,12 @@
     ],
     "evidence": {
       "tags": [
-        "Action"
+        "Adult Cast",
+        "Action",
+        "Military",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "black",
@@ -118,6 +135,6 @@
         "anilist"
       ]
     },
-    "confidence": 0.29
+    "confidence": 0.34
   }
 }

@@ -80,9 +80,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.147Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-09T20:17:22.488Z",
+  "last_updated_at": "2026-07-11T20:20:46.409Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-11T04:22:52.443Z",
+  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
   "authors": [
     "Moscareto",
     "Pyeonbaengnamusup"
@@ -114,19 +114,32 @@
   "tag_ids": [
     521,
     2511,
+    1955,
+    75,
     74,
+    848,
+    2030,
     46,
     14,
     15,
     41,
     180,
+    1947,
     16,
+    228,
+    1020,
     31,
     32,
+    237,
     9,
+    7,
+    282,
+    994,
     93,
     57,
-    428
+    428,
+    1128,
+    2058
   ],
   "stats": {
     "popularity": 258,
@@ -135,21 +148,24 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.3876,
-    "fanRatioPercentile": 32.6141,
-    "popularityPercentile": 57.2716,
-    "fanFavouriteDiscoveryScore": 31.2162,
-    "fanFavouriteDiscoveryPercentile": 33.2955
+    "fanRatioPercentile": 32.5918,
+    "popularityPercentile": 57.2607,
+    "fanFavouriteDiscoveryScore": 31.1936,
+    "fanFavouriteDiscoveryPercentile": 33.2804
   },
   "context": {
-    "primaryProfile": "regression-return",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [
         "system-player"
       ],
@@ -160,6 +176,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "dark",
         "warm"
       ],
       "worldType": [
@@ -169,7 +186,7 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "regression-return",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "card",
       "shark",
@@ -202,19 +219,32 @@
       "tags": [
         "Gambling",
         "Poker",
+        "Prodigy",
+        "Based on a Novel",
         "Based on a Web Novel",
+        "Family Drama",
+        "Gangster",
         "Adult",
         "Erotica",
         "Mature",
         "Smut",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
+        "Cohabitation",
+        "Debts",
         "Drama",
         "Mystery",
+        "Orphans",
         "Romance",
+        "Slice of Life",
+        "Family Life",
+        "Traumatic Past",
         "Longstrip",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "card",
@@ -256,6 +286,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.73
   }
 }
