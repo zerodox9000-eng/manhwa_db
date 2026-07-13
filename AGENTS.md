@@ -38,7 +38,7 @@ Update parent docs when parent-level structure, ownership, workflow, or child in
 
 ## Project Contract
 
-- This repo is the backend database and export pipeline for the frontend PWA in sibling repo `C:\Users\japne\OneDrive\Documents\MANHWA CODEX 1`.
+- This repo is the backend database and export pipeline for the frontend PWA in sibling repo `MANHWA CODEX 1`.
 - Frontend-consumable files must be published under `db/exports/frontend/`.
 - The frontend must not depend on backend raw, processed, enrichment, cache, or state files.
 - GitHub is the source of truth when syncing local backend state unless the user says otherwise.
