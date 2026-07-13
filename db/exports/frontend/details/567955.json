@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-11T15:26:27.510Z",
-  "mangabaka_latest_rank": 1600,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-12T15:47:20.235Z",
+  "mangabaka_latest_rank": 1601,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Hyeyeon",
     "O-Rot Park",
@@ -105,35 +105,56 @@
   },
   "tag_ids": [
     43,
+    683,
+    2123,
+    902,
+    2438,
+    75,
     74,
+    405,
+    854,
+    257,
+    848,
     108,
+    450,
     36,
+    1079,
     31,
     9,
+    7,
+    282,
     45,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 848,
+    "popularity": 851,
     "favourites": 20,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 2.3585,
-    "fanRatioPercentile": 77.5709,
-    "popularityPercentile": 78.479,
-    "fanFavouriteDiscoveryScore": 76.9821,
-    "fanFavouriteDiscoveryPercentile": 84.4419
+    "fanFavouriteRaw": 2.3502,
+    "fanRatioPercentile": 77.434,
+    "popularityPercentile": 78.5385,
+    "fanFavouriteDiscoveryScore": 76.8491,
+    "fanFavouriteDiscoveryPercentile": 84.3634
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
+      "euro-fantasy",
+      "euro-romance",
+      "modern-workplace",
+      "office-romance",
       "romance-core",
       "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression",
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -156,7 +177,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "business-career-regression / school",
     "searchKeywords": [
       "butterfly",
       "through",
@@ -191,11 +212,24 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Blonde-Haired Male Lead",
+        "Independent Female Lead",
+        "Hard-Working Protagonist",
+        "Playboy Male Lead",
+        "Based on a Novel",
         "Based on a Web Novel",
+        "Europe",
+        "Academy",
+        "College",
+        "Family Drama",
         "Heterosexual",
+        "European Ambience",
         "Fantasy",
+        "Abuse",
         "Drama",
         "Romance",
+        "Slice of Life",
+        "Family Life",
         "Historical",
         "Longstrip",
         "Full Color",
@@ -245,6 +279,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.52
+    "confidence": 1
   }
 }

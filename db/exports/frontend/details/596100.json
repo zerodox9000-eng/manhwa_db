@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Affairs of That Noble Family's Brothers",
-  "mangabaka_title": "The Affairs of That Noble Family's Brothers",
+  "mangabaka_title": "Geu Gwijokga Hyeongjedeurui Sajeong",
   "native_title": "그 귀족가 형제들의 사정",
-  "romanized_title": null,
+  "romanized_title": "Geu Gwijokga Hyeongjedeurui Sajeong",
   "titles": [
     {
       "language": "ko",
       "title": "그 귀족가 형제들의 사정",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geu Gwijokga Hyeongjedeurui Sajeong",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,7 +34,7 @@
     },
     {
       "language": "en",
-      "title": "The Circumstances of those Noble Brothers",
+      "title": "The Circumstances of Those Noble Brothers",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -43,7 +54,7 @@
       "note": null
     }
   ],
-  "description": "**Note: This work contains violence, coercive relationships, and drugs. Viewer discretion is advised.**\n\nRaised as the only beta in a family of dominant alphas, one sibling longs for the affection that always feels just out of reach.\n\nBut beneath years of strained family ties lies an obsessive, forbidden desire, as hidden fixations surface, the illusion of family shatters, exposing a dark struggle of possession, manipulation, and twisted love.\n\n---\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/2336002816), [Bomtoon](https://www.bomtoon.com/detail/aristocratic_e), [MrBlue](https://www.mrblue.com/novel/E000105256), [Bookcube](https://www.bookcube.com/detail.asp?series_num=919022415)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/aristocratic), [Joara](https://www.joara.com/book/1406723)\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/4946000484)",
+  "description": "Raised as the only beta in a family of dominant alphas, one sibling longs for the affection that always feels just out of reach.\n\nBut beneath years of strained family ties lies an obsessive, forbidden desire, as hidden fixations surface, the illusion of family shatters, exposing a dark struggle of possession, manipulation, and twisted love.\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/2336002816), [Bomtoon](https://www.bomtoon.com/detail/aristocratic_e), [MrBlue](https://www.mrblue.com/novel/E000105256), [Bookcube](https://www.bookcube.com/detail.asp?series_num=919022415)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/aristocratic), [Joara](https://www.joara.com/book/1406723)\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/4946000484)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2QvYi9jL2UvZC9jL2YvMjg1NC80ZWZlLzkwYTEvNjE2MDVkZWQwNGI1",
   "total_chapters": "12",
   "status": "releasing",
@@ -58,26 +69,30 @@
   },
   "first_seen_at": "2026-07-09T04:46:13.898Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-11T21:38:00.445Z",
-  "mangabaka_latest_rank": 16,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-12T21:55:32.952Z",
+  "mangabaka_latest_rank": 18,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
-    "Jeyuk Hunter",
+    "Jeyukeonteo",
     "Monagloria"
   ],
   "artists": [
-    "Gongil"
+    "Il Gong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596100",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214038,
+      "rating": null,
+      "url": "https://anilist.co/manga/214038"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qbxywpa",
-      "rating": 62,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/qbxywpa"
     }
   },
@@ -94,13 +109,17 @@
     15,
     41,
     95,
+    180,
     16,
     31,
     699,
     127,
     18,
     226,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -108,22 +127,22 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.606,
+    "popularityPercentile": 0.174,
+    "fanFavouriteDiscoveryScore": 5.0828,
+    "fanFavouriteDiscoveryPercentile": 0.174
   },
   "context": {
-    "primaryProfile": "game-system",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "game-system",
       "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
-      "euro-fantasy",
-      "game-system"
+      "euro-fantasy"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -148,22 +167,16 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "game-system / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "affairs",
       "noble",
       "family",
       "brothers",
-      "note",
-      "work",
-      "contains",
-      "violence",
-      "coercive",
-      "relationships",
-      "drugs",
-      "viewer",
-      "discretion",
-      "advised",
+      "geu",
+      "gwijokga",
+      "hyeongjedeurui",
+      "sajeong",
       "raised",
       "beta",
       "dominant",
@@ -176,7 +189,16 @@
       "reach",
       "beneath",
       "years",
-      "strained"
+      "strained",
+      "ties",
+      "lies",
+      "obsessive",
+      "forbidden",
+      "desire",
+      "hidden",
+      "fixations",
+      "surface",
+      "illusion"
     ],
     "evidence": {
       "tags": [
@@ -192,35 +214,33 @@
         "Mature",
         "Smut",
         "Rape",
+        "Boys Love",
         "Yaoi",
         "Drama",
         "Forbidden Love",
         "Nobility",
         "Psychological",
         "Unrequited Love",
-        "Historical"
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "affairs",
         "noble",
         "family",
         "brothers",
-        "affairs",
-        "noble",
-        "family",
-        "brothers"
+        "geu",
+        "gwijokga",
+        "hyeongjedeurui",
+        "sajeong",
+        "geu",
+        "gwijokga",
+        "hyeongjedeurui",
+        "sajeong"
       ],
       "descriptionTerms": [
-        "note",
-        "work",
-        "contains",
-        "violence",
-        "coercive",
-        "relationships",
-        "drugs",
-        "viewer",
-        "discretion",
-        "advised",
         "raised",
         "beta",
         "family",
@@ -234,12 +254,23 @@
         "reach",
         "beneath",
         "years",
-        "strained"
+        "strained",
+        "family",
+        "ties",
+        "lies",
+        "obsessive",
+        "forbidden",
+        "desire",
+        "hidden",
+        "fixations",
+        "surface",
+        "illusion"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 1
+    "confidence": 0.88
   }
 }

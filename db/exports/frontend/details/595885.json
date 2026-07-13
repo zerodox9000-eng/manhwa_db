@@ -2,57 +2,72 @@
   "id": 595885,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Spring Dancing With a Drunken Shadow",
-  "mangabaka_title": "Spring Dancing With a Drunken Shadow",
+  "display_title": "Spring Dancing with a Drunken Shadow",
+  "mangabaka_title": "Chwihan Geurimjawa Chumchuneun Bom",
   "native_title": "취한 그림자와 춤추는 봄",
-  "romanized_title": null,
+  "romanized_title": "Chwihan Geurimjawa Chumchuneun Bom",
   "titles": [
     {
       "language": "ko",
       "title": "취한 그림자와 춤추는 봄",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Chwihan Geurimjawa Chumchuneun Bom",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
-      "title": "Spring Dancing With a Drunken Shadow",
+      "title": "Spring Dancing with a Drunken Shadow",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**     \n[Ridibooks](https://ridibooks.com/books/297090321)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMzgxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDAzNi1sOGVCdU0yOXBhQTYuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-07T04:47:25.909Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-11T07:10:39.418Z",
-  "mangabaka_latest_rank": 31,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-12T20:06:53.672Z",
+  "mangabaka_latest_rank": 33,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Gwendolyn",
-    "Nayang"
+    "Na-Yang"
   ],
   "artists": [
-    "Mulyeob"
+    "MuRyeop"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595885",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214036,
+      "rating": null,
+      "url": "https://anilist.co/manga/214036"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "vaw72qa",
@@ -63,9 +78,12 @@
   "tag_ids": [
     36,
     46,
+    180,
     16,
     31,
-    45
+    9,
+    45,
+    57
   ],
   "stats": {
     "popularity": null,
@@ -73,14 +91,17 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.606,
+    "popularityPercentile": 0.174,
+    "fanFavouriteDiscoveryScore": 5.0828,
+    "fanFavouriteDiscoveryPercentile": 0.174
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -93,11 +114,13 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [
         "fantasy-world"
       ],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -107,6 +130,10 @@
       "dancing",
       "drunken",
       "shadow",
+      "chwihan",
+      "geurimjawa",
+      "chumchuneun",
+      "bom",
       "original",
       "webtoon",
       "ridibooks"
@@ -115,19 +142,26 @@
       "tags": [
         "Fantasy",
         "Adult",
+        "Boys Love",
         "Yaoi",
         "Drama",
-        "Historical"
+        "Romance",
+        "Historical",
+        "Full Color"
       ],
       "titleTerms": [
         "spring",
         "dancing",
         "drunken",
         "shadow",
-        "spring",
-        "dancing",
-        "drunken",
-        "shadow"
+        "chwihan",
+        "geurimjawa",
+        "chumchuneun",
+        "bom",
+        "chwihan",
+        "geurimjawa",
+        "chumchuneun",
+        "bom"
       ],
       "descriptionTerms": [
         "original",
@@ -135,9 +169,10 @@
         "ridibooks"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.5
   }
 }

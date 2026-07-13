@@ -78,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.822Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-11T13:00:39.301Z",
+  "last_updated_at": "2026-07-12T18:43:45.111Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Awesome"
   ],
@@ -104,7 +104,7 @@
     },
     "mangaupdates": {
       "id": "0ajgt22",
-      "rating": 68,
+      "rating": 69,
       "url": "https://www.mangaupdates.com/series/0ajgt22"
     }
   },
@@ -112,14 +112,19 @@
     1856,
     1581,
     2411,
+    2752,
+    257,
     896,
+    880,
     1571,
+    1118,
     118,
     46,
     14,
     15,
     41,
     180,
+    1947,
     16,
     31,
     29,
@@ -132,21 +137,23 @@
     428
   ],
   "stats": {
-    "popularity": 263,
+    "popularity": 264,
     "favourites": 1,
     "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 0.3802,
-    "fanRatioPercentile": 32.5312,
-    "popularityPercentile": 57.6239,
-    "fanFavouriteDiscoveryScore": 31.1755,
-    "fanFavouriteDiscoveryPercentile": 33.2198
+    "fanFavouriteRaw": 0.3788,
+    "fanRatioPercentile": 32.5365,
+    "popularityPercentile": 57.6746,
+    "fanFavouriteDiscoveryScore": 31.1861,
+    "fanFavouriteDiscoveryPercentile": 33.24
   },
   "context": {
     "primaryProfile": "sports-career",
     "profileGroups": [
+      "modern-korea",
       "romance-core",
+      "school-life",
       "sports-career"
     ],
     "primaryAnchors": [
@@ -154,7 +161,10 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [
         "sports"
@@ -176,7 +186,7 @@
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "sports-career / system",
+    "semanticSummary": "sports-career / modern-korea / school / system",
     "searchKeywords": [
       "fight",
       "club",
@@ -208,14 +218,19 @@
         "Hand to Hand Combat",
         "Short Uke",
         "Calm Male Lead",
+        "Sexually Insatiable Seme",
+        "College",
         "Rivals Become Lovers",
+        "Older Uke Younger Seme",
         "Height Gap",
+        "Sex Friends",
         "Omegaverse",
         "Adult",
         "Erotica",
         "Mature",
         "Smut",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
         "Martial Arts",
@@ -268,6 +283,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.72
+    "confidence": 0.89
   }
 }

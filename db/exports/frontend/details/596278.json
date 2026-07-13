@@ -2,7 +2,7 @@
   "id": 596278,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Tallio Beopchik",
+  "display_title": "Lex Talionis",
   "mangabaka_title": "Tallio Beopchik",
   "native_title": "탈리오 법칙",
   "romanized_title": "Tallio Beopchik",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Lex Talionis",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -41,9 +48,9 @@
   },
   "first_seen_at": "2026-07-12T04:22:02.555Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-11T09:01:08.356Z",
-  "mangabaka_latest_rank": 6,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-12T10:50:18.179Z",
+  "mangabaka_latest_rank": 8,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Heukseol"
   ],
@@ -61,7 +68,11 @@
       "url": "https://anilist.co/manga/213968"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "63cpha0",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/63cpha0"
+    }
   },
   "tag_ids": [
     109,
@@ -77,10 +88,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.608,
-    "popularityPercentile": 2.8528,
-    "fanFavouriteDiscoveryScore": 6.1087,
-    "fanFavouriteDiscoveryPercentile": 2.6258
+    "fanRatioPercentile": 31.606,
+    "popularityPercentile": 2.8368,
+    "fanFavouriteDiscoveryScore": 6.1018,
+    "fanFavouriteDiscoveryPercentile": 2.6174
   },
   "context": {
     "primaryProfile": null,
@@ -102,6 +113,8 @@
     },
     "semanticSummary": "",
     "searchKeywords": [
+      "lex",
+      "talionis",
       "tallio",
       "beopchik"
     ],
@@ -114,8 +127,8 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "tallio",
-        "beopchik",
+        "lex",
+        "talionis",
         "tallio",
         "beopchik",
         "tallio",
@@ -123,7 +136,8 @@
       ],
       "descriptionTerms": [],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
     "confidence": 0.33

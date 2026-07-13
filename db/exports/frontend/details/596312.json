@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "God of Wine (Seong-Hye)",
   "mangabaka_title": "God of Wine (Seong-Hye)",
-  "native_title": null,
+  "native_title": "와인의 신",
   "romanized_title": "God of Wine (Seong-Hye)",
   "titles": [
     {
@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852403), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14420436)",
+  "description": "After living a life full of regret as a renowned agricultural PhD, Choi Woo-seok opens his eyes to find himself back in his high school days in California's Napa Valley. Facing a once-thriving vineyard now ruined by drought and pests, he decides to risk everything by taking over the failing farm.\nArmed with his future knowledge and expertise, he embarks on a challenging journey to revive the land, master the art of winemaking, and climb his way to the pinnacle of the wine industry — becoming the God of Wine.\nA realistic drama centered on farming, business management, and the world of fine wine, with no magic or cheats — only hard work, strategy, and passion.\n\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852403), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14420436)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxODU3LnBuZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-07-12T04:22:02.555Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-11T17:26:44.662Z",
-  "mangabaka_latest_rank": 2,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-12T17:46:43.354Z",
+  "mangabaka_latest_rank": 4,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Seong Hye"
   ],
@@ -60,8 +60,15 @@
     }
   },
   "tag_ids": [
+    8,
+    107,
     36,
-    31
+    15,
+    31,
+    18,
+    9,
+    7,
+    42
   ],
   "stats": {
     "popularity": null,
@@ -74,43 +81,86 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "business-career",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "korean-business",
+      "modern-korea",
+      "romance-core",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "school"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
-      "conflictType": [],
-      "progressionType": [],
-      "tone": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
+      "tone": [
+        "dark",
+        "warm"
+      ],
       "worldType": [
         "fantasy-world"
       ],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "business-career / modern-korea / school",
     "searchKeywords": [
       "god",
       "wine",
       "seong-hye",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "living",
+      "full",
+      "regret",
+      "renowned",
+      "agricultural",
+      "phd",
+      "choi",
+      "woo-seok",
+      "opens",
+      "eyes",
+      "find",
+      "himself",
+      "high",
+      "school",
+      "days",
+      "california",
+      "napa",
+      "valley",
+      "facing",
+      "once-thriving",
+      "vineyard",
+      "ruined",
+      "drought",
+      "pests"
     ],
     "evidence": {
       "tags": [
+        "Seinen",
+        "School",
         "Fantasy",
-        "Drama"
+        "Mature",
+        "Drama",
+        "Psychological",
+        "Romance",
+        "Slice of Life",
+        "School Life"
       ],
       "titleTerms": [
         "god",
@@ -124,17 +174,35 @@
         "seong-hye"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "living",
+        "full",
+        "regret",
+        "renowned",
+        "agricultural",
+        "phd",
+        "choi",
+        "woo-seok",
+        "opens",
+        "eyes",
+        "find",
+        "himself",
+        "high",
+        "school",
+        "days",
+        "california",
+        "napa",
+        "valley",
+        "facing",
+        "once-thriving",
+        "vineyard",
+        "ruined",
+        "drought",
+        "pests"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.81
   }
 }

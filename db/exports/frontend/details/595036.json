@@ -76,9 +76,9 @@
   },
   "first_seen_at": "2026-06-28T08:09:06.071Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-11T18:31:29.456Z",
-  "mangabaka_latest_rank": 117,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-13T00:03:14.620Z",
+  "mangabaka_latest_rank": 119,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Wanana"
   ],
@@ -104,24 +104,28 @@
   },
   "tag_ids": [
     38,
+    107,
     36,
     22,
     39,
+    31,
+    29,
+    42,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 134,
+    "popularity": 135,
     "favourites": 1,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 0.7463,
-    "fanRatioPercentile": 37.9417,
-    "popularityPercentile": 45.0019,
-    "fanFavouriteDiscoveryScore": 33.7411,
-    "fanFavouriteDiscoveryPercentile": 37.132
+    "fanFavouriteRaw": 0.7407,
+    "fanRatioPercentile": 37.8243,
+    "popularityPercentile": 45.132,
+    "fanFavouriteDiscoveryScore": 33.677,
+    "fanFavouriteDiscoveryPercentile": 37.0452
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -140,8 +144,12 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [],
-      "progressionType": [],
-      "tone": [],
+      "progressionType": [
+        "martial-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
       "worldType": [
         "fantasy-world"
       ],
@@ -178,9 +186,13 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "School",
         "Fantasy",
         "Supernatural",
         "Action",
+        "Drama",
+        "Martial Arts",
+        "School Life",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -218,6 +230,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.49
+    "confidence": 0.53
   }
 }

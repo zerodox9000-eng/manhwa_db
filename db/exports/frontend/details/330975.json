@@ -4,13 +4,15 @@
   "type": "manhwa",
   "display_title": "Run Like a Dog",
   "mangabaka_title": "Run Like a Dog",
-  "native_title": "狗狗末日生存法",
+  "native_title": "개같이 탈출",
   "romanized_title": null,
   "titles": [
     {
       "language": "ko",
       "title": "개같이 탈출",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -46,21 +48,21 @@
   "description": "\"Survive? I'm just a little Maltese!\"\n\nPpiyong was living a cozy, carefree life in a warm home with her loving sister—until one day, her family and all the humans suddenly disappeared. She's never done anything on her own before—will she find a way to survive in a city overrun by zombie dogs and reunite with her sister?\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=814594), [Naver Series](https://series.naver.com/comic/detail.series?productNo=10111737)\n\n**Official Translations:**  \n[S.Chinese](https://www.dongmanmanhua.cn/HEALING/gougoutaowangji/list?title_no=2870), [T.Chinese](https://www.webtoons.com/zh-hant/slice-of-life/run-like-a-dog/list?title_no=5922)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzcvYy84L2UvNy9lL2UvY2Q3Yi80ZWYxL2EyNzgvODRmMzdjZDI2MTAx",
   "total_chapters": "93",
-  "status": "completed",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
+    "start_date": "2023-08-27",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-09T21:39:13.155Z",
-  "mangabaka_latest_rank": 3888,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-12T10:50:30.394Z",
+  "mangabaka_latest_rank": 3889,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Gamja"
   ],
@@ -86,11 +88,13 @@
   },
   "tag_ids": [
     1,
+    342,
     37,
     31,
     44,
     18,
     7,
+    26,
     93,
     57,
     428
@@ -166,11 +170,13 @@
     "evidence": {
       "tags": [
         "Sci-Fi",
+        "Anthropomorphic",
         "Adventure",
         "Drama",
         "Horror",
         "Psychological",
         "Slice of Life",
+        "Suspense",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -212,6 +218,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.62
   }
 }

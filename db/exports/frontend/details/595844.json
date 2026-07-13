@@ -2,70 +2,85 @@
   "id": 595844,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Serim's 00",
-  "mangabaka_title": "Serim's 00",
-  "native_title": "세림의",
-  "romanized_title": "Serim's 00",
+  "display_title": "Serim-ui Cheolchik",
+  "mangabaka_title": "Se-Rim-ui Cheolchik",
+  "native_title": "세림의 철칙",
+  "romanized_title": "Se-Rim-ui Cheolchik",
   "titles": [
     {
       "language": "ko",
-      "title": "세림의",
+      "title": "세림의 철칙",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Serim's Golden Rule",
       "traits": [],
       "is_primary": false,
       "note": null
     },
     {
-      "language": "ko",
-      "title": "세림의 00",
+      "language": "en",
+      "title": "Serim’s Iron Rule",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Serim-ui Cheolchik",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Serim's 00",
-      "traits": [],
+      "title": "Se-Rim-ui Cheolchik",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "ko",
-      "title": "세림의 ㅁㅁ",
-      "traits": [],
-      "is_primary": false,
       "note": null
     }
   ],
-  "description": null,
-  "cover": null,
+  "description": "Everyone is terrified of Han Serim thanks to rumors that she’s a gangster. Golden boy Kang Seungwoo ends up paired with her for a mentor-mentee program. Ever the perfectionist, he tries to get close to Serim to ensure everything goes off without a hitch. But… what is her deal? A high-stakes romance between Han Serim, who lives like there’s no tomorrow, and Kang Seungwoo, who has his entire life perfectly mapped out.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDAyOS1hRXVwRWF6Uk1QdzkuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-12",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-06T05:06:36.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-10T15:49:51.278Z",
-  "mangabaka_latest_rank": 35,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-13T01:38:59.684Z",
+  "mangabaka_latest_rank": 37,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
-    "Seyoon"
+    "Seyun"
   ],
   "artists": [
-    "Suna (써나)"
+    "Sseona"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595844",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214029,
+      "rating": null,
+      "url": "https://anilist.co/manga/214029"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ynyf0tk",
@@ -76,8 +91,13 @@
   "tag_ids": [
     40,
     107,
+    108,
+    31,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -85,13 +105,16 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.606,
+    "popularityPercentile": 0.174,
+    "fanFavouriteDiscoveryScore": 5.0828,
+    "fanFavouriteDiscoveryPercentile": 0.174
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core",
       "school-life"
     ],
@@ -99,6 +122,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -116,27 +140,86 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
-      "serim"
+      "serim-ui",
+      "cheolchik",
+      "se-rim-ui",
+      "everyone",
+      "terrified",
+      "han",
+      "serim",
+      "thanks",
+      "rumors",
+      "gangster",
+      "golden",
+      "boy",
+      "kang",
+      "seungwoo",
+      "ends",
+      "paired",
+      "mentor-mentee",
+      "program",
+      "ever",
+      "perfectionist",
+      "tries",
+      "close",
+      "ensure",
+      "everything",
+      "goes",
+      "off"
     ],
     "evidence": {
       "tags": [
         "Shoujo",
         "School",
+        "Heterosexual",
+        "Drama",
         "Romance",
-        "School Life"
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "serim",
-        "serim",
-        "serim"
+        "serim-ui",
+        "cheolchik",
+        "se-rim-ui",
+        "cheolchik",
+        "se-rim-ui",
+        "cheolchik"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "everyone",
+        "terrified",
+        "han",
+        "serim",
+        "thanks",
+        "rumors",
+        "gangster",
+        "golden",
+        "boy",
+        "kang",
+        "seungwoo",
+        "ends",
+        "paired",
+        "mentor-mentee",
+        "program",
+        "ever",
+        "perfectionist",
+        "tries",
+        "close",
+        "serim",
+        "ensure",
+        "everything",
+        "goes",
+        "off"
+      ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.58
   }
 }

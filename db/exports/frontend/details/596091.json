@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69621590/), [Daum](https://webtoon.kakao.com/content/%EB%A9%9C%EB%A1%9C%ED%95%A9%EC%8B%9C%EB%8B%A4/4895)",
+  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69621590/), [Daum](https://webtoon.kakao.com/content/%EB%A9%9C%EB%A1%9C%ED%95%A9%EC%8B%9C%EB%8B%A4/4895)\n\nIn-Ui is a longtime fan of actor Young-Min. Following in his footsteps, he begins to dream of becoming an actor and gets accepted into the university where Young-Min will be an adjunct professor. As In-Ui begins to spend a dreamlike daily life with Young-Min, he gradually develops feelings for him and wants to become personally close to him. However, Young-Min already has a close colleague named Ji-Seop by his side, and In-Ui becomes increasingly tormented by jealousy toward Ji-Seop and his yearning for Young-Min...",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNjQ5LmpwZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,9 +37,9 @@
   },
   "first_seen_at": "2026-07-09T04:46:13.898Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-11T16:24:46.503Z",
-  "mangabaka_latest_rank": 20,
-  "mangabaka_latest_snapshot_at": "2026-07-12T04:38:02.399Z",
+  "last_updated_at": "2026-07-12T16:43:39.272Z",
+  "mangabaka_latest_rank": 22,
+  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
   "authors": [
     "Kim Cheom-Ji"
   ],
@@ -74,19 +74,24 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "showbiz-career",
     "profileGroups": [
       "modern-korea",
-      "romance-core"
+      "romance-core",
+      "showbiz-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "showbiz-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "showbiz"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
@@ -100,14 +105,30 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "showbiz-career / modern-korea",
     "searchKeywords": [
       "let",
       "melodrama",
       "original",
       "webtoon",
       "kakaopage",
-      "daum"
+      "daum",
+      "in-ui",
+      "longtime",
+      "fan",
+      "actor",
+      "young-min",
+      "following",
+      "footsteps",
+      "begins",
+      "dream",
+      "becoming",
+      "accepted",
+      "university",
+      "adjunct",
+      "professor",
+      "spend",
+      "dreamlike"
     ],
     "evidence": {
       "tags": [
@@ -126,12 +147,32 @@
         "original",
         "webtoon",
         "kakaopage",
-        "daum"
+        "daum",
+        "in-ui",
+        "longtime",
+        "fan",
+        "actor",
+        "young-min",
+        "following",
+        "footsteps",
+        "begins",
+        "dream",
+        "becoming",
+        "actor",
+        "accepted",
+        "university",
+        "young-min",
+        "adjunct",
+        "professor",
+        "in-ui",
+        "begins",
+        "spend",
+        "dreamlike"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.6
   }
 }
