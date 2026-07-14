@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/assets/aeon-icon.png" width="96" alt="Aeon app icon">
+  <img src="./docs/assets/aeon-round.png" width="160" alt="Aeon">
 </p>
 
 <h1 align="center">Aeon Catalogue</h1>
@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://zerodox9000-eng.github.io/Manhwa_pwa/"><img src="https://img.shields.io/badge/Open%20Aeon-00a9bd?style=for-the-badge" alt="Open Aeon"></a>
+  <a href="https://zerodox9000-eng.github.io/Manhwa_pwa/"><img src="https://img.shields.io/badge/Open%20App-00a9bd?style=flat-square" alt="Open app"></a>
+  <a href="https://github.com/zerodox9000-eng/manhwa_db"><img src="https://img.shields.io/badge/Source-20232a?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
+  <a href="https://www.reddit.com/u/ZERO_DOX/"><img src="https://img.shields.io/badge/Creator-ZERO__DOX-20232a?style=flat-square&logo=reddit&logoColor=white" alt="Creator profile"></a>
 </p>
 
 ## About
@@ -25,7 +27,7 @@ It provides:
 - Compact frontend releases prepared for Aeon's search, feeds, and title pages.
 
 <p align="center">
-  <img src="./docs/assets/aeon-home.jpg" width="220" alt="Aeon using the catalogue on Home">
+  <img src="./docs/assets/aeon-home.jpg" width="360" alt="Aeon using the catalogue on Home">
 </p>
 
 ## Updates
@@ -40,9 +42,14 @@ Fan Rank compares favourites with popularity, adjusts for confidence at differen
 
 ## Data sources
 
-- [MangaBaka](https://mangabaka.dev/) is the main source for catalogue records, covers, publication details, links, and tags.
-- [AniList](https://anilist.co/) supplies popularity, favourites, and score information for matched titles.
-- [MangaUpdates](https://www.mangaupdates.com/) and [Anime-Planet](https://www.anime-planet.com/) may be retained as reference links when available.
+<p>
+  <a href="https://mangabaka.dev/"><img src="https://img.shields.io/badge/MangaBaka-0b7285?style=flat-square" alt="MangaBaka"></a>
+  <a href="https://anilist.co/"><img src="https://img.shields.io/badge/AniList-2563eb?style=flat-square" alt="AniList"></a>
+  <a href="https://www.mangaupdates.com/"><img src="https://img.shields.io/badge/MangaUpdates-7c3aed?style=flat-square" alt="MangaUpdates"></a>
+  <a href="https://www.anime-planet.com/"><img src="https://img.shields.io/badge/Anime--Planet-e11d48?style=flat-square" alt="Anime-Planet"></a>
+</p>
+
+MangaBaka is the main source for catalogue records, covers, publication details, links, and tags. AniList supplies popularity, favourites, and score information for matched titles. MangaUpdates and Anime-Planet may be retained as reference links when available.
 
 Source data and artwork remain the property of their respective services, publishers, and creators.
 
