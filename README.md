@@ -1,83 +1,53 @@
-# MANGABAKA DB
+<p align="center">
+  <img src="./docs/assets/aeon-icon.png" width="96" alt="Aeon app icon">
+</p>
 
-Modern manhwa discovery database pipeline built around MangaBaka + AniList enrichment.
+<h1 align="center">Aeon Catalogue</h1>
 
-## Features
+<p align="center">
+  The catalogue and daily data pipeline used by Aeon.
+</p>
 
-- Modern manhwa focused dataset (2014+)
-- Year-partitioned raw collection
-- Normalized frontend-ready exports
-- AniList popularity/favourites/meanScore enrichment
-- Historical snapshot tracking
-- Adaptive fan-favourite discovery analytics
-- Static-hosting friendly architecture
-- GitHub Actions automation ready
-- Mobile-first frontend support
-- Gzip-compressed exports
+<p align="center">
+  <a href="https://zerodox9000-eng.github.io/Manhwa_pwa/"><img src="https://img.shields.io/badge/Open%20Aeon-00a9bd?style=for-the-badge" alt="Open Aeon"></a>
+</p>
 
----
+## About
 
-## Pipeline
+This repository collects, normalizes, validates, and publishes the data used by the [Aeon manhwa discovery app](https://github.com/zerodox9000-eng/Manhwa_pwa).
 
-Raw Fetch  
-→ Normalize  
-→ AniList Enrichment  
-→ Snapshot History  
-→ Analytics  
-→ Frontend Exports  
-→ Compression
+It provides:
 
----
+- Primary titles, aliases, creators, covers, publication details, and source links.
+- Genres, themes, detailed tags, content information, and tag hierarchy.
+- AniList popularity, favourites, and score information for matched titles.
+- Historical snapshots used by growth and recent-change feeds.
+- Compact frontend releases prepared for Aeon's search, feeds, and title pages.
 
-## Commands
+<p align="center">
+  <img src="./docs/assets/aeon-home.jpg" width="220" alt="Aeon using the catalogue on Home">
+</p>
 
-### Initial full fetch
+## Updates
 
-npm run fetch
+The catalogue is refreshed by a daily GitHub Actions pipeline. New and changed records are normalized, matched with available audience information, recorded in history, validated, and then published for Aeon.
 
-### Normalize data
+Frontend releases are stored under `db/exports/frontend/`. Raw collection files and pipeline state remain internal to this repository.
 
-npm run normalize
+## Fan Rank
 
-### AniList enrichment
+Fan Rank compares favourites with popularity, adjusts for confidence at different audience sizes, and ranks the result as a percentile across AniList-mapped manhwa with the required statistics.
 
-npm run enrich
+## Data sources
 
-### Retry failed enrichment batches
+- [MangaBaka](https://mangabaka.dev/) is the main source for catalogue records, covers, publication details, links, and tags.
+- [AniList](https://anilist.co/) supplies popularity, favourites, and score information for matched titles.
+- [MangaUpdates](https://www.mangaupdates.com/) and [Anime-Planet](https://www.anime-planet.com/) may be retained as reference links when available.
 
-npm run retry
+Source data and artwork remain the property of their respective services, publishers, and creators.
 
-### Create daily snapshot
+## Project
 
-npm run snapshot
+Aeon and its catalogue are open-source projects created and maintained by [ZERO_DOX](https://www.reddit.com/u/ZERO_DOX/).
 
-### Build frontend exports
-
-npm run build:frontend
-
-### Full daily pipeline
-
-npm run daily
-
----
-
-## Frontend
-
-Frontend should consume ONLY:
-
-db/exports/frontend/
-
-Everything else is backend/internal pipeline structure.
-
----
-
-## Notes For Agents
-
-Read [AGENTS.md](./AGENTS.md) before editing. This repo uses the DOX AGENTS.md hierarchy from `agent0ai/dox`; follow the nearest applicable child AGENTS.md for scripts, data, and workflow changes.
-
----
-
-## APIs
-
-- MangaBaka API
-- AniList GraphQL API
+Maintainer documentation is available in [PIPELINE.md](./PIPELINE.md), [FRONTEND_DATA.md](./FRONTEND_DATA.md), and [ARCHITECTURE.md](./ARCHITECTURE.md). Before editing, read [AGENTS.md](./AGENTS.md) and the closest child instructions for the affected area.

@@ -53,6 +53,8 @@ Update parent docs when parent-level structure, ownership, workflow, or child in
 - AniList enrichment, snapshots, and frontend export generation must stay internally consistent across years.
 - Keep generated data changes intentional; do not churn large exports for docs-only or instruction-only edits.
 - Keep docs concise, current, and operational. Document stable contracts, not diary entries.
+- Keep the root README focused on the Aeon catalogue and its public purpose. Put detailed pipeline commands and file contracts in maintainer documentation.
+- Avoid em dashes in public-facing copy; use ordinary punctuation.
 
 ## Verification
 
