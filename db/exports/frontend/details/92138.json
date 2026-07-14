@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.148Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-13T03:51:03.564Z",
-  "mangabaka_latest_rank": 8745,
-  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
+  "last_updated_at": "2026-07-14T03:53:42.169Z",
+  "mangabaka_latest_rank": 8749,
+  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
   "authors": [
     "Kunzoman"
   ],
@@ -117,6 +117,7 @@
     547,
     626,
     180,
+    1947,
     16,
     839,
     31,
@@ -130,26 +131,29 @@
     428
   ],
   "stats": {
-    "popularity": 225,
+    "popularity": 226,
     "favourites": 4,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7778,
-    "fanRatioPercentile": 65.2848,
-    "popularityPercentile": 54.7848,
-    "fanFavouriteDiscoveryScore": 61.8759,
-    "fanFavouriteDiscoveryPercentile": 70.0734
+    "fanFavouriteRaw": 1.7699,
+    "fanRatioPercentile": 65.1815,
+    "popularityPercentile": 54.826,
+    "fanFavouriteDiscoveryScore": 61.7891,
+    "fanFavouriteDiscoveryPercentile": 69.9395
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -168,7 +172,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "moonlit",
       "secrets",
@@ -223,6 +227,7 @@
         "Non-human",
         "Werewolves",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Child Abuse",
         "Drama",
@@ -276,6 +281,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.66
   }
 }

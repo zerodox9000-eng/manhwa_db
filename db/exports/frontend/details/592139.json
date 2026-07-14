@@ -17,6 +17,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Dogul-wang: End Line",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Dogurwang: End Line",
       "traits": [
@@ -76,9 +83,9 @@
   },
   "first_seen_at": "2026-06-25T04:58:12.454Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-12T22:23:48.564Z",
-  "mangabaka_latest_rank": 175,
-  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
+  "last_updated_at": "2026-07-13T22:25:21.582Z",
+  "mangabaka_latest_rank": 179,
+  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
   "authors": [
     "Sanjijiksong",
     "Yoonz"
@@ -107,9 +114,11 @@
     38,
     58,
     500,
+    249,
     36,
     642,
     259,
+    1,
     22,
     39,
     37,
@@ -122,22 +131,23 @@
     428
   ],
   "stats": {
-    "popularity": 763,
+    "popularity": 774,
     "favourites": 9,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1796,
-    "fanRatioPercentile": 48.8993,
-    "popularityPercentile": 76.8742,
-    "fanFavouriteDiscoveryScore": 48.4755,
-    "fanFavouriteDiscoveryPercentile": 57.1677
+    "fanFavouriteRaw": 1.1628,
+    "fanRatioPercentile": 48.5401,
+    "popularityPercentile": 77.118,
+    "fanFavouriteDiscoveryScore": 48.1278,
+    "fanFavouriteDiscoveryPercentile": 56.8381
   },
   "context": {
     "primaryProfile": "game-system",
     "profileGroups": [
       "game-system",
       "modern-korea",
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -151,6 +161,7 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
+        "regression",
         "hunter-system"
       ],
       "conflictType": [
@@ -171,7 +182,7 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "game-system / modern-korea / hunter-system",
+    "semanticSummary": "game-system / modern-korea / regression / hunter-system",
     "searchKeywords": [
       "tomb",
       "raider",
@@ -204,9 +215,11 @@
         "Shounen",
         "Male Lead",
         "Dungeon",
+        "Time Travel",
         "Fantasy",
         "Fantasy World",
         "Mythology",
+        "Sci-Fi",
         "Supernatural",
         "Action",
         "Adventure",
@@ -262,6 +275,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.74
+    "confidence": 0.83
   }
 }

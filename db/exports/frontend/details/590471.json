@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-12T11:55:20.893Z",
-  "mangabaka_latest_rank": 272,
-  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
+  "last_updated_at": "2026-07-13T11:55:38.818Z",
+  "mangabaka_latest_rank": 276,
+  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
   "authors": [
     "Ep"
   ],
@@ -89,6 +89,7 @@
     }
   },
   "tag_ids": [
+    172,
     755,
     46,
     180,
@@ -100,20 +101,21 @@
     428
   ],
   "stats": {
-    "popularity": 12,
+    "popularity": 13,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.606,
-    "popularityPercentile": 7.8977,
-    "fanFavouriteDiscoveryScore": 8.4473,
-    "fanFavouriteDiscoveryPercentile": 7.285
+    "fanRatioPercentile": 31.5431,
+    "popularityPercentile": 8.6914,
+    "fanFavouriteDiscoveryScore": 8.8453,
+    "fanFavouriteDiscoveryPercentile": 7.9501
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "regression-return",
     "profileGroups": [
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -135,7 +137,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "regression-return",
     "searchKeywords": [
       "ordinary",
       "family",
@@ -168,6 +170,7 @@
     ],
     "evidence": {
       "tags": [
+        "Time Skip",
         "Inseki",
         "Adult",
         "Boys Love",
@@ -219,6 +222,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.52
   }
 }

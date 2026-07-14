@@ -27,10 +27,17 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Nhà Tù Craneo",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "In the nation of San Romeria, where war with the gangs never seems to end, the protagonist, Nicol, is falsely accused and unjustly thrown into prison. He is incarcerated in Kraneo Prison, a newly built “slaughterhouse for criminals” created to contain the most notorious gang members. Life inside this hellish prison slowly eats away at Nicol, burying him deeper and deeper in guilt.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851854), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14332437)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMTY4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyMjM4LmpwZw",
   "total_chapters": null,
   "status": "unknown",
   "content_rating": "safe",
@@ -44,9 +51,9 @@
   },
   "first_seen_at": "2026-06-24T04:59:38.584Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-27T18:44:54.250Z",
-  "mangabaka_latest_rank": 208,
-  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
+  "last_updated_at": "2026-07-13T21:27:49.487Z",
+  "mangabaka_latest_rank": 212,
+  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
   "authors": [
     "Doma"
   ],
@@ -68,7 +75,13 @@
   },
   "tag_ids": [
     8,
-    31
+    15,
+    39,
+    31,
+    44,
+    32,
+    18,
+    5
   ],
   "stats": {
     "popularity": null,
@@ -81,11 +94,14 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
+      "horror-survival",
       "modern-korea"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -94,15 +110,19 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "survival"
+      ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "dark"
+      ],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "horror-survival / modern-korea",
     "searchKeywords": [
       "ingrave",
       "nation",
@@ -132,7 +152,13 @@
     "evidence": {
       "tags": [
         "Seinen",
-        "Drama"
+        "Mature",
+        "Action",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Tragedy"
       ],
       "titleTerms": [
         "ingrave",
@@ -168,6 +194,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.59
   }
 }

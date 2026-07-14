@@ -17,6 +17,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Funny Game",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Funny Game",
       "traits": [
@@ -69,9 +76,9 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-12T02:38:49.515Z",
+  "last_updated_at": "2026-07-13T20:01:28.272Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
+  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
   "authors": [
     "Jin-Su Bae"
   ],
@@ -100,12 +107,16 @@
     }
   },
   "tag_ids": [
+    521,
     8,
+    456,
+    265,
     39,
     31,
     32,
     18,
     19,
+    26,
     93,
     57,
     428
@@ -117,10 +128,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5625,
-    "fanRatioPercentile": 59.7776,
-    "popularityPercentile": 32.1356,
-    "fanFavouriteDiscoveryScore": 43.8333,
-    "fanFavouriteDiscoveryPercentile": 49.6255
+    "fanRatioPercentile": 59.8109,
+    "popularityPercentile": 32.0272,
+    "fanFavouriteDiscoveryScore": 43.7519,
+    "fanFavouriteDiscoveryPercentile": 49.6218
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -136,7 +147,9 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "survival"
+      ],
       "progressionType": [],
       "tone": [
         "dark"
@@ -173,12 +186,16 @@
     ],
     "evidence": {
       "tags": [
+        "Gambling",
         "Seinen",
+        "High Stakes Game",
+        "Survival",
         "Action",
         "Drama",
         "Mystery",
         "Psychological",
         "Thriller",
+        "Suspense",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -221,6 +238,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.48
   }
 }

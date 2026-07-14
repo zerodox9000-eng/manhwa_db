@@ -43,7 +43,7 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "Collection of series published under [Temptation Anthology] theme.",
   "cover": null,
   "total_chapters": null,
   "status": "unknown",
@@ -58,9 +58,9 @@
   },
   "first_seen_at": "2026-07-01T05:20:54.515Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-11T19:03:33.420Z",
-  "mangabaka_latest_rank": 90,
-  "mangabaka_latest_snapshot_at": "2026-07-13T04:39:34.677Z",
+  "last_updated_at": "2026-07-13T19:26:04.669Z",
+  "mangabaka_latest_rank": 94,
+  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
   "authors": [
     "Anthology"
   ],
@@ -119,7 +119,11 @@
       "anthology",
       "collection",
       "yuhok",
-      "danpyeonseon"
+      "danpyeonseon",
+      "series",
+      "published",
+      "under",
+      "theme"
     ],
     "evidence": {
       "tags": [
@@ -137,7 +141,15 @@
         "yuhok",
         "danpyeonseon"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "collection",
+        "series",
+        "published",
+        "under",
+        "temptation",
+        "anthology",
+        "theme"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
