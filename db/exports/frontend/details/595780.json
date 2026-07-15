@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-07-05T04:53:57.805Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-13T18:09:42.127Z",
-  "mangabaka_latest_rank": 53,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "last_updated_at": "2026-07-14T18:18:25.625Z",
+  "mangabaka_latest_rank": 66,
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
     "Credo",
     "Gi-Jun Kwon"
@@ -79,7 +79,7 @@
   "source": {
     "anilist": {
       "id": 213863,
-      "rating": 79,
+      "rating": 78,
       "url": "https://anilist.co/manga/213863"
     },
     "animeplanet": null,
@@ -93,21 +93,22 @@
     38,
     36,
     39,
+    6,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 183,
+    "popularity": 193,
     "favourites": 2,
-    "meanScore": 79
+    "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0929,
-    "fanRatioPercentile": 46.6793,
-    "popularityPercentile": 50.4463,
-    "fanFavouriteDiscoveryScore": 43.2581,
-    "fanFavouriteDiscoveryPercentile": 48.9107
+    "fanFavouriteRaw": 1.0363,
+    "fanRatioPercentile": 45.282,
+    "popularityPercentile": 51.5046,
+    "fanFavouriteDiscoveryScore": 42.2245,
+    "fanFavouriteDiscoveryPercentile": 47.6788
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -135,7 +136,9 @@
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "comedic"
+      ],
       "worldType": [
         "fantasy-world",
         "system-world"
@@ -179,6 +182,7 @@
         "Shounen",
         "Fantasy",
         "Action",
+        "Comedy",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -227,6 +231,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.87
+    "confidence": 0.88
   }
 }

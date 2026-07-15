@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Youngchun High School Gardening Journal",
-  "mangabaka_title": "Youngchun High School Gardening Journal",
+  "mangabaka_title": "Yeongchungo Wonyeilji",
   "native_title": "영춘고 원예일지",
-  "romanized_title": null,
+  "romanized_title": "Yeongchungo Wonyeilji",
   "titles": [
     {
       "language": "ko",
       "title": "영춘고 원예일지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeongchungo Wonyeilji",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,36 +33,40 @@
       "note": null
     }
   ],
-  "description": "Love, friendship and farming come to Ji Se-chan, a recent transfer student from the city?!\n\n**Original Webtoon:**  \nPostype, [Naver Series](https://series.naver.com/comic/detail.series?productNo=9902469), [Ridibooks](https://ridibooks.com/books/5074000464), [KakaoPage](https://page.kakao.com/content/62582698), [Bomtoon](https://www.bomtoon.com/detail/ych_gardening)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDA2MzI0LmpwZw",
+  "description": "*Note: Originally self-published on the author's Posytype. Was published by Ridibooks on 2023-07-21.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDA2MC16bWZzTHVFTkJ1bEUucG5n",
   "total_chapters": "30",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-01-06",
+    "end_date": "2023-06-23",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.154Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-17T08:33:41.663Z",
-  "mangabaka_latest_rank": 3731,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "last_updated_at": "2026-07-14T22:16:11.018Z",
+  "mangabaka_latest_rank": 3743,
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
-    "SSUU"
+    "Susu"
   ],
   "artists": [
-    "SSUU"
+    "Susu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/334144",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214060,
+      "rating": null,
+      "url": "https://anilist.co/manga/214060"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "xby0asy",
@@ -62,9 +77,13 @@
   "tag_ids": [
     40,
     107,
+    108,
     31,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -72,14 +91,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5591,
+    "popularityPercentile": 0.1512,
+    "fanFavouriteDiscoveryScore": 5.0671,
+    "fanFavouriteDiscoveryPercentile": 0.1512
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core",
       "school-life"
     ],
@@ -87,7 +107,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -105,38 +124,35 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / school",
+    "semanticSummary": "romance-core / school",
     "searchKeywords": [
       "youngchun",
       "high",
       "school",
       "gardening",
       "journal",
-      "love",
-      "friendship",
-      "farming",
-      "come",
-      "se-chan",
-      "recent",
-      "transfer",
-      "student",
-      "city",
-      "original",
-      "webtoon",
-      "postype",
-      "naver",
-      "series",
+      "yeongchungo",
+      "wonyeilji",
+      "note",
+      "originally",
+      "self-published",
+      "author",
+      "posytype",
+      "published",
       "ridibooks",
-      "kakaopage",
-      "bomtoon"
+      "2023-07-21"
     ],
     "evidence": {
       "tags": [
         "Shoujo",
         "School",
+        "Heterosexual",
         "Drama",
         "Romance",
-        "School Life"
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "youngchun",
@@ -144,35 +160,26 @@
         "school",
         "gardening",
         "journal",
-        "youngchun",
-        "high",
-        "school",
-        "gardening",
-        "journal"
+        "yeongchungo",
+        "wonyeilji",
+        "yeongchungo",
+        "wonyeilji"
       ],
       "descriptionTerms": [
-        "love",
-        "friendship",
-        "farming",
-        "come",
-        "se-chan",
-        "recent",
-        "transfer",
-        "student",
-        "city",
-        "original",
-        "webtoon",
-        "postype",
-        "naver",
-        "series",
+        "note",
+        "originally",
+        "self-published",
+        "author",
+        "posytype",
+        "published",
         "ridibooks",
-        "kakaopage",
-        "bomtoon"
+        "2023-07-21"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.51
   }
 }

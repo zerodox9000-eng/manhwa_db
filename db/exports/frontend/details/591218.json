@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Exoplanet 99",
-  "mangabaka_title": "Exoplanet 99",
+  "mangabaka_title": "Oegyehaengseong 99-ho",
   "native_title": "외계행성 99호",
-  "romanized_title": null,
+  "romanized_title": "Oegyehaengseong 99-ho",
   "titles": [
     {
       "language": "ko",
       "title": "외계행성 99호",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Oegyehaengseong 99-ho",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Planet Undeveloped 99",
       "traits": [],
@@ -29,24 +40,24 @@
       "note": null
     }
   ],
-  "description": "Year 2832. A future where Earth has been destroyed by nuclear war. \nIn a research group searching for humanity's new home, Chae-on, who had been living as an outcast, is dispatched alone to \"Undeveloped Planet 99\" like a discarded card.\n\nWhat he discovers there is a signal of new life. \nThe joy of finding humanity's hope is short-lived, as unidentified alien creatures attack Chae-on.\n\nBut these guys... why do they keep poking only at the spots that feel good?! \nChae-on, driven to the brink of dying from overstimulation by their merciless and forceful search. \nAt that moment, a mysterious boy appears before him.\n\n\n---\n\n[Original Webtoon](https://www.bomtoon.com/detail/PLANET_99)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMjI2LmpwZw",
+  "description": "The year 2832. A future where Earth has been destroyed by nuclear war. Chae-On, an outcast in a research group searching for a new home for humanity, is sent alone to “Undeveloped Planet No. 99,” like a discarded card. There, he discovers a signal of new life. But his joy at finding hope for humanity is short-lived, as unidentified alien lifeforms attack him. But these creatures... Why do they keep picking on the places that feel good?! Driven to the brink of death by their ruthless and coercive search, Chae-On is on the verge of collapsing. At that moment, a mysterious boy appears before him.\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDA2My10T3duajhKamY5MHUucG5n",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-23",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-24T04:59:38.584Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-13T08:23:05.764Z",
-  "mangabaka_latest_rank": 209,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "last_updated_at": "2026-07-15T00:41:10.591Z",
+  "mangabaka_latest_rank": 222,
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
     "Bona"
   ],
@@ -58,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214063,
+      "rating": null,
+      "url": "https://anilist.co/manga/214063"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4ynu0uz",
@@ -70,8 +85,14 @@
     1,
     46,
     41,
+    414,
+    180,
     16,
-    6
+    6,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -79,14 +100,16 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5591,
+    "popularityPercentile": 0.1512,
+    "fanFavouriteDiscoveryScore": 5.0671,
+    "fanFavouriteDiscoveryPercentile": 0.1512
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea"
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -100,16 +123,19 @@
       ],
       "progressionType": [],
       "tone": [
-        "comedic"
+        "comedic",
+        "warm"
       ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "exoplanet",
+      "oegyehaengseong",
+      "99-ho",
       "year",
       "2832",
       "future",
@@ -117,35 +143,44 @@
       "destroyed",
       "nuclear",
       "war",
+      "chae-on",
+      "outcast",
       "research",
       "group",
       "searching",
-      "humanity",
       "home",
-      "chae-on",
-      "living",
-      "outcast",
-      "dispatched",
+      "humanity",
+      "sent",
       "alone",
       "undeveloped",
       "planet",
       "discarded",
       "card",
-      "what",
       "discovers",
-      "signal"
+      "signal",
+      "joy",
+      "finding"
     ],
     "evidence": {
       "tags": [
         "Sci-Fi",
         "Adult",
         "Smut",
+        "Tentacles",
+        "Boys Love",
         "Yaoi",
-        "Comedy"
+        "Comedy",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "exoplanet",
-        "exoplanet"
+        "oegyehaengseong",
+        "99-ho",
+        "oegyehaengseong",
+        "99-ho"
       ],
       "descriptionTerms": [
         "year",
@@ -155,28 +190,29 @@
         "destroyed",
         "nuclear",
         "war",
+        "chae-on",
+        "outcast",
         "research",
         "group",
         "searching",
-        "humanity",
         "home",
-        "chae-on",
-        "living",
-        "outcast",
-        "dispatched",
+        "humanity",
+        "sent",
         "alone",
         "undeveloped",
         "planet",
         "discarded",
         "card",
-        "what",
         "discovers",
-        "signal"
+        "signal",
+        "joy",
+        "finding"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.46
   }
 }

@@ -69,9 +69,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-14T03:39:57.144Z",
-  "mangabaka_latest_rank": 1340,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "last_updated_at": "2026-07-15T03:51:05.324Z",
+  "mangabaka_latest_rank": 1353,
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
     "Leuleub",
     "Mambo"
@@ -98,33 +98,45 @@
   },
   "tag_ids": [
     43,
+    158,
+    58,
     108,
     36,
     41,
+    109,
+    160,
+    360,
     9,
+    424,
+    238,
     93,
     57,
-    428
+    428,
+    121
   ],
   "stats": {
-    "popularity": 190,
+    "popularity": 195,
     "favourites": 1,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 0.5263,
-    "fanRatioPercentile": 34.1528,
-    "popularityPercentile": 51.1876,
-    "fanFavouriteDiscoveryScore": 31.7893,
-    "fanFavouriteDiscoveryPercentile": 34.5008
+    "fanFavouriteRaw": 0.5128,
+    "fanRatioPercentile": 33.9558,
+    "popularityPercentile": 51.7088,
+    "fanFavouriteDiscoveryScore": 31.6992,
+    "fanFavouriteDiscoveryPercentile": 34.349
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
@@ -147,7 +159,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "euro-fantasy",
     "searchKeywords": [
       "demon",
       "king",
@@ -181,13 +193,21 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Primarily Adult Cast",
+        "Male Lead",
         "Heterosexual",
         "Fantasy",
         "Smut",
+        "Nudity",
+        "Demons",
+        "Marriage",
         "Romance",
+        "Medieval",
+        "War",
         "Longstrip",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Magic"
       ],
       "titleTerms": [
         "demon",
@@ -232,6 +252,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.81
   }
 }

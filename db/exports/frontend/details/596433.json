@@ -2,7 +2,7 @@
   "id": 596433,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Married the Dragon I Killed",
+  "display_title": "My Slain Dragon Bride",
   "mangabaka_title": "Naega Jugin Dragon-gwa Gyeolhonhaetda",
   "native_title": "내가 죽인 드래곤과 결혼했다",
   "romanized_title": "Naega Jugin Deuraegon-gwa Gyeolhonhaetda",
@@ -20,14 +20,14 @@
       "language": "en",
       "title": "I Married the Dragon I Killed",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "My Slain Dragon Bride",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-07-14T04:00:28.260Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-13T17:16:06.031Z",
-  "mangabaka_latest_rank": 2,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "last_updated_at": "2026-07-14T17:01:26.614Z",
+  "mangabaka_latest_rank": 15,
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
     "Bunjaenamu",
     "Mandutbul"
@@ -79,13 +79,13 @@
   "source": {
     "anilist": {
       "id": 214050,
-      "rating": null,
+      "rating": 89,
       "url": "https://anilist.co/manga/214050"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "roci33b",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/roci33b"
     }
   },
@@ -101,6 +101,7 @@
     449,
     647,
     648,
+    249,
     1172,
     898,
     578,
@@ -111,12 +112,14 @@
     450,
     36,
     642,
+    1,
     176,
     317,
     160,
     39,
     6,
     117,
+    360,
     230,
     227,
     9,
@@ -127,19 +130,19 @@
     121
   ],
   "stats": {
-    "popularity": null,
-    "favourites": 1,
-    "meanScore": null
+    "popularity": 159,
+    "favourites": 3,
+    "meanScore": 89
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5431,
-    "popularityPercentile": 0.1286,
-    "fanFavouriteDiscoveryScore": 5.0566,
-    "fanFavouriteDiscoveryPercentile": 0.1286
+    "fanFavouriteRaw": 1.8868,
+    "fanRatioPercentile": 68.1234,
+    "popularityPercentile": 47.9359,
+    "fanFavouriteDiscoveryScore": 62.0719,
+    "fanFavouriteDiscoveryPercentile": 70.2707
   },
   "context": {
-    "primaryProfile": "korean-corporate-regression",
+    "primaryProfile": "sci-fi-business-regression",
     "profileGroups": [
       "business-career",
       "business-career-regression",
@@ -149,13 +152,15 @@
       "korean-corporate-regression",
       "modern-korea",
       "regression-return",
-      "romance-core"
+      "romance-core",
+      "sci-fi-business-regression"
     ],
     "primaryAnchors": [
       "business-career-regression",
       "euro-fantasy",
       "korean-business",
-      "korean-corporate-regression"
+      "korean-corporate-regression",
+      "sci-fi-business-regression"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -186,11 +191,11 @@
       "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "korean-corporate-regression / modern-korea / kingdom-fantasy / regression",
+    "semanticSummary": "sci-fi-business-regression / modern-korea / kingdom-fantasy / regression",
     "searchKeywords": [
-      "married",
+      "slain",
       "dragon",
-      "killed",
+      "bride",
       "naega",
       "jugin",
       "dragon-gwa",
@@ -231,6 +236,7 @@
         "Flashbacks",
         "Misunderstandings",
         "Past Plays a Big Role",
+        "Time Travel",
         "Multiple POVs",
         "Tragic Past",
         "Knight",
@@ -241,12 +247,14 @@
         "European Ambience",
         "Fantasy",
         "Fantasy World",
+        "Sci-Fi",
         "Gods",
         "Dragons",
         "Demons",
         "Action",
         "Comedy",
         "Coming of Age",
+        "Marriage",
         "Military",
         "Revenge",
         "Romance",
@@ -257,9 +265,9 @@
         "Magic"
       ],
       "titleTerms": [
-        "married",
+        "slain",
         "dragon",
-        "killed",
+        "bride",
         "naega",
         "jugin",
         "dragon-gwa",

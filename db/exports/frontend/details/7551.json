@@ -92,9 +92,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.150Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-13T17:09:27.262Z",
+  "last_updated_at": "2026-07-14T11:23:48.213Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
     "Han-Seong Lee",
     "Jeff"
@@ -128,34 +128,41 @@
     159,
     58,
     74,
+    748,
     249,
     36,
     1,
+    176,
     31,
     27,
+    739,
+    1885,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 622,
+    "popularity": 633,
     "favourites": 6,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9646,
-    "fanRatioPercentile": 43.2073,
-    "popularityPercentile": 73.4796,
-    "fanFavouriteDiscoveryScore": 42.7117,
-    "fanFavouriteDiscoveryPercentile": 48.2451
+    "fanFavouriteRaw": 0.9479,
+    "fanRatioPercentile": 42.7643,
+    "popularityPercentile": 73.6882,
+    "fanFavouriteDiscoveryScore": 42.2822,
+    "fanFavouriteDiscoveryPercentile": 47.6939
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
       "modern-korea",
       "regression-return"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -173,10 +180,10 @@
         "fantasy-world"
       ],
       "romanceRole": "none",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / regression",
+    "semanticSummary": "business-career-regression / modern-korea / regression",
     "searchKeywords": [
       "eumag-ui",
       "sin-deul-gwa",
@@ -210,11 +217,15 @@
         "Adult Cast",
         "Male Lead",
         "Based on a Web Novel",
+        "Age Regression",
         "Time Travel",
         "Fantasy",
         "Sci-Fi",
+        "Gods",
         "Drama",
         "Music",
+        "Classical Music",
+        "Rock Music",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -262,6 +273,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.74
   }
 }

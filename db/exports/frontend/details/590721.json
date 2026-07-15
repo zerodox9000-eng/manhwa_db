@@ -2,27 +2,38 @@
   "id": 590721,
   "state": "active",
   "type": "manhwa",
-  "display_title": "This Is Me",
-  "mangabaka_title": "This Is Me",
-  "native_title": "디스 이즈 미(This is me)",
-  "romanized_title": null,
+  "display_title": "This is me",
+  "mangabaka_title": "This is me",
+  "native_title": "디스 이즈 미",
+  "romanized_title": "This is me",
   "titles": [
     {
       "language": "ko",
-      "title": "디스 이즈 미(This is me)",
-      "traits": [],
+      "title": "디스 이즈 미",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "This Is Me",
+      "language": "ko",
+      "title": "디스 이즈 미(This is me)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "This is me",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Baek Ju-ho, who lost his family to the Crown Prince Ghost as punishment for answering a ghost’s question.\nCha Ju-yul, the son of Cha Seon-ho, the man who took Baek Ju-ho in.\n\nTheir brief childhood together came to an end with Cha Seon-ho’s death,\nand for many years, Baek Ju-ho lived with a deep-seated sense of guilt toward Cha Ju-yul.\n\n“Freshman? What’s your name?”\n\nThat is, until he realized that the man he had met again had completely forgotten him.\n\n……But does Cha Ju-yul really not remember Baek Ju-ho?\n\n**Original Webtoon:**   \n[Bomtoon](https://www.bomtoon.com/detail/This_is_me), [Lezhin](https://www.lezhin.com/ko/comic/this_is_me)",
+  "description": "Baek Ju-Ho, who lost his family to the Crown Prince Ghost as punishment for answering a ghost’s question. Cha Ju-Yul, the son of Cha Seon-Ho, the man who took Baek Ju-Ho in. Their brief childhood together came to an end with Cha Seon-Ho’s death, and for many years, Baek Ju-Ho lived with a deep-seated sense of guilt toward Cha Ju-Yul. \n\n*“Freshman? What’s your name?”*\n\nThat is, until he realized that the man he had met again had completely forgotten him. But does Cha Ju-Yul really not remember Baek Ju-Ho?\n\n(Source: Lezhin, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzcvNS9jL2EvYS80LzEvODdlMi80NDZmLzhiMDAvMDJiZTZiNzc0MWUx",
   "total_chapters": "9",
   "status": "releasing",
@@ -37,12 +48,12 @@
   },
   "first_seen_at": "2026-06-18T05:29:51.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-13T08:14:19.027Z",
-  "mangabaka_latest_rank": 252,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "last_updated_at": "2026-07-14T22:06:11.033Z",
+  "mangabaka_latest_rank": 265,
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
-    "Auset",
-    "Sikmok"
+    "Eoset",
+    "Singmok"
   ],
   "artists": [
     "Gongsang"
@@ -52,7 +63,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214061,
+      "rating": null,
+      "url": "https://anilist.co/manga/214061"
+    },
     "animeplanet": {
       "id": "this-is-me",
       "rating": null,
@@ -72,6 +87,8 @@
     180,
     16,
     31,
+    32,
+    9,
     93,
     57,
     428
@@ -82,16 +99,19 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5591,
+    "popularityPercentile": 0.1512,
+    "fanFavouriteDiscoveryScore": 5.0671,
+    "fanFavouriteDiscoveryPercentile": 0.1512
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
       "euro-fantasy",
+      "euro-romance",
       "horror-survival",
-      "modern-korea"
+      "romance-core"
     ],
     "primaryAnchors": [
       "euro-fantasy",
@@ -113,9 +133,11 @@
       "progressionType": [
         "power-growth"
       ],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "major"
     },
@@ -151,6 +173,8 @@
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Mystery",
+        "Romance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -183,10 +207,11 @@
         "came"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.77
+    "confidence": 0.86
   }
 }

@@ -56,7 +56,7 @@
       "note": null
     }
   ],
-  "description": "My first love, whom I thought was dead, has returned. \n\nCurtis, who was killed when his entire family was wiped out by my father’s scheme, now stands before me, seeking revenge. \n\n*“Go ahead and beg, Roxana. Who knows? Maybe if you flirt with me using that pretty face of yours, I’ll spare your life.”*\n\nHe teased my neck with the blood-soaked tip of his sword, spewing out his icy sarcasm. \n\n *'My father’s sins have finally come to kill me.'*\n\n(Source: Ridibooks, translated)",
+  "description": "Roxanna spent years grieving her first love who supposedly died at the hands of her father, a greedy and cruel nobleman. However, when her household is annihilated, she discovers that the man who led the downfall of her family is her first love, Curtis. No longer the gentle boy Roxanna once cherished, he has transformed into a cold, formidable warrior driven by a calculated thirst for retribution. Since then, Roxanna is content to live humbly and quietly in a nunnery. However, as circumstances bring her and Curtis to reunite, the desire for vengeance rears its ugly head once again.\n\n(Source: Tappytoon)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzIwNy01SUJMRkhsZlJkSnEucG5n",
   "total_chapters": "18",
   "status": "releasing",
@@ -71,9 +71,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-13T23:04:17.567Z",
-  "mangabaka_latest_rank": 359,
-  "mangabaka_latest_snapshot_at": "2026-07-14T04:16:56.071Z",
+  "last_updated_at": "2026-07-14T23:13:58.489Z",
+  "mangabaka_latest_rank": 372,
+  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
   "authors": [
     "Najeong",
     "Seol-Eun Baek"
@@ -83,7 +83,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589504",
-    "read_en": null
+    "read_en": "https://www.tappytoon.com/en/book/1445"
   },
   "source": {
     "anilist": {
@@ -120,15 +120,14 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5625,
-    "fanRatioPercentile": 59.8109,
-    "popularityPercentile": 32.0272,
-    "fanFavouriteDiscoveryScore": 43.7519,
-    "fanFavouriteDiscoveryPercentile": 49.6218
+    "fanRatioPercentile": 59.8442,
+    "popularityPercentile": 31.9673,
+    "fanFavouriteDiscoveryScore": 43.7176,
+    "fanFavouriteDiscoveryPercentile": 49.5842
   },
   "context": {
-    "primaryProfile": "regression-return",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -137,16 +136,12 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [
-        "regression"
-      ],
+      "premiseMechanic": [],
       "conflictType": [
         "revenge",
         "romance"
       ],
-      "progressionType": [
-        "martial-growth"
-      ],
+      "progressionType": [],
       "tone": [
         "tense",
         "warm"
@@ -155,10 +150,10 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "minor",
+      "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "regression-return / regression",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "regarding",
       "perfect",
@@ -166,29 +161,28 @@
       "wanbyeokan",
       "boksue",
       "daehayeo",
+      "roxanna",
+      "spent",
+      "years",
+      "grieving",
       "first",
       "love",
-      "whom",
-      "thought",
-      "dead",
-      "returned",
-      "curtis",
-      "killed",
-      "entire",
-      "family",
-      "wiped",
+      "supposedly",
+      "died",
+      "hands",
       "father",
-      "scheme",
-      "stands",
-      "before",
-      "seeking",
-      "ahead",
-      "beg",
-      "roxana",
-      "knows",
-      "maybe",
-      "flirt",
-      "using"
+      "greedy",
+      "cruel",
+      "nobleman",
+      "however",
+      "household",
+      "annihilated",
+      "discovers",
+      "man",
+      "led",
+      "downfall",
+      "family",
+      "curtis"
     ],
     "evidence": {
       "tags": [
@@ -214,37 +208,38 @@
         "daehayeo"
       ],
       "descriptionTerms": [
+        "roxanna",
+        "spent",
+        "years",
+        "grieving",
         "first",
         "love",
-        "whom",
-        "thought",
-        "dead",
-        "returned",
-        "curtis",
-        "killed",
-        "entire",
-        "family",
-        "wiped",
+        "supposedly",
+        "died",
+        "hands",
         "father",
-        "scheme",
-        "stands",
-        "before",
-        "seeking",
-        "revenge",
-        "ahead",
-        "beg",
-        "roxana",
-        "knows",
-        "maybe",
-        "flirt",
-        "using"
+        "greedy",
+        "cruel",
+        "nobleman",
+        "however",
+        "household",
+        "annihilated",
+        "discovers",
+        "man",
+        "led",
+        "downfall",
+        "family",
+        "first",
+        "love",
+        "curtis"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.44
   }
 }
