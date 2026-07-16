@@ -5,53 +5,61 @@
   "display_title": "Eroid",
   "mangabaka_title": "Eroid",
   "native_title": "에로이드",
-  "romanized_title": null,
+  "romanized_title": "Eroid",
   "titles": [
     {
       "language": "ko",
       "title": "에로이드",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Eroid",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Jun-oh, clumsy at sex, gets dumped by his girlfriend. In a fit of anger, he attends a class reunion, gets completely wasted, and runs into his old classmate Ha-jin. When Ha-jin persistently asks why he broke up with his girlfriend, Jun-oh ends up blurting out the fact that he's gay...\n\nWithout showing any surprise at Jun-oh's confession, Ha-jin even promises to send an android so they can practice sex. \nBut for some reason, Jun-oh finds himself getting developed in all sorts of ways by the android. \nAnd upon closer inspection, is it just a coincidence that the android looks like Ha-jin?\n\n**Original Webtoon:**   \n[Bomtoon](https://www.bomtoon.com/detail/eroid)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMDE2LmpwZw",
+  "description": "Jun-O was dumped by his girlfriend because he was bad in bed. In a fit of anger, he attends a class reunion and, while completely drunk, runs into his classmate Ha-Jin. Faced with Ha-Jin’s persistent questions about why he broke up with his girlfriend, he ends up confessing that he’s gay... Showing no sign of surprise at Jun-O’s confession, Ha-Jin even promises to send him an android so he can practice sex. But for some reason, Jun-O ends up getting “explored” all over by the android. Upon closer inspection, is it just a coincidence that the android looks like Ha-Jin?\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDA4My16cWV6UldWYTJaV3kuanBn",
   "total_chapters": "12",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-04",
+    "end_date": "2026-07-04",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-14T05:34:34.950Z",
-  "mangabaka_latest_rank": 84,
-  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
+  "last_updated_at": "2026-07-15T23:16:14.618Z",
+  "mangabaka_latest_rank": 91,
+  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
   "authors": [
-    "Baek Do"
+    "Baek-Do"
   ],
   "artists": [
-    "Baek Do"
+    "Baek-Do"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595601",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214083,
+      "rating": null,
+      "url": "https://anilist.co/manga/214083"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "zcdoyxw",
@@ -63,10 +71,15 @@
     1,
     46,
     41,
+    318,
+    180,
     16,
     6,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -74,14 +87,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5829,
+    "popularityPercentile": 0.1813,
+    "fanFavouriteDiscoveryScore": 5.0817,
+    "fanFavouriteDiscoveryPercentile": 0.1813
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -90,11 +104,15 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [
         "comedic",
         "warm"
@@ -102,77 +120,85 @@
       "worldType": [],
       "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core / system",
     "searchKeywords": [
       "eroid",
-      "jun-oh",
-      "clumsy",
-      "sex",
+      "jun-o",
       "dumped",
       "girlfriend",
+      "because",
+      "bad",
+      "bed",
       "fit",
       "anger",
       "attends",
       "class",
       "reunion",
+      "while",
       "completely",
-      "wasted",
+      "drunk",
       "runs",
-      "old",
       "classmate",
       "ha-jin",
-      "persistently",
-      "asks",
+      "faced",
+      "persistent",
+      "questions",
       "why",
-      "broke",
-      "ends"
+      "broke"
     ],
     "evidence": {
       "tags": [
         "Sci-Fi",
         "Adult",
         "Smut",
+        "Robots",
+        "Boys Love",
         "Yaoi",
         "Comedy",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "eroid",
         "eroid",
         "eroid"
       ],
       "descriptionTerms": [
-        "jun-oh",
-        "clumsy",
-        "sex",
+        "jun-o",
         "dumped",
         "girlfriend",
+        "because",
+        "bad",
+        "bed",
         "fit",
         "anger",
         "attends",
         "class",
         "reunion",
+        "while",
         "completely",
-        "wasted",
+        "drunk",
         "runs",
-        "old",
         "classmate",
         "ha-jin",
+        "faced",
         "ha-jin",
-        "persistently",
-        "asks",
+        "persistent",
+        "questions",
         "why",
         "broke",
-        "girlfriend",
-        "jun-oh",
-        "ends"
+        "girlfriend"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.49
+    "confidence": 0.47
   }
 }

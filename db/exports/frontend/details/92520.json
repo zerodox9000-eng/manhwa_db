@@ -57,9 +57,9 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.582Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T04:01:31.757Z",
-  "mangabaka_latest_rank": 8416,
-  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
+  "last_updated_at": "2026-07-15T11:38:38.157Z",
+  "mangabaka_latest_rank": 8423,
+  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
   "authors": [
     "Heung-Geon Kim"
   ],
@@ -83,18 +83,26 @@
     },
     "mangaupdates": {
       "id": "rudm023",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/rudm023"
     }
   },
   "tag_ids": [
+    43,
     8,
+    20,
     36,
     1,
+    11,
     46,
     10,
     15,
+    41,
+    37,
+    6,
     31,
+    230,
+    32,
     93,
     57,
     428
@@ -106,10 +114,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5591,
-    "popularityPercentile": 8.6648,
-    "fanFavouriteDiscoveryScore": 8.8356,
-    "fanFavouriteDiscoveryPercentile": 7.9389
+    "fanRatioPercentile": 31.5829,
+    "popularityPercentile": 8.6664,
+    "fanFavouriteDiscoveryScore": 8.8432,
+    "fanFavouriteDiscoveryPercentile": 7.9411
   },
   "context": {
     "primaryProfile": null,
@@ -123,7 +131,9 @@
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "comedic"
+      ],
       "worldType": [
         "fantasy-world"
       ],
@@ -152,13 +162,21 @@
     ],
     "evidence": {
       "tags": [
+        "Josei",
         "Seinen",
+        "Harem",
         "Fantasy",
         "Sci-Fi",
+        "Mecha",
         "Adult",
         "Hentai",
         "Mature",
+        "Smut",
+        "Adventure",
+        "Comedy",
         "Drama",
+        "Military",
+        "Mystery",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -191,6 +209,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.46
   }
 }

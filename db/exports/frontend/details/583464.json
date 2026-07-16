@@ -5,44 +5,55 @@
   "display_title": "Deep City",
   "mangabaka_title": "Deep City",
   "native_title": "딥 시티",
-  "romanized_title": null,
+  "romanized_title": "Deep City",
   "titles": [
     {
       "language": "ko",
       "title": "딥 시티",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Deep City",
+      "language": "ko",
+      "title": "딥 시티(Deep City)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Deep City",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Busan's largest entertainment district. Haneul tenaciously survived in this cold city, where darkness preys and thrives. Haneul's true mission, working as a hotel bartender, is to sell fake whiskey. One ordinary day, as he routinely deceives customers, he meets Yoon Tae-hwon, a man of breathtaking beauty. “Seo Haneul… is truly… interesting.” While feeling an instinctive attraction to the man, Haneul simultaneously realizes that he is a dangerous individual. He tries his best to stay away from Tae-hwon, but eventually finds himself entangled in a contract... “I want to terminate the contract.” “Are you planning to take the money and run? That won't do.” “I know, CEO, you were never interested in my paintings from the start. You just intended to play with me for fun.” “Look at my state now. Who’s playing with whom?” The man’s breath, falling on Haneul's neck, grew heavier. “I never expected to lose my virginity in such an amazing place.” “Ah, my… virginity?” “Why? Is a slut more to Haneul’s taste?” “Th-that’s not it, but…” A mischievous glint sparkled in his transparent brown eyes. “Rather than a slut who’s been with anyone, it’s better to be clean, isn’t it?” Can Haneul truly escape the contract with Tae-hwon?\n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=13904011), [Ridibooks](https://ridibooks.com/books/5601002118), [Bomtoon](https://www.bomtoon.com/detail/deep_city), [Lezhin](https://www.lezhin.com/ko/comic/deep_city), [Toomics](https://www.toomics.com/webtoon/episode/toon/9203)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIwMzI2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDA4MC16U0FvdmYwR21jTVQuanBn",
   "total_chapters": "29",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-03-25",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-12T22:00:38.469Z",
-  "mangabaka_latest_rank": 886,
-  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
+  "last_updated_at": "2026-07-15T22:46:02.829Z",
+  "mangabaka_latest_rank": 893,
+  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
   "authors": [
-    "Jeong Eun-Dong",
-    "Mono (모노)"
+    "Eun-Dong Jeong",
+    "Mono"
   ],
   "artists": [
     "Koal"
@@ -52,7 +63,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214080,
+      "rating": null,
+      "url": "https://anilist.co/manga/214080"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4zf5xeg",
@@ -62,9 +77,14 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -72,9 +92,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5829,
+    "popularityPercentile": 0.1813,
+    "fanFavouriteDiscoveryScore": 5.0817,
+    "fanFavouriteDiscoveryPercentile": 0.1813
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -146,11 +168,18 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Adult",
         "Smut",
-        "Romance"
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "deep",
+        "city",
         "deep",
         "city",
         "deep",
@@ -183,9 +212,10 @@
         "deceives"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.99
+    "confidence": 1
   }
 }

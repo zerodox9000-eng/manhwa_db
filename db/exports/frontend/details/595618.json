@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Ghosts Really Exist!",
-  "mangabaka_title": "Ghosts Really Exist!",
+  "mangabaka_title": "Gwisineun Jinjja Itda!",
   "native_title": "귀신은 진짜 있다!",
-  "romanized_title": null,
+  "romanized_title": "Gwisineun Jinjja Itda!",
   "titles": [
     {
       "language": "ko",
       "title": "귀신은 진짜 있다!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,26 +22,35 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gwisineun Jinjja Itda!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.bomtoon.com/detail/real_ghost)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMDQxLmpwZw",
+  "description": "For the past few days, Seong-Won has been suffering from a mysterious headache. One thing is certain: this isn’t something that can be cured at a hospital... Seong-Won meets Nu-Ri, a senior who is rumored to be the son of a shaman, and desperately asks him for help. But just as Nu-Ri helps resolve the problem, a ghost who has fallen for Seong-Won latches onto him. Seong-Won, who had been hoping to get closer to Nu-Ri, ends up spending time with him after asking him to keep an eye on a new ghost named “Mari.” A romance between a man possessed by a ghost and a man who can see ghosts!\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDA4NS1ZQ0YyY3pXNHBHajUucG5n",
   "total_chapters": "5",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-14T08:27:54.386Z",
-  "mangabaka_latest_rank": 81,
-  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
+  "last_updated_at": "2026-07-16T01:46:28.076Z",
+  "mangabaka_latest_rank": 88,
+  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
   "authors": [
     "Bori"
   ],
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214085,
+      "rating": null,
+      "url": "https://anilist.co/manga/214085"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3sxy77h",
@@ -62,7 +77,13 @@
   "tag_ids": [
     22,
     46,
-    16
+    229,
+    180,
+    16,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,65 +91,130 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5829,
+    "popularityPercentile": 0.1813,
+    "fanFavouriteDiscoveryScore": 5.0817,
+    "fanFavouriteDiscoveryPercentile": 0.1813
   },
   "context": {
-    "primaryProfile": "horror-survival",
+    "primaryProfile": "medical-career",
     "profileGroups": [
       "horror-survival",
-      "modern-korea"
+      "medical-career",
+      "romance-core"
     ],
     "primaryAnchors": [
-      "horror-survival"
+      "horror-survival",
+      "medical-career"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "medical"
+      ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "medical"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival",
+    "semanticSummary": "medical-career / medical",
     "searchKeywords": [
       "ghosts",
       "really",
       "exist",
-      "original",
-      "webtoon"
+      "gwisineun",
+      "jinjja",
+      "itda",
+      "past",
+      "few",
+      "days",
+      "seong-won",
+      "suffering",
+      "mysterious",
+      "headache",
+      "thing",
+      "certain",
+      "isn",
+      "something",
+      "cured",
+      "hospital",
+      "meets",
+      "nu-ri",
+      "senior",
+      "rumored",
+      "son",
+      "shaman",
+      "desperately",
+      "asks",
+      "help"
     ],
     "evidence": {
       "tags": [
         "Supernatural",
         "Adult",
-        "Yaoi"
+        "Ghosts",
+        "Boys Love",
+        "Yaoi",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "ghosts",
         "really",
         "exist",
-        "ghosts",
-        "really",
-        "exist"
+        "gwisineun",
+        "jinjja",
+        "itda",
+        "gwisineun",
+        "jinjja",
+        "itda"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "past",
+        "few",
+        "days",
+        "seong-won",
+        "suffering",
+        "mysterious",
+        "headache",
+        "thing",
+        "certain",
+        "isn",
+        "something",
+        "cured",
+        "hospital",
+        "seong-won",
+        "meets",
+        "nu-ri",
+        "senior",
+        "rumored",
+        "son",
+        "shaman",
+        "desperately",
+        "asks",
+        "help",
+        "nu-ri"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.76
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Imprinted",
-  "mangabaka_title": "Imprinted",
+  "mangabaka_title": "Gagindoeda",
   "native_title": "각인되다",
-  "romanized_title": null,
+  "romanized_title": "Gagindoeda",
   "titles": [
     {
       "language": "ko",
       "title": "각인되다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gagindoeda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,36 +41,40 @@
     }
   ],
   "description": "“Whether you are unhappy or happy, live next to me and die next to me.”\n\nDon’t understand or forgive me.  \nYou just have to love me.\n\n‘Why did I look so pretty to him? I wish I hadn’t been noticed.’\n\nHe was darkness and light, despair and hope.  \nI can’t forget the moment I saw his face with my eyesight restored.\n\nA fatal love that blooms amid misunderstanding and truth, obsession and revenge.  \nThe face of ‘that man’ who doesn’t matter as long as it’s not ‘that person’  \nis imprinted.\n\n\n**Original Webtoon:**  \n[Ridibooks](https://ridibooks.com/books/4562000735), [Naver Series](https://series.naver.com/comic/detail.series?productNo=10319617), [Bomtoon](https://www.bomtoon.com/detail/engraved_), [MrBlue](https://www.mrblue.com/webtoon/wt_000060161), [KakaoPage](https://page.kakao.com/content/64059269)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDIxNjIzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDA4Mi1VZWoyZEh2MXZTZVIuanBn",
   "total_chapters": "36",
-  "status": "unknown",
+  "status": "hiatus",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
+    "start_date": "2023-07-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-28T08:05:04.557Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-12T12:42:55.047Z",
-  "mangabaka_latest_rank": 119,
-  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
+  "last_updated_at": "2026-07-15T23:06:32.935Z",
+  "mangabaka_latest_rank": 126,
+  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
   "authors": [
     "Biseol",
-    "Yeowool"
+    "Yeo-Ul"
   ],
   "artists": [
-    "Yeonsom"
+    "Yeon-Som"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595208",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214082,
+      "rating": null,
+      "url": "https://anilist.co/manga/214082"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ezth84r",
@@ -69,7 +84,12 @@
   },
   "tag_ids": [
     43,
-    9
+    108,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -77,9 +97,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5829,
+    "popularityPercentile": 0.1813,
+    "fanFavouriteDiscoveryScore": 5.0817,
+    "fanFavouriteDiscoveryPercentile": 0.1813
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -102,6 +124,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "comedic",
         "tense",
         "warm"
       ],
@@ -113,6 +136,7 @@
     "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "imprinted",
+      "gagindoeda",
       "whether",
       "unhappy",
       "happy",
@@ -140,11 +164,17 @@
     "evidence": {
       "tags": [
         "Josei",
-        "Romance"
+        "Heterosexual",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "imprinted",
-        "imprinted"
+        "gagindoeda",
+        "gagindoeda"
       ],
       "descriptionTerms": [
         "whether",
@@ -173,9 +203,10 @@
         "saw"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.49
   }
 }

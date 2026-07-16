@@ -4,12 +4,19 @@
   "type": "manhwa",
   "display_title": "Quit Everything and Sell Coke",
   "mangabaka_title": "Quit Everything and Sell Coke",
-  "native_title": null,
-  "romanized_title": null,
+  "native_title": "다 때려치고 콜라 팝니다",
+  "romanized_title": "I'm Quitting Everything and Selling Cola",
   "titles": [
     {
       "language": "ko",
       "title": "다 때려치고 콜라 팝니다",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "I'm Quitting Everything and Selling Cola",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -20,12 +27,19 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Quitting Everything to Sell Cola",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon :**    \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14451877)",
-  "cover": null,
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "It has been 20 years since I became a hero of the kingdom in another world. I have obtained everything—honor, power... except for cola.\n\n\nOriginal Novel \n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852631), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14451877)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyMzU2LmpwZw",
+  "total_chapters": "6",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -37,9 +51,9 @@
   },
   "first_seen_at": "2026-07-15T03:59:45.684Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-14T16:16:28.887Z",
-  "mangabaka_latest_rank": 9,
-  "mangabaka_latest_snapshot_at": "2026-07-15T04:16:06.858Z",
+  "last_updated_at": "2026-07-15T16:26:42.489Z",
+  "mangabaka_latest_rank": 16,
+  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
   "authors": [
     "Whale Falling",
     "Yoon Jae-Ho"
@@ -62,7 +76,8 @@
   },
   "tag_ids": [
     38,
-    36
+    36,
+    31
   ],
   "stats": {
     "popularity": null,
@@ -75,20 +90,26 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
       "modern-korea"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "kingdom-fantasy"
       ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "politics"
+      ],
       "progressionType": [],
       "tone": [],
       "worldType": [
@@ -98,13 +119,27 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "quit",
       "everything",
       "sell",
       "coke",
+      "quitting",
+      "selling",
+      "cola",
+      "years",
+      "since",
+      "became",
+      "hero",
+      "kingdom",
+      "another",
+      "obtained",
+      "honor",
+      "power",
+      "except",
       "original",
+      "novel",
       "webtoon",
       "naver",
       "series"
@@ -112,7 +147,8 @@
     "evidence": {
       "tags": [
         "Shounen",
-        "Fantasy"
+        "Fantasy",
+        "Drama"
       ],
       "titleTerms": [
         "quit",
@@ -122,10 +158,30 @@
         "quit",
         "everything",
         "sell",
-        "coke"
+        "coke",
+        "quitting",
+        "everything",
+        "selling",
+        "cola"
       ],
       "descriptionTerms": [
+        "years",
+        "since",
+        "became",
+        "hero",
+        "kingdom",
+        "another",
+        "obtained",
+        "everything",
+        "honor",
+        "power",
+        "except",
+        "cola",
         "original",
+        "novel",
+        "original",
+        "webtoon",
+        "naver",
         "webtoon",
         "naver",
         "series"
@@ -134,6 +190,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.54
   }
 }
