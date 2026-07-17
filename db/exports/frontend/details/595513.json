@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Manor Awaits Spring",
-  "mangabaka_title": "The Manor Awaits Spring",
+  "mangabaka_title": "Jeotaegeun Bomeul Gidarinda",
   "native_title": "저택은 봄을 기다린다",
-  "romanized_title": null,
+  "romanized_title": "Jeotaegeun Bomeul Gidarinda",
   "titles": [
     {
       "language": "ko",
       "title": "저택은 봄을 기다린다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jeotaegeun Bomeul Gidarinda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -44,26 +55,25 @@
     }
   ],
   "description": "“I will reclaim the honor that was trampled beneath your feet.”\n\nAfter seven years of isolation, her unjust prison sentence finally comes to an end.\n\nApril Lunos lost her parents and her family’s honor as the price for trying to punish the fiancé who betrayed her.\n\nNow, she is determined to take her revenge. But what awaits her beyond prison is not freedom…\n\nIt is another fabricated accusation.\n\n“Arrest April Lunos. She is the prime suspect in the series of murders committed over the past three years.”\n\nA serial murder case… pinned on someone who spent those very years behind bars?\n\nAmid this absurd accusation, she comes face to face with Vijin Deus—the younger brother of her former fiancé and her childhood friend.\n\nWhy has Vijin come to the estate?\n\nAnd can April clear her name and restore the spring her family once lost?            \n            \n**Original Webtoon:**               \n[Daum](https://webtoon.kakao.com/content/%EC%A0%80%ED%83%9D%EC%9D%80-%EB%B4%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0%EB%8B%A4/4896?tab=continue), [KakaoPage](https://page.kakao.com/content/69479740)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwODk3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDExOC1XcVE3anRySGtWbzIuanBn",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-01T05:20:54.515Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-15T18:31:30.816Z",
-  "mangabaka_latest_rank": 108,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "last_updated_at": "2026-07-16T20:17:49.848Z",
+  "mangabaka_latest_rank": 115,
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
-    "LEE Bora",
-    "Yeongyeon"
+    "Bo-Ra Lee"
   ],
   "artists": [
     "Ant Studio",
@@ -74,7 +84,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214118,
+      "rating": null,
+      "url": "https://anilist.co/manga/214118"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ov1eib1",
@@ -95,6 +109,7 @@
     405,
     890,
     97,
+    108,
     450,
     36,
     673,
@@ -105,7 +120,10 @@
     127,
     227,
     9,
-    5
+    5,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -113,9 +131,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6226,
+    "popularityPercentile": 0.2491,
+    "fanFavouriteDiscoveryScore": 5.1122,
+    "fanFavouriteDiscoveryPercentile": 0.2491
   },
   "context": {
     "primaryProfile": "kingdom-management",
@@ -165,6 +185,9 @@
       "manor",
       "awaits",
       "spring",
+      "jeotaegeun",
+      "bomeul",
+      "gidarinda",
       "reclaim",
       "honor",
       "trampled",
@@ -203,6 +226,7 @@
         "Europe",
         "Enemies Become Lovers",
         "Childhood Friends",
+        "Heterosexual",
         "European Ambience",
         "Fantasy",
         "Conspiracy",
@@ -213,15 +237,21 @@
         "Nobility",
         "Revenge",
         "Romance",
-        "Tragedy"
+        "Tragedy",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "manor",
         "awaits",
         "spring",
-        "manor",
-        "awaits",
-        "spring"
+        "jeotaegeun",
+        "bomeul",
+        "gidarinda",
+        "jeotaegeun",
+        "bomeul",
+        "gidarinda"
       ],
       "descriptionTerms": [
         "reclaim",
@@ -250,6 +280,7 @@
         "punish"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },

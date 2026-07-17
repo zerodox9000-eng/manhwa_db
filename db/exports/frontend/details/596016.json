@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "To Disappear",
-  "mangabaka_title": "To Disappear",
+  "mangabaka_title": "Sarajige",
   "native_title": "사라지게",
-  "romanized_title": null,
+  "romanized_title": "Sarajige",
   "titles": [
     {
       "language": "ko",
       "title": "사라지게",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sarajige",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,36 +33,40 @@
       "note": null
     }
   ],
-  "description": "One day, while barely holding on day by day, my mother developed dementia. I had to shoulder the entire burden of caring for a mother who could not even recognize her own child. As my mother's condition worsened and the hellish days with no end in sight continued, a mysterious email arrived.\n\n \"I will make your mother disappear.\"\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852270), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14383313)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNTUwLmpwZw",
+  "description": "One day, as I was just barely getting by, my mother was diagnosed with dementia. I had to take on the sole responsibility of caring for her, even though she no longer recognized her own child. As her condition worsened and those endless, hellish days dragged on, a mysterious email arrived.\n\n *“We’ll make your mother disappear.”*\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDExNS1XUjVaSlBhUk16Y0ouanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-08T04:08:35.871Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-13T17:28:09.141Z",
-  "mangabaka_latest_rank": 48,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "last_updated_at": "2026-07-16T20:06:27.219Z",
+  "mangabaka_latest_rank": 55,
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
-    "hbssee"
+    "hpss"
   ],
   "artists": [
-    "hbssee"
+    "hpss"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596016",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214115,
+      "rating": null,
+      "url": "https://anilist.co/manga/214115"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "c8onh24",
@@ -62,7 +77,8 @@
   "tag_ids": [
     8,
     31,
-    32
+    32,
+    19
   ],
   "stats": {
     "popularity": null,
@@ -70,9 +86,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6226,
+    "popularityPercentile": 0.2491,
+    "fanFavouriteDiscoveryScore": 5.1122,
+    "fanFavouriteDiscoveryPercentile": 0.2491
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -99,69 +117,75 @@
     "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "disappear",
-      "while",
+      "sarajige",
       "barely",
-      "holding",
+      "getting",
       "mother",
-      "developed",
+      "diagnosed",
       "dementia",
-      "shoulder",
-      "entire",
-      "burden",
+      "take",
+      "sole",
+      "responsibility",
       "caring",
       "even",
-      "recognize",
+      "though",
+      "longer",
+      "recognized",
       "child",
       "condition",
       "worsened",
+      "those",
+      "endless",
       "hellish",
       "days",
-      "end",
-      "sight",
-      "continued",
+      "dragged",
       "mysterious",
-      "email"
+      "email",
+      "arrived"
     ],
     "evidence": {
       "tags": [
         "Seinen",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Thriller"
       ],
       "titleTerms": [
         "disappear",
-        "disappear"
+        "sarajige",
+        "sarajige"
       ],
       "descriptionTerms": [
-        "while",
         "barely",
-        "holding",
+        "getting",
         "mother",
-        "developed",
+        "diagnosed",
         "dementia",
-        "shoulder",
-        "entire",
-        "burden",
+        "take",
+        "sole",
+        "responsibility",
         "caring",
-        "mother",
         "even",
-        "recognize",
+        "though",
+        "longer",
+        "recognized",
         "child",
-        "mother",
         "condition",
         "worsened",
+        "those",
+        "endless",
         "hellish",
         "days",
-        "end",
-        "sight",
-        "continued",
+        "dragged",
         "mysterious",
-        "email"
+        "email",
+        "arrived"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.39
   }
 }

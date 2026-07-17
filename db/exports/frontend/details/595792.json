@@ -2,15 +2,26 @@
   "id": 595792,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Biel Villain Escape",
-  "mangabaka_title": "Biel Villain Escape",
+  "display_title": "Biello Villain Talchul",
+  "mangabaka_title": "Biello Villain Talchul",
   "native_title": "비엘로 빌런 탈출",
-  "romanized_title": "Biel Villain Escape",
+  "romanized_title": "Biello Villain Talchul",
   "titles": [
     {
       "language": "ko",
       "title": "비엘로 빌런 탈출",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Biello Villain Talchul",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,28 +29,28 @@
       "language": "ko-Latn",
       "title": "Biel Villain Escape",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69540771), [Daum](https://webtoon.kakao.com/content/%EB%B9%84%EC%97%98%EB%A1%9C-%EB%B9%8C%EB%9F%B0-%ED%83%88%EC%B6%9C/4899)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMjA4LmpwZw",
+  "description": "Yun Chi-Hwan, who had been living an ordinary life, finds himself transported to a mysterious virtual world one day. To return to reality, he must complete the mission assigned by the system: “Complete a BL story with Kang Jeong-Hyeok.” \n\nChi-Hwan teams up with Jeong-Hyeok to survive, but their relationship, which began as one of mutual exploitation, gradually evolves into something special as they tackle quests together... \n\nAn unpredictable quest romance BL that blurs the lines between the game and reality!\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDEyNS12elg5d1hrY0Z3dTQuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-03",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-05T04:53:57.805Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-15T18:32:50.863Z",
-  "mangabaka_latest_rank": 67,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "last_updated_at": "2026-07-16T22:46:40.785Z",
+  "mangabaka_latest_rank": 74,
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
     "RK"
   ],
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214125,
+      "rating": null,
+      "url": "https://anilist.co/manga/214125"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7wwuki0",
@@ -60,8 +75,15 @@
     }
   },
   "tag_ids": [
+    36,
+    640,
+    180,
     23,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -69,14 +91,18 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6226,
+    "popularityPercentile": 0.2491,
+    "fanFavouriteDiscoveryScore": 5.1122,
+    "fanFavouriteDiscoveryPercentile": 0.2491
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "regression-return",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -86,53 +112,107 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
-      "tone": [],
-      "worldType": [],
-      "romanceRole": "none",
+      "progressionType": [
+        "power-growth"
+      ],
+      "tone": [
+        "warm"
+      ],
+      "worldType": [
+        "fantasy-world",
+        "system-world"
+      ],
+      "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea / modern-korea / system",
     "searchKeywords": [
-      "biel",
+      "biello",
       "villain",
-      "escape",
-      "original",
-      "webtoon",
-      "kakaopage",
-      "daum"
+      "talchul",
+      "yun",
+      "chi-hwan",
+      "living",
+      "ordinary",
+      "finds",
+      "himself",
+      "transported",
+      "mysterious",
+      "virtual",
+      "return",
+      "reality",
+      "must",
+      "complete",
+      "mission",
+      "assigned",
+      "system",
+      "kang",
+      "jeong-hyeok",
+      "teams",
+      "survive",
+      "relationship"
     ],
     "evidence": {
       "tags": [
+        "Fantasy",
+        "Virtual World",
+        "Boys Love",
         "Shounen Ai",
-        "Drama"
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "biel",
+        "biello",
         "villain",
-        "escape",
-        "biel",
+        "talchul",
+        "biello",
         "villain",
-        "escape",
-        "biel",
+        "talchul",
+        "biello",
         "villain",
-        "escape"
+        "talchul"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "kakaopage",
-        "daum"
+        "yun",
+        "chi-hwan",
+        "living",
+        "ordinary",
+        "finds",
+        "himself",
+        "transported",
+        "mysterious",
+        "virtual",
+        "return",
+        "reality",
+        "must",
+        "complete",
+        "mission",
+        "assigned",
+        "system",
+        "complete",
+        "kang",
+        "jeong-hyeok",
+        "chi-hwan",
+        "teams",
+        "jeong-hyeok",
+        "survive",
+        "relationship"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.58
   }
 }

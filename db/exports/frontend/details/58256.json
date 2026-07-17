@@ -2,10 +2,10 @@
   "id": 58256,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Highest Order",
+  "display_title": "Love So Pure",
   "mangabaka_title": "Love So Pure",
-  "native_title": "攻略表面酷哥",
-  "romanized_title": "Love So Pure",
+  "native_title": "지고지순",
+  "romanized_title": "Jigojisun",
   "titles": [
     {
       "language": "ko",
@@ -27,20 +27,38 @@
       "language": "en",
       "title": "Highest Order",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "fr",
-      "title": "Irrésistible-innocence",
+      "title": "Irrésistible innocence",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "ja-Latn",
-      "title": "Love So Pure",
+      "language": "en",
+      "title": "Jigojisun",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jigojisun",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Love So Pure",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -87,24 +105,24 @@
       "note": null
     }
   ],
-  "description": "\"I... got a boner\" is what Jihyun blurts out the first time he lays eyes on Yohan's handsome face... It's easy to get laid when you're a pretty, sassy bartender working at a popular gay bar. This lifestyle suits Jihyun just fine since he loves casual hookups without any intimacy… That is until he meets Yohan—his big, scary-looking classmate who's actually a pure-hearted sweetie. Can Yohan's simple love help commitment-phobic Jihyun heal from the traumas of his past?\n\n---\n\n**Original Webtoon:**  \nR19: [Bomtoon](https://www.bomtoon.com/detail/zGOzSoon), [Lezhin](https://www.lezhin.com/ko/comic/jigojisoon), [RIDI](https://ridibooks.com/books/2968001562), [MrBlue](https://www.mrblue.com/webtoon/wt_000046520), [Naver Series](https://series.naver.com/comic/detail.series?productNo=5788940)   \nR15: [Bomtoon](https://bomtoon.com/detail/zGOzSoon)\n\n**Official Translations:**  \nR19: [English](https://tapas.io/series/love-so-pure-mature/info), [French](https://www.lezhinfr.com/detail/daf_1000479), [Japanese](https://jp.piccoma.com/web/product/124483), [German](https://www.lezhinde.com/detail/dad_2000100)  \nR15: [English](https://tapas.io/series/love-so-pure/info), [French](https://www.lezhinfr.com/detail/daf_1000478), [Japanese](https://jp.piccoma.com/web/product/124482), [German](https://www.lezhinde.com/detail/dad_2000099), [S.Chinese](https://manga.bilibili.com/detail/mc31497)  \nPrint: Portuguese",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTAyNDk5LmpwZw",
+  "description": "\"I... got a boner\" is what Ji-Hyun blurts out the first time he lays eyes on Yo-Han's handsome face... It's easy to get laid when you're a pretty, sassy bartender working at a popular gay bar. This lifestyle suits Ji-Hyun just fine since he loves casual hookups without any intimacy… That is until he meets Yo-Han—his big, scary-looking classmate who's actually a pure-hearted sweetie. Can Yo-Han's simple love help commitment-phobic Ji-Hyun heal from the traumas of his past?\n\n(Source: Tapas)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEzMDYwNi0wVm82SVRPdGd0VFEuanBn",
   "total_chapters": "113",
   "status": "completed",
   "content_rating": "suggestive",
   "is_licensed": true,
   "year": 2020,
   "published": {
-    "start_date": "2020-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2020-08-26",
+    "end_date": "2022-10-19",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:42:16.188Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-15T03:00:05.413Z",
+  "last_updated_at": "2026-07-17T03:09:07.357Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
     "PlanB"
   ],
@@ -116,8 +134,16 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
+    "anilist": {
+      "id": 130606,
+      "rating": 79,
+      "url": "https://anilist.co/manga/130606"
+    },
+    "animeplanet": {
+      "id": "love-so-pure",
+      "rating": 84,
+      "url": "https://www.anime-planet.com/manga/love-so-pure"
+    },
     "mangaupdates": {
       "id": "qajcvac",
       "rating": 81,
@@ -125,10 +151,17 @@
     }
   },
   "tag_ids": [
+    288,
+    167,
     695,
     596,
     850,
     1963,
+    158,
+    335,
+    362,
+    382,
+    58,
     409,
     1082,
     257,
@@ -136,21 +169,38 @@
     1064,
     658,
     885,
+    172,
     2030,
     106,
     245,
     242,
     1571,
     1066,
+    287,
+    14,
+    10,
     41,
+    109,
     650,
+    289,
     372,
+    100,
+    665,
+    99,
+    103,
+    180,
     16,
     839,
     1042,
     6,
     31,
+    383,
+    33,
+    326,
+    392,
+    353,
     9,
+    7,
     994,
     830,
     93,
@@ -158,22 +208,24 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 3396,
+    "favourites": 140,
+    "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 4.1225,
+    "fanRatioPercentile": 93.9321,
+    "popularityPercentile": 93.6453,
+    "fanFavouriteDiscoveryScore": 93.7295,
+    "fanFavouriteDiscoveryPercentile": 96.9962
   },
   "context": {
     "primaryProfile": "food-career",
     "profileGroups": [
       "food-career",
-      "modern-korea",
       "modern-workplace",
       "office-romance",
+      "regression-return",
       "romance-core",
       "school-life"
     ],
@@ -183,7 +235,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -207,22 +258,21 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "food-career / modern-korea / school",
+    "semanticSummary": "food-career / school",
     "searchKeywords": [
-      "highest",
-      "order",
       "love",
       "pure",
+      "jigojisun",
       "got",
       "boner",
       "what",
-      "jihyun",
+      "ji-hyun",
       "blurts",
       "first",
       "time",
       "lays",
       "eyes",
-      "yohan",
+      "yo-han",
       "handsome",
       "face",
       "easy",
@@ -239,10 +289,17 @@
     ],
     "evidence": {
       "tags": [
+        "Crimes",
+        "Crossdressing",
         "Training",
         "Tall Male Lead",
         "Muscular Male Lead",
         "Glasses-Wearing Uke",
+        "Primarily Adult Cast",
+        "Primarily Male Cast",
+        "Ensemble Cast",
+        "Bisexual",
+        "Male Lead",
         "Playboys",
         "Bar",
         "College",
@@ -250,46 +307,47 @@
         "Weak to Strong",
         "Opposites Attract",
         "Unrequited Love Becomes Requited",
+        "Time Skip",
         "Gangster",
         "Age Gap",
         "Sex Friends to Lovers",
         "Friendship",
         "Height Gap",
         "Multiple Couples",
+        "Exhibitionism",
+        "Erotica",
+        "Hentai",
         "Smut",
+        "Nudity",
         "Sex Addict",
+        "Sex Toys",
         "Sexual Acts",
+        "Anal Intercourse",
+        "Facial",
+        "Oral Intercourse",
+        "Public Intercourse",
+        "Boys Love",
         "Yaoi",
-        "Child Abuse",
-        "Childhood Trauma",
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Traumatic Past",
-        "Violence",
-        "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Child Abuse"
       ],
       "titleTerms": [
-        "highest",
-        "order",
         "love",
         "pure",
         "love",
-        "pure"
+        "pure",
+        "jigojisun"
       ],
       "descriptionTerms": [
         "got",
         "boner",
         "what",
-        "jihyun",
+        "ji-hyun",
         "blurts",
         "first",
         "time",
         "lays",
         "eyes",
-        "yohan",
+        "yo-han",
         "handsome",
         "face",
         "easy",
@@ -303,10 +361,12 @@
         "bar",
         "lifestyle",
         "suits",
-        "jihyun"
+        "ji-hyun"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "anilist",
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

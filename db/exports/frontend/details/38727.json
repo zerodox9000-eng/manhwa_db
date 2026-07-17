@@ -35,6 +35,13 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Agnyeo Meikeo (Promo)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "es",
       "title": "Hacedor de villanos",
       "traits": [],
@@ -141,9 +148,9 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.234Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-14T19:41:06.050Z",
+  "last_updated_at": "2026-07-17T02:24:50.190Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
     "I-Su Seol"
   ],
@@ -160,7 +167,11 @@
       "rating": 68,
       "url": "https://anilist.co/manga/123213"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "agnyeo-meikeo-promo",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/agnyeo-meikeo-promo"
+    },
     "mangaupdates": {
       "id": "p8fgurb",
       "rating": 64,
@@ -172,14 +183,17 @@
     266,
     158,
     59,
+    74,
     513,
     406,
     108,
     36,
     94,
+    258,
     31,
     9,
     45,
+    110,
     57,
     121
   ],
@@ -190,10 +204,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2255,
-    "fanRatioPercentile": 50.3287,
-    "popularityPercentile": 77.892,
-    "fanFavouriteDiscoveryScore": 49.9277,
-    "fanFavouriteDiscoveryPercentile": 58.4586
+    "fanRatioPercentile": 50.4377,
+    "popularityPercentile": 77.8868,
+    "fanFavouriteDiscoveryScore": 50.0357,
+    "fanFavouriteDiscoveryPercentile": 58.5283
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -247,14 +261,17 @@
         "Villainess",
         "Primarily Adult Cast",
         "Female Lead",
+        "Based on a Web Novel",
         "Butler",
         "Master-Servant Relationship",
         "Heterosexual",
         "Fantasy",
         "Isekai",
+        "Isekaied Into a Novel",
         "Drama",
         "Romance",
         "Historical",
+        "One Shot",
         "Full Color",
         "Magic"
       ],
@@ -276,9 +293,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.72
+    "confidence": 0.75
   }
 }

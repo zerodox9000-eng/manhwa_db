@@ -5,7 +5,7 @@
   "display_title": "A Wimp’s Tower Strategy Guide",
   "mangabaka_title": "A Wimp’s Tower Strategy Guide",
   "native_title": "하남자의 탑 공략법",
-  "romanized_title": "Hanamjaui Tap Gongnyakbeop",
+  "romanized_title": "A Wimp's Strategy Guide to Conquer the Tower",
   "titles": [
     {
       "language": "ko",
@@ -14,6 +14,15 @@
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "A Wimp's Strategy Guide to Conquer the Tower",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
       "note": null
     },
     {
@@ -40,8 +49,15 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Guide to Beating the Weakling's Tower",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Hanamjaui Tap Gongnyakbeop",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -66,14 +82,14 @@
       "language": "th",
       "title": "วิธีพิชิตหอคอยฉบับผู้ชายห่วยๆ",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "th",
       "title": "ไอ้กากผู้พิชิตหอคอย",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -113,9 +129,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-15T16:01:10.194Z",
-  "mangabaka_latest_rank": 1533,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "last_updated_at": "2026-07-16T20:37:58.953Z",
+  "mangabaka_latest_rank": 1540,
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
     "Kkujjikkujji",
     "Pyopyo"
@@ -164,16 +180,16 @@
     428
   ],
   "stats": {
-    "popularity": 2731,
+    "popularity": 2739,
     "favourites": 46,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 1.6844,
-    "fanRatioPercentile": 63.0978,
-    "popularityPercentile": 91.9985,
-    "fanFavouriteDiscoveryScore": 62.9418,
-    "fanFavouriteDiscoveryPercentile": 71.2278
+    "fanFavouriteRaw": 1.6794,
+    "fanRatioPercentile": 63.1245,
+    "popularityPercentile": 92.0075,
+    "fanFavouriteDiscoveryScore": 62.9685,
+    "fanFavouriteDiscoveryPercentile": 71.2226
   },
   "context": {
     "primaryProfile": "game-system",
@@ -219,9 +235,7 @@
       "tower",
       "strategy",
       "guide",
-      "hanamjaui",
-      "tap",
-      "gongnyakbeop",
+      "conquer",
       "mysterious",
       "black",
       "towers",
@@ -275,9 +289,10 @@
         "tower",
         "strategy",
         "guide",
-        "hanamjaui",
-        "tap",
-        "gongnyakbeop"
+        "wimp",
+        "strategy",
+        "guide",
+        "conquer"
       ],
       "descriptionTerms": [
         "mysterious",

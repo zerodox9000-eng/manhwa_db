@@ -17,7 +17,7 @@
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "ko-Latn",
       "title": "Hwatgime Yeojuga Doeeo Boryeo Hamnida",
       "traits": [
         "native"
@@ -26,7 +26,7 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "ja-Latn",
       "title": "Hwatgime Yeojuga Doeeo Boryeo Hamnida",
       "traits": [
         "native"
@@ -54,6 +54,13 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Suddenly I Decided to Become the Female Lead (Promo)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
   "description": "After I finished my SAT’s I was reading a novel about the pitiful Ludia who had no partner. The friend of the stalker villainess, who gets her executed. The pushover who followed her friend that brought her doom, also known as extra 1. ...Why do I remember an extra who’s of no importance? \n\nDamn it, I became that Ludia! I made up my mind that I won’t die miserably and live on but… \n\nHello, crown prince. Why are you straying away from the female lead, and keep getting entangled with me? And why does he get so delusional!! \n\n*“What should I do? What if the crown prince really fell in love with me…”\n“Hm, that would never happen.”\n“Why?”\n“He was with me last night.”* \n\nSince it happened this way, I might as well just snatch this man?! \n\n*Note: This is a promotional one-shot for the homonym novel.*",
@@ -71,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.235Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-14T17:08:03.587Z",
+  "last_updated_at": "2026-07-17T02:18:49.723Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
     "Garamdal"
   ],
@@ -90,7 +97,11 @@
       "rating": 58,
       "url": "https://anilist.co/manga/140299"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "suddenly-i-decided-to-become-the-female-lead-promo",
+      "rating": 68,
+      "url": "https://www.anime-planet.com/manga/suddenly-i-decided-to-become-the-female-lead-promo"
+    },
     "mangaupdates": {
       "id": "c3rzmzi",
       "rating": 61,
@@ -100,12 +111,14 @@
   "tag_ids": [
     40,
     59,
+    74,
     405,
     897,
     108,
     450,
     36,
     94,
+    258,
     639,
     636,
     31,
@@ -113,6 +126,7 @@
     128,
     9,
     93,
+    110,
     2050,
     57,
     428
@@ -124,10 +138,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.0811,
-    "fanRatioPercentile": 46.4601,
-    "popularityPercentile": 50.6838,
-    "fanFavouriteDiscoveryScore": 43.1169,
-    "fanFavouriteDiscoveryPercentile": 48.7042
+    "fanRatioPercentile": 46.5434,
+    "popularityPercentile": 50.6868,
+    "fanFavouriteDiscoveryScore": 43.195,
+    "fanFavouriteDiscoveryPercentile": 48.7321
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -201,12 +215,14 @@
       "tags": [
         "Shoujo",
         "Female Lead",
+        "Based on a Web Novel",
         "Europe",
         "Prince",
         "Heterosexual",
         "European Ambience",
         "Fantasy",
         "Isekai",
+        "Isekaied Into a Novel",
         "Reincarnated in a Book World",
         "Reincarnated in Another World",
         "Drama",
@@ -214,6 +230,7 @@
         "Royalty",
         "Romance",
         "Longstrip",
+        "One Shot",
         "Promotional Oneshot",
         "Full Color",
         "Web Comic"
@@ -260,9 +277,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.76
+    "confidence": 0.79
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Immortal Boyfriend",
-  "mangabaka_title": "Immortal Boyfriend",
+  "mangabaka_title": "Bullonamchin",
   "native_title": "불로남친",
-  "romanized_title": null,
+  "romanized_title": "Bullonamchin",
   "titles": [
     {
       "language": "ko",
       "title": "불로남친",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Bullonamchin",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Immortal Boyfriend",
       "traits": [],
@@ -29,24 +40,24 @@
       "note": null
     }
   ],
-  "description": "For some unknown reason, Eom Jae-yeong stopped aging when he turned nineteen. Kim Ra-bin, his girlfriend of fourteen years, begins to chase the truth he is desperately trying to hide. A missing SSD, and a recurring dream buried deep in her memories... As the pieces of the puzzle come together, the reality she has always believed in begins to shatter.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852783), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14463148)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNDY2LmpwZw",
+  "description": "For some reason, her boyfriend, Eom Jae-Yeong, hasn’t aged a day since he turned 19. Kim Ra-Bin, who has been dating him for 14 years, sets out to uncover the truth he’s been trying to hide. A missing SSD and recurring dreams. As she pieces together the puzzle, the reality she’s always believed in begins to crumble.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDExNC0xNElkWGoxT1c4Q1AuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-15T03:59:45.684Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-15T16:26:37.571Z",
-  "mangabaka_latest_rank": 15,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "last_updated_at": "2026-07-16T20:06:27.313Z",
+  "mangabaka_latest_rank": 22,
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
     "Yullo"
   ],
@@ -58,7 +69,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214114,
+      "rating": null,
+      "url": "https://anilist.co/manga/214114"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ixrersi",
@@ -68,8 +83,14 @@
   },
   "tag_ids": [
     43,
+    108,
     22,
-    9
+    32,
+    9,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -77,9 +98,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6226,
+    "popularityPercentile": 0.2491,
+    "fanFavouriteDiscoveryScore": 5.1122,
+    "fanFavouriteDiscoveryPercentile": 0.2491
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -112,73 +135,80 @@
     "searchKeywords": [
       "immortal",
       "boyfriend",
-      "unknown",
+      "bullonamchin",
       "reason",
       "eom",
       "jae-yeong",
-      "stopped",
-      "aging",
+      "hasn",
+      "aged",
+      "since",
       "turned",
-      "nineteen",
       "kim",
       "ra-bin",
-      "girlfriend",
-      "fourteen",
+      "dating",
       "years",
-      "begins",
-      "chase",
+      "sets",
+      "uncover",
       "truth",
-      "desperately",
       "trying",
       "hide",
       "missing",
       "ssd",
       "recurring",
-      "dream",
-      "buried"
+      "dreams",
+      "pieces",
+      "together",
+      "puzzle"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Supernatural",
-        "Romance"
+        "Mystery",
+        "Romance",
+        "Thriller",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "immortal",
         "boyfriend",
-        "immortal",
-        "boyfriend"
+        "bullonamchin",
+        "bullonamchin"
       ],
       "descriptionTerms": [
-        "unknown",
         "reason",
+        "boyfriend",
         "eom",
         "jae-yeong",
-        "stopped",
-        "aging",
+        "hasn",
+        "aged",
+        "since",
         "turned",
-        "nineteen",
         "kim",
         "ra-bin",
-        "girlfriend",
-        "fourteen",
+        "dating",
         "years",
-        "begins",
-        "chase",
+        "sets",
+        "uncover",
         "truth",
-        "desperately",
         "trying",
         "hide",
         "missing",
         "ssd",
         "recurring",
-        "dream",
-        "buried"
+        "dreams",
+        "pieces",
+        "together",
+        "puzzle"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.51
   }
 }

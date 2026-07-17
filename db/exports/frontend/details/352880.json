@@ -108,9 +108,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-14T16:17:21.803Z",
-  "mangabaka_latest_rank": 3194,
-  "mangabaka_latest_snapshot_at": "2026-07-16T04:19:46.289Z",
+  "last_updated_at": "2026-07-16T17:09:21.167Z",
+  "mangabaka_latest_rank": 3199,
+  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
   "authors": [
     "Jjujju"
   ],
@@ -152,9 +152,14 @@
     15,
     41,
     109,
+    289,
+    380,
     100,
+    655,
     373,
+    161,
     169,
+    99,
     585,
     103,
     632,
@@ -165,6 +170,7 @@
     31,
     498,
     1084,
+    469,
     93,
     1167,
     57,
@@ -173,30 +179,35 @@
     2058
   ],
   "stats": {
-    "popularity": 93,
+    "popularity": 94,
     "favourites": 1,
     "meanScore": 46
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0753,
-    "fanRatioPercentile": 46.3166,
-    "popularityPercentile": 38.2093,
-    "fanFavouriteDiscoveryScore": 37.9871,
-    "fanFavouriteDiscoveryPercentile": 42.4934
+    "fanFavouriteRaw": 1.0638,
+    "fanRatioPercentile": 46.1585,
+    "popularityPercentile": 38.3396,
+    "fanFavouriteDiscoveryScore": 37.9311,
+    "fanFavouriteDiscoveryPercentile": 42.3774
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "sports-career",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "sports-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "sports-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "sports"
+      ],
       "premiseMechanic": [
         "system"
       ],
@@ -218,7 +229,7 @@
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / modern-korea / system",
+    "semanticSummary": "sports-career / modern-korea / system",
     "searchKeywords": [
       "die",
       "holey",
@@ -266,9 +277,14 @@
         "Mature",
         "Smut",
         "Nudity",
+        "Sex Toys",
+        "Ahegao",
         "Anal Intercourse",
+        "Double/Multiple Penetration",
         "Group Intercourse",
+        "Masturbation",
         "Nakadashi",
+        "Oral Intercourse",
         "Anilingus",
         "Public Intercourse",
         "Rough Sex",
@@ -279,6 +295,7 @@
         "Drama",
         "Religion",
         "Cult",
+        "Water sports",
         "Longstrip",
         "Short Story",
         "Full Color",
@@ -331,6 +348,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.75
   }
 }
