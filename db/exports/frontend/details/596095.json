@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Thought You Were a Shooting Star Groom?!",
-  "mangabaka_title": "I Thought You Were a Shooting Star Groom?!",
+  "mangabaka_title": "Byeolttongbyeol Sillangin Jul Aranneunde?!",
   "native_title": "별똥별 신랑인 줄 알았는데?!",
-  "romanized_title": null,
+  "romanized_title": "Byeolttongbyeol Sillangin Jul Aranneunde?!",
   "titles": [
     {
       "language": "ko",
       "title": "별똥별 신랑인 줄 알았는데?!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Byeolttongbyeol Sillangin Jul Aranneunde?!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,24 +33,24 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079172)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNTY2LmpwZw",
+  "description": "That night, when countless shooting stars were falling, Meloa made a wish. \n\n*“Please send me a decent husband! And if possible, one with a big dick!”*\n\nIt was a wish made in jest but did it actually come true?\n\n*“Meloa, you taste so good...”*\n\n(Source: MrBlue, translatd)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDE0Ni1RbnRJQVZOMEJRdFAuanBn",
   "total_chapters": "14",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-06",
+    "end_date": "2026-07-06",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-09T04:46:13.898Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-16T17:52:11.329Z",
-  "mangabaka_latest_rank": 52,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "last_updated_at": "2026-07-17T18:46:14.190Z",
+  "mangabaka_latest_rank": 56,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "Tteokjangsu"
   ],
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214146,
+      "rating": null,
+      "url": "https://anilist.co/manga/214146"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "zgzsytj",
@@ -61,9 +76,14 @@
   },
   "tag_ids": [
     43,
+    336,
+    108,
     36,
     46,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -71,14 +91,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5654,
+    "popularityPercentile": 0.2037,
+    "fanFavouriteDiscoveryScore": 5.0868,
+    "fanFavouriteDiscoveryPercentile": 0.2037
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -102,22 +123,48 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "thought",
       "were",
       "shooting",
       "star",
       "groom",
-      "original",
-      "webtoon"
+      "byeolttongbyeol",
+      "sillangin",
+      "jul",
+      "aranneunde",
+      "night",
+      "countless",
+      "stars",
+      "falling",
+      "meloa",
+      "made",
+      "wish",
+      "please",
+      "send",
+      "decent",
+      "husband",
+      "possible",
+      "big",
+      "dick",
+      "jest",
+      "actually",
+      "come",
+      "true",
+      "taste"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Foreign",
+        "Heterosexual",
         "Fantasy",
         "Adult",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "thought",
@@ -125,20 +172,45 @@
         "shooting",
         "star",
         "groom",
-        "thought",
-        "were",
-        "shooting",
-        "star",
-        "groom"
+        "byeolttongbyeol",
+        "sillangin",
+        "jul",
+        "aranneunde",
+        "byeolttongbyeol",
+        "sillangin",
+        "jul"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "night",
+        "countless",
+        "shooting",
+        "stars",
+        "were",
+        "falling",
+        "meloa",
+        "made",
+        "wish",
+        "please",
+        "send",
+        "decent",
+        "husband",
+        "possible",
+        "big",
+        "dick",
+        "wish",
+        "made",
+        "jest",
+        "actually",
+        "come",
+        "true",
+        "meloa",
+        "taste"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.44
   }
 }

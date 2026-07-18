@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Spooky in Love",
   "mangabaka_title": "Spooky in Love",
-  "native_title": null,
+  "native_title": "오싹한 연애",
   "romanized_title": null,
   "titles": [
     {
@@ -23,14 +23,42 @@
     },
     {
       "language": "en",
+      "title": "Creepy Love",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Creepy Love Affair",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Creepy Romance",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Spellbound (2026)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Spooky in Love",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "*It will be released on July 17, one day before original KDrama released*",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNTU2LmpwZw",
+  "description": "Cheon Yeo-ri, a perfect conglomerate heiress, carries a curse that forces anyone who touches her to see ghosts.\nMa Gang-wook, a passionate prosecutor who crosses paths with her at a crime scene, begins seeing ghosts after one of Yeo-ri's \"mistakes.\"\nTo block the ghosts, they must stay in close contact, and to hide her true identity, they enter a fake engagement.\nAs their partnership becomes increasingly dangerous, their hearts draw closer in this sweet yet terrifying romantic collaboration between two people more dangerous than the ghosts themselves.\n\n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852570), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14440360)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNjQwLmpwZw",
   "total_chapters": null,
   "status": "unknown",
   "content_rating": "safe",
@@ -44,11 +72,15 @@
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-16T16:57:10.221Z",
-  "mangabaka_latest_rank": 6,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
-  "authors": [],
-  "artists": [],
+  "last_updated_at": "2026-07-17T17:00:30.477Z",
+  "mangabaka_latest_rank": 10,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "authors": [
+    "Kkyoung"
+  ],
+  "artists": [
+    "Kimu"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/596696",
     "read_en": null
@@ -66,6 +98,7 @@
     22,
     6,
     44,
+    32,
     9
   ],
   "stats": {
@@ -81,18 +114,27 @@
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
+      "business-career",
       "horror-survival",
+      "korean-business",
       "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
-      "horror-survival"
+      "horror-survival",
+      "korean-business"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
-      "protagonistRole": [],
-      "careerDomain": [],
+      "setting": [
+        "modern-korea"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "survival",
@@ -109,21 +151,39 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival",
+    "semanticSummary": "horror-survival / modern-korea",
     "searchKeywords": [
       "spooky",
       "love",
-      "released",
-      "july",
-      "before",
-      "original",
-      "kdrama"
+      "cheon",
+      "yeo-ri",
+      "perfect",
+      "conglomerate",
+      "heiress",
+      "carries",
+      "curse",
+      "forces",
+      "anyone",
+      "touches",
+      "see",
+      "ghosts",
+      "gang-wook",
+      "passionate",
+      "prosecutor",
+      "crosses",
+      "paths",
+      "crime",
+      "scene",
+      "begins",
+      "seeing",
+      "mistakes"
     ],
     "evidence": {
       "tags": [
         "Supernatural",
         "Comedy",
         "Horror",
+        "Mystery",
         "Romance"
       ],
       "titleTerms": [
@@ -133,17 +193,35 @@
         "love"
       ],
       "descriptionTerms": [
-        "released",
-        "july",
-        "before",
-        "original",
-        "kdrama",
-        "released"
+        "cheon",
+        "yeo-ri",
+        "perfect",
+        "conglomerate",
+        "heiress",
+        "carries",
+        "curse",
+        "forces",
+        "anyone",
+        "touches",
+        "see",
+        "ghosts",
+        "gang-wook",
+        "passionate",
+        "prosecutor",
+        "crosses",
+        "paths",
+        "crime",
+        "scene",
+        "begins",
+        "seeing",
+        "ghosts",
+        "yeo-ri",
+        "mistakes"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.62
+    "confidence": 0.86
   }
 }

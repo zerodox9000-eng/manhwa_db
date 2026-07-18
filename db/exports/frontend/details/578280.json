@@ -5,7 +5,7 @@
   "display_title": "Fast Pace",
   "mangabaka_title": "Fast Pace",
   "native_title": "화스트 페이스",
-  "romanized_title": null,
+  "romanized_title": "Hwasteu Peiseu",
   "titles": [
     {
       "language": "ko",
@@ -20,9 +20,30 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Hostface",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hwasteu Peiseu",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "No Teamkill's Host Face",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=847905), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13750354)",
+  "description": "A realistic military webtoon about a hypothetical Second Korean War. Follows young South Korean soldiers suddenly thrust into full-scale conflict. Known for its authentic portrayal of the military and intense war drama.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=847905), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13750354)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTE2MTQ4LmpwZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,9 +58,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-15T23:56:02.943Z",
-  "mangabaka_latest_rank": 1181,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "last_updated_at": "2026-07-18T01:10:57.033Z",
+  "mangabaka_latest_rank": 1185,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "NO_Teamkill"
   ],
@@ -62,7 +83,10 @@
   "tag_ids": [
     8,
     15,
-    31
+    39,
+    31,
+    18,
+    5
   ],
   "stats": {
     "popularity": null,
@@ -90,8 +114,12 @@
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
-      "tone": [],
-      "worldType": [],
+      "tone": [
+        "dark"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
@@ -100,35 +128,76 @@
     "searchKeywords": [
       "fast",
       "pace",
-      "original",
+      "hwasteu",
+      "peiseu",
+      "realistic",
+      "military",
       "webtoon",
-      "naver",
-      "series"
+      "hypothetical",
+      "second",
+      "korean",
+      "war",
+      "follows",
+      "south",
+      "soldiers",
+      "suddenly",
+      "thrust",
+      "full-scale",
+      "conflict",
+      "known",
+      "authentic",
+      "portrayal",
+      "intense",
+      "drama",
+      "original"
     ],
     "evidence": {
       "tags": [
         "Seinen",
         "Mature",
-        "Drama"
+        "Action",
+        "Drama",
+        "Psychological",
+        "Tragedy"
       ],
       "titleTerms": [
         "fast",
         "pace",
         "fast",
-        "pace"
+        "pace",
+        "hwasteu",
+        "peiseu"
       ],
       "descriptionTerms": [
+        "realistic",
+        "military",
+        "webtoon",
+        "hypothetical",
+        "second",
+        "korean",
+        "war",
+        "follows",
+        "south",
+        "korean",
+        "soldiers",
+        "suddenly",
+        "thrust",
+        "full-scale",
+        "conflict",
+        "known",
+        "authentic",
+        "portrayal",
+        "military",
+        "intense",
+        "war",
+        "drama",
         "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "webtoon"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.41
   }
 }

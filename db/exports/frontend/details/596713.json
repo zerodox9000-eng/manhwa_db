@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "I'll Engrave It in the Deepest Part",
   "mangabaka_title": "I'll Engrave It in the Deepest Part",
-  "native_title": null,
+  "native_title": "가장 깊은 곳에 새겨줄게",
   "romanized_title": null,
   "titles": [
     {
@@ -16,13 +16,20 @@
     },
     {
       "language": "en",
+      "title": "I'll Carve It Into Your Deepest Part",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "I'll Engrave It in the Deepest Part",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69621617), [Daum](https://webtoon.kakao.com/content/%EA%B0%80%EC%9E%A5-%EA%B9%8A%EC%9D%80-%EA%B3%B3%EC%97%90-%EC%83%88%EA%B2%A8%EC%A4%84%EA%B2%8C/4878)",
+  "description": "“I will never let you feel lonely again—not even for a moment.” \n\n“If you agree to marry me.” \n\nI believed that, as long as I stayed by this man’s side, I would finally be able to escape the terrible loneliness that had haunted me since childhood. However, on our wedding night, he abandoned me. All because, according to him, my body was not feminine enough… Was that truly the reason? \n\nOne year later, my husband brought his pregnant mistress into my estate and allowed her to live there. Furious, I confronted him, but instead of apologizing, he resented me, claiming that I had been the one to abandon him. As if that were not enough, he has been tormenting me for days simply because the second prince of the Empire kissed the back of my hand. He keeps cornering me, pushing me further and further. Today, a bouquet of flowers and a letter arrived from the second prince. \n\nIf my husband finds out, there will be hell to pay… And yet, I still believe that only he can free me from this loneliness. What am I supposed to do? \n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69621617), [Daum](https://webtoon.kakao.com/content/%EA%B0%80%EC%9E%A5-%EA%B9%8A%EC%9D%80-%EA%B3%B3%EC%97%90-%EC%83%88%EA%B2%A8%EC%A4%84%EA%B2%8C/4878)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNTk1LmpwZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,9 +44,9 @@
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-16T20:20:29.868Z",
-  "mangabaka_latest_rank": 5,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "last_updated_at": "2026-07-17T20:28:03.175Z",
+  "mangabaka_latest_rank": 9,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "KIM Kkong"
   ],
@@ -78,16 +85,25 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "kingdom-management",
     "profileGroups": [
+      "engineering-builder",
+      "euro-fantasy",
+      "euro-romance",
+      "kingdom-management",
       "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "engineering-builder",
+      "euro-fantasy",
+      "kingdom-management"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "kingdom-fantasy"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -95,7 +111,9 @@
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "management-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -104,15 +122,35 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "kingdom-management / modern-korea / kingdom-fantasy",
     "searchKeywords": [
       "engrave",
       "deepest",
       "part",
-      "original",
-      "webtoon",
-      "kakaopage",
-      "daum"
+      "never",
+      "let",
+      "feel",
+      "lonely",
+      "even",
+      "moment",
+      "agree",
+      "marry",
+      "believed",
+      "long",
+      "stayed",
+      "man",
+      "side",
+      "finally",
+      "able",
+      "escape",
+      "terrible",
+      "loneliness",
+      "haunted",
+      "since",
+      "childhood",
+      "however",
+      "our",
+      "wedding"
     ],
     "evidence": {
       "tags": [
@@ -132,15 +170,35 @@
         "part"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "kakaopage",
-        "daum"
+        "never",
+        "let",
+        "feel",
+        "lonely",
+        "even",
+        "moment",
+        "agree",
+        "marry",
+        "believed",
+        "long",
+        "stayed",
+        "man",
+        "side",
+        "finally",
+        "able",
+        "escape",
+        "terrible",
+        "loneliness",
+        "haunted",
+        "since",
+        "childhood",
+        "however",
+        "our",
+        "wedding"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.48
+    "confidence": 1
   }
 }

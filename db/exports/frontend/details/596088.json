@@ -47,7 +47,7 @@
       "note": null
     }
   ],
-  "description": "I finally got a job at a company thanks to a recommendation from a senior at my school! The guys there are a bit scary, and there’s so much work that it gets tough sometimes, but they pay well, so I think it's a good company. However, a coworker who I used to work with hasn't been seen since last week...! Could she have gone to the 'Weekend Farm' that the guys keep talking about?\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/garden_plot)",
+  "description": "I finally got a job thanks to a referral from a senior at school! The guys are a bit intimidating, and sometimes it's tough because there's so much work, but they pay well, so it seems like a good company. However, the older sister I used to work with until recently hasn't been around since last week...! Could she have gone to the 'weekend farm' the guys talk about?\n\n(Source: Lezhin, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzk1My1VTHp3dVJXc0o4Q0EuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -62,9 +62,9 @@
   },
   "first_seen_at": "2026-07-09T04:46:13.898Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-16T15:49:39.334Z",
-  "mangabaka_latest_rank": 54,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "last_updated_at": "2026-07-17T15:50:05.469Z",
+  "mangabaka_latest_rank": 58,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "Mangmungming"
   ],
@@ -110,24 +110,23 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.7619,
-    "fanRatioPercentile": 95.8868,
-    "popularityPercentile": 14.4453,
-    "fanFavouriteDiscoveryScore": 37.041,
-    "fanFavouriteDiscoveryPercentile": 41.4189
+    "fanRatioPercentile": 95.8733,
+    "popularityPercentile": 14.4474,
+    "fanFavouriteDiscoveryScore": 37.0398,
+    "fanFavouriteDiscoveryPercentile": 41.4862
   },
   "context": {
     "primaryProfile": "corporate-workplace",
     "profileGroups": [
       "business-career",
       "corporate-workplace",
-      "korean-business",
-      "modern-korea",
       "modern-workplace",
+      "office-romance",
+      "romance-core",
       "school-life"
     ],
     "primaryAnchors": [
-      "corporate-workplace",
-      "korean-business"
+      "corporate-workplace"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -135,14 +134,14 @@
         "corporate-workplace",
         "school"
       ],
-      "protagonistRole": [
-        "employee"
-      ],
+      "protagonistRole": [],
       "careerDomain": [
         "business"
       ],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [
         "career-growth"
       ],
@@ -150,7 +149,7 @@
       "worldType": [
         "modern-urban"
       ],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -161,24 +160,26 @@
       "finally",
       "got",
       "job",
-      "company",
       "thanks",
-      "recommendation",
+      "referral",
       "senior",
       "school",
       "guys",
       "bit",
-      "scary",
+      "intimidating",
+      "sometimes",
+      "tough",
+      "because",
       "much",
       "work",
-      "tough",
-      "sometimes",
       "pay",
       "well",
-      "think",
+      "seems",
       "good",
+      "company",
       "however",
-      "coworker",
+      "older",
+      "sister",
       "used"
     ],
     "evidence": {
@@ -209,33 +210,33 @@
         "finally",
         "got",
         "job",
-        "company",
         "thanks",
-        "recommendation",
+        "referral",
         "senior",
         "school",
         "guys",
         "bit",
-        "scary",
+        "intimidating",
+        "sometimes",
+        "tough",
+        "because",
         "much",
         "work",
-        "tough",
-        "sometimes",
         "pay",
         "well",
-        "think",
+        "seems",
         "good",
         "company",
         "however",
-        "coworker",
-        "used",
-        "work"
+        "older",
+        "sister",
+        "used"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 1
+    "confidence": 0.92
   }
 }

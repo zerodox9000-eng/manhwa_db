@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Lucky Bitch",
   "mangabaka_title": "Lucky Bitch",
-  "native_title": null,
+  "native_title": "럭키비치",
   "romanized_title": null,
   "titles": [
     {
@@ -16,13 +16,20 @@
     },
     {
       "language": "en",
+      "title": "Lucky Beach",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Lucky Bitch",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852498), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14424733)",
+  "description": "\"Did you know? There's always a bigger b*tch above those who crawl.\"\n \nJeong-im, a girl raised in an underprivileged environment in a remote, suffocating seaside village, finally snaps under the relentless absurdity and boredom of her life. She steals her aunt's illicit pocket money—earned from running a decadent business—and flees to Seoul.\n\nDetermined to be reborn, she decides to spit in the face of societal standards, manipulating various men to satisfy her own primal desires as she navigates her new life...\n\n**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852498), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14424733)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNTU5LmpwZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,9 +44,9 @@
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-16T16:57:06.970Z",
-  "mangabaka_latest_rank": 8,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "last_updated_at": "2026-07-17T17:00:28.421Z",
+  "mangabaka_latest_rank": 12,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "MAJOR",
     "Yaksu"
@@ -61,6 +68,7 @@
     }
   },
   "tag_ids": [
+    43,
     8,
     15,
     31
@@ -76,38 +84,74 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "korean-corporate-regression",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression",
+      "modern-korea",
+      "regression-return"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression",
+      "korean-business",
+      "korean-corporate-regression"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
-      "premiseMechanic": [],
+      "careerDomain": [
+        "business"
+      ],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [],
       "worldType": [],
       "romanceRole": "none",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "korean-corporate-regression / modern-korea / reincarnation",
     "searchKeywords": [
       "lucky",
       "bitch",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "know",
+      "always",
+      "bigger",
+      "tch",
+      "above",
+      "those",
+      "crawl",
+      "jeong-im",
+      "girl",
+      "raised",
+      "underprivileged",
+      "environment",
+      "remote",
+      "suffocating",
+      "seaside",
+      "village",
+      "finally",
+      "snaps",
+      "under",
+      "relentless",
+      "absurdity",
+      "boredom",
+      "steals",
+      "aunt"
     ],
     "evidence": {
       "tags": [
+        "Josei",
         "Seinen",
         "Mature",
         "Drama"
@@ -119,17 +163,35 @@
         "bitch"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "know",
+        "always",
+        "bigger",
+        "tch",
+        "above",
+        "those",
+        "crawl",
+        "jeong-im",
+        "girl",
+        "raised",
+        "underprivileged",
+        "environment",
+        "remote",
+        "suffocating",
+        "seaside",
+        "village",
+        "finally",
+        "snaps",
+        "under",
+        "relentless",
+        "absurdity",
+        "boredom",
+        "steals",
+        "aunt"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 1
   }
 }

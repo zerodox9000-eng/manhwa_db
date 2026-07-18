@@ -24,6 +24,15 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Call Me Master",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Call Me Master",
       "traits": [
@@ -33,12 +42,10 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Call Me Master",
-      "traits": [
-        "official"
-      ],
-      "is_primary": true,
+      "language": "ko-Latn",
+      "title": "Call Me Master (Kooyi)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -122,9 +129,9 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.149Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-15T16:16:21.005Z",
+  "last_updated_at": "2026-07-17T16:16:24.194Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "Seureureuk Comics"
   ],
@@ -141,7 +148,11 @@
       "rating": 68,
       "url": "https://anilist.co/manga/173521"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "call-me-master-kooyi",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/call-me-master-kooyi"
+    },
     "mangaupdates": {
       "id": "tf9brrj",
       "rating": 64,
@@ -164,12 +175,15 @@
     2472,
     2486,
     67,
+    247,
     283,
     311,
     525,
     584,
     575,
+    308,
     889,
+    406,
     1678,
     108,
     36,
@@ -179,6 +193,7 @@
     985,
     15,
     317,
+    547,
     160,
     1090,
     9,
@@ -189,16 +204,16 @@
     428
   ],
   "stats": {
-    "popularity": 539,
+    "popularity": 540,
     "favourites": 8,
     "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4842,
-    "fanRatioPercentile": 57.8566,
-    "popularityPercentile": 70.7925,
-    "fanFavouriteDiscoveryScore": 57.0289,
-    "fanFavouriteDiscoveryPercentile": 65.0868
+    "fanFavouriteRaw": 1.4815,
+    "fanRatioPercentile": 57.7971,
+    "popularityPercentile": 70.8336,
+    "fanFavouriteDiscoveryScore": 56.973,
+    "fanFavouriteDiscoveryPercentile": 65.017
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -281,12 +296,15 @@
         "Dragon Male Lead",
         "Nonhuman Male Lead",
         "Strong Male Lead",
+        "Non-Human Protagonist",
         "Amnesia",
         "Time Manipulation",
         "Time Loop",
         "Time Rewind",
         "Human-Nonhuman Relationship",
+        "Interspecies Relationship",
         "Love-Hate Relationship",
+        "Master-Servant Relationship",
         "Master-Slave Relationship",
         "Heterosexual",
         "Fantasy",
@@ -296,14 +314,13 @@
         "Dubious Consent",
         "Mature",
         "Dragons",
+        "Non-human",
         "Demons",
         "Depression",
         "Romance",
         "Suicide",
         "Tragedy",
-        "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Longstrip"
       ],
       "titleTerms": [
         "call",
@@ -342,6 +359,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

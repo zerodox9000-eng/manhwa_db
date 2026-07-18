@@ -64,9 +64,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-16T15:51:21.697Z",
-  "mangabaka_latest_rank": 5456,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "last_updated_at": "2026-07-18T03:25:13.287Z",
+  "mangabaka_latest_rank": 5453,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "samk",
     "seemisu"
@@ -96,17 +96,27 @@
     }
   },
   "tag_ids": [
+    1381,
+    1393,
+    58,
     74,
+    595,
     874,
     172,
+    880,
+    906,
     46,
     14,
     15,
     41,
     180,
+    1947,
     16,
     31,
+    776,
     9,
+    132,
+    1004,
     93,
     57,
     428
@@ -118,14 +128,15 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.8368,
-    "fanRatioPercentile": 40.0075,
-    "popularityPercentile": 55.8038,
-    "fanFavouriteDiscoveryScore": 38.0804,
-    "fanFavouriteDiscoveryPercentile": 42.6038
+    "fanRatioPercentile": 39.9925,
+    "popularityPercentile": 55.7978,
+    "fanFavouriteDiscoveryScore": 38.0651,
+    "fanFavouriteDiscoveryPercentile": 42.5802
   },
   "context": {
     "primaryProfile": "sports-career",
     "profileGroups": [
+      "modern-korea",
       "regression-return",
       "romance-core",
       "sports-career"
@@ -135,7 +146,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [
         "sports"
@@ -148,12 +161,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "sports-career",
+    "semanticSummary": "sports-career / modern-korea",
     "searchKeywords": [
       "expiration",
       "date",
@@ -183,17 +198,27 @@
     ],
     "evidence": {
       "tags": [
+        "Black-Haired Seme",
+        "Brown-Haired Uke",
+        "Male Lead",
         "Based on a Web Novel",
+        "South Korea",
         "Caught in the Act",
         "Time Skip",
+        "Older Uke Younger Seme",
+        "Breakup",
         "Adult",
         "Erotica",
         "Mature",
         "Smut",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
+        "Korean Folklore",
         "Romance",
+        "21st century",
+        "Modern Era",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -238,6 +263,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.72
+    "confidence": 0.89
   }
 }

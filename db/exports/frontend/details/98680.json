@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Reveries of the Moonlight",
-  "mangabaka_title": "Wollyahwandam",
+  "mangabaka_title": "Reveries of the Moonlight",
   "native_title": "월야환담",
   "romanized_title": "Wollyahwandam",
   "titles": [
@@ -96,7 +96,9 @@
     {
       "language": "en",
       "title": "Reveries of the Moonlight",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -201,12 +203,12 @@
       "note": null
     }
   ],
-  "description": "*“Welcome to the world of the Mad Moon!”*\n\nAfter losing his entire family to vampires, Segun is reborn as a vampire hunter. Will he become a vampire, or die as a human? In Seoul, a brutal battle unfolds between vampires and hunters. The curtain rises on an epic, blood-soaked finale!\n\n(Source: KakaoPage, translated)",
+  "description": "Han Segeun was a restless kid with a life and family too ordinary to satisfy him. He chased speed and trouble, wishing he could break free from the dull days ahead. Then, a vampire granted that wish by slaughtering everyone he loved. Saved by Sylvester, the excommunicated Vampire Lord Hunter, Segeun enters the world of the mad moon, a hidden war where vampires prey on humans and hunters kill for cash. Can Segeun live long enough for revenge, or will the night take him like it took his family?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzgvZC9kLzgvYS8wLzYvMDllOS80NmI0L2E1MTAvYzM0YTg5Y2QyMWM4",
   "total_chapters": "35",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-02-07",
@@ -216,9 +218,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-16T17:11:33.785Z",
-  "mangabaka_latest_rank": 8064,
-  "mangabaka_latest_snapshot_at": "2026-07-17T04:18:01.835Z",
+  "last_updated_at": "2026-07-17T16:41:21.928Z",
+  "mangabaka_latest_rank": 8061,
+  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
   "authors": [
     "Big Bird",
     "Jeong-Hoon Hong"
@@ -228,7 +230,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/98680",
-    "read_en": null
+    "read_en": "https://tapas.io/series/reveries-of-the-moonlight/info"
   },
   "source": {
     "anilist": {
@@ -306,31 +308,32 @@
     121
   ],
   "stats": {
-    "popularity": 921,
+    "popularity": 923,
     "favourites": 13,
     "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4115,
-    "fanRatioPercentile": 55.6679,
-    "popularityPercentile": 79.7434,
-    "fanFavouriteDiscoveryScore": 55.2873,
-    "fanFavouriteDiscoveryPercentile": 63.2981
+    "fanFavouriteRaw": 1.4085,
+    "fanRatioPercentile": 55.6318,
+    "popularityPercentile": 79.7812,
+    "fanFavouriteDiscoveryScore": 55.2527,
+    "fanFavouriteDiscoveryPercentile": 63.3044
   },
   "context": {
-    "primaryProfile": "murim-wuxia",
+    "primaryProfile": "kingdom-management",
     "profileGroups": [
       "euro-fantasy",
       "game-system",
       "horror-survival",
+      "kingdom-management",
       "modern-korea",
-      "murim-wuxia",
-      "regression-return"
+      "murim-wuxia"
     ],
     "primaryAnchors": [
       "euro-fantasy",
       "game-system",
       "horror-survival",
+      "kingdom-management",
       "murim-wuxia"
     ],
     "excludedProfiles": [],
@@ -345,7 +348,6 @@
       ],
       "careerDomain": [],
       "premiseMechanic": [
-        "reincarnation",
         "hunter-system"
       ],
       "conflictType": [
@@ -366,36 +368,38 @@
         "system-world"
       ],
       "romanceRole": "none",
-      "regressionRole": "minor",
+      "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "murim-wuxia / modern-korea / kingdom-fantasy / reincarnation / hunter-system",
+    "semanticSummary": "kingdom-management / modern-korea / kingdom-fantasy / hunter-system",
     "searchKeywords": [
       "reveries",
       "moonlight",
       "wollyahwandam",
-      "welcome",
-      "mad",
-      "moon",
-      "losing",
-      "entire",
+      "han",
+      "segeun",
+      "restless",
+      "kid",
       "family",
-      "vampires",
-      "segun",
-      "reborn",
+      "too",
+      "ordinary",
+      "satisfy",
+      "chased",
+      "speed",
+      "trouble",
+      "wishing",
+      "break",
+      "free",
+      "dull",
+      "days",
+      "ahead",
       "vampire",
-      "hunter",
-      "become",
-      "die",
-      "human",
-      "seoul",
-      "brutal",
-      "battle",
-      "unfolds",
-      "between",
-      "hunters",
-      "curtain",
-      "rises"
+      "granted",
+      "wish",
+      "slaughtering",
+      "everyone",
+      "loved",
+      "saved"
     ],
     "evidence": {
       "tags": [
@@ -443,39 +447,41 @@
       "titleTerms": [
         "reveries",
         "moonlight",
-        "wollyahwandam",
+        "reveries",
+        "moonlight",
         "wollyahwandam"
       ],
       "descriptionTerms": [
-        "welcome",
-        "mad",
-        "moon",
-        "losing",
-        "entire",
+        "han",
+        "segeun",
+        "restless",
+        "kid",
         "family",
-        "vampires",
-        "segun",
-        "reborn",
+        "too",
+        "ordinary",
+        "satisfy",
+        "chased",
+        "speed",
+        "trouble",
+        "wishing",
+        "break",
+        "free",
+        "dull",
+        "days",
+        "ahead",
         "vampire",
-        "hunter",
-        "become",
-        "vampire",
-        "die",
-        "human",
-        "seoul",
-        "brutal",
-        "battle",
-        "unfolds",
-        "between",
-        "vampires",
-        "hunters",
-        "curtain",
-        "rises"
+        "granted",
+        "wish",
+        "slaughtering",
+        "everyone",
+        "loved",
+        "saved"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 1
