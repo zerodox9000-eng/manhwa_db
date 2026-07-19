@@ -102,7 +102,7 @@ function isRetryableError(error) {
     RETRYABLE_CODES.has(error.code);
 }
 
-async function fetchPage(year, page) {
+async function fetchPage(year, page, type = "manhwa") {
 
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
 
@@ -117,7 +117,7 @@ async function fetchPage(year, page) {
 
             limit: 100,
 
-            type: "manhwa",
+            type,
 
             published_start_date_lower:
               `${year}-01-01`,
@@ -141,17 +141,17 @@ async function fetchPage(year, page) {
       const delay = retryDelayMs(error, attempt);
 
       console.log(
-        `${year} page ${page} API error ${status || error.code}. Retry ${attempt}/${MAX_RETRIES} after ${delay}ms`
+        `${year} ${type} page ${page} API error ${status || error.code}. Retry ${attempt}/${MAX_RETRIES} after ${delay}ms`
       );
 
       await sleep(delay);
     }
   }
 
-  throw new Error(`Unable to fetch MangaBaka year ${year} page ${page}`);
+  throw new Error(`Unable to fetch MangaBaka ${type} year ${year} page ${page}`);
 }
 
-async function fetchYear(year) {
+async function fetchYearType(year, type) {
 
   let page = 1;
 
@@ -160,11 +160,11 @@ async function fetchYear(year) {
   while (true) {
 
   console.log(
-    `${year} page ${page}`
+    `${year} ${type} page ${page}`
   );
 
   const response =
-    await fetchPage(year, page);
+    await fetchPage(year, page, type);
 
   const results =
     response.data?.data || [];
@@ -190,13 +190,13 @@ async function fetchYear(year) {
   });
 
   console.log(
-    `${year} total ${all.length} entries`
+    `${year} ${type} total ${all.length} entries`
   );
 
   if (all.length === before) {
 
     console.log(
-      `${year} page ${page} no new entries found`
+      `${year} ${type} page ${page} no new entries found`
     );
 
     break;
@@ -208,6 +208,41 @@ async function fetchYear(year) {
 }
 
 return all;
+}
+
+function mergeManhwaAndOel(manhwa, oel) {
+
+  const entries = new Map(
+    manhwa.map(entry => [entry.id, entry])
+  );
+
+  for (const entry of oel) {
+
+    if (!entries.has(entry.id)) {
+
+      entries.set(entry.id, entry);
+    }
+  }
+
+  return [...entries.values()];
+}
+
+async function fetchYear(year) {
+
+  const manhwa =
+    await fetchYearType(year, "manhwa");
+
+  const oel =
+    await fetchYearType(year, "oel");
+
+  const merged =
+    mergeManhwaAndOel(manhwa, oel);
+
+  console.log(
+    `${year} combined total ${merged.length} entries (${manhwa.length} manhwa, ${oel.length} OEL)`
+  );
+
+  return merged;
 }
 
 function getEnglishTitles(titles) {
@@ -522,6 +557,8 @@ if (require.main === module) {
 
 module.exports = {
   fetchPage,
+  fetchYearType,
+  mergeManhwaAndOel,
   isRetryableError,
   retryDelayMs
 };
