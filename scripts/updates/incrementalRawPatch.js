@@ -71,7 +71,11 @@ const CHANGELOG_DIR =
 
 const YEARS = Array.from({ length: new Date().getFullYear() - 2013 }, (_, i) => 2014 + i);
 
-let dynamicDelay = 25;
+const PAGE_DELAY_MS = Number(process.env.MANGABAKA_YEAR_PAGE_DELAY_MS || 2000);
+const REQUEST_TIMEOUT_MS = Number(process.env.MANGABAKA_REQUEST_TIMEOUT_MS || 30000);
+const MAX_RETRIES = 6;
+const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504, 520, 522, 524, 530]);
+const RETRYABLE_CODES = new Set(["ECONNABORTED", "ECONNRESET", "ETIMEDOUT"]);
 
 function sleep(ms) {
 
@@ -80,11 +84,78 @@ function sleep(ms) {
   );
 }
 
+function retryDelayMs(error, attempt) {
+
+  const retryAfterSeconds = Number(error.response?.headers?.["retry-after"]);
+
+  if (Number.isFinite(retryAfterSeconds) && retryAfterSeconds >= 0) {
+
+    return retryAfterSeconds * 1000;
+  }
+
+  return Math.min(30000, 2000 * attempt * attempt);
+}
+
+function isRetryableError(error) {
+
+  return RETRYABLE_STATUSES.has(error.response?.status) ||
+    RETRYABLE_CODES.has(error.code);
+}
+
+async function fetchPage(year, page) {
+
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
+
+    try {
+
+      return await axios.get(
+        `${API}/v1/series/search`,
+        {
+          params: {
+
+            page,
+
+            limit: 100,
+
+            type: "manhwa",
+
+            published_start_date_lower:
+              `${year}-01-01`,
+
+            published_start_date_upper:
+              `${year}-12-31`
+          },
+          timeout: REQUEST_TIMEOUT_MS
+        }
+      );
+
+    } catch (error) {
+
+      const status = error.response?.status;
+
+      if (!isRetryableError(error) || attempt === MAX_RETRIES) {
+
+        throw error;
+      }
+
+      const delay = retryDelayMs(error, attempt);
+
+      console.log(
+        `${year} page ${page} API error ${status || error.code}. Retry ${attempt}/${MAX_RETRIES} after ${delay}ms`
+      );
+
+      await sleep(delay);
+    }
+  }
+
+  throw new Error(`Unable to fetch MangaBaka year ${year} page ${page}`);
+}
+
 async function fetchYear(year) {
 
   let page = 1;
 
-  let all = []; let seenIds = new Set();
+  let all = [];
 
   while (true) {
 
@@ -92,60 +163,10 @@ async function fetchYear(year) {
     `${year} page ${page}`
   );
 
-  let response;
+  const response =
+    await fetchPage(year, page);
 
-while (true) {
-
-  try {
-
-    response = await axios.get(
-      `${API}/v1/series/search`,
-      {
-        params: {
-
-          page,
-
-          limit: 100,
-
-          type: "manhwa",
-
-          published_start_date_lower:
-            `${year}-01-01`,
-
-          published_start_date_upper:
-            `${year}-12-31`
-        }
-      }
-    );
-
-    break;
-
-  } catch (error) {
-
-    if ([429,500,502,503,504,520,522,524,530].includes(error.response?.status)) {
-
-      console.log(
-      `API error ${error.response?.status}. Backing off...`
-    );
-
-    dynamicDelay =
-      Math.min(
-        dynamicDelay * 2,
-        10000
-      );
-
-    console.log(
-      `New delay: ${dynamicDelay}ms`
-    );
-
-      await sleep(20000);
-
-      continue;
-    }
-
-    throw error;
-  }
-}const results =
+  const results =
     response.data?.data || [];
 
   if (!results.length) {
@@ -183,14 +204,8 @@ while (true) {
 
   page++;
 
-  await sleep(3500);
+  await sleep(PAGE_DELAY_MS);
 }
-
-dynamicDelay =
-  Math.max(
-    25,
-    dynamicDelay * 0.9
-  );
 
 return all;
 }
@@ -496,7 +511,20 @@ saveLastSync();
   console.log("Done.");
 }
 
-main().catch(console.error);
+if (require.main === module) {
+
+  main().catch(error => {
+
+    console.error(error);
+    process.exitCode = 1;
+  });
+}
+
+module.exports = {
+  fetchPage,
+  isRetryableError,
+  retryDelayMs
+};
 
 
 
