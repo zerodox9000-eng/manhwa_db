@@ -18,7 +18,7 @@ Owns backend pipeline scripts for fetching, updating, normalizing, enriching, sn
 - `db/curation/title-display-overrides.json` is an audited display-title registry. Export builders apply it only to frontend display values after normalization; raw source titles remain untouched. Each override must match a stored MangaBaka title variant or the build must fail.
 - The daily pipeline does not fetch MangaBaka's `sort_by=latest` listing. Existing exported `mangabaka_latest_rank` values remain compatibility data for saved feeds, but the cache is no longer refreshed or used by a shipped default feed.
 - `db/curation/anilist-permanent-missing.json` contains only explicitly confirmed `(MangaBaka ID, AniList ID)` 404 pairs. Enrichment emits a null stats record for those pairs without making a request. All other IDs retain adaptive chunking, retry, and isolation behavior.
-- The yearly MangaBaka incremental fetch is sequential with a two-second completed-page gap. Requests time out after 30 seconds, retry a finite six times, and honor a server `Retry-After` response when present. Do not parallelize it or lower the normal gap without a measured rate-limit check.
+- The yearly MangaBaka incremental fetch is sequential with a 2.5-second completed-page gap. Requests time out after 30 seconds, retry a finite six times, and honor a server `Retry-After` response when present. Do not parallelize it or lower the normal gap without a measured rate-limit check.
 - Avoid network-heavy full pipeline runs unless required by the user or needed to verify a pipeline fix.
 
 ## Work Guidance

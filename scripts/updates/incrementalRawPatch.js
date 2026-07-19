@@ -71,7 +71,7 @@ const CHANGELOG_DIR =
 
 const YEARS = Array.from({ length: new Date().getFullYear() - 2013 }, (_, i) => 2014 + i);
 
-const PAGE_DELAY_MS = Number(process.env.MANGABAKA_YEAR_PAGE_DELAY_MS || 2000);
+const PAGE_DELAY_MS = Number(process.env.MANGABAKA_YEAR_PAGE_DELAY_MS || 2500);
 const REQUEST_TIMEOUT_MS = Number(process.env.MANGABAKA_REQUEST_TIMEOUT_MS || 30000);
 const MAX_RETRIES = 6;
 const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504, 520, 522, 524, 530]);
