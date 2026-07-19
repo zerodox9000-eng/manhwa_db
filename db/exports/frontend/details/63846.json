@@ -2,7 +2,7 @@
   "id": 63846,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Cheonhajeil Uiroemun",
+  "display_title": "The World's Best Sect of Dependency",
   "mangabaka_title": "Cheonhajeil Uiroemun",
   "native_title": "천하제일 의뢰문",
   "romanized_title": "Cheonhajeil Uiroemun",
@@ -92,7 +92,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-07-17T12:29:07.835Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
+  "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Baek Bo",
     "Wa-Gyeom Ji"
@@ -147,12 +147,20 @@
     "fanFavouriteDiscoveryPercentile": 42.1033
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
-    "primaryAnchors": [],
+    "primaryProfile": "murim-wuxia",
+    "profileGroups": [
+      "chinese-murim",
+      "murim-wuxia"
+    ],
+    "primaryAnchors": [
+      "chinese-murim",
+      "murim-wuxia"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "murim-world"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -166,14 +174,18 @@
         "tense"
       ],
       "worldType": [
-        "fantasy-world"
+        "fantasy-world",
+        "martial-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "murim-wuxia / murim-world",
     "searchKeywords": [
+      "best",
+      "sect",
+      "dependency",
       "cheonhajeil",
       "uiroemun",
       "freedom",
@@ -216,8 +228,9 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "cheonhajeil",
-        "uiroemun",
+        "best",
+        "sect",
+        "dependency",
         "cheonhajeil",
         "uiroemun",
         "cheonhajeil",
@@ -255,6 +268,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.71
   }
 }

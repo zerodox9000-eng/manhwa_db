@@ -2,7 +2,7 @@
   "id": 42232,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Gae Bapdotori",
+  "display_title": "Dog Food Acorn",
   "mangabaka_title": "Gae Bapdotori",
   "native_title": "개밥도토리",
   "romanized_title": "Gae Bapdotori",
@@ -57,7 +57,7 @@
   "first_seen_at_is_trusted": false,
   "last_updated_at": "2026-07-16T00:23:33.247Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
+  "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Hyeong Ho"
   ],
@@ -107,14 +107,20 @@
     "fanFavouriteDiscoveryPercentile": 11.2853
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
-    "primaryAnchors": [],
+    "primaryProfile": "food-career",
+    "profileGroups": [
+      "food-career"
+    ],
+    "primaryAnchors": [
+      "food-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "food"
+      ],
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
@@ -126,14 +132,16 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "food-career",
     "searchKeywords": [
+      "dog",
+      "food",
+      "acorn",
       "gae",
       "bapdotori",
       "cho",
       "yeong-su",
       "turns",
-      "dog",
       "completely"
     ],
     "evidence": {
@@ -147,8 +155,9 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "gae",
-        "bapdotori",
+        "dog",
+        "food",
+        "acorn",
         "gae",
         "bapdotori",
         "gae",
@@ -168,6 +177,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.35
+    "confidence": 0.51
   }
 }
