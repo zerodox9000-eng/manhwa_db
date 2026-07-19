@@ -9,9 +9,11 @@ const OUTPUT_DIR = path.resolve(__dirname, "../../db/enriched/anilist");
 const PERMANENT_MISSING_FILE = path.resolve(__dirname, "../../db/curation/anilist-permanent-missing.json");
 const client = new GraphQLClient("https://graphql.anilist.co");
 // AniList's current query-complexity ceiling permits 100 of these Media lookups.
-const BATCH_SIZES = [100, 10, 3, 1];
-const REQUEST_DELAYS = [2200, 3000, 5000, 8000];
+const BATCH_SIZES = [100, 50, 10, 3, 1];
+const REQUEST_DELAYS = [2200, 3000, 5000, 8000, 8000];
 const MAX_RATE_LIMIT_RETRIES = 5;
+const MAX_SERVER_RETRIES = 2;
+const SERVER_RETRY_DELAYS = [2000, 4000];
 
 function permanentMissingKey(mangabakaId, anilistId) {
   return `${Number(mangabakaId)}:${Number(anilistId)}`;
@@ -98,6 +100,12 @@ function isRateLimited(error) {
     error?.response?.errors?.some(item => Number(item?.status) === 429);
 }
 
+function isTransientServerError(error) {
+  const status = Number(error?.response?.status) ||
+    Number(error?.response?.errors?.[0]?.status);
+  return status >= 500 && status <= 599;
+}
+
 function retryAfterMs(error) {
   const seconds = Number(error?.response?.headers?.get?.("retry-after"));
   return Number.isFinite(seconds) && seconds > 0
@@ -105,11 +113,25 @@ function retryAfterMs(error) {
     : 61_000;
 }
 
+function nextFallbackLevel(error, level, batchLength) {
+  let nextLevel = level + 1;
+
+  // A temporary server error gets a genuine half-size retry before isolation.
+  if (!isTransientServerError(error) && level === 0) nextLevel = 2;
+
+  while (nextLevel < BATCH_SIZES.length - 1 && BATCH_SIZES[nextLevel] >= batchLength) {
+    nextLevel += 1;
+  }
+
+  return nextLevel;
+}
+
 async function enrichAdaptive(batch, year, level = 0) {
   const results = [];
 
   for (const subBatch of chunk(batch, BATCH_SIZES[level])) {
     let rateLimitRetries = 0;
+    let serverRetries = 0;
 
     while (true) {
       try {
@@ -126,11 +148,19 @@ async function enrichAdaptive(batch, year, level = 0) {
           continue;
         }
 
+        if (isTransientServerError(error) && serverRetries < MAX_SERVER_RETRIES) {
+          const waitMs = SERVER_RETRY_DELAYS[serverRetries];
+          serverRetries += 1;
+          console.log(`AniList server retry ${serverRetries}/${MAX_SERVER_RETRIES} for ${year}; resuming this batch in ${Math.ceil(waitMs / 1000)}s.`);
+          await sleep(waitMs);
+          continue;
+        }
+
         console.error(`AniList request retry ${level + 1} for ${year}:`, error.response?.errors || error.message);
 
         if (level < BATCH_SIZES.length - 1) {
           await sleep(REQUEST_DELAYS[level]);
-          results.push(...await enrichAdaptive(subBatch, year, level + 1));
+          results.push(...await enrichAdaptive(subBatch, year, nextFallbackLevel(error, level, subBatch.length)));
           break;
         }
 
@@ -237,4 +267,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { partitionExpectedEntries };
+module.exports = { partitionExpectedEntries, isTransientServerError, nextFallbackLevel };
