@@ -8,7 +8,8 @@ const INPUT_DIR = path.resolve(__dirname, "../../db/processed/by-year");
 const OUTPUT_DIR = path.resolve(__dirname, "../../db/enriched/anilist");
 const PERMANENT_MISSING_FILE = path.resolve(__dirname, "../../db/curation/anilist-permanent-missing.json");
 const client = new GraphQLClient("https://graphql.anilist.co");
-const BATCH_SIZES = [40, 10, 3, 1];
+// AniList's current query-complexity ceiling permits 100 of these Media lookups.
+const BATCH_SIZES = [100, 10, 3, 1];
 const REQUEST_DELAYS = [2200, 3000, 5000, 8000];
 const MAX_RATE_LIMIT_RETRIES = 5;
 
