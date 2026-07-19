@@ -16,6 +16,7 @@ Owns backend pipeline scripts for fetching, updating, normalizing, enriching, sn
 - Do not publish partial data silently. If a year, source, or enrichment pass fails, make the failure visible and preserve consistency.
 - Keep exported schemas backward-compatible with the frontend unless the frontend repo is updated in the same task.
 - `db/curation/title-display-overrides.json` is an audited display-title registry. Export builders apply it only to frontend display values after normalization; raw source titles remain untouched. Each override must match a stored MangaBaka title variant or the build must fail.
+- The daily pipeline does not fetch MangaBaka's `sort_by=latest` listing. Existing exported `mangabaka_latest_rank` values remain compatibility data for saved feeds, but the cache is no longer refreshed or used by a shipped default feed.
 - Avoid network-heavy full pipeline runs unless required by the user or needed to verify a pipeline fix.
 
 ## Work Guidance
