@@ -9,6 +9,7 @@ Owns backend data files and generated frontend exports.
 - `enriched/`: AniList stats separated from processed metadata.
 - `snapshots/`: daily historical stat snapshots.
 - `state/`: pipeline state such as incremental sync markers.
+- `curation/`: reviewed export corrections that never alter raw source records.
 - `exports/frontend/`: only files the frontend PWA should consume.
 
 ## Local Contracts

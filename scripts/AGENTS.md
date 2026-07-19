@@ -15,6 +15,7 @@ Owns backend pipeline scripts for fetching, updating, normalizing, enriching, sn
 - Read the root AGENTS.md first.
 - Do not publish partial data silently. If a year, source, or enrichment pass fails, make the failure visible and preserve consistency.
 - Keep exported schemas backward-compatible with the frontend unless the frontend repo is updated in the same task.
+- `db/curation/title-display-overrides.json` is an audited display-title registry. Export builders apply it only to frontend display values after normalization; raw source titles remain untouched. Each override must match a stored MangaBaka title variant or the build must fail.
 - Avoid network-heavy full pipeline runs unless required by the user or needed to verify a pipeline fix.
 
 ## Work Guidance

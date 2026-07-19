@@ -5,6 +5,10 @@ const {
   finalizeLegacyFrontendExports,
   writeChunkedFrontendExports,
 } = require("./writeChunkedFrontendExports");
+const {
+  applyTitleDisplayOverride,
+  loadTitleDisplayOverrides,
+} = require("./titleDisplayOverrides");
 
 const SERIES_DIR =
   path.resolve(
@@ -64,6 +68,8 @@ const contextOverrides =
   fs.existsSync(CONTEXT_OVERRIDES)
     ? readJson(CONTEXT_OVERRIDES)
     : {};
+
+const titleDisplayOverrides = loadTitleDisplayOverrides();
 
 const seriesMap = new Map();
 
@@ -484,6 +490,8 @@ for (const file of seriesFiles) {
 
   for (const entry of data) {
 
+    const displayTitle = applyTitleDisplayOverride(entry, titleDisplayOverrides);
+
     seriesMap.set(entry.id, {
 
       id: entry.id,
@@ -495,7 +503,7 @@ for (const file of seriesFiles) {
         entry.type,
 
       display_title:
-        entry.display_title,
+        displayTitle,
 
       mangabaka_title:
         entry.mangabaka_title || null,

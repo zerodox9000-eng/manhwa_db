@@ -1,6 +1,12 @@
 const fs = require("fs");
 const path = require("path");
 const zlib = require("zlib");
+const {
+  applyTitleDisplayOverride,
+  loadTitleDisplayOverrides,
+} = require("./titleDisplayOverrides");
+
+const titleDisplayOverrides = loadTitleDisplayOverrides();
 const crypto = require("crypto");
 
 const SERIES_DIR = path.resolve(
@@ -85,39 +91,6 @@ function datePart(value) {
 function isFutureDate(date) {
   if (!date) return false;
   return date > new Date().toISOString().slice(0, 10);
-}
-
-function titleCaseSlug(value) {
-  const minorWords = new Set(["a", "an", "and", "as", "at", "but", "by", "for", "from", "in", "into", "nor", "of", "on", "or", "per", "the", "to", "vs", "via", "with"]);
-  return decodeURIComponent(String(value || ""))
-    .replace(/\.[a-z0-9]+$/i, "")
-    .replace(/[-_]+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
-    .split(" ")
-    .filter(Boolean)
-    .map((word, index) => {
-      const lower = word.toLowerCase();
-      if (index > 0 && minorWords.has(lower)) return lower;
-      return lower.replace(/^\p{L}/u, (letter) => letter.toUpperCase());
-    })
-    .join(" ");
-}
-
-function lastUrlSegment(value) {
-  if (!value) return null;
-  try {
-    return new URL(value).pathname.split("/").filter(Boolean).at(-1) || null;
-  } catch {
-    return null;
-  }
-}
-
-function deriveAnimePlanetTitle(source) {
-  const slug = source?.animeplanet?.id || lastUrlSegment(source?.animeplanet?.url);
-  if (!slug) return null;
-  const title = titleCaseSlug(slug);
-  return /^(unknown title|untitled|no title|n\/a|-)?$/i.test(title) ? null : title;
 }
 
 function coverInfo(cover) {
@@ -328,13 +301,12 @@ async function fetchAniListAddedRanks() {
 
 function buildCatalogRecord(entry, stats, latestCache, anilistRanks, tagIds) {
   const anilistId = entry.source?.anilist?.id || null;
-  const animeplanetTitle = deriveAnimePlanetTitle(entry.source);
+  const displayTitle = applyTitleDisplayOverride(entry, titleDisplayOverrides);
   const releases = releaseInfo(entry);
   return {
     id: entry.id,
-    display_title: animeplanetTitle || entry.display_title || entry.mangabaka_title || entry.romanized_title || "Unknown Title",
-    backend_display_title: entry.display_title || null,
-    animeplanet_title: animeplanetTitle,
+    display_title: displayTitle || entry.mangabaka_title || entry.romanized_title || "Unknown Title",
+    backend_display_title: displayTitle || null,
     mangabaka_title: entry.mangabaka_title || null,
     native_title: entry.native_title || null,
     romanized_title: entry.romanized_title || null,
@@ -388,9 +360,6 @@ function validateCatalog(catalog) {
     if (item.anilist_added_rank != null && !item.source_flags.anilist) {
       errors.push(`Series ${item.id} has anilist_added_rank without AniList source`);
     }
-    if (item.animeplanet_title != null && !item.source_flags.animeplanet) {
-      errors.push(`Series ${item.id} has animeplanet_title without Anime-Planet source`);
-    }
   }
   return errors;
 }
@@ -413,7 +382,6 @@ async function main() {
   const details = [];
   const unmatchedAniListIds = new Set(anilistResult.ranks.keys());
   const uniqueSeriesRows = new Map();
-  let animeplanetTitlesDerived = 0;
 
   for (const entry of seriesRows.sort((a, b) => a.id - b.id)) {
     if (!entry?.id) continue;
@@ -429,7 +397,6 @@ async function main() {
       seriesTagIds.get(entry.id) || [],
     );
     if (record.source?.anilist?.id) unmatchedAniListIds.delete(Number(record.source.anilist.id));
-    if (record.animeplanet_title) animeplanetTitlesDerived += 1;
     catalog.push(record);
     details.push(buildDetailRecord(entry, record));
   }
@@ -495,7 +462,6 @@ async function main() {
       anilistAddedRanksFetched: anilistResult.fetched,
       anilistAddedRanksMatched: catalog.filter((item) => item.anilist_added_rank != null).length,
       anilistAddedRanksUnmatched: unmatchedAniListIds.size,
-      animeplanetTitlesDerived,
     },
     files: {
       catalog: catalogFile,
@@ -530,7 +496,6 @@ async function main() {
     anilistRanksFetched: anilistResult.fetched,
     anilistRanksMatched: manifest.counts.anilistAddedRanksMatched,
     anilistRanksUnmatched: unmatchedAniListIds.size,
-    animeplanetTitlesDerived,
     catalogBytes: catalogFile.bytes,
     catalogGzipBytes: catalogFile.gzipBytes,
     tagBytes: tagFile.bytes,
