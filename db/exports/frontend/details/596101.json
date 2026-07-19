@@ -2,15 +2,17 @@
   "id": 596101,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Crescent Moon (Yeong Haesin)",
-  "mangabaka_title": "Crescent Moon (Yeong Haesin)",
+  "display_title": "Jogakdal",
+  "mangabaka_title": "Jogakdal",
   "native_title": "조각달",
   "romanized_title": "Crescent Moon",
   "titles": [
     {
       "language": "ko",
       "title": "조각달",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,11 +22,20 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jogakdal",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**     \n[KakaoPage](https://page.kakao.com/content/69522928), [Daum](https://webtoon.kakao.com/content/%EC%A1%B0%EA%B0%81%EB%8B%AC/4891)",
+  "description": "Ash, who possesses a natural talent for sculpture but cannot see clearly, finds himself in danger after being caught up in a mysterious incident. Fleeing his pursuers into the Black Forest, a place said to be inhabited by monsters, Ash encounters a mysterious man there… and instinctively realizes that he is not human.\n\n *“May I… touch your face?”*\n\n(Source: KakaoPage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zLzAvMC9hLzMvYi8zLzYvODdhMC80OWI5Lzg2ZGQvMmQxMThiN2MwZmZj",
-  "total_chapters": null,
+  "total_chapters": "7",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -37,21 +48,25 @@
   },
   "first_seen_at": "2026-07-09T04:46:13.898Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-15T22:28:30.074Z",
-  "mangabaka_latest_rank": 52,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "last_updated_at": "2026-07-18T22:53:46.433Z",
+  "mangabaka_latest_rank": 57,
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
-    "Yeong Haesin"
+    "Hae Shin Yeong"
   ],
   "artists": [
-    "Yeong Haesin"
+    "Hae Shin Yeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596101",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214187,
+      "rating": null,
+      "url": "https://anilist.co/manga/214187"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "5akol5z",
@@ -61,8 +76,14 @@
   },
   "tag_ids": [
     36,
+    22,
     46,
-    16
+    180,
+    16,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,14 +91,17 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6095,
+    "popularityPercentile": 0.2035,
+    "fanFavouriteDiscoveryScore": 5.0938,
+    "fanFavouriteDiscoveryPercentile": 0.2035
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -92,53 +116,94 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [
         "fantasy-world"
       ],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
     "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
+      "jogakdal",
       "crescent",
       "moon",
-      "yeong",
-      "haesin",
-      "original",
-      "webtoon",
-      "kakaopage",
-      "daum"
+      "ash",
+      "possesses",
+      "natural",
+      "talent",
+      "sculpture",
+      "cannot",
+      "see",
+      "clearly",
+      "finds",
+      "himself",
+      "danger",
+      "being",
+      "caught",
+      "mysterious",
+      "incident",
+      "fleeing",
+      "pursuers",
+      "black",
+      "forest",
+      "place",
+      "said",
+      "inhabited",
+      "monsters"
     ],
     "evidence": {
       "tags": [
         "Fantasy",
+        "Supernatural",
         "Adult",
-        "Yaoi"
+        "Boys Love",
+        "Yaoi",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "crescent",
-        "moon",
-        "yeong",
-        "haesin",
-        "crescent",
-        "moon",
-        "yeong",
-        "haesin",
+        "jogakdal",
+        "jogakdal",
         "crescent",
         "moon"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "kakaopage",
-        "daum"
+        "ash",
+        "possesses",
+        "natural",
+        "talent",
+        "sculpture",
+        "cannot",
+        "see",
+        "clearly",
+        "finds",
+        "himself",
+        "danger",
+        "being",
+        "caught",
+        "mysterious",
+        "incident",
+        "fleeing",
+        "pursuers",
+        "black",
+        "forest",
+        "place",
+        "said",
+        "inhabited",
+        "monsters",
+        "ash"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.51
   }
 }

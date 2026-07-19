@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Timing of Falling in Love",
-  "mangabaka_title": "The Timing of Falling in Love",
+  "mangabaka_title": "Sarange Ppajineun Timing",
   "native_title": "사랑에 빠지는 타이밍",
-  "romanized_title": null,
+  "romanized_title": "Sarange Ppajineun Timing",
   "titles": [
     {
       "language": "ko",
       "title": "사랑에 빠지는 타이밍",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sarange Ppajineun Timing",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,36 +33,40 @@
       "note": null
     }
   ],
-  "description": "Lee Ba-Da, can see \"Sappatam\" (the time it takes to fall in love). While using her ability to help others find love, she ends up falling for her childhood friend of ten years, Hyun-Jae. Due to her power, she believes that love is merely a temporary feeling caused by \"Sappatam\"... A youth romance about wounded and healed protagonists navigating a storm of emotions.\n\n**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/69622917/), [Daum](https://webtoon.kakao.com/content/%EC%82%AC%EB%9E%91%EC%97%90-%EB%B9%A0%EC%A7%80%EB%8A%94-%ED%83%80%EC%9D%B4%EB%B0%8D/4903)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNTgzLmpwZw",
+  "description": "Lee Ba-Da, a female protagonist who can see “the moment people fall in love” (Sappa-tam). While using her ability to help others find love, she ends up falling for Hyeon-Jae, her childhood friend of ten years. Because of her ability, she believes that love is merely a fleeting emotion caused by “Sappa-tam”…\n\nA coming-of-age romance about the protagonists navigating a storm of emotions, as they experience both heartbreak and healing.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDE4OC1IZzVuMGZDOFBFdlEuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-08T04:08:35.871Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-15T17:47:22.235Z",
-  "mangabaka_latest_rank": 60,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "last_updated_at": "2026-07-18T18:06:42.496Z",
+  "mangabaka_latest_rank": 65,
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
-    "Chettu"
+    "Ju-Yeon Kang"
   ],
   "artists": [
-    "Kang Ju-Yeon"
+    "Chettu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596015",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214188,
+      "rating": null,
+      "url": "https://anilist.co/manga/214188"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "387wgej",
@@ -61,8 +76,14 @@
   },
   "tag_ids": [
     40,
+    107,
+    108,
     6,
-    9
+    117,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,21 +91,25 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6095,
+    "popularityPercentile": 0.2035,
+    "fanFavouriteDiscoveryScore": 5.0938,
+    "fanFavouriteDiscoveryPercentile": 0.2035
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
       "modern-korea",
-      "romance-core"
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -102,18 +127,22 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "timing",
       "falling",
       "love",
+      "sarange",
+      "ppajineun",
       "lee",
       "ba-da",
+      "female",
+      "protagonist",
       "see",
-      "sappatam",
-      "time",
-      "takes",
+      "moment",
+      "people",
       "fall",
+      "sappa-tam",
       "while",
       "using",
       "ability",
@@ -121,37 +150,46 @@
       "others",
       "find",
       "ends",
+      "hyeon-jae",
       "childhood",
       "friend",
       "ten",
-      "years",
-      "hyun-jae",
-      "due",
-      "power"
+      "years"
     ],
     "evidence": {
       "tags": [
         "Shoujo",
+        "School",
+        "Heterosexual",
         "Comedy",
-        "Romance"
+        "Coming of Age",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "timing",
         "falling",
         "love",
+        "sarange",
+        "ppajineun",
         "timing",
-        "falling",
-        "love"
+        "sarange",
+        "ppajineun",
+        "timing"
       ],
       "descriptionTerms": [
         "lee",
         "ba-da",
+        "female",
+        "protagonist",
         "see",
-        "sappatam",
-        "time",
-        "takes",
+        "moment",
+        "people",
         "fall",
         "love",
+        "sappa-tam",
         "while",
         "using",
         "ability",
@@ -161,18 +199,17 @@
         "love",
         "ends",
         "falling",
+        "hyeon-jae",
         "childhood",
         "friend",
         "ten",
-        "years",
-        "hyun-jae",
-        "due",
-        "power"
+        "years"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.58
   }
 }

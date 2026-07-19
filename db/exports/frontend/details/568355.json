@@ -2,8 +2,8 @@
   "id": 568355,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Confined for 1 Year for 100 Million Won, Deal?",
-  "mangabaka_title": "1-nyeon Gamgeumdanghago 1-eok Batgi, Ganeung?",
+  "display_title": "Bribed into Confinement",
+  "mangabaka_title": "Bribed into Confinement",
   "native_title": "1년 감금당하고 1억 받기, 가능?",
   "romanized_title": "1-nyeon Gamgeumdanghago 1-eok Batgi, Ganeung?",
   "titles": [
@@ -41,9 +41,18 @@
     },
     {
       "language": "en",
+      "title": "Bribed into Confinement",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Confined for 1 Year for 100 Million Won, Deal?",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -59,7 +68,7 @@
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-12-04",
@@ -69,9 +78,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-17T11:48:57.839Z",
-  "mangabaka_latest_rank": 1602,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "last_updated_at": "2026-07-18T14:17:49.765Z",
+  "mangabaka_latest_rank": 1607,
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
     "Ranjji",
     "Yurua"
@@ -101,6 +110,7 @@
     59,
     108,
     46,
+    14,
     41,
     31,
     9,
@@ -115,10 +125,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5654,
-    "popularityPercentile": 9.4908,
-    "fanFavouriteDiscoveryScore": 9.282,
-    "fanFavouriteDiscoveryPercentile": 8.676
+    "fanRatioPercentile": 31.6095,
+    "popularityPercentile": 9.4761,
+    "fanFavouriteDiscoveryScore": 9.2869,
+    "fanFavouriteDiscoveryPercentile": 8.6996
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -150,12 +160,8 @@
     },
     "semanticSummary": "romance-core / system",
     "searchKeywords": [
-      "confined",
-      "year",
-      "100",
-      "million",
-      "won",
-      "deal",
+      "bribed",
+      "confinement",
       "1-nyeon",
       "gamgeumdanghago",
       "1-eok",
@@ -191,6 +197,7 @@
         "Female Lead",
         "Heterosexual",
         "Adult",
+        "Erotica",
         "Smut",
         "Drama",
         "Romance",
@@ -199,18 +206,15 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "confined",
-        "year",
-        "100",
-        "million",
-        "won",
-        "deal",
+        "bribed",
+        "confinement",
+        "bribed",
+        "confinement",
         "1-nyeon",
         "gamgeumdanghago",
         "1-eok",
         "batgi",
-        "ganeung",
-        "1-nyeon"
+        "ganeung"
       ],
       "descriptionTerms": [
         "late",
@@ -243,6 +247,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.46
   }
 }

@@ -10,48 +10,56 @@
     {
       "language": "ko",
       "title": "중도 빌라",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Jungdo Villa",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**     \n[Daum](https://webtoon.kakao.com/content/%EC%A4%91%EB%8F%84-%EB%B9%8C%EB%9D%BC/4401), [KakaoPage](https://page.kakao.com/content/66066031)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2p1bmdkby12aWxsYS0xLndlYnA_dD0xNzY1ODQzNjA4",
+  "description": "Jungdo Villa is a multi-family home where seven households live. From a six-year-old child to a 90-year-old senior, a diverse group of people call it home.\n\nNo one thinks exactly like me, and there’s so much I don’t understand, but we go about our lives, bumping into each other, breaking apart, and finding our way... In the process, people become family, friends, and neighbors. Ordinary people, neither extraordinary nor special, whose lives are just like ours, as they laugh and cry their story unfolds.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDE5NS1OM2pYdXMwQmgwaGMucG5n",
   "total_chapters": "64",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2025-02-16",
+    "end_date": "2026-03-29",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T08:38:28.934Z",
-  "mangabaka_latest_rank": 9695,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "last_updated_at": "2026-07-19T01:46:15.212Z",
+  "mangabaka_latest_rank": 9700,
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
-    "Sim Udo"
+    "Heung-A Sim"
   ],
   "artists": [
-    "Sim Udo"
+    "Heung-A Sim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/91140",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214195,
+      "rating": null,
+      "url": "https://anilist.co/manga/214195"
+    },
     "animeplanet": {
       "id": "jungdo-villa",
       "rating": null,
@@ -77,9 +85,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6095,
+    "popularityPercentile": 0.2035,
+    "fanFavouriteDiscoveryScore": 5.0938,
+    "fanFavouriteDiscoveryPercentile": 0.2035
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -109,10 +119,27 @@
     "searchKeywords": [
       "jungdo",
       "villa",
-      "original",
-      "webtoon",
-      "daum",
-      "kakaopage"
+      "multi-family",
+      "home",
+      "seven",
+      "households",
+      "live",
+      "six-year-old",
+      "child",
+      "90-year-old",
+      "senior",
+      "diverse",
+      "group",
+      "people",
+      "call",
+      "thinks",
+      "exactly",
+      "much",
+      "don",
+      "understand",
+      "our",
+      "lives",
+      "bumping"
     ],
     "evidence": {
       "tags": [
@@ -132,12 +159,33 @@
         "villa"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "daum",
-        "kakaopage"
+        "jungdo",
+        "villa",
+        "multi-family",
+        "home",
+        "seven",
+        "households",
+        "live",
+        "six-year-old",
+        "child",
+        "90-year-old",
+        "senior",
+        "diverse",
+        "group",
+        "people",
+        "call",
+        "home",
+        "thinks",
+        "exactly",
+        "much",
+        "don",
+        "understand",
+        "our",
+        "lives",
+        "bumping"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]

@@ -24,19 +24,19 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "On a Leash",
       "traits": [
-        "official"
+        "native"
       ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "On a Leash",
       "traits": [
-        "native"
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.581Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-17T17:44:25.698Z",
+  "last_updated_at": "2026-07-19T00:25:17.346Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
     "Aji"
   ],
@@ -118,6 +118,7 @@
   "tag_ids": [
     250,
     333,
+    1014,
     59,
     247,
     336,
@@ -128,12 +129,14 @@
     623,
     575,
     308,
+    1200,
     36,
     46,
     14,
     15,
     41,
     109,
+    986,
     95,
     348,
     342,
@@ -141,6 +144,7 @@
     39,
     31,
     4,
+    1948,
     33,
     326,
     230,
@@ -153,20 +157,21 @@
   ],
   "stats": {
     "popularity": 1947,
-    "favourites": 104,
+    "favourites": 103,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 5.3416,
-    "fanRatioPercentile": 97.0426,
-    "popularityPercentile": 88.9853,
-    "fanFavouriteDiscoveryScore": 96.7344,
-    "fanFavouriteDiscoveryPercentile": 98.7476
+    "fanFavouriteRaw": 5.2902,
+    "fanRatioPercentile": 97.0449,
+    "popularityPercentile": 88.971,
+    "fanFavouriteDiscoveryScore": 96.7362,
+    "fanFavouriteDiscoveryPercentile": 98.741
   },
   "context": {
     "primaryProfile": "horror-survival",
     "profileGroups": [
       "horror-survival",
+      "modern-korea",
       "regression-return",
       "romance-core"
     ],
@@ -175,7 +180,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -197,7 +204,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival",
+    "semanticSummary": "horror-survival / modern-korea",
     "searchKeywords": [
       "leash",
       "tensions",
@@ -226,6 +233,7 @@
       "tags": [
         "Murder",
         "Primarily Female Cast",
+        "Female Fighters",
         "Female Lead",
         "Non-Human Protagonist",
         "Foreign",
@@ -236,12 +244,14 @@
         "Soldier",
         "Human-Nonhuman Relationship",
         "Interspecies Relationship",
+        "Lesbian",
         "Fantasy",
         "Adult",
         "Erotica",
         "Mature",
         "Smut",
         "Nudity",
+        "Partial Nudity",
         "Rape",
         "Human Pets",
         "Anthropomorphic",
@@ -249,6 +259,7 @@
         "Action",
         "Drama",
         "Girls Love",
+        "Korean Girls Love",
         "Yuri",
         "LGBTQ+",
         "Military",
@@ -297,6 +308,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.89
   }
 }

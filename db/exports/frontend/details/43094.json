@@ -85,9 +85,9 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-17T15:32:25.411Z",
+  "last_updated_at": "2026-07-18T17:22:19.495Z",
   "mangabaka_latest_rank": null,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
     "Gugu",
     "Jang-Ryang",
@@ -118,31 +118,55 @@
     }
   },
   "tag_ids": [
+    288,
+    167,
+    521,
+    248,
+    467,
+    158,
     75,
     74,
+    336,
     275,
     838,
+    125,
     260,
+    513,
     402,
     1699,
     575,
+    406,
+    108,
     36,
     22,
     682,
+    338,
     985,
     14,
     41,
     1051,
+    100,
+    99,
     95,
+    369,
+    317,
     160,
+    499,
     180,
     16,
+    673,
     1032,
+    31,
+    341,
+    378,
+    227,
     9,
     994,
+    262,
     93,
     57,
-    428
+    428,
+    121
   ],
   "stats": {
     "popularity": 279,
@@ -151,17 +175,24 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.7921,
-    "fanRatioPercentile": 65.8695,
-    "popularityPercentile": 58.6647,
-    "fanFavouriteDiscoveryScore": 63.3438,
-    "fanFavouriteDiscoveryPercentile": 71.6786
+    "fanRatioPercentile": 66.0309,
+    "popularityPercentile": 58.6732,
+    "fanFavouriteDiscoveryScore": 63.5007,
+    "fanFavouriteDiscoveryPercentile": 71.8206
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
+      "horror-survival",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression",
+      "horror-survival"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
@@ -169,21 +200,25 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
+        "politics",
         "romance"
       ],
       "progressionType": [],
       "tone": [
         "dark",
+        "tense",
         "warm"
       ],
       "worldType": [
+        "modern-urban",
         "fantasy-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "business-career-regression",
     "searchKeywords": [
       "step",
       "hell",
@@ -212,31 +247,46 @@
     ],
     "evidence": {
       "tags": [
+        "Crimes",
+        "Crossdressing",
+        "Gambling",
+        "Working",
+        "Kuudere",
+        "Primarily Adult Cast",
         "Based on a Novel",
         "Based on a Web Novel",
+        "Foreign",
         "Transformation",
         "Hidden past",
+        "Love Triangle",
         "Secret Identity",
+        "Butler",
         "Salarymen",
         "Demon-Human Relationship",
         "Human-Nonhuman Relationship",
+        "Master-Servant Relationship",
+        "Heterosexual",
         "Fantasy",
         "Supernatural",
         "Supernatural Elements",
+        "Urban",
         "Dubious Consent",
         "Erotica",
         "Smut",
         "Rape as a Start of Relationship",
+        "Anal Intercourse",
+        "Oral Intercourse",
         "Rape",
+        "Virginity",
+        "Dragons",
         "Demons",
+        "Adoption",
         "Boys Love",
         "Yaoi",
+        "Conspiracy",
         "Contracts",
-        "Romance",
-        "Traumatic Past",
-        "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Drama",
+        "Guns"
       ],
       "titleTerms": [
         "step",
@@ -279,6 +329,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.59
+    "confidence": 1
   }
 }

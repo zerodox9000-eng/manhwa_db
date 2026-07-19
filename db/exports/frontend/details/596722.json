@@ -2,7 +2,7 @@
   "id": 596722,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Matgo Kkeunnaelgeyo",
+  "display_title": "I'll Take the Hit",
   "mangabaka_title": "Matgo Kkeunnaelgeyo",
   "native_title": "맞고 끝낼게요",
   "romanized_title": "Matgo Kkeunnaelgeyo",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I'll Take the Hit",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -41,9 +48,9 @@
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-17T22:31:46.397Z",
-  "mangabaka_latest_rank": 7,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "last_updated_at": "2026-07-19T03:55:23.722Z",
+  "mangabaka_latest_rank": 12,
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
     "Daltokki",
     "Gyeong Hwan"
@@ -62,7 +69,11 @@
       "url": "https://anilist.co/manga/214122"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "1hc3r6d",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/1hc3r6d"
+    }
   },
   "tag_ids": [
     59,
@@ -73,16 +84,16 @@
     428
   ],
   "stats": {
-    "popularity": 1,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5654,
-    "popularityPercentile": 0.2037,
-    "fanFavouriteDiscoveryScore": 5.0868,
-    "fanFavouriteDiscoveryPercentile": 0.2037
+    "fanRatioPercentile": 31.6095,
+    "popularityPercentile": 0.9122,
+    "fanFavouriteDiscoveryScore": 5.3512,
+    "fanFavouriteDiscoveryPercentile": 0.8745
   },
   "context": {
     "primaryProfile": null,
@@ -104,6 +115,8 @@
     },
     "semanticSummary": "",
     "searchKeywords": [
+      "take",
+      "hit",
       "matgo",
       "kkeunnaelgeyo"
     ],
@@ -117,8 +130,8 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "matgo",
-        "kkeunnaelgeyo",
+        "take",
+        "hit",
         "matgo",
         "kkeunnaelgeyo",
         "matgo",
@@ -126,7 +139,8 @@
       ],
       "descriptionTerms": [],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
     "confidence": 0.34

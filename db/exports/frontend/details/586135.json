@@ -29,7 +29,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5700001001), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14016990), [MrBlue](https://www.mrblue.com/webtoon/wt_000077665)",
+  "description": "A story about a housewife in her sixth year of marriage who has lost her sense of self due to her husband's indifference, who, after changing her appearance by chance, discovers herself she had forgotten amidst the gazes and temptations of others, and chooses a new direction in life.\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5700001001), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14016990), [MrBlue](https://www.mrblue.com/webtoon/wt_000077665)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIyNzU2LmpwZw",
   "total_chapters": "12",
   "status": "completed",
@@ -44,9 +44,9 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-16T11:08:31.615Z",
-  "mangabaka_latest_rank": 695,
-  "mangabaka_latest_snapshot_at": "2026-07-18T04:12:20.512Z",
+  "last_updated_at": "2026-07-18T11:20:05.214Z",
+  "mangabaka_latest_rank": 700,
+  "mangabaka_latest_snapshot_at": "2026-07-19T04:35:34.385Z",
   "authors": [
     "Studio Moon"
   ],
@@ -87,7 +87,8 @@
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -98,11 +99,13 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [],
       "tone": [],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -112,12 +115,30 @@
       "woman",
       "missy",
       "look",
+      "housewife",
+      "sixth",
+      "year",
+      "marriage",
+      "lost",
+      "sense",
+      "self",
+      "due",
+      "husband",
+      "indifference",
+      "changing",
+      "appearance",
+      "chance",
+      "discovers",
+      "herself",
+      "forgotten",
+      "amidst",
+      "gazes",
+      "temptations",
+      "others",
+      "chooses",
+      "direction",
       "original",
-      "webtoon",
-      "ridibooks",
-      "naver",
-      "series",
-      "mrblue"
+      "webtoon"
     ],
     "evidence": {
       "tags": [
@@ -139,17 +160,35 @@
         "look"
       ],
       "descriptionTerms": [
+        "housewife",
+        "sixth",
+        "year",
+        "marriage",
+        "lost",
+        "sense",
+        "self",
+        "due",
+        "husband",
+        "indifference",
+        "changing",
+        "appearance",
+        "chance",
+        "discovers",
+        "herself",
+        "forgotten",
+        "amidst",
+        "gazes",
+        "temptations",
+        "others",
+        "chooses",
+        "direction",
         "original",
-        "webtoon",
-        "ridibooks",
-        "naver",
-        "series",
-        "mrblue"
+        "webtoon"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.48
   }
 }
