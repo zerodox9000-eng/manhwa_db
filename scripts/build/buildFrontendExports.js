@@ -1249,7 +1249,10 @@ for (
     ),
 
     JSON.stringify(
-      entry,
+      {
+        ...entry,
+        display_title: applyTitleDisplayOverride(entry, titleDisplayOverrides),
+      },
       null,
       2
     )
