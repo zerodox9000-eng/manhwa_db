@@ -6,10 +6,41 @@ const { GraphQLClient, gql } = require("graphql-request");
 
 const INPUT_DIR = path.resolve(__dirname, "../../db/processed/by-year");
 const OUTPUT_DIR = path.resolve(__dirname, "../../db/enriched/anilist");
+const PERMANENT_MISSING_FILE = path.resolve(__dirname, "../../db/curation/anilist-permanent-missing.json");
 const client = new GraphQLClient("https://graphql.anilist.co");
 const BATCH_SIZES = [40, 10, 3, 1];
 const REQUEST_DELAYS = [2200, 3000, 5000, 8000];
 const MAX_RATE_LIMIT_RETRIES = 5;
+
+function permanentMissingKey(mangabakaId, anilistId) {
+  return `${Number(mangabakaId)}:${Number(anilistId)}`;
+}
+
+function loadPermanentMissingKeys() {
+  if (!fs.existsSync(PERMANENT_MISSING_FILE)) return new Set();
+  const entries = JSON.parse(fs.readFileSync(PERMANENT_MISSING_FILE, "utf8"));
+  if (!Array.isArray(entries)) throw new Error("AniList permanent-missing registry must be an array");
+
+  return new Set(entries.map((entry) => {
+    if (!Number.isInteger(Number(entry?.mangabakaId)) || !Number.isInteger(Number(entry?.anilistId))) {
+      throw new Error("AniList permanent-missing registry contains an invalid ID pair");
+    }
+    return permanentMissingKey(entry.mangabakaId, entry.anilistId);
+  }));
+}
+
+const PERMANENT_MISSING_KEYS = loadPermanentMissingKeys();
+
+function isPermanentlyMissing(entry) {
+  return PERMANENT_MISSING_KEYS.has(permanentMissingKey(entry.id, entry.source?.anilist?.id));
+}
+
+function partitionExpectedEntries(expected) {
+  return {
+    permanentlyMissing: expected.filter(isPermanentlyMissing),
+    fetchable: expected.filter((entry) => !isPermanentlyMissing(entry)),
+  };
+}
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -123,7 +154,20 @@ async function processFile(file, stagingDir) {
   console.log(`Processing ${file}`);
   console.log(`AniList entries: ${expected.length}`);
 
-  const results = await enrichAdaptive(expected, year);
+  const { permanentlyMissing, fetchable } = partitionExpectedEntries(expected);
+  if (permanentlyMissing.length) {
+    console.log(`Skipping ${permanentlyMissing.length} confirmed missing AniList ID(s) for ${year}.`);
+  }
+
+  const fetchedResults = await enrichAdaptive(fetchable, year);
+  const fetchedById = new Map(fetchedResults.map((result) => [result.id, result]));
+  const permanentlyMissingIds = new Set(permanentlyMissing.map((entry) => entry.id));
+  const results = expected.map((entry) => permanentlyMissingIds.has(entry.id)
+    ? currentResult(entry, null)
+    : fetchedById.get(entry.id));
+  if (results.some((result) => !result)) {
+    throw new Error(`AniList current-run coverage mismatch for ${year}`);
+  }
   const expectedIds = new Set(expected.map(entry => entry.id));
   const actualIds = new Set(results.map(entry => entry.id));
 
@@ -185,7 +229,11 @@ async function main() {
   console.log(`AniList refresh complete for ${refreshed.length}/${files.length} years.`);
 }
 
-main().catch(error => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (require.main === module) {
+  main().catch(error => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}
+
+module.exports = { partitionExpectedEntries };

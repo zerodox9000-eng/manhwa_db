@@ -18,6 +18,7 @@ Owns backend data files and generated frontend exports.
 - Frontend must consume only `db/exports/frontend/`.
 - Do not hand-edit generated data unless the user explicitly asks for a surgical repair and the pipeline path is unsafe or unavailable.
 - Keep compressed and uncompressed frontend exports in sync when export files are regenerated.
+- `curation/anilist-permanent-missing.json` is a reviewed registry of exact MangaBaka/AniList ID pairs confirmed absent from AniList. It prevents repeat 404 retries while preserving a null stats record and full year coverage.
 
 ## Work Guidance
 
