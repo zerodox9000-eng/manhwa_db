@@ -5,6 +5,7 @@ Owns GitHub Actions workflows for backend pipeline automation.
 ## Ownership
 
 - Daily pipeline, manual dispatch, and publishing automation live here.
+- The manual frontend-export rebuild updates generated PWA exports from the committed backend data only. It must not fetch sources, enrich AniList, or replace the daily pipeline.
 
 ## Local Contracts
 

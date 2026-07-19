@@ -9,6 +9,7 @@
     "retry": "node scripts/enrich/retryFailed.js",
     "snapshot": "node scripts/snapshots/snapshotAniList.js",
     "build:frontend": "node scripts/build/fetchMangabakaLatest.js && node scripts/build/buildFrontendExports.js",
+    "build:frontend:cached": "node scripts/build/buildFrontendExports.js",
     "build:frontend:v2": "node scripts/build/buildFrontendV2Exports.js",
     "validate:frontend": "node scripts/evaluate/validateFrontendStatsExport.js",
     "validate:anilist": "node scripts/evaluate/validateAniListCoverage.js",
