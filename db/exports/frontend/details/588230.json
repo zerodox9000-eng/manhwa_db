@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T03:55:36.120Z",
+  "last_updated_at": "2026-07-19T21:32:10.779Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -114,7 +114,10 @@
     43,
     1094,
     74,
+    126,
     578,
+    164,
+    108,
     36,
     94,
     639,
@@ -124,19 +127,20 @@
     9,
     93,
     57,
-    428
+    428,
+    121
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6095,
-    "popularityPercentile": 0.2035,
-    "fanFavouriteDiscoveryScore": 5.0938,
-    "fanFavouriteDiscoveryPercentile": 0.2035
+    "fanRatioPercentile": 31.6051,
+    "popularityPercentile": 5.1846,
+    "fanFavouriteDiscoveryScore": 7.123,
+    "fanFavouriteDiscoveryPercentile": 4.7702
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -175,7 +179,7 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
     "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
@@ -216,7 +220,10 @@
         "Josei",
         "Blonde-Haired Female Lead",
         "Based on a Web Novel",
+        "Reincarnation",
         "Knight",
+        "Male Harem",
+        "Heterosexual",
         "Fantasy",
         "Isekai",
         "Reincarnated in a Book World",
@@ -226,7 +233,8 @@
         "Romance",
         "Longstrip",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Magic"
       ],
       "titleTerms": [
         "villain",
@@ -272,6 +280,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.86
+    "confidence": 0.9
   }
 }

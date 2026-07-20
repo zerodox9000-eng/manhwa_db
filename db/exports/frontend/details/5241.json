@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:41:08.376Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T03:22:24.095Z",
+  "last_updated_at": "2026-07-19T16:11:25.630Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -130,16 +130,19 @@
     }
   },
   "tag_ids": [
+    410,
     72,
     1801,
     1029,
     2028,
     334,
     107,
+    257,
     162,
     895,
     125,
     647,
+    172,
     1066,
     108,
     573,
@@ -156,20 +159,21 @@
     428
   ],
   "stats": {
-    "popularity": 3350,
-    "favourites": 153,
+    "popularity": 3355,
+    "favourites": 154,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 4.5672,
-    "fanRatioPercentile": 95.4165,
-    "popularityPercentile": 93.5319,
-    "fanFavouriteDiscoveryScore": 95.2088,
-    "fanFavouriteDiscoveryPercentile": 97.8666
+    "fanFavouriteRaw": 4.5902,
+    "fanRatioPercentile": 95.4484,
+    "popularityPercentile": 93.5343,
+    "fanFavouriteDiscoveryScore": 95.2406,
+    "fanFavouriteDiscoveryPercentile": 97.8824
   },
   "context": {
     "primaryProfile": "sports-career",
     "profileGroups": [
+      "regression-return",
       "romance-core",
       "school-life",
       "sports-career"
@@ -232,16 +236,19 @@
     ],
     "evidence": {
       "tags": [
+        "Drawing",
         "Beautiful Female Lead",
         "Blushing Female Lead",
         "Blushing Male Lead",
         "Bully",
         "Primarily Teen Cast",
         "School",
+        "College",
         "High School",
         "Love Rival",
         "Love Triangle",
         "Misunderstandings",
+        "Time Skip",
         "Multiple Couples",
         "Heterosexual",
         "Student-Student Relationship",
@@ -298,6 +305,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.82
+    "confidence": 0.89
   }
 }

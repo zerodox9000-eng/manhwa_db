@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-19T03:55:38.074Z",
+  "last_updated_at": "2026-07-19T22:33:13.781Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -110,24 +110,27 @@
     }
   },
   "tag_ids": [
+    8,
     58,
+    107,
     39,
     31,
+    42,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 11,
+    "popularity": 21,
     "favourites": null,
     "meanScore": 81
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6095,
-    "popularityPercentile": 7.026,
-    "fanFavouriteDiscoveryScore": 8.0062,
-    "fanFavouriteDiscoveryPercentile": 6.4908
+    "fanRatioPercentile": 31.6051,
+    "popularityPercentile": 14.4461,
+    "fanFavouriteDiscoveryScore": 12.2096,
+    "fanFavouriteDiscoveryPercentile": 12.9992
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -139,7 +142,8 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -148,13 +152,15 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "looking",
       "top-tier",
@@ -191,9 +197,12 @@
     ],
     "evidence": {
       "tags": [
+        "Seinen",
         "Male Lead",
+        "School",
         "Action",
         "Drama",
+        "School Life",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -243,6 +252,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.51
   }
 }

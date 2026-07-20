@@ -639,6 +639,14 @@
     "parent_id": 570,
     "level": 4
   },
+  "87": {
+    "id": 87,
+    "name": "Based on a Manga",
+    "path": "Derivative Work > Based on > Based on Literature > Based on a Manga",
+    "is_genre": false,
+    "parent_id": 570,
+    "level": 4
+  },
   "88": {
     "id": 88,
     "name": "Based on a Movie",
@@ -3535,6 +3543,14 @@
     "parent_id": 545,
     "level": 2
   },
+  "550": {
+    "id": 550,
+    "name": "Unicorn",
+    "path": "Species & Creatures > Mythical Beast > Unicorn",
+    "is_genre": false,
+    "parent_id": 549,
+    "level": 3
+  },
   "553": {
     "id": 553,
     "name": "Big Ass",
@@ -5291,6 +5307,14 @@
     "id": 791,
     "name": "North America",
     "path": "Locations > America > North America",
+    "is_genre": false,
+    "parent_id": 298,
+    "level": 3
+  },
+  "792": {
+    "id": 792,
+    "name": "South America",
+    "path": "Locations > America > South America",
     "is_genre": false,
     "parent_id": 298,
     "level": 3
@@ -7863,12 +7887,28 @@
     "parent_id": 1329,
     "level": 4
   },
+  "1323": {
+    "id": 1323,
+    "name": "Denmark",
+    "path": "Locations > Europe > Northern Europe > Denmark",
+    "is_genre": false,
+    "parent_id": 1330,
+    "level": 4
+  },
   "1324": {
     "id": 1324,
     "name": "Austria",
     "path": "Locations > Europe > Western Europe > Austria",
     "is_genre": false,
     "parent_id": 1325,
+    "level": 4
+  },
+  "1333": {
+    "id": 1333,
+    "name": "Greece",
+    "path": "Locations > Europe > Southern Europe > Greece",
+    "is_genre": false,
+    "parent_id": 1329,
     "level": 4
   },
   "1334": {
@@ -7911,6 +7951,14 @@
     "parent_id": 1330,
     "level": 4
   },
+  "1340": {
+    "id": 1340,
+    "name": "Scotland",
+    "path": "Locations > Europe > Northern Europe > United Kingdom > Scotland",
+    "is_genre": false,
+    "parent_id": 1339,
+    "level": 5
+  },
   "1344": {
     "id": 1344,
     "name": "Poland",
@@ -7925,6 +7973,14 @@
     "path": "Locations > Europe > Eastern Europe > Russia",
     "is_genre": false,
     "parent_id": 1331,
+    "level": 4
+  },
+  "1348": {
+    "id": 1348,
+    "name": "Sweden",
+    "path": "Locations > Europe > Northern Europe > Sweden",
+    "is_genre": false,
+    "parent_id": 1330,
     "level": 4
   },
   "1349": {
@@ -11975,6 +12031,14 @@
     "parent_id": 4,
     "level": 3
   },
+  "1950": {
+    "id": 1950,
+    "name": "Japanese Ambience",
+    "path": "Settings > Japanese Ambience",
+    "is_genre": false,
+    "parent_id": 539,
+    "level": 2
+  },
   "1953": {
     "id": 1953,
     "name": "Thailand",
@@ -12719,6 +12783,14 @@
     "parent_id": 86,
     "level": 5
   },
+  "2054": {
+    "id": 2054,
+    "name": "Sherlock Holmes",
+    "path": "Derivative Work > Based on > Based on Literature > Based on a Classic > Sherlock Holmes",
+    "is_genre": false,
+    "parent_id": 86,
+    "level": 5
+  },
   "2055": {
     "id": 2055,
     "name": "Journey to the West",
@@ -12782,6 +12854,22 @@
     "is_genre": false,
     "parent_id": 45,
     "level": 5
+  },
+  "2067": {
+    "id": 2067,
+    "name": "India",
+    "path": "Locations > Asia > India",
+    "is_genre": false,
+    "parent_id": 789,
+    "level": 3
+  },
+  "2068": {
+    "id": 2068,
+    "name": "India",
+    "path": "Locations > Asia > India > India",
+    "is_genre": false,
+    "parent_id": 2067,
+    "level": 4
   },
   "2070": {
     "id": 2070,
@@ -18207,6 +18295,14 @@
     "parent_id": 538,
     "level": 2
   },
+  "2843": {
+    "id": 2843,
+    "name": "Monkey",
+    "path": "Species & Creatures > Animals > Monkey",
+    "is_genre": false,
+    "parent_id": 278,
+    "level": 3
+  },
   "2844": {
     "id": 2844,
     "name": "Prophets",
@@ -18245,6 +18341,14 @@
     "path": "Narrative Tropes > Past Friendship",
     "is_genre": false,
     "parent_id": 563,
+    "level": 2
+  },
+  "2849": {
+    "id": 2849,
+    "name": "Airship",
+    "path": "Objects > Airship",
+    "is_genre": false,
+    "parent_id": 1071,
     "level": 2
   },
   "2850": {

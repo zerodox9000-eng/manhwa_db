@@ -150,7 +150,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.146Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-18T15:53:18.551Z",
+  "last_updated_at": "2026-07-19T15:54:45.526Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -202,6 +202,7 @@
     72,
     1993,
     158,
+    59,
     1026,
     2220,
     2195,
@@ -223,12 +224,14 @@
     1156,
     2883,
     1875,
+    125,
     126,
     260,
     265,
     898,
     1857,
     687,
+    163,
     1571,
     889,
     108,
@@ -243,6 +246,8 @@
     1171,
     22,
     641,
+    176,
+    317,
     340,
     475,
     252,
@@ -254,6 +259,7 @@
     1816,
     44,
     893,
+    1084,
     1005,
     883,
     267,
@@ -265,16 +271,16 @@
     121
   ],
   "stats": {
-    "popularity": 18900,
+    "popularity": 18935,
     "favourites": 768,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 4.0635,
-    "fanRatioPercentile": 93.7052,
-    "popularityPercentile": 99.3215,
-    "fanFavouriteDiscoveryScore": 93.5792,
-    "fanFavouriteDiscoveryPercentile": 96.8489
+    "fanFavouriteRaw": 4.056,
+    "fanRatioPercentile": 93.6925,
+    "popularityPercentile": 99.3293,
+    "fanFavouriteDiscoveryScore": 93.5666,
+    "fanFavouriteDiscoveryPercentile": 96.8425
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -285,7 +291,9 @@
       "modern-korea",
       "modern-workplace",
       "murim-wuxia",
-      "regression-return"
+      "office-romance",
+      "regression-return",
+      "romance-core"
     ],
     "primaryAnchors": [
       "business-career-regression",
@@ -321,7 +329,7 @@
         "fantasy-world",
         "system-world"
       ],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "minor",
       "systemRole": "major"
     },
@@ -377,6 +385,7 @@
         "Beautiful Female Lead",
         "Muscles",
         "Primarily Adult Cast",
+        "Female Lead",
         "Adult Female Lead",
         "Affectionate Female Lead",
         "Badass Female Lead",
@@ -396,8 +405,7 @@
         "Dungeon",
         "Weak to Strong",
         "Comedic Undertone",
-        "Hidden Identity",
-        "Kill or Be Killed Situation"
+        "Hidden Identity"
       ],
       "titleTerms": [
         "surviving",
