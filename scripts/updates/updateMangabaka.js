@@ -27,6 +27,8 @@ const CHANGELOG_DIR =
 
 const YEARS = Array.from({ length: new Date().getFullYear() - 2013 }, (_, i) => 2014 + i);
 
+const REQUEST_GAP_MS = 2500;
+
 function sleep(ms) {
 
   return new Promise(
@@ -127,7 +129,7 @@ while (true) {
 
   page++;
 
-  await sleep(3500);
+  await sleep(REQUEST_GAP_MS);
 }
 
 return all;
@@ -342,9 +344,16 @@ async function processYear(year) {
 
 async function main() {
 
-  for (const year of YEARS) {
+  for (let i = 0; i < YEARS.length; i++) {
+
+    const year = YEARS[i];
 
     await processYear(year);
+
+    if (i < YEARS.length - 1) {
+
+      await sleep(REQUEST_GAP_MS);
+    }
   }
 
   console.log("Done.");
