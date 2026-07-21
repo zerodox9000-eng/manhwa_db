@@ -134,7 +134,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.173Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T19:45:12.481Z",
+  "last_updated_at": "2026-07-20T21:40:14.810Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -154,7 +154,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/159193"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "tired-of-living-in-fiction",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/tired-of-living-in-fiction"
+    },
     "mangaupdates": {
       "id": "39m2gb1",
       "rating": 69,
@@ -184,6 +188,7 @@
     450,
     36,
     94,
+    258,
     638,
     1010,
     1129,
@@ -199,16 +204,16 @@
     428
   ],
   "stats": {
-    "popularity": 1572,
+    "popularity": 1571,
     "favourites": 22,
     "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 1.3995,
-    "fanRatioPercentile": 55.4333,
-    "popularityPercentile": 86.8576,
-    "fanFavouriteDiscoveryScore": 55.2232,
-    "fanFavouriteDiscoveryPercentile": 63.2931
+    "fanFavouriteRaw": 1.4004,
+    "fanRatioPercentile": 55.3857,
+    "popularityPercentile": 86.8635,
+    "fanFavouriteDiscoveryScore": 55.1758,
+    "fanFavouriteDiscoveryPercentile": 63.2043
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -302,6 +307,7 @@
         "European Ambience",
         "Fantasy",
         "Isekai",
+        "Isekaied Into a Novel",
         "Transmigrated into a Book World",
         "Transmigration",
         "Adopted Children",
@@ -356,6 +362,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

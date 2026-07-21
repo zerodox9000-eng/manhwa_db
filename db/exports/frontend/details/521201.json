@@ -2,10 +2,10 @@
   "id": 521201,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Falling Star",
-  "mangabaka_title": "Nakwauibyeol",
+  "display_title": "A Fallen Star",
+  "mangabaka_title": "A Fallen Star",
   "native_title": "낙화의별",
-  "romanized_title": "Falling Star (MOOHAK)",
+  "romanized_title": "Nakwauibyeol",
   "titles": [
     {
       "language": "ko",
@@ -18,14 +18,16 @@
     },
     {
       "language": "en",
-      "title": "Falling Star",
-      "traits": [],
+      "title": "A Fallen Star",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Falling Star (MOOHAK)",
+      "language": "en",
+      "title": "Falling Star",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -38,14 +40,21 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Star of the Falling Blossoms",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "A travelogue of a lover walking their life's journey, chasing after the falling stars of humanity.\n\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=843318), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13226515)",
+  "description": "In the future, humanity builds a satellite called “the Mother” that contains all human knowledge and technology. But a war soon begins between the Empire and the Republic over control of it. One side uses AI robots, and the other uses human agents augmented with “Gaia,” a bioweapon. Reid, a top Gaia warrior, becomes a legend during the war but is reassigned to guard Spia, Speaker 52 of the Mother, after the war ends.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzAvNy8yLzkvNy9kLzYvNDEwZC80YjUyL2EwYzMvYjM5Y2JmMDJiYjJl",
   "total_chapters": "44",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-10-07",
@@ -55,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-18T17:29:43.753Z",
+  "last_updated_at": "2026-07-20T17:31:15.001Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +75,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/521201",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10486"
   },
   "source": {
     "anilist": {
@@ -96,16 +105,16 @@
     428
   ],
   "stats": {
-    "popularity": 46,
+    "popularity": 50,
     "favourites": null,
     "meanScore": 63
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6051,
-    "popularityPercentile": 25.9608,
-    "fanFavouriteDiscoveryScore": 19.6486,
-    "fanFavouriteDiscoveryPercentile": 21.9066
+    "fanRatioPercentile": 31.6059,
+    "popularityPercentile": 27.4028,
+    "fanFavouriteDiscoveryScore": 20.5285,
+    "fanFavouriteDiscoveryPercentile": 22.8156
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -115,15 +124,11 @@
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [
-        "romance"
-      ],
+      "conflictType": [],
       "progressionType": [],
       "tone": [],
       "worldType": [
@@ -133,23 +138,33 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea",
     "searchKeywords": [
-      "falling",
+      "fallen",
       "star",
       "nakwauibyeol",
-      "moohak",
-      "travelogue",
-      "lover",
-      "walking",
-      "journey",
-      "chasing",
-      "stars",
+      "future",
       "humanity",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "builds",
+      "satellite",
+      "called",
+      "mother",
+      "contains",
+      "human",
+      "knowledge",
+      "technology",
+      "war",
+      "soon",
+      "begins",
+      "between",
+      "empire",
+      "republic",
+      "over",
+      "control",
+      "side",
+      "uses",
+      "robots",
+      "agents"
     ],
     "evidence": {
       "tags": [
@@ -163,33 +178,43 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "falling",
+        "fallen",
         "star",
-        "nakwauibyeol",
-        "falling",
+        "fallen",
         "star",
-        "moohak"
+        "nakwauibyeol"
       ],
       "descriptionTerms": [
-        "travelogue",
-        "lover",
-        "walking",
-        "journey",
-        "chasing",
-        "falling",
-        "stars",
+        "future",
         "humanity",
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "builds",
+        "satellite",
+        "called",
+        "mother",
+        "contains",
+        "human",
+        "knowledge",
+        "technology",
+        "war",
+        "soon",
+        "begins",
+        "between",
+        "empire",
+        "republic",
+        "over",
+        "control",
+        "side",
+        "uses",
+        "robots",
+        "uses",
+        "human",
+        "agents"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 0.43

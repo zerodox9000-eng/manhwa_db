@@ -35,6 +35,13 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Akdangman Chwigeupamnida (Promo)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "I Only Deal With Villains",
       "traits": [],
@@ -70,6 +77,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Syrinx, the Villain Healer (Promo)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "zh",
       "title": "只治恶棍",
       "traits": [],
@@ -99,7 +113,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.412Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T12:23:47.002Z",
+  "last_updated_at": "2026-07-20T21:01:34.135Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -115,10 +129,14 @@
   "source": {
     "anilist": {
       "id": 131215,
-      "rating": 72,
+      "rating": 73,
       "url": "https://anilist.co/manga/131215"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "syrinx-the-villain-healer-promo",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/syrinx-the-villain-healer-promo"
+    },
     "mangaupdates": {
       "id": "3t2xz1l",
       "rating": 65,
@@ -126,25 +144,29 @@
     }
   },
   "tag_ids": [
+    74,
     126,
     164,
     36,
     37,
     31,
     9,
-    57
+    93,
+    110,
+    57,
+    428
   ],
   "stats": {
     "popularity": 649,
     "favourites": 12,
-    "meanScore": 72
+    "meanScore": 73
   },
   "analytics": {
     "fanFavouriteRaw": 1.849,
-    "fanRatioPercentile": 67.2268,
-    "popularityPercentile": 74.0543,
-    "fanFavouriteDiscoveryScore": 66.4915,
-    "fanFavouriteDiscoveryPercentile": 75.0867
+    "fanRatioPercentile": 67.2642,
+    "popularityPercentile": 74.0509,
+    "fanFavouriteDiscoveryScore": 66.5283,
+    "fanFavouriteDiscoveryPercentile": 75.0979
   },
   "context": {
     "primaryProfile": "regression-return",
@@ -192,13 +214,17 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Reincarnation",
         "Male Harem",
         "Fantasy",
         "Adventure",
         "Drama",
         "Romance",
-        "Full Color"
+        "Longstrip",
+        "One Shot",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "treat",
@@ -218,9 +244,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.49
+    "confidence": 0.53
   }
 }

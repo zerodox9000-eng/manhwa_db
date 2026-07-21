@@ -2,8 +2,8 @@
   "id": 570948,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Can I Cry Now?",
-  "mangabaka_title": "Ije Ureodo Doelkkayo?",
+  "display_title": "May I Cry Now?",
+  "mangabaka_title": "May I Cry Now?",
   "native_title": "이제 울어도 될까요?",
   "romanized_title": "Ije Ureodo Doelkkayo?",
   "titles": [
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Can I Cry Now?",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -61,6 +61,15 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "May I Cry Now?",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "es",
       "title": "¿Puedo llorar ahora?",
       "traits": [],
@@ -75,12 +84,12 @@
       "note": null
     }
   ],
-  "description": "After killing his brother, Clois ascends to the throne. His desire to become emperor was not for personal gain but for the sake of his beloved wife and soon-to-be-born child. However, upon his return, the corpses of his wife and child greeted him, demonstrating the futility of his efforts. \n\nSeven years later, he couldn’t find joy in anything in the world. So, he didn’t care about the re-opening of the gifted academy’s admissions after seven years. Until he saw a wrinkled application form rolling on the floor. Instead of trying to enroll the child in the gifted academy, he offered various excuses. The document, thrown away like trash without even being considered due to being from a workhouse. \n\n“I approve this child’s admission.” \n\nHe wasn’t particularly interested. It was just a warning to those who tried to act arbitrarily. So he couldn’t even remember the name of the child he picked. \n\n“My name is Ivy Alden.” \n\nThe child he met in front of his wife’s and daughter’s graves resembled the daughter he had always imagined.\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/68053528), [Daum](https://webtoon.kakao.com/content/%EC%9D%B4%EC%A0%9C-%EC%9A%B8%EC%96%B4%EB%8F%84-%EB%90%A0%EA%B9%8C%EC%9A%94/4718)\n\n**Official Translations:**    \n[Japanese](https://jp.piccoma.com/web/product/200945)",
+  "description": "Evie Alden wasn't supposed to be here. A girl from the poorhouse, she was admitted to the elite Imperial Gifted Center on a whim—hand-selected by a lonely emperor despite her humble beginnings. Now an outsider, Evie faces ruthless bullying from peers who want her gone. But she has a secret weapon... a genius so undeniable that even the most feared instructors can’t ignore it. As Evie proves she belongs, she unknowingly begins to heal the broken heart of the man who thought he’d lost everything.\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9jLzMvOC82L2IvOC9iLzYvMDcxOC80NWJhLzhmMDcvYmYyMGUwYWRiM2Ix",
   "total_chapters": "49",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-12-24",
@@ -90,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T16:52:41.475Z",
+  "last_updated_at": "2026-07-20T15:56:32.843Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -102,7 +111,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/570948",
-    "read_en": null
+    "read_en": "https://tapas.io/series/may-i-cry-now/info"
   },
   "source": {
     "anilist": {
@@ -141,24 +150,22 @@
     428
   ],
   "stats": {
-    "popularity": 1180,
+    "popularity": 1192,
     "favourites": 34,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 2.8814,
-    "fanRatioPercentile": 85.6518,
-    "popularityPercentile": 83.2555,
-    "fanFavouriteDiscoveryScore": 85.2141,
-    "fanFavouriteDiscoveryPercentile": 91.3414
+    "fanFavouriteRaw": 2.8523,
+    "fanRatioPercentile": 85.2666,
+    "popularityPercentile": 83.3911,
+    "fanFavouriteDiscoveryScore": 84.8357,
+    "fanFavouriteDiscoveryPercentile": 91.1042
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
-      "regression-return",
       "romance-core",
       "school-life"
     ],
@@ -168,7 +175,6 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy",
         "school"
       ],
@@ -176,7 +182,6 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
-        "politics",
         "romance"
       ],
       "progressionType": [],
@@ -190,34 +195,35 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / school",
     "searchKeywords": [
       "cry",
       "ije",
       "ureodo",
       "doelkkayo",
-      "killing",
-      "brother",
-      "clois",
-      "ascends",
-      "throne",
-      "desire",
-      "become",
+      "evie",
+      "alden",
+      "wasn",
+      "supposed",
+      "here",
+      "girl",
+      "poorhouse",
+      "admitted",
+      "elite",
+      "imperial",
+      "gifted",
+      "center",
+      "whim",
+      "hand-selected",
+      "lonely",
       "emperor",
-      "personal",
-      "gain",
-      "sake",
-      "beloved",
-      "wife",
-      "soon-to-be-born",
-      "child",
-      "however",
-      "upon",
-      "return",
-      "corpses",
-      "greeted",
-      "demonstrating",
-      "futility"
+      "despite",
+      "humble",
+      "beginnings",
+      "outsider",
+      "faces",
+      "ruthless",
+      "bullying"
     ],
     "evidence": {
       "tags": [
@@ -241,45 +247,44 @@
       ],
       "titleTerms": [
         "cry",
-        "ije",
-        "ureodo",
-        "doelkkayo",
+        "cry",
         "ije",
         "ureodo",
         "doelkkayo"
       ],
       "descriptionTerms": [
-        "killing",
-        "brother",
-        "clois",
-        "ascends",
-        "throne",
-        "desire",
-        "become",
+        "evie",
+        "alden",
+        "wasn",
+        "supposed",
+        "here",
+        "girl",
+        "poorhouse",
+        "admitted",
+        "elite",
+        "imperial",
+        "gifted",
+        "center",
+        "whim",
+        "hand-selected",
+        "lonely",
         "emperor",
-        "personal",
-        "gain",
-        "sake",
-        "beloved",
-        "wife",
-        "soon-to-be-born",
-        "child",
-        "however",
-        "upon",
-        "return",
-        "corpses",
-        "wife",
-        "child",
-        "greeted",
-        "demonstrating",
-        "futility"
+        "despite",
+        "humble",
+        "beginnings",
+        "outsider",
+        "evie",
+        "faces",
+        "ruthless",
+        "bullying"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.96
+    "confidence": 0.82
   }
 }

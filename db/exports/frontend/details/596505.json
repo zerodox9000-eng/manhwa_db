@@ -3,28 +3,46 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Tiger and the Cat's Spine-Chilling Room Escape",
-  "mangabaka_title": "The Tiger and the Cat's Spine-Chilling Room Escape",
-  "native_title": "[계략 단편선] 호랑이와 고양이의 오싹오싹 방탈출",
-  "romanized_title": null,
+  "mangabaka_title": "Horangiwa Goyangiui Ossagossang Bangtalchul",
+  "native_title": "호랑이와 고양이의 오싹오싹 방탈출",
+  "romanized_title": "[Gyeryak Danpyeonseon] Horangiwa Goyangiui Ossagossang Bangtalchul",
   "titles": [
     {
       "language": "ko",
       "title": "호랑이와 고양이의 오싹오싹 방탈출",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계략 단편선] 호랑이와 고양이의 오싹오싹 방탈출",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "es",
       "title": "[Colección de historias cortas de intriga] El escalofriante escape de la habitación del tigre y el gato",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeryak Danpyeonseon] Horangiwa Goyangiui Ossagossang Bangtalchul",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Horangiwa Goyangiui Ossagossang Bangtalchul",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -41,29 +59,36 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Tiger and the Cat’s Spooky Escape Room",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5285002566)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyMzUxLmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*Note: The eleventh story in Metatoon's Gyeryak Danpyeonseon (계략 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDI3NC1lajJrZHhWRzl0MlguanBn",
+  "total_chapters": "5",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-14",
+    "end_date": "2026-07-14",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-15T03:59:45.684Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-19T17:59:13.164Z",
+  "last_updated_at": "2026-07-21T04:03:03.567Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gong x Soo",
-    "Haemji"
+    "Haemji",
+    "Kong x Su"
   ],
   "artists": [
     "Metatoon",
@@ -74,7 +99,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214274,
+      "rating": null,
+      "url": "https://anilist.co/manga/214274"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "l5p53ws",
@@ -93,15 +122,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6059,
+    "popularityPercentile": 0.1205,
+    "fanFavouriteDiscoveryScore": 5.0638,
+    "fanFavouriteDiscoveryPercentile": 0.1205
   },
   "context": {
-    "primaryProfile": "modern-korea",
-    "profileGroups": [
-      "modern-korea"
-    ],
+    "primaryProfile": null,
+    "profileGroups": [],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -119,16 +148,23 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "",
     "searchKeywords": [
       "tiger",
       "cat",
       "spine-chilling",
       "room",
       "escape",
-      "original",
-      "webtoon",
-      "ridibooks"
+      "horangiwa",
+      "goyangiui",
+      "ossagossang",
+      "bangtalchul",
+      "gyeryak",
+      "danpyeonseon",
+      "note",
+      "eleventh",
+      "metatoon",
+      "collection"
     ],
     "evidence": {
       "tags": [
@@ -142,21 +178,27 @@
         "spine-chilling",
         "room",
         "escape",
-        "tiger",
-        "cat",
-        "spine-chilling",
-        "room",
-        "escape"
+        "horangiwa",
+        "goyangiui",
+        "ossagossang",
+        "bangtalchul",
+        "gyeryak",
+        "danpyeonseon",
+        "horangiwa"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "ridibooks"
+        "note",
+        "eleventh",
+        "metatoon",
+        "gyeryak",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.31
   }
 }

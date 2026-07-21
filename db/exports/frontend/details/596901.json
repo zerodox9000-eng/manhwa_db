@@ -3,14 +3,32 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Transcending Species Due to System Error",
-  "mangabaka_title": "Transcending Species Due to System Error",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "System Errer-ro Jongjokchowol",
+  "native_title": "시스템 에러로 종족초월",
+  "romanized_title": "Siseutem Eroro Jongjokchoweol",
   "titles": [
     {
       "language": "ko",
       "title": "시스템 에러로 종족초월",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Siseutem Eroro Jongjokchoweol",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "System Errer-ro Jongjokchowol",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,22 +40,22 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852846), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14409593)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyODIxLnBuZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "I have become Kang Seo-yul, the overpowered protagonist of the novel I was reading. A second life started with full knowledge of the original future.\n\n\"But why am I the only one without a status window?!\"\n\nIn a world where everyone grows through the system, I am the only one free from its laws!\n\nImmediately enrolling in the Superhuman Academy, Kang Seo-yul uses his knowledge of the original work and the unique advantage of not being bound by the system as weapons, beginning to monopolize the opportunities and future events that everyone else missed.\n\n**[Original Novel](https://series.naver.com/novel/detail.series?productNo=10090656)**\n\n**Original Webtoon**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852846), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14409593)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDIyNS16TFN1N0tRd1V0bGMuanBn",
+  "total_chapters": "9",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-20T04:28:23.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-19T15:15:16.199Z",
+  "last_updated_at": "2026-07-20T21:27:17.124Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,38 +70,52 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214225,
+      "rating": 77,
+      "url": "https://anilist.co/manga/214225"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "sf9er8k",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/sf9er8k"
     }
   },
   "tag_ids": [
     38,
-    36
+    36,
+    39,
+    37,
+    6,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 12,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6059,
+    "popularityPercentile": 7.8337,
+    "fanFavouriteDiscoveryScore": 8.4143,
+    "fanFavouriteDiscoveryPercentile": 7.2462
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -92,31 +124,63 @@
       ],
       "conflictType": [],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "comedic"
+      ],
       "worldType": [
         "fantasy-world",
         "system-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / modern-korea / system",
+    "semanticSummary": "modern-korea / modern-korea / school / system",
     "searchKeywords": [
       "transcending",
       "species",
       "due",
       "system",
       "error",
+      "errer-ro",
+      "jongjokchowol",
+      "siseutem",
+      "eroro",
+      "jongjokchoweol",
+      "become",
+      "kang",
+      "seo-yul",
+      "overpowered",
+      "protagonist",
+      "novel",
+      "reading",
+      "second",
+      "started",
+      "full",
+      "knowledge",
       "original",
-      "webtoon",
-      "naver",
-      "series"
+      "future",
+      "why",
+      "without",
+      "status",
+      "window",
+      "everyone",
+      "grows",
+      "through",
+      "free",
+      "laws",
+      "immediately"
     ],
     "evidence": {
       "tags": [
         "Shounen",
-        "Fantasy"
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "transcending",
@@ -124,24 +188,44 @@
         "due",
         "system",
         "error",
-        "transcending",
-        "species",
-        "due",
         "system",
-        "error"
+        "errer-ro",
+        "jongjokchowol",
+        "siseutem",
+        "eroro",
+        "jongjokchoweol"
       ],
       "descriptionTerms": [
+        "become",
+        "kang",
+        "seo-yul",
+        "overpowered",
+        "protagonist",
+        "novel",
+        "reading",
+        "second",
+        "started",
+        "full",
+        "knowledge",
         "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "future",
+        "why",
+        "without",
+        "status",
+        "window",
+        "everyone",
+        "grows",
+        "through",
+        "system",
+        "free",
+        "laws",
+        "immediately"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.5
   }
 }
