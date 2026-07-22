@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.173Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T04:02:59.714Z",
+  "last_updated_at": "2026-07-21T15:25:17.463Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -105,6 +105,8 @@
   "tag_ids": [
     1006,
     382,
+    449,
+    648,
     2035,
     880,
     1703,
@@ -122,35 +124,41 @@
     95,
     369,
     180,
+    1947,
     16,
     31,
     383,
     350,
     32,
     9,
+    19,
     5,
+    905,
     262,
     93,
     57,
-    428
+    428,
+    1128,
+    2058
   ],
   "stats": {
-    "popularity": 386,
+    "popularity": 387,
     "favourites": 4,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0363,
-    "fanRatioPercentile": 45.3902,
-    "popularityPercentile": 64.7334,
-    "fanFavouriteDiscoveryScore": 44.3243,
-    "fanFavouriteDiscoveryPercentile": 50.6854
+    "fanFavouriteRaw": 1.0336,
+    "fanRatioPercentile": 45.2793,
+    "popularityPercentile": 64.7869,
+    "fanFavouriteDiscoveryScore": 44.2207,
+    "fanFavouriteDiscoveryPercentile": 50.527
   },
   "context": {
     "primaryProfile": "medical-career",
     "profileGroups": [
       "horror-survival",
       "medical-career",
+      "modern-korea",
       "regression-return",
       "romance-core"
     ],
@@ -161,6 +169,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "medical"
       ],
       "protagonistRole": [
@@ -183,7 +192,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "medical-career / medical",
+    "semanticSummary": "medical-career / modern-korea / medical",
     "searchKeywords": [
       "mary",
       "jane",
@@ -216,6 +225,8 @@
       "tags": [
         "Sexual Assault",
         "Bisexual",
+        "Flashbacks",
+        "Past Plays a Big Role",
         "Therapists",
         "Older Uke Younger Seme",
         "Doctor-Patient Relationship",
@@ -233,17 +244,22 @@
         "Rape",
         "Virginity",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
         "Drugs",
         "Medical",
         "Mystery",
         "Romance",
+        "Thriller",
         "Tragedy",
+        "Trauma",
         "Gore",
         "Longstrip",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "mary",
@@ -286,6 +302,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.98
+    "confidence": 1
   }
 }
