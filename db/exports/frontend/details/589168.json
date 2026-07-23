@@ -2,7 +2,7 @@
   "id": 589168,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Scumbag",
+  "display_title": "Disqualified as a Human Being",
   "mangabaka_title": "Ingansilgyeok",
   "native_title": "인간실격",
   "romanized_title": "Ingansilgyeok",
@@ -27,7 +27,7 @@
       "language": "en",
       "title": "Disqualified as a Human Being",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -64,7 +64,7 @@
       "language": "en",
       "title": "Scumbag",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -84,7 +84,7 @@
   ],
   "description": "Dohyun was always awkward when it came to women. He wanted to be smooth with them, just like his friend Jiwon. However, the belated awakening of his lust starts to disrupt his everyday life.\n\n*\"Oppa... I didn't know you were like this. You're such a pervert...\"*\n\n(Source: TOPTOON, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxMjY3Ny1DV3R2amcxWHFUZFEuanBn",
-  "total_chapters": "6",
+  "total_chapters": "10",
   "status": "releasing",
   "content_rating": "pornographic",
   "is_licensed": false,
@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T17:35:20.929Z",
+  "last_updated_at": "2026-07-23T02:46:15.503Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -116,7 +116,11 @@
       "rating": 58,
       "url": "https://anilist.co/manga/212677"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "scumbag",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/scumbag"
+    },
     "mangaupdates": {
       "id": "zaon0q3",
       "rating": null,
@@ -138,16 +142,16 @@
     428
   ],
   "stats": {
-    "popularity": 197,
+    "popularity": 199,
     "favourites": 4,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 2.0305,
-    "fanRatioPercentile": 71.5555,
-    "popularityPercentile": 51.8747,
-    "fanFavouriteDiscoveryScore": 66.861,
-    "fanFavouriteDiscoveryPercentile": 75.4329
+    "fanFavouriteRaw": 2.0101,
+    "fanRatioPercentile": 71.1307,
+    "popularityPercentile": 52.1003,
+    "fanFavouriteDiscoveryScore": 66.5454,
+    "fanFavouriteDiscoveryPercentile": 75.0602
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -175,7 +179,9 @@
     },
     "semanticSummary": "romance-core",
     "searchKeywords": [
-      "scumbag",
+      "disqualified",
+      "human",
+      "being",
       "ingansilgyeok",
       "dohyun",
       "always",
@@ -218,7 +224,9 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "scumbag",
+        "disqualified",
+        "human",
+        "being",
         "ingansilgyeok",
         "ingansilgyeok"
       ],
@@ -250,7 +258,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.47

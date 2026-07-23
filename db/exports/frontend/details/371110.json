@@ -85,7 +85,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T03:16:44.005Z",
+  "last_updated_at": "2026-07-23T03:22:53.469Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -102,10 +102,14 @@
   "source": {
     "anilist": {
       "id": 198430,
-      "rating": 76,
+      "rating": 77,
       "url": "https://anilist.co/manga/198430"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "lovesick-and-tired",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/lovesick-and-tired"
+    },
     "mangaupdates": {
       "id": "686wl6l",
       "rating": 65,
@@ -115,6 +119,7 @@
   "tag_ids": [
     1585,
     158,
+    74,
     880,
     118,
     46,
@@ -125,7 +130,9 @@
     6,
     31,
     360,
+    361,
     1036,
+    241,
     9,
     7,
     93,
@@ -133,16 +140,16 @@
     428
   ],
   "stats": {
-    "popularity": 126,
+    "popularity": 127,
     "favourites": 3,
-    "meanScore": 76
+    "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 2.381,
-    "fanRatioPercentile": 78.5725,
-    "popularityPercentile": 43.8112,
-    "fanFavouriteDiscoveryScore": 69.0758,
-    "fanFavouriteDiscoveryPercentile": 77.1345
+    "fanFavouriteRaw": 2.3622,
+    "fanRatioPercentile": 78.2219,
+    "popularityPercentile": 43.8874,
+    "fanFavouriteDiscoveryScore": 68.8203,
+    "fanFavouriteDiscoveryPercentile": 76.9121
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -205,6 +212,7 @@
       "tags": [
         "Rich Seme",
         "Primarily Adult Cast",
+        "Based on a Web Novel",
         "Older Uke Younger Seme",
         "Omegaverse",
         "Adult",
@@ -215,7 +223,9 @@
         "Comedy",
         "Drama",
         "Marriage",
+        "Marriage of Convenience",
         "Marriage Proposal",
+        "Mature Romance",
         "Romance",
         "Slice of Life",
         "Longstrip",
@@ -260,9 +270,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.56
   }
 }

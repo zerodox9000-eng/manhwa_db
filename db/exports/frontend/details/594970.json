@@ -118,7 +118,7 @@
   },
   "first_seen_at": "2026-06-27T04:47:35.338Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T19:28:50.814Z",
+  "last_updated_at": "2026-07-22T21:06:13.411Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -135,10 +135,14 @@
   "source": {
     "anilist": {
       "id": 214186,
-      "rating": null,
+      "rating": 70,
       "url": "https://anilist.co/manga/214186"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-husband-is-definitely-a-paladin",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/my-husband-is-definitely-a-paladin"
+    },
     "mangaupdates": {
       "id": "lnxas9h",
       "rating": 66,
@@ -148,33 +152,45 @@
   "tag_ids": [
     43,
     59,
+    74,
+    500,
+    249,
     108,
     36,
+    642,
+    1,
+    41,
+    395,
     37,
     9,
+    990,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 24,
+    "popularity": 28,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5841,
-    "popularityPercentile": 16.2024,
-    "fanFavouriteDiscoveryScore": 13.3139,
-    "fanFavouriteDiscoveryPercentile": 14.5084
+    "fanRatioPercentile": 31.5492,
+    "popularityPercentile": 18.1722,
+    "fanFavouriteDiscoveryScore": 14.5756,
+    "fanFavouriteDiscoveryPercentile": 16.1397
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "game-system",
     "profileGroups": [
+      "game-system",
       "modern-korea",
+      "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "game-system"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -182,7 +198,10 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "regression",
+        "hunter-system"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -193,13 +212,14 @@
         "warm"
       ],
       "worldType": [
-        "fantasy-world"
+        "fantasy-world",
+        "system-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
-      "systemRole": "none"
+      "regressionRole": "major",
+      "systemRole": "minor"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "game-system / modern-korea / regression / hunter-system",
     "searchKeywords": [
       "husband",
       "definitely",
@@ -236,10 +256,18 @@
       "tags": [
         "Josei",
         "Female Lead",
+        "Based on a Web Novel",
+        "Dungeon",
+        "Time Travel",
         "Heterosexual",
         "Fantasy",
+        "Fantasy World",
+        "Sci-Fi",
+        "Smut",
+        "Monsters",
         "Adventure",
         "Romance",
+        "Second Chance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -283,9 +311,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.51
+    "confidence": 0.82
   }
 }

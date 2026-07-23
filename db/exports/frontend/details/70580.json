@@ -2,7 +2,7 @@
   "id": 70580,
   "state": "active",
   "type": "oel",
-  "display_title": "6th Degree",
+  "display_title": "6th°",
   "mangabaka_title": "6th Degree",
   "native_title": null,
   "romanized_title": null,
@@ -13,14 +13,14 @@
       "traits": [
         "native"
       ],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "6th Degree",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -46,7 +46,7 @@
   },
   "first_seen_at": "2026-07-20T04:24:42.485Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2025-09-04T20:05:49.424Z",
+  "last_updated_at": "2026-07-22T18:26:16.466Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [],
@@ -144,7 +144,6 @@
       ],
       "titleTerms": [
         "6th",
-        "degree",
         "6th",
         "degree"
       ],

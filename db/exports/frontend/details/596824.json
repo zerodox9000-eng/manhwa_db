@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "From Child Actor to World Star!",
-  "mangabaka_title": "From Child Actor to World Star!",
+  "mangabaka_title": "Child Actor to World Star!",
   "native_title": "아역부터 월드스타!",
   "romanized_title": null,
   "titles": [
@@ -37,9 +37,9 @@
     }
   ],
   "description": "From birth, Lee Dohyun only has memories of growing up in a hospital, finding himself alone and neglected even by his own parents. One day, he meets Jung Heesung, a violinist whose whole life revolves around his craft, and experiences the warmth of friendship for the first time. Their journeys and souls are alike, and they find solace in each other. But when Dohyun is miraculously discharged from the hospital, his life changes completely. The devilish genius of his acting talents begins to take the world by storm, and Dohyun embarks on his journey to becoming a world star.\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69510748), [Daum](https://webtoon.kakao.com/content/%EC%95%84%EC%97%AD%EB%B6%80%ED%84%B0-%EC%9B%94%EB%93%9C%EC%8A%A4%ED%83%80/4914)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNjc5LmpwZw",
-  "total_chapters": "17",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2NoaWxkLWFjdG9yLXRvLXdvcmxkLXN0YXItMS53ZWJwP3Q9MTc4NDQxNTcyMg",
+  "total_chapters": "20",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -51,7 +51,7 @@
   },
   "first_seen_at": "2026-07-19T04:19:30.700Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T17:31:48.545Z",
+  "last_updated_at": "2026-07-22T21:36:43.763Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -67,7 +67,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "child-actor-to-world-star",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/child-actor-to-world-star"
+    },
     "mangaupdates": {
       "id": "a4chvmw",
       "rating": null,
@@ -76,8 +80,15 @@
   },
   "tag_ids": [
     8,
+    74,
+    36,
+    6,
     31,
-    7
+    18,
+    7,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -115,9 +126,13 @@
       "conflictType": [],
       "progressionType": [],
       "tone": [
+        "comedic",
+        "dark",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
@@ -155,8 +170,15 @@
     "evidence": {
       "tags": [
         "Seinen",
+        "Based on a Web Novel",
+        "Fantasy",
+        "Comedy",
         "Drama",
-        "Slice of Life"
+        "Psychological",
+        "Slice of Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "child",
@@ -193,9 +215,10 @@
         "friendship"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.77
   }
 }

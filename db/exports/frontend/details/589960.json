@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T16:15:24.684Z",
+  "last_updated_at": "2026-07-22T22:36:13.997Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -71,10 +71,14 @@
   "source": {
     "anilist": {
       "id": 213028,
-      "rating": 83,
+      "rating": 81,
       "url": "https://anilist.co/manga/213028"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "unofficial-campus-couple",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/unofficial-campus-couple"
+    },
     "mangaupdates": {
       "id": "npjaywv",
       "rating": 64,
@@ -100,16 +104,16 @@
     428
   ],
   "stats": {
-    "popularity": 132,
+    "popularity": 136,
     "favourites": null,
-    "meanScore": 83
+    "meanScore": 81
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5841,
-    "popularityPercentile": 44.6845,
-    "fanFavouriteDiscoveryScore": 28.0043,
-    "fanFavouriteDiscoveryPercentile": 30.5075
+    "fanRatioPercentile": 31.5492,
+    "popularityPercentile": 45.1521,
+    "fanFavouriteDiscoveryScore": 28.095,
+    "fanFavouriteDiscoveryPercentile": 30.5706
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -217,7 +221,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.65

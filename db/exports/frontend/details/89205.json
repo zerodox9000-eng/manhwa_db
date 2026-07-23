@@ -31,7 +31,7 @@
   ],
   "description": "Humanity struggles not to become extinct.\n\n**Original Webtoon:**  \n[Daum](https://webtoon.kakao.com/content/%EB%A9%B8%EC%A2%85%EC%9D%B8%EA%B0%84/1705), [KakaoPage](https://page.kakao.com/content/61300594)\n\n**Official Translations:**  \n[Japanese](https://piccoma.com/web/product/40267)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2V4dGluY3QtaHVtYW4tMS5qcGc_dD0xNjI1OTMwNTQ4",
-  "total_chapters": "92",
+  "total_chapters": "93",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
@@ -44,7 +44,7 @@
   },
   "first_seen_at": "2026-06-10T15:41:08.379Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-08T09:17:41.616Z",
+  "last_updated_at": "2026-07-23T00:41:38.281Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -72,8 +72,12 @@
   },
   "tag_ids": [
     8,
+    15,
     39,
+    37,
     31,
+    44,
+    5,
     93,
     57,
     428
@@ -89,11 +93,14 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
+      "horror-survival",
       "modern-korea"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -102,15 +109,19 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "survival"
+      ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "dark"
+      ],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "horror-survival / modern-korea",
     "searchKeywords": [
       "extinct",
       "human",
@@ -128,8 +139,12 @@
     "evidence": {
       "tags": [
         "Seinen",
+        "Mature",
         "Action",
+        "Adventure",
         "Drama",
+        "Horror",
+        "Tragedy",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -158,6 +173,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.61
   }
 }

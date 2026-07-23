@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-07-14T04:00:28.260Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T01:21:58.102Z",
+  "last_updated_at": "2026-07-23T01:29:07.821Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -82,10 +82,14 @@
       "rating": 80,
       "url": "https://anilist.co/manga/214050"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-married-the-dragon-i-killed",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/i-married-the-dragon-i-killed"
+    },
     "mangaupdates": {
       "id": "roci33b",
-      "rating": 67,
+      "rating": 68,
       "url": "https://www.mangaupdates.com/series/roci33b"
     }
   },
@@ -94,6 +98,7 @@
     72,
     1093,
     58,
+    74,
     405,
     2096,
     748,
@@ -117,6 +122,7 @@
     998,
     450,
     36,
+    764,
     642,
     1,
     176,
@@ -126,6 +132,7 @@
     39,
     6,
     117,
+    44,
     360,
     230,
     227,
@@ -137,16 +144,16 @@
     121
   ],
   "stats": {
-    "popularity": 959,
-    "favourites": 15,
+    "popularity": 1033,
+    "favourites": 16,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5641,
-    "fanRatioPercentile": 60.2846,
-    "popularityPercentile": 80.3343,
-    "fanFavouriteDiscoveryScore": 59.8921,
-    "fanFavouriteDiscoveryPercentile": 68.047
+    "fanFavouriteRaw": 1.5489,
+    "fanRatioPercentile": 59.7185,
+    "popularityPercentile": 81.3159,
+    "fanFavouriteDiscoveryScore": 59.36,
+    "fanFavouriteDiscoveryPercentile": 67.5851
   },
   "context": {
     "primaryProfile": "sci-fi-business-regression",
@@ -155,6 +162,7 @@
       "business-career-regression",
       "euro-fantasy",
       "euro-romance",
+      "horror-survival",
       "korean-business",
       "korean-corporate-regression",
       "modern-korea",
@@ -165,6 +173,7 @@
     "primaryAnchors": [
       "business-career-regression",
       "euro-fantasy",
+      "horror-survival",
       "korean-business",
       "korean-corporate-regression",
       "sci-fi-business-regression"
@@ -182,12 +191,14 @@
       ],
       "conflictType": [
         "revenge",
+        "survival",
         "politics",
         "romance"
       ],
       "progressionType": [],
       "tone": [
         "comedic",
+        "dark",
         "tense",
         "warm"
       ],
@@ -236,6 +247,7 @@
         "Beautiful Female Lead",
         "Calm Protagonist",
         "Male Lead",
+        "Based on a Web Novel",
         "Europe",
         "Kingdom",
         "Age Regression",
@@ -259,6 +271,7 @@
         "Slow Romance",
         "European Ambience",
         "Fantasy",
+        "Dark Fantasy",
         "Fantasy World",
         "Sci-Fi",
         "Gods",
@@ -268,10 +281,8 @@
         "Action",
         "Comedy",
         "Coming of Age",
-        "Marriage",
-        "Military",
-        "Revenge",
-        "Romance"
+        "Horror",
+        "Marriage"
       ],
       "titleTerms": [
         "slain",
@@ -314,7 +325,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

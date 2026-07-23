@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-07-20T04:28:23.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T03:46:13.401Z",
+  "last_updated_at": "2026-07-22T22:36:14.130Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,13 +79,17 @@
   "source": {
     "anilist": {
       "id": 214220,
-      "rating": 72,
+      "rating": 73,
       "url": "https://anilist.co/manga/214220"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "goblin-inc",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/goblin-inc"
+    },
     "mangaupdates": {
       "id": "s83d76l",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/s83d76l"
     }
   },
@@ -103,16 +107,16 @@
     428
   ],
   "stats": {
-    "popularity": 230,
-    "favourites": 2,
-    "meanScore": 72
+    "popularity": 283,
+    "favourites": 3,
+    "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8696,
-    "fanRatioPercentile": 40.905,
-    "popularityPercentile": 54.9992,
-    "fanFavouriteDiscoveryScore": 38.805,
-    "fanFavouriteDiscoveryPercentile": 43.3971
+    "fanFavouriteRaw": 1.0601,
+    "fanRatioPercentile": 45.9274,
+    "popularityPercentile": 58.8528,
+    "fanFavouriteDiscoveryScore": 44.1927,
+    "fanFavouriteDiscoveryPercentile": 50.5345
   },
   "context": {
     "primaryProfile": "korean-corporate-regression",
@@ -245,7 +249,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

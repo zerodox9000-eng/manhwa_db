@@ -44,7 +44,7 @@
   },
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-15T13:52:09.678Z",
+  "last_updated_at": "2026-07-22T14:08:25.548Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,8 +68,13 @@
   },
   "tag_ids": [
     861,
+    106,
+    114,
+    272,
     6,
-    9
+    875,
+    9,
+    1152
   ],
   "stats": {
     "popularity": null,
@@ -82,16 +87,25 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
       "modern-korea",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -104,12 +118,14 @@
         "comedic",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "black",
       "salt",
@@ -125,8 +141,13 @@
     "evidence": {
       "tags": [
         "Adapted to KDrama",
+        "Age Gap",
+        "Older Female Younger Male",
+        "Workplace Romance",
         "Comedy",
-        "Romance"
+        "First Love",
+        "Romance",
+        "Office Romance"
       ],
       "titleTerms": [
         "black",
@@ -151,6 +172,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 1
   }
 }

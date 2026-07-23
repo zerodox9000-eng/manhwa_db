@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T13:19:24.170Z",
+  "last_updated_at": "2026-07-22T22:51:26.847Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,7 +90,11 @@
       "rating": 79,
       "url": "https://anilist.co/manga/206974"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "mignon",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/mignon"
+    },
     "mangaupdates": {
       "id": "dyj5844",
       "rating": 72,
@@ -98,6 +102,7 @@
     }
   },
   "tag_ids": [
+    1856,
     313,
     1378,
     1395,
@@ -105,8 +110,11 @@
     58,
     166,
     78,
+    760,
     848,
+    408,
     880,
+    308,
     889,
     36,
     22,
@@ -123,6 +131,7 @@
     1947,
     16,
     31,
+    350,
     237,
     9,
     226,
@@ -136,16 +145,16 @@
     428
   ],
   "stats": {
-    "popularity": 813,
-    "favourites": 23,
+    "popularity": 817,
+    "favourites": 24,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 2.829,
-    "fanRatioPercentile": 85.07,
-    "popularityPercentile": 77.7744,
-    "fanFavouriteDiscoveryScore": 84.3856,
-    "fanFavouriteDiscoveryPercentile": 90.6716
+    "fanFavouriteRaw": 2.9376,
+    "fanRatioPercentile": 86.2918,
+    "popularityPercentile": 77.8455,
+    "fanFavouriteDiscoveryScore": 85.6016,
+    "fanFavouriteDiscoveryPercentile": 91.5989
   },
   "context": {
     "primaryProfile": "medical-career",
@@ -217,6 +226,7 @@
     ],
     "evidence": {
       "tags": [
+        "Hand to Hand Combat",
         "Tsundere",
         "Black-Haired Uke",
         "White/Silver-Haired Seme",
@@ -224,8 +234,11 @@
         "Male Lead",
         "Adapted to Anime",
         "Based on an Anime",
+        "Hospital",
         "Family Drama",
+        "Doctors",
         "Older Uke Younger Seme",
+        "Interspecies Relationship",
         "Love-Hate Relationship",
         "Fantasy",
         "Supernatural",
@@ -242,6 +255,7 @@
         "Korean Boys Love",
         "Yaoi",
         "Drama",
+        "Medical",
         "Orphans",
         "Romance",
         "Unrequited Love",
@@ -251,8 +265,7 @@
         "Boxing",
         "Modern Era",
         "Longstrip",
-        "Full Color",
-        "Web Comic"
+        "Full Color"
       ],
       "titleTerms": [
         "mignon",
@@ -288,6 +301,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

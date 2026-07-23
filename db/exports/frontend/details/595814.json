@@ -30,8 +30,8 @@
     }
   ],
   "description": "Yun I-seo was living an ordinary life—far removed from the fantasies of his childhood.\nAfter winning the lottery by chance, he was celebrating wildly on a rainy, moonlit night when he was struck by a truck and transported to another world...\n\n*Wait, what? I’m the god of this world?! And to make matters worse, the cringeworthy novel I wrote during my awkward teenage years has become the state religion's holy scripture?!*\n\nFurious at the thought of the fortune he left behind in the real world, I-seo soon finds himself mired in a sticky predicament—until a man with a dazzling smile appears, plants a kiss on him, and saves him. Will I-seo ever be able to return to the real world?\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/another_edgelord)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxMjM3LmpwZw",
-  "total_chapters": "4",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2Fub3RoZXItZWRnZWxvcmQtMS53ZWJwP3Q9MTc4MzIyOTc5MQ",
+  "total_chapters": "7",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -44,7 +44,7 @@
   },
   "first_seen_at": "2026-07-05T04:53:57.805Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T17:02:34.067Z",
+  "last_updated_at": "2026-07-23T03:23:39.152Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "another-edgelord",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/another-edgelord"
+    },
     "mangaupdates": {
       "id": "nx54wyd",
       "rating": 64,
@@ -68,8 +72,13 @@
   },
   "tag_ids": [
     36,
+    94,
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -97,7 +106,9 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -112,7 +123,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "kingdom-management",
+    "semanticSummary": "kingdom-management / reincarnation",
     "searchKeywords": [
       "another",
       "edgelord",
@@ -143,8 +154,13 @@
     "evidence": {
       "tags": [
         "Fantasy",
+        "Isekai",
+        "Boys Love",
         "Yaoi",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "another",
@@ -179,9 +195,10 @@
         "make"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.68
+    "confidence": 0.73
   }
 }

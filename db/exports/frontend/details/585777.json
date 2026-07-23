@@ -84,7 +84,7 @@
   ],
   "description": "Chae Do-young has admired Seo Ki-hyeon on TV ever since childhood. When they reunite in high school, Ki-hyeon turns out to hide a sharp, calculating nature behind his gentle smile. The person he truly loves is his childhood friend Kim Ga-on — and to win that love, Ki-hyeon uses Do-young as a pawn. Even as she is used and hurt again and again, Do-young cannot stop her feelings for Ki-hyeon.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzkvYi84L2UvZC8wLzQvMDc5NC80ZmIwL2JiNjUvYWQ3M2M1ZjA1NmYz",
-  "total_chapters": "18",
+  "total_chapters": "19",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T19:32:04.879Z",
+  "last_updated_at": "2026-07-22T19:40:23.230Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -113,10 +113,14 @@
   "source": {
     "anilist": {
       "id": 211154,
-      "rating": 66,
+      "rating": 67,
       "url": "https://anilist.co/manga/211154"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "yearning",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/yearning"
+    },
     "mangaupdates": {
       "id": "vs3183c",
       "rating": 53,
@@ -125,6 +129,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     31,
     9,
@@ -133,16 +138,16 @@
     428
   ],
   "stats": {
-    "popularity": 440,
+    "popularity": 443,
     "favourites": 10,
-    "meanScore": 66
+    "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 2.2727,
-    "fanRatioPercentile": 76.7053,
-    "popularityPercentile": 67.0833,
-    "fanFavouriteDiscoveryScore": 75.2183,
-    "fanFavouriteDiscoveryPercentile": 82.8038
+    "fanFavouriteRaw": 2.2573,
+    "fanRatioPercentile": 76.3098,
+    "popularityPercentile": 67.2162,
+    "fanFavouriteDiscoveryScore": 74.8465,
+    "fanFavouriteDiscoveryPercentile": 82.5053
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -204,6 +209,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Drama",
         "Romance",
@@ -245,9 +251,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.57
   }
 }

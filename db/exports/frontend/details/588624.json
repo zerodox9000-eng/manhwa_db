@@ -79,7 +79,7 @@
   ],
   "description": "David wakes up in an alternate reality where men are in short supply and the government is prepared to take extreme measures to solve the birth rate crisis.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxMjcxNC02S3VDenhDd0hnblAuanBn",
-  "total_chapters": "8",
+  "total_chapters": "16",
   "status": "releasing",
   "content_rating": "pornographic",
   "is_licensed": true,
@@ -92,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T17:46:10.247Z",
+  "last_updated_at": "2026-07-22T22:46:14.433Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -111,7 +111,11 @@
       "rating": 76,
       "url": "https://anilist.co/manga/212714"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "where-did-all-the-men-go",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/where-did-all-the-men-go"
+    },
     "mangaupdates": {
       "id": "96li6l6",
       "rating": 64,
@@ -129,22 +133,23 @@
     10,
     41,
     109,
+    31,
     9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 213,
+    "popularity": 217,
     "favourites": 3,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4085,
-    "fanRatioPercentile": 55.7446,
-    "popularityPercentile": 53.5913,
-    "fanFavouriteDiscoveryScore": 52.5469,
-    "fanFavouriteDiscoveryPercentile": 60.8719
+    "fanFavouriteRaw": 1.3825,
+    "fanRatioPercentile": 54.8705,
+    "popularityPercentile": 53.8693,
+    "fanFavouriteDiscoveryScore": 51.791,
+    "fanFavouriteDiscoveryPercentile": 60.2002
   },
   "context": {
     "primaryProfile": "regression-return",
@@ -207,6 +212,7 @@
         "Hentai",
         "Smut",
         "Nudity",
+        "Drama",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -239,9 +245,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.57
   }
 }

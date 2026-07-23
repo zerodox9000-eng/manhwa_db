@@ -111,7 +111,7 @@
   },
   "first_seen_at": "2026-07-07T04:47:25.909Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T06:26:45.342Z",
+  "last_updated_at": "2026-07-22T16:36:11.632Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -131,7 +131,11 @@
       "rating": 85,
       "url": "https://anilist.co/manga/213942"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-painter-who-draws-dungeons",
+      "rating": 90,
+      "url": "https://www.anime-planet.com/manga/the-painter-who-draws-dungeons"
+    },
     "mangaupdates": {
       "id": "qrttjzw",
       "rating": 75,
@@ -148,6 +152,7 @@
     58,
     654,
     2417,
+    74,
     500,
     107,
     172,
@@ -169,16 +174,16 @@
     121
   ],
   "stats": {
-    "popularity": 1325,
-    "favourites": 51,
+    "popularity": 1353,
+    "favourites": 53,
     "meanScore": 85
   },
   "analytics": {
-    "fanFavouriteRaw": 3.8491,
-    "fanRatioPercentile": 92.8776,
-    "popularityPercentile": 84.8893,
-    "fanFavouriteDiscoveryScore": 92.4631,
-    "fanFavouriteDiscoveryPercentile": 96.0548
+    "fanFavouriteRaw": 3.9172,
+    "fanRatioPercentile": 93.097,
+    "popularityPercentile": 85.1626,
+    "fanFavouriteDiscoveryScore": 92.6908,
+    "fanFavouriteDiscoveryPercentile": 96.221
   },
   "context": {
     "primaryProfile": "game-system",
@@ -261,6 +266,7 @@
         "Male Lead",
         "Kind Male Lead",
         "Stoic Male Lead",
+        "Based on a Web Novel",
         "Dungeon",
         "School",
         "Time Skip",
@@ -321,7 +327,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.82

@@ -92,7 +92,7 @@
   },
   "first_seen_at": "2026-06-28T08:09:06.069Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T20:12:03.298Z",
+  "last_updated_at": "2026-07-23T01:16:15.028Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -111,7 +111,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/213673"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "recoil",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/recoil"
+    },
     "mangaupdates": {
       "id": "21n1mkc",
       "rating": 63,
@@ -158,16 +162,16 @@
     2058
   ],
   "stats": {
-    "popularity": 54,
+    "popularity": 63,
     "favourites": null,
     "meanScore": 66
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5841,
-    "popularityPercentile": 28.9113,
-    "fanFavouriteDiscoveryScore": 21.4003,
-    "fanFavouriteDiscoveryPercentile": 23.7841
+    "fanRatioPercentile": 31.5492,
+    "popularityPercentile": 31.4062,
+    "fanFavouriteDiscoveryScore": 22.7539,
+    "fanFavouriteDiscoveryPercentile": 25.2861
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -301,6 +305,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

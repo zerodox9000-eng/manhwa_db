@@ -2,22 +2,22 @@
   "id": 591799,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Would You Change Girlfriends for 1 Billion Won?",
-  "mangabaka_title": "Would You Change Girlfriends for 1 Billion Won?",
+  "display_title": "The Price of Yes",
+  "mangabaka_title": "The Price of Yes",
   "native_title": null,
   "romanized_title": null,
   "titles": [
     {
       "language": "en",
-      "title": "Would You Change Girlfriends for 1 Billion Won?",
+      "title": "The Price of Yes",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3dvdWxkLXlvdS1jaGFuZ2UtZ2lybGZyaWVuZHMtZm9yLTEtYmlsbGlvbi13b24tMS53ZWJwP3Q9MTc3NjY3MTY2MQ",
-  "total_chapters": "14",
+  "description": "Couples who participated in a survival game to reverse the situation at the bottom of their lives. However, to receive the prize money, you must hand over your partner to someone else. Would you hand over your partner for the total prize money of 1 billion won, the prize money for a life-changing turnaround?\nSource: Tooomics",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1wcmljZS1vZi15ZXMtMS53ZWJwP3Q9MTc4NDIyMzUwNA",
+  "total_chapters": "21",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -30,7 +30,7 @@
   },
   "first_seen_at": "2026-06-25T04:58:12.454Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-25T10:53:54.288Z",
+  "last_updated_at": "2026-07-22T21:15:36.608Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [],
@@ -42,9 +42,9 @@
   "source": {
     "anilist": null,
     "animeplanet": {
-      "id": "would-you-change-girlfriends-for-1-billion-won",
+      "id": "the-price-of-yes",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/would-you-change-girlfriends-for-1-billion-won"
+      "url": "https://www.anime-planet.com/manga/the-price-of-yes"
     },
     "mangaupdates": null
   },
@@ -65,8 +65,10 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -74,20 +76,42 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "survival"
+      ],
       "progressionType": [],
       "tone": [],
-      "worldType": [],
+      "worldType": [
+        "system-world"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "minor"
     },
-    "semanticSummary": "",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
-      "change",
-      "girlfriends",
-      "billion",
-      "won"
+      "price",
+      "yes",
+      "couples",
+      "participated",
+      "survival",
+      "game",
+      "reverse",
+      "situation",
+      "bottom",
+      "lives",
+      "however",
+      "receive",
+      "prize",
+      "money",
+      "must",
+      "hand",
+      "over",
+      "your",
+      "partner",
+      "someone",
+      "else",
+      "total"
     ],
     "evidence": {
       "tags": [
@@ -97,20 +121,41 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "change",
-        "girlfriends",
-        "billion",
-        "won",
-        "change",
-        "girlfriends",
-        "billion",
-        "won"
+        "price",
+        "yes",
+        "price",
+        "yes"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "couples",
+        "participated",
+        "survival",
+        "game",
+        "reverse",
+        "situation",
+        "bottom",
+        "lives",
+        "however",
+        "receive",
+        "prize",
+        "money",
+        "must",
+        "hand",
+        "over",
+        "your",
+        "partner",
+        "someone",
+        "else",
+        "hand",
+        "over",
+        "your",
+        "partner",
+        "total"
+      ],
       "sourceFields": [
         "animeplanet"
       ]
     },
-    "confidence": 0.32
+    "confidence": 0.39
   }
 }

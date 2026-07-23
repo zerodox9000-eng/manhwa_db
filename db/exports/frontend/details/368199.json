@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T16:53:30.149Z",
+  "last_updated_at": "2026-07-23T03:25:15.558Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -99,7 +99,7 @@
     },
     "animeplanet": {
       "id": "from-stray-to-stay",
-      "rating": 70,
+      "rating": 68,
       "url": "https://www.anime-planet.com/manga/from-stray-to-stay"
     },
     "mangaupdates": {
@@ -109,7 +109,10 @@
     }
   },
   "tag_ids": [
+    1998,
     158,
+    2023,
+    595,
     283,
     172,
     280,
@@ -119,17 +122,25 @@
     303,
     169,
     95,
+    446,
     180,
+    1947,
     16,
     6,
+    1595,
     1020,
     31,
     383,
+    776,
     351,
     9,
+    1004,
     93,
+    1167,
     57,
-    428
+    428,
+    1128,
+    2058
   ],
   "stats": {
     "popularity": 161,
@@ -138,21 +149,24 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.6211,
-    "fanRatioPercentile": 35.6723,
-    "popularityPercentile": 48.1178,
-    "fanFavouriteDiscoveryScore": 32.547,
-    "fanFavouriteDiscoveryPercentile": 35.5669
+    "fanRatioPercentile": 35.6369,
+    "popularityPercentile": 48.0653,
+    "fanFavouriteDiscoveryScore": 32.5022,
+    "fanFavouriteDiscoveryPercentile": 35.5239
   },
   "context": {
-    "primaryProfile": "regression-return",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -164,12 +178,14 @@
         "comedic",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "regression-return",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "stray",
       "stay",
@@ -202,7 +218,10 @@
     ],
     "evidence": {
       "tags": [
+        "Glasses-Wearing Seme",
         "Primarily Adult Cast",
+        "Debt-Motivated Protagonist",
+        "South Korea",
         "Amnesia",
         "Time Skip",
         "Bondage",
@@ -212,17 +231,25 @@
         "Handjob",
         "Nakadashi",
         "Rape",
+        "Dogs",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Comedy",
+        "Near-Death Experience",
         "Debts",
         "Drama",
         "Drugs",
+        "Korean Folklore",
         "Organized Crime",
         "Romance",
+        "Modern Era",
         "Longstrip",
+        "Short Story",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "stray",
@@ -265,6 +292,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.63
+    "confidence": 0.73
   }
 }

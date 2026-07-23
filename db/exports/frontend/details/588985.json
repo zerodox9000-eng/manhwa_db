@@ -5,10 +5,10 @@
   "display_title": "Teto X Egen",
   "mangabaka_title": "Teto X Egen",
   "native_title": "테토X에겐",
-  "romanized_title": "Teto X Egen",
+  "romanized_title": null,
   "titles": [
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "Teto X Egen",
       "traits": [],
       "is_primary": true,
@@ -23,7 +23,7 @@
     }
   ],
   "description": "Haeseon, a driven \"Teto girl\" whose entire life revolves around her career, and Seonho, a quiet \"Egen guy\" who wants nothing more than to stay home with his cat.\n\nLiving in entirely different worlds, the two were like parallel lines destined never to cross. That is, until they are forced onto the same Task Force team—and to make matters worse, they discover they live right next door to each other! As their daily routines become hopelessly entangled, Seonho's \"first love\" suddenly enters the picture...!\n\nWhat will become of this chaotic, nerve-wracking, and strangely heart-fluttering romance between two complete opposites?\n\n_Source: Millie ui Seojae, translated_",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI4NzM2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RldG8teC1lZ2VuLTEud2VicD90PTE3ODI2NjMyMDE",
   "total_chapters": "14",
   "status": "releasing",
   "content_rating": "safe",
@@ -37,7 +37,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T06:01:26.771Z",
+  "last_updated_at": "2026-07-22T22:06:13.934Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "teto-x-egen",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/teto-x-egen"
+    },
     "mangaupdates": {
       "id": "ygsxi0l",
       "rating": 66,
@@ -205,8 +209,6 @@
         "teto",
         "egen",
         "teto",
-        "egen",
-        "teto",
         "egen"
       ],
       "descriptionTerms": [
@@ -236,7 +238,8 @@
         "two"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

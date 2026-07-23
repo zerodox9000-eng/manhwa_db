@@ -2,56 +2,64 @@
   "id": 597016,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Ice on Me",
-  "mangabaka_title": "Ice on Me",
-  "native_title": "아이스 온 미",
-  "romanized_title": null,
+  "display_title": "Ice on me",
+  "mangabaka_title": "Ice on me",
+  "native_title": "아이스온미",
+  "romanized_title": "Ice on me",
   "titles": [
     {
       "language": "ko",
-      "title": "아이스 온 미",
-      "traits": [],
+      "title": "아이스온미",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Ice on Me",
-      "traits": [],
+      "language": "ko-Latn",
+      "title": "Ice on me",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Having retired from figure skating due to injury, Gyu-eon is now making a living as a chef. Suddenly, Eun-hyung—a junior skater who once left him with words that felt like a curse—reappears before him.\n\n*“It’s obvious you’ll never succeed at anything, hyung…”*\n\nAlthough he is wary of Eun-hyung, who left him with deep emotional scars, and tries to push him away, he soon finds himself increasingly drawn to him...\n\n---\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/Ice_on_me)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyOTUyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDMwMi1Eb29QS1hubWExaEUuanBn",
   "total_chapters": "6",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-10",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-21T04:10:42.277Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T16:45:09.998Z",
+  "last_updated_at": "2026-07-22T20:34:55.180Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yumcha"
+    "Yamcha"
   ],
   "artists": [
-    "Yumcha"
+    "Yamcha"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/597016",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214302,
+      "rating": null,
+      "url": "https://anilist.co/manga/214302"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qb287zs",
@@ -60,18 +68,25 @@
     }
   },
   "tag_ids": [
+    58,
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5492,
+    "popularityPercentile": 0.3839,
+    "fanFavouriteDiscoveryScore": 5.1486,
+    "fanFavouriteDiscoveryPercentile": 0.3764
   },
   "context": {
     "primaryProfile": "food-career",
@@ -133,10 +148,16 @@
     ],
     "evidence": {
       "tags": [
+        "Male Lead",
+        "Boys Love",
         "Yaoi",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "ice",
         "ice",
         "ice"
       ],
@@ -167,9 +188,10 @@
         "anything"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.65
   }
 }

@@ -15,9 +15,9 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "Even at a game company drowning in overtime, these feelings just won't stay buried! The office life of people who don't wanna give up neither work nor love. \"This is weird. Why can't I stop thinking of him?\"\nSource: Toptoon",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2xvdmUtcXVlc3QtcXJxLTEud2VicD90PTE3NzI1Njg0NTc",
-  "total_chapters": "22",
+  "total_chapters": "24",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -30,7 +30,7 @@
   },
   "first_seen_at": "2026-06-24T04:59:38.579Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-24T12:03:27.223Z",
+  "last_updated_at": "2026-07-22T17:27:30.533Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [],
@@ -66,14 +66,24 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
-    "primaryAnchors": [],
+    "primaryProfile": "corporate-workplace",
+    "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "modern-workplace"
+    ],
+    "primaryAnchors": [
+      "corporate-workplace"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "corporate-workplace"
+      ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "business"
+      ],
       "premiseMechanic": [
         "system"
       ],
@@ -81,21 +91,48 @@
         "romance"
       ],
       "progressionType": [
+        "career-growth",
         "power-growth"
       ],
       "tone": [
         "comedic"
       ],
-      "worldType": [],
-      "romanceRole": "none",
+      "worldType": [
+        "modern-urban",
+        "system-world"
+      ],
+      "romanceRole": "minor",
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "system",
+    "semanticSummary": "corporate-workplace / corporate-workplace / system",
     "searchKeywords": [
       "love",
       "quest",
-      "qrq"
+      "qrq",
+      "even",
+      "game",
+      "company",
+      "drowning",
+      "overtime",
+      "these",
+      "feelings",
+      "won",
+      "stay",
+      "buried",
+      "office",
+      "people",
+      "don",
+      "wanna",
+      "give",
+      "neither",
+      "work",
+      "nor",
+      "weird",
+      "why",
+      "stop",
+      "thinking",
+      "toptoon"
     ],
     "evidence": {
       "tags": [
@@ -113,11 +150,36 @@
         "quest",
         "qrq"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "even",
+        "game",
+        "company",
+        "drowning",
+        "overtime",
+        "these",
+        "feelings",
+        "won",
+        "stay",
+        "buried",
+        "office",
+        "people",
+        "don",
+        "wanna",
+        "give",
+        "neither",
+        "work",
+        "nor",
+        "love",
+        "weird",
+        "why",
+        "stop",
+        "thinking",
+        "toptoon"
+      ],
       "sourceFields": [
         "animeplanet"
       ]
     },
-    "confidence": 0.33
+    "confidence": 0.63
   }
 }

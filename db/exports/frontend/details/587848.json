@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T11:16:24.856Z",
+  "last_updated_at": "2026-07-23T01:36:15.163Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -67,10 +67,14 @@
       "rating": 67,
       "url": "https://anilist.co/manga/212610"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "even-a-hopeless-romantic-wants-to-be-loved",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/even-a-hopeless-romantic-wants-to-be-loved"
+    },
     "mangaupdates": {
       "id": "flq5rix",
-      "rating": 61,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/flq5rix"
     }
   },
@@ -86,8 +90,11 @@
     101,
     370,
     171,
+    6,
+    4,
     1948,
     33,
+    241,
     9,
     461,
     93,
@@ -102,10 +109,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5841,
-    "popularityPercentile": 23.3775,
-    "fanFavouriteDiscoveryScore": 17.9999,
-    "fanFavouriteDiscoveryPercentile": 20.1099
+    "fanRatioPercentile": 31.5492,
+    "popularityPercentile": 23.3589,
+    "fanFavouriteDiscoveryScore": 17.9681,
+    "fanFavouriteDiscoveryPercentile": 20.0918
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -132,6 +139,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [],
@@ -172,8 +180,11 @@
         "Anal Fingering",
         "Fingering",
         "Cunnilingus",
+        "Comedy",
+        "Girls Love",
         "Korean Girls Love",
         "Yuri",
+        "Mature Romance",
         "Romance",
         "Boxing",
         "Longstrip",
@@ -207,9 +218,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.77
+    "confidence": 0.8
   }
 }

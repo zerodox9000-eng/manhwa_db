@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T00:27:23.242Z",
+  "last_updated_at": "2026-07-23T00:33:41.807Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,15 +89,24 @@
   },
   "tag_ids": [
     288,
+    1785,
     1378,
     1387,
+    1019,
+    902,
     382,
     58,
     1975,
     595,
     879,
     884,
+    449,
+    1962,
+    885,
+    648,
+    898,
     2030,
+    688,
     106,
     1044,
     880,
@@ -117,6 +126,8 @@
     383,
     875,
     776,
+    882,
+    29,
     353,
     984,
     9,
@@ -131,36 +142,47 @@
     2058
   ],
   "stats": {
-    "popularity": 505,
+    "popularity": 508,
     "favourites": 8,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5842,
-    "fanRatioPercentile": 60.7966,
-    "popularityPercentile": 69.5227,
-    "fanFavouriteDiscoveryScore": 59.8313,
-    "fanFavouriteDiscoveryPercentile": 67.9943
+    "fanFavouriteRaw": 1.5748,
+    "fanRatioPercentile": 60.6218,
+    "popularityPercentile": 69.6025,
+    "fanFavouriteDiscoveryScore": 59.6656,
+    "fanFavouriteDiscoveryPercentile": 67.8335
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
       "modern-korea",
+      "modern-workplace",
+      "murim-wuxia",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression",
+      "murim-wuxia"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "martial-artist"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "martial-growth"
+      ],
       "tone": [
         "comedic",
         "warm"
@@ -172,7 +194,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "business-career-regression / modern-korea",
     "searchKeywords": [
       "light",
       "give",
@@ -205,15 +227,24 @@
     "evidence": {
       "tags": [
         "Crimes",
+        "Kuudere Uke",
         "Black-Haired Uke",
         "Blonde-Haired Seme",
+        "Handsome Seme",
+        "Hard-Working Protagonist",
         "Bisexual",
         "Male Lead",
         "Gay Seme",
         "South Korea",
         "Character Growth",
         "Death of Loved One",
+        "Flashbacks",
+        "Seme Falling In Love First",
+        "Unrequited Love Becomes Requited",
+        "Past Plays a Big Role",
+        "Tragic Past",
         "Gangster",
+        "Martial Artist",
         "Age Gap",
         "Older Male Younger Male",
         "Older Uke Younger Seme",
@@ -233,17 +264,8 @@
         "Drugs",
         "First Love",
         "Korean Folklore",
-        "Mafia",
-        "Reunion",
-        "Romance",
-        "Suicide",
-        "Attempted Suicide",
-        "Modern Era",
-        "Tragedy",
-        "Longstrip",
-        "Full Color",
-        "Web Comic",
-        "Uncensored Version Available"
+        "Love Confession",
+        "Martial Arts"
       ],
       "titleTerms": [
         "light",
@@ -286,6 +308,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.66
+    "confidence": 1
   }
 }

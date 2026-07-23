@@ -50,7 +50,7 @@
   },
   "first_seen_at": "2026-06-22T05:54:33.110Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-20T21:13:04.493Z",
+  "last_updated_at": "2026-07-22T22:46:14.533Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,10 +69,14 @@
       "rating": 57,
       "url": "https://anilist.co/manga/213499"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "song-of-the-wasteland",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/song-of-the-wasteland"
+    },
     "mangaupdates": {
       "id": "i127wqk",
-      "rating": 63,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/i127wqk"
     }
   },
@@ -86,6 +90,7 @@
     298,
     336,
     831,
+    884,
     1043,
     46,
     14,
@@ -95,8 +100,10 @@
     31,
     9,
     45,
+    130,
     5,
     93,
+    1018,
     57,
     428
   ],
@@ -107,10 +114,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.3158,
-    "fanRatioPercentile": 53.0568,
-    "popularityPercentile": 34.7914,
-    "fanFavouriteDiscoveryScore": 41.0806,
-    "fanFavouriteDiscoveryPercentile": 46.1828
+    "fanRatioPercentile": 53.0337,
+    "popularityPercentile": 34.7561,
+    "fanFavouriteDiscoveryScore": 41.0355,
+    "fanFavouriteDiscoveryPercentile": 46.1382
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -132,7 +139,9 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
@@ -176,6 +185,7 @@
         "America",
         "Foreign",
         "Dead Family Member",
+        "Death of Loved One",
         "Historical Setting",
         "Adult",
         "Erotica",
@@ -185,8 +195,10 @@
         "Drama",
         "Romance",
         "Historical",
+        "19th Century",
         "Tragedy",
         "Longstrip",
+        "Cancelled",
         "Full Color",
         "Web Comic"
       ],
@@ -226,9 +238,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.59
   }
 }

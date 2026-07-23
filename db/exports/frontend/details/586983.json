@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T03:17:28.504Z",
+  "last_updated_at": "2026-07-23T04:06:15.974Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +96,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/212229"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "im-a-sculptor-so-why-am-i-stripping",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/im-a-sculptor-so-why-am-i-stripping"
+    },
     "mangaupdates": {
       "id": "miltsfm",
       "rating": 63,
@@ -121,10 +125,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5841,
-    "popularityPercentile": 2.6577,
-    "fanFavouriteDiscoveryScore": 6.0244,
-    "fanFavouriteDiscoveryPercentile": 2.4469
+    "fanRatioPercentile": 31.5492,
+    "popularityPercentile": 2.6498,
+    "fanFavouriteDiscoveryScore": 6.0146,
+    "fanFavouriteDiscoveryPercentile": 2.439
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -205,7 +209,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.44
