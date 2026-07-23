@@ -9,6 +9,7 @@ const {
   applyTitleDisplayOverride,
   loadTitleDisplayOverrides,
 } = require("./titleDisplayOverrides");
+const { writeUpdatesExport } = require("./buildUpdatesExport");
 
 const SERIES_DIR =
   path.resolve(
@@ -1312,6 +1313,13 @@ fs.writeFileSync(
 
   JSON.stringify(historyMap)
 );
+
+writeUpdatesExport({
+  exportDir: EXPORT_DIR,
+  catalog: discovery,
+  history: historyMap,
+  generatedAt: latestCache.snapshotAt || new Date().toISOString(),
+});
 
 fs.writeFileSync(
 

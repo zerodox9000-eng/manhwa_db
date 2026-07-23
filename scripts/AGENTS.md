@@ -8,6 +8,10 @@ Owns backend pipeline scripts for fetching, updating, normalizing, enriching, sn
 - `normalize/` owns stable processed records.
 - `enrich/` owns AniList enrichment and retry behavior.
 - `snapshots/` owns daily stat history.
+- `snapshots/snapshotStatuses.js` owns the durable title-update ledger in `db/state/status-history.json`. Unknown statuses never create transitions or replace a last-known status. Chapter history records daily observed increases only; corrections and decreases update the baseline without becoming progress events. The frontend export filters both event types to the normal Discover catalogue.
+- `build/buildUpdatesExport.js` writes the compact `db/exports/frontend/stats/updates.json` timeline. Popularity milestones use one rolling year, status changes use three rolling months, and chapter increases use seven rolling days. Every view uses the exact current normal Discover pool; the Deep Cut-only exclusions apply only to titles currently in that band. Chapter dates whose eligible-series update count exceeds twice the rolling median of prior normal days remain in raw history but are omitted from the frontend timeline.
+- `build/rebuildUpdatesExport.js` refreshes only the compact Updates payload from the currently committed chunked catalogue/history plus the update ledger. Use it for focused validation without rerunning the full frontend export.
+- `build/buildUpdatesExport.test.js` and `snapshots/snapshotStatuses.test.js` protect Discover eligibility, known-to-known status transitions, and increase-only chapter history. Run them with `npm run test:updates` after changing the Updates pipeline.
 - `evaluate/` and `build/` own analytics and frontend export production.
 
 ## Local Contracts
