@@ -50,7 +50,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T23:07:27.686Z",
+  "last_updated_at": "2026-07-23T23:05:50.273Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,7 +69,11 @@
       "rating": 36,
       "url": "https://anilist.co/manga/194284"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "love-is-enough",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/love-is-enough"
+    },
     "mangaupdates": {
       "id": "cumivl2",
       "rating": 65,
@@ -100,10 +104,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 19.7079,
-    "fanFavouriteDiscoveryScore": 15.5826,
-    "fanFavouriteDiscoveryPercentile": 17.3366
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 19.6825,
+    "fanFavouriteDiscoveryScore": 15.5763,
+    "fanFavouriteDiscoveryPercentile": 17.3275
   },
   "context": {
     "primaryProfile": "school-life",
@@ -216,6 +220,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

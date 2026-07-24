@@ -2,8 +2,8 @@
   "id": 370727,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Office Contract Relationship",
-  "mangabaka_title": "Sanae Gyeyak Yeonae",
+  "display_title": "Office Romance Contract",
+  "mangabaka_title": "Office Romance Contract",
   "native_title": "사내 계약 연애",
   "romanized_title": "Sanae Gyeyak Yeonae",
   "titles": [
@@ -48,14 +48,16 @@
       "language": "en",
       "title": "Office Contract Relationship",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Office Romance Contract",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -89,12 +91,12 @@
       "note": null
     }
   ],
-  "description": "Seo-Yun loves beauty, the beautiful and handsome. And what she loves even more is the R-rated comic book about a beautiful man and woman lovingly exploring each other! But the man closest to her, who truly embodies this aesthetic pursuit of beauty, is her direct supervisor... She'd imagined a relationship with him, but never thought it would actually happen. And it would be a \"contractual relationship\"!\n\n(Source: Naver, translated)",
+  "description": "By day, Seo-Yun is the hardworking secretary to Taegwan Group’s somewhat arrogant, impossibly handsome Executive Director Ji-Hyeok Seo, who she happens to have a huge crush on. But after a drunken mishap and a colossal misunderstanding, her life is turned upside down. When Ji-Hyeok’s friend mistakes Seo-Yun for his girlfriend, his unexpected solution is a fake relationship bound by a strict contract including mandatory dates and public displays of affection. As fake dates lead to real kisses and unexpected sweetness, Seo-Yun begins to wonder just how fake this relationship actually is.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzEvZS8xLzIvNy9hLzgvYjlhMy80NDA5L2I4OTMvYzQ5MmM3NmY5ZDQ0",
   "total_chapters": "51",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-08-30",
@@ -104,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T23:33:08.266Z",
+  "last_updated_at": "2026-07-23T14:22:47.162Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -116,7 +118,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/370727",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10487"
   },
   "source": {
     "anilist": {
@@ -148,16 +150,16 @@
     428
   ],
   "stats": {
-    "popularity": 62,
+    "popularity": 63,
     "favourites": 2,
     "meanScore": 55
   },
   "analytics": {
-    "fanFavouriteRaw": 3.2258,
-    "fanRatioPercentile": 89.3029,
-    "popularityPercentile": 31.0674,
-    "fanFavouriteDiscoveryScore": 63.897,
-    "fanFavouriteDiscoveryPercentile": 72.4782
+    "fanFavouriteRaw": 3.1746,
+    "fanRatioPercentile": 88.8646,
+    "popularityPercentile": 31.3671,
+    "fanFavouriteDiscoveryScore": 64.0326,
+    "fanFavouriteDiscoveryPercentile": 72.5679
   },
   "context": {
     "primaryProfile": "business-career-regression",
@@ -179,11 +181,11 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "corporate-workplace"
       ],
       "protagonistRole": [
-        "employee"
+        "employee",
+        "executive"
       ],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -201,34 +203,37 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "business-career-regression / modern-korea / corporate-workplace",
+    "semanticSummary": "business-career-regression / corporate-workplace",
     "searchKeywords": [
       "office",
+      "romance",
       "contract",
-      "relationship",
       "sanae",
       "gyeyak",
       "yeonae",
       "seo-yun",
-      "loves",
-      "beauty",
-      "beautiful",
+      "hardworking",
+      "secretary",
+      "taegwan",
+      "group",
+      "somewhat",
+      "arrogant",
+      "impossibly",
       "handsome",
-      "what",
-      "even",
-      "r-rated",
-      "comic",
-      "book",
-      "man",
-      "woman",
-      "lovingly",
-      "exploring",
-      "each",
-      "closest",
-      "truly",
-      "embodies",
-      "aesthetic",
-      "pursuit"
+      "executive",
+      "director",
+      "ji-hyeok",
+      "seo",
+      "happens",
+      "huge",
+      "crush",
+      "drunken",
+      "mishap",
+      "colossal",
+      "misunderstanding",
+      "turned",
+      "upside",
+      "friend"
     ],
     "evidence": {
       "tags": [
@@ -245,45 +250,46 @@
       ],
       "titleTerms": [
         "office",
+        "romance",
         "contract",
-        "relationship",
-        "sanae",
-        "gyeyak",
-        "yeonae",
+        "office",
+        "romance",
+        "contract",
         "sanae",
         "gyeyak",
         "yeonae"
       ],
       "descriptionTerms": [
         "seo-yun",
-        "loves",
-        "beauty",
-        "beautiful",
+        "hardworking",
+        "secretary",
+        "taegwan",
+        "group",
+        "somewhat",
+        "arrogant",
+        "impossibly",
         "handsome",
-        "what",
-        "loves",
-        "even",
-        "r-rated",
-        "comic",
-        "book",
-        "beautiful",
-        "man",
-        "woman",
-        "lovingly",
-        "exploring",
-        "each",
-        "man",
-        "closest",
-        "truly",
-        "embodies",
-        "aesthetic",
-        "pursuit",
-        "beauty"
+        "executive",
+        "director",
+        "ji-hyeok",
+        "seo",
+        "happens",
+        "huge",
+        "crush",
+        "drunken",
+        "mishap",
+        "colossal",
+        "misunderstanding",
+        "turned",
+        "upside",
+        "ji-hyeok",
+        "friend"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
     "confidence": 1

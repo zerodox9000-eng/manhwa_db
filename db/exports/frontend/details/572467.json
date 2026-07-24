@@ -23,8 +23,8 @@
     }
   ],
   "description": "I appeared to let the world know how lovely cats are! The story of cats uncovering the truth, transcending time and space!\n\n**Original Webtoon:**    \n[RIDI](https://ridibooks.com/books/4463000212), [Bomtoon](https://www.bomtoon.com/detail/tiger3), [Lezhin](https://www.lezhin.com/ko/comic/goroeolh)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTEzMjY5LmpwZw",
-  "total_chapters": "33",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2dvcm8tYWVvbGgtMS53ZWJwP3Q9MTc4NDU4NzQ0Mw",
+  "total_chapters": "41",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -37,7 +37,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T04:16:06.389Z",
+  "last_updated_at": "2026-07-23T13:36:14.425Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "goro-aeolh",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/goro-aeolh"
+    },
     "mangaupdates": {
       "id": "cxlyrzw",
       "rating": null,
@@ -61,7 +65,11 @@
   },
   "tag_ids": [
     38,
-    7
+    284,
+    7,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -120,7 +128,11 @@
     "evidence": {
       "tags": [
         "Shounen",
-        "Slice of Life"
+        "Cats",
+        "Slice of Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "goro",
@@ -149,9 +161,10 @@
         "lezhin"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.41
   }
 }

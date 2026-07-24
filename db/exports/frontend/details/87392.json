@@ -96,7 +96,7 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/at_the_convenient_store)",
+  "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/at_the_convenient_store)\n\n\"Minju\" who had only been lurking in the adult section of an anonymous online community, finally shares her thrilling experience while working a night shift at the convenience store...",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDE4Nzc2Mi0wa3NjcmNQbEtUeGIuanBn",
   "total_chapters": "5",
   "status": "completed",
@@ -111,7 +111,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T15:24:17.708Z",
+  "last_updated_at": "2026-07-23T17:54:16.695Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -153,38 +153,48 @@
     428
   ],
   "stats": {
-    "popularity": 45,
+    "popularity": 46,
     "favourites": null,
     "meanScore": 61
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 25.5345,
-    "fanFavouriteDiscoveryScore": 19.3492,
-    "fanFavouriteDiscoveryPercentile": 21.6652
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 25.8446,
+    "fanFavouriteDiscoveryScore": 19.5549,
+    "fanFavouriteDiscoveryPercentile": 21.8494
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "murim-wuxia",
     "profileGroups": [
-      "modern-korea"
+      "chinese-murim",
+      "modern-korea",
+      "modern-workplace",
+      "murim-wuxia"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "chinese-murim",
+      "murim-wuxia"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "murim-world"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
       "tone": [],
-      "worldType": [],
+      "worldType": [
+        "martial-world"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "murim-wuxia / murim-world",
     "searchKeywords": [
       "dawn",
       "convenience",
@@ -192,7 +202,22 @@
       "saebyeok",
       "pyeonuijeomeseo",
       "original",
-      "webtoon"
+      "webtoon",
+      "minju",
+      "lurking",
+      "adult",
+      "section",
+      "anonymous",
+      "online",
+      "community",
+      "finally",
+      "shares",
+      "thrilling",
+      "experience",
+      "while",
+      "working",
+      "night",
+      "shift"
     ],
     "evidence": {
       "tags": [
@@ -216,7 +241,24 @@
       ],
       "descriptionTerms": [
         "original",
-        "webtoon"
+        "webtoon",
+        "minju",
+        "lurking",
+        "adult",
+        "section",
+        "anonymous",
+        "online",
+        "community",
+        "finally",
+        "shares",
+        "thrilling",
+        "experience",
+        "while",
+        "working",
+        "night",
+        "shift",
+        "convenience",
+        "store"
       ],
       "sourceFields": [
         "anilist",
@@ -224,6 +266,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.82
   }
 }

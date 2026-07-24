@@ -49,7 +49,7 @@
       "note": null
     }
   ],
-  "description": "\"'??'s favorability rating has increased.\"\n\nThe game I was trying to play wouldn't work, so I slammed my laptop in frustration, driven by drunken rage and a sense of hopelessness. Surprisingly, I found myself in a dating simulation game!\n\nBut why does my favorability rating keep increasing, even when I make bad choices?\n\nThis game is fucking ruined.\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/211030490), [MrBlue](https://www.mrblue.com/novel/sybk1608), [Bookcube](https://www.bookcube.com/detail.asp?series_num=919021584)\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/BclassLoveGame), [Lezhin](https://www.lezhin.com/ko/comic/b_love_simulation_game)\n\n**Official Translations:**  \nEnglish (Jul 22)",
+  "description": "\"'??'s favorability rating has increased.\"\n\nThe game I was trying to play wouldn't work, so I slammed my laptop in frustration, driven by drunken rage and a sense of hopelessness. Surprisingly, I found myself in a dating simulation game!\n\nBut why does my favorability rating keep increasing, even when I make bad choices?\n\nThis game is fucking ruined.\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/211030490), [MrBlue](https://www.mrblue.com/novel/sybk1608), [Bookcube](https://www.bookcube.com/detail.asp?series_num=919021584)\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/BclassLoveGame), [Lezhin](https://www.lezhin.com/ko/comic/b_love_simulation_game)\n\n**Official Translations:**  \n[English](https://www.lezhinus.com/en/comic/lovesimulator)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwNzM1Ni1YVkVmd0hMdGJBMDMucG5n",
   "total_chapters": "12",
   "status": "completed",
@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T15:25:31.699Z",
+  "last_updated_at": "2026-07-23T21:21:31.486Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -81,10 +81,14 @@
   "source": {
     "anilist": {
       "id": 207356,
-      "rating": null,
+      "rating": 75,
       "url": "https://anilist.co/manga/207356"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "love-simulator-love-stimulator",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/love-simulator-love-stimulator"
+    },
     "mangaupdates": {
       "id": "s3edz3l",
       "rating": 62,
@@ -92,7 +96,10 @@
     }
   },
   "tag_ids": [
+    74,
     36,
+    94,
+    399,
     46,
     180,
     16,
@@ -103,20 +110,21 @@
     428
   ],
   "stats": {
-    "popularity": 28,
+    "popularity": 39,
     "favourites": 1,
-    "meanScore": null
+    "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 3.5714,
-    "fanRatioPercentile": 91.5462,
-    "popularityPercentile": 18.1722,
-    "fanFavouriteDiscoveryScore": 42.2939,
-    "fanFavouriteDiscoveryPercentile": 47.7567
+    "fanFavouriteRaw": 2.5641,
+    "fanRatioPercentile": 81.6041,
+    "popularityPercentile": 23.3692,
+    "fanFavouriteDiscoveryScore": 46.4926,
+    "fanFavouriteDiscoveryPercentile": 55.1576
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -125,7 +133,9 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -141,7 +151,7 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / reincarnation",
     "searchKeywords": [
       "love",
       "simulator",
@@ -173,7 +183,10 @@
     ],
     "evidence": {
       "tags": [
+        "Based on a Web Novel",
         "Fantasy",
+        "Isekai",
+        "Game Elements",
         "Adult",
         "Boys Love",
         "Yaoi",
@@ -225,9 +238,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.54
   }
 }

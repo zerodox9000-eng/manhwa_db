@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T20:03:36.348Z",
+  "last_updated_at": "2026-07-23T12:38:35.257Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -118,7 +118,11 @@
       "rating": 55,
       "url": "https://anilist.co/manga/187758"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "id-rather-die",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/id-rather-die"
+    },
     "mangaupdates": {
       "id": "rte631g",
       "rating": 63,
@@ -136,6 +140,7 @@
     36,
     46,
     41,
+    127,
     9,
     5,
     93,
@@ -144,16 +149,16 @@
     428
   ],
   "stats": {
-    "popularity": 57,
+    "popularity": 58,
     "favourites": null,
     "meanScore": 55
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 29.6522,
-    "fanFavouriteDiscoveryScore": 21.7975,
-    "fanFavouriteDiscoveryPercentile": 24.2096
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 29.915,
+    "fanFavouriteDiscoveryScore": 21.959,
+    "fanFavouriteDiscoveryPercentile": 24.3849
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -228,6 +233,7 @@
         "Fantasy",
         "Adult",
         "Smut",
+        "Nobility",
         "Romance",
         "Tragedy",
         "Longstrip",
@@ -272,9 +278,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.74
+    "confidence": 0.75
   }
 }

@@ -23,9 +23,9 @@
     }
   ],
   "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzIzMDkzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3NpbmlzdGVyLXRyYW5zZmVyLXN0dWRlbnQtMS53ZWJwP3Q9MTc4MzQ3OTU1NQ",
   "total_chapters": "146",
-  "status": "releasing",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2016,
@@ -37,7 +37,7 @@
   },
   "first_seen_at": "2026-06-10T15:38:39.046Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T20:15:49.319Z",
+  "last_updated_at": "2026-07-24T03:05:44.554Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sinister-transfer-student",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/sinister-transfer-student"
+    },
     "mangaupdates": {
       "id": "ae1e1yx",
       "rating": null,
@@ -65,7 +69,10 @@
     39,
     18,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -118,7 +125,10 @@
         "Action",
         "Psychological",
         "Romance",
-        "School Life"
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "sinister",
@@ -130,9 +140,10 @@
       ],
       "descriptionTerms": [],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.51
   }
 }

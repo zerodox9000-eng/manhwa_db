@@ -42,7 +42,7 @@
   ],
   "description": "Seon-U, a 29-year-old who has struggled to find a job, uses running to confront his inner turmoil, and, overcoming frustration and injury, sets out to take on a marathon and give life another shot.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzQ3OC16UTJIRjZ3aVhJZXouanBn",
-  "total_chapters": null,
+  "total_chapters": "10",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-25T04:58:12.454Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T17:36:33.645Z",
+  "last_updated_at": "2026-07-23T19:07:16.893Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -74,7 +74,11 @@
       "rating": 100,
       "url": "https://anilist.co/manga/213478"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "its-okay-to-be-out-of-breath",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/its-okay-to-be-out-of-breath"
+    },
     "mangaupdates": {
       "id": "9ztgf87",
       "rating": 64,
@@ -93,16 +97,16 @@
     428
   ],
   "stats": {
-    "popularity": 20,
+    "popularity": 21,
     "favourites": 1,
     "meanScore": 100
   },
   "analytics": {
-    "fanFavouriteRaw": 5,
-    "fanRatioPercentile": 96.477,
-    "popularityPercentile": 13.7233,
-    "fanFavouriteDiscoveryScore": 35.9026,
-    "fanFavouriteDiscoveryPercentile": 39.7922
+    "fanFavouriteRaw": 4.7619,
+    "fanRatioPercentile": 96.0349,
+    "popularityPercentile": 14.2201,
+    "fanFavouriteDiscoveryScore": 36.672,
+    "fanFavouriteDiscoveryPercentile": 40.8472
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -207,7 +211,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.6

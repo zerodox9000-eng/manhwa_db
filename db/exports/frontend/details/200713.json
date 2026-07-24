@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T13:29:30.246Z",
+  "last_updated_at": "2026-07-23T18:11:19.566Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -123,10 +123,14 @@
   "source": {
     "anilist": {
       "id": 193725,
-      "rating": 65,
+      "rating": 66,
       "url": "https://anilist.co/manga/193725"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "never-satisfied-with-my-bunny-husband",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/never-satisfied-with-my-bunny-husband"
+    },
     "mangaupdates": {
       "id": "1igm9tj",
       "rating": 63,
@@ -147,6 +151,7 @@
     2116,
     2419,
     2448,
+    74,
     405,
     114,
     108,
@@ -163,6 +168,7 @@
     369,
     1816,
     359,
+    127,
     9,
     2853,
     93,
@@ -171,16 +177,16 @@
     121
   ],
   "stats": {
-    "popularity": 104,
+    "popularity": 105,
     "favourites": null,
-    "meanScore": 65
+    "meanScore": 66
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 39.9955,
-    "fanFavouriteDiscoveryScore": 26.5354,
-    "fanFavouriteDiscoveryPercentile": 29.2081
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 40.2001,
+    "fanFavouriteDiscoveryScore": 26.6247,
+    "fanFavouriteDiscoveryPercentile": 29.2754
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -194,7 +200,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -212,7 +220,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "never",
       "satisfied",
@@ -259,6 +267,7 @@
         "Tomboyish Female Lead",
         "Cute Male Lead",
         "Sexually Insatiable Male Lead",
+        "Based on a Web Novel",
         "Europe",
         "Older Female Younger Male",
         "Heterosexual",
@@ -275,6 +284,7 @@
         "Virginity",
         "Female Empowerment",
         "Arranged Marriage",
+        "Nobility",
         "Romance",
         "Full Censorship",
         "Longstrip",
@@ -325,6 +335,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

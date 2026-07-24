@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T21:36:45.945Z",
+  "last_updated_at": "2026-07-23T21:37:33.452Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,7 +90,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214262"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "forged-by-fists",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/forged-by-fists"
+    },
     "mangaupdates": {
       "id": "hbif2ml",
       "rating": 61,
@@ -109,16 +113,16 @@
     428
   ],
   "stats": {
-    "popularity": 6,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 2.6498,
-    "fanFavouriteDiscoveryScore": 6.0146,
-    "fanFavouriteDiscoveryPercentile": 2.439
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 3.3256,
+    "fanFavouriteDiscoveryScore": 6.2977,
+    "fanFavouriteDiscoveryPercentile": 3.0923
   },
   "context": {
     "primaryProfile": "business-career",
@@ -209,7 +213,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.51

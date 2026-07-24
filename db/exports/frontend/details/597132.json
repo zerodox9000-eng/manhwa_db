@@ -2,7 +2,7 @@
   "id": 597132,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Chronicles of the Demon-Slaying Cultivator",
+  "display_title": "The Tale of Cultivation and Demon Extermination",
   "mangabaka_title": "Myeolgwisudojeon",
   "native_title": "멸귀수도전",
   "romanized_title": "Myeolgwisudojeon",
@@ -34,7 +34,7 @@
       "language": "en",
       "title": "Chronicles of the Demon-Slaying Cultivator",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -64,7 +64,7 @@
       "language": "en",
       "title": "The Tale of Cultivation and Demon Extermination",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-07-22T04:11:09.134Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T21:42:14.131Z",
+  "last_updated_at": "2026-07-23T21:42:27.378Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -107,13 +107,13 @@
   "source": {
     "anilist": {
       "id": 214315,
-      "rating": 78,
+      "rating": 76,
       "url": "https://anilist.co/manga/214315"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "sdoxxzb",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/sdoxxzb"
     }
   },
@@ -128,31 +128,34 @@
     29,
     45,
     5,
+    262,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 105,
-    "favourites": 3,
-    "meanScore": 78
+    "popularity": 239,
+    "favourites": 4,
+    "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 2.8571,
-    "fanRatioPercentile": 85.5465,
-    "popularityPercentile": 40.2063,
-    "fanFavouriteDiscoveryScore": 72.1512,
-    "fanFavouriteDiscoveryPercentile": 80.0738
+    "fanFavouriteRaw": 1.6736,
+    "fanRatioPercentile": 63.4038,
+    "popularityPercentile": 55.7219,
+    "fanFavouriteDiscoveryScore": 60.3297,
+    "fanFavouriteDiscoveryPercentile": 68.347
   },
   "context": {
     "primaryProfile": "murim-wuxia",
     "profileGroups": [
       "chinese-murim",
+      "horror-survival",
       "modern-korea",
       "murim-wuxia"
     ],
     "primaryAnchors": [
       "chinese-murim",
+      "horror-survival",
       "murim-wuxia"
     ],
     "excludedProfiles": [],
@@ -161,9 +164,7 @@
         "modern-korea",
         "murim-world"
       ],
-      "protagonistRole": [
-        "martial-artist"
-      ],
+      "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
@@ -173,6 +174,7 @@
         "martial-growth"
       ],
       "tone": [
+        "dark",
         "tense"
       ],
       "worldType": [
@@ -185,16 +187,16 @@
     },
     "semanticSummary": "murim-wuxia / modern-korea / murim-world",
     "searchKeywords": [
-      "chronicles",
-      "demon-slaying",
-      "cultivator",
+      "tale",
+      "cultivation",
+      "demon",
+      "extermination",
       "myeolgwisudojeon",
       "revenge",
       "won",
       "end",
       "until",
       "every",
-      "demon",
       "wiped",
       "brutally",
       "displaying",
@@ -224,14 +226,16 @@
         "Martial Arts",
         "Historical",
         "Tragedy",
+        "Gore",
         "Longstrip",
         "Full Color",
         "Web Comic"
       ],
       "titleTerms": [
-        "chronicles",
-        "demon-slaying",
-        "cultivator",
+        "tale",
+        "cultivation",
+        "demon",
+        "extermination",
         "myeolgwisudojeon",
         "myeolgwisudojeon"
       ],
@@ -266,6 +270,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.8
+    "confidence": 0.97
   }
 }

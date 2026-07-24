@@ -2,10 +2,10 @@
   "id": 586175,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Pity is Not an Option",
+  "display_title": "No Compassion",
   "mangabaka_title": "Yeonmineun Sajeorira",
   "native_title": "연민은 사절이라",
-  "romanized_title": "No Compassion",
+  "romanized_title": "Sachungi: Neoreul Saenggakaneun Bom",
   "titles": [
     {
       "language": "ko",
@@ -24,17 +24,17 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "No Compassion",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Pity is Not an Option",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-20T23:11:14.180Z",
+  "last_updated_at": "2026-07-23T23:22:53.014Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -88,7 +88,11 @@
       "rating": 90,
       "url": "https://anilist.co/manga/212001"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "no-compassion",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/no-compassion"
+    },
     "mangaupdates": {
       "id": "hhjekof",
       "rating": null,
@@ -113,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 16.1472,
-    "fanFavouriteDiscoveryScore": 13.2638,
-    "fanFavouriteDiscoveryPercentile": 14.461
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 16.1463,
+    "fanFavouriteDiscoveryScore": 13.272,
+    "fanFavouriteDiscoveryPercentile": 14.4534
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -150,11 +154,13 @@
     },
     "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
-      "pity",
-      "option",
+      "compassion",
       "yeonmineun",
       "sajeorira",
-      "compassion",
+      "sachungi",
+      "neoreul",
+      "saenggakaneun",
+      "bom",
       "high",
       "school",
       "student",
@@ -188,11 +194,13 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "pity",
-        "option",
+        "compassion",
         "yeonmineun",
         "sajeorira",
-        "compassion"
+        "sachungi",
+        "neoreul",
+        "saenggakaneun",
+        "bom"
       ],
       "descriptionTerms": [
         "high",
@@ -222,7 +230,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.58

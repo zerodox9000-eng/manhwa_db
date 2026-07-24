@@ -2,18 +2,11 @@
   "id": 596726,
   "state": "active",
   "type": "oel",
-  "display_title": "Shadow Slave",
-  "mangabaka_title": "Shadow Slave",
-  "native_title": "섀도우 슬레이브",
+  "display_title": "Shadow’s Thrall",
+  "mangabaka_title": "unknown title (please report on Discord)",
+  "native_title": null,
   "romanized_title": null,
   "titles": [
-    {
-      "language": "ko",
-      "title": "섀도우 슬레이브",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
     {
       "language": "pt-br",
       "title": "Escravo Das Sombras",
@@ -23,20 +16,11 @@
     },
     {
       "language": "en",
-      "title": "Shadow Slave",
-      "traits": [
-        "official"
-      ],
-      "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "en",
       "title": "Shadow’s Thrall",
       "traits": [
         "alternative"
       ],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -60,7 +44,7 @@
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
-  "year": 2026,
+  "year": null,
   "published": {
     "start_date": "2026-07-15",
     "end_date": null,
@@ -69,15 +53,11 @@
   },
   "first_seen_at": "2026-07-20T04:28:23.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-19T14:32:53.056Z",
+  "last_updated_at": "2026-07-23T12:29:07.776Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
-  "authors": [
-    "GuiltyThree"
-  ],
-  "artists": [
-    "Laurel Pursuit"
-  ],
+  "authors": [],
+  "artists": [],
   "links": {
     "mangabaka": "https://mangabaka.org/596726",
     "read_en": null
@@ -85,11 +65,7 @@
   "source": {
     "anilist": null,
     "animeplanet": null,
-    "mangaupdates": {
-      "id": "2omm3mn",
-      "rating": 66,
-      "url": "https://www.mangaupdates.com/series/2omm3mn"
-    }
+    "mangaupdates": null
   },
   "tag_ids": [
     417,
@@ -168,7 +144,12 @@
     "semanticSummary": "horror-survival",
     "searchKeywords": [
       "shadow",
-      "slave",
+      "thrall",
+      "unknown",
+      "title",
+      "please",
+      "report",
+      "discord",
       "growing",
       "poverty",
       "sunny",
@@ -229,9 +210,12 @@
       ],
       "titleTerms": [
         "shadow",
-        "slave",
-        "shadow",
-        "slave"
+        "thrall",
+        "unknown",
+        "title",
+        "please",
+        "report",
+        "discord"
       ],
       "descriptionTerms": [
         "growing",
@@ -259,9 +243,7 @@
         "transported",
         "ruined"
       ],
-      "sourceFields": [
-        "mangaupdates"
-      ]
+      "sourceFields": []
     },
     "confidence": 0.75
   }

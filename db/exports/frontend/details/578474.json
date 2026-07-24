@@ -2,7 +2,7 @@
   "id": 578474,
   "state": "active",
   "type": "manhwa",
-  "display_title": "That's Because I'm Not Brave",
+  "display_title": "Simply Immature",
   "mangabaka_title": "Cheori Eopseoseo Geurae",
   "native_title": "철이 없어서 그래",
   "romanized_title": "Cheori Eopseoseo Geurae",
@@ -29,20 +29,20 @@
       "language": "en",
       "title": "Simply Immature",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "That's Because I'm Not Brave",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "Ha-Ji, who tutored students as a side job, ends up tutoring Il-Do, a wealthy student retaking the college entrance exam. One day, she receives shocking news from her younger sister.\n\n *“Sis, did you know... Il-Do is actually a junior of mine at university?”*\n\nIt turns out that Il-Do, whom she thought was a student retaking the college entrance exam, is actually a junior at Korea University who has already been accepted. From the day his true identity is revealed, Il-Do’s meticulous schemes and relentless obsession begin to slowly tighten their grip on Ha-Ji’s life.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMTM1OC1ieXEyNEdLVTZ2VGYuanBn",
-  "total_chapters": "5",
+  "total_chapters": "29",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-21T03:22:40.557Z",
+  "last_updated_at": "2026-07-24T03:26:27.797Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -74,7 +74,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/211358"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "thats-because-im-not-brave",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/thats-because-im-not-brave"
+    },
     "mangaupdates": {
       "id": "n2xx5gw",
       "rating": null,
@@ -99,10 +103,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 11.3972,
-    "fanFavouriteDiscoveryScore": 10.3505,
-    "fanFavouriteDiscoveryPercentile": 10.4261
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 11.3987,
+    "fanFavouriteDiscoveryScore": 10.3583,
+    "fanFavouriteDiscoveryPercentile": 10.4281
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -135,8 +139,8 @@
     },
     "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
-      "because",
-      "brave",
+      "simply",
+      "immature",
       "cheori",
       "eopseoseo",
       "geurae",
@@ -177,8 +181,8 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "because",
-        "brave",
+        "simply",
+        "immature",
         "cheori",
         "eopseoseo",
         "geurae",
@@ -214,7 +218,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.58

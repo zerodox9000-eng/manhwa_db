@@ -30,9 +30,9 @@
     }
   ],
   "description": "[Original Webtoon](https://ridibooks.com/books/6194000001)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMjIyLmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2luLXRvby1kZWVwLTItMS53ZWJwP3Q9MTc4MjQwMDcyNQ",
+  "total_chapters": "7",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
@@ -44,7 +44,7 @@
   },
   "first_seen_at": "2026-06-24T04:59:38.584Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-19T08:59:59.724Z",
+  "last_updated_at": "2026-07-23T13:46:14.632Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "in-too-deep-2",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/in-too-deep-2"
+    },
     "mangaupdates": {
       "id": "3dn8h3q",
       "rating": null,
@@ -70,7 +74,10 @@
     43,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -120,7 +127,10 @@
         "Josei",
         "Adult",
         "Smut",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "too",
@@ -135,9 +145,10 @@
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.49
   }
 }

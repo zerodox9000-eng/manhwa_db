@@ -2,10 +2,10 @@
   "id": 596091,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Let's Do a Melodrama",
+  "display_title": "Mellohapsida",
   "mangabaka_title": "Mellohapsida",
   "native_title": "멜로합시다",
-  "romanized_title": "Mellohapsida",
+  "romanized_title": "Let's Do a Melodrama",
   "titles": [
     {
       "language": "ko",
@@ -17,10 +17,10 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Let's Do a Melodrama",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -35,7 +35,7 @@
   ],
   "description": "In-Ui, a longtime fan of actor Yeong-Min. Inspired by Yeong-min, he begins to dream of becoming an actor himself, and is accepted into the university where he serves as an adjunct professor. As In-Ui begins to spend dreamlike days with Yeong-Min, he gradually develops romantic feelings for him and wants to get closer to him on a personal level. However, Yeong-Min already has a close colleague named Ji-Seop by his side, and torn between jealousy toward Ji-Seop and his longing for Yeong-Min, In-Ui finds himself growing increasingly tormented...\n\n(Source: KakaoPage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDE4OS04WkpUY1JEdzdNRHAucG5n",
-  "total_chapters": null,
+  "total_chapters": "8",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-07-09T04:46:13.898Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T18:12:17.794Z",
+  "last_updated_at": "2026-07-23T18:20:54.158Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -67,7 +67,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214189"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "lets-do-a-melodrama",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/lets-do-a-melodrama"
+    },
     "mangaupdates": {
       "id": "8zz72if",
       "rating": null,
@@ -93,10 +97,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 3.3198,
-    "fanFavouriteDiscoveryScore": 6.2911,
-    "fanFavouriteDiscoveryPercentile": 3.0864
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 3.3256,
+    "fanFavouriteDiscoveryScore": 6.2977,
+    "fanFavouriteDiscoveryPercentile": 3.0923
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -136,9 +140,9 @@
     },
     "semanticSummary": "showbiz-career / modern-korea / school",
     "searchKeywords": [
+      "mellohapsida",
       "let",
       "melodrama",
-      "mellohapsida",
       "in-ui",
       "longtime",
       "fan",
@@ -173,10 +177,10 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "let",
-        "melodrama",
         "mellohapsida",
-        "mellohapsida"
+        "mellohapsida",
+        "let",
+        "melodrama"
       ],
       "descriptionTerms": [
         "in-ui",
@@ -206,7 +210,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.75

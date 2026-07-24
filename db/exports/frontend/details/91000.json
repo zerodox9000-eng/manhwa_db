@@ -2,10 +2,10 @@
   "id": 91000,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Ishimi's Story",
+  "display_title": "The Story of Ishimi",
   "mangabaka_title": "Isimi Iyagi",
   "native_title": "이시미 이야기",
-  "romanized_title": "Isimi Iyagi",
+  "romanized_title": "Ishimi's Story",
   "titles": [
     {
       "language": "ko",
@@ -17,7 +17,7 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ja-Latn",
       "title": "Ishimi's Story",
       "traits": [],
       "is_primary": true,
@@ -36,7 +36,7 @@
       "language": "en",
       "title": "The Story of Ishimi",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.188Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T10:15:53.873Z",
+  "last_updated_at": "2026-07-23T13:56:20.196Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -74,7 +74,11 @@
       "rating": 74,
       "url": "https://anilist.co/manga/147572"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ishimis-story",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ishimis-story"
+    },
     "mangaupdates": {
       "id": "ly96rxn",
       "rating": null,
@@ -89,7 +93,9 @@
     31,
     9,
     45,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 32,
@@ -98,10 +104,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.125,
-    "fanRatioPercentile": 88.4824,
-    "popularityPercentile": 20.2424,
-    "fanFavouriteDiscoveryScore": 44.688,
-    "fanFavouriteDiscoveryPercentile": 51.1141
+    "fanRatioPercentile": 88.5035,
+    "popularityPercentile": 20.2167,
+    "fanFavouriteDiscoveryScore": 44.6513,
+    "fanFavouriteDiscoveryPercentile": 51.1323
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -166,14 +172,15 @@
         "Drama",
         "Romance",
         "Historical",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "ishimi",
         "isimi",
         "iyagi",
-        "isimi",
-        "iyagi"
+        "ishimi"
       ],
       "descriptionTerms": [
         "ishimi",
@@ -203,9 +210,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.45
   }
 }

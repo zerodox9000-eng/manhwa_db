@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T06:04:28.509Z",
+  "last_updated_at": "2026-07-23T13:10:06.261Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -67,7 +67,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/198091"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-sea-of-falling-ash",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-sea-of-falling-ash"
+    },
     "mangaupdates": {
       "id": "a3h64dj",
       "rating": 63,
@@ -80,7 +84,9 @@
     31,
     32,
     18,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 42,
@@ -89,10 +95,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 24.5032,
-    "fanFavouriteDiscoveryScore": 18.7002,
-    "fanFavouriteDiscoveryPercentile": 20.95
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 24.4376,
+    "fanFavouriteDiscoveryScore": 18.671,
+    "fanFavouriteDiscoveryPercentile": 20.9239
   },
   "context": {
     "primaryProfile": "school-life",
@@ -158,7 +164,9 @@
         "Drama",
         "Mystery",
         "Psychological",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "sea",
@@ -199,9 +207,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.43
   }
 }

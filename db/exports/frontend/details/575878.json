@@ -23,9 +23,9 @@
     }
   ],
   "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=846079), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13560056)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTEzODA3LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2tpbGxlZC1hbi1ucGMtMS53ZWJwP3Q9MTc2ODI4NTQxOA",
+  "total_chapters": "32",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -37,7 +37,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T01:44:44.916Z",
+  "last_updated_at": "2026-07-23T12:12:58.817Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "killed-an-npc",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/killed-an-npc"
+    },
     "mangaupdates": {
       "id": "x400j0j",
       "rating": null,
@@ -63,7 +67,10 @@
     8,
     36,
     39,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -113,7 +120,10 @@
         "Seinen",
         "Fantasy",
         "Action",
-        "Drama"
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "killed",
@@ -131,9 +141,10 @@
         "series"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.42
   }
 }

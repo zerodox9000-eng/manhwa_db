@@ -2,8 +2,8 @@
   "id": 596823,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Five (Nagyung)",
-  "mangabaka_title": "Five (Nagyung)",
+  "display_title": "Five (Bana)",
+  "mangabaka_title": "Five (Bana)",
   "native_title": "파이브",
   "romanized_title": "Five (Nagyung)",
   "titles": [
@@ -22,6 +22,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Five (Bana)",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Five (Nagyung)",
       "traits": [],
@@ -30,7 +37,7 @@
     }
   ],
   "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/five)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNjgwLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ZpdmUtYmFuYS0xLndlYnA_dD0xNzg0NDE1NDk4",
   "total_chapters": "1",
   "status": "releasing",
   "content_rating": "erotica",
@@ -44,11 +51,11 @@
   },
   "first_seen_at": "2026-07-19T04:19:30.700Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T15:47:58.119Z",
+  "last_updated_at": "2026-07-23T15:49:09.076Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ppana"
+    "Bbana"
   ],
   "artists": [
     "Nagyung"
@@ -59,7 +66,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "five-bana",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/five-bana"
+    },
     "mangaupdates": {
       "id": "8nxaauy",
       "rating": null,
@@ -68,9 +79,13 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
     31,
-    30
+    30,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -112,6 +127,7 @@
     "semanticSummary": "sports-career",
     "searchKeywords": [
       "five",
+      "bana",
       "nagyung",
       "original",
       "webtoon"
@@ -119,15 +135,19 @@
     "evidence": {
       "tags": [
         "Adult",
+        "Boys Love",
         "Yaoi",
         "Drama",
-        "Sports"
+        "Sports",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "five",
-        "nagyung",
+        "bana",
         "five",
-        "nagyung",
+        "bana",
         "five",
         "nagyung"
       ],
@@ -136,9 +156,10 @@
         "webtoon"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.59
   }
 }

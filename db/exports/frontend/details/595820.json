@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-07-06T05:06:36.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-23T01:56:18.471Z",
+  "last_updated_at": "2026-07-24T01:57:11.165Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,7 +68,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214086"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "please-tame-me",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/please-tame-me"
+    },
     "mangaupdates": {
       "id": "qo4g3pt",
       "rating": null,
@@ -77,6 +81,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     15,
@@ -94,10 +99,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 1.8293,
-    "fanFavouriteDiscoveryScore": 5.6887,
-    "fanFavouriteDiscoveryPercentile": 1.6938
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 1.8584,
+    "fanFavouriteDiscoveryScore": 5.7039,
+    "fanFavouriteDiscoveryPercentile": 1.723
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -168,6 +173,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Based on a Web Novel",
         "Heterosexual",
         "Adult",
         "Mature",
@@ -214,7 +220,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 1

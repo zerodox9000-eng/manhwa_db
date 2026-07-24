@@ -2,10 +2,10 @@
   "id": 331483,
   "state": "active",
   "type": "manhwa",
-  "display_title": "When You're Marked by the Homepage Master",
+  "display_title": "When Homma Targeted You",
   "mangabaka_title": "When Homma Targeted You",
   "native_title": "홈마에게 찍혔을 때",
-  "romanized_title": "When Homma Targeted You",
+  "romanized_title": null,
   "titles": [
     {
       "language": "ko",
@@ -15,7 +15,7 @@
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "en",
       "title": "When Homma Targeted You",
       "traits": [],
       "is_primary": true,
@@ -25,12 +25,12 @@
       "language": "en",
       "title": "When You're Marked by the Homepage Master",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/62080380), [Daum](https://webtoon.kakao.com/content/%ED%99%88%EB%A7%88%EC%97%90%EA%B2%8C-%EC%B0%8D%ED%98%94%EC%9D%84-%EB%95%8C/3939)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDE5OTMxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3doZW4taG9tbWEtdGFyZ2V0ZWQteW91LTEud2VicD90PTE3NzkyMTgzNTI",
   "total_chapters": "50",
   "status": "completed",
   "content_rating": "safe",
@@ -44,7 +44,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-12T17:05:10.194Z",
+  "last_updated_at": "2026-07-23T13:36:14.239Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +59,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "when-homma-targeted-you",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/when-homma-targeted-you"
+    },
     "mangaupdates": {
       "id": "j41ycud",
       "rating": null,
@@ -68,8 +72,13 @@
   },
   "tag_ids": [
     43,
+    281,
     31,
-    9
+    27,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -82,19 +91,24 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "showbiz-career",
     "profileGroups": [
       "modern-korea",
-      "romance-core"
+      "romance-core",
+      "showbiz-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "showbiz-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "showbiz"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
@@ -108,11 +122,8 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "showbiz-career / modern-korea",
     "searchKeywords": [
-      "marked",
-      "homepage",
-      "master",
       "homma",
       "targeted",
       "original",
@@ -123,13 +134,15 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Idols",
         "Drama",
-        "Romance"
+        "Music",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "marked",
-        "homepage",
-        "master",
         "homma",
         "targeted",
         "homma",
@@ -142,9 +155,10 @@
         "daum"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.66
   }
 }

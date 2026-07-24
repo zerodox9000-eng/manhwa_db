@@ -58,7 +58,7 @@
   ],
   "description": "They joined for the money. The game will strip them bare. How far will they go to win?\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxMDgyMi1tTVEwckZrRzJOd28uanBn",
-  "total_chapters": "14",
+  "total_chapters": "21",
   "status": "releasing",
   "content_rating": "pornographic",
   "is_licensed": true,
@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T12:50:24.711Z",
+  "last_updated_at": "2026-07-23T12:51:21.767Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,7 +90,11 @@
       "rating": 55,
       "url": "https://anilist.co/manga/210822"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-price-of-yes",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-price-of-yes"
+    },
     "mangaupdates": {
       "id": "anciprq",
       "rating": 63,
@@ -110,16 +114,16 @@
     428
   ],
   "stats": {
-    "popularity": 82,
+    "popularity": 83,
     "favourites": null,
     "meanScore": 55
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 36.0057,
-    "fanFavouriteDiscoveryScore": 24.9703,
-    "fanFavouriteDiscoveryPercentile": 27.6423
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 36.2125,
+    "fanFavouriteDiscoveryScore": 25.0762,
+    "fanFavouriteDiscoveryPercentile": 27.7707
   },
   "context": {
     "primaryProfile": null,
@@ -191,7 +195,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.38

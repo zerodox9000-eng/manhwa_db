@@ -65,7 +65,7 @@
   ],
   "description": "They live comfortably on small lies, because, really… who cares if it’s a lie?\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxMTI2NS1pU05La0dReEdJYkguanBn",
-  "total_chapters": "18",
+  "total_chapters": "26",
   "status": "releasing",
   "content_rating": "pornographic",
   "is_licensed": true,
@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T17:18:25.381Z",
+  "last_updated_at": "2026-07-23T17:19:30.325Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -97,7 +97,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/211265"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "who-cares-if-its-a-lie",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/who-cares-if-its-a-lie"
+    },
     "mangaupdates": {
       "id": "n5lqibl",
       "rating": 61,
@@ -119,16 +123,16 @@
     428
   ],
   "stats": {
-    "popularity": 125,
+    "popularity": 126,
     "favourites": null,
     "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 43.6314,
-    "fanFavouriteDiscoveryScore": 27.6855,
-    "fanFavouriteDiscoveryPercentile": 30.2319
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 43.7138,
+    "fanFavouriteDiscoveryScore": 27.7272,
+    "fanFavouriteDiscoveryPercentile": 30.2611
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -204,7 +208,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.47

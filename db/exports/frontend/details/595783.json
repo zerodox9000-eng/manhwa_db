@@ -2,7 +2,7 @@
   "id": 595783,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Demon King, the Hero, and ~Romance Saga~",
+  "display_title": "Mawang Geurigo Yongsa Geurigo: ROMANCE SAGA",
   "mangabaka_title": "Mawang Geurigo Yongsa Geurigo: ROMANCE SAGA",
   "native_title": "마왕 그리고 용사 그리고~ROMANCE SAGA~",
   "romanized_title": "Mawang Geurigo Yongsa Geurigo: ROMANCE SAGA",
@@ -26,7 +26,7 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ja-Latn",
       "title": "The Demon King, the Hero, and ~Romance Saga~",
       "traits": [],
       "is_primary": true,
@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-07-05T04:53:57.805Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T19:40:21.141Z",
+  "last_updated_at": "2026-07-23T19:40:45.408Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -67,7 +67,11 @@
       "rating": 56,
       "url": "https://anilist.co/manga/213864"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-demon-king-the-hero-and-romance-saga",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-demon-king-the-hero-and-romance-saga"
+    },
     "mangaupdates": {
       "id": "6tjthum",
       "rating": null,
@@ -76,11 +80,13 @@
   },
   "tag_ids": [
     43,
+    698,
     36,
     46,
     10,
     41,
     109,
+    160,
     39,
     6,
     31,
@@ -96,10 +102,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 5.0211,
-    "fanFavouriteDiscoveryScore": 7.0356,
-    "fanFavouriteDiscoveryPercentile": 4.6296
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 5.0184,
+    "fanFavouriteDiscoveryScore": 7.0391,
+    "fanFavouriteDiscoveryPercentile": 4.6272
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -133,18 +139,18 @@
     },
     "semanticSummary": "modern-korea",
     "searchKeywords": [
-      "demon",
-      "king",
-      "hero",
-      "romance",
-      "saga",
       "mawang",
       "geurigo",
       "yongsa",
+      "romance",
+      "saga",
       "hyacinth",
       "aspiring",
+      "hero",
       "sets",
       "defeat",
+      "demon",
+      "king",
       "hopes",
       "gaining",
       "fame",
@@ -164,11 +170,13 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Demon King",
         "Fantasy",
         "Adult",
         "Hentai",
         "Smut",
         "Nudity",
+        "Demons",
         "Action",
         "Comedy",
         "Drama",
@@ -178,9 +186,10 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "demon",
-        "king",
-        "hero",
+        "mawang",
+        "geurigo",
+        "yongsa",
+        "geurigo",
         "romance",
         "saga",
         "mawang",
@@ -188,8 +197,7 @@
         "yongsa",
         "geurigo",
         "romance",
-        "saga",
-        "romance"
+        "saga"
       ],
       "descriptionTerms": [
         "hyacinth",
@@ -219,9 +227,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.57
   }
 }

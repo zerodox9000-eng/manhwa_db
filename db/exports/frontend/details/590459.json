@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "[Possessiveness Anthology] I'm Sorry, Young Master",
-  "mangabaka_title": "Jalmothaesseoyo, Doryeonnim",
-  "native_title": "[소유욕 단편선] 잘못했어요, 도련님",
-  "romanized_title": "Jalmothaesseoyo, Doryeonnim",
+  "mangabaka_title": "Jalmotaesseoyo, Doryeonnim",
+  "native_title": "잘못했어요, 도련님",
+  "romanized_title": "Jalmotaesseoyo, Doryeonnim",
   "titles": [
     {
       "language": "ko",
       "title": "잘못했어요, 도련님",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[소유욕 단편선] 잘못했어요, 도련님",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,10 +31,26 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "I Was Wrong, Young Master",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jalmotaesseoyo, Doryeonnim",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Jalmothaesseoyo, Doryeonnim",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -48,40 +66,51 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Soyuyong Danpyeonseon] Jalmotaesseoyo, Doryeonnim",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[MrBlue](https://www.mrblue.com/webtoon/wt_000078949), [RIDI](https://ridibooks.com/books/5285002553)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5MDY5LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*Note: Part of Metatoon's Soyuyong Danpyeonseon (소유욕 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDM4OC1TcXpXNWwyeExDZEguanBn",
+  "total_chapters": "5",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-12",
+    "end_date": "2026-06-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T05:01:15.308Z",
+  "last_updated_at": "2026-07-24T03:06:02.795Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Hichae",
-    "Nok-Eun"
+    "Nogeun"
   ],
   "artists": [
     "Metatoon",
-    "NopNop"
+    "Nomnyop"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/590459",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214388,
+      "rating": null,
+      "url": "https://anilist.co/manga/214388"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "xsthjnx",
@@ -91,8 +120,13 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -100,15 +134,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 0.1204,
+    "fanFavouriteDiscoveryScore": 5.058,
+    "fanFavouriteDiscoveryPercentile": 0.1204
   },
   "context": {
-    "primaryProfile": "modern-korea",
-    "profileGroups": [
-      "modern-korea"
-    ],
+    "primaryProfile": null,
+    "profileGroups": [],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -126,45 +160,55 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "",
     "searchKeywords": [
       "possessiveness",
       "anthology",
       "sorry",
       "master",
-      "jalmothaesseoyo",
+      "jalmotaesseoyo",
       "doryeonnim",
-      "original",
-      "webtoon",
-      "mrblue",
-      "ridi"
+      "note",
+      "part",
+      "metatoon",
+      "soyuyong",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Drama"
+        "Drama",
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "possessiveness",
         "anthology",
         "sorry",
         "master",
-        "jalmothaesseoyo",
+        "jalmotaesseoyo",
         "doryeonnim",
-        "jalmothaesseoyo",
+        "jalmotaesseoyo",
         "doryeonnim"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "mrblue",
-        "ridi"
+        "note",
+        "part",
+        "metatoon",
+        "soyuyong",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.36
   }
 }

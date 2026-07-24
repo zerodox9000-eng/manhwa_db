@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-23T04:06:15.974Z",
+  "last_updated_at": "2026-07-23T10:57:15.232Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -108,11 +108,13 @@
     }
   },
   "tag_ids": [
+    167,
     43,
     108,
     36,
     46,
     41,
+    127,
     9,
     93,
     57,
@@ -125,20 +127,26 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 2.6498,
-    "fanFavouriteDiscoveryScore": 6.0146,
-    "fanFavouriteDiscoveryPercentile": 2.439
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 2.6635,
+    "fanFavouriteDiscoveryScore": 6.0241,
+    "fanFavouriteDiscoveryPercentile": 2.4528
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -156,7 +164,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "sculptor",
       "why",
@@ -175,11 +183,13 @@
     ],
     "evidence": {
       "tags": [
+        "Crossdressing",
         "Josei",
         "Heterosexual",
         "Fantasy",
         "Adult",
         "Smut",
+        "Nobility",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -213,6 +223,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.69
   }
 }

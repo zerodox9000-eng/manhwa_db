@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T03:08:12.449Z",
+  "last_updated_at": "2026-07-23T08:34:51.347Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -84,7 +84,11 @@
       "rating": 63,
       "url": "https://anilist.co/manga/194836"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-cocky-brother-learns-a-lesson",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-cocky-brother-learns-a-lesson"
+    },
     "mangaupdates": {
       "id": "pjvxdj9",
       "rating": 66,
@@ -99,6 +103,7 @@
     595,
     987,
     755,
+    254,
     1043,
     46,
     14,
@@ -126,10 +131,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.3699,
-    "fanRatioPercentile": 54.5995,
-    "popularityPercentile": 34.1539,
-    "fanFavouriteDiscoveryScore": 41.7608,
-    "fanFavouriteDiscoveryPercentile": 47.0416
+    "fanRatioPercentile": 54.6535,
+    "popularityPercentile": 34.1585,
+    "fanFavouriteDiscoveryScore": 41.8058,
+    "fanFavouriteDiscoveryPercentile": 47.1146
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -203,6 +208,7 @@
         "South Korea",
         "Older Seme Younger Uke",
         "Inseki",
+        "Siblings",
         "Historical Setting",
         "Adult",
         "Erotica",
@@ -266,6 +272,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

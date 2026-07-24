@@ -113,7 +113,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T15:35:31.131Z",
+  "last_updated_at": "2026-07-23T15:39:56.778Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -134,7 +134,11 @@
       "rating": 65,
       "url": "https://anilist.co/manga/205773"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-iron-overlord-of-sichuan",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/the-iron-overlord-of-sichuan"
+    },
     "mangaupdates": {
       "id": "jk87g3t",
       "rating": 66,
@@ -144,6 +148,7 @@
   "tag_ids": [
     38,
     58,
+    74,
     249,
     36,
     1,
@@ -156,16 +161,16 @@
     428
   ],
   "stats": {
-    "popularity": 1039,
+    "popularity": 1047,
     "favourites": 10,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9625,
-    "fanRatioPercentile": 43.3153,
-    "popularityPercentile": 81.3911,
-    "fanFavouriteDiscoveryScore": 43.0569,
-    "fanFavouriteDiscoveryPercentile": 48.6525
+    "fanFavouriteRaw": 0.9551,
+    "fanRatioPercentile": 43.142,
+    "popularityPercentile": 81.4762,
+    "fanFavouriteDiscoveryScore": 42.8865,
+    "fanFavouriteDiscoveryPercentile": 48.4538
   },
   "context": {
     "primaryProfile": "kingdom-management",
@@ -236,6 +241,7 @@
       "tags": [
         "Shounen",
         "Male Lead",
+        "Based on a Web Novel",
         "Time Travel",
         "Fantasy",
         "Sci-Fi",
@@ -285,9 +291,10 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },
-    "confidence": 0.86
+    "confidence": 0.87
   }
 }

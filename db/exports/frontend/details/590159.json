@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-06-11T05:22:26.965Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-20T08:31:20.168Z",
+  "last_updated_at": "2026-07-23T05:16:16.734Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -117,7 +117,11 @@
       "rating": 10,
       "url": "https://anilist.co/manga/213093"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-mobsters-at-the-bathhouse",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-mobsters-at-the-bathhouse"
+    },
     "mangaupdates": {
       "id": "rztww08",
       "rating": 62,
@@ -147,10 +151,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 7.6784,
-    "fanFavouriteDiscoveryScore": 8.3197,
-    "fanFavouriteDiscoveryPercentile": 7.0988
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 7.6819,
+    "fanFavouriteDiscoveryScore": 8.327,
+    "fanFavouriteDiscoveryPercentile": 7.1101
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -263,7 +267,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.56

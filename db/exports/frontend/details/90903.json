@@ -29,7 +29,7 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "A new story following on from ‘Magenta’! This time, Leone, the director of the art school, locks eyes with a father who has come to collect his daughter… Just how far will their connection go..?!",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzQ2OTAwLnBuZw",
   "total_chapters": "20",
   "status": "completed",
@@ -44,7 +44,7 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.584Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-25T06:38:17.537Z",
+  "last_updated_at": "2026-07-23T06:47:22.449Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -84,15 +84,27 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
-      "romance-core"
+      "business-career",
+      "corporate-workplace",
+      "modern-workplace",
+      "office-romance",
+      "romance-core",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
-      "protagonistRole": [],
+      "setting": [
+        "corporate-workplace",
+        "school"
+      ],
+      "protagonistRole": [
+        "executive"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
@@ -108,11 +120,26 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "corporate-workplace / corporate-workplace / school",
     "searchKeywords": [
       "indigo",
       "blue",
-      "bingo"
+      "bingo",
+      "following",
+      "magenta",
+      "time",
+      "leone",
+      "director",
+      "art",
+      "school",
+      "locks",
+      "eyes",
+      "father",
+      "come",
+      "collect",
+      "daughter",
+      "far",
+      "connection"
     ],
     "evidence": {
       "tags": [
@@ -130,11 +157,27 @@
         "blue",
         "bingo"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "following",
+        "magenta",
+        "time",
+        "leone",
+        "director",
+        "art",
+        "school",
+        "locks",
+        "eyes",
+        "father",
+        "come",
+        "collect",
+        "daughter",
+        "far",
+        "connection"
+      ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.84
   }
 }

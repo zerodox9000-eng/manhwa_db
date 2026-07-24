@@ -2,10 +2,10 @@
   "id": 596826,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Rolling in Bed with the Male Lead",
-  "mangabaka_title": "Rolling in Bed With the Male Lead",
+  "display_title": "In Bed With the Male Lead",
+  "mangabaka_title": "In Bed With the Male Lead",
   "native_title": "남주와 침대에서 뒹굴었다",
-  "romanized_title": null,
+  "romanized_title": "Namjuwa Chimdaeeseo Dwinggureotda",
   "titles": [
     {
       "language": "ko",
@@ -18,14 +18,39 @@
     },
     {
       "language": "en",
+      "title": "In Bed With the Male Lead",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Namjuwa Chimdaeeseo Dwinggureotda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Rolling Around in Bed with the Male Lead",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Rolling in Bed with the Male Lead",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Novel:**    \n[R19](https://page.kakao.com/content/67399231), [R15](https://page.kakao.com/content/67399172) \n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69458278), [Daum](https://webtoon.kakao.com/content/%EB%82%A8%EC%A3%BC%EC%99%80-%EC%B9%A8%EB%8C%80%EC%97%90%EC%84%9C-%EB%92%B9%EA%B5%B4%EC%97%88%EB%8B%A4/4913)\n\n**Translated:**\n\nEnglish (Launch July 25, 2026 on Tapas)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8yLzM0Nzk5MmwuanBn",
+  "description": "**Original Novel:**    \n[R19](https://page.kakao.com/content/67399231), [R15](https://page.kakao.com/content/67399172) \n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69458278), [Daum](https://webtoon.kakao.com/content/%EB%82%A8%EC%A3%BC%EC%99%80-%EC%B9%A8%EB%8C%80%EC%97%90%EC%84%9C-%EB%92%B9%EA%B5%B4%EC%97%88%EB%8B%A4/4913)\n\n**Official Translations:**  \nEnglish (July 25, Tapas)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDM0OS1XTkg4WEFmUGlyMDMuanBn",
   "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
@@ -39,7 +64,7 @@
   },
   "first_seen_at": "2026-07-19T04:19:30.700Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T19:36:42.779Z",
+  "last_updated_at": "2026-07-23T15:49:11.431Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -54,10 +79,14 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214349,
+      "rating": null,
+      "url": "https://anilist.co/manga/214349"
+    },
     "animeplanet": {
       "id": "rolling-in-bed-with-the-male-lead",
-      "rating": 80,
+      "rating": 78,
       "url": "https://www.anime-planet.com/manga/rolling-in-bed-with-the-male-lead"
     },
     "mangaupdates": {
@@ -67,6 +96,7 @@
     }
   },
   "tag_ids": [
+    58,
     74,
     249,
     36,
@@ -82,14 +112,16 @@
     428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 49,
+    "favourites": 1,
+    "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 2.0408,
+    "fanRatioPercentile": 72.0036,
+    "popularityPercentile": 26.9205,
+    "fanFavouriteDiscoveryScore": 46.1046,
+    "fanFavouriteDiscoveryPercentile": 54.0968
   },
   "context": {
     "primaryProfile": "regression-return",
@@ -123,15 +155,18 @@
     },
     "semanticSummary": "regression-return / regression",
     "searchKeywords": [
-      "rolling",
       "bed",
       "male",
       "lead",
+      "namjuwa",
+      "chimdaeeseo",
+      "dwinggureotda",
       "original",
       "novel"
     ],
     "evidence": {
       "tags": [
+        "Male Lead",
         "Based on a Web Novel",
         "Time Travel",
         "Fantasy",
@@ -147,24 +182,26 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "rolling",
         "bed",
         "male",
         "lead",
-        "rolling",
         "bed",
         "male",
-        "lead"
+        "lead",
+        "namjuwa",
+        "chimdaeeseo",
+        "dwinggureotda"
       ],
       "descriptionTerms": [
         "original",
         "novel"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.56
   }
 }

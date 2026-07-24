@@ -232,7 +232,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T15:20:23.645Z",
+  "last_updated_at": "2026-07-23T20:32:23.154Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -268,8 +268,12 @@
     158,
     59,
     2124,
+    2458,
+    2004,
     2398,
+    595,
     415,
+    874,
     1007,
     98,
     108,
@@ -286,34 +290,40 @@
     369,
     6,
     31,
+    875,
+    776,
     9,
     226,
     7,
+    132,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 634,
+    "popularity": 637,
     "favourites": 6,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9464,
-    "fanRatioPercentile": 42.8335,
-    "popularityPercentile": 73.5772,
-    "fanFavouriteDiscoveryScore": 42.3462,
-    "fanFavouriteDiscoveryPercentile": 47.8019
+    "fanFavouriteRaw": 0.9419,
+    "fanRatioPercentile": 42.7282,
+    "popularityPercentile": 73.6438,
+    "fanFavouriteDiscoveryScore": 42.2447,
+    "fanFavouriteDiscoveryPercentile": 47.6714
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -325,12 +335,14 @@
         "comedic",
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "orchard",
       "temptation",
@@ -367,8 +379,12 @@
         "Primarily Adult Cast",
         "Female Lead",
         "Virgin Female Lead",
+        "Devoted Male Lead",
+        "Horny Male Lead",
         "Virgin Male Lead",
+        "South Korea",
         "Countryside",
+        "Caught in the Act",
         "Adult couple",
         "Childhood Friends to Lovers",
         "Heterosexual",
@@ -385,9 +401,12 @@
         "Virginity",
         "Comedy",
         "Drama",
+        "First Love",
+        "Korean Folklore",
         "Romance",
         "Unrequited Love",
         "Slice of Life",
+        "21st century",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -433,6 +452,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.59
+    "confidence": 0.66
   }
 }

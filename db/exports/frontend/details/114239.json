@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.412Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T17:17:20.711Z",
+  "last_updated_at": "2026-07-23T15:06:14.361Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -88,7 +88,11 @@
       "rating": 55,
       "url": "https://anilist.co/manga/138335"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "whos-the-liar",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/whos-the-liar"
+    },
     "mangaupdates": {
       "id": "5md549c",
       "rating": 63,
@@ -99,7 +103,10 @@
     180,
     16,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 91,
@@ -108,10 +115,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.0989,
-    "fanRatioPercentile": 46.9587,
-    "popularityPercentile": 37.7371,
-    "fanFavouriteDiscoveryScore": 38.2378,
-    "fanFavouriteDiscoveryPercentile": 42.7733
+    "fanRatioPercentile": 47.0168,
+    "popularityPercentile": 37.7248,
+    "fanFavouriteDiscoveryScore": 38.2777,
+    "fanFavouriteDiscoveryPercentile": 42.8109
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -175,7 +182,10 @@
         "Boys Love",
         "Yaoi",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "liar",
@@ -210,9 +220,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.62
+    "confidence": 0.65
   }
 }

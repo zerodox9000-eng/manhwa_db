@@ -23,9 +23,9 @@
     }
   ],
   "description": "**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852761), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14461172)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMTI1LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2h1bWFuLXRhYmxlLTEud2VicD90PTE3ODQ2ODQ0NTU",
+  "total_chapters": "7",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -37,7 +37,7 @@
   },
   "first_seen_at": "2026-07-22T04:11:09.134Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T17:37:40.693Z",
+  "last_updated_at": "2026-07-23T17:38:21.591Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +52,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "human-table",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/human-table"
+    },
     "mangaupdates": {
       "id": "eoiqkpu",
       "rating": null,
@@ -62,7 +66,10 @@
   "tag_ids": [
     8,
     31,
-    44
+    44,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -116,7 +123,10 @@
       "tags": [
         "Seinen",
         "Drama",
-        "Horror"
+        "Horror",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "human",
@@ -133,9 +143,10 @@
         "series"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.57
   }
 }

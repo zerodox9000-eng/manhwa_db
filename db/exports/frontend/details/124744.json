@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T16:33:19.795Z",
+  "last_updated_at": "2026-07-24T02:19:37.167Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -82,7 +82,11 @@
       "rating": 59,
       "url": "https://anilist.co/manga/157562"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "their-forbidden-love",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/their-forbidden-love"
+    },
     "mangaupdates": {
       "id": "l6jnb4d",
       "rating": 64,
@@ -111,7 +115,9 @@
     103,
     31,
     9,
-    57
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": 133,
@@ -120,10 +126,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.7519,
-    "fanRatioPercentile": 38.0533,
-    "popularityPercentile": 44.7531,
-    "fanFavouriteDiscoveryScore": 33.762,
-    "fanFavouriteDiscoveryPercentile": 37.1725
+    "fanRatioPercentile": 38.1085,
+    "popularityPercentile": 44.722,
+    "fanFavouriteDiscoveryScore": 33.8011,
+    "fanFavouriteDiscoveryPercentile": 37.2432
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -204,7 +210,9 @@
         "Public Intercourse",
         "Drama",
         "Romance",
-        "Full Color"
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "forbidden",
@@ -244,9 +252,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.64
+    "confidence": 0.66
   }
 }

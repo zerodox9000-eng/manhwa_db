@@ -2,8 +2,8 @@
   "id": 569734,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Can See the Title",
-  "mangabaka_title": "Jemogi Boineundeyo",
+  "display_title": "I Can See the Title Though",
+  "mangabaka_title": "I Can See the Title Though",
   "native_title": "제목이 보이는데요",
   "romanized_title": "Jemogi Boineundeyo",
   "titles": [
@@ -27,14 +27,16 @@
       "language": "en",
       "title": "I Can See the Title",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "I Can See the Title Though",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -54,7 +56,7 @@
       "note": null
     }
   ],
-  "description": "I can see the titles of the Female Leads. In a world brimming with regressors, reincarnators, and transmigrators, May is none of them. She’s just an ordinary, painfully ordinary, native of a romance-fantasy novel. No past-life memories, no transmigrator missions, no reincarnator powers. A 100% pure extra. Yet May possesses one bizarre, unparalleled ability, she can see the titles of the novels the Female Leads come from. Not just brief titles, but massive, spoiler-filled ones that practically reveal the entire plot. May kept that ability hidden and lived quietly. Until a romance-fantasy Female Lead named Seol Eun-chae possessed her beloved younger sister’s body. Desperate to bring her sister back, May searches for a way, and learns a shocking truth from a chance encounter with a mysterious 'Master'. \"There is only one way to drive out a transmigrator. Steal the Male Lead she’s destined for.\" ...Hold on. Seol Eun-chae’s male lead is WHO? The tyrant with a 0.000001% romance success rate, Rihaim Elivton?! Countless Female Leads tried, and failed, to win him over, only to be cast out of their possessed bodies. A mere extra, no regression, no cheat, no reincarnation, can she seduce Rihaim? To reclaim her sister, May makes up her mind, she will shake the tyrant’s heart.\n\n(Source: KakaoPage, translated)",
+  "description": "Extra or protagonist—you can only be one or the other in May Avril’s romance-fantasy world. May is the former, with no power or prestige of her own. But when a transmigrator steals her precious younger sister’s body, May is the only one who can see it. Armed with her wits and her special ability to see the titles of the Ro-Fan stories in her world, will May be able to rise above her meager “extra” status and change her sister’s fate?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2EvNS84L2IvMi9kLzgvMzI2NS80NDkxLzg5ZjQvNTZkYzcyMTdlYjA5",
   "total_chapters": "32",
   "status": "releasing",
@@ -69,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T19:19:42.169Z",
+  "last_updated_at": "2026-07-23T19:20:48.595Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,7 +82,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/569734",
-    "read_en": null
+    "read_en": "https://tapas.io/series/i-can-see-the-title-though/info"
   },
   "source": {
     "anilist": {
@@ -89,9 +91,9 @@
       "url": "https://anilist.co/manga/203889"
     },
     "animeplanet": {
-      "id": "i-can-see-the-title",
-      "rating": 74,
-      "url": "https://www.anime-planet.com/manga/i-can-see-the-title"
+      "id": "i-can-see-the-title-though",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/i-can-see-the-title-though"
     },
     "mangaupdates": {
       "id": "znt900z",
@@ -119,23 +121,22 @@
     428
   ],
   "stats": {
-    "popularity": 210,
+    "popularity": 211,
     "favourites": 2,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9524,
-    "fanRatioPercentile": 43.0593,
-    "popularityPercentile": 53.2596,
-    "fanFavouriteDiscoveryScore": 40.5241,
-    "fanFavouriteDiscoveryPercentile": 45.5059
+    "fanFavouriteRaw": 0.9479,
+    "fanRatioPercentile": 42.9539,
+    "popularityPercentile": 53.3669,
+    "fanFavouriteDiscoveryScore": 40.4461,
+    "fanFavouriteDiscoveryPercentile": 45.4067
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
       "regression-return",
       "romance-core"
     ],
@@ -145,21 +146,17 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
-        "regression",
         "reincarnation"
       ],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [
-        "career-growth"
-      ],
+      "progressionType": [],
       "tone": [
         "warm"
       ],
@@ -167,37 +164,38 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "major",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / regression / reincarnation",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "see",
       "title",
+      "though",
       "jemogi",
       "boineundeyo",
-      "titles",
-      "female",
-      "leads",
-      "brimming",
-      "regressors",
-      "reincarnators",
-      "transmigrators",
-      "none",
-      "ordinary",
-      "painfully",
-      "native",
+      "extra",
+      "protagonist",
+      "avril",
       "romance-fantasy",
-      "novel",
-      "past-life",
-      "memories",
+      "former",
+      "power",
+      "prestige",
       "transmigrator",
-      "missions",
-      "reincarnator",
-      "powers",
-      "100",
-      "pure",
-      "extra"
+      "steals",
+      "precious",
+      "younger",
+      "sister",
+      "body",
+      "armed",
+      "wits",
+      "special",
+      "ability",
+      "titles",
+      "ro-fan",
+      "stories",
+      "able",
+      "rise"
     ],
     "evidence": {
       "tags": [
@@ -222,43 +220,46 @@
       "titleTerms": [
         "see",
         "title",
-        "jemogi",
-        "boineundeyo",
+        "though",
+        "see",
+        "title",
+        "though",
         "jemogi",
         "boineundeyo"
       ],
       "descriptionTerms": [
+        "extra",
+        "protagonist",
+        "avril",
+        "romance-fantasy",
+        "former",
+        "power",
+        "prestige",
+        "transmigrator",
+        "steals",
+        "precious",
+        "younger",
+        "sister",
+        "body",
+        "see",
+        "armed",
+        "wits",
+        "special",
+        "ability",
         "see",
         "titles",
-        "female",
-        "leads",
-        "brimming",
-        "regressors",
-        "reincarnators",
-        "transmigrators",
-        "none",
-        "ordinary",
-        "painfully",
-        "ordinary",
-        "native",
-        "romance-fantasy",
-        "novel",
-        "past-life",
-        "memories",
-        "transmigrator",
-        "missions",
-        "reincarnator",
-        "powers",
-        "100",
-        "pure",
-        "extra"
+        "ro-fan",
+        "stories",
+        "able",
+        "rise"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.89
+    "confidence": 0.82
   }
 }

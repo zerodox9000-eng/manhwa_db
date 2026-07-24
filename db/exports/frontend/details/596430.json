@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-07-14T04:00:28.260Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-22T18:10:25.780Z",
+  "last_updated_at": "2026-07-23T18:10:31.547Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -74,7 +74,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214137"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "hwansang-eui-love-line",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/hwansang-eui-love-line"
+    },
     "mangaupdates": {
       "id": "bykklim",
       "rating": 64,
@@ -92,21 +96,22 @@
     16,
     31,
     9,
+    344,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 44,
+    "popularity": 47,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5492,
-    "popularityPercentile": 25.2183,
-    "fanFavouriteDiscoveryScore": 19.1514,
-    "fanFavouriteDiscoveryPercentile": 21.4619
+    "fanRatioPercentile": 31.5702,
+    "popularityPercentile": 26.1831,
+    "fanFavouriteDiscoveryScore": 19.7642,
+    "fanFavouriteDiscoveryPercentile": 22.06
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -187,6 +192,7 @@
         "Yaoi",
         "Drama",
         "Romance",
+        "Showbiz",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -230,9 +236,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.94
+    "confidence": 0.95
   }
 }

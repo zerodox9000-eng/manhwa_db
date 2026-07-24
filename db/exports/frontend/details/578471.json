@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-22T17:20:39.247Z",
+  "last_updated_at": "2026-07-23T09:57:01.244Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,7 +90,11 @@
       "rating": 62,
       "url": "https://anilist.co/manga/208111"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "dont-ghost-me",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/dont-ghost-me"
+    },
     "mangaupdates": {
       "id": "rshlp2e",
       "rating": 63,
@@ -119,10 +123,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.6667,
-    "fanRatioPercentile": 63.1286,
-    "popularityPercentile": 30.4953,
-    "fanFavouriteDiscoveryScore": 44.5501,
-    "fanFavouriteDiscoveryPercentile": 50.941
+    "fanRatioPercentile": 63.2533,
+    "popularityPercentile": 30.4868,
+    "fanFavouriteDiscoveryScore": 44.6288,
+    "fanFavouriteDiscoveryPercentile": 51.0044
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -235,6 +239,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

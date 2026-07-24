@@ -2,10 +2,10 @@
   "id": 331908,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Fabricated Classroom",
+  "display_title": "Suzaku Academy",
   "mangabaka_title": "Suzaku Academy",
   "native_title": "捏造の教室",
-  "romanized_title": "Suzaku Academy",
+  "romanized_title": null,
   "titles": [
     {
       "language": "ko",
@@ -18,11 +18,11 @@
       "language": "en",
       "title": "Fabricated Classroom",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "en",
       "title": "Suzaku Academy",
       "traits": [],
       "is_primary": true,
@@ -37,8 +37,8 @@
     }
   ],
   "description": "**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/61615337), [Daum](https://webtoon.kakao.com/content/%EC%A3%BC%EC%9E%91%ED%95%99%EC%9B%90/3492)\n\n**Official Translations:**  \n[Japanese](https://jp.piccoma.com/web/product/167930)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDQzMjg1LmpwZw",
-  "total_chapters": "45",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3N1emFrdS1hY2FkZW15LTEud2VicD90PTE3NzMxODA0NDg",
+  "total_chapters": "46",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
@@ -51,7 +51,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-06-18T02:08:54.198Z",
+  "last_updated_at": "2026-07-23T08:44:17.240Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -67,7 +67,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "suzaku-academy",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/suzaku-academy"
+    },
     "mangaupdates": {
       "id": "zelo0ot",
       "rating": null,
@@ -80,7 +84,10 @@
     15,
     31,
     18,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -121,8 +128,6 @@
     },
     "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
-      "fabricated",
-      "classroom",
       "suzaku",
       "academy",
       "original",
@@ -140,11 +145,12 @@
         "Mature",
         "Drama",
         "Psychological",
-        "School Life"
+        "School Life",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "fabricated",
-        "classroom",
         "suzaku",
         "academy",
         "suzaku",
@@ -160,9 +166,10 @@
         "japanese"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.51
   }
 }
