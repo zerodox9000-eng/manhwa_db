@@ -20,9 +20,16 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "One Mistaken Night With My Boss",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5700001151), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14431538), [MrBlue](https://www.mrblue.com/webtoon/wt_000079877)",
+  "description": "A married marketing director, barely holding his life together through sheer responsibility, falls into a dangerous affair after a one-night mistake with his cold, perfectionist direct superior. Torn between his crumbling family and his increasingly uncontrollable desires, he becomes trapped in a tense psychological battle.\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5700001151), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14431538), [MrBlue](https://www.mrblue.com/webtoon/wt_000079877)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyMzAxLmpwZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,14 +44,14 @@
   },
   "first_seen_at": "2026-07-15T03:59:45.684Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-21T05:06:03.684Z",
+  "last_updated_at": "2026-07-24T05:28:34.289Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Studio Moon"
   ],
   "artists": [
-    "Seohae"
+    "Seohae (II)"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596456",
@@ -78,18 +85,29 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
       "modern-korea",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "executive"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
@@ -97,6 +115,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "dark",
         "warm"
       ],
       "worldType": [],
@@ -104,19 +123,35 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "one-night",
       "mistake",
       "older",
       "spinster",
       "boss",
-      "original",
-      "webtoon",
-      "ridibooks",
-      "naver",
-      "series",
-      "mrblue"
+      "married",
+      "marketing",
+      "director",
+      "barely",
+      "holding",
+      "together",
+      "through",
+      "sheer",
+      "responsibility",
+      "falls",
+      "dangerous",
+      "affair",
+      "cold",
+      "perfectionist",
+      "direct",
+      "superior",
+      "torn",
+      "between",
+      "crumbling",
+      "family",
+      "increasingly",
+      "uncontrollable"
     ],
     "evidence": {
       "tags": [
@@ -140,17 +175,35 @@
         "boss"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "ridibooks",
-        "naver",
-        "series",
-        "mrblue"
+        "married",
+        "marketing",
+        "director",
+        "barely",
+        "holding",
+        "together",
+        "through",
+        "sheer",
+        "responsibility",
+        "falls",
+        "dangerous",
+        "affair",
+        "one-night",
+        "mistake",
+        "cold",
+        "perfectionist",
+        "direct",
+        "superior",
+        "torn",
+        "between",
+        "crumbling",
+        "family",
+        "increasingly",
+        "uncontrollable"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.48
+    "confidence": 1
   }
 }

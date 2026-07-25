@@ -2,7 +2,7 @@
   "id": 597242,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Help Princess Deokhye",
+  "display_title": "Please Help Princess Deokhye",
   "mangabaka_title": "Help Princess Deokhye",
   "native_title": "덕혜옹주를 도와줘",
   "romanized_title": "Help Princess Deokhye",
@@ -20,9 +20,16 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Please Help Princess Deokhye",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69454911/), [Daum](https://webtoon.kakao.com/content/%EB%8D%95%ED%98%9C%EC%98%B9%EC%A3%BC%EB%A5%BC-%EB%8F%84%EC%99%80%EC%A4%98/4918)",
+  "description": "High school student Hyunmin is transported one hundred years into the past—to an elite girls’ academy for aristocrats. In a place rife with political intrigue and blatant discrimination, she has only one mission: To protect one girl’s dignity—and her heart.\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69454911/), [Daum](https://webtoon.kakao.com/content/%EB%8D%95%ED%98%9C%EC%98%B9%EC%A3%BC%EB%A5%BC-%EB%8F%84%EC%99%80%EC%A4%98/4918)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMjU3LnBuZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,7 +44,7 @@
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-23T16:37:42.176Z",
+  "last_updated_at": "2026-07-24T16:51:23.147Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -81,7 +88,8 @@
       "euro-fantasy",
       "euro-romance",
       "modern-korea",
-      "romance-core"
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [
       "euro-fantasy"
@@ -90,7 +98,8 @@
     "storySignals": {
       "setting": [
         "modern-korea",
-        "kingdom-fantasy"
+        "kingdom-fantasy",
+        "school"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -111,13 +120,34 @@
     },
     "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
     "searchKeywords": [
+      "please",
       "help",
       "princess",
       "deokhye",
-      "original",
-      "webtoon",
-      "kakaopage",
-      "daum"
+      "high",
+      "school",
+      "student",
+      "hyunmin",
+      "transported",
+      "hundred",
+      "years",
+      "past",
+      "elite",
+      "girls",
+      "academy",
+      "aristocrats",
+      "place",
+      "rife",
+      "political",
+      "intrigue",
+      "blatant",
+      "discrimination",
+      "mission",
+      "protect",
+      "girl",
+      "dignity",
+      "heart",
+      "original"
     ],
     "evidence": {
       "tags": [
@@ -127,6 +157,7 @@
         "Historical"
       ],
       "titleTerms": [
+        "please",
         "help",
         "princess",
         "deokhye",
@@ -138,15 +169,35 @@
         "deokhye"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "kakaopage",
-        "daum"
+        "high",
+        "school",
+        "student",
+        "hyunmin",
+        "transported",
+        "hundred",
+        "years",
+        "past",
+        "elite",
+        "girls",
+        "academy",
+        "aristocrats",
+        "place",
+        "rife",
+        "political",
+        "intrigue",
+        "blatant",
+        "discrimination",
+        "mission",
+        "protect",
+        "girl",
+        "dignity",
+        "heart",
+        "original"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.69
+    "confidence": 0.76
   }
 }

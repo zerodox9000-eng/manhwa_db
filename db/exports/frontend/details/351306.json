@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-23T15:01:23.799Z",
+  "last_updated_at": "2026-07-24T15:19:44.815Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -130,14 +130,23 @@
     }
   },
   "tag_ids": [
+    1493,
+    1490,
+    1378,
+    1406,
+    595,
+    257,
     985,
     14,
     180,
+    1947,
     16,
     6,
     1020,
     31,
+    776,
     392,
+    227,
     9,
     1004,
     93,
@@ -146,26 +155,31 @@
     1128
   ],
   "stats": {
-    "popularity": 480,
+    "popularity": 487,
     "favourites": 8,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 1.6667,
-    "fanRatioPercentile": 63.2533,
-    "popularityPercentile": 68.6555,
-    "fanFavouriteDiscoveryScore": 62.1751,
-    "fanFavouriteDiscoveryPercentile": 70.2505
+    "fanFavouriteRaw": 1.6427,
+    "fanRatioPercentile": 62.5272,
+    "popularityPercentile": 68.9318,
+    "fanFavouriteDiscoveryScore": 61.4852,
+    "fanFavouriteDiscoveryPercentile": 69.5482
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
-      "romance-core"
+      "modern-korea",
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -186,7 +200,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "declare",
       "vengeance",
@@ -217,14 +231,23 @@
     ],
     "evidence": {
       "tags": [
+        "Golden/Yellow-Eyed Seme",
+        "Purple/Violet-Eyed Uke",
+        "Black-Haired Uke",
+        "Brown-Haired Seme",
+        "South Korea",
+        "College",
         "Dubious Consent",
         "Erotica",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Comedy",
         "Debts",
         "Drama",
+        "Korean Folklore",
         "Gangs",
+        "Revenge",
         "Romance",
         "Modern Era",
         "Longstrip",
@@ -272,6 +295,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.49
+    "confidence": 0.72
   }
 }
