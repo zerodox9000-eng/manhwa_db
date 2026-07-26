@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Standing on the Black Shadow",
-  "mangabaka_title": "Standing on the Black Shadow",
+  "mangabaka_title": "Geomeun Geurimjareul Bapgo Seoseo",
   "native_title": "검은 그림자를 밟고 서서",
-  "romanized_title": null,
+  "romanized_title": "Geomeun Geurimjareul Bapgo Seoseo",
   "titles": [
     {
       "language": "ko",
       "title": "검은 그림자를 밟고 서서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geomeun Geurimjareul Bapgo Seoseo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,36 +41,40 @@
     }
   ],
   "description": "\"You are my only lover and my complete woman. I adore you.\" \n\nYu, the Galmun-wang, was once the son of a Crown Prince, but after losing his parents to the current Emperor, he has lived only waiting for the day of his revenge. One day, he heads to a gisaeng house to stop the Emperor from destroying the few people he has left, and there he happens to save Tae-ju, who was about to be sold as a gisaeng. He kept her by his side because she had nowhere to go, but she was a pure and untainted woman. Far too good for a man like him, whose life is filled with the stench of blood. Trying to ignore his deepening feelings, he forced her away, only to regret it immediately. He shouldn't have let her go. However, he encountered her in the Imperial Palace—the place where he thought he would never see her again. Why she was in the Imperial Palace did not matter. The lips pressed against her smooth cheeks were hot and utterly ecstatic. \n\n\"I knew I couldn't stay by your side forever, my benefactor. That is not my place.\"     \n\"You cannot leave me now. That is not allowed.\" \n\nHow could he let go of this small, lovely butterfly that had flown to him for the first time? \n\n\"You are mine.\"\n\n**Original Webtoon:**   \nR19: [Ridibooks](https://ridibooks.com/books/297090732)  \nR15: [Ridibooks](https://ridibooks.com/books/297090733)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNTAyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQzOC1RVkswMHJVeFlQUlMucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-13T04:23:37.483Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-24T17:44:35.829Z",
+  "last_updated_at": "2026-07-25T10:18:11.516Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "SHIN Yun-hee",
-    "Yumin"
+    "Yumin",
+    "Yun-Hui Sin"
   ],
   "artists": [
-    "Recl"
+    "Rekeul"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596368",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214438,
+      "rating": null,
+      "url": "https://anilist.co/manga/214438"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "dahnhw9",
@@ -69,20 +84,26 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
     31,
     9,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5655,
+    "popularityPercentile": 0.1653,
+    "fanFavouriteDiscoveryScore": 5.0731,
+    "fanFavouriteDiscoveryPercentile": 0.1653
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -126,6 +147,10 @@
       "standing",
       "black",
       "shadow",
+      "geomeun",
+      "geurimjareul",
+      "bapgo",
+      "seoseo",
       "lover",
       "complete",
       "woman",
@@ -153,18 +178,27 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Smut",
         "Drama",
         "Romance",
-        "Historical"
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "standing",
         "black",
         "shadow",
-        "standing",
-        "black",
-        "shadow"
+        "geomeun",
+        "geurimjareul",
+        "bapgo",
+        "seoseo",
+        "geomeun",
+        "geurimjareul",
+        "bapgo",
+        "seoseo"
       ],
       "descriptionTerms": [
         "lover",
@@ -193,9 +227,10 @@
         "left"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.86
+    "confidence": 0.9
   }
 }

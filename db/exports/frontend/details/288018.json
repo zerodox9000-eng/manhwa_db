@@ -2,15 +2,35 @@
   "id": 288018,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Sex Counseling Center",
-  "mangabaka_title": "Sex Counseling Center",
+  "display_title": "Confessions at the Love Clinic",
+  "mangabaka_title": "Confessions at the Love Clinic",
   "native_title": "성상담소",
-  "romanized_title": null,
+  "romanized_title": "Seongsangdamso",
   "titles": [
     {
       "language": "ko",
       "title": "성상담소",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Confessions at the Love Clinic",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Seongsangdamso",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,26 +38,26 @@
       "language": "en",
       "title": "Sex Counseling Center",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \nBookpal, [Toomics](https://www.toomics.com/webtoon/episode/toon/8808)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDcwNDgwLmpwZw",
-  "total_chapters": null,
+  "description": "Unable to express his feelings to her, Haeng Oh, a typical anime nerd, has been watching Sungkyung in secret. One day, she notices someone has been taking her under garments... What will happen between the two of them?\n\n(Source: Toomics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNDQ0NC1NM2p6VHlMN3p2a1QuanBn",
+  "total_chapters": "26",
   "status": "completed",
-  "content_rating": "erotica",
-  "is_licensed": false,
+  "content_rating": "pornographic",
+  "is_licensed": true,
   "year": 2015,
   "published": {
-    "start_date": "2015-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2015-04-19",
+    "end_date": "2015-01-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": true
   },
   "first_seen_at": "2026-06-10T15:38:01.912Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-25T11:12:57.686Z",
+  "last_updated_at": "2026-07-25T23:13:23.230Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -51,7 +71,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214444,
+      "rating": null,
+      "url": "https://anilist.co/manga/214444"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "au5bcdv",
@@ -63,7 +87,12 @@
     8,
     36,
     46,
-    31
+    10,
+    109,
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -71,23 +100,31 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5655,
+    "popularityPercentile": 0.1653,
+    "fanFavouriteDiscoveryScore": 5.0731,
+    "fanFavouriteDiscoveryPercentile": 0.1653
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "medical-career",
     "profileGroups": [
-      "modern-korea"
+      "medical-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "medical-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "medical"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [],
       "tone": [],
       "worldType": [
@@ -97,14 +134,31 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "medical-career / medical",
     "searchKeywords": [
-      "sex",
-      "counseling",
-      "center",
-      "original",
-      "webtoon",
-      "bookpal",
+      "confessions",
+      "love",
+      "clinic",
+      "seongsangdamso",
+      "unable",
+      "express",
+      "feelings",
+      "haeng",
+      "typical",
+      "anime",
+      "nerd",
+      "watching",
+      "sungkyung",
+      "secret",
+      "notices",
+      "someone",
+      "taking",
+      "under",
+      "garments",
+      "what",
+      "happen",
+      "between",
+      "two",
       "toomics"
     ],
     "evidence": {
@@ -112,26 +166,49 @@
         "Seinen",
         "Fantasy",
         "Adult",
-        "Drama"
+        "Hentai",
+        "Nudity",
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "sex",
-        "counseling",
-        "center",
-        "sex",
-        "counseling",
-        "center"
+        "confessions",
+        "love",
+        "clinic",
+        "confessions",
+        "love",
+        "clinic",
+        "seongsangdamso"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "bookpal",
+        "unable",
+        "express",
+        "feelings",
+        "haeng",
+        "typical",
+        "anime",
+        "nerd",
+        "watching",
+        "sungkyung",
+        "secret",
+        "notices",
+        "someone",
+        "taking",
+        "under",
+        "garments",
+        "what",
+        "happen",
+        "between",
+        "two",
         "toomics"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.53
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Back-Alley Illegal Clinic",
-  "mangabaka_title": "A Back-Alley Illegal Clinic",
+  "mangabaka_title": "Gumeonggage Bulbeom Uiryowon",
   "native_title": "구멍가게 불법 의료원",
-  "romanized_title": null,
+  "romanized_title": "Gumeonggage Bulbeom Uiryowon",
   "titles": [
     {
       "language": "ko",
       "title": "구멍가게 불법 의료원",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,8 +38,24 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Gumeonggage Bulbeom Uiryowon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Illegal Clinic in a Corner Store",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Shady Illegal Clinic",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -72,25 +90,26 @@
     }
   ],
   "description": "A debt of 160 million won, and a tiny corner store in a shantytown to call home.\n\nSince childhood, Jeong Haeju has followed her father around, providing illegal house-call medical services to gangsters.\n\nThat was the life résumé of Haeju, who had just come of age that year. Her life was a complete mess, but to her, there was nothing particularly unusual about it.\n\nThen she meets Beom Geono, the CEO of a luxury hotel with the attitude of a gangster, and her life becomes even more unpredictable…\n\n“Hey, baby. Your man’s here.”\n\n…How the hell am I supposed to get rid of this lunatic?\n\n[Original Webtoon](https://ridibooks.com/books/1561017591)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMjAyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQzNi1sdFhkeTNUYXhsMkUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-20",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-24T04:37:37.917Z",
+  "last_updated_at": "2026-07-25T04:43:52.987Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Han Irim"
+    "I-Rim Han",
+    "Neutron"
   ],
   "artists": [
     "Neutron"
@@ -100,30 +119,40 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214436,
+      "rating": null,
+      "url": "https://anilist.co/manga/214436"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "db6khy3",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/db6khy3"
     }
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5655,
+    "popularityPercentile": 0.4733,
+    "fanFavouriteDiscoveryScore": 5.1834,
+    "fanFavouriteDiscoveryPercentile": 0.4657
   },
   "context": {
     "primaryProfile": "corporate-workplace",
@@ -160,6 +189,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [],
@@ -172,6 +202,9 @@
       "back-alley",
       "illegal",
       "clinic",
+      "gumeonggage",
+      "bulbeom",
+      "uiryowon",
       "debt",
       "160",
       "million",
@@ -199,18 +232,25 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Adult",
         "Smut",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "back-alley",
         "illegal",
         "clinic",
-        "back-alley",
-        "illegal",
-        "clinic"
+        "gumeonggage",
+        "bulbeom",
+        "uiryowon",
+        "gumeonggage",
+        "bulbeom",
+        "uiryowon"
       ],
       "descriptionTerms": [
         "debt",
@@ -239,6 +279,7 @@
         "sum"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },

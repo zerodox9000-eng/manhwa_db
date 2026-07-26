@@ -2,7 +2,7 @@
   "id": 583011,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Saint Levels up Through Necromancy",
+  "display_title": "The Necromancer Saint",
   "mangabaka_title": "The Necromancer Saint",
   "native_title": "ネクロマンサーでレベルアップする聖者様",
   "romanized_title": "Necromancer de Level Up Suru Seija-sama",
@@ -63,15 +63,17 @@
     {
       "language": "en",
       "title": "The Necromancer Saint",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "The Saint Levels up Through Necromancy",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -112,9 +114,9 @@
       "note": null
     }
   ],
-  "description": "Cheon Yujin, who became the world's strongest necromancer—controlling legions of corpses and called a \"one-man army.\"\nBut because he was too strong, he was abandoned by both the gods and humanity. Facing death, he chose regression.\nIn his new life, borrowing the power of Chronos—a god who was himself abandoned by the gods—he vows to survive this time, no matter what.\nYet the moment Chronos's power was engraved into his body, the necromancer—who wielded the energy of death and was a natural enemy of the gods—turned into a saint wielding the gods' sacred power.\nWith two conflicting powers dwelling in a single body, Cheon Yujin, now even stronger, begins his vengeance against the gods and humanity who abandoned him in his past life!\n\n*Source: Naver Series, translated*",
+  "description": "Yujin Cheon, the first-ever hunter to achieve 9-star rank without the help of a constellation’s blessing, holds incredible power with his undead army. But this very power makes him a target of the 7 Great Houses, and he’s forced to use an artifact to go back in time or else die. He wakes up 23 years in the past, ready to become a constellation’s saint, regain his power, and exact his revenge.\n\n*Source: Webtoon*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzkvOC8xLzEvMS83LzIvNjBmZS80MzVjL2I1ZmYvM2ViN2U0YmM4ZWI1",
-  "total_chapters": "28",
+  "total_chapters": "31",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
@@ -127,7 +129,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-24T06:37:34.553Z",
+  "last_updated_at": "2026-07-25T08:46:32.769Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -138,11 +140,15 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/583011",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10494"
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-necromancer-saint",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-necromancer-saint"
+    },
     "mangaupdates": {
       "id": "mok2lbe",
       "rating": 63,
@@ -170,74 +176,76 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "game-system",
     "profileGroups": [
+      "game-system",
       "modern-korea",
       "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "game-system"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [
         "system-player"
       ],
       "careerDomain": [],
       "premiseMechanic": [
-        "regression"
+        "regression",
+        "hunter-system"
       ],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [
         "power-growth"
       ],
       "tone": [
+        "tense",
         "warm"
       ],
       "worldType": [
-        "fantasy-world"
+        "fantasy-world",
+        "system-world"
       ],
       "romanceRole": "major",
       "regressionRole": "major",
-      "systemRole": "none"
+      "systemRole": "minor"
     },
-    "semanticSummary": "modern-korea / modern-korea / regression",
+    "semanticSummary": "game-system / regression / hunter-system",
     "searchKeywords": [
-      "saint",
-      "levels",
-      "through",
-      "necromancy",
       "necromancer",
+      "saint",
       "level",
       "suru",
       "seija-sama",
-      "cheon",
       "yujin",
-      "became",
-      "strongest",
-      "controlling",
-      "legions",
-      "corpses",
-      "called",
-      "one-man",
+      "cheon",
+      "first-ever",
+      "hunter",
+      "achieve",
+      "9-star",
+      "rank",
+      "without",
+      "help",
+      "constellation",
+      "blessing",
+      "holds",
+      "incredible",
+      "power",
+      "undead",
       "army",
-      "because",
-      "too",
-      "strong",
-      "abandoned",
-      "both",
-      "gods",
-      "humanity",
-      "facing",
-      "death",
-      "chose",
-      "regression",
-      "borrowing",
-      "power"
+      "very",
+      "makes",
+      "target",
+      "great",
+      "houses",
+      "forced",
+      "use"
     ],
     "evidence": {
       "tags": [
@@ -251,10 +259,8 @@
         "Web Comic"
       ],
       "titleTerms": [
+        "necromancer",
         "saint",
-        "levels",
-        "through",
-        "necromancy",
         "necromancer",
         "saint",
         "necromancer",
@@ -263,35 +269,37 @@
         "seija-sama"
       ],
       "descriptionTerms": [
-        "cheon",
         "yujin",
-        "became",
-        "strongest",
-        "necromancer",
-        "controlling",
-        "legions",
-        "corpses",
-        "called",
-        "one-man",
+        "cheon",
+        "first-ever",
+        "hunter",
+        "achieve",
+        "9-star",
+        "rank",
+        "without",
+        "help",
+        "constellation",
+        "blessing",
+        "holds",
+        "incredible",
+        "power",
+        "undead",
         "army",
-        "because",
-        "too",
-        "strong",
-        "abandoned",
-        "both",
-        "gods",
-        "humanity",
-        "facing",
-        "death",
-        "chose",
-        "regression",
-        "borrowing",
-        "power"
+        "very",
+        "power",
+        "makes",
+        "target",
+        "great",
+        "houses",
+        "forced",
+        "use"
       ],
       "sourceFields": [
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.73
   }
 }
