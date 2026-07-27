@@ -4,20 +4,33 @@
   "type": "manhwa",
   "display_title": "Disorder and Desire",
   "mangabaka_title": "Disorder and Desire",
-  "native_title": "混乱淫乱無知蒙昧",
-  "romanized_title": null,
+  "native_title": "혼란문란무지몰각",
+  "romanized_title": "Hollanmullanmujimolgak",
   "titles": [
     {
       "language": "ko",
       "title": "혼란문란무지몰각",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Disorder and Desire",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hollanmullanmujimolgak",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,7 +49,7 @@
       "note": null
     },
     {
-      "language": "zh-hk",
+      "language": "zh",
       "title": "混乱淫乱無知蒙昧",
       "traits": [],
       "is_primary": true,
@@ -46,7 +59,7 @@
       "language": "zh-hk",
       "title": "混亂放蕩無知無恥",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -65,7 +78,7 @@
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-25T18:19:23.944Z",
+  "last_updated_at": "2026-07-27T01:16:45.915Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,11 +92,15 @@
     "read_en": "https://www.lezhinus.com/en/comic/disorder_desire"
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214466,
+      "rating": null,
+      "url": "https://anilist.co/manga/214466"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1y491xv",
-      "rating": 66,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/1y491xv"
     }
   },
@@ -93,11 +110,14 @@
     36,
     22,
     342,
+    180,
     16,
     6,
     32,
     9,
+    93,
     57,
+    428,
     1128
   ],
   "stats": {
@@ -106,9 +126,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5359,
+    "popularityPercentile": 0.0976,
+    "fanFavouriteDiscoveryScore": 5.0445,
+    "fanFavouriteDiscoveryPercentile": 0.0976
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -149,6 +171,7 @@
     "searchKeywords": [
       "disorder",
       "desire",
+      "hollanmullanmujimolgak",
       "filled",
       "strange",
       "inexplicable",
@@ -180,18 +203,22 @@
         "Fantasy",
         "Supernatural",
         "Anthropomorphic",
+        "Boys Love",
         "Yaoi",
         "Comedy",
         "Mystery",
         "Romance",
+        "Longstrip",
         "Full Color",
+        "Web Comic",
         "Uncensored Version Available"
       ],
       "titleTerms": [
         "disorder",
         "desire",
         "disorder",
-        "desire"
+        "desire",
+        "hollanmullanmujimolgak"
       ],
       "descriptionTerms": [
         "filled",
@@ -220,10 +247,11 @@
         "body"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "read-en"
       ]
     },
-    "confidence": 0.62
+    "confidence": 0.65
   }
 }

@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-25T18:57:24.849Z",
+  "last_updated_at": "2026-07-26T19:00:27.486Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,7 +80,7 @@
   "source": {
     "anilist": {
       "id": 211199,
-      "rating": 73,
+      "rating": 72,
       "url": "https://anilist.co/manga/211199"
     },
     "animeplanet": {
@@ -90,7 +90,7 @@
     },
     "mangaupdates": {
       "id": "eae3nma",
-      "rating": 68,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/eae3nma"
     }
   },
@@ -100,6 +100,7 @@
     1577,
     1589,
     2758,
+    595,
     257,
     647,
     174,
@@ -107,30 +108,35 @@
     14,
     369,
     180,
+    1947,
     16,
     31,
+    776,
     699,
     9,
+    1037,
+    1004,
     93,
     1167,
     57,
     428
   ],
   "stats": {
-    "popularity": 270,
+    "popularity": 271,
     "favourites": 4,
-    "meanScore": 73
+    "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4815,
-    "fanRatioPercentile": 58.0754,
-    "popularityPercentile": 57.9327,
-    "fanFavouriteDiscoveryScore": 55.7142,
-    "fanFavouriteDiscoveryPercentile": 63.8447
+    "fanFavouriteRaw": 1.476,
+    "fanRatioPercentile": 57.9271,
+    "popularityPercentile": 57.9797,
+    "fanFavouriteDiscoveryScore": 55.5808,
+    "fanFavouriteDiscoveryPercentile": 63.6951
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core",
       "school-life"
     ],
@@ -138,6 +144,7 @@
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
+        "modern-korea",
         "school"
       ],
       "protagonistRole": [],
@@ -150,12 +157,14 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
       "don",
       "poke",
@@ -193,6 +202,7 @@
         "Short-Tempered Uke",
         "Rich Uke",
         "Sexually Insatiable Uke",
+        "South Korea",
         "College",
         "Misunderstandings",
         "Incest",
@@ -200,10 +210,14 @@
         "Erotica",
         "Virginity",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
+        "Korean Folklore",
         "Forbidden Love",
         "Romance",
+        "Sexual Abuse",
+        "Modern Era",
         "Longstrip",
         "Short Story",
         "Full Color",
@@ -253,6 +267,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.62
+    "confidence": 0.73
   }
 }

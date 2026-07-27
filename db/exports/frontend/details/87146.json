@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.412Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-25T17:24:15.452Z",
+  "last_updated_at": "2026-07-26T16:48:45.394Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -78,7 +78,7 @@
   "source": {
     "anilist": {
       "id": 133061,
-      "rating": 57,
+      "rating": 59,
       "url": "https://anilist.co/manga/133061"
     },
     "animeplanet": {
@@ -93,8 +93,10 @@
     }
   },
   "tag_ids": [
+    366,
     8,
     58,
+    231,
     108,
     46,
     10,
@@ -106,22 +108,23 @@
     99,
     173,
     31,
+    403,
     9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 231,
+    "popularity": 232,
     "favourites": 2,
-    "meanScore": 57
+    "meanScore": 59
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8658,
-    "fanRatioPercentile": 40.8053,
-    "popularityPercentile": 55.0255,
-    "fanFavouriteDiscoveryScore": 38.7147,
-    "fanFavouriteDiscoveryPercentile": 43.2767
+    "fanFavouriteRaw": 0.8621,
+    "fanRatioPercentile": 40.736,
+    "popularityPercentile": 55.0882,
+    "fanFavouriteDiscoveryScore": 38.6593,
+    "fanFavouriteDiscoveryPercentile": 43.237
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -136,10 +139,12 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [],
       "tone": [
+        "tense",
         "warm"
       ],
       "worldType": [],
@@ -179,8 +184,10 @@
     ],
     "evidence": {
       "tags": [
+        "Prostitution",
         "Seinen",
         "Male Lead",
+        "Infidelity",
         "Heterosexual",
         "Adult",
         "Hentai",
@@ -192,6 +199,7 @@
         "Oral Intercourse",
         "Threesome",
         "Drama",
+        "Betrayal",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -237,6 +245,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.55
   }
 }

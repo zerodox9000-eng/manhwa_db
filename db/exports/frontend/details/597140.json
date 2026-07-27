@@ -20,11 +20,18 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Human Table",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852761), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14461172)",
+  "description": "The 'Leviathan,' a floating offshore nuclear power plant, drifts alone in the vast ocean. Yun-ho and his colleagues, visiting the site for a safety inspection, become isolated after a mysterious explosion cuts off all communication with the outside world. However, the explosion was only the beginning. An unidentified giant emerges from the reactor smoke and begins attacking and devouring the survivors. The isolated survivors wage a desperate struggle to stay alive against the sinking offshore plant and the man-eating giant's pursuit. Whose table is the Leviathan,...\n\n**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852761), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14461172)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2h1bWFuLXRhYmxlLTEud2VicD90PTE3ODQ2ODQ0NTU",
-  "total_chapters": "7",
+  "total_chapters": "8",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -37,7 +44,7 @@
   },
   "first_seen_at": "2026-07-22T04:11:09.134Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-25T18:00:46.983Z",
+  "last_updated_at": "2026-07-26T18:19:08.901Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -65,8 +72,11 @@
   },
   "tag_ids": [
     8,
+    39,
     31,
     44,
+    32,
+    18,
     93,
     57,
     428
@@ -82,13 +92,15 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "horror-survival",
+    "primaryProfile": "showbiz-career",
     "profileGroups": [
       "horror-survival",
-      "modern-korea"
+      "modern-korea",
+      "showbiz-career"
     ],
     "primaryAnchors": [
-      "horror-survival"
+      "horror-survival",
+      "showbiz-career"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -96,7 +108,9 @@
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "showbiz"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "survival"
@@ -110,20 +124,43 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival / modern-korea",
+    "semanticSummary": "showbiz-career / modern-korea",
     "searchKeywords": [
       "human",
       "table",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "leviathan",
+      "floating",
+      "offshore",
+      "nuclear",
+      "power",
+      "plant",
+      "drifts",
+      "alone",
+      "vast",
+      "ocean",
+      "yun-ho",
+      "colleagues",
+      "visiting",
+      "site",
+      "safety",
+      "inspection",
+      "become",
+      "isolated",
+      "mysterious",
+      "explosion",
+      "cuts",
+      "off",
+      "communication",
+      "outside"
     ],
     "evidence": {
       "tags": [
         "Seinen",
+        "Action",
         "Drama",
         "Horror",
+        "Mystery",
+        "Psychological",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -135,18 +172,36 @@
         "table"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "leviathan",
+        "floating",
+        "offshore",
+        "nuclear",
+        "power",
+        "plant",
+        "drifts",
+        "alone",
+        "vast",
+        "ocean",
+        "yun-ho",
+        "colleagues",
+        "visiting",
+        "site",
+        "safety",
+        "inspection",
+        "become",
+        "isolated",
+        "mysterious",
+        "explosion",
+        "cuts",
+        "off",
+        "communication",
+        "outside"
       ],
       "sourceFields": [
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.76
   }
 }

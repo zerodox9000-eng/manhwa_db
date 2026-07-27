@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Steel Emperor",
-  "mangabaka_title": "Gangcheorui Yeolje",
+  "mangabaka_title": "The Steel Emperor",
   "native_title": "강철의 열제",
-  "romanized_title": "Gangcheorui Yeolje",
+  "romanized_title": "Cương Thiết Liệt Đế",
   "titles": [
     {
       "language": "ko",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh-Latn",
+      "title": "Cương Thiết Liệt Đế",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -66,6 +73,13 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ja",
+      "title": "鋼の烈帝～異世界無双～",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "Heroes of Gauri, conquer this world!\n\nThe most glorious name in this land, Gauri. He who protected that name. People call him the Steel Emperor! Go Jin-Cheon, the last general of the fallen Gauri (Goguryeo). At the moment of defeat, he and his elite unit, the \"Mukapguima Squad,\" are cast into another world. It is an unfamiliar land inhabited by various races, including elves, orcs, dwarves, and wizards. If he cannot return, he has no choice but to establish a new Gauri. Go Jin-Cheon raises his flag once again to conquer the continent.\n\n(Source: KakaoPage, translated)",
@@ -83,7 +97,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-25T16:06:47.585Z",
+  "last_updated_at": "2026-07-26T16:27:11.528Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -124,6 +138,7 @@
     36,
     94,
     635,
+    46,
     41,
     395,
     39,
@@ -137,16 +152,16 @@
     121
   ],
   "stats": {
-    "popularity": 582,
+    "popularity": 583,
     "favourites": 14,
     "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 2.4055,
-    "fanRatioPercentile": 79.0565,
-    "popularityPercentile": 72.1379,
-    "fanFavouriteDiscoveryScore": 78.044,
-    "fanFavouriteDiscoveryPercentile": 85.314
+    "fanFavouriteRaw": 2.4014,
+    "fanRatioPercentile": 79.0312,
+    "popularityPercentile": 72.1442,
+    "fanFavouriteDiscoveryScore": 78.0195,
+    "fanFavouriteDiscoveryPercentile": 85.3098
   },
   "context": {
     "primaryProfile": "euro-fantasy",
@@ -185,8 +200,7 @@
     "searchKeywords": [
       "steel",
       "emperor",
-      "gangcheorui",
-      "yeolje",
+      "thi",
       "heroes",
       "gauri",
       "conquer",
@@ -218,6 +232,7 @@
         "Fantasy",
         "Isekai",
         "Transported to Another World",
+        "Adult",
         "Smut",
         "Monsters",
         "Action",
@@ -233,10 +248,9 @@
       "titleTerms": [
         "steel",
         "emperor",
-        "gangcheorui",
-        "yeolje",
-        "gangcheorui",
-        "yeolje"
+        "steel",
+        "emperor",
+        "thi"
       ],
       "descriptionTerms": [
         "heroes",
@@ -270,6 +284,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.78
+    "confidence": 0.79
   }
 }

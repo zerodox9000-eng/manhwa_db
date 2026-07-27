@@ -2,7 +2,7 @@
   "id": 598326,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Wanted To Play With Saekgui",
+  "display_title": "The Old Maid Wants to Sleep With a Lustful Ghost",
   "mangabaka_title": "Wonnyeoneun Saekgwiwa Hago Sipeoseo",
   "native_title": "원녀는 색귀와 하고 싶어서",
   "romanized_title": "[Gyeryak Danpyeonseon] Wonnyeoneun Saekgwiwa Hago Sipeoseo",
@@ -34,7 +34,35 @@
       "language": "en",
       "title": "I Wanted To Play With Saekgui",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "[Scheming Anthology] The Old Maid Wants to Sleep With a Lustful Ghost",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Lonely Maiden Wants the Lust Demon",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Old Maid Wants to Sleep With a Lustful Ghost",
+      "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Spinster Wants to Sleep with a Lustful Spirit",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -62,7 +90,7 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-26T03:52:28.416Z",
+  "last_updated_at": "2026-07-27T03:53:09.287Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -84,10 +112,18 @@
       "url": "https://anilist.co/manga/214432"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "5afu0ra",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/5afu0ra"
+    }
   },
   "tag_ids": [
+    43,
     108,
+    22,
+    46,
+    41,
     9,
     45,
     93,
@@ -95,23 +131,26 @@
     428
   ],
   "stats": {
-    "popularity": 1,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5655,
-    "popularityPercentile": 0.1653,
-    "fanFavouriteDiscoveryScore": 5.0731,
-    "fanFavouriteDiscoveryPercentile": 0.1653
+    "fanRatioPercentile": 31.5359,
+    "popularityPercentile": 0.8261,
+    "fanFavouriteDiscoveryScore": 5.3071,
+    "fanFavouriteDiscoveryPercentile": 0.7886
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
+      "horror-survival",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "horror-survival"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
@@ -130,11 +169,14 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "horror-survival",
     "searchKeywords": [
-      "wanted",
-      "play",
-      "saekgui",
+      "old",
+      "maid",
+      "wants",
+      "sleep",
+      "lustful",
+      "ghost",
       "wonnyeoneun",
       "saekgwiwa",
       "hago",
@@ -148,7 +190,11 @@
     ],
     "evidence": {
       "tags": [
+        "Josei",
         "Heterosexual",
+        "Supernatural",
+        "Adult",
+        "Smut",
         "Romance",
         "Historical",
         "Longstrip",
@@ -156,18 +202,18 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "wanted",
-        "play",
-        "saekgui",
+        "old",
+        "maid",
+        "wants",
+        "sleep",
+        "lustful",
+        "ghost",
         "wonnyeoneun",
         "saekgwiwa",
         "hago",
         "sipeoseo",
         "gyeryak",
-        "danpyeonseon",
-        "wonnyeoneun",
-        "saekgwiwa",
-        "hago"
+        "danpyeonseon"
       ],
       "descriptionTerms": [
         "note",
@@ -178,9 +224,10 @@
         "collection"
       ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.61
   }
 }

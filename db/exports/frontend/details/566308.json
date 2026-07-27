@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-25T16:23:31.148Z",
+  "last_updated_at": "2026-07-26T16:24:17.140Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -131,6 +131,7 @@
   },
   "tag_ids": [
     43,
+    257,
     108,
     31,
     9,
@@ -139,27 +140,30 @@
     428
   ],
   "stats": {
-    "popularity": 405,
+    "popularity": 421,
     "favourites": 6,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4815,
-    "fanRatioPercentile": 58.0754,
-    "popularityPercentile": 65.4372,
-    "fanFavouriteDiscoveryScore": 56.7877,
-    "fanFavouriteDiscoveryPercentile": 64.8663
+    "fanFavouriteRaw": 1.4252,
+    "fanRatioPercentile": 56.3575,
+    "popularityPercentile": 66.1585,
+    "fanFavouriteDiscoveryScore": 55.1792,
+    "fanFavouriteDiscoveryPercentile": 63.1994
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
       "modern-korea",
-      "romance-core"
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -175,7 +179,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "modern-korea / school",
     "searchKeywords": [
       "meddler",
       "love",
@@ -209,6 +213,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "College",
         "Heterosexual",
         "Drama",
         "Romance",
@@ -258,6 +263,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.49
+    "confidence": 0.57
   }
 }

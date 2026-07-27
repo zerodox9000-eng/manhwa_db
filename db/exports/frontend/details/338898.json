@@ -80,7 +80,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-25T14:23:30.871Z",
+  "last_updated_at": "2026-07-26T16:16:31.137Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -107,14 +107,23 @@
     },
     "mangaupdates": {
       "id": "kim4rw1",
-      "rating": 61,
+      "rating": 62,
       "url": "https://www.mangaupdates.com/series/kim4rw1"
     }
   },
   "tag_ids": [
+    1979,
+    1810,
+    2509,
+    75,
     74,
     125,
     268,
+    1962,
+    888,
+    679,
+    880,
+    1686,
     2718,
     434,
     36,
@@ -125,6 +134,7 @@
     41,
     95,
     180,
+    1947,
     16,
     31,
     9,
@@ -140,20 +150,23 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.25,
-    "fanRatioPercentile": 51.232,
-    "popularityPercentile": 47.9192,
-    "fanFavouriteDiscoveryScore": 46.6752,
-    "fanFavouriteDiscoveryPercentile": 55.6641
+    "fanRatioPercentile": 51.2955,
+    "popularityPercentile": 47.9159,
+    "fanFavouriteDiscoveryScore": 46.732,
+    "fanFavouriteDiscoveryPercentile": 55.6966
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
+      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -173,7 +186,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "sierra",
       "juliet",
@@ -203,9 +216,18 @@
     ],
     "evidence": {
       "tags": [
+        "Wanko Seme",
+        "Crybaby Seme",
+        "Emotionally Weak Male Lead",
+        "Based on a Novel",
         "Based on a Web Novel",
         "Love Triangle",
         "Love Polygon",
+        "Seme Falling In Love First",
+        "Unrequited Love Stays Unrequited",
+        "Memory Manipulation",
+        "Older Uke Younger Seme",
+        "Brother-Brother Relationship",
         "Multiple Sexual Partners",
         "Guideverse",
         "Fantasy",
@@ -216,6 +238,7 @@
         "Smut",
         "Rape",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Drama",
         "Romance",
@@ -265,6 +288,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.66
   }
 }

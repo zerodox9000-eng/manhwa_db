@@ -141,7 +141,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.149Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-26T02:54:52.171Z",
+  "last_updated_at": "2026-07-26T09:59:56.524Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -167,17 +167,19 @@
     },
     "mangaupdates": {
       "id": "3cjbc2x",
-      "rating": 58,
+      "rating": 57,
       "url": "https://www.mangaupdates.com/series/3cjbc2x"
     }
   },
   "tag_ids": [
     8,
     58,
+    231,
     46,
     10,
     109,
     31,
+    403,
     93,
     57,
     428
@@ -189,10 +191,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.4615,
-    "fanRatioPercentile": 90.963,
-    "popularityPercentile": 57.1965,
-    "fanFavouriteDiscoveryScore": 87.0408,
-    "fanFavouriteDiscoveryPercentile": 92.5931
+    "fanRatioPercentile": 90.9651,
+    "popularityPercentile": 57.1686,
+    "fanFavouriteDiscoveryScore": 87.034,
+    "fanFavouriteDiscoveryPercentile": 92.6023
   },
   "context": {
     "primaryProfile": null,
@@ -204,9 +206,13 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "revenge"
+      ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "tense"
+      ],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
@@ -239,10 +245,12 @@
       "tags": [
         "Seinen",
         "Male Lead",
+        "Infidelity",
         "Adult",
         "Hentai",
         "Nudity",
         "Drama",
+        "Betrayal",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -282,6 +290,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.39
   }
 }

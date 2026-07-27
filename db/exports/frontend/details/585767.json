@@ -2,8 +2,8 @@
   "id": 585767,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Margrave's Worthless Mage",
-  "mangabaka_title": "Byeongyeongbaegui 10 Class Mangnani",
+  "display_title": "The Margrave’s 10th-Class Outcast",
+  "mangabaka_title": "The Margrave’s 10th-Class Outcast",
   "native_title": "변경백의 10클래스 망나니",
   "romanized_title": "Byeongyeongbaegui 10 Class Mangnani",
   "titles": [
@@ -48,9 +48,11 @@
     },
     {
       "language": "en",
-      "title": "The Margrave's 10th-Class Outcast",
-      "traits": [],
-      "is_primary": false,
+      "title": "The Margrave’s 10th-Class Outcast",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -71,7 +73,7 @@
       "language": "en",
       "title": "The Margrave's Worthless Mage",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -89,12 +91,12 @@
       "note": null
     }
   ],
-  "description": "An old, shabby mage in his seventies returns to sixty years in the past to a much-awaited, deeply missed day from long ago…\n\n(Source: Naver, translated)",
+  "description": "Isaac von Goethe’s uncontrollable mana explosions have harmed everyone around him, forcing him into 60 years of isolation. However, Isaac is given a second chance when he is suddenly sent back in time to when he was 12 years old. With the knowledge of his older self and his rapidly growing powers, Isaac sets out to protect his family estate and its people from monstrous creatures, corrupt forces, and the greatest threat of all: himself.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2QvMC8yL2YvZC82LzUvODhkMS80YTQzL2IxZjkvOTQyNWNiNTQ2OTc0",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-04-19",
@@ -104,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-26T02:44:26.505Z",
+  "last_updated_at": "2026-07-27T02:45:38.103Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -116,12 +118,12 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/585767",
-    "read_en": null
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10480"
   },
   "source": {
     "anilist": {
       "id": 211153,
-      "rating": 67,
+      "rating": 66,
       "url": "https://anilist.co/manga/211153"
     },
     "animeplanet": {
@@ -131,7 +133,7 @@
     },
     "mangaupdates": {
       "id": "wbpgtvl",
-      "rating": 67,
+      "rating": 66,
       "url": "https://www.mangaupdates.com/series/wbpgtvl"
     }
   },
@@ -153,31 +155,34 @@
     121
   ],
   "stats": {
-    "popularity": 990,
+    "popularity": 993,
     "favourites": 8,
-    "meanScore": 67
+    "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8081,
-    "fanRatioPercentile": 39.2803,
-    "popularityPercentile": 80.7242,
-    "fanFavouriteDiscoveryScore": 39.0327,
-    "fanFavouriteDiscoveryPercentile": 43.5998
+    "fanFavouriteRaw": 0.8056,
+    "fanRatioPercentile": 39.2039,
+    "popularityPercentile": 80.7435,
+    "fanFavouriteDiscoveryScore": 38.9572,
+    "fanFavouriteDiscoveryPercentile": 43.5599
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "kingdom-management",
     "profileGroups": [
+      "engineering-builder",
       "euro-fantasy",
+      "kingdom-management",
       "modern-korea",
       "regression-return"
     ],
     "primaryAnchors": [
-      "euro-fantasy"
+      "engineering-builder",
+      "euro-fantasy",
+      "kingdom-management"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
         "kingdom-fantasy"
       ],
       "protagonistRole": [],
@@ -186,7 +191,9 @@
         "regression"
       ],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "management-growth"
+      ],
       "tone": [],
       "worldType": [
         "fantasy-world"
@@ -195,28 +202,36 @@
       "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / regression",
+    "semanticSummary": "kingdom-management / kingdom-fantasy / regression",
     "searchKeywords": [
       "margrave",
-      "worthless",
-      "mage",
+      "10th-class",
+      "outcast",
       "byeongyeongbaegui",
       "class",
       "mangnani",
-      "old",
-      "shabby",
-      "seventies",
-      "returns",
-      "sixty",
+      "isaac",
+      "von",
+      "goethe",
+      "uncontrollable",
+      "mana",
+      "explosions",
+      "harmed",
+      "everyone",
+      "around",
+      "forcing",
       "years",
-      "past",
-      "much-awaited",
-      "deeply",
-      "missed",
-      "long",
-      "ago",
-      "naver",
-      "translated"
+      "isolation",
+      "however",
+      "given",
+      "second",
+      "chance",
+      "suddenly",
+      "sent",
+      "time",
+      "old",
+      "knowledge",
+      "older"
     ],
     "evidence": {
       "tags": [
@@ -238,38 +253,48 @@
       ],
       "titleTerms": [
         "margrave",
-        "worthless",
-        "mage",
-        "byeongyeongbaegui",
-        "class",
-        "mangnani",
+        "10th-class",
+        "outcast",
+        "margrave",
+        "10th-class",
+        "outcast",
         "byeongyeongbaegui",
         "class",
         "mangnani"
       ],
       "descriptionTerms": [
-        "old",
-        "shabby",
-        "mage",
-        "seventies",
-        "returns",
-        "sixty",
+        "isaac",
+        "von",
+        "goethe",
+        "uncontrollable",
+        "mana",
+        "explosions",
+        "harmed",
+        "everyone",
+        "around",
+        "forcing",
         "years",
-        "past",
-        "much-awaited",
-        "deeply",
-        "missed",
-        "long",
-        "ago",
-        "naver",
-        "translated"
+        "isolation",
+        "however",
+        "isaac",
+        "given",
+        "second",
+        "chance",
+        "suddenly",
+        "sent",
+        "time",
+        "years",
+        "old",
+        "knowledge",
+        "older"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.73
+    "confidence": 1
   }
 }

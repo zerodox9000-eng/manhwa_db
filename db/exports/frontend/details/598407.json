@@ -5,7 +5,7 @@
   "display_title": "Seoburo Gan Geomeunmeori Yongbyeong",
   "mangabaka_title": "Seoburo Gan Geomeunmeori Yongbyeong",
   "native_title": "서부로 간 검은머리 용병",
-  "romanized_title": "Seoburo Gan Geomeunmeori Yongbyeong",
+  "romanized_title": "Korean Mercenary's Wild West",
   "titles": [
     {
       "language": "ko",
@@ -18,17 +18,38 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Korean Mercenary's Wild West",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Seoburo Gan Geomeunmeori Yongbyeong",
       "traits": [
         "native"
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "The Black-Haired Mercenary Who Went West",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "The Dark-Haired Mercenary Who Went West",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853062), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14437854)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNDQ1NC1YbEx2bEJVcEFBeTkuanBn",
-  "total_chapters": null,
+  "total_chapters": "1",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -41,7 +62,7 @@
   },
   "first_seen_at": "2026-07-26T04:21:17.555Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-26T03:45:25.490Z",
+  "last_updated_at": "2026-07-27T03:46:36.976Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,35 +83,45 @@
       "url": "https://anilist.co/manga/214454"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "jryhwln",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/jryhwln"
+    }
   },
   "tag_ids": [
+    8,
     58,
     36,
     39,
+    31,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5655,
-    "popularityPercentile": 0.1653,
-    "fanFavouriteDiscoveryScore": 5.0731,
-    "fanFavouriteDiscoveryPercentile": 0.1653
+    "fanRatioPercentile": 31.5359,
+    "popularityPercentile": 1.3068,
+    "fanFavouriteDiscoveryScore": 5.4862,
+    "fanFavouriteDiscoveryPercentile": 1.2392
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -104,18 +135,28 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "seoburo",
       "gan",
       "geomeunmeori",
-      "yongbyeong"
+      "yongbyeong",
+      "korean",
+      "mercenary",
+      "wild",
+      "west",
+      "original",
+      "webtoon",
+      "naver",
+      "series"
     ],
     "evidence": {
       "tags": [
+        "Seinen",
         "Male Lead",
         "Fantasy",
         "Action",
+        "Drama",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -129,16 +170,24 @@
         "gan",
         "geomeunmeori",
         "yongbyeong",
-        "seoburo",
-        "gan",
-        "geomeunmeori",
-        "yongbyeong"
+        "korean",
+        "mercenary",
+        "wild",
+        "west"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "original",
+        "webtoon",
+        "naver",
+        "webtoon",
+        "naver",
+        "series"
+      ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.34
+    "confidence": 0.43
   }
 }
