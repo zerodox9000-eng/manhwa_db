@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Serpent of Paradise",
-  "mangabaka_title": "The Serpent of Paradise",
+  "mangabaka_title": "Nagwonui Baem",
   "native_title": "낙원의 뱀",
-  "romanized_title": null,
+  "romanized_title": "Nagwonui Baem",
   "titles": [
     {
       "language": "ko",
       "title": "낙원의 뱀",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nagwonui Baem",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,36 +54,41 @@
       "note": null
     }
   ],
-  "description": "The beautiful paradise, Edenhurst. Anastasia is the only existence forbidden in that place.\n\nHaving accepted her unalterable future, she was merely waiting for the end of her life when a man appears before her.\n\nHe destroys the god she has always believed in and shakes paradise to its core...\n\nA woman tamed like a mere possession, and a man who seeks to take everything away.\n\nWhere will this relationship, born from ruin, ultimately end?\n\n**Original Webtoon:**  \n[Ridibooks](https://ridibooks.com/books/5289000099)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1zZXJwZW50LW9mLXBhcmFkaXNlLTEud2VicD90PTE3ODQwMzc0NjE",
+  "description": "Edenhurst, a beautiful paradise. Anastasia, the only one not permitted there. Just as she was waiting for the end of her life, having accepted a future that would never change, a man appears before her. He shatters the god she has always believed in and shakes the paradise to its core...\n\nA woman tamed like a possession and a man determined to take everything from her. Where will this relationship, which began with ruin, ultimately lead?\n\n(Source: Ridibooks, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQ0MS03emxWT0xBOHFxTVUucG5n",
   "total_chapters": "16",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-13",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-08T04:08:35.871Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-26T05:43:20.862Z",
+  "last_updated_at": "2026-07-27T09:06:07.248Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "White Snow"
+    "Keran",
+    "Seol-Hong Baek"
   ],
   "artists": [
-    "ab Entertainment"
+    "Su-Hyeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596012",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214441,
+      "rating": null,
+      "url": "https://anilist.co/manga/214441"
+    },
     "animeplanet": {
       "id": "the-serpent-of-paradise",
       "rating": null,
@@ -87,6 +103,7 @@
   "tag_ids": [
     43,
     74,
+    108,
     36,
     31,
     9,
@@ -95,19 +112,20 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 22,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 14.9054,
+    "fanFavouriteDiscoveryScore": 12.4766,
+    "fanFavouriteDiscoveryPercentile": 13.4194
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -131,37 +149,40 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "serpent",
       "paradise",
-      "beautiful",
+      "nagwonui",
+      "baem",
       "edenhurst",
+      "beautiful",
       "anastasia",
-      "existence",
-      "forbidden",
-      "place",
-      "having",
-      "accepted",
-      "unalterable",
-      "future",
-      "merely",
+      "permitted",
       "waiting",
       "end",
+      "having",
+      "accepted",
+      "future",
+      "never",
+      "change",
       "man",
       "appears",
       "before",
-      "destroys",
+      "shatters",
       "god",
       "always",
       "believed",
       "shakes",
-      "core"
+      "core",
+      "woman",
+      "tamed"
     ],
     "evidence": {
       "tags": [
         "Josei",
         "Based on a Web Novel",
+        "Heterosexual",
         "Fantasy",
         "Drama",
         "Romance",
@@ -172,40 +193,43 @@
       "titleTerms": [
         "serpent",
         "paradise",
-        "serpent",
-        "paradise"
+        "nagwonui",
+        "baem",
+        "nagwonui",
+        "baem"
       ],
       "descriptionTerms": [
+        "edenhurst",
         "beautiful",
         "paradise",
-        "edenhurst",
         "anastasia",
-        "existence",
-        "forbidden",
-        "place",
-        "having",
-        "accepted",
-        "unalterable",
-        "future",
-        "merely",
+        "permitted",
         "waiting",
         "end",
+        "having",
+        "accepted",
+        "future",
+        "never",
+        "change",
         "man",
         "appears",
         "before",
-        "destroys",
+        "shatters",
         "god",
         "always",
         "believed",
         "shakes",
         "paradise",
-        "core"
+        "core",
+        "woman",
+        "tamed"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.5
+    "confidence": 0.44
   }
 }

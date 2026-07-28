@@ -5,39 +5,50 @@
   "display_title": "Know My Name",
   "mangabaka_title": "Know My Name",
   "native_title": "노우 마이 네임",
-  "romanized_title": null,
+  "romanized_title": "Know My Name",
   "titles": [
     {
       "language": "ko",
       "title": "노우 마이 네임",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Know My Name",
+      "language": "ko",
+      "title": "노우 마이 네임(Know My Name)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Know My Name",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Unresolved emotions never fade away. Love turns into a wound, and the wound becomes a song, reappearing before him once again after seven years. Bae Yeon Woo, an Olympic silver medallist and professional tennis player. Silver, Song Hyun Seung, the lead vocalist of the top band NIGHTSOUL. Two boys who first met in an abandoned warehouse and became each other’s entire world. However, Yeon Woo, hounded by poverty, debt and violence, leaves South Korea, leaving behind his family, his love and everything else in pursuit of success.\n\nSeven years later. Both have reached the pinnacle of their respective worlds. Yeon Woo remains in every one of Hyun Seung’s songs, and Hyun Seung lives on behind every one of Yeon-woo’s victories.\n\n*“You have always been the greatest regret of my life.”*\n\nA first love they thought was over—time, which had stood still, begins to flow once more.\n\n[Official PV](https://www.youtube.com/watch?v=DF1hf2XpmwU) | Character Profiles: Song Hyun Seung, Bae Yeon Woo\n\n---\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/4795000394)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMjY3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQ5Mi1jNmdxTkhRT295Q1kuanBn",
   "total_chapters": "8",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-26T17:16:38.689Z",
+  "last_updated_at": "2026-07-28T02:35:01.878Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214492,
+      "rating": null,
+      "url": "https://anilist.co/manga/214492"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7nudt2u",
@@ -61,8 +76,12 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,9 +89,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 0.1351,
+    "fanFavouriteDiscoveryScore": 5.0603,
+    "fanFavouriteDiscoveryPercentile": 0.1351
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -143,10 +164,16 @@
     "evidence": {
       "tags": [
         "Adult",
+        "Boys Love",
         "Yaoi",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
+        "know",
+        "name",
         "know",
         "name",
         "know",
@@ -179,9 +206,10 @@
         "player"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.61
+    "confidence": 0.65
   }
 }

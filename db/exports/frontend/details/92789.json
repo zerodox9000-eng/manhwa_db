@@ -2,7 +2,7 @@
   "id": 92789,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Hoesawon Chae-daeri",
+  "display_title": "Office Worker Chae Dae-Ri",
   "mangabaka_title": "Hoesawon Chae-daeri",
   "native_title": "회사원 채대리",
   "romanized_title": "Hoesawon Chae-daeri",
@@ -26,10 +26,10 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "Office Worker Chae Dae-Ri",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-06-10T15:41:08.379Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-05-25T05:22:24.849Z",
+  "last_updated_at": "2026-07-27T09:01:09.551Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,23 +89,28 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5359,
-    "popularityPercentile": 4.1307,
-    "fanFavouriteDiscoveryScore": 6.6355,
-    "fanFavouriteDiscoveryPercentile": 3.8453
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 4.1129,
+    "fanFavouriteDiscoveryScore": 6.6312,
+    "fanFavouriteDiscoveryPercentile": 3.8202
   },
   "context": {
-    "primaryProfile": "showbiz-career",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
       "modern-workplace",
       "showbiz-career"
     ],
     "primaryAnchors": [
+      "corporate-workplace",
       "showbiz-career"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "corporate-workplace"
+      ],
       "protagonistRole": [
         "employee"
       ],
@@ -116,18 +121,23 @@
       "tone": [
         "warm"
       ],
-      "worldType": [],
-      "romanceRole": "none",
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "minor",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "showbiz-career",
+    "semanticSummary": "corporate-workplace / corporate-workplace",
     "searchKeywords": [
+      "office",
+      "worker",
+      "chae",
+      "dae-ri",
       "hoesawon",
       "chae-daeri",
       "assistant",
       "manager",
-      "chae",
       "enduring",
       "manhwakyung",
       "translated",
@@ -147,8 +157,10 @@
         "Full Color"
       ],
       "titleTerms": [
-        "hoesawon",
-        "chae-daeri",
+        "office",
+        "worker",
+        "chae",
+        "dae-ri",
         "hoesawon",
         "chae-daeri",
         "hoesawon",
@@ -172,6 +184,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.8
   }
 }

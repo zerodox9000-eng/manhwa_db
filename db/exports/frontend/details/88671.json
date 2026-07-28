@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Designer (Hatchling)",
-  "mangabaka_title": "Designer (Hatchling)",
+  "mangabaka_title": "Dijaineo",
   "native_title": "디자이너",
-  "romanized_title": null,
+  "romanized_title": "Dijaineo",
   "titles": [
     {
       "language": "ko",
       "title": "디자이너",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,24 +22,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Dijaineo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "It tells the story of Yujin, a middle school judo player whose life has been ruined by the drug administration. He became a \"designer\" who manufactures doping-related drugs to avenge those who destroyed his life.\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69465479), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14029904), [Ridibooks](https://ridibooks.com/books/1746035120), [MrBlue](https://www.mrblue.com/webtoon/wt_000079287)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwMjcyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQ5MC1abGxBT28yRlRmMDUucG5n",
   "total_chapters": "53",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2019,
   "published": {
-    "start_date": "2019-01-01",
+    "start_date": "2019-08-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-16T18:04:23.027Z",
+  "last_updated_at": "2026-07-27T22:36:22.171Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -51,7 +62,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214490,
+      "rating": null,
+      "url": "https://anilist.co/manga/214490"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "16x6yuj",
@@ -60,7 +75,13 @@
     }
   },
   "tag_ids": [
-    31
+    58,
+    31,
+    32,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -68,9 +89,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 0.1351,
+    "fanFavouriteDiscoveryScore": 5.0603,
+    "fanFavouriteDiscoveryPercentile": 0.1351
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -102,6 +125,7 @@
     "searchKeywords": [
       "designer",
       "hatchling",
+      "dijaineo",
       "tells",
       "yujin",
       "middle",
@@ -128,13 +152,19 @@
     ],
     "evidence": {
       "tags": [
-        "Drama"
+        "Male Lead",
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "designer",
         "hatchling",
-        "designer",
-        "hatchling"
+        "dijaineo",
+        "dijaineo"
       ],
       "descriptionTerms": [
         "tells",
@@ -163,9 +193,10 @@
         "ridibooks"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.43
+    "confidence": 0.49
   }
 }

@@ -2,10 +2,10 @@
   "id": 148541,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Joseon Wangjosiltok",
+  "display_title": "The Chat of Joseon Dynasty",
   "mangabaka_title": "Joseon Wangjosiltok",
   "native_title": "조선왕조실톡",
-  "romanized_title": "Joseon Kingdom Annals Talk",
+  "romanized_title": "Joseon Wangjosiltok",
   "titles": [
     {
       "language": "ko",
@@ -17,7 +17,7 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "Joseon Kingdom Annals Talk",
       "traits": [],
       "is_primary": false,
@@ -33,10 +33,10 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "The Chat of Joseon Dynasty",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -103,56 +103,48 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5359,
-    "popularityPercentile": 4.1307,
-    "fanFavouriteDiscoveryScore": 6.6355,
-    "fanFavouriteDiscoveryPercentile": 3.8453
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 4.1129,
+    "fanFavouriteDiscoveryScore": 6.6312,
+    "fanFavouriteDiscoveryPercentile": 3.8202
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
-      "euro-fantasy",
       "modern-korea"
     ],
-    "primaryAnchors": [
-      "euro-fantasy"
-    ],
+    "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
-        "kingdom-fantasy"
+        "modern-korea"
       ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [
-        "politics"
-      ],
+      "conflictType": [],
       "progressionType": [],
       "tone": [
         "comedic"
       ],
       "worldType": [
-        "modern-urban",
-        "fantasy-world"
+        "modern-urban"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
+      "chat",
       "joseon",
+      "dynasty",
       "wangjosiltok",
-      "kingdom",
-      "annals",
-      "talk",
       "came",
       "messenger",
+      "talk",
       "trivial",
       "stories",
-      "dynasty",
       "naver",
       "translated"
     ],
@@ -169,14 +161,13 @@
         "Web Comic"
       ],
       "titleTerms": [
+        "chat",
+        "joseon",
+        "dynasty",
         "joseon",
         "wangjosiltok",
         "joseon",
-        "wangjosiltok",
-        "joseon",
-        "kingdom",
-        "annals",
-        "talk"
+        "wangjosiltok"
       ],
       "descriptionTerms": [
         "came",
@@ -195,6 +186,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.6
+    "confidence": 0.44
   }
 }

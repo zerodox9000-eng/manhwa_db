@@ -2,7 +2,7 @@
   "id": 598319,
   "state": "active",
   "type": "manhwa",
-  "display_title": "If We Have Sex Just Once, I Won't Eat You.",
+  "display_title": "Let Me Pound Your Rice Cake Once, and I Won't Eat You",
   "mangabaka_title": "Tteong Han Beon Chimyeon An Jabameokji",
   "native_title": "떡 한 번 치면 안 잡아먹지",
   "romanized_title": "Tteong Han Beon Chimyeon An Jabameokji",
@@ -18,7 +18,42 @@
     },
     {
       "language": "en",
+      "title": "Fuck Me Once, and I Won't Eat You",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "If We Have Sex Just Once, I Won't Eat You.",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Let Me Pound Your Rice Cake Once, and I Won't Eat You",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Nếu Cho Ta \"Nếm\" Thử Một Lần Thì Sẽ Không Bị Ăn Thịt",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "One Night and the Tiger Won't Eat Me",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "Si me dejas follarte una vez no te comere",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -48,7 +83,7 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T02:52:08.073Z",
+  "last_updated_at": "2026-07-28T02:52:32.929Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,11 +104,18 @@
       "url": "https://anilist.co/manga/214427"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "oonw6fk",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/oonw6fk"
+    }
   },
   "tag_ids": [
+    43,
     108,
     22,
+    46,
+    41,
     9,
     45,
     93,
@@ -81,16 +123,16 @@
     428
   ],
   "stats": {
-    "popularity": 2,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5359,
-    "popularityPercentile": 0.3755,
-    "fanFavouriteDiscoveryScore": 5.1434,
-    "fanFavouriteDiscoveryPercentile": 0.368
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 1.3284,
+    "fanFavouriteDiscoveryScore": 5.4972,
+    "fanFavouriteDiscoveryPercentile": 1.2609
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -118,7 +160,11 @@
     },
     "semanticSummary": "romance-core",
     "searchKeywords": [
-      "sex",
+      "let",
+      "pound",
+      "your",
+      "rice",
+      "cake",
       "won",
       "eat",
       "tteong",
@@ -132,7 +178,6 @@
       "mountain",
       "today",
       "sell",
-      "rice",
       "cakes",
       "days",
       "happens",
@@ -147,8 +192,11 @@
     ],
     "evidence": {
       "tags": [
+        "Josei",
         "Heterosexual",
         "Supernatural",
+        "Adult",
+        "Smut",
         "Romance",
         "Historical",
         "Longstrip",
@@ -156,18 +204,18 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "sex",
+        "let",
+        "pound",
+        "your",
+        "rice",
+        "cake",
         "won",
         "eat",
         "tteong",
         "han",
         "beon",
         "chimyeon",
-        "jabameokji",
-        "tteong",
-        "han",
-        "beon",
-        "chimyeon"
+        "jabameokji"
       ],
       "descriptionTerms": [
         "mi-hyang",
@@ -196,9 +244,10 @@
         "cakes"
       ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.42
+    "confidence": 0.45
   }
 }

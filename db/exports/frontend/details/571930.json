@@ -2,8 +2,8 @@
   "id": 571930,
   "state": "active",
   "type": "manhwa",
-  "display_title": "This Is How You Take Revenge",
-  "mangabaka_title": "Boksuneun Ireoke Haneun Geoda",
+  "display_title": "This is What Revenge Looks Like",
+  "mangabaka_title": "This is What Revenge Looks Like",
   "native_title": "복수는 이렇게 하는 거다",
   "romanized_title": "Boksuneun Ireoke Haneun Geoda",
   "titles": [
@@ -99,14 +99,16 @@
       "language": "en",
       "title": "This Is How You Take Revenge",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
-      "title": "This Is What Revenge Looks Like",
-      "traits": [],
-      "is_primary": false,
+      "title": "This is What Revenge Looks Like",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -152,12 +154,12 @@
       "note": null
     }
   ],
-  "description": "Grace, a girl who lost her parents and even her family, has held only one thing in her heart for 13 years: revenge. And then there’s Ares, who lost everything to the same enemy. Seeking revenge, Grace proposes a fake relationship with him, and the two enter into a cold pact. However, the feelings that sprout in the flames of revenge gradually blossom into love, and she fears that these feelings will become an obstacle to her revenge. Caught between revenge and love, what choice will these two make as they race towards the end?\n\n(Source: KakaoPage, translated)",
+  "description": "Years ago, Grace's parents were killed in a carriage accident targeting the young crown prince. But she alone knows the truth: The real prince survived and currently lives as Duke Walter Richmond, who died in his stead alongside her parents. After years of biding her time as her aunt and uncle ran her family's duchy into the ground, Grace is now ready for revenge, and her plan begins with helping the prince reclaim his usurped title. Together, can they restore everything to its rightful place?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzMvMC84LzAvYS84LzUvMDU4MS80MjQyL2I2MzUvNDBlODU0ODg2MTZm",
   "total_chapters": "35",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-01-02",
@@ -167,7 +169,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-26T15:19:05.267Z",
+  "last_updated_at": "2026-07-27T15:19:10.883Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -179,7 +181,7 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/571930",
-    "read_en": null
+    "read_en": "https://tapas.io/series/this-is-what-revenge-looks-like/info"
   },
   "source": {
     "anilist": {
@@ -211,28 +213,31 @@
     428
   ],
   "stats": {
-    "popularity": 181,
+    "popularity": 189,
     "favourites": 5,
     "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7624,
-    "fanRatioPercentile": 84.3635,
-    "popularityPercentile": 50.1089,
-    "fanFavouriteDiscoveryScore": 78.0173,
-    "fanFavouriteDiscoveryPercentile": 85.3023
+    "fanFavouriteRaw": 2.6455,
+    "fanRatioPercentile": 82.7454,
+    "popularityPercentile": 50.9382,
+    "fanFavouriteDiscoveryScore": 76.9072,
+    "fanFavouriteDiscoveryPercentile": 84.3215
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
-      "modern-korea",
+      "euro-fantasy",
+      "euro-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "kingdom-fantasy"
       ],
       "protagonistRole": [],
       "careerDomain": [],
@@ -253,34 +258,38 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
-      "take",
+      "what",
       "revenge",
+      "looks",
       "boksuneun",
       "ireoke",
       "haneun",
       "geoda",
-      "grace",
-      "girl",
-      "lost",
-      "parents",
-      "even",
-      "family",
-      "held",
-      "thing",
-      "heart",
       "years",
-      "ares",
-      "everything",
-      "same",
-      "enemy",
-      "seeking",
-      "proposes",
-      "fake",
-      "relationship",
-      "two",
-      "enter"
+      "ago",
+      "grace",
+      "parents",
+      "were",
+      "killed",
+      "carriage",
+      "accident",
+      "targeting",
+      "crown",
+      "prince",
+      "alone",
+      "knows",
+      "truth",
+      "real",
+      "survived",
+      "currently",
+      "lives",
+      "duke",
+      "walter",
+      "richmond",
+      "died",
+      "stead"
     ],
     "evidence": {
       "tags": [
@@ -296,49 +305,50 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "take",
+        "what",
         "revenge",
-        "boksuneun",
-        "ireoke",
-        "haneun",
-        "geoda",
+        "looks",
+        "what",
+        "revenge",
+        "looks",
         "boksuneun",
         "ireoke",
         "haneun",
         "geoda"
       ],
       "descriptionTerms": [
-        "grace",
-        "girl",
-        "lost",
-        "parents",
-        "even",
-        "family",
-        "held",
-        "thing",
-        "heart",
         "years",
-        "revenge",
-        "ares",
-        "lost",
-        "everything",
-        "same",
-        "enemy",
-        "seeking",
-        "revenge",
+        "ago",
         "grace",
-        "proposes",
-        "fake",
-        "relationship",
-        "two",
-        "enter"
+        "parents",
+        "were",
+        "killed",
+        "carriage",
+        "accident",
+        "targeting",
+        "crown",
+        "prince",
+        "alone",
+        "knows",
+        "truth",
+        "real",
+        "prince",
+        "survived",
+        "currently",
+        "lives",
+        "duke",
+        "walter",
+        "richmond",
+        "died",
+        "stead"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.68
   }
 }

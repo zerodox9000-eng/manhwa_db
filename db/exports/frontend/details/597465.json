@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T01:16:45.915Z",
+  "last_updated_at": "2026-07-27T23:01:26.221Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +94,7 @@
   "source": {
     "anilist": {
       "id": 214466,
-      "rating": null,
+      "rating": 80,
       "url": "https://anilist.co/manga/214466"
     },
     "animeplanet": null,
@@ -105,11 +105,15 @@
     }
   },
   "tag_ids": [
+    279,
     556,
+    732,
     575,
     36,
     22,
     342,
+    547,
+    626,
     180,
     16,
     6,
@@ -121,16 +125,16 @@
     1128
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 5,
+    "favourites": 1,
+    "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5359,
-    "popularityPercentile": 0.0976,
-    "fanFavouriteDiscoveryScore": 5.0445,
-    "fanFavouriteDiscoveryPercentile": 0.0976
+    "fanFavouriteRaw": 20,
+    "fanRatioPercentile": 99.9024,
+    "popularityPercentile": 1.9514,
+    "fanFavouriteDiscoveryScore": 18.1644,
+    "fanFavouriteDiscoveryPercentile": 20.3693
   },
   "context": {
     "primaryProfile": "sports-career",
@@ -198,11 +202,15 @@
     ],
     "evidence": {
       "tags": [
+        "Kemonomimi",
         "Big Penis",
+        "Shapeshifting",
         "Human-Nonhuman Relationship",
         "Fantasy",
         "Supernatural",
         "Anthropomorphic",
+        "Non-human",
+        "Werewolves",
         "Boys Love",
         "Yaoi",
         "Comedy",
@@ -252,6 +260,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.65
+    "confidence": 0.69
   }
 }

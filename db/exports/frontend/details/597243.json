@@ -3,21 +3,32 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Irreplaceable Guy Friend",
-  "mangabaka_title": "Irreplaceable Guy Friend",
-  "native_title": "[짝사랑 단편선] 대체불가 남사친",
-  "romanized_title": null,
+  "mangabaka_title": "Daechebulga Namsachin",
+  "native_title": "대체불가 남사친",
+  "romanized_title": "Daechebulga Namsachin",
   "titles": [
     {
       "language": "ko",
       "title": "대체불가 남사친",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[짝사랑 단편선] 대체불가 남사친",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Daechebulga Namsachin",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -31,6 +42,13 @@
     {
       "language": "en",
       "title": "Irreplaceable Male Friend",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Jjaksarang Danpyeonseon] Daechebulga Namsachin",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -57,27 +75,27 @@
       "note": null
     }
   ],
-  "description": "\"I don't think just once will be enough.\"    \n\"Hey, mmm...\" \n\nNational swimmer, Moon Tae-gyeom. He has a secret behind his spectacular comeback after a long slump. The reason he finally broke his stagnant record is none other than his friend of 20 years, Yoo Seo-hae. Every time he sleeps with Seo-hae, his performance improves like magic. At first, it was just for the records. But soon, he starts to get annoyed by every single guy around her. \n\n\"Yoo Seo-hae's body belongs to me, but there are too many bastards trying to covet it.\"\n\n...Are we really just friends?\n\n[Original Webtoon](https://ridibooks.com/books/5285002583)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMjU1LmpwZw",
+  "description": "*Note: Part of Metatoon's Jjaksarang Danpyeonseon (짝사랑 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQzMy1HcXQxbG10dndHZDkuanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-18",
+    "end_date": "2026-07-18",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-25T16:57:11.871Z",
+  "last_updated_at": "2026-07-27T18:10:28.466Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "EL",
-    "Eon Jeong-Yi"
+    "El",
+    "Eonjeong"
   ],
   "artists": [
     "Daengppang",
@@ -88,7 +106,11 @@
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214433,
+      "rating": null,
+      "url": "https://anilist.co/manga/214433"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "0bjeft2",
@@ -98,24 +120,29 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 1.3284,
+    "fanFavouriteDiscoveryScore": 5.4972,
+    "fanFavouriteDiscoveryPercentile": 1.2609
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -132,87 +159,58 @@
       "tone": [
         "warm"
       ],
-      "worldType": [
-        "fantasy-world"
-      ],
+      "worldType": [],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "irreplaceable",
       "guy",
       "friend",
-      "don",
-      "think",
-      "enough",
-      "hey",
-      "mmm",
-      "national",
-      "swimmer",
-      "moon",
-      "tae-gyeom",
-      "secret",
-      "behind",
-      "spectacular",
-      "comeback",
-      "long",
-      "slump",
-      "reason",
-      "finally",
-      "broke",
-      "stagnant",
-      "record",
-      "none",
-      "than",
-      "years"
+      "daechebulga",
+      "namsachin",
+      "note",
+      "part",
+      "metatoon",
+      "jjaksarang",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Adult",
         "Smut",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "irreplaceable",
         "guy",
         "friend",
-        "irreplaceable",
-        "guy",
-        "friend"
+        "daechebulga",
+        "namsachin",
+        "daechebulga",
+        "namsachin"
       ],
       "descriptionTerms": [
-        "don",
-        "think",
-        "enough",
-        "hey",
-        "mmm",
-        "national",
-        "swimmer",
-        "moon",
-        "tae-gyeom",
-        "secret",
-        "behind",
-        "spectacular",
-        "comeback",
-        "long",
-        "slump",
-        "reason",
-        "finally",
-        "broke",
-        "stagnant",
-        "record",
-        "none",
-        "than",
-        "friend",
-        "years"
+        "note",
+        "part",
+        "metatoon",
+        "jjaksarang",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.43
   }
 }

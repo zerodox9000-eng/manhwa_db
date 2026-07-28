@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "I Had an Arranged Marriage With My Unrequited Love",
   "mangabaka_title": "I Had an Arranged Marriage With My Unrequited Love",
-  "native_title": null,
+  "native_title": "짝사랑과 정략결혼 했더니",
   "romanized_title": null,
   "titles": [
     {
@@ -20,9 +20,23 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "I Married My Crush by Imperial Decree",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Married My Crush in an Arranged Marriage",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[R19](https://ridibooks.com/books/5285002609), [R15](https://ridibooks.com/books/5285002610)",
+  "description": "By imperial decree, Irene unexpectedly ends up marrying Felix, the man she had always admired from afar.\n\nAlthough it was merely a political marriage, Felix treated her with great respect, and Irene was incredibly satisfied with their union. She was certain that she would continue to be happy in the future.\n\n\"Are you aware that the Duke is having an affair, Duchess?\"\n\nAt least, she was... until a paparazzi appeared and showed her secretly taken photographs of Felix with another woman.\n\n**Original Webtoon:**    \n[R19](https://ridibooks.com/books/5285002609), [R15](https://ridibooks.com/books/5285002610)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzODA5LmpwZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,7 +51,7 @@
   },
   "first_seen_at": "2026-07-27T04:55:24.931Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-26T14:57:05.361Z",
+  "last_updated_at": "2026-07-27T15:43:53.368Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,15 +93,21 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -105,16 +125,33 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy",
     "searchKeywords": [
       "arranged",
       "marriage",
       "unrequited",
       "love",
-      "original",
-      "webtoon",
-      "r19",
-      "r15"
+      "imperial",
+      "decree",
+      "irene",
+      "unexpectedly",
+      "ends",
+      "marrying",
+      "felix",
+      "man",
+      "always",
+      "admired",
+      "afar",
+      "although",
+      "merely",
+      "political",
+      "treated",
+      "great",
+      "respect",
+      "incredibly",
+      "satisfied",
+      "union",
+      "certain"
     ],
     "evidence": {
       "tags": [
@@ -135,15 +172,35 @@
         "love"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "r19",
-        "r15"
+        "imperial",
+        "decree",
+        "irene",
+        "unexpectedly",
+        "ends",
+        "marrying",
+        "felix",
+        "man",
+        "always",
+        "admired",
+        "afar",
+        "although",
+        "merely",
+        "political",
+        "marriage",
+        "felix",
+        "treated",
+        "great",
+        "respect",
+        "irene",
+        "incredibly",
+        "satisfied",
+        "union",
+        "certain"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.47
+    "confidence": 0.7
   }
 }

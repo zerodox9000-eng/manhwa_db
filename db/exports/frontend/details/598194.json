@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Summer Night Croquis",
-  "mangabaka_title": "Summer Night Croquis",
+  "mangabaka_title": "Yeoreumbamui Keuroki",
   "native_title": "여름밤의 크로키",
-  "romanized_title": null,
+  "romanized_title": "Yeoreumbamui Keuroki",
   "titles": [
     {
       "language": "ko",
       "title": "여름밤의 크로키",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "[곧휴가철 단편선] 여름밤의 크로키",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -50,6 +59,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Yeoreumbamui Keuroki",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "th",
       "title": "ภาพร่างในคืนฤดูร้อน",
       "traits": [],
@@ -58,35 +76,39 @@
     }
   ],
   "description": "Soo-ah and Jun-hyuk have known each other since they were young.   \n\nSoo-ah has always thought of Jun-hyuk like a younger brother, but after seeing him all grown up as an adult, she unexpectedly finds herself developing feelings for him.   \nMeanwhile, Soo-ah, who is preparing a portfolio for her art study abroad, worries about how to improve the quality of her nude croquis.   \n\nWhen Jun-hyuk happens to arrive where Soo-ah is, he just smiles at her dilemma.\n\n\"Do you want to see mine? It's just right to eat right now...\"\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/croquis)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMzUyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQyMC1xSWxlV0Z0Z3JTYTIuanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-23",
+    "end_date": "2026-07-23",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-24T04:08:24.058Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-26T17:16:26.692Z",
+  "last_updated_at": "2026-07-27T18:10:16.062Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Park Bosong"
+    "Bo-Song Park"
   ],
   "artists": [
-    "Park Bosong"
+    "Bo-Song Park"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598194",
     "read_en": null
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214420,
+      "rating": null,
+      "url": "https://anilist.co/manga/214420"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "s703kuq",
@@ -98,17 +120,23 @@
     43,
     46,
     41,
-    9
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.5521,
+    "popularityPercentile": 1.3284,
+    "fanFavouriteDiscoveryScore": 5.4972,
+    "fanFavouriteDiscoveryPercentile": 1.2609
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -140,6 +168,8 @@
       "summer",
       "night",
       "croquis",
+      "yeoreumbamui",
+      "keuroki",
       "soo-ah",
       "jun-hyuk",
       "known",
@@ -167,15 +197,20 @@
         "Josei",
         "Adult",
         "Smut",
-        "Romance"
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "summer",
         "night",
         "croquis",
-        "summer",
-        "night",
-        "croquis"
+        "yeoreumbamui",
+        "keuroki",
+        "yeoreumbamui",
+        "keuroki"
       ],
       "descriptionTerms": [
         "soo-ah",
@@ -204,9 +239,10 @@
         "portfolio"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.5
   }
 }
