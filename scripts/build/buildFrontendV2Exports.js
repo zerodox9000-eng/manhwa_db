@@ -149,9 +149,14 @@ function titleAliases(entry) {
 }
 
 function compactLinks(links) {
+  const readEnAll = uniqueStrings([
+    ...(Array.isArray(links?.read_en_all) ? links.read_en_all : []),
+    links?.read_en,
+  ]);
   return {
     mangabaka: links?.mangabaka || null,
-    read_en: links?.read_en || null,
+    read_en: readEnAll[0] || null,
+    read_en_all: readEnAll,
     official_en: links?.official_en || null,
   };
 }

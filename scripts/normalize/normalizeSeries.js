@@ -127,19 +127,25 @@ function getMangabakaLink(series) {
   return `https://mangabaka.org/${series.id}`;
 }
 
-function getEnglishReadLink(series) {
+function getEnglishReadLinks(series) {
 
   const allLinks =
-    series.links_v2 || [];
+    Array.isArray(series.links_v2)
+      ? series.links_v2
+      : [];
 
-  const englishLink =
-    allLinks.find(
-      link =>
-        link.language === "en" &&
-        link.type === "webplatform"
-    );
-
-  return englishLink?.url || null;
+  return [
+    ...new Set(
+      allLinks
+        .filter(
+          link =>
+            link?.language === "en" &&
+            link?.type === "webplatform"
+        )
+        .map(link => String(link.url || "").trim())
+        .filter(Boolean)
+    )
+  ];
 }
 
 function getSource(series) {
@@ -204,6 +210,9 @@ function getSource(series) {
 }
 
 function normalizeSeries(series) {
+
+  const englishReadLinks =
+    getEnglishReadLinks(series);
 
   const titles =
     (series.titles || [])
@@ -304,7 +313,10 @@ const englishTitles =
         getMangabakaLink(series),
 
       read_en:
-        getEnglishReadLink(series)
+        englishReadLinks[0] || null,
+
+      read_en_all:
+        englishReadLinks
     },
 
     source:
