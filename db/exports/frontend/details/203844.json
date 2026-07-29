@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-27T13:34:52.460Z",
+  "last_updated_at": "2026-07-28T13:35:49.039Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -115,6 +115,7 @@
     8,
     806,
     811,
+    339,
     2008,
     553,
     123,
@@ -123,6 +124,7 @@
     2431,
     2416,
     760,
+    125,
     599,
     20,
     163,
@@ -139,12 +141,17 @@
     372,
     992,
     1070,
+    306,
     1000,
     2077,
+    161,
+    169,
     99,
+    511,
     307,
     103,
     2712,
+    510,
     273,
     369,
     31,
@@ -156,23 +163,24 @@
     428
   ],
   "stats": {
-    "popularity": 970,
+    "popularity": 978,
     "favourites": 27,
     "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7835,
-    "fanRatioPercentile": 84.6668,
-    "popularityPercentile": 80.4488,
-    "fanFavouriteDiscoveryScore": 84.1208,
-    "fanFavouriteDiscoveryPercentile": 90.3783
+    "fanFavouriteRaw": 2.7607,
+    "fanRatioPercentile": 84.4666,
+    "popularityPercentile": 80.5683,
+    "fanFavouriteDiscoveryScore": 83.9273,
+    "fanFavouriteDiscoveryPercentile": 90.1342
   },
   "context": {
     "primaryProfile": "medical-career",
     "profileGroups": [
       "business-career",
       "food-career",
-      "medical-career"
+      "medical-career",
+      "romance-core"
     ],
     "primaryAnchors": [
       "food-career",
@@ -194,13 +202,15 @@
       "premiseMechanic": [
         "reincarnation"
       ],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [],
       "tone": [],
       "worldType": [
         "fantasy-world"
       ],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
@@ -238,6 +248,7 @@
         "Seinen",
         "Adult Character",
         "Beautiful Female Character",
+        "MILF",
         "Horny Female Character",
         "Big Ass",
         "Big Breasts",
@@ -246,6 +257,7 @@
         "Assertive Male Lead",
         "Harem-Seeking Male Lead",
         "Hospital",
+        "Love Triangle",
         "Nurse",
         "Harem",
         "Female Harem",
@@ -262,19 +274,17 @@
         "Sexual Acts",
         "Bathroom Intercourse",
         "Toilet Intercourse",
+        "Defloration",
         "Drunken Intercourse",
         "Hospital Intercourse",
+        "Masturbation",
+        "Nakadashi",
         "Oral Intercourse",
+        "Deepthroat",
         "Outdoor Intercourse",
         "Public Intercourse",
         "Restaurant Intercourse",
-        "Workplace Intercourse",
-        "Virginity",
-        "Drama",
-        "Harem Subtext",
-        "Medical",
-        "Elaborate",
-        "Longstrip"
+        "Squirting"
       ],
       "titleTerms": [
         "men",
@@ -317,6 +327,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.91
+    "confidence": 0.98
   }
 }

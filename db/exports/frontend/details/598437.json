@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Bad Uncle",
-  "mangabaka_title": "Bad Uncle",
-  "native_title": "[키잡 단편선] 질 나쁜 삼촌",
-  "romanized_title": null,
+  "mangabaka_title": "Jil Nappeun Samchon",
+  "native_title": "질 나쁜 삼촌",
+  "romanized_title": "Jil Nappeun Samchon",
   "titles": [
     {
       "language": "ko",
       "title": "질 나쁜 삼촌",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[키잡 단편선] 질 나쁜 삼촌",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -41,32 +43,62 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jil Nappeun Samchon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Kijam Danpyeonseon] Jil Nappeun Samchon",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "My Nasty Fake Uncle",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The No-Good Uncle",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "\"You're the one who said it, Lee-young. That you wanted a family.\"\n\nIn Lee-young's world, parents simply didn't exist. But stepping out of the orphanage into the real world, she realized most people took parents for granted.\n\nLee-young was curious. What would it feel like to have an adult who unconditionally rooted for and supported her?\n\nThat's why she made that call. Just for a single day, she wanted to feel the warmth of a family.\n\n\"I'll be your uncle, and I'll make you a family. So shh, that's a good girl, our Lee-young.\"\n\n\"Ngh, y-yeah...\"\n\n\"That's right, be a good girl and swallow mister's cum. Okay?\"\n\n[Original Webtoon](https://ridibooks.com/books/5285002483)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzODEwLmpwZw",
+  "description": "*Note: Part of Metatoon's Kijam Danpyeonseon (키잡 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDUxNC1RZWVqRHBPVnp3MVEuanBn",
   "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-25",
+    "end_date": "2026-07-25",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-27T04:55:24.931Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T15:43:50.075Z",
+  "last_updated_at": "2026-07-28T20:36:16.417Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kwak Dupal",
+    "Du-Pal Gwak",
     "Mogege"
   ],
   "artists": [
-    "Glue",
+    "Geullu",
     "Metatoon"
   ],
   "links": {
@@ -75,7 +107,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214514,
+      "rating": null,
+      "url": "https://anilist.co/manga/214514"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "sn0rxp1",
@@ -85,11 +121,15 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     15,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -97,14 +137,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 0.2174,
+    "fanFavouriteDiscoveryScore": 5.0995,
+    "fanFavouriteDiscoveryPercentile": 0.2174
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -126,77 +167,56 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "bad",
       "uncle",
-      "said",
-      "lee-young",
-      "wanted",
-      "family",
-      "parents",
-      "simply",
-      "didn",
-      "exist",
-      "stepping",
-      "orphanage",
-      "real",
-      "realized",
-      "most",
-      "people",
-      "took",
-      "granted",
-      "curious",
-      "what",
-      "feel",
-      "adult",
-      "unconditionally"
+      "jil",
+      "nappeun",
+      "samchon",
+      "note",
+      "part",
+      "metatoon",
+      "kijam",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Adult",
         "Mature",
         "Smut",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "bad",
         "uncle",
-        "bad",
-        "uncle"
+        "jil",
+        "nappeun",
+        "samchon",
+        "jil",
+        "nappeun",
+        "samchon"
       ],
       "descriptionTerms": [
-        "said",
-        "lee-young",
-        "wanted",
-        "family",
-        "lee-young",
-        "parents",
-        "simply",
-        "didn",
-        "exist",
-        "stepping",
-        "orphanage",
-        "real",
-        "realized",
-        "most",
-        "people",
-        "took",
-        "parents",
-        "granted",
-        "lee-young",
-        "curious",
-        "what",
-        "feel",
-        "adult",
-        "unconditionally"
+        "note",
+        "part",
+        "metatoon",
+        "kijam",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.45
   }
 }

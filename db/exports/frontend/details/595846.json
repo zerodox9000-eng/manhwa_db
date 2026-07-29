@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Pure Love vs. Gold Digger",
-  "mangabaka_title": "Pure Love vs. Gold Digger",
+  "mangabaka_title": "Sunae vs Songmul",
   "native_title": "순애vs속물",
-  "romanized_title": null,
+  "romanized_title": "Sunae vs Songmul",
   "titles": [
     {
       "language": "en",
@@ -22,8 +22,17 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Sunae vs Songmul",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
-      "title": "The Devoted vs the Materialist",
+      "title": "The Devoted Vs The Materialist",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -52,34 +61,37 @@
     {
       "language": "ko",
       "title": "순애vs속물",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "I, Yu Bok-hee, am an invincible money-grubber.    \nI'll do anything for the right price.\n\n\"If you blow me just once, all this money is yours.\"\n\nI didn't expect it would actually come to that...  \nBut 500,000 won for one act?    \nIt's too much money for me to refuse.\n\n\"…I'll do my best!\"\n\nI look forward to serving you well, boss!!\n\n**Original Webtoon:**   \nR19: [Ridibooks](https://ridibooks.com/books/4343003669)   \nR15: [Ridibooks](https://ridibooks.com/books/4343003680)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3B1cmUtbG92ZS12cy1nb2xkLWRpZ2dlci0xLndlYnA_dD0xNzg0MjI4MTY5",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDUyMi1XSU1IemYxT3BxRGwucG5n",
   "total_chapters": "13",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-04",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-06T05:06:36.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T00:18:00.781Z",
+  "last_updated_at": "2026-07-29T01:15:43.261Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kwak Dupal"
+    "Du-Pal Gwak",
+    "MARUCOMICS"
   ],
   "artists": [
-    "Ilsam"
+    "Il-Sam"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595846",
@@ -87,7 +99,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214522,
+      "rating": null,
+      "url": "https://anilist.co/manga/214522"
+    },
     "animeplanet": {
       "id": "pure-love-vs-gold-digger",
       "rating": null,
@@ -103,8 +119,10 @@
     43,
     2441,
     74,
+    108,
     46,
     41,
+    228,
     6,
     31,
     9,
@@ -118,9 +136,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 0.2174,
+    "fanFavouriteDiscoveryScore": 5.0995,
+    "fanFavouriteDiscoveryPercentile": 0.2174
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -154,6 +174,8 @@
       "love",
       "gold",
       "digger",
+      "sunae",
+      "songmul",
       "bok-hee",
       "invincible",
       "money-grubber",
@@ -183,8 +205,10 @@
         "Josei",
         "Male Lead with Sexual Experience",
         "Based on a Web Novel",
+        "Heterosexual",
         "Adult",
         "Smut",
+        "Cohabitation",
         "Comedy",
         "Drama",
         "Romance",
@@ -197,10 +221,10 @@
         "love",
         "gold",
         "digger",
-        "pure",
-        "love",
-        "gold",
-        "digger"
+        "sunae",
+        "songmul",
+        "sunae",
+        "songmul"
       ],
       "descriptionTerms": [
         "bok-hee",
@@ -229,10 +253,11 @@
         "forward"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.53
+    "confidence": 0.55
   }
 }

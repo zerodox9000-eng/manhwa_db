@@ -26,7 +26,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon :**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851412), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14251650)",
+  "description": "In an era where the value of stars is traded in coins, \"Byeol\", an idol on the verge of debut, meets a mysterious death. To uncover the truth behind her friend's death, Moon Yisol jumps into the idol survival show 'BUY★ME' and confronts shocking secrets hidden behind the glamorous stage.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851412), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14251650)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQ4NS1Ta2VQSHlUWFdvVjYuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +41,7 @@
   },
   "first_seen_at": "2026-07-28T03:59:03.929Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T23:08:10.693Z",
+  "last_updated_at": "2026-07-28T17:05:36.401Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -77,32 +77,39 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 12,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5521,
-    "popularityPercentile": 0.1351,
-    "fanFavouriteDiscoveryScore": 5.0603,
-    "fanFavouriteDiscoveryPercentile": 0.1351
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 7.7442,
+    "fanFavouriteDiscoveryScore": 8.3705,
+    "fanFavouriteDiscoveryPercentile": 7.167
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "showbiz-career",
     "profileGroups": [
-      "modern-korea"
+      "modern-korea",
+      "showbiz-career"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "showbiz-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
         "modern-korea"
       ],
       "protagonistRole": [],
-      "careerDomain": [],
+      "careerDomain": [
+        "showbiz"
+      ],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "survival"
+      ],
       "progressionType": [],
       "tone": [],
       "worldType": [],
@@ -110,13 +117,31 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "showbiz-career / modern-korea",
     "searchKeywords": [
       "starcoin",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "era",
+      "value",
+      "stars",
+      "traded",
+      "coins",
+      "byeol",
+      "idol",
+      "verge",
+      "debut",
+      "meets",
+      "mysterious",
+      "death",
+      "uncover",
+      "truth",
+      "behind",
+      "friend",
+      "moon",
+      "yisol",
+      "jumps",
+      "survival",
+      "show",
+      "buy"
     ],
     "evidence": {
       "tags": [
@@ -133,18 +158,36 @@
         "starcoin"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "era",
+        "value",
+        "stars",
+        "traded",
+        "coins",
+        "byeol",
+        "idol",
+        "verge",
+        "debut",
+        "meets",
+        "mysterious",
+        "death",
+        "uncover",
+        "truth",
+        "behind",
+        "friend",
+        "death",
+        "moon",
+        "yisol",
+        "jumps",
+        "idol",
+        "survival",
+        "show",
+        "buy"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.57
   }
 }

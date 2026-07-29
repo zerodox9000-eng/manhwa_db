@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Untitled (Gagim)",
-  "mangabaka_title": "Untitled (Gagim)",
+  "mangabaka_title": "Muje",
   "native_title": "무제",
-  "romanized_title": null,
+  "romanized_title": "Muje",
   "titles": [
     {
       "language": "ko",
       "title": "무제",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Muje",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,30 +33,30 @@
       "note": null
     }
   ],
-  "description": "After the death of her mother, Kang Ji-Yul lives a lethargic life, secluded in her mansion. Then, Cha Seon-Tae, a former gangster, enters her mansion as the new gardener. With a brazen attitude, Seon-Tae begins to mock Ji-Yul, calling her the 'princess in the castle,' and slowly begins to shake up her daily routine...\n\n\"I got turned on watching you get turned on.\" \n\n\"I'm curious. Curious about what you'll be like when you're properly in heat.\"\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/1716003086)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNTEzLnBuZw",
+  "description": "Since her mother’s death, Kang Ji-Yul has been living a listless life, shut away in her mansion. Then, Cha Seon-Tae, a former gangster, arrives at her mansion as the new gardener. With his cocky attitude, Seon-Tae mocks Ji-Yul as the “princess inside the castle” and gradually begins to disrupt her daily routine...\n\n *“Seeing you all worked up got me worked up too.”\n\n“I’m curious, aren’t I? I wonder what would happen if you really got turned on.”*\n\n(Source: Ridibooks, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDUyNC1LUXdtQ1ZXSWM2VHUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-08T04:08:35.871Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-26T19:29:26.239Z",
+  "last_updated_at": "2026-07-29T00:06:22.669Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Gagim",
-    "Mallet"
+    "Maret"
   ],
   "artists": [
-    "Like"
+    "Cheoreom"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596014",
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214524,
+      "rating": null,
+      "url": "https://anilist.co/manga/214524"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "erhj1iv",
@@ -63,8 +78,13 @@
   },
   "tag_ids": [
     43,
+    59,
+    108,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -72,16 +92,17 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 0.2174,
+    "fanFavouriteDiscoveryScore": 5.0995,
+    "fanFavouriteDiscoveryPercentile": 0.2174
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -112,70 +133,77 @@
     "searchKeywords": [
       "untitled",
       "gagim",
-      "death",
+      "muje",
+      "since",
       "mother",
+      "death",
       "kang",
       "ji-yul",
-      "lives",
-      "lethargic",
-      "secluded",
+      "living",
+      "listless",
+      "shut",
+      "away",
       "mansion",
       "cha",
       "seon-tae",
       "former",
       "gangster",
-      "enters",
+      "arrives",
       "gardener",
-      "brazen",
+      "cocky",
       "attitude",
-      "begins",
-      "mock",
-      "calling",
+      "mocks",
       "princess",
-      "castle"
+      "inside"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Female Lead",
+        "Heterosexual",
         "Smut",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "untitled",
         "gagim",
-        "untitled",
-        "gagim"
+        "muje",
+        "muje"
       ],
       "descriptionTerms": [
-        "death",
+        "since",
         "mother",
+        "death",
         "kang",
         "ji-yul",
-        "lives",
-        "lethargic",
-        "secluded",
+        "living",
+        "listless",
+        "shut",
+        "away",
         "mansion",
         "cha",
         "seon-tae",
         "former",
         "gangster",
-        "enters",
+        "arrives",
         "mansion",
         "gardener",
-        "brazen",
+        "cocky",
         "attitude",
         "seon-tae",
-        "begins",
-        "mock",
+        "mocks",
         "ji-yul",
-        "calling",
         "princess",
-        "castle"
+        "inside"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.68
+    "confidence": 0.66
   }
 }

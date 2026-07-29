@@ -2,7 +2,7 @@
   "id": 583195,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Climax Training App - Humiliation Play Edition",
+  "display_title": "Push to Start",
   "mangabaka_title": "Climax Training App: Humiliation Play Edition",
   "native_title": "절정 조교 어플 - 수치플 편",
   "romanized_title": null,
@@ -18,16 +18,23 @@
       "language": "en",
       "title": "Climax Training App - Humiliation Play Edition",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Push to Start",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://ridibooks.com/books/3885044303)",
+  "description": "**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/3885037726), [MrBlue](https://www.mrblue.com/novel/E000141604), [Naver Series](https://series.naver.com/novel/detail.series?productNo=12403179)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/jogyoapp), [Naver Series](https://series.naver.com/novel/detail.series?productNo=12431532)\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/3885044303)\n\n**Official Translations:**  \nEnglish (Aug 11, Lezhin US)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIwMTA3LmpwZw",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-01-01",
@@ -37,15 +44,15 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-26T22:59:50.807Z",
+  "last_updated_at": "2026-07-29T00:41:58.656Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gukdo",
-    "Wangnya"
+    "Kook Do",
+    "Minji"
   ],
   "artists": [
-    "Minji"
+    "Wangnya"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/583195",
@@ -88,10 +95,8 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
-    "profileGroups": [
-      "modern-korea"
-    ],
+    "primaryProfile": null,
+    "profileGroups": [],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -111,8 +116,10 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "",
     "searchKeywords": [
+      "push",
+      "start",
       "climax",
       "training",
       "app",
@@ -120,7 +127,8 @@
       "play",
       "edition",
       "original",
-      "webtoon"
+      "novel",
+      "volumes"
     ],
     "evidence": {
       "tags": [
@@ -136,12 +144,8 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "climax",
-        "training",
-        "app",
-        "humiliation",
-        "play",
-        "edition",
+        "push",
+        "start",
         "climax",
         "training",
         "app",
@@ -151,13 +155,14 @@
       ],
       "descriptionTerms": [
         "original",
-        "webtoon"
+        "novel",
+        "volumes"
       ],
       "sourceFields": [
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.38
   }
 }

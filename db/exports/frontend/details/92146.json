@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.410Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-28T03:52:18.861Z",
+  "last_updated_at": "2026-07-28T21:58:18.099Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -100,7 +100,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/137525"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "more-than-friends",
+      "rating": 74,
+      "url": "https://www.anime-planet.com/manga/more-than-friends"
+    },
     "mangaupdates": {
       "id": "8lj2ec3",
       "rating": 67,
@@ -124,6 +128,7 @@
     125,
     172,
     245,
+    20,
     2718,
     108,
     1368,
@@ -162,10 +167,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.7212,
-    "fanRatioPercentile": 64.6878,
-    "popularityPercentile": 82.9556,
-    "fanFavouriteDiscoveryScore": 64.3489,
-    "fanFavouriteDiscoveryPercentile": 73.0111
+    "fanRatioPercentile": 64.75,
+    "popularityPercentile": 82.9522,
+    "fanFavouriteDiscoveryScore": 64.4106,
+    "fanFavouriteDiscoveryPercentile": 73.1089
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -241,6 +246,7 @@
         "Love Triangle",
         "Time Skip",
         "Sex Friends to Lovers",
+        "Harem",
         "Multiple Sexual Partners",
         "Heterosexual",
         "Polyamory",
@@ -263,8 +269,7 @@
         "Vanilla",
         "Drama",
         "Korean Folklore",
-        "Jealousy",
-        "Betrayal"
+        "Jealousy"
       ],
       "titleTerms": [
         "than",
@@ -296,6 +301,7 @@
       "sourceFields": [
         "anilist",
         "mangaupdates",
+        "animeplanet",
         "read-en"
       ]
     },

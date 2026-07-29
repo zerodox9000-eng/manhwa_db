@@ -2,10 +2,10 @@
   "id": 113845,
   "state": "active",
   "type": "manhwa",
-  "display_title": "69 University",
+  "display_title": "Seong Jeonmun Sarip Myeongmun Daehakgyo, Yukgudae",
   "mangabaka_title": "Seong Jeonmun Saripmyeongmundaehakgyo, Yukgudae",
   "native_title": "성 전문 사립명문대학교, 육구대",
-  "romanized_title": "Seong Jeonmun Saripmyeongmundaehakgyo, Yukgudae",
+  "romanized_title": "Seong Jeonmun Saripmyeongmundaehakgyo",
   "titles": [
     {
       "language": "ko",
@@ -34,7 +34,7 @@
       "language": "en",
       "title": "69 University",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -45,8 +45,8 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Seong Jeonmun Sarip Myeongmun Daehakgyo",
+      "language": "ko-Latn",
+      "title": "Seong Jeonmun Saripmyeongmundaehakgyo",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -61,12 +61,10 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Six Nine University",
-      "traits": [
-        "native"
-      ],
-      "is_primary": false,
+      "language": "en",
+      "title": "Seong Jeonmun Sarip Myeongmun Daehakgyo, Yukgudae",
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
@@ -77,7 +75,16 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
+      "title": "Six Nine University",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Yukgudae",
       "traits": [],
       "is_primary": false,
@@ -113,7 +120,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.825Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-27T20:31:28.712Z",
+  "last_updated_at": "2026-07-28T22:57:34.738Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -161,16 +168,16 @@
     428
   ],
   "stats": {
-    "popularity": 436,
+    "popularity": 437,
     "favourites": 12,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7523,
-    "fanRatioPercentile": 84.3065,
-    "popularityPercentile": 66.7817,
-    "fanFavouriteDiscoveryScore": 82.6314,
-    "fanFavouriteDiscoveryPercentile": 89.1999
+    "fanFavouriteRaw": 2.746,
+    "fanRatioPercentile": 84.2642,
+    "popularityPercentile": 66.8116,
+    "fanFavouriteDiscoveryScore": 82.5939,
+    "fanFavouriteDiscoveryPercentile": 89.1221
   },
   "context": {
     "primaryProfile": "school-life",
@@ -198,14 +205,17 @@
     },
     "semanticSummary": "school-life / school",
     "searchKeywords": [
-      "university",
       "seong",
       "jeonmun",
-      "saripmyeongmundaehakgyo",
+      "sarip",
+      "myeongmun",
+      "daehakgyo",
       "yukgudae",
+      "saripmyeongmundaehakgyo",
       "sex",
       "rules",
       "everything",
+      "university",
       "best",
       "college",
       "country",
@@ -241,15 +251,18 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "university",
+        "seong",
+        "jeonmun",
+        "sarip",
+        "myeongmun",
+        "daehakgyo",
+        "yukgudae",
         "seong",
         "jeonmun",
         "saripmyeongmundaehakgyo",
         "yukgudae",
         "seong",
-        "jeonmun",
-        "saripmyeongmundaehakgyo",
-        "yukgudae"
+        "jeonmun"
       ],
       "descriptionTerms": [
         "sex",

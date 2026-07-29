@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-07-19T04:19:30.700Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T17:19:03.138Z",
+  "last_updated_at": "2026-07-29T03:37:54.636Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -84,7 +84,7 @@
   "source": {
     "anilist": {
       "id": 214349,
-      "rating": 72,
+      "rating": 73,
       "url": "https://anilist.co/manga/214349"
     },
     "animeplanet": {
@@ -101,6 +101,7 @@
   "tag_ids": [
     58,
     74,
+    748,
     249,
     36,
     1,
@@ -109,32 +110,35 @@
     16,
     6,
     31,
+    128,
     9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 185,
+    "popularity": 214,
     "favourites": 2,
-    "meanScore": 73
+    "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0811,
-    "fanRatioPercentile": 46.5551,
-    "popularityPercentile": 50.5179,
-    "fanFavouriteDiscoveryScore": 43.1618,
-    "fanFavouriteDiscoveryPercentile": 48.8367
+    "fanFavouriteRaw": 0.9346,
+    "fanRatioPercentile": 42.7318,
+    "popularityPercentile": 53.5797,
+    "fanFavouriteDiscoveryScore": 40.2784,
+    "fanFavouriteDiscoveryPercentile": 45.0858
   },
   "context": {
-    "primaryProfile": "euro-fantasy",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
       "euro-fantasy",
       "euro-romance",
       "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
+      "business-career-regression",
       "euro-fantasy"
     ],
     "excludedProfiles": [],
@@ -159,10 +163,10 @@
         "fantasy-world"
       ],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "euro-fantasy / kingdom-fantasy / regression",
+    "semanticSummary": "business-career-regression / kingdom-fantasy / regression",
     "searchKeywords": [
       "bed",
       "male",
@@ -197,6 +201,7 @@
       "tags": [
         "Male Lead",
         "Based on a Web Novel",
+        "Age Regression",
         "Time Travel",
         "Fantasy",
         "Sci-Fi",
@@ -205,6 +210,7 @@
         "Yaoi",
         "Comedy",
         "Drama",
+        "Royalty",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -254,6 +260,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.79
+    "confidence": 0.97
   }
 }

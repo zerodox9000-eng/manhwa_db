@@ -37,7 +37,9 @@
     {
       "language": "ko",
       "title": "BACK TO (백투)",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -71,7 +73,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-26T12:21:49.324Z",
+  "last_updated_at": "2026-07-28T21:06:16.821Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -105,9 +107,11 @@
     }
   },
   "tag_ids": [
+    248,
     158,
     107,
     175,
+    14,
     180,
     16,
     31,
@@ -123,18 +127,23 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5521,
-    "popularityPercentile": 16.0537,
-    "fanFavouriteDiscoveryScore": 13.2052,
-    "fanFavouriteDiscoveryPercentile": 14.3726
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 16.0957,
+    "fanFavouriteDiscoveryScore": 13.258,
+    "fanFavouriteDiscoveryPercentile": 14.4239
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
+      "business-career-regression",
+      "modern-workplace",
+      "office-romance",
       "romance-core",
       "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -155,7 +164,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core / school",
+    "semanticSummary": "business-career-regression / school",
     "searchKeywords": [
       "what",
       "call",
@@ -182,9 +191,11 @@
     ],
     "evidence": {
       "tags": [
+        "Working",
         "Primarily Adult Cast",
         "School",
         "Teachers",
+        "Erotica",
         "Boys Love",
         "Yaoi",
         "Drama",
@@ -227,6 +238,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.52
+    "confidence": 0.84
   }
 }

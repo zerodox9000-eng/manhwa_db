@@ -111,7 +111,7 @@
   },
   "first_seen_at": "2026-07-26T04:21:17.555Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T22:22:22.701Z",
+  "last_updated_at": "2026-07-28T23:54:59.663Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -129,13 +129,13 @@
   "source": {
     "anilist": {
       "id": 214453,
-      "rating": 75,
+      "rating": 74,
       "url": "https://anilist.co/manga/214453"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "n2vjc06",
-      "rating": 66,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/n2vjc06"
     }
   },
@@ -144,6 +144,7 @@
     107,
     20,
     36,
+    94,
     252,
     39,
     341,
@@ -153,16 +154,16 @@
     428
   ],
   "stats": {
-    "popularity": 501,
-    "favourites": 4,
-    "meanScore": 75
+    "popularity": 705,
+    "favourites": 7,
+    "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 0.7984,
-    "fanRatioPercentile": 39.0648,
-    "popularityPercentile": 69.356,
-    "fanFavouriteDiscoveryScore": 38.4361,
-    "fanFavouriteDiscoveryPercentile": 42.9075
+    "fanFavouriteRaw": 0.9929,
+    "fanRatioPercentile": 44.2012,
+    "popularityPercentile": 75.3805,
+    "fanFavouriteDiscoveryScore": 43.7678,
+    "fanFavouriteDiscoveryPercentile": 49.6739
   },
   "context": {
     "primaryProfile": "game-system",
@@ -182,7 +183,9 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [],
       "progressionType": [],
       "tone": [
@@ -195,7 +198,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "game-system / modern-korea / school",
+    "semanticSummary": "game-system / modern-korea / school / reincarnation",
     "searchKeywords": [
       "years",
       "passed",
@@ -231,6 +234,7 @@
         "School",
         "Harem",
         "Fantasy",
+        "Isekai",
         "Vampires",
         "Action",
         "Guns",
@@ -282,6 +286,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.69
+    "confidence": 0.7
   }
 }

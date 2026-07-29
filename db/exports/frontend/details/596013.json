@@ -2,15 +2,17 @@
   "id": 596013,
   "state": "active",
   "type": "manhwa",
-  "display_title": "To Be Dolsoe",
-  "mangabaka_title": "To Be Dolsoe",
+  "display_title": "Dolsoega Doeeo Jwo",
+  "mangabaka_title": "Dolsoega Doeeo Jwo",
   "native_title": "돌쇠가 되어 줘",
   "romanized_title": "Be My Dolsoe",
   "titles": [
     {
       "language": "ko",
       "title": "돌쇠가 되어 줘",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,32 +32,41 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Dolsoega Doeeo Jwo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "To Be Dolsoe",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Hye-seo and Seon-il, longtime childhood friends, discover through a past-life regression experience that in a former life, Hye-seo was a noblewoman and Seon-il was her servant, Dolsoe. Despite the forbidden nature of their status in the past, they shared a passionate connection. The intense atmosphere between the noblewoman and her servant leaves subtle lingering feelings even after the two wake up from the experience. Eventually, the two act on these feelings in reality, leading to a massive shift in their childhood friend dynamic...\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/4443003357)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMxNzc1LnBuZw",
-  "total_chapters": "3",
+  "description": "Hye-Seo and Seon-Il have been childhood friends for a long time. Through a past-life experience, they discover that in a previous life, Hye-Seo was a lady of the house and Seon-Il was her servant. Despite their forbidden status in that past life, the two shared a passionate relationship. The intense chemistry between the lady and her servant evokes subtle emotions in the two even after they awaken from the past-life experience. Eventually, they begin a relationship in the present as well, bringing about a major change in their childhood friendship….\n\n(Source: Ridibooks, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDUyNS1Gd2h0V2lIUFdEQjQuanBn",
+  "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-10",
+    "end_date": "2026-07-10",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-08T04:08:35.871Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T20:11:37.304Z",
+  "last_updated_at": "2026-07-29T00:16:23.224Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "SAGOLD"
+    "Sa-Geum"
   ],
   "artists": [
     "Hongkkae"
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214525,
+      "rating": null,
+      "url": "https://anilist.co/manga/214525"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "gtmbiou",
@@ -76,10 +91,14 @@
   },
   "tag_ids": [
     43,
+    108,
     22,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -87,15 +106,15 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 0.2174,
+    "fanFavouriteDiscoveryScore": 5.0995,
+    "fanFavouriteDiscoveryPercentile": 0.2174
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
-      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -104,9 +123,7 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [
-        "regression"
-      ],
+      "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
@@ -116,77 +133,90 @@
       ],
       "worldType": [],
       "romanceRole": "major",
-      "regressionRole": "major",
+      "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / regression",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
+      "dolsoega",
+      "doeeo",
+      "jwo",
       "dolsoe",
       "hye-seo",
       "seon-il",
-      "longtime",
       "childhood",
       "friends",
-      "discover",
+      "long",
+      "time",
       "through",
       "past-life",
-      "regression",
       "experience",
-      "former",
-      "noblewoman",
+      "discover",
+      "previous",
+      "lady",
+      "house",
       "servant",
       "despite",
       "forbidden",
-      "nature",
       "status",
       "past",
+      "two",
       "shared",
       "passionate",
-      "connection"
+      "relationship"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Supernatural",
         "Adult",
         "Smut",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "dolsoe",
-        "dolsoe",
+        "dolsoega",
+        "doeeo",
+        "jwo",
+        "dolsoega",
+        "doeeo",
+        "jwo",
         "dolsoe"
       ],
       "descriptionTerms": [
         "hye-seo",
         "seon-il",
-        "longtime",
         "childhood",
         "friends",
-        "discover",
+        "long",
+        "time",
         "through",
         "past-life",
-        "regression",
         "experience",
-        "former",
+        "discover",
+        "previous",
         "hye-seo",
-        "noblewoman",
+        "lady",
+        "house",
         "seon-il",
         "servant",
-        "dolsoe",
         "despite",
         "forbidden",
-        "nature",
         "status",
         "past",
+        "two",
         "shared",
         "passionate",
-        "connection"
+        "relationship"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.54
+    "confidence": 0.44
   }
 }

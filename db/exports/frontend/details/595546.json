@@ -2,23 +2,25 @@
   "id": 595546,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Contract Marriage With the Monster Duke",
-  "mangabaka_title": "Contract Marriage With the Monster Duke",
-  "native_title": "[계약 단편선] 괴물 공작과 계약 결혼",
-  "romanized_title": null,
+  "display_title": "Contract Marriage with the Monster Duke",
+  "mangabaka_title": "Goemul Gongjakgwa Gyeyak Gyeolhon",
+  "native_title": "괴물 공작과 계약 결혼",
+  "romanized_title": "Goemul Gongjakgwa Gyeyak Gyeolhon",
   "titles": [
     {
       "language": "ko",
       "title": "괴물 공작과 계약 결혼",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계약 단편선] 괴물 공작과 계약 결혼",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -30,7 +32,7 @@
     },
     {
       "language": "en",
-      "title": "Contract Marriage With the Monster Duke",
+      "title": "Contract Marriage with the Monster Duke",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -41,33 +43,49 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Goemul Gongjakgwa Gyeyak Gyeolhon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeyak Danpyeonseon] Goemul Gongjakgwa Gyeyang Gyeolhon",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "\"I will undress before you. I have never shown this appearance to anyone else.\" \n\nCalix, a man who always wears a mask to hide his scars. He is a war hero and the King's most cherished commander, yet he is simultaneously viewed as a cold-blooded, cruel monster. To fulfill his grandmother's lifelong wish, he approaches Daphne, who is confined within a temple. \n\n\"Bear my child. I have no patience for beating around the bush.\" \n\nTo escape her miserable life, Daphne accepts his proposal. After their first night, he strangely begins to share the same bed with her every single day. Despite his indifferent and dry demeanor, he keeps saying the strangest things...\n\n[Original Webtoon](https://ridibooks.com/books/5285002507)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2NvbnRyYWN0LW1hcnJpYWdlLXdpdGgtdGhlLW1vbnN0ZXItZHVrZS0xLndlYnA_dD0xNzgyOTg0MjEx",
+  "description": "*Note: Part of Metatoon's Gyeyak Danpyeonseon (계약 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDUxOS1QeU1pSFpQQkFHTjkuanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-27T20:16:17.686Z",
+  "last_updated_at": "2026-07-28T23:06:27.801Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Hwinalli",
-    "Seol Gwa"
+    "Sesaeng"
   ],
   "artists": [
     "Metatoon",
-    "Sesaeng"
+    "Seolgwa"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595546",
@@ -75,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214519,
+      "rating": null,
+      "url": "https://anilist.co/manga/214519"
+    },
     "animeplanet": {
       "id": "contract-marriage-with-the-monster-duke",
       "rating": null,
@@ -90,6 +112,7 @@
   "tag_ids": [
     43,
     74,
+    108,
     36,
     46,
     41,
@@ -104,16 +127,17 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 0.2174,
+    "fanFavouriteDiscoveryScore": 5.0995,
+    "fanFavouriteDiscoveryPercentile": 0.2174
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -147,35 +171,21 @@
       "marriage",
       "monster",
       "duke",
-      "undress",
-      "before",
-      "never",
-      "shown",
-      "appearance",
-      "anyone",
-      "else",
-      "calix",
-      "man",
-      "always",
-      "wears",
-      "mask",
-      "hide",
-      "scars",
-      "war",
-      "hero",
-      "king",
-      "most",
-      "cherished",
-      "commander",
-      "yet",
-      "simultaneously",
-      "viewed",
-      "cold-blooded"
+      "goemul",
+      "gongjakgwa",
+      "gyeyak",
+      "gyeolhon",
+      "note",
+      "part",
+      "metatoon",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Josei",
         "Based on a Web Novel",
+        "Heterosexual",
         "Fantasy",
         "Adult",
         "Smut",
@@ -189,42 +199,29 @@
         "marriage",
         "monster",
         "duke",
-        "contract",
-        "marriage",
-        "monster",
-        "duke"
+        "goemul",
+        "gongjakgwa",
+        "gyeyak",
+        "gyeolhon",
+        "goemul",
+        "gongjakgwa",
+        "gyeyak",
+        "gyeolhon"
       ],
       "descriptionTerms": [
-        "undress",
-        "before",
-        "never",
-        "shown",
-        "appearance",
-        "anyone",
-        "else",
-        "calix",
-        "man",
-        "always",
-        "wears",
-        "mask",
-        "hide",
-        "scars",
-        "war",
-        "hero",
-        "king",
-        "most",
-        "cherished",
-        "commander",
-        "yet",
-        "simultaneously",
-        "viewed",
-        "cold-blooded"
+        "note",
+        "part",
+        "metatoon",
+        "gyeyak",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.74
+    "confidence": 0.68
   }
 }

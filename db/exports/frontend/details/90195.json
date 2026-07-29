@@ -104,7 +104,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.826Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-24T12:31:21.728Z",
+  "last_updated_at": "2026-07-28T13:13:55.193Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -137,12 +137,14 @@
   },
   "tag_ids": [
     900,
+    500,
     647,
     172,
     1186,
     406,
     434,
     36,
+    642,
     22,
     46,
     41,
@@ -155,6 +157,7 @@
     128,
     9,
     1365,
+    236,
     883,
     45,
     93,
@@ -163,28 +166,30 @@
     428
   ],
   "stats": {
-    "popularity": 82,
+    "popularity": 83,
     "favourites": null,
     "meanScore": 34
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.5521,
-    "popularityPercentile": 35.9352,
-    "fanFavouriteDiscoveryScore": 24.9419,
-    "fanFavouriteDiscoveryPercentile": 27.6494
+    "fanRatioPercentile": 31.6141,
+    "popularityPercentile": 36.1796,
+    "fanFavouriteDiscoveryScore": 25.0969,
+    "fanFavouriteDiscoveryPercentile": 27.7982
   },
   "context": {
-    "primaryProfile": "horror-survival",
+    "primaryProfile": "game-system",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
+      "game-system",
       "horror-survival",
       "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
       "euro-fantasy",
+      "game-system",
       "horror-survival"
     ],
     "excludedProfiles": [],
@@ -194,24 +199,29 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "hunter-system"
+      ],
       "conflictType": [
         "revenge",
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [
         "tense",
         "warm"
       ],
       "worldType": [
-        "fantasy-world"
+        "fantasy-world",
+        "system-world"
       ],
       "romanceRole": "major",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "minor"
     },
-    "semanticSummary": "horror-survival / kingdom-fantasy",
+    "semanticSummary": "game-system / kingdom-fantasy / hunter-system",
     "searchKeywords": [
       "majesty",
       "grand",
@@ -243,12 +253,14 @@
     "evidence": {
       "tags": [
         "Long-Haired Male Lead",
+        "Dungeon",
         "Misunderstandings",
         "Time Skip",
         "Servant",
         "Master-Servant Relationship",
         "Guideverse",
         "Fantasy",
+        "Fantasy World",
         "Supernatural",
         "Adult",
         "Smut",
@@ -261,6 +273,7 @@
         "Royalty",
         "Romance",
         "Social Class Discrimination",
+        "Super Powers",
         "Special Ability",
         "Historical",
         "Longstrip",
