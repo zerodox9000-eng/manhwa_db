@@ -20,12 +20,19 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "UP Bowel Movement Diary",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851264), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14277918)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5NDExLmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "A 21-year-old woman suddenly wakes up with terrible abdominal pain and constant diarrhea. She cannot find any explanation even at the doctor’s office. Her daily life completely collapses… but the “fugitive” from the bathroom is far from over.\n\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851264), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14277918)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MDcyLmpwZw",
+  "total_chapters": "7",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -37,7 +44,7 @@
   },
   "first_seen_at": "2026-06-18T05:29:51.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-06-18T16:37:13.847Z",
+  "last_updated_at": "2026-07-30T00:02:44.276Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -61,7 +68,11 @@
     }
   },
   "tag_ids": [
+    8,
+    15,
     6,
+    31,
+    18,
     7
   ],
   "stats": {
@@ -75,43 +86,90 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "korean-corporate-regression",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression",
+      "medical-career",
+      "modern-korea",
+      "modern-workplace",
+      "regression-return"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression",
+      "corporate-workplace",
+      "korean-business",
+      "korean-corporate-regression",
+      "medical-career"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace",
+        "medical"
       ],
-      "protagonistRole": [],
-      "careerDomain": [],
+      "protagonistRole": [
+        "medical-professional"
+      ],
+      "careerDomain": [
+        "medical"
+      ],
       "premiseMechanic": [],
       "conflictType": [],
       "progressionType": [],
       "tone": [
         "comedic",
+        "dark",
         "warm"
       ],
-      "worldType": [],
-      "romanceRole": "none",
+      "worldType": [
+        "modern-urban"
+      ],
+      "romanceRole": "minor",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "korean-corporate-regression / modern-korea / corporate-workplace",
     "searchKeywords": [
       "bowel",
       "movement",
       "diary",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "21-year-old",
+      "woman",
+      "suddenly",
+      "wakes",
+      "terrible",
+      "abdominal",
+      "pain",
+      "constant",
+      "diarrhea",
+      "cannot",
+      "find",
+      "any",
+      "explanation",
+      "even",
+      "doctor",
+      "office",
+      "daily",
+      "completely",
+      "collapses",
+      "fugitive",
+      "bathroom",
+      "far",
+      "over",
+      "original"
     ],
     "evidence": {
       "tags": [
+        "Seinen",
+        "Mature",
         "Comedy",
+        "Drama",
+        "Psychological",
         "Slice of Life"
       ],
       "titleTerms": [
@@ -123,17 +181,35 @@
         "diary"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "21-year-old",
+        "woman",
+        "suddenly",
+        "wakes",
+        "terrible",
+        "abdominal",
+        "pain",
+        "constant",
+        "diarrhea",
+        "cannot",
+        "find",
+        "any",
+        "explanation",
+        "even",
+        "doctor",
+        "office",
+        "daily",
+        "completely",
+        "collapses",
+        "fugitive",
+        "bathroom",
+        "far",
+        "over",
+        "original"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 1
   }
 }

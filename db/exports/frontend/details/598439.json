@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Had an Arranged Marriage With My Unrequited Love",
-  "mangabaka_title": "I Had an Arranged Marriage With My Unrequited Love",
+  "mangabaka_title": "Jjaksaranggwa Jeongnyakgyeolhon Haetdeoni",
   "native_title": "짝사랑과 정략결혼 했더니",
-  "romanized_title": null,
+  "romanized_title": "Jjaksaranggwa Jeongnyakgyeolhon Haetdeoni",
   "titles": [
     {
       "language": "ko",
       "title": "짝사랑과 정략결혼 했더니",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "An Arranged Marriage With My Unrequited Love",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Jjaksaranggwa Jeongnyakgyeolhon Haetdeoni",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Married My Crush in an Arranged Marriage",
       "traits": [],
@@ -36,31 +54,30 @@
       "note": null
     }
   ],
-  "description": "By imperial decree, Irene unexpectedly ends up marrying Felix, the man she had always admired from afar.\n\nAlthough it was merely a political marriage, Felix treated her with great respect, and Irene was incredibly satisfied with their union. She was certain that she would continue to be happy in the future.\n\n\"Are you aware that the Duke is having an affair, Duchess?\"\n\nAt least, she was... until a paparazzi appeared and showed her secretly taken photographs of Felix with another woman.\n\n**Original Webtoon:**    \n[R19](https://ridibooks.com/books/5285002609), [R15](https://ridibooks.com/books/5285002610)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzODA5LmpwZw",
+  "description": "Before she knew it, Irene found herself married to Felix, whom she had secretly admired from afar, by royal decree. Although it was a marriage of convenience, Felix treated her with great respect, and Irene was very happy with the marriage. She was convinced that they would continue to be happy together.\n\n *“Do you know that the Duke is having an affair, Duchess?”*\n\nThat is, until a paparazzo showed up and presented her with photos he’d secretly taken of Felix with another woman... \n\n(Source: Ridibooks, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU0Ny16VldjcUhyaDNIY1kucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-27T04:55:24.931Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T16:23:51.148Z",
+  "last_updated_at": "2026-07-30T00:16:16.470Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Byeokpe",
-    "On Yedam"
+    "Onyedam"
   ],
   "artists": [
-    "Cheollo",
-    "Metatoon"
+    "Cheollo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598439",
@@ -68,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214547,
+      "rating": null,
+      "url": "https://anilist.co/manga/214547"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8w2od5z",
@@ -78,10 +99,18 @@
   },
   "tag_ids": [
     43,
+    59,
+    231,
+    108,
     36,
     46,
     41,
-    9
+    359,
+    403,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -89,16 +118,17 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 0.1498,
+    "fanFavouriteDiscoveryScore": 5.0801,
+    "fanFavouriteDiscoveryPercentile": 0.1498
   },
   "context": {
     "primaryProfile": "euro-fantasy",
     "profileGroups": [
       "euro-fantasy",
       "euro-romance",
-      "modern-korea",
       "romance-core"
     ],
     "primaryAnchors": [
@@ -113,10 +143,12 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [],
       "tone": [
+        "tense",
         "warm"
       ],
       "worldType": [
@@ -132,76 +164,89 @@
       "marriage",
       "unrequited",
       "love",
-      "imperial",
-      "decree",
+      "jjaksaranggwa",
+      "jeongnyakgyeolhon",
+      "haetdeoni",
+      "before",
+      "knew",
       "irene",
-      "unexpectedly",
-      "ends",
-      "marrying",
+      "found",
+      "herself",
+      "married",
       "felix",
-      "man",
-      "always",
+      "whom",
+      "secretly",
       "admired",
       "afar",
+      "royal",
+      "decree",
       "although",
-      "merely",
-      "political",
+      "convenience",
       "treated",
       "great",
       "respect",
-      "incredibly",
-      "satisfied",
-      "union",
-      "certain"
+      "very",
+      "happy"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Female Lead",
+        "Infidelity",
+        "Heterosexual",
         "Fantasy",
         "Adult",
         "Smut",
-        "Romance"
+        "Arranged Marriage",
+        "Betrayal",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "arranged",
         "marriage",
         "unrequited",
         "love",
-        "arranged",
-        "marriage",
-        "unrequited",
-        "love"
+        "jjaksaranggwa",
+        "jeongnyakgyeolhon",
+        "haetdeoni",
+        "jjaksaranggwa",
+        "jeongnyakgyeolhon",
+        "haetdeoni"
       ],
       "descriptionTerms": [
-        "imperial",
-        "decree",
+        "before",
+        "knew",
         "irene",
-        "unexpectedly",
-        "ends",
-        "marrying",
+        "found",
+        "herself",
+        "married",
         "felix",
-        "man",
-        "always",
+        "whom",
+        "secretly",
         "admired",
         "afar",
+        "royal",
+        "decree",
         "although",
-        "merely",
-        "political",
         "marriage",
+        "convenience",
         "felix",
         "treated",
         "great",
         "respect",
         "irene",
-        "incredibly",
-        "satisfied",
-        "union",
-        "certain"
+        "very",
+        "happy",
+        "marriage"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.71
   }
 }

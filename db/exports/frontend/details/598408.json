@@ -111,7 +111,7 @@
   },
   "first_seen_at": "2026-07-26T04:21:17.555Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T23:54:59.663Z",
+  "last_updated_at": "2026-07-29T23:55:18.399Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -129,7 +129,7 @@
   "source": {
     "anilist": {
       "id": 214453,
-      "rating": 74,
+      "rating": 75,
       "url": "https://anilist.co/manga/214453"
     },
     "animeplanet": null,
@@ -140,30 +140,34 @@
     }
   },
   "tag_ids": [
+    38,
     58,
     107,
     20,
     36,
     94,
+    22,
     252,
     39,
+    6,
     341,
     42,
+    5,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 705,
-    "favourites": 7,
-    "meanScore": 74
+    "popularity": 842,
+    "favourites": 8,
+    "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9929,
-    "fanRatioPercentile": 44.2012,
-    "popularityPercentile": 75.3805,
-    "fanFavouriteDiscoveryScore": 43.7678,
-    "fanFavouriteDiscoveryPercentile": 49.6739
+    "fanFavouriteRaw": 0.9501,
+    "fanRatioPercentile": 43.1268,
+    "popularityPercentile": 78.1781,
+    "fanFavouriteDiscoveryScore": 42.7912,
+    "fanFavouriteDiscoveryPercentile": 48.2583
   },
   "context": {
     "primaryProfile": "game-system",
@@ -189,6 +193,7 @@
       "conflictType": [],
       "progressionType": [],
       "tone": [
+        "comedic",
         "warm"
       ],
       "worldType": [
@@ -230,15 +235,19 @@
     ],
     "evidence": {
       "tags": [
+        "Shounen",
         "Male Lead",
         "School",
         "Harem",
         "Fantasy",
         "Isekai",
+        "Supernatural",
         "Vampires",
         "Action",
+        "Comedy",
         "Guns",
         "School Life",
+        "Tragedy",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -286,6 +295,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.7
+    "confidence": 0.74
   }
 }

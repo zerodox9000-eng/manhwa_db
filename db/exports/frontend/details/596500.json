@@ -3,22 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Do Not Pick Up Strangers Carelessly",
-  "mangabaka_title": "Do Not Pick Up Strangers Carelessly",
-  "native_title": "[더티톡 단편선] 함부로 남줍하지 말 것",
-  "romanized_title": null,
+  "mangabaka_title": "Hamburo Namjupaji Mal Geot",
+  "native_title": "함부로 남줍하지 말 것",
+  "romanized_title": "[Deotitong Danpyeonseon] Hamburo Namjupaji Mal Geot",
   "titles": [
     {
       "language": "ko",
       "title": "함부로 남줍하지 말 것",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[더티톡 단편선] 함부로 남줍하지 말 것",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Deotitong Danpyeonseon] Hamburo Namjupaji Mal Geot",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -48,29 +57,38 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hamburo Namjupaji Mal Geot",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "\"Throw that thing away and use me instead.\"   \n\nHae-in, who went out to feed a stray cat, ends up picking up Moo-jin, a blood-soaked gangster. After he silently disappears, expensive items of unknown origin start piling up in Hae-in's rooftop apartment.   \n\n\"...Are you using my house as a warehouse for stolen goods?!\" \n\nWorried about being branded an accomplice and having her career ruined, she tries to soothe her extreme anxiety with obscene acts one night. And then, Cheon Moo-jin returns. At the exact moment she least wanted to be seen. \n\n\"If you were craving dick, you should've just said so.\"\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5285002560)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyMzI1LmpwZw",
-  "total_chapters": null,
+  "description": "*Note: Part of Metatoon's Deotitong Danpyeonseon (더티톡 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU0NS1qSWlQbHVTbTJMZUouanBn",
+  "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-09",
+    "end_date": "2026-07-09",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-15T03:59:45.684Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T20:03:22.498Z",
+  "last_updated_at": "2026-07-29T23:46:16.303Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Chamisak",
-    "Sseun Eungeon"
+    "Mi-Sak Cha",
+    "Sseuneungeon"
   ],
   "artists": [
     "Metatoon",
@@ -82,7 +100,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214545,
+      "rating": null,
+      "url": "https://anilist.co/manga/214545"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ky8v929",
@@ -92,10 +114,14 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -103,30 +129,18 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 0.1498,
+    "fanFavouriteDiscoveryScore": 5.0801,
+    "fanFavouriteDiscoveryPercentile": 0.1498
   },
   "context": {
-    "primaryProfile": "korean-corporate-regression",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "business-career",
-      "business-career-regression",
-      "corporate-workplace",
-      "korean-business",
-      "korean-corporate-regression",
-      "modern-korea",
-      "modern-workplace",
-      "office-romance",
-      "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [
-      "business-career-regression",
-      "corporate-workplace",
-      "korean-business",
-      "korean-corporate-regression"
-    ],
+    "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
@@ -136,9 +150,7 @@
       "conflictType": [
         "romance"
       ],
-      "progressionType": [
-        "career-growth"
-      ],
+      "progressionType": [],
       "tone": [
         "warm"
       ],
@@ -147,81 +159,61 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "korean-corporate-regression",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "pick",
       "strangers",
       "carelessly",
-      "throw",
-      "thing",
-      "away",
-      "use",
-      "instead",
-      "hae-in",
-      "went",
-      "feed",
-      "stray",
-      "cat",
-      "ends",
-      "picking",
-      "moo-jin",
-      "blood-soaked",
-      "gangster",
-      "silently",
-      "disappears",
-      "expensive",
-      "items",
-      "unknown",
-      "origin",
-      "start",
-      "piling"
+      "hamburo",
+      "namjupaji",
+      "mal",
+      "geot",
+      "deotitong",
+      "danpyeonseon",
+      "note",
+      "part",
+      "metatoon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Heterosexual",
         "Adult",
         "Smut",
         "Drama",
-        "Romance"
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "pick",
         "strangers",
         "carelessly",
-        "pick",
-        "strangers",
-        "carelessly"
+        "hamburo",
+        "namjupaji",
+        "mal",
+        "geot",
+        "deotitong",
+        "danpyeonseon",
+        "hamburo",
+        "namjupaji",
+        "mal"
       ],
       "descriptionTerms": [
-        "throw",
-        "thing",
-        "away",
-        "use",
-        "instead",
-        "hae-in",
-        "went",
-        "feed",
-        "stray",
-        "cat",
-        "ends",
-        "picking",
-        "moo-jin",
-        "blood-soaked",
-        "gangster",
-        "silently",
-        "disappears",
-        "expensive",
-        "items",
-        "unknown",
-        "origin",
-        "start",
-        "piling",
-        "hae-in"
+        "note",
+        "part",
+        "metatoon",
+        "deotitong",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 1
+    "confidence": 0.44
   }
 }

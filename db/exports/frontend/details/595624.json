@@ -2,7 +2,7 @@
   "id": 595624,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Ate All My Classmates after Graduation",
+  "display_title": "I Banged All My Classmates After Graduation",
   "mangabaka_title": "Joreop Hu Ban Chingudeureul Da Ttameogeum",
   "native_title": "졸업 후 반 친구들을 다 따먹음",
   "romanized_title": "Joreop Hu Ban Chingudeureul Da Ttameogeum",
@@ -17,14 +17,14 @@
       "note": null
     },
     {
-      "language": "unknown",
+      "language": "en",
       "title": "After Graduating I Slept With All My Classmates",
       "traits": [],
       "is_primary": false,
       "note": null
     },
     {
-      "language": "unknown",
+      "language": "en",
       "title": "After Graduation, I Fucked All My Classmates",
       "traits": [],
       "is_primary": false,
@@ -34,14 +34,14 @@
       "language": "en",
       "title": "I Ate All My Classmates after Graduation",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
-      "language": "unknown",
+      "language": "en",
       "title": "I Banged All My Classmates After Graduation",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -54,7 +54,7 @@
       "note": null
     },
     {
-      "language": "unknown",
+      "language": "en",
       "title": "Slept With All Her Classmates After Graduation",
       "traits": [],
       "is_primary": false,
@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-29T01:33:32.277Z",
+  "last_updated_at": "2026-07-29T16:42:56.012Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,10 +94,14 @@
   "source": {
     "anilist": {
       "id": 213751,
-      "rating": 72,
+      "rating": 69,
       "url": "https://anilist.co/manga/213751"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-banged-all-my-classmates-after-graduation",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/i-banged-all-my-classmates-after-graduation"
+    },
     "mangaupdates": {
       "id": "lowtib5",
       "rating": 65,
@@ -109,6 +113,7 @@
     8,
     339,
     123,
+    74,
     107,
     265,
     20,
@@ -127,16 +132,16 @@
     428
   ],
   "stats": {
-    "popularity": 156,
-    "favourites": null,
-    "meanScore": 72
+    "popularity": 162,
+    "favourites": 1,
+    "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6141,
-    "popularityPercentile": 47.4923,
-    "fanFavouriteDiscoveryScore": 28.7097,
-    "fanFavouriteDiscoveryPercentile": 31.1418
+    "fanFavouriteRaw": 0.6173,
+    "fanRatioPercentile": 35.6881,
+    "popularityPercentile": 48.116,
+    "fanFavouriteDiscoveryScore": 32.5609,
+    "fanFavouriteDiscoveryPercentile": 35.5832
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -172,7 +177,7 @@
     },
     "semanticSummary": "romance-core / school",
     "searchKeywords": [
-      "ate",
+      "banged",
       "classmates",
       "graduation",
       "joreop",
@@ -209,6 +214,7 @@
         "Seinen",
         "MILF",
         "Big Breasts",
+        "Based on a Web Novel",
         "School",
         "Survival",
         "Harem",
@@ -227,7 +233,7 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "ate",
+        "banged",
         "classmates",
         "graduation",
         "joreop",
@@ -267,9 +273,10 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
-    "confidence": 0.62
+    "confidence": 0.63
   }
 }

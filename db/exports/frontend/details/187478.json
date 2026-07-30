@@ -134,7 +134,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-28T17:07:23.579Z",
+  "last_updated_at": "2026-07-29T13:59:29.601Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -178,6 +178,7 @@
     31,
     9,
     42,
+    424,
     93,
     57,
     428
@@ -189,19 +190,23 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2,
-    "fanRatioPercentile": 71.3247,
-    "popularityPercentile": 46.7801,
-    "fanFavouriteDiscoveryScore": 64.4103,
-    "fanFavouriteDiscoveryPercentile": 73.0939
+    "fanRatioPercentile": 71.3911,
+    "popularityPercentile": 46.775,
+    "fanFavouriteDiscoveryScore": 64.4677,
+    "fanFavouriteDiscoveryPercentile": 73.1141
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "romance-core",
       "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -227,7 +232,7 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea / school / reincarnation",
+    "semanticSummary": "euro-fantasy / modern-korea / school / reincarnation",
     "searchKeywords": [
       "strange",
       "atmosphere",
@@ -268,6 +273,7 @@
         "Drama",
         "Romance",
         "School Life",
+        "Medieval",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -316,6 +322,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.63
+    "confidence": 0.87
   }
 }

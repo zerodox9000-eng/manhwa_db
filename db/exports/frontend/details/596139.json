@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Essential Reading After Marriage",
-  "mangabaka_title": "Required Reading After Marriage",
-  "native_title": "[혼약 단편선] 혼인 후 필독서",
-  "romanized_title": null,
+  "mangabaka_title": "Honin Hu Pildokseo",
+  "native_title": "혼인 후 필독서",
+  "romanized_title": "Honin Hu Pildokseo",
   "titles": [
     {
       "language": "ko",
       "title": "혼인 후 필독서",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[혼약 단편선] 혼인 후 필독서",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -43,6 +45,22 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Honin Hu Pildokseo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Honyang Danpyeonseon] Honin Hu Pildokseo",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Must Read After Marriage",
       "traits": [],
@@ -64,29 +82,30 @@
       "note": null
     }
   ],
-  "description": "Hee-su, who sent her young husband off to the battlefield immediately after their wedding, spent five years living in solitude. One day, she discovers the existence of 'toys' that comfort lonely women through a novel known as the 'Required Reading After Marriage.' On the very day she secretly acquires one, her husband suddenly returns home. \n\n“Wife! It’s me, San. Gang San. Your husband.” \n\n“D-don’t come in! Ah!” \n\nHee-su is caught enjoying herself with the toy, leading them to finally face their true wedding night. \n\n“Just what kind of book did you read to be like this...? Ah!”\n\n“It must be one of those you enjoy reading.” \n\nGang San gently strokes her inner thighs to ease her tension. \n\n“Should I suckle, or should I touch you?” \n\n“My dear husband!” \n\nHee-su couldn't blame her young husband, who confessed he had studied up so he wouldn't seem inexperienced. The 'Required Reading After Marriage' was no longer just for women.\n\n[Original Webtoon](https://ridibooks.com/books/1632013344)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3JlcXVpcmVkLXJlYWRpbmctYWZ0ZXItbWFycmlhZ2UtMS53ZWJwP3Q9MTc4MzUzMTUzMA",
+  "description": "*Note: Part of Restoon's Honyang Danpyeonseon's (혼약 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU0NC1HS1hHenFONzRXbEMuanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-08",
+    "end_date": "2026-07-08",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-10T04:48:40.770Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-25T07:58:50.934Z",
+  "last_updated_at": "2026-07-29T23:46:16.162Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yoon Ah-Won"
+    "A-Won Yun",
+    "Hae-Rim"
   ],
   "artists": [
-    "Haerim"
+    "Hae-Rim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596139",
@@ -94,7 +113,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214544,
+      "rating": null,
+      "url": "https://anilist.co/manga/214544"
+    },
     "animeplanet": {
       "id": "required-reading-after-marriage",
       "rating": null,
@@ -109,6 +132,7 @@
   "tag_ids": [
     43,
     595,
+    108,
     46,
     41,
     6,
@@ -126,15 +150,16 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 0.1498,
+    "fanFavouriteDiscoveryScore": 5.0801,
+    "fanFavouriteDiscoveryPercentile": 0.1498
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
       "modern-korea",
-      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -166,33 +191,20 @@
       "essential",
       "reading",
       "marriage",
-      "required",
-      "hee-su",
-      "sent",
-      "husband",
-      "off",
-      "battlefield",
-      "immediately",
-      "wedding",
-      "spent",
-      "five",
-      "years",
-      "living",
-      "solitude",
-      "discovers",
-      "existence",
-      "toys",
-      "comfort",
-      "lonely",
-      "women",
-      "through",
-      "novel",
-      "known"
+      "honin",
+      "pildokseo",
+      "note",
+      "part",
+      "restoon",
+      "honyang",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Josei",
         "South Korea",
+        "Heterosexual",
         "Adult",
         "Smut",
         "Comedy",
@@ -208,41 +220,25 @@
         "essential",
         "reading",
         "marriage",
-        "required",
-        "reading",
-        "marriage"
+        "honin",
+        "pildokseo",
+        "honin",
+        "pildokseo"
       ],
       "descriptionTerms": [
-        "hee-su",
-        "sent",
-        "husband",
-        "off",
-        "battlefield",
-        "immediately",
-        "wedding",
-        "spent",
-        "five",
-        "years",
-        "living",
-        "solitude",
-        "discovers",
-        "existence",
-        "toys",
-        "comfort",
-        "lonely",
-        "women",
-        "through",
-        "novel",
-        "known",
-        "required",
-        "reading",
-        "marriage"
+        "note",
+        "part",
+        "restoon",
+        "honyang",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.61
+    "confidence": 0.55
   }
 }

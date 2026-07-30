@@ -2,7 +2,7 @@
   "id": 598536,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Young Hound and the Old Tiger",
+  "display_title": "The Young Hunting Dog and the Old Tiger",
   "mangabaka_title": "Eorin Sanyanggaewa Neulgeun Beom",
   "native_title": "어린 사냥개와 늙은 범",
   "romanized_title": "Eorin Sanyanggaewa Neulgeun Beom",
@@ -29,6 +29,13 @@
       "language": "en",
       "title": "The Young Hound and the Old Tiger",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Young Hunting Dog and the Old Tiger",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-07-28T03:59:03.930Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T22:12:47.610Z",
+  "last_updated_at": "2026-07-29T22:13:17.551Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,7 +76,11 @@
       "url": "https://anilist.co/manga/214489"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "wp72zri",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/wp72zri"
+    }
   },
   "tag_ids": [
     288,
@@ -77,7 +88,9 @@
     106,
     36,
     1,
+    46,
     180,
+    16,
     9,
     236,
     93,
@@ -85,16 +98,16 @@
     428
   ],
   "stats": {
-    "popularity": 1,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6141,
-    "popularityPercentile": 0.2174,
-    "fanFavouriteDiscoveryScore": 5.0995,
-    "fanFavouriteDiscoveryPercentile": 0.2174
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 1.3784,
+    "fanFavouriteDiscoveryScore": 5.532,
+    "fanFavouriteDiscoveryPercentile": 1.311
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -124,7 +137,8 @@
     },
     "semanticSummary": "romance-core",
     "searchKeywords": [
-      "hound",
+      "hunting",
+      "dog",
       "old",
       "tiger",
       "eorin",
@@ -161,7 +175,9 @@
         "Age Gap",
         "Fantasy",
         "Sci-Fi",
+        "Adult",
         "Boys Love",
+        "Yaoi",
         "Romance",
         "Super Powers",
         "Longstrip",
@@ -169,7 +185,8 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "hound",
+        "hunting",
+        "dog",
         "old",
         "tiger",
         "eorin",
@@ -208,9 +225,10 @@
         "finds"
       ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.46
+    "confidence": 0.48
   }
 }

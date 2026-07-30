@@ -2,7 +2,7 @@
   "id": 598585,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Yeonae Jeongong Saenaegiimnida",
+  "display_title": "I'm a Romance Major Freshman",
   "mangabaka_title": "Yeonae Jeongong Saenaegiimnida",
   "native_title": "연애 전공 새내기입니다",
   "romanized_title": "Yeonae Jeongong Saenaegiimnida",
@@ -17,6 +17,27 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "I Am a Freshman Majoring in Dating",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I'm a Romance Major Freshman",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "I'm New to Dating",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Yeonae Jeongong Saenaegiimnida",
       "traits": [
@@ -26,7 +47,7 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "Won Seung-oh, an outsider who completely ruined his college entrance exams, somehow enters the prestigious Seoul National University's Department of Romance alongside his arch-rival, Gyeon I-ji! The graduation requirement is simple: get married within exactly one year. Thus begins the agonizing and fierce struggle of Seung-oh, an absolute dating novice, trying to get married before the popular I-ji.\n\n**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852623), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14451654)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDUwNy1zb2ZEZVIwMjRzTDMuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +62,7 @@
   },
   "first_seen_at": "2026-07-29T04:04:17.862Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T13:11:04.614Z",
+  "last_updated_at": "2026-07-29T13:11:35.427Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,37 +83,49 @@
       "url": "https://anilist.co/manga/214507"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "o9ck6az",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/o9ck6az"
+    }
   },
   "tag_ids": [
+    43,
+    107,
     108,
     6,
     9,
+    42,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6141,
-    "popularityPercentile": 0.2174,
-    "fanFavouriteDiscoveryScore": 5.0995,
-    "fanFavouriteDiscoveryPercentile": 0.2174
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 2.7792,
+    "fanFavouriteDiscoveryScore": 6.0853,
+    "fanFavouriteDiscoveryPercentile": 2.5695
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "modern-korea",
     "profileGroups": [
-      "romance-core"
+      "modern-korea",
+      "romance-core",
+      "school-life"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -109,25 +142,54 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "modern-korea / modern-korea / school",
     "searchKeywords": [
+      "romance",
+      "major",
+      "freshman",
       "yeonae",
       "jeongong",
-      "saenaegiimnida"
+      "saenaegiimnida",
+      "won",
+      "seung-oh",
+      "outsider",
+      "completely",
+      "ruined",
+      "college",
+      "entrance",
+      "exams",
+      "somehow",
+      "enters",
+      "prestigious",
+      "seoul",
+      "national",
+      "university",
+      "department",
+      "alongside",
+      "arch-rival",
+      "gyeon",
+      "i-ji",
+      "graduation",
+      "requirement",
+      "simple",
+      "married"
     ],
     "evidence": {
       "tags": [
+        "Josei",
+        "School",
         "Heterosexual",
         "Comedy",
         "Romance",
+        "School Life",
         "Longstrip",
         "Full Color",
         "Web Comic"
       ],
       "titleTerms": [
-        "yeonae",
-        "jeongong",
-        "saenaegiimnida",
+        "romance",
+        "major",
+        "freshman",
         "yeonae",
         "jeongong",
         "saenaegiimnida",
@@ -135,11 +197,37 @@
         "jeongong",
         "saenaegiimnida"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "won",
+        "seung-oh",
+        "outsider",
+        "completely",
+        "ruined",
+        "college",
+        "entrance",
+        "exams",
+        "somehow",
+        "enters",
+        "prestigious",
+        "seoul",
+        "national",
+        "university",
+        "department",
+        "romance",
+        "alongside",
+        "arch-rival",
+        "gyeon",
+        "i-ji",
+        "graduation",
+        "requirement",
+        "simple",
+        "married"
+      ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.58
   }
 }

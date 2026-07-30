@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Push to Start",
-  "mangabaka_title": "Climax Training App: Humiliation Play Edition",
+  "mangabaka_title": "Jeoljeong Jogyo Eopeul: Suchipeul Pyeon",
   "native_title": "절정 조교 어플 - 수치플 편",
-  "romanized_title": null,
+  "romanized_title": "Jeoljeong Jogyo Eopeul: Suchipeul Pyeon",
   "titles": [
     {
       "language": "ko",
       "title": "절정 조교 어플 - 수치플 편",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Jeoljeong Jogyo Eopeul: Suchipeul Pyeon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Push to Start",
       "traits": [],
@@ -30,26 +41,26 @@
     }
   ],
   "description": "**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/3885037726), [MrBlue](https://www.mrblue.com/novel/E000141604), [Naver Series](https://series.naver.com/novel/detail.series?productNo=12403179)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/jogyoapp), [Naver Series](https://series.naver.com/novel/detail.series?productNo=12431532)\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/3885044303)\n\n**Official Translations:**  \nEnglish (Aug 11, Lezhin US)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIwMTA3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwOTc5Ny1jdFJvZ21kMnRCcFkuanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-03-22",
+    "end_date": "2026-03-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-29T00:41:58.656Z",
+  "last_updated_at": "2026-07-30T01:39:34.182Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kook Do",
-    "Minji"
+    "Gukdo",
+    "Min-Ji"
   ],
   "artists": [
     "Wangnya"
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 209797,
+      "rating": 80,
+      "url": "https://anilist.co/manga/209797"
+    },
     "animeplanet": {
       "id": "climax-training-app-humiliation-play-edition",
       "rating": null,
@@ -80,23 +95,29 @@
     41,
     180,
     16,
+    31,
+    9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 15,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 10.0607,
+    "fanFavouriteDiscoveryScore": 9.6197,
+    "fanFavouriteDiscoveryPercentile": 9.2966
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -107,25 +128,24 @@
       "conflictType": [
         "romance"
       ],
-      "progressionType": [
-        "martial-growth"
+      "progressionType": [],
+      "tone": [
+        "warm"
       ],
-      "tone": [],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "push",
       "start",
-      "climax",
-      "training",
-      "app",
-      "humiliation",
-      "play",
-      "edition",
+      "jeoljeong",
+      "jogyo",
+      "eopeul",
+      "suchipeul",
+      "pyeon",
       "original",
       "novel",
       "volumes"
@@ -139,6 +159,8 @@
         "Smut",
         "Boys Love",
         "Yaoi",
+        "Drama",
+        "Romance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -146,12 +168,16 @@
       "titleTerms": [
         "push",
         "start",
-        "climax",
-        "training",
-        "app",
-        "humiliation",
-        "play",
-        "edition"
+        "jeoljeong",
+        "jogyo",
+        "eopeul",
+        "suchipeul",
+        "pyeon",
+        "jeoljeong",
+        "jogyo",
+        "eopeul",
+        "suchipeul",
+        "pyeon"
       ],
       "descriptionTerms": [
         "original",
@@ -159,10 +185,11 @@
         "volumes"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.47
   }
 }

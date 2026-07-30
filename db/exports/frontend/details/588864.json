@@ -3,21 +3,23 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Subjugation",
-  "mangabaka_title": "Subjugation",
-  "native_title": "伐",
+  "mangabaka_title": "Beol",
+  "native_title": "벌(伐)",
   "romanized_title": "Beol",
   "titles": [
     {
       "language": "ko",
       "title": "벌",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Beol",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,7 +45,7 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "Yi Sun-sin: The Conqueror",
       "traits": [],
       "is_primary": false,
@@ -59,34 +61,36 @@
     {
       "language": "ko",
       "title": "벌(伐)",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "What if Admiral Yi Sun-sin had not died at the Battle of Noryang? \nYi Sun-sin is struck down by enemy fire at Noryang, but against all odds he survives, and the seven-year Imjin War finally comes to an end. However, King Seonjo feels a pathological jealousy and crushing sense of pressure toward Yi, who has become the people’s hero and the symbol of Joseon’s victory. In secret collusion with key figures of the Westerners faction, Seonjo has Yi Sun-sin secretly arrested, brands him a traitor, and sentences him to a brutal death. The male members of Yi’s family are executed or exiled, while the women are dragged off as government slaves and meet tragic ends. Yi Sun-sin is ultimately put to death by dismemberment inside an abandoned palace, and even his corpse is burned until nothing remains.\nYet, astonishingly, Yi Sun-sin suddenly finds himself sent back more than thirty years into the past, to his own youth. From that day on, he begins to move in secret: not only to stop the Japanese invaders who will one day ravage Joseon and massacre its people, but also to exact retribution on the future Seonjo who will annihilate him and his family. At the same time, he lays grand plans to conquer Japan, the Jurchen tribes, and even Ming China, and starts carrying them out one step at a time.\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69287048), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13999290), [Ridibooks](https://ridibooks.com/books/1746034488), [Bomtoon](https://www.bomtoon.com/detail/lss), [Lezhin](https://www.lezhin.com/ko/comic/punishment), [MrBlue](https://www.mrblue.com/webtoon/wt_000078619)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2NDM3LmpwZw",
+  "description": "What if Yi Sun-Sin hadn’t died at the Battle of Noryang? \n\nYi Sun-Sin is struck by enemy fire and falls during the Battle of Noryang, but after a series of twists and turns, he miraculously survives, and the seven-year Imjin War finally comes to an end. However, King Seon-Jo begins to feel pathological jealousy and extreme pressure toward Yi Sun-Sin, who has led the nation to victory in the war and emerged as a hero of the people. Eventually, King Seon-Jo colludes with key figures of the Seoin (Westerners) faction to secretly arrest Yi Sun-Sin, frame him as a traitor, and sentence him to capital punishment. The male members of Yi Sun-Sin’s family are either executed or exiled, while all the women are taken as government slaves and meet tragic fates. In the end, Yi Sun-Sin is secretly executed by being torn apart by horses (cheolyeol) within the abandoned palace, and even his remains are burned, leaving no trace. However, surprisingly, Yi Sun-Sin unexpectedly finds himself transported back to his youth, some 30 years earlier.\n\nFrom that day forward, Yi Sun-Sin devises a grand plan to stop the Japanese invaders who ravaged Joseon and massacred its people, to exact retribution on his future ancestors who had exterminated him and his family, and to conquer Japan, the Jurchen, and China and he begins to methodically put this plan into action. Will Yi Sun-Sin succeed in his campaigns against the south and then the north?\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDUxNy1KbTdwTThqN1dOQUguanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-19T01:25:45.622Z",
+  "last_updated_at": "2026-07-29T22:12:18.317Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jang Sei"
+    "Sei Jang"
   ],
   "artists": [
-    "Yoo Young-Seung"
+    "Yeong-Seung Yu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/588864",
@@ -94,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214517,
+      "rating": null,
+      "url": "https://anilist.co/manga/214517"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "rru7n49",
@@ -104,26 +112,38 @@
   },
   "tag_ids": [
     8,
+    58,
+    748,
     39,
     31,
-    45
+    45,
+    238,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 2.0376,
+    "fanFavouriteDiscoveryScore": 5.7873,
+    "fanFavouriteDiscoveryPercentile": 1.9028
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "business-career-regression",
     "profileGroups": [
-      "modern-korea"
+      "business-career-regression",
+      "modern-korea",
+      "regression-return"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "business-career-regression"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
@@ -131,58 +151,65 @@
       ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "regression"
+      ],
       "conflictType": [],
       "progressionType": [],
       "tone": [],
       "worldType": [],
       "romanceRole": "none",
-      "regressionRole": "none",
+      "regressionRole": "major",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "business-career-regression / modern-korea / regression",
     "searchKeywords": [
       "subjugation",
       "beol",
       "what",
-      "admiral",
       "sun-sin",
+      "hadn",
       "died",
       "battle",
       "noryang",
       "struck",
       "enemy",
       "fire",
-      "against",
-      "odds",
+      "falls",
+      "during",
+      "series",
+      "twists",
+      "turns",
+      "miraculously",
       "survives",
       "seven-year",
       "imjin",
       "war",
       "finally",
-      "comes",
-      "end",
-      "however",
-      "king",
-      "seonjo",
-      "feels"
+      "comes"
     ],
     "evidence": {
       "tags": [
         "Seinen",
+        "Male Lead",
+        "Age Regression",
         "Action",
         "Drama",
-        "Historical"
+        "Historical",
+        "War",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "subjugation",
-        "subjugation",
+        "beol",
         "beol"
       ],
       "descriptionTerms": [
         "what",
-        "admiral",
         "sun-sin",
+        "hadn",
         "died",
         "battle",
         "noryang",
@@ -190,25 +217,26 @@
         "struck",
         "enemy",
         "fire",
+        "falls",
+        "during",
+        "battle",
         "noryang",
-        "against",
-        "odds",
+        "series",
+        "twists",
+        "turns",
+        "miraculously",
         "survives",
         "seven-year",
         "imjin",
         "war",
         "finally",
-        "comes",
-        "end",
-        "however",
-        "king",
-        "seonjo",
-        "feels"
+        "comes"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.68
   }
 }

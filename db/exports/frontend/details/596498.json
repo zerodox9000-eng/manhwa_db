@@ -5,20 +5,31 @@
   "display_title": "Quit Everything and Sell Coke",
   "mangabaka_title": "Quit Everything and Sell Coke",
   "native_title": "다 때려치고 콜라 팝니다",
-  "romanized_title": "I'm Quitting Everything and Selling Cola",
+  "romanized_title": "Da Ttaeryeochigo Cola Pamnida",
   "titles": [
     {
       "language": "ko",
       "title": "다 때려치고 콜라 팝니다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
+      "title": "Da Ttaeryeochigo Cola Pamnida",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "I'm Quitting Everything and Selling Cola",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,7 +40,7 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "Quitting Everything to Sell Cola",
       "traits": [],
       "is_primary": false,
@@ -51,7 +62,7 @@
   },
   "first_seen_at": "2026-07-15T03:59:45.684Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T20:03:22.436Z",
+  "last_updated_at": "2026-07-29T17:45:14.032Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -126,9 +137,9 @@
       "everything",
       "sell",
       "coke",
-      "quitting",
-      "selling",
+      "ttaeryeochigo",
       "cola",
+      "pamnida",
       "years",
       "since",
       "became",
@@ -160,10 +171,9 @@
         "everything",
         "sell",
         "coke",
-        "quitting",
-        "everything",
-        "selling",
-        "cola"
+        "ttaeryeochigo",
+        "cola",
+        "pamnida"
       ],
       "descriptionTerms": [
         "years",

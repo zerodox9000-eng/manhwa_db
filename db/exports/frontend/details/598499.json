@@ -5,7 +5,7 @@
   "display_title": "Mansaengjong",
   "mangabaka_title": "Mansaengjong",
   "native_title": "만생종",
-  "romanized_title": "Mansaengjong",
+  "romanized_title": "Late Bloomers (Rabong)",
   "titles": [
     {
       "language": "ko",
@@ -16,16 +16,23 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Late Bloomers (Rabong)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Mansaengjong",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nRIDI",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzODk1LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "One day, out of the blue, mutants appeared on Earth, and at the same time, the “late bloomers”—individuals who had awakened to these supernatural abilities—emerged.\n\nThey were all quarantined at the same time in a different dimension known as Naraka. Seowoon, the deputy guildmaster of the Fallen Angels (FA), was once regarded as one of the highest-ranking among the “late bloomers” due to his outstanding combat skills; however, after being quarantined in Naraka, he lost all his abilities. Instead, a “messenger” appeared in his mind, alerting him to the presence of mutants and impending danger.\n\nWhilst on the run, hiding the fact that he had lost his powers, Seowoon encounters Cahaya, a top-tier “late bloomer” whom he least wanted to face, and finds himself in a difficult situation as Cahaya keeps drawing closer to him.\n\n…Because he had been hiding his feelings for him ever since high school. *(Source: RIDI, translated)*\n\n**Original Webtoon:**  \n[R19](https://ridibooks.com/books/1746035749), [R15](https://ridibooks.com/books/1746035750)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MDI5LmpwZw",
+  "total_chapters": "1",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
@@ -37,11 +44,12 @@
   },
   "first_seen_at": "2026-07-28T03:59:03.929Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T08:14:31.609Z",
+  "last_updated_at": "2026-07-29T09:13:59.941Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Chepali",
+    "Dami",
     "Galpil"
   ],
   "artists": [
@@ -78,35 +86,65 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "game-system",
     "profileGroups": [
-      "modern-korea"
+      "game-system",
+      "modern-korea",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "game-system"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "school"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "system"
+      ],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "power-growth"
+      ],
       "tone": [],
       "worldType": [
         "fantasy-world"
       ],
       "romanceRole": "none",
       "regressionRole": "none",
-      "systemRole": "none"
+      "systemRole": "major"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "game-system / school / system",
     "searchKeywords": [
       "mansaengjong",
-      "original",
-      "webtoon",
-      "ridi"
+      "late",
+      "bloomers",
+      "rabong",
+      "blue",
+      "mutants",
+      "appeared",
+      "earth",
+      "same",
+      "time",
+      "individuals",
+      "awakened",
+      "these",
+      "supernatural",
+      "abilities",
+      "emerged",
+      "were",
+      "quarantined",
+      "different",
+      "dimension",
+      "known",
+      "naraka",
+      "seowoon",
+      "deputy"
     ],
     "evidence": {
       "tags": [
@@ -118,17 +156,40 @@
       "titleTerms": [
         "mansaengjong",
         "mansaengjong",
-        "mansaengjong"
+        "late",
+        "bloomers",
+        "rabong"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "ridi"
+        "blue",
+        "mutants",
+        "appeared",
+        "earth",
+        "same",
+        "time",
+        "late",
+        "bloomers",
+        "individuals",
+        "awakened",
+        "these",
+        "supernatural",
+        "abilities",
+        "emerged",
+        "were",
+        "quarantined",
+        "same",
+        "time",
+        "different",
+        "dimension",
+        "known",
+        "naraka",
+        "seowoon",
+        "deputy"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.62
   }
 }

@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-29T03:13:13.905Z",
+  "last_updated_at": "2026-07-30T03:13:17.396Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,12 +69,19 @@
       "url": "https://anilist.co/manga/214429"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "k4ezluo",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/k4ezluo"
+    }
   },
   "tag_ids": [
     22,
+    46,
+    41,
     229,
     180,
+    16,
     31,
     9,
     93,
@@ -82,16 +89,16 @@
     428
   ],
   "stats": {
-    "popularity": 4,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6141,
-    "popularityPercentile": 1.4094,
-    "fanFavouriteDiscoveryScore": 5.5388,
-    "fanFavouriteDiscoveryPercentile": 1.3419
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 2.0376,
+    "fanFavouriteDiscoveryScore": 5.7873,
+    "fanFavouriteDiscoveryPercentile": 1.9028
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -158,8 +165,11 @@
     "evidence": {
       "tags": [
         "Supernatural",
+        "Adult",
+        "Smut",
         "Ghosts",
         "Boys Love",
+        "Yaoi",
         "Drama",
         "Romance",
         "Longstrip",
@@ -207,9 +217,10 @@
         "locked"
       ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.66
+    "confidence": 0.69
   }
 }

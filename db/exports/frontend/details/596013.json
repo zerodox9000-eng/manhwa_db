@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-07-08T04:08:35.871Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-29T00:16:23.224Z",
+  "last_updated_at": "2026-07-30T00:07:17.761Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -91,6 +91,7 @@
   },
   "tag_ids": [
     43,
+    126,
     108,
     22,
     46,
@@ -101,20 +102,21 @@
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6141,
-    "popularityPercentile": 0.2174,
-    "fanFavouriteDiscoveryScore": 5.0995,
-    "fanFavouriteDiscoveryPercentile": 0.2174
+    "fanRatioPercentile": 31.6428,
+    "popularityPercentile": 0.412,
+    "fanFavouriteDiscoveryScore": 5.174,
+    "fanFavouriteDiscoveryPercentile": 0.4045
   },
   "context": {
-    "primaryProfile": "romance-core",
+    "primaryProfile": "regression-return",
     "profileGroups": [
+      "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [],
@@ -123,7 +125,9 @@
       "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
-      "premiseMechanic": [],
+      "premiseMechanic": [
+        "reincarnation"
+      ],
       "conflictType": [
         "romance"
       ],
@@ -133,10 +137,10 @@
       ],
       "worldType": [],
       "romanceRole": "major",
-      "regressionRole": "none",
+      "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "romance-core",
+    "semanticSummary": "regression-return / reincarnation",
     "searchKeywords": [
       "dolsoega",
       "doeeo",
@@ -168,6 +172,7 @@
     "evidence": {
       "tags": [
         "Josei",
+        "Reincarnation",
         "Heterosexual",
         "Supernatural",
         "Adult",
@@ -217,6 +222,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.44
+    "confidence": 0.52
   }
 }
