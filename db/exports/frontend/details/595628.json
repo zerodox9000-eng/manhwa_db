@@ -2,7 +2,7 @@
   "id": 595628,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Jabonjuui Harem",
+  "display_title": "Capitalist Harem",
   "mangabaka_title": "Jabonjuui Harem",
   "native_title": "자본주의 하렘",
   "romanized_title": "Jabonjuui Harem",
@@ -17,6 +17,20 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Capitalism Harem",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Capitalist Harem",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Jabonjuui Harem",
       "traits": [
@@ -26,10 +40,10 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "Cheol-su, a crypto investor who had only ever hit rock bottom lives a life filled with nothing but despair. His life is thrown out of the window by an unexpected special connection with a woman. As they together reach for even more money, the two find themselves standing before an irreversible choice.\n\n(Source: TOPTOON, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxMzgwMC1lUU1veUhBRjBhZVQuanBn",
-  "total_chapters": null,
-  "status": "upcoming",
+  "total_chapters": "6",
+  "status": "releasing",
   "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
@@ -41,7 +55,7 @@
   },
   "first_seen_at": "2026-07-03T04:39:48.820Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-29T17:42:17.166Z",
+  "last_updated_at": "2026-07-30T17:44:27.784Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,30 +76,43 @@
       "url": "https://anilist.co/manga/213800"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "vpj71yv",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/vpj71yv"
+    }
   },
   "tag_ids": [
+    8,
+    20,
+    46,
     10,
+    15,
+    41,
     109,
+    31,
+    9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 37,
+    "popularity": 38,
     "favourites": 3,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": 8.1081,
-    "fanRatioPercentile": 99.0636,
-    "popularityPercentile": 22.3537,
-    "fanFavouriteDiscoveryScore": 54.374,
-    "fanFavouriteDiscoveryPercentile": 62.514
+    "fanFavouriteRaw": 7.8947,
+    "fanRatioPercentile": 99.0193,
+    "popularityPercentile": 22.8103,
+    "fanFavouriteDiscoveryScore": 55.2807,
+    "fanFavouriteDiscoveryPercentile": 63.2954
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "romance-core",
+    "profileGroups": [
+      "romance-core"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
@@ -93,40 +120,102 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
+      "capitalist",
+      "harem",
       "jabonjuui",
-      "harem"
+      "cheol-su",
+      "crypto",
+      "investor",
+      "ever",
+      "hit",
+      "rock",
+      "bottom",
+      "lives",
+      "filled",
+      "nothing",
+      "despair",
+      "thrown",
+      "window",
+      "unexpected",
+      "special",
+      "connection",
+      "woman",
+      "together",
+      "reach",
+      "even",
+      "money",
+      "two",
+      "find",
+      "themselves"
     ],
     "evidence": {
       "tags": [
+        "Seinen",
+        "Harem",
+        "Adult",
         "Hentai",
+        "Mature",
+        "Smut",
         "Nudity",
+        "Drama",
+        "Romance",
         "Longstrip",
         "Full Color",
         "Web Comic"
       ],
       "titleTerms": [
-        "jabonjuui",
+        "capitalist",
         "harem",
         "jabonjuui",
         "harem",
         "jabonjuui",
         "harem"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "cheol-su",
+        "crypto",
+        "investor",
+        "ever",
+        "hit",
+        "rock",
+        "bottom",
+        "lives",
+        "filled",
+        "nothing",
+        "despair",
+        "thrown",
+        "window",
+        "unexpected",
+        "special",
+        "connection",
+        "woman",
+        "together",
+        "reach",
+        "even",
+        "money",
+        "two",
+        "find",
+        "themselves"
+      ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.33
+    "confidence": 0.47
   }
 }

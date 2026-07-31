@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Upon My Sword",
   "mangabaka_title": "Upon My Sword",
-  "native_title": null,
+  "native_title": "기사단장의 의무",
   "romanized_title": null,
   "titles": [
     {
@@ -22,7 +22,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nLezhin, Bomtoon\n\n**Official Translations:**  \nEnglish, Spanish, French, German, T.Chinese, Thai, Japanese\n\n##### Note: All official translations are uncensored, except for Japanese. This series is a global release, meaning all official translations come out on the same day as the original Korean.",
+  "description": "**Original Webtoon:**  \nLezhin, Bomtoon\n\n**Official Translations:**  \nEnglish",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MDk1LnBuZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,7 +37,7 @@
   },
   "first_seen_at": "2026-07-30T03:55:02.286Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-29T05:11:13.786Z",
+  "last_updated_at": "2026-07-30T06:09:57.338Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [],
@@ -57,6 +57,7 @@
     }
   },
   "tag_ids": [
+    36,
     46,
     41,
     16
@@ -79,9 +80,7 @@
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
@@ -92,12 +91,14 @@
         "martial-growth"
       ],
       "tone": [],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea",
     "searchKeywords": [
       "upon",
       "sword",
@@ -107,23 +108,11 @@
       "bomtoon",
       "official",
       "translations",
-      "english",
-      "spanish",
-      "french",
-      "german",
-      "chinese",
-      "thai",
-      "japanese",
-      "note",
-      "uncensored",
-      "except",
-      "series",
-      "global",
-      "release",
-      "meaning"
+      "english"
     ],
     "evidence": {
       "tags": [
+        "Fantasy",
         "Adult",
         "Smut",
         "Yaoi"
@@ -141,29 +130,12 @@
         "bomtoon",
         "official",
         "translations",
-        "english",
-        "spanish",
-        "french",
-        "german",
-        "chinese",
-        "thai",
-        "japanese",
-        "note",
-        "official",
-        "translations",
-        "uncensored",
-        "except",
-        "japanese",
-        "series",
-        "global",
-        "release",
-        "meaning",
-        "official"
+        "english"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.38
+    "confidence": 0.39
   }
 }

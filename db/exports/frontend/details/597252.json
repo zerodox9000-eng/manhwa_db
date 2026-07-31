@@ -2,15 +2,26 @@
   "id": 597252,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Hong Eun-Young's Egyptian Mythology",
-  "mangabaka_title": "Hong Eun-Young's Egyptian Mythology",
+  "display_title": "Hongeunyeongui Egypt Sinhwa",
+  "mangabaka_title": "Hongeunyeongui Egypt Sinhwa",
   "native_title": "홍은영의 이집트 신화",
-  "romanized_title": "Hong Eun-Young's Egyptian Mythology",
+  "romanized_title": "Hongeunyeongui Egypt Sinhwa",
   "titles": [
     {
       "language": "ko",
       "title": "홍은영의 이집트 신화",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hongeunyeongui Egypt Sinhwa",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,33 +29,33 @@
       "language": "ko-Latn",
       "title": "Hong Eun-Young's Egyptian Mythology",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853034), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14491201)\n\nBeneath the sun, which burns flesh to give life, and the Nile River, which swallows the earth and carries life, the Egyptians viewed the world as divided into chaos and order. Ra, the sun god, kills chaos and establishes order upon its blood; however, the order built upon blood becomes a yoke that binds Ra himself, and the thrones of the gods following beneath that order become stained with strife and bloodshed. At the center of the order established by Ra, Maat, the goddess of order, asks him, “What is your order?”",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMjg1LmpwZw",
+  "description": "Beneath the sun, which burns flesh yet gives life, and the Nile River, which swallows the earth yet carries life, the Egyptians viewed the world as divided between chaos and order. Ra, the sun god, slays chaos and establishes order upon the blood of chaos, but the order built upon that blood becomes a yoke that binds Ra himself, and the throne of the gods, established under that order, is gradually stained with strife and blood. At the center of the order established by Ra, Ma’at, the goddess of order, asks Ra: \n\n *“What is your order?”*\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU3Ni0zOVJLUjFRRHNxS3AuanBn",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-28T18:54:58.383Z",
+  "last_updated_at": "2026-07-31T02:36:03.091Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jo Su-Hyun"
+    "Su-Hyeon Jo"
   ],
   "artists": [
-    "Hong Eun-Young"
+    "Eun-Yeong Hong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/597252",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214576,
+      "rating": null,
+      "url": "https://anilist.co/manga/214576"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "o20synt",
@@ -61,8 +76,15 @@
     }
   },
   "tag_ids": [
+    336,
     36,
-    31
+    259,
+    176,
+    39,
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,9 +92,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6814,
+    "popularityPercentile": 0.1348,
+    "fanFavouriteDiscoveryScore": 5.0809,
+    "fanFavouriteDiscoveryPercentile": 0.1348
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -102,20 +126,16 @@
     },
     "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
-      "hong",
-      "eun-young",
-      "egyptian",
-      "mythology",
-      "original",
-      "webtoon",
-      "naver",
-      "series",
+      "hongeunyeongui",
+      "egypt",
+      "sinhwa",
       "beneath",
       "sun",
       "which",
       "burns",
       "flesh",
-      "give",
+      "yet",
+      "gives",
       "nile",
       "river",
       "swallows",
@@ -124,58 +144,66 @@
       "egyptians",
       "viewed",
       "divided",
+      "between",
       "chaos",
-      "order"
+      "order",
+      "god",
+      "slays"
     ],
     "evidence": {
       "tags": [
+        "Foreign",
         "Fantasy",
-        "Drama"
+        "Mythology",
+        "Gods",
+        "Action",
+        "Drama",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "hong",
-        "eun-young",
-        "egyptian",
-        "mythology",
-        "hong",
-        "eun-young",
-        "egyptian",
-        "mythology",
-        "hong",
-        "eun-young",
-        "egyptian",
-        "mythology"
+        "hongeunyeongui",
+        "egypt",
+        "sinhwa",
+        "hongeunyeongui",
+        "egypt",
+        "sinhwa",
+        "hongeunyeongui",
+        "egypt",
+        "sinhwa"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series",
         "beneath",
         "sun",
         "which",
         "burns",
         "flesh",
-        "give",
+        "yet",
+        "gives",
         "nile",
         "river",
         "which",
         "swallows",
         "earth",
+        "yet",
         "carries",
         "egyptians",
         "viewed",
         "divided",
+        "between",
         "chaos",
         "order",
-        "sun"
+        "sun",
+        "god",
+        "slays",
+        "chaos"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.44
   }
 }

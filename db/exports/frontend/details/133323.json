@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.412Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-18T10:41:19.508Z",
+  "last_updated_at": "2026-07-30T04:36:18.717Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,12 +69,18 @@
       "url": "https://anilist.co/manga/134031"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "2t17mt1",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/2t17mt1"
+    }
   },
   "tag_ids": [
     22,
     229,
+    31,
     44,
+    32,
     19,
     57
   ],
@@ -85,10 +91,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6428,
-    "popularityPercentile": 32.9538,
-    "fanFavouriteDiscoveryScore": 23.6181,
-    "fanFavouriteDiscoveryPercentile": 26.1293
+    "fanRatioPercentile": 31.6814,
+    "popularityPercentile": 32.954,
+    "fanFavouriteDiscoveryScore": 23.647,
+    "fanFavouriteDiscoveryPercentile": 26.1491
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -137,7 +143,9 @@
       "tags": [
         "Supernatural",
         "Ghosts",
+        "Drama",
         "Horror",
+        "Mystery",
         "Thriller",
         "Full Color"
       ],
@@ -159,9 +167,10 @@
         "naver"
       ],
       "sourceFields": [
-        "anilist"
+        "anilist",
+        "mangaupdates"
       ]
     },
-    "confidence": 0.56
+    "confidence": 0.58
   }
 }

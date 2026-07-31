@@ -36,7 +36,7 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://series.naver.com/comic/detail.series?productNo=13706425)",
+  "description": "[Original Webtoon](https://series.naver.com/comic/detail.series?productNo=13706425) \n\nBaek Isaac is a popular YouTuber with 1 million subscribers. Just as he’s riding high on his wholesome public image, a devastating whistleblowing scandal erupts.\n\nThe incident escalates due to anti-fans' sensationalism, and the worst-case scenario unfolds as rumors of him being an exploitative employer spread, making it nearly impossible to hire a replacement. Amidst this, one person catches Isaac’s eye: Song Yudam, his longtime fan and an editor at a publishing house.\n\n“I want you to be my partner. I need a trustworthy employee to help me. No matter how much I think about it, you are the only one who can replace PD Park.”",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIwMjMzLmpwZw",
   "total_chapters": "18",
   "status": "unknown",
@@ -51,7 +51,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-29T04:00:28.108Z",
+  "last_updated_at": "2026-07-31T04:09:03.413Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,25 +94,38 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "horror-survival",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
       "horror-survival",
+      "korean-business",
       "modern-korea",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
     "primaryAnchors": [
-      "horror-survival"
+      "corporate-workplace",
+      "horror-survival",
+      "korean-business"
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
-      "protagonistRole": [],
+      "setting": [
+        "corporate-workplace"
+      ],
+      "protagonistRole": [
+        "employee"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -121,12 +134,34 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "horror-survival",
+    "semanticSummary": "corporate-workplace / corporate-workplace",
     "searchKeywords": [
       "friendly",
       "trash",
       "original",
-      "webtoon"
+      "webtoon",
+      "baek",
+      "isaac",
+      "popular",
+      "youtuber",
+      "million",
+      "subscribers",
+      "riding",
+      "high",
+      "wholesome",
+      "public",
+      "image",
+      "devastating",
+      "whistleblowing",
+      "scandal",
+      "erupts",
+      "incident",
+      "escalates",
+      "due",
+      "anti-fans",
+      "sensationalism",
+      "worst-case",
+      "scenario"
     ],
     "evidence": {
       "tags": [
@@ -145,12 +180,34 @@
       ],
       "descriptionTerms": [
         "original",
-        "webtoon"
+        "webtoon",
+        "baek",
+        "isaac",
+        "popular",
+        "youtuber",
+        "million",
+        "subscribers",
+        "riding",
+        "high",
+        "wholesome",
+        "public",
+        "image",
+        "devastating",
+        "whistleblowing",
+        "scandal",
+        "erupts",
+        "incident",
+        "escalates",
+        "due",
+        "anti-fans",
+        "sensationalism",
+        "worst-case",
+        "scenario"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.64
+    "confidence": 1
   }
 }

@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-29T16:06:27.045Z",
+  "last_updated_at": "2026-07-30T21:44:11.307Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -108,11 +108,13 @@
     },
     "mangaupdates": {
       "id": "taikv6z",
-      "rating": 68,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/taikv6z"
     }
   },
   "tag_ids": [
+    703,
+    337,
     1381,
     1393,
     1585,
@@ -137,32 +139,35 @@
     6,
     9,
     236,
+    267,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 1031,
+    "popularity": 1033,
     "favourites": 19,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 1.8429,
-    "fanRatioPercentile": 67.6905,
-    "popularityPercentile": 81.2046,
-    "fanFavouriteDiscoveryScore": 67.2804,
-    "fanFavouriteDiscoveryPercentile": 75.6087
+    "fanFavouriteRaw": 1.8393,
+    "fanRatioPercentile": 67.6598,
+    "popularityPercentile": 81.2172,
+    "fanFavouriteDiscoveryScore": 67.2504,
+    "fanFavouriteDiscoveryPercentile": 75.5502
   },
   "context": {
-    "primaryProfile": "game-system",
+    "primaryProfile": "murim-wuxia",
     "profileGroups": [
       "game-system",
       "modern-korea",
+      "murim-wuxia",
       "regression-return",
       "romance-core"
     ],
     "primaryAnchors": [
-      "game-system"
+      "game-system",
+      "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -181,7 +186,8 @@
         "romance"
       ],
       "progressionType": [
-        "power-growth"
+        "power-growth",
+        "martial-growth"
       ],
       "tone": [
         "comedic",
@@ -196,7 +202,7 @@
       "regressionRole": "minor",
       "systemRole": "minor"
     },
-    "semanticSummary": "game-system / modern-korea / reincarnation / hunter-system",
+    "semanticSummary": "murim-wuxia / modern-korea / reincarnation / hunter-system",
     "searchKeywords": [
       "creating",
       "hidden",
@@ -227,6 +233,8 @@
     ],
     "evidence": {
       "tags": [
+        "Archery",
+        "Swordplay",
         "Black-Haired Seme",
         "Brown-Haired Uke",
         "Rich Seme",
@@ -251,6 +259,7 @@
         "Comedy",
         "Romance",
         "Super Powers",
+        "Video Games",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -300,6 +309,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.89
+    "confidence": 1
   }
 }

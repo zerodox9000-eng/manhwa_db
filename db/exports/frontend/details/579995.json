@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-29T12:39:24.735Z",
+  "last_updated_at": "2026-07-30T21:53:00.438Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -120,10 +120,14 @@
       "rating": 72,
       "url": "https://anilist.co/manga/208362"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ogh-reboot",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ogh-reboot"
+    },
     "mangaupdates": {
       "id": "zuj486h",
-      "rating": 65,
+      "rating": 66,
       "url": "https://www.mangaupdates.com/series/zuj486h"
     }
   },
@@ -152,16 +156,16 @@
     428
   ],
   "stats": {
-    "popularity": 424,
+    "popularity": 427,
     "favourites": 4,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9434,
-    "fanRatioPercentile": 42.992,
-    "popularityPercentile": 66.2447,
-    "fanFavouriteDiscoveryScore": 42.0994,
-    "fanFavouriteDiscoveryPercentile": 47.4043
+    "fanFavouriteRaw": 0.9368,
+    "fanRatioPercentile": 42.8657,
+    "popularityPercentile": 66.3647,
+    "fanFavouriteDiscoveryScore": 41.9845,
+    "fanFavouriteDiscoveryPercentile": 47.2226
   },
   "context": {
     "primaryProfile": "romance-core",
@@ -267,7 +271,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.57

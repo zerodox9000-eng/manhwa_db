@@ -2,15 +2,26 @@
   "id": 598660,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Ultimate Class Master",
-  "mangabaka_title": "The Ultimate Class Master",
-  "native_title": "轉職至尊",
-  "romanized_title": null,
+  "display_title": "The Former Supreme",
+  "mangabaka_title": "Jeonjikjijon",
+  "native_title": "전직지존",
+  "romanized_title": "Jeonjikjijon",
   "titles": [
     {
       "language": "ko",
       "title": "전직지존",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jeonjikjijon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -32,14 +43,14 @@
       "language": "en",
       "title": "The Former Supreme",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "The Ultimate Class Master",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -50,30 +61,30 @@
       "note": null
     }
   ],
-  "description": "Baek Socheon, once the unrivaled master of the Jianghu, has been reduced to a mere administrative post in name only.\n\nThough he has lost both his martial arts and his honor, his spirit remains unbroken...\n\nStarting once more from rock bottom, the former supreme sets out to reclaim the power he lost and the time he left behind.\n\nThus begins the second martial legend of the man who was once the strongest.\n\n\n**Original Novel:**   \n[Chapters](https://series.naver.com/novel/detail.series?productNo=4771617), [Volumes](https://series.naver.com/novel/detail.series?productNo=5575226) \n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852845), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14476102)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MTUxLmpwZw",
-  "total_chapters": "3",
-  "status": "unknown",
+  "description": "Baek Socheon, once the unrivaled master of the Jianghu, has been reduced to a mere administrative post in name only. Though he has lost both his martial arts and his honor, his spirit remains unbroken... Starting once more from rock bottom, the former supreme sets out to reclaim the power he lost and the time he left behind. Thus begins the second martial legend of the man who was once the strongest.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU0MS1xN3Q2MEZVQWdOcWIuanBn",
+  "total_chapters": "8",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-29T22:01:20.333Z",
+  "last_updated_at": "2026-07-30T22:47:00.186Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jang Yeonghun",
-    "KHJ"
+    "KHJ",
+    "Yeong-Hun Jang"
   ],
   "artists": [
-    "Son Min"
+    "Sonmin"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598660",
@@ -81,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214541,
+      "rating": 70,
+      "url": "https://anilist.co/manga/214541"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "at4b5c2",
@@ -91,19 +106,23 @@
   },
   "tag_ids": [
     38,
+    36,
     39,
+    31,
     29,
     45
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 73,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6814,
+    "popularityPercentile": 34.047,
+    "fanFavouriteDiscoveryScore": 24.1808,
+    "fanFavouriteDiscoveryPercentile": 26.8378
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -124,19 +143,22 @@
         "martial-growth"
       ],
       "tone": [],
-      "worldType": [],
+      "worldType": [
+        "fantasy-world"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
     "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
-      "ultimate",
-      "class",
-      "master",
+      "former",
+      "supreme",
+      "jeonjikjijon",
       "baek",
       "socheon",
       "unrivaled",
+      "master",
       "jianghu",
       "reduced",
       "mere",
@@ -154,24 +176,22 @@
       "unbroken",
       "starting",
       "rock",
-      "bottom",
-      "former",
-      "supreme"
+      "bottom"
     ],
     "evidence": {
       "tags": [
         "Shounen",
+        "Fantasy",
         "Action",
+        "Drama",
         "Martial Arts",
         "Historical"
       ],
       "titleTerms": [
-        "ultimate",
-        "class",
-        "master",
-        "ultimate",
-        "class",
-        "master"
+        "former",
+        "supreme",
+        "jeonjikjijon",
+        "jeonjikjijon"
       ],
       "descriptionTerms": [
         "baek",
@@ -200,9 +220,10 @@
         "supreme"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.39
+    "confidence": 0.41
   }
 }
