@@ -3,13 +3,22 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Trash Villainess Has Returned",
-  "mangabaka_title": "The Trash Villainess Has Returned",
+  "mangabaka_title": "Mangnani Angnyeoga Dorawatda",
   "native_title": "망나니 악녀가 돌아왔다",
-  "romanized_title": null,
+  "romanized_title": "Mangnani Angnyeoga Dorawatda",
   "titles": [
     {
       "language": "ko",
       "title": "망나니 악녀가 돌아왔다",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Mangnani Angnyeoga Dorawatda",
       "traits": [
         "native"
       ],
@@ -53,7 +62,7 @@
     }
   ],
   "description": "I was sentenced to death and died.\n\n“To kill you as a villain would be a bit of a waste. How about it? I want to give you a chance.”\n\nNo, I thought I was dead. But was it because of what the enemy-like guy said just before I died?\n\n‘Geren, that son of a bitch…!’\n\nWhen I opened my eyes, it was ten years ago. And in a different world! Since I’ve come back to life, there’s nothing I can do. To avoid repeating the foolish past, I used that enemy-like guy as my wallet.\n\n“Give me everything from here to there.”  \n\n“You’re going to buy all of this?”\n\n“Well, I heard from my friends that my dear granddaughter likes shopping so much, and that you act cute, too.”  \n\n“It’s just because I need a wallet.  \n\nEven the once-broken family relationship was splendidly restored. The business of love, which I had once already given up on, had also started perfectly.\n\nIt was the perfect future I had hoped for… even to someone like me who thought I was incompetent, power awakened within me.  \n\n**[Original Novel](https://page.kakao.com/content/62730241/)**\n\n**Original Webtoon**  \n[Kakaopage](https://page.kakao.com/content/69760545/), [Daum](https://webtoon.kakao.com/content/%EB%A7%9D%EB%82%98%EB%8B%88-%EC%95%85%EB%85%80%EA%B0%80-%EB%8F%8C%EC%95%84%EC%99%94%EB%8B%A4/4912)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8zLzM0Nzc2NGwuanBn",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDYxNC1Ebk9DNWFIT1NmNTIuanBn",
   "total_chapters": "21",
   "status": "releasing",
   "content_rating": "safe",
@@ -67,15 +76,15 @@
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-30T18:39:27.989Z",
+  "last_updated_at": "2026-08-01T04:16:09.048Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hamal",
-    "Ja Eunhyang"
+    "Eun-Hyang Ja",
+    "Hamal"
   ],
   "artists": [
-    "ASIS"
+    "Asis"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596744",
@@ -83,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214614,
+      "rating": null,
+      "url": "https://anilist.co/manga/214614"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "svmuiu1",
@@ -105,9 +118,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 0.1496,
+    "fanFavouriteDiscoveryScore": 5.0889,
+    "fanFavouriteDiscoveryPercentile": 0.1496
   },
   "context": {
     "primaryProfile": "korean-corporate-regression",
@@ -162,6 +177,9 @@
       "trash",
       "villainess",
       "returned",
+      "mangnani",
+      "angnyeoga",
+      "dorawatda",
       "sentenced",
       "death",
       "died",
@@ -199,9 +217,12 @@
         "trash",
         "villainess",
         "returned",
-        "trash",
-        "villainess",
-        "returned"
+        "mangnani",
+        "angnyeoga",
+        "dorawatda",
+        "mangnani",
+        "angnyeoga",
+        "dorawatda"
       ],
       "descriptionTerms": [
         "sentenced",
@@ -230,6 +251,7 @@
         "eyes"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },

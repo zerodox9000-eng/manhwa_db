@@ -3,14 +3,32 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Black and Blue on the Third Floor",
-  "mangabaka_title": "Samcheung-eui Black and Blue",
+  "mangabaka_title": "3-cheungui Black and Blue",
   "native_title": "3층의 블랙 앤 블루",
-  "romanized_title": "Samcheung-eui Black and Blue",
+  "romanized_title": "3-cheungui Black and Blue",
   "titles": [
     {
       "language": "ko",
-      "title": "3층의 블랙 앤 블루",
+      "title": "[성비단] 3층의 블랙 앤 블루",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "3층의 블랙 앤 블루",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "3-cheungui Black and Blue",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -32,33 +50,33 @@
       "language": "ko-Latn",
       "title": "Samcheung-eui Black and Blue",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000076802)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3NhbWNoZXVuZy1ldWktYmxhY2stYW5kLWJsdWUtMS53ZWJwP3Q9MTc3OTY1NDY5NA",
-  "total_chapters": "6",
+  "description": "One summer day, Shin Ju-Seong, a civil engineering student, is asked by the landlord of the villa where he lives alone to fix up an old storage shed, and he ends up pushing himself to complete the repairs. Just as he’s starting to feel exhausted under the blazing sun, he looks up at the sound of laughter coming from somewhere and spots a beautiful woman on the third-floor balcony. Nam Cheong-Hwi, wearing a black polo shirt despite the sweltering heat and having asked Ju-Seong to fix a chair in his room, slowly approaches Ju-Seong as he enters his room and begins to seduce him with his body...\n\nWill Ju-Seong be able to love him peacefully, even though there’s something strangely off about him, more than just being a pretty Omega?\n\n(Source: MrBlue, translated)\n\n*Note: Includes one extra chapter.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDYwMy1SVFJNc1lMZWlDN3ouanBn",
+  "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-04-30",
+    "end_date": "2026-06-03",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-30T19:28:57.707Z",
+  "last_updated_at": "2026-07-31T20:46:30.964Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Dacto"
+    "Dakto"
   ],
   "artists": [
-    "Dacto"
+    "Dakto"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/587070",
@@ -66,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214603,
+      "rating": null,
+      "url": "https://anilist.co/manga/214603"
+    },
     "animeplanet": {
       "id": "samcheung-eui-black-and-blue",
       "rating": null,
@@ -83,6 +105,8 @@
     46,
     180,
     16,
+    31,
+    9,
     93,
     57,
     428
@@ -93,41 +117,79 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 0.1496,
+    "fanFavouriteDiscoveryScore": 5.0889,
+    "fanFavouriteDiscoveryPercentile": 0.1496
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "kingdom-management",
     "profileGroups": [
-      "modern-korea"
+      "engineering-builder",
+      "kingdom-management",
+      "romance-core",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "engineering-builder",
+      "kingdom-management"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
-      "protagonistRole": [],
-      "careerDomain": [],
+      "setting": [
+        "school"
+      ],
+      "protagonistRole": [
+        "builder"
+      ],
+      "careerDomain": [
+        "engineering"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "kingdom-management / school",
     "searchKeywords": [
       "black",
       "blue",
       "third",
       "floor",
-      "samcheung-eui",
-      "original",
-      "webtoon"
+      "3-cheungui",
+      "summer",
+      "shin",
+      "ju-seong",
+      "civil",
+      "engineering",
+      "student",
+      "asked",
+      "landlord",
+      "villa",
+      "lives",
+      "alone",
+      "fix",
+      "old",
+      "storage",
+      "shed",
+      "ends",
+      "pushing",
+      "himself",
+      "complete",
+      "repairs",
+      "starting",
+      "feel",
+      "exhausted",
+      "under"
     ],
     "evidence": {
       "tags": [
@@ -135,6 +197,8 @@
         "Adult",
         "Boys Love",
         "Yaoi",
+        "Drama",
+        "Romance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -144,22 +208,45 @@
         "blue",
         "third",
         "floor",
-        "samcheung-eui",
+        "3-cheungui",
         "black",
         "blue",
-        "samcheung-eui",
+        "3-cheungui",
         "black",
         "blue"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "summer",
+        "shin",
+        "ju-seong",
+        "civil",
+        "engineering",
+        "student",
+        "asked",
+        "landlord",
+        "villa",
+        "lives",
+        "alone",
+        "fix",
+        "old",
+        "storage",
+        "shed",
+        "ends",
+        "pushing",
+        "himself",
+        "complete",
+        "repairs",
+        "starting",
+        "feel",
+        "exhausted",
+        "under"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates",
         "animeplanet"
       ]
     },
-    "confidence": 0.42
+    "confidence": 0.83
   }
 }

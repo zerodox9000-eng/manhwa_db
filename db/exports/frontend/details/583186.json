@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Healing Agency",
-  "mangabaka_title": "Healing-samuso",
+  "mangabaka_title": "Healing Agency",
   "native_title": "힐링사무소",
   "romanized_title": "Healing-samuso",
   "titles": [
@@ -19,7 +19,9 @@
     {
       "language": "en",
       "title": "Healing Agency",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -33,12 +35,12 @@
       "note": null
     }
   ],
-  "description": "Sa Hyun-Woo is an employee at the “Healing Agency,” where he exorcises possessed individuals by fighting evil spirits with his bare hands in exchange for payment. While carrying out a job, he discovers a group of villains who are deliberately implanting evil spirits to plunge the world into chaos. Enraged by their tyranny, which destroys precious relationships, Sa Hyun-Woo embarks on a life-or-death struggle to uproot the source of this evil.\n\n(Source: Naver, translated)",
+  "description": "In a world where humans can be possessed by evil spirits, Hyeon-U works alongside Giram in an exorcism agency and quite literally beats the spirits out of people. Everything changes when he catches the attention of the Cascadic Church, which is trying to wreak havoc by unleashing evil spirits on the world. The Catholic order of Ordo reaches out to Hyeon-U, and now he must decide whether he’s willing to risk his life in order to stop the Cascadic Church.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzcvYS8xL2MvZS8zL2UvYWFlYy80YzdjL2JlMzMvZjY4ZTUyZWMwNmUy",
   "total_chapters": "23",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-03-23",
@@ -48,7 +50,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-30T14:43:29.611Z",
+  "last_updated_at": "2026-07-31T13:34:02.998Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,13 +61,15 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/583186",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10522",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=10522"
+    ]
   },
   "source": {
     "anilist": {
       "id": 209719,
-      "rating": 59,
+      "rating": 60,
       "url": "https://anilist.co/manga/209719"
     },
     "animeplanet": {
@@ -95,49 +99,37 @@
     428
   ],
   "stats": {
-    "popularity": 161,
+    "popularity": 166,
     "favourites": 2,
-    "meanScore": 59
+    "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2422,
-    "fanRatioPercentile": 51.2801,
-    "popularityPercentile": 48.0536,
-    "fanFavouriteDiscoveryScore": 46.7654,
-    "fanFavouriteDiscoveryPercentile": 55.5996
+    "fanFavouriteRaw": 1.2048,
+    "fanRatioPercentile": 50.3701,
+    "popularityPercentile": 48.568,
+    "fanFavouriteDiscoveryScore": 46.1059,
+    "fanFavouriteDiscoveryPercentile": 53.5108
   },
   "context": {
-    "primaryProfile": "corporate-workplace",
+    "primaryProfile": "horror-survival",
     "profileGroups": [
-      "business-career",
-      "corporate-workplace",
       "horror-survival",
-      "korean-business",
       "modern-korea",
-      "modern-workplace",
       "school-life"
     ],
     "primaryAnchors": [
-      "corporate-workplace",
-      "horror-survival",
-      "korean-business"
+      "horror-survival"
     ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea",
-        "corporate-workplace",
         "school"
       ],
-      "protagonistRole": [
-        "employee"
-      ],
+      "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [],
-      "progressionType": [
-        "career-growth"
-      ],
+      "progressionType": [],
       "tone": [],
       "worldType": [
         "fantasy-world"
@@ -146,31 +138,33 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
+    "semanticSummary": "horror-survival / school",
     "searchKeywords": [
       "healing",
       "agency",
       "healing-samuso",
-      "hyun-woo",
-      "employee",
-      "exorcises",
+      "humans",
       "possessed",
-      "individuals",
-      "fighting",
       "evil",
       "spirits",
-      "bare",
-      "hands",
-      "exchange",
-      "payment",
-      "while",
-      "carrying",
-      "job",
-      "discovers",
-      "group",
-      "villains",
-      "deliberately",
-      "implanting"
+      "hyeon-u",
+      "works",
+      "alongside",
+      "giram",
+      "exorcism",
+      "quite",
+      "literally",
+      "beats",
+      "people",
+      "everything",
+      "changes",
+      "catches",
+      "attention",
+      "cascadic",
+      "church",
+      "which",
+      "trying",
+      "wreak"
     ],
     "evidence": {
       "tags": [
@@ -191,41 +185,43 @@
       "titleTerms": [
         "healing",
         "agency",
-        "healing-samuso",
+        "healing",
+        "agency",
         "healing-samuso"
       ],
       "descriptionTerms": [
-        "hyun-woo",
-        "employee",
-        "healing",
-        "agency",
-        "exorcises",
+        "humans",
         "possessed",
-        "individuals",
-        "fighting",
         "evil",
         "spirits",
-        "bare",
-        "hands",
-        "exchange",
-        "payment",
-        "while",
-        "carrying",
-        "job",
-        "discovers",
-        "group",
-        "villains",
-        "deliberately",
-        "implanting",
-        "evil",
-        "spirits"
+        "hyeon-u",
+        "works",
+        "alongside",
+        "giram",
+        "exorcism",
+        "agency",
+        "quite",
+        "literally",
+        "beats",
+        "spirits",
+        "people",
+        "everything",
+        "changes",
+        "catches",
+        "attention",
+        "cascadic",
+        "church",
+        "which",
+        "trying",
+        "wreak"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 1
+    "confidence": 0.71
   }
 }

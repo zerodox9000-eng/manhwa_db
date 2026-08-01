@@ -2,8 +2,8 @@
   "id": 587494,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Record of Lodoss War: The Queen of the Dead",
-  "mangabaka_title": "Lodoss Jeongi: Saryeongui Yeowang",
+  "display_title": "Record of Lodoss War: Queen of Death",
+  "mangabaka_title": "Record of Lodoss War: Queen of Death",
   "native_title": "로도스도 전기 : 사령의 여왕",
   "romanized_title": "Lodoss Jeongi: Saryeongui Yeowang",
   "titles": [
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "Crónicas de Lodoss: La Reina de los Muertos",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -35,8 +42,10 @@
     {
       "language": "en",
       "title": "Record of Lodoss War: Queen of Death",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -50,16 +59,16 @@
       "language": "en",
       "title": "Record of Lodoss War: The Queen of the Dead",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Nectrella, a necromancer of Kastuul's bloodline, has taken his lover captive. To reclaim her, the berserker Thane throws himself into a desperate, life-or-death battle. \n\n(Source: Naver, translated)",
+  "description": "For rookie warrior Thane and the young priestess Seraphine, the fall of Kastuul on the Island of Lodoss was nothing more than a distant memory, until the night the sky bled red. When an army of ghouls descends upon their peaceful village, their fragile world is incinerated in a heartbeat. Aided by her underling, a powerful wraith seeks a vessel, and Seraphine’s pure soul makes her the ultimate prize. As the gravely injured Thane helplessly watches his love be taken away, he vows to avenge everyone he has lost. And thus, an epic struggle begins as ancient sorcery threatens to consume the living once more.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMjE4NC1xTFZjRXZqZ0IzS2YuanBn",
   "total_chapters": "15",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-05-08",
@@ -69,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-31T01:42:56.503Z",
+  "last_updated_at": "2026-07-31T16:34:53.415Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -81,8 +90,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/587494",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10482",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=10482"
+    ]
   },
   "source": {
     "anilist": {
@@ -110,75 +121,72 @@
     428
   ],
   "stats": {
-    "popularity": 46,
+    "popularity": 50,
     "favourites": null,
     "meanScore": 78
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6814,
-    "popularityPercentile": 25.8497,
-    "fanFavouriteDiscoveryScore": 19.627,
-    "fanFavouriteDiscoveryPercentile": 21.9644
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 27.3611,
+    "fanFavouriteDiscoveryScore": 20.5633,
+    "fanFavouriteDiscoveryPercentile": 22.9268
   },
   "context": {
     "primaryProfile": "modern-korea",
     "profileGroups": [
-      "modern-korea",
-      "romance-core"
+      "modern-korea"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
-      "protagonistRole": [
-        "system-player"
-      ],
+      "setting": [],
+      "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
       "progressionType": [],
-      "tone": [
-        "warm"
-      ],
+      "tone": [],
       "worldType": [
         "fantasy-world"
       ],
-      "romanceRole": "major",
+      "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "modern-korea",
     "searchKeywords": [
       "record",
       "lodoss",
       "war",
       "queen",
-      "dead",
+      "death",
       "jeongi",
-      "saryeongui",
-      "yeowang",
-      "nectrella",
-      "necromancer",
-      "kastuul",
-      "bloodline",
-      "taken",
-      "lover",
-      "captive",
-      "reclaim",
-      "berserker",
+      "rookie",
+      "warrior",
       "thane",
-      "throws",
-      "himself",
-      "desperate",
-      "life-or-death",
-      "battle",
-      "naver",
-      "translated"
+      "priestess",
+      "seraphine",
+      "fall",
+      "kastuul",
+      "island",
+      "nothing",
+      "than",
+      "distant",
+      "memory",
+      "until",
+      "night",
+      "sky",
+      "bled",
+      "red",
+      "army",
+      "ghouls",
+      "descends",
+      "upon",
+      "peaceful",
+      "village"
     ],
     "evidence": {
       "tags": [
@@ -194,40 +202,48 @@
         "lodoss",
         "war",
         "queen",
-        "dead",
+        "death",
+        "record",
         "lodoss",
-        "jeongi",
-        "saryeongui",
-        "yeowang",
+        "war",
+        "queen",
+        "death",
         "lodoss",
-        "jeongi",
-        "saryeongui"
+        "jeongi"
       ],
       "descriptionTerms": [
-        "nectrella",
-        "necromancer",
-        "kastuul",
-        "bloodline",
-        "taken",
-        "lover",
-        "captive",
-        "reclaim",
-        "berserker",
+        "rookie",
+        "warrior",
         "thane",
-        "throws",
-        "himself",
-        "desperate",
-        "life-or-death",
-        "battle",
-        "naver",
-        "translated"
+        "priestess",
+        "seraphine",
+        "fall",
+        "kastuul",
+        "island",
+        "lodoss",
+        "nothing",
+        "than",
+        "distant",
+        "memory",
+        "until",
+        "night",
+        "sky",
+        "bled",
+        "red",
+        "army",
+        "ghouls",
+        "descends",
+        "upon",
+        "peaceful",
+        "village"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.48
+    "confidence": 0.41
   }
 }

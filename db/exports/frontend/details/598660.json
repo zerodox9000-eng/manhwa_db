@@ -47,13 +47,6 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "The Ultimate Class Master",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "zh",
       "title": "轉職至尊",
       "traits": [],
@@ -76,7 +69,7 @@
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-30T22:47:00.186Z",
+  "last_updated_at": "2026-07-31T22:47:12.939Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +87,7 @@
   "source": {
     "anilist": {
       "id": 214541,
-      "rating": 70,
+      "rating": 64,
       "url": "https://anilist.co/manga/214541"
     },
     "animeplanet": null,
@@ -106,23 +99,27 @@
   },
   "tag_ids": [
     38,
+    58,
     36,
     39,
     31,
     29,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": 73,
+    "popularity": 192,
     "favourites": null,
-    "meanScore": 70
+    "meanScore": 64
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6814,
-    "popularityPercentile": 34.047,
-    "fanFavouriteDiscoveryScore": 24.1808,
-    "fanFavouriteDiscoveryPercentile": 26.8378
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 51.2675,
+    "fanFavouriteDiscoveryScore": 29.5181,
+    "fanFavouriteDiscoveryPercentile": 31.6758
   },
   "context": {
     "primaryProfile": "modern-korea",
@@ -181,11 +178,15 @@
     "evidence": {
       "tags": [
         "Shounen",
+        "Male Lead",
         "Fantasy",
         "Action",
         "Drama",
         "Martial Arts",
-        "Historical"
+        "Historical",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
         "former",
@@ -224,6 +225,6 @@
         "mangaupdates"
       ]
     },
-    "confidence": 0.41
+    "confidence": 0.45
   }
 }

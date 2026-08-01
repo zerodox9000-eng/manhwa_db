@@ -2,8 +2,8 @@
   "id": 580146,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Rental Brother Service",
-  "mangabaka_title": "Rental Hyeongje Service",
+  "display_title": "Brother For Hire",
+  "mangabaka_title": "Brother For Hire",
   "native_title": "렌탈 형제 서비스",
   "romanized_title": "Rental Hyeongje Service",
   "titles": [
@@ -12,6 +12,15 @@
       "title": "렌탈 형제 서비스",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Brother For Hire",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -27,7 +36,7 @@
       "language": "en",
       "title": "Rental Brother Service",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -54,6 +63,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Trash for Hire",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "兄弟レンタルサービス",
       "traits": [],
@@ -66,7 +82,7 @@
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-02-27",
@@ -76,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-30T11:42:28.895Z",
+  "last_updated_at": "2026-07-31T17:48:54.192Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -115,16 +131,16 @@
     428
   ],
   "stats": {
-    "popularity": 25,
+    "popularity": 26,
     "favourites": null,
     "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6814,
-    "popularityPercentile": 16.6492,
-    "fanFavouriteDiscoveryScore": 13.6433,
-    "fanFavouriteDiscoveryPercentile": 14.9049
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 17.2512,
+    "fanFavouriteDiscoveryScore": 14.0417,
+    "fanFavouriteDiscoveryPercentile": 15.3817
   },
   "context": {
     "primaryProfile": "showbiz-career",
@@ -155,10 +171,11 @@
     },
     "semanticSummary": "showbiz-career",
     "searchKeywords": [
-      "rental",
       "brother",
-      "service",
+      "hire",
+      "rental",
       "hyeongje",
+      "service",
       "heard",
       "were",
       "beta",
@@ -194,12 +211,10 @@
         "Web Comic"
       ],
       "titleTerms": [
-        "rental",
         "brother",
-        "service",
-        "rental",
-        "hyeongje",
-        "service",
+        "hire",
+        "brother",
+        "hire",
         "rental",
         "hyeongje",
         "service"

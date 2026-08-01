@@ -33,10 +33,10 @@
       "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU3My1yMFNRWWc0dTBpcTgucG5n",
+  "description": "A Boy Who Lost Everything Becomes the Wizard of the Wind.\n\nA world where spirits and magic coexist. Simon Hays is a boy born with a genius-level talent for magic, yet he grew up hiding his power due to his fate as the son of a family of warriors. One day, his father, Klein, attempts to kill Simon to satisfy his own greed, and Simon’s swordmaster, Rozette, and her daughter, Diana, fall to Klein’s blade. Having survived alone thanks to the sacrifice of his second older brother, Raidin, Simon abandons his former name and takes on the identity of “Ranian,” living as a mage and mercenary while tracking down Klein’s whereabouts. However, during his pursuit, he becomes entangled in incidents across the land, drawing closer to new truths connected to Klein, and survives by fighting alongside companions, each with their own stories. Ranian, who once lived solely for revenge, is forced to confront the meaning of life, power, and relationships anew through countless battles and choices.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU3My1BbFZzOU1WcmV4SWIucG5n",
   "total_chapters": null,
-  "status": "upcoming",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
@@ -48,13 +48,17 @@
   },
   "first_seen_at": "2026-07-31T04:15:25.825Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-31T01:46:04.620Z",
+  "last_updated_at": "2026-08-01T01:46:39.141Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Geun-U Kim"
+    "Geun-U Kim",
+    "Jun-Chang",
+    "Ort"
   ],
-  "artists": [],
+  "artists": [
+    "851"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/598758",
     "read_en": null,
@@ -75,33 +79,45 @@
     39,
     93,
     57,
-    428
+    428,
+    121
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 8,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6814,
-    "popularityPercentile": 0.1348,
-    "fanFavouriteDiscoveryScore": 5.0809,
-    "fanFavouriteDiscoveryPercentile": 0.1348
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 4.2848,
+    "fanFavouriteDiscoveryScore": 6.7376,
+    "fanFavouriteDiscoveryPercentile": 4.0081
   },
   "context": {
-    "primaryProfile": null,
-    "profileGroups": [],
+    "primaryProfile": "modern-korea",
+    "profileGroups": [
+      "modern-korea"
+    ],
     "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
-      "progressionType": [],
-      "tone": [],
+      "conflictType": [
+        "revenge"
+      ],
+      "progressionType": [
+        "power-growth",
+        "martial-growth"
+      ],
+      "tone": [
+        "tense"
+      ],
       "worldType": [
         "fantasy-world"
       ],
@@ -109,12 +125,33 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "",
+    "semanticSummary": "modern-korea / modern-korea",
     "searchKeywords": [
       "wind",
       "mage",
       "baramui",
-      "madosa"
+      "madosa",
+      "boy",
+      "lost",
+      "everything",
+      "becomes",
+      "wizard",
+      "spirits",
+      "magic",
+      "coexist",
+      "simon",
+      "hays",
+      "born",
+      "genius-level",
+      "talent",
+      "yet",
+      "grew",
+      "hiding",
+      "power",
+      "due",
+      "fate",
+      "son",
+      "family"
     ],
     "evidence": {
       "tags": [
@@ -123,7 +160,8 @@
         "Action",
         "Longstrip",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Magic"
       ],
       "titleTerms": [
         "wind",
@@ -133,11 +171,36 @@
         "baramui",
         "madosa"
       ],
-      "descriptionTerms": [],
+      "descriptionTerms": [
+        "boy",
+        "lost",
+        "everything",
+        "becomes",
+        "wizard",
+        "wind",
+        "spirits",
+        "magic",
+        "coexist",
+        "simon",
+        "hays",
+        "boy",
+        "born",
+        "genius-level",
+        "talent",
+        "magic",
+        "yet",
+        "grew",
+        "hiding",
+        "power",
+        "due",
+        "fate",
+        "son",
+        "family"
+      ],
       "sourceFields": [
         "anilist"
       ]
     },
-    "confidence": 0.34
+    "confidence": 0.42
   }
 }

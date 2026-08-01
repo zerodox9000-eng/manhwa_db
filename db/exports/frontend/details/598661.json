@@ -2,22 +2,33 @@
   "id": 598661,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Meongjub-eul Wihan Aegyeon Bible",
-  "mangabaka_title": "Meongjub-eul Wihan Aegyeon Bible",
-  "native_title": "[소유욕 단편선] 멍줍을 위한 애견 바이블",
-  "romanized_title": "Meongjub-eul Wihan Aegyeon Bible",
+  "display_title": "The Dog Bible for Rescuing Dogs",
+  "mangabaka_title": "Meongjubeul Wihan Aegyeon Baibeul",
+  "native_title": "멍줍을 위한 애견 바이블",
+  "romanized_title": "Meongjubeul Wihan Aegyeon Baibeul",
   "titles": [
     {
       "language": "ko",
       "title": "멍줍을 위한 애견 바이블",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[소유욕 단편선] 멍줍을 위한 애견 바이블",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Meongjubeul Wihan Aegyeon Baibeul",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,34 +36,49 @@
       "language": "ko-Latn",
       "title": "Meongjub-eul Wihan Aegyeon Bible",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Soyuyong Danpyeonseon] Meongjubeul Wihan Aegyeon Baibeul",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Dog Bible for Rescuing Dogs",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Novel:**  \n[RIDI](https://ridibooks.com/books/3822009567), [MrBlue](https://www.mrblue.com/novel/E000136596), [Bookcube](https://www.bookcube.com/detail.asp?series_num=925006002)\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/5285002616)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MTQwLmpwZw",
+  "description": "*Note: Part of Metatoon's Soyuyong Danpyeonseon (소유욕 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU2Mi1KWDZRRGhiS2dVa28uanBn",
   "total_chapters": "5",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-29",
+    "end_date": "2026-07-29",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-30T16:32:26.633Z",
+  "last_updated_at": "2026-07-31T19:42:05.090Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gamyeomkeom",
+    "Yeom-Keom Gam",
     "Z1NE"
   ],
   "artists": [
-    "Gosari"
+    "Metatoon",
+    "Sa-Ri Go"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598661",
@@ -60,7 +86,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214562,
+      "rating": null,
+      "url": "https://anilist.co/manga/214562"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "j2uajsn",
@@ -70,22 +100,30 @@
   },
   "tag_ids": [
     1,
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 0.845,
+    "fanFavouriteDiscoveryScore": 5.3413,
+    "fanFavouriteDiscoveryPercentile": 0.8076
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea"
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -98,58 +136,69 @@
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
-      "meongjub-eul",
+      "dog",
+      "bible",
+      "rescuing",
+      "dogs",
+      "meongjubeul",
       "wihan",
       "aegyeon",
-      "bible",
-      "original",
-      "novel",
-      "ridi",
-      "mrblue",
-      "bookcube",
-      "webtoon"
+      "baibeul",
+      "note",
+      "part",
+      "metatoon",
+      "soyuyong",
+      "danpyeonseon",
+      "collection"
     ],
     "evidence": {
       "tags": [
         "Sci-Fi",
-        "Yaoi"
+        "Boys Love",
+        "Yaoi",
+        "Drama",
+        "Romance",
+        "Longstrip",
+        "Full Color",
+        "Web Comic"
       ],
       "titleTerms": [
-        "meongjub-eul",
-        "wihan",
-        "aegyeon",
+        "dog",
         "bible",
-        "meongjub-eul",
+        "rescuing",
+        "dogs",
+        "meongjubeul",
         "wihan",
         "aegyeon",
-        "bible",
-        "meongjub-eul",
+        "baibeul",
+        "meongjubeul",
         "wihan",
         "aegyeon",
-        "bible"
+        "baibeul"
       ],
       "descriptionTerms": [
-        "original",
-        "novel",
-        "ridi",
-        "mrblue",
-        "bookcube",
-        "original",
-        "webtoon",
-        "ridi"
+        "note",
+        "part",
+        "metatoon",
+        "soyuyong",
+        "danpyeonseon",
+        "collection"
       ],
       "sourceFields": [
+        "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.37
+    "confidence": 0.43
   }
 }

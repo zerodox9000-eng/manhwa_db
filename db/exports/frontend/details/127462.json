@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.410Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-28T17:00:04.150Z",
+  "last_updated_at": "2026-08-01T03:56:13.754Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -105,16 +105,28 @@
     }
   },
   "tag_ids": [
+    1050,
+    2486,
+    449,
+    648,
     126,
+    1185,
     987,
+    1571,
+    406,
     36,
     22,
     423,
     180,
+    1947,
     23,
     16,
+    228,
     31,
+    127,
+    984,
     9,
+    994,
     93,
     57,
     428
@@ -126,21 +138,29 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6814,
-    "popularityPercentile": 41.623,
-    "fanFavouriteDiscoveryScore": 27.1947,
-    "fanFavouriteDiscoveryPercentile": 29.7874
+    "fanRatioPercentile": 31.6982,
+    "popularityPercentile": 41.6436,
+    "fanFavouriteDiscoveryScore": 27.2158,
+    "fanFavouriteDiscoveryPercentile": 29.7764
   },
   "context": {
-    "primaryProfile": "regression-return",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
+      "modern-korea",
       "regression-return",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea",
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
@@ -151,6 +171,7 @@
       ],
       "progressionType": [],
       "tone": [
+        "dark",
         "warm"
       ],
       "worldType": [
@@ -160,7 +181,7 @@
       "regressionRole": "minor",
       "systemRole": "none"
     },
-    "semanticSummary": "regression-return / reincarnation",
+    "semanticSummary": "euro-fantasy / modern-korea / kingdom-fantasy / reincarnation",
     "searchKeywords": [
       "wind",
       "beneath",
@@ -192,16 +213,28 @@
     ],
     "evidence": {
       "tags": [
+        "Possessive Seme",
+        "Nonhuman Male Lead",
+        "Flashbacks",
+        "Past Plays a Big Role",
         "Reincarnation",
+        "Heir",
         "Older Seme Younger Uke",
+        "Height Gap",
+        "Master-Servant Relationship",
         "Fantasy",
         "Supernatural",
         "Angels",
         "Boys Love",
+        "Korean Boys Love",
         "Shounen Ai",
         "Yaoi",
+        "Cohabitation",
         "Drama",
+        "Nobility",
+        "Reunion",
         "Romance",
+        "Traumatic Past",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -249,6 +282,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.55
+    "confidence": 0.96
   }
 }

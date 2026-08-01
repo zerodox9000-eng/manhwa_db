@@ -16,13 +16,20 @@
     },
     {
       "language": "en",
+      "title": "Wife-Sharing Diary",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Wife's Shared Log",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5700001176), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14473846), [MrBlue](https://www.mrblue.com/webtoon/wt_000080076)",
+  "description": "**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5700001176), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14473846), [MrBlue](https://www.mrblue.com/webtoon/wt_000080076) \nBy day, Jiyoon works as a florist, but at night, she transforms into a mysterious massage therapist. One evening, Hyunwoo—an acquaintance of her husband who knows the truth about her double life—appears as a client and begins a dangerous campaign of blackmail. To make matters worse, Taeyoon, her innocent part-time employee who is secretly in love with her, also becomes entangled in the secret. When her husband finally discovers the truth, he is consumed by madness. “Prove it in front of my own eyes. Show me who your body and heart truly belong to.” Under her husband’s watchful gaze, a destructive spiral begins, irreversibly entangling Jiyoon with three men",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MDgxLmpwZw",
   "total_chapters": null,
   "status": "unknown",
@@ -37,7 +44,7 @@
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-30T06:10:12.937Z",
+  "last_updated_at": "2026-07-31T06:20:04.934Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -78,29 +85,44 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
       "modern-korea",
+      "modern-workplace",
+      "office-romance",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace"
       ],
-      "protagonistRole": [],
+      "protagonistRole": [
+        "employee"
+      ],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
-      "progressionType": [],
+      "conflictType": [
+        "romance"
+      ],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [],
       "worldType": [],
       "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "wife",
       "shared",
@@ -110,7 +132,25 @@
       "ridibooks",
       "naver",
       "series",
-      "mrblue"
+      "mrblue",
+      "jiyoon",
+      "works",
+      "florist",
+      "night",
+      "transforms",
+      "mysterious",
+      "massage",
+      "therapist",
+      "evening",
+      "hyunwoo",
+      "acquaintance",
+      "husband",
+      "knows",
+      "truth",
+      "double",
+      "appears",
+      "client",
+      "begins"
     ],
     "evidence": {
       "tags": [
@@ -134,12 +174,30 @@
         "ridibooks",
         "naver",
         "series",
-        "mrblue"
+        "mrblue",
+        "jiyoon",
+        "works",
+        "florist",
+        "night",
+        "transforms",
+        "mysterious",
+        "massage",
+        "therapist",
+        "evening",
+        "hyunwoo",
+        "acquaintance",
+        "husband",
+        "knows",
+        "truth",
+        "double",
+        "appears",
+        "client",
+        "begins"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.47
+    "confidence": 1
   }
 }
