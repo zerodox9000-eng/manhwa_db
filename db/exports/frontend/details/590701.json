@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-18T05:29:51.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-31T10:54:37.919Z",
+  "last_updated_at": "2026-08-02T03:29:09.035Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -91,7 +91,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/213371"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "please-replenish-my-yang-energy",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/please-replenish-my-yang-energy"
+    },
     "mangaupdates": {
       "id": "0fzyc4k",
       "rating": 63,
@@ -111,16 +115,16 @@
     428
   ],
   "stats": {
-    "popularity": 22,
+    "popularity": 23,
     "favourites": null,
     "meanScore": 67
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6982,
-    "popularityPercentile": 14.9929,
-    "fanFavouriteDiscoveryScore": 12.5897,
-    "fanFavouriteDiscoveryPercentile": 13.5273
+    "fanRatioPercentile": 31.6769,
+    "popularityPercentile": 15.4835,
+    "fanFavouriteDiscoveryScore": 12.8925,
+    "fanFavouriteDiscoveryPercentile": 13.9142
   },
   "context": {
     "primaryProfile": "horror-survival",
@@ -234,7 +238,8 @@
       ],
       "sourceFields": [
         "anilist",
-        "mangaupdates"
+        "mangaupdates",
+        "animeplanet"
       ]
     },
     "confidence": 0.61

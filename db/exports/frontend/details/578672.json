@@ -2,8 +2,8 @@
   "id": 578672,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Between Your Letter and My Reply",
-  "mangabaka_title": "Dangsingwa Naui Dapjang Sai",
+  "display_title": "Between Your Reply and Mine",
+  "mangabaka_title": "Between Your Reply and Mine",
   "native_title": "당신과 나의 답장 사이",
   "romanized_title": "Dangsin gwa Na ui Dapjang Sai",
   "titles": [
@@ -27,14 +27,16 @@
       "language": "en",
       "title": "Between Your Letter and My Reply",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Between Your Reply and Mine",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -89,12 +91,12 @@
       "note": null
     }
   ],
-  "description": "Demian, a boy raised in an orphanage, discovers that his benefactor was actually his biological father. To escape the shadow of his father’s family, he throws himself into a foreign war.  \n\nOn the desolate battlefield—where he has no reason to survive, no goals to pursue—one day he receives a letter, gentle as a spring breeze:   \n“Hello, soldier whose name and face I do not know. I’m delighted that fate has connected us this way. I am a lady from a humble family living in the countryside with beautiful scenery. I’m not anyone remarkable, so I don’t have much to introduce myself with.”  \n\nThe noblewoman introduces herself as Lintrey. What begins as a chance pen pal relationship gradually becomes Demian’s only solace, and the woman beyond the letters becomes his first reason to want to live.  \n\nLater, Demian is discharged after an unexpected accident. He travels to the address from the letters to find his pen pal, but…  \n\n“That house burned down in a huge fire not long ago.”   \n“If the Lintrey you’re talking about is the maid from that house, then she’s dead.”   \n\nA burned mansion. Conflicting testimonies…  \nDid Lady Lintrey ever really exist, or was it all a lie from the beginning?  \n\nConfused and shaken, Demian clings to a faint hope that she cannot be dead and heads to the capital city of Nihiro to search for her.  \n\nWill Demian be able to meet Lintrey again in that place?\n\nAnd will he finally receive an answer to the words he never got to say?\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/68478110), [Daum](https://webtoon.kakao.com/content/%EB%8B%B9%EC%8B%A0%EA%B3%BC-%EB%82%98%EC%9D%98-%EB%8B%B5%EC%9E%A5-%EC%82%AC%EC%9D%B4/4766)\n\n**Official Translations:**    \n[Japanese](https://jp.piccoma.com/web/product/202137)",
+  "description": "To escape his family, Damian joins a brutal war expecting to die. But his grim reality shifts when he reluctantly enters a pen pal program. Amidst the rain of bullets, Lintrey’s cheerful and witty letters become his only sanctuary. When tragedy forces him off the battlefield, he goes searching for her, only to find her home burned to ashes and a village claiming she never existed. Will he ever find the woman who gave him a reason to live, or was she nothing more than a beautiful illusion?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9kLzMvZS9lLzgvYi8yLzkvOGFmMC80OWM3L2E3NjkvYmJkYmJmZjhmOWQ2",
   "total_chapters": "39",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-02-12",
@@ -104,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-31T17:09:41.031Z",
+  "last_updated_at": "2026-08-01T18:22:27.313Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -116,8 +118,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/578672",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://tapas.io/series/between-your-reply-and-mine/info",
+    "read_en_all": [
+      "https://tapas.io/series/between-your-reply-and-mine/info"
+    ]
   },
   "source": {
     "anilist": {
@@ -147,36 +151,28 @@
     428
   ],
   "stats": {
-    "popularity": 86,
+    "popularity": 90,
     "favourites": 2,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 2.3256,
-    "fanRatioPercentile": 77.9705,
-    "popularityPercentile": 36.7681,
-    "fanFavouriteDiscoveryScore": 62.5138,
-    "fanFavouriteDiscoveryPercentile": 70.5077
+    "fanFavouriteRaw": 2.2222,
+    "fanRatioPercentile": 76.1246,
+    "popularityPercentile": 37.528,
+    "fanFavouriteDiscoveryScore": 61.7854,
+    "fanFavouriteDiscoveryPercentile": 69.8027
   },
   "context": {
-    "primaryProfile": "showbiz-career",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea",
-      "romance-core",
-      "showbiz-career"
+      "romance-core"
     ],
-    "primaryAnchors": [
-      "showbiz-career"
-    ],
+    "primaryAnchors": [],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [
-        "modern-korea"
-      ],
+      "setting": [],
       "protagonistRole": [],
-      "careerDomain": [
-        "showbiz"
-      ],
+      "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
@@ -192,41 +188,40 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "showbiz-career / modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "between",
       "your",
-      "letter",
       "reply",
-      "dangsingwa",
-      "naui",
-      "dapjang",
-      "sai",
+      "mine",
       "dangsin",
       "gwa",
-      "demian",
-      "boy",
-      "raised",
-      "orphanage",
-      "discovers",
-      "benefactor",
-      "actually",
-      "biological",
-      "father",
+      "dapjang",
+      "sai",
       "escape",
-      "shadow",
       "family",
-      "throws",
-      "himself",
-      "foreign",
+      "damian",
+      "joins",
+      "brutal",
       "war",
-      "desolate",
-      "battlefield",
-      "reason",
-      "survive",
-      "goals",
-      "pursue",
-      "receives"
+      "expecting",
+      "die",
+      "grim",
+      "reality",
+      "shifts",
+      "reluctantly",
+      "enters",
+      "pen",
+      "pal",
+      "program",
+      "amidst",
+      "rain",
+      "bullets",
+      "lintrey",
+      "cheerful",
+      "witty",
+      "letters",
+      "become"
     ],
     "evidence": {
       "tags": [
@@ -242,49 +237,50 @@
       "titleTerms": [
         "between",
         "your",
-        "letter",
         "reply",
-        "dangsingwa",
-        "naui",
-        "dapjang",
-        "sai",
+        "mine",
+        "between",
+        "your",
+        "reply",
+        "mine",
         "dangsin",
         "gwa",
         "dapjang",
         "sai"
       ],
       "descriptionTerms": [
-        "demian",
-        "boy",
-        "raised",
-        "orphanage",
-        "discovers",
-        "benefactor",
-        "actually",
-        "biological",
-        "father",
         "escape",
-        "shadow",
-        "father",
         "family",
-        "throws",
-        "himself",
-        "foreign",
+        "damian",
+        "joins",
+        "brutal",
         "war",
-        "desolate",
-        "battlefield",
-        "reason",
-        "survive",
-        "goals",
-        "pursue",
-        "receives"
+        "expecting",
+        "die",
+        "grim",
+        "reality",
+        "shifts",
+        "reluctantly",
+        "enters",
+        "pen",
+        "pal",
+        "program",
+        "amidst",
+        "rain",
+        "bullets",
+        "lintrey",
+        "cheerful",
+        "witty",
+        "letters",
+        "become"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates",
-        "animeplanet"
+        "animeplanet",
+        "read-en"
       ]
     },
-    "confidence": 0.66
+    "confidence": 0.43
   }
 }

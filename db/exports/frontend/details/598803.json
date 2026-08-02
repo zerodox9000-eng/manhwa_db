@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Humiliating Night",
   "mangabaka_title": "Humiliating Night",
-  "native_title": null,
+  "native_title": "수치스러운 밤",
   "romanized_title": null,
   "titles": [
     {
@@ -16,14 +16,21 @@
     },
     {
       "language": "en",
+      "title": "A Shameful Night",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Humiliating Night",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/humiliating_night)",
-  "cover": null,
+  "description": "A once-famous livestreamer sees her career collapse after becoming embroiled in a sponsorship scandal, leaving her buried in debt and struggling to support her family. Then a mysterious billionaire offers an irresistible deal: host an adults-only broadcast in exchange for an immediate fortune. Desperate for a way out, she accepts only to discover that the seductive proposal comes with dangerous secrets and consequences far beyond her expectations.\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/humiliating_night)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0NDE1LmpwZw",
   "total_chapters": null,
   "status": "unknown",
   "content_rating": "erotica",
@@ -37,7 +44,7 @@
   },
   "first_seen_at": "2026-08-01T04:18:52.921Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-31T17:21:34.148Z",
+  "last_updated_at": "2026-08-01T18:34:39.801Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,11 +86,18 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
-      "modern-korea"
+      "business-career",
+      "corporate-workplace",
+      "korean-business",
+      "modern-korea",
+      "modern-workplace"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [],
@@ -91,19 +105,43 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [],
-      "progressionType": [],
+      "progressionType": [
+        "career-growth"
+      ],
       "tone": [],
       "worldType": [],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "corporate-workplace",
     "searchKeywords": [
       "humiliating",
       "night",
-      "original",
-      "webtoon"
+      "once-famous",
+      "livestreamer",
+      "sees",
+      "career",
+      "collapse",
+      "becoming",
+      "embroiled",
+      "sponsorship",
+      "scandal",
+      "leaving",
+      "buried",
+      "debt",
+      "struggling",
+      "support",
+      "family",
+      "mysterious",
+      "billionaire",
+      "offers",
+      "irresistible",
+      "deal",
+      "host",
+      "adults-only",
+      "broadcast",
+      "exchange"
     ],
     "evidence": {
       "tags": [
@@ -120,13 +158,35 @@
         "night"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon"
+        "once-famous",
+        "livestreamer",
+        "sees",
+        "career",
+        "collapse",
+        "becoming",
+        "embroiled",
+        "sponsorship",
+        "scandal",
+        "leaving",
+        "buried",
+        "debt",
+        "struggling",
+        "support",
+        "family",
+        "mysterious",
+        "billionaire",
+        "offers",
+        "irresistible",
+        "deal",
+        "host",
+        "adults-only",
+        "broadcast",
+        "exchange"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.4
+    "confidence": 0.86
   }
 }

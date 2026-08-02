@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-31T16:02:33.777Z",
+  "last_updated_at": "2026-08-01T16:03:22.134Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -83,7 +83,7 @@
   "source": {
     "anilist": {
       "id": 208445,
-      "rating": 85,
+      "rating": 71,
       "url": "https://anilist.co/manga/208445"
     },
     "animeplanet": {
@@ -98,26 +98,42 @@
     }
   },
   "tag_ids": [
+    250,
+    1911,
+    1159,
+    1106,
+    987,
+    1057,
+    842,
+    668,
     46,
     41,
+    95,
     180,
     16,
     31,
+    32,
+    18,
+    498,
+    1004,
+    994,
     93,
+    1167,
     57,
-    428
+    428,
+    2058
   ],
   "stats": {
-    "popularity": 40,
+    "popularity": 44,
     "favourites": null,
-    "meanScore": 85
+    "meanScore": 71
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6982,
-    "popularityPercentile": 23.5998,
-    "fanFavouriteDiscoveryScore": 18.2087,
-    "fanFavouriteDiscoveryPercentile": 20.3171
+    "fanRatioPercentile": 31.6769,
+    "popularityPercentile": 25.1532,
+    "fanFavouriteDiscoveryScore": 19.1879,
+    "fanFavouriteDiscoveryPercentile": 21.499
   },
   "context": {
     "primaryProfile": null,
@@ -130,11 +146,17 @@
       "careerDomain": [],
       "premiseMechanic": [],
       "conflictType": [
+        "revenge",
         "romance"
       ],
       "progressionType": [],
-      "tone": [],
-      "worldType": [],
+      "tone": [
+        "dark",
+        "tense"
+      ],
+      "worldType": [
+        "modern-urban"
+      ],
       "romanceRole": "none",
       "regressionRole": "none",
       "systemRole": "none"
@@ -171,14 +193,30 @@
     ],
     "evidence": {
       "tags": [
+        "Murder",
+        "Runaways",
+        "Piercings",
+        "Priests",
+        "Older Seme Younger Uke",
+        "Mysterious Elements",
+        "BDSM",
+        "Sadomasochism",
         "Adult",
         "Smut",
+        "Rape",
         "Boys Love",
         "Yaoi",
         "Drama",
+        "Mystery",
+        "Psychological",
+        "Religion",
+        "Modern Era",
+        "Traumatic Past",
         "Longstrip",
+        "Short Story",
         "Full Color",
-        "Web Comic"
+        "Web Comic",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "holy",
@@ -221,6 +259,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.36
+    "confidence": 0.52
   }
 }

@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-31T23:02:42.989Z",
+  "last_updated_at": "2026-08-01T23:14:26.616Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -97,7 +97,7 @@
   "source": {
     "anilist": {
       "id": 214466,
-      "rating": 80,
+      "rating": 85,
       "url": "https://anilist.co/manga/214466"
     },
     "animeplanet": null,
@@ -111,6 +111,7 @@
     279,
     556,
     732,
+    880,
     575,
     36,
     22,
@@ -118,6 +119,7 @@
     547,
     626,
     180,
+    1947,
     16,
     6,
     32,
@@ -125,23 +127,25 @@
     93,
     57,
     428,
-    1128
+    1128,
+    2058
   ],
   "stats": {
-    "popularity": 41,
-    "favourites": 1,
-    "meanScore": 80
+    "popularity": 55,
+    "favourites": 3,
+    "meanScore": 85
   },
   "analytics": {
-    "fanFavouriteRaw": 2.439,
-    "fanRatioPercentile": 79.9073,
-    "popularityPercentile": 24.0634,
-    "fanFavouriteDiscoveryScore": 46.6542,
-    "fanFavouriteDiscoveryPercentile": 55.0138
+    "fanFavouriteRaw": 5.4545,
+    "fanRatioPercentile": 97.4518,
+    "popularityPercentile": 29.0614,
+    "fanFavouriteDiscoveryScore": 66.2958,
+    "fanFavouriteDiscoveryPercentile": 74.7721
   },
   "context": {
     "primaryProfile": "sports-career",
     "profileGroups": [
+      "modern-korea",
       "romance-core",
       "sports-career"
     ],
@@ -150,7 +154,9 @@
     ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "modern-korea"
+      ],
       "protagonistRole": [
         "system-player"
       ],
@@ -174,7 +180,7 @@
       "regressionRole": "none",
       "systemRole": "minor"
     },
-    "semanticSummary": "sports-career",
+    "semanticSummary": "sports-career / modern-korea",
     "searchKeywords": [
       "disorder",
       "desire",
@@ -208,6 +214,7 @@
         "Kemonomimi",
         "Big Penis",
         "Shapeshifting",
+        "Older Uke Younger Seme",
         "Human-Nonhuman Relationship",
         "Fantasy",
         "Supernatural",
@@ -215,6 +222,7 @@
         "Non-human",
         "Werewolves",
         "Boys Love",
+        "Korean Boys Love",
         "Yaoi",
         "Comedy",
         "Mystery",
@@ -222,7 +230,8 @@
         "Longstrip",
         "Full Color",
         "Web Comic",
-        "Uncensored Version Available"
+        "Uncensored Version Available",
+        "Official English Uncensored"
       ],
       "titleTerms": [
         "disorder",
@@ -263,6 +272,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.69
+    "confidence": 0.79
   }
 }
