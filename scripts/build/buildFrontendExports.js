@@ -83,19 +83,21 @@ function percentileRank(
   sorted,
   value
 ) {
+  let low = 0;
+  let high = sorted.length;
 
-  let count = 0;
+  while (low < high) {
+    const middle = (low + high) >>> 1;
 
-  for (const v of sorted) {
-
-    if (v <= value) {
-
-      count++;
+    if (sorted[middle] <= value) {
+      low = middle + 1;
+    } else {
+      high = middle;
     }
   }
 
   return (
-    count / sorted.length
+    low / sorted.length
   ) * 100;
 }
 
