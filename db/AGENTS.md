@@ -22,6 +22,7 @@ Owns backend data files and generated frontend exports.
 - `state/status-history.json` stores compact known-to-known publication status transitions and daily observed chapter-count increases. It is rebuilt initially from committed daily catalogues and updated after every normalization pass; unknown values neither create events nor erase the last known value.
 - `exports/frontend/stats/updates.json` is the compact Updates-page payload. It includes one rolling year of popularity milestones, three rolling months of known status transitions, and seven rolling days of chapter increases for titles currently eligible for the shipped normal Discover feeds.
 - Processed and frontend series links use `read_en_all` for all unique official English web-platform URLs and retain the first URL as `read_en` for backward compatibility.
+- Compact frontend catalogue records retain the processed MangaBaka `type` so consumers can distinguish `oel` from manhwa without querying MangaBaka again.
 
 ## Work Guidance
 

@@ -1194,6 +1194,9 @@ for (
     content_rating:
       entry.content_rating,
 
+    type:
+      entry.type,
+
     total_chapters:
       entry.total_chapters,
 
