@@ -32,7 +32,7 @@ jobs:
       - name: Checkout Backend
         uses: actions/checkout@v5
         with:
-          fetch-depth: 0
+          fetch-depth: 2
           path: backend
 
       - name: Checkout History Archive
@@ -40,7 +40,7 @@ jobs:
         with:
           repository: zerodox9000-eng/manhwa_history
           path: history-archive
-          fetch-depth: 0
+          fetch-depth: 2
           ssh-key: ${{ secrets.HISTORY_ARCHIVE_DEPLOY_KEY }}
 
       - name: Setup Node
