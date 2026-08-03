@@ -19,6 +19,6 @@ function readDataset(name) {
 writeUpdatesExport({
   exportDir: EXPORT_DIR,
   catalog: readDataset("catalog"),
-  history: readDataset("history"),
+  history: readDataset(manifest.datasets.weeklyHistory ? "weeklyHistory" : "history"),
   generatedAt: manifest.generatedAt,
 });

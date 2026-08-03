@@ -33,6 +33,8 @@ jobs:
         run: npm ci
 
       - name: Rebuild Frontend Exports From Committed Data
+        env:
+          FRONTEND_WEEKLY_ONLY: "1"
         run: npm run build:frontend:cached
 
       - name: Validate Frontend Data Contract

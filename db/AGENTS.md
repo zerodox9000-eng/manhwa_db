@@ -8,6 +8,7 @@ Owns backend data files and generated frontend exports.
 - `processed/`: normalized stable series records.
 - `enriched/`: AniList stats separated from processed metadata.
 - `snapshots/`: daily historical stat snapshots.
+- `snapshots/anilist-daily/` retains the newest 14 verified daily AniList snapshots once the external archive workflow is enabled. Older snapshots may be removed only after every compressed archive copy passes size, checksum, and restore verification and the archive commit is published.
 - `state/`: pipeline state such as incremental sync markers.
 - `curation/`: reviewed export corrections that never alter raw source records.
 - `exports/frontend/`: only files the frontend PWA should consume.
@@ -20,10 +21,11 @@ Owns backend data files and generated frontend exports.
 - Keep compressed and uncompressed frontend exports in sync when export files are regenerated.
 - `curation/anilist-permanent-missing.json` is a reviewed registry of exact MangaBaka/AniList ID pairs confirmed absent from AniList. It prevents repeat 404 retries while preserving a null stats record and full year coverage.
 - `state/status-history.json` stores compact known-to-known publication status transitions and daily observed chapter-count increases. It is rebuilt initially from committed daily catalogues and updated after every normalization pass; unknown values neither create events nor erase the last known value.
+- `state/popularity-milestones.json` preserves achieved popularity bands plus one rolling year of events for the Updates page. `state/anilist-first-seen.json` preserves historical first-seen dates after raw snapshots leave the active buffer.
 - `exports/frontend/stats/updates.json` is the compact Updates-page payload. It includes one rolling year of popularity milestones, three rolling months of known status transitions, and seven rolling days of chapter increases for titles currently eligible for the shipped normal Discover feeds.
 - Processed and frontend series links use `read_en_all` for all unique official English web-platform URLs and retain the first URL as `read_en` for backward compatibility.
 - Compact frontend catalogue records retain the processed MangaBaka `type` so consumers can distinguish `oel` from manhwa without querying MangaBaka again.
-- Chunk manifests retain full `history` for deployed-client compatibility and add compact `weeklyHistory` for optimized clients. Recommendation generation is suspended; recommendation paths contain an empty compatibility dataset, and runtime catalogue chunks omit recommendation-only `context`. Multilingual `titles` remain in the runtime catalogue because Global Search consumes them.
+- Active chunk manifests publish compact `weeklyHistory` and omit full `history`. The public archive preserves every raw daily snapshot for recovery without entering normal frontend downloads. Recommendation generation is suspended; recommendation paths contain an empty compatibility dataset, and runtime catalogue chunks omit recommendation-only `context`. Multilingual `titles` remain in the runtime catalogue because Global Search consumes them.
 
 ## Work Guidance
 

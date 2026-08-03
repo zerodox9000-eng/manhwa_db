@@ -9,6 +9,7 @@ const {
   SCHEMA_VERSION,
   compactWeeklyHistory,
 } = require("../build/writeChunkedFrontendExports");
+const { buildHistoryFromSnapshots } = require("../history/computeAniListHistory");
 
 const EXPORT_DIR = path.resolve(__dirname, "../../db/exports/frontend");
 const MANIFEST_PATH = path.join(EXPORT_DIR, "meta/data-manifest.json");
@@ -79,11 +80,13 @@ function main() {
   assert(typeof manifest.buildId === "string" && manifest.buildId.length > 0, "Missing build id");
 
   const fullHistory = readLegacy("stats/history.json");
+  const snapshotDir = path.resolve(__dirname, "../../db/snapshots/anilist-daily");
+  const activeHistory = fullHistory ?? buildHistoryFromSnapshots(snapshotDir);
   const expected = {
     catalog: readLegacy("series/all.json"),
     tags: readLegacy("meta/tags.json"),
-    history: fullHistory,
-    weeklyHistory: compactWeeklyHistory(fullHistory),
+    ...(fullHistory ? { history: fullHistory } : {}),
+    weeklyHistory: compactWeeklyHistory(activeHistory),
     recommendations: readLegacy("recommendations/features.json"),
   };
 
@@ -99,6 +102,10 @@ function main() {
       );
     }
   }
+  assert(
+    manifest.datasets?.history || manifest.datasets?.weeklyHistory,
+    "Manifest must contain history or weeklyHistory"
+  );
 
   console.log(
     `Chunked frontend export ${manifest.buildId} passed checksum, size, count, and legacy parity validation.`
