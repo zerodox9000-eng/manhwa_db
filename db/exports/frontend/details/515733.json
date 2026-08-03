@@ -2,15 +2,17 @@
   "id": 515733,
   "state": "active",
   "type": "manhwa",
-  "display_title": "My Fiancé Keeps Trying to Raise Me",
-  "mangabaka_title": "My Fiancé Keeps Trying to Raise Me",
+  "display_title": "My Fiancé Won't Stop Babying Me",
+  "mangabaka_title": "My Fiancé Won't Stop Babying Me",
   "native_title": "약혼자가 자꾸만 나를 키우려 한다",
   "romanized_title": "Yakhonjaga Jakkuman Nareul Kiuryeo Handa",
   "titles": [
     {
       "language": "ko",
       "title": "약혼자가 자꾸만 나를 키우려 한다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -39,14 +41,16 @@
       "language": "en",
       "title": "My Fiancé Keeps Trying to Raise Me",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "My Fiancé Won't Stop Babying Me",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -72,14 +76,14 @@
   "is_licensed": true,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-09-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-02T12:17:13.151Z",
+  "last_updated_at": "2026-08-03T08:36:07.834Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
