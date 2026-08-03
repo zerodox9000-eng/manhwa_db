@@ -13,6 +13,32 @@ const LEGACY_AGGREGATES = [
   "stats/history.json",
   "recommendations/features.json",
 ];
+const WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+
+function compactWeeklyHistory(history) {
+  let latestDate = null;
+  for (const entries of Object.values(history)) {
+    for (const entry of entries) {
+      if (typeof entry?.d === "string" && (!latestDate || entry.d > latestDate)) latestDate = entry.d;
+    }
+  }
+  if (!latestDate) return {};
+
+  const latestTime = Date.parse(`${latestDate}T00:00:00Z`);
+  if (!Number.isFinite(latestTime)) throw new Error(`Invalid latest history date: ${latestDate}`);
+  const fromDate = new Date(latestTime - WEEK_MS).toISOString().slice(0, 10);
+  const compact = {};
+
+  for (const [id, rawEntries] of Object.entries(history)) {
+    const entries = [...rawEntries].sort((left, right) => left.d.localeCompare(right.d));
+    const start = entries.find((entry) => entry.d >= fromDate);
+    const end = entries.findLast((entry) => entry.d <= latestDate);
+    if (!start || !end || start.d > end.d) continue;
+    compact[id] = start.d === end.d ? [start] : [start, end];
+  }
+
+  return compact;
+}
 
 function sha256(buffer) {
   return crypto.createHash("sha256").update(buffer).digest("hex");
@@ -131,6 +157,7 @@ function writeChunkedFrontendExports({
   catalog,
   tags,
   history,
+  weeklyHistory,
   recommendations,
   generatedAt = new Date().toISOString(),
 }) {
@@ -138,6 +165,7 @@ function writeChunkedFrontendExports({
     prepareDataset("catalog", "array", catalog),
     prepareDataset("tags", "object", tags),
     prepareDataset("history", "object", history),
+    prepareDataset("weeklyHistory", "object", weeklyHistory),
     prepareDataset("recommendations", "array", recommendations),
   ];
   const contentHash = sha256(
@@ -233,6 +261,7 @@ module.exports = {
   LEGACY_COMPATIBILITY_MAX_BYTES,
   MAX_CHUNK_BYTES,
   SCHEMA_VERSION,
+  compactWeeklyHistory,
   finalizeLegacyFrontendExports,
   writeChunkedFrontendExports,
 };

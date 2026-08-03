@@ -7,6 +7,7 @@ const {
   CONTRACT,
   MAX_CHUNK_BYTES,
   SCHEMA_VERSION,
+  compactWeeklyHistory,
 } = require("../build/writeChunkedFrontendExports");
 
 const EXPORT_DIR = path.resolve(__dirname, "../../db/exports/frontend");
@@ -77,10 +78,12 @@ function main() {
   assert(manifest.schemaVersion === SCHEMA_VERSION, "Unsupported chunk manifest schema");
   assert(typeof manifest.buildId === "string" && manifest.buildId.length > 0, "Missing build id");
 
+  const fullHistory = readLegacy("stats/history.json");
   const expected = {
     catalog: readLegacy("series/all.json"),
     tags: readLegacy("meta/tags.json"),
-    history: readLegacy("stats/history.json"),
+    history: fullHistory,
+    weeklyHistory: compactWeeklyHistory(fullHistory),
     recommendations: readLegacy("recommendations/features.json"),
   };
 

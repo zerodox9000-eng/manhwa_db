@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const zlib = require("zlib");
 const {
+  compactWeeklyHistory,
   finalizeLegacyFrontendExports,
   writeChunkedFrontendExports,
 } = require("./writeChunkedFrontendExports");
@@ -1132,38 +1133,22 @@ for (const file of snapshotFiles) {
 }
 
 const discovery = [];
+const weeklyHistoryMap = compactWeeklyHistory(historyMap);
+const globalHistoryFirstDate = Object.values(historyMap)
+  .flatMap((entries) => entries[0]?.d ? [entries[0].d] : [])
+  .sort()[0] || null;
 const recommendationFeatures = [];
-const tagDocumentCounts = new Map();
-const textDocumentFrequencies = new Map();
-const totalDocuments = seriesMap.size;
-
-for (const entry of seriesMap.values()) {
-  for (const tagId of new Set(entry.tag_ids || [])) {
-    increment(tagDocumentCounts, tagId);
-  }
-  for (const token of new Set(tokensFromText([
-    entry.display_title,
-    entry.mangabaka_title,
-    entry.description,
-    ...(entry.authors || []),
-    ...(entry.artists || [])
-  ].join(" ")))) {
-    increment(textDocumentFrequencies, token);
-  }
-}
 
 for (
   const entry of
   seriesMap.values()
 ) {
-  const recommendationFeature =
-    buildRecommendationFeature(
-      entry,
-      tagDocumentCounts,
-      textDocumentFrequencies,
-      totalDocuments
-    );
-  entry.context = recommendationFeature.context;
+  if (!entry.first_seen_at) {
+    const historyFirstDate = historyMap[entry.id]?.[0]?.d || null;
+    entry.first_seen_at = historyFirstDate && historyFirstDate !== globalHistoryFirstDate
+      ? historyFirstDate
+      : entry.last_updated_at?.slice(0, 10) || null;
+  }
 
   discovery.push({
 
@@ -1232,9 +1217,6 @@ for (
     source:
       entry.source,
 
-    context:
-      entry.context,
-
     tag_ids:
       entry.tag_ids,
 
@@ -1245,18 +1227,20 @@ for (
       entry.analytics
   });
 
-  recommendationFeatures.push(recommendationFeature);
-
+  const detailPath = path.join(EXPORT_DIR, `details/${entry.id}.json`);
+  let preservedContext;
+  try {
+    if (fs.existsSync(detailPath)) preservedContext = JSON.parse(fs.readFileSync(detailPath, "utf8")).context;
+  } catch {
+    preservedContext = undefined;
+  }
   fs.writeFileSync(
-
-    path.join(
-      EXPORT_DIR,
-      `details/${entry.id}.json`
-    ),
+    detailPath,
 
     JSON.stringify(
       {
         ...entry,
+        ...(preservedContext === undefined ? {} : { context: preservedContext }),
         display_title: applyTitleDisplayOverride(entry, titleDisplayOverrides),
       },
       null,
@@ -1408,6 +1392,7 @@ writeChunkedFrontendExports({
   catalog: discovery,
   tags: tagsExport,
   history: historyMap,
+  weeklyHistory: weeklyHistoryMap,
   recommendations: recommendationFeatures,
   generatedAt: latestCache.snapshotAt || new Date().toISOString(),
 });

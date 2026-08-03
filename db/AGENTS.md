@@ -23,6 +23,7 @@ Owns backend data files and generated frontend exports.
 - `exports/frontend/stats/updates.json` is the compact Updates-page payload. It includes one rolling year of popularity milestones, three rolling months of known status transitions, and seven rolling days of chapter increases for titles currently eligible for the shipped normal Discover feeds.
 - Processed and frontend series links use `read_en_all` for all unique official English web-platform URLs and retain the first URL as `read_en` for backward compatibility.
 - Compact frontend catalogue records retain the processed MangaBaka `type` so consumers can distinguish `oel` from manhwa without querying MangaBaka again.
+- Chunk manifests retain full `history` for deployed-client compatibility and add compact `weeklyHistory` for optimized clients. Recommendation generation is suspended; recommendation paths contain an empty compatibility dataset, and runtime catalogue chunks omit recommendation-only `context`. Multilingual `titles` remain in the runtime catalogue because Global Search consumes them.
 
 ## Work Guidance
 

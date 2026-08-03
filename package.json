@@ -14,6 +14,7 @@
     "build:frontend:cached": "node scripts/build/buildFrontendExports.js",
     "build:updates": "node scripts/build/rebuildUpdatesExport.js",
     "test:updates": "node --test scripts/build/buildUpdatesExport.test.js scripts/snapshots/snapshotStatuses.test.js",
+    "test:frontend-exports": "node --test scripts/build/writeChunkedFrontendExports.test.js",
     "build:frontend:v2": "node scripts/build/buildFrontendV2Exports.js",
     "validate:frontend": "node scripts/evaluate/validateFrontendStatsExport.js",
     "validate:anilist": "node scripts/evaluate/validateAniListCoverage.js",
