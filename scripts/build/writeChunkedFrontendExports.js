@@ -164,7 +164,7 @@ function writeChunkedFrontendExports({
   const datasets = [
     prepareDataset("catalog", "array", catalog),
     prepareDataset("tags", "object", tags),
-    prepareDataset("history", "object", history),
+    ...(history ? [prepareDataset("history", "object", history)] : []),
     prepareDataset("weeklyHistory", "object", weeklyHistory),
     prepareDataset("recommendations", "array", recommendations),
   ];
@@ -230,8 +230,11 @@ function writeChunkedFrontendExports({
   return manifest;
 }
 
-function finalizeLegacyFrontendExports(exportDir) {
-  const gzipPaths = LEGACY_AGGREGATES.map((relativePath) =>
+function finalizeLegacyFrontendExports(exportDir, { retainFullHistory = true } = {}) {
+  const retainedAggregates = retainFullHistory
+    ? LEGACY_AGGREGATES
+    : LEGACY_AGGREGATES.filter((relativePath) => relativePath !== "stats/history.json");
+  const gzipPaths = retainedAggregates.map((relativePath) =>
     path.join(exportDir, `${relativePath}.gz`)
   );
   const retireCompatibilityBundle = gzipPaths.some(
@@ -243,6 +246,7 @@ function finalizeLegacyFrontendExports(exportDir) {
   for (const relativePath of LEGACY_AGGREGATES) {
     fs.rmSync(path.join(exportDir, relativePath), { force: true });
   }
+  if (!retainFullHistory) fs.rmSync(path.join(exportDir, "stats/history.json.gz"), { force: true });
 
   if (retireCompatibilityBundle) {
     for (const gzipPath of gzipPaths) {
@@ -252,7 +256,11 @@ function finalizeLegacyFrontendExports(exportDir) {
     return;
   }
 
-  console.log("Legacy aggregate gzip bundle retained for older frontend versions.");
+  console.log(
+    retainFullHistory
+      ? "Legacy aggregate gzip bundle retained for older frontend versions."
+      : "Non-history legacy aggregate gzip files retained during weekly-only rollout."
+  );
 }
 
 module.exports = {

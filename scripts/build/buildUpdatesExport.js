@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const zlib = require("zlib");
+const { popularityEventsFromState } = require("../history/popularityMilestoneState");
 
 const WINDOW_DAYS = 365;
 const STATUS_WINDOW_DAYS = 90;
@@ -157,6 +158,10 @@ function buildChapterEvents(state, eligibleIds, latestDate) {
 function writeUpdatesExport({ exportDir, catalog, history, generatedAt }) {
   const statePath = path.resolve(exportDir, "../../state/status-history.json");
   const state = fs.existsSync(statePath) ? JSON.parse(fs.readFileSync(statePath, "utf8")) : null;
+  const popularityStatePath = path.resolve(exportDir, "../../state/popularity-milestones.json");
+  const popularityState = fs.existsSync(popularityStatePath)
+    ? JSON.parse(fs.readFileSync(popularityStatePath, "utf8"))
+    : null;
   const latestDate = [latestHistoryDate(history), state?.lastSnapshotDate, generatedAt.slice(0, 10)]
     .filter(Boolean)
     .sort()
@@ -170,7 +175,9 @@ function writeUpdatesExport({ exportDir, catalog, history, generatedAt }) {
     statusWindowDays: STATUS_WINDOW_DAYS,
     chapterWindowDays: CHAPTER_WINDOW_DAYS,
     eligibleTitleCount: eligibleIds.size,
-    popularity: buildPopularityEvents(history, eligibleIds, latestDate),
+    popularity: popularityState
+      ? popularityEventsFromState(popularityState, eligibleIds, latestDate)
+      : buildPopularityEvents(history, eligibleIds, latestDate),
     statuses: buildStatusEvents(state, eligibleIds, latestDate),
     chapters: buildChapterEvents(state, eligibleIds, latestDate),
   };

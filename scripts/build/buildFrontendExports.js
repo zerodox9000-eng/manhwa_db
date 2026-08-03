@@ -11,6 +11,8 @@ const {
   loadTitleDisplayOverrides,
 } = require("./titleDisplayOverrides");
 const { writeUpdatesExport } = require("./buildUpdatesExport");
+const { firstSeenDate, updateFirstSeenState } = require("../history/firstSeenState");
+const { updatePopularityMilestoneState } = require("../history/popularityMilestoneState");
 
 const SERIES_DIR =
   path.resolve(
@@ -53,6 +55,12 @@ const CONTEXT_OVERRIDES =
     __dirname,
     "../../db/curation/context-overrides.json"
   );
+
+const POPULARITY_STATE_PATH = path.resolve(__dirname, "../../db/state/popularity-milestones.json");
+const FIRST_SEEN_STATE_PATH = path.resolve(__dirname, "../../db/state/anilist-first-seen.json");
+const PUBLISH_FULL_HISTORY =
+  process.env.FRONTEND_PUBLISH_FULL_HISTORY === "1" &&
+  process.env.FRONTEND_WEEKLY_ONLY !== "1";
 
 function readJson(file) {
 
@@ -810,7 +818,9 @@ for (
 
 const snapshotFiles =
 
-  fs.readdirSync(SNAPSHOT_DIR);
+  fs.readdirSync(SNAPSHOT_DIR)
+    .filter((file) => /^\d{4}-\d{2}-\d{2}\.json$/.test(file))
+    .sort();
 
 
 for (const file of snapshotFiles) {
@@ -1134,9 +1144,19 @@ for (const file of snapshotFiles) {
 
 const discovery = [];
 const weeklyHistoryMap = compactWeeklyHistory(historyMap);
-const globalHistoryFirstDate = Object.values(historyMap)
-  .flatMap((entries) => entries[0]?.d ? [entries[0].d] : [])
-  .sort()[0] || null;
+const existingPopularityState = fs.existsSync(POPULARITY_STATE_PATH)
+  ? readJson(POPULARITY_STATE_PATH)
+  : null;
+const existingFirstSeenState = fs.existsSync(FIRST_SEEN_STATE_PATH)
+  ? readJson(FIRST_SEEN_STATE_PATH)
+  : null;
+if ((!existingPopularityState || !existingFirstSeenState) && snapshotFiles.length <= 14) {
+  throw new Error("History state must be bootstrapped before pruning snapshots to the 14-day buffer.");
+}
+const popularityState = updatePopularityMilestoneState(existingPopularityState, historyMap);
+const firstSeenState = updateFirstSeenState(existingFirstSeenState, historyMap);
+fs.writeFileSync(POPULARITY_STATE_PATH, `${JSON.stringify(popularityState)}\n`);
+fs.writeFileSync(FIRST_SEEN_STATE_PATH, `${JSON.stringify(firstSeenState)}\n`);
 const recommendationFeatures = [];
 
 for (
@@ -1144,10 +1164,7 @@ for (
   seriesMap.values()
 ) {
   if (!entry.first_seen_at) {
-    const historyFirstDate = historyMap[entry.id]?.[0]?.d || null;
-    entry.first_seen_at = historyFirstDate && historyFirstDate !== globalHistoryFirstDate
-      ? historyFirstDate
-      : entry.last_updated_at?.slice(0, 10) || null;
+    entry.first_seen_at = firstSeenDate(firstSeenState, entry.id, entry.last_updated_at);
   }
 
   discovery.push({
@@ -1293,15 +1310,15 @@ fs.writeFileSync(
   )
 );
 
-fs.writeFileSync(
-
-  path.join(
-    EXPORT_DIR,
-    "stats/history.json"
-  ),
-
-  JSON.stringify(historyMap)
-);
+if (PUBLISH_FULL_HISTORY) {
+  fs.writeFileSync(
+    path.join(EXPORT_DIR, "stats/history.json"),
+    JSON.stringify(historyMap)
+  );
+} else {
+  fs.rmSync(path.join(EXPORT_DIR, "stats/history.json"), { force: true });
+  fs.rmSync(path.join(EXPORT_DIR, "stats/history.json.gz"), { force: true });
+}
 
 writeUpdatesExport({
   exportDir: EXPORT_DIR,
@@ -1376,12 +1393,7 @@ gzipFile(
   )
 );
 
-gzipFile(
-  path.join(
-    EXPORT_DIR,
-    "stats/history.json"
-  )
-);
+if (PUBLISH_FULL_HISTORY) gzipFile(path.join(EXPORT_DIR, "stats/history.json"));
 
 console.log(
   "Gzip exports built."
@@ -1391,13 +1403,13 @@ writeChunkedFrontendExports({
   exportDir: EXPORT_DIR,
   catalog: discovery,
   tags: tagsExport,
-  history: historyMap,
+  history: PUBLISH_FULL_HISTORY ? historyMap : null,
   weeklyHistory: weeklyHistoryMap,
   recommendations: recommendationFeatures,
   generatedAt: latestCache.snapshotAt || new Date().toISOString(),
 });
 
-finalizeLegacyFrontendExports(EXPORT_DIR);
+finalizeLegacyFrontendExports(EXPORT_DIR, { retainFullHistory: PUBLISH_FULL_HISTORY });
 
 
 

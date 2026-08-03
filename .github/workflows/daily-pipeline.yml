@@ -23,13 +23,25 @@ jobs:
 
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    defaults:
+      run:
+        working-directory: backend
 
     steps:
 
-      - name: Checkout
+      - name: Checkout Backend
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          path: backend
+
+      - name: Checkout History Archive
+        uses: actions/checkout@v5
+        with:
+          repository: zerodox9000-eng/manhwa_history
+          path: history-archive
+          fetch-depth: 0
+          ssh-key: ${{ secrets.HISTORY_ARCHIVE_DEPLOY_KEY }}
 
       - name: Setup Node
         uses: actions/setup-node@v5
@@ -59,10 +71,44 @@ jobs:
           echo "MANGABAKA_API=https://api.mangabaka.org" >> .env
 
       - name: Run Daily Pipeline
+        env:
+          FRONTEND_WEEKLY_ONLY: "1"
         run: npm run daily:incremental
 
       - name: Validate AniList year coverage
         run: npm run validate:anilist
+
+      - name: Verify Complete History Archive
+        env:
+          ANILIST_HISTORY_ARCHIVE_DIR: ${{ github.workspace }}/history-archive
+        run: npm run archive:history:verify
+
+      - name: Publish History Archive
+        working-directory: history-archive
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add manifest.json anilist
+          git diff --cached --quiet || git commit -m "archive daily AniList snapshot"
+
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+
+            echo "Archive push attempt ${attempt} failed; rebasing before retry."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((attempt * 10))
+          done
+
+          echo "Unable to publish the verified history archive after 3 attempts."
+          exit 1
+
+      - name: Prune Published Snapshot History
+        env:
+          ANILIST_HISTORY_ARCHIVE_DIR: ${{ github.workspace }}/history-archive
+        run: npm run archive:history
 
       - name: Validate frontend data contract
         run: |

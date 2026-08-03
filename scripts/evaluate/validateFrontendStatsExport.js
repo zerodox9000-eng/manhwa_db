@@ -21,7 +21,7 @@ function readJson(relativePath) {
     relativePath === "series/all.json"
       ? "catalog"
       : relativePath === "stats/history.json"
-        ? "history"
+        ? (manifest.datasets.history ? "history" : "weeklyHistory")
         : null;
   if (!datasetName) throw new Error(`No frontend data source for ${relativePath}`);
   const descriptor = manifest.datasets[datasetName];
