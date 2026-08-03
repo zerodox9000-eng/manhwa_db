@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Night Self-Study",
   "mangabaka_title": "Night Self-Study",
-  "native_title": null,
+  "native_title": "야간 자율 학습",
   "romanized_title": null,
   "titles": [
     {
@@ -22,8 +22,8 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon :**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853282), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14502142)",
-  "cover": null,
+  "description": "\"I want night classes.\" Woo Ji-soo becomes a home-visiting tutor to support her family. She takes charge of the children of Won Ju-yul, a director at Dae-ryuk Construction, but there are many problems with conducting the lessons. Students who have no interest in studying at all. And a man more dangerous than the children, Won Ju-yul. With an irresistible amount of money, Ju-yul proposes a 'night class' exclusively for him, after the children's lessons end. From kissing, to even more than that.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853282), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14502142)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0NDkzLmpwZw",
   "total_chapters": null,
   "status": "unknown",
   "content_rating": "erotica",
@@ -37,7 +37,7 @@
   },
   "first_seen_at": "2026-08-02T04:18:43.935Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-01T16:46:24.799Z",
+  "last_updated_at": "2026-08-02T18:36:48.882Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -45,7 +45,7 @@
     "Soap"
   ],
   "artists": [
-    "Surely"
+    "Jeong nyeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598870",
@@ -63,6 +63,8 @@
   },
   "tag_ids": [
     43,
+    46,
+    15,
     41,
     9
   ],
@@ -77,24 +79,43 @@
     "fanFavouritePercentile": null
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "corporate-workplace",
     "profileGroups": [
+      "business-career",
+      "corporate-workplace",
+      "engineering-builder",
+      "korean-business",
       "modern-korea",
-      "romance-core"
+      "modern-workplace",
+      "office-romance",
+      "romance-core",
+      "school-life"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "corporate-workplace",
+      "engineering-builder",
+      "korean-business"
+    ],
     "excludedProfiles": [],
     "storySignals": {
       "setting": [
-        "modern-korea"
+        "modern-korea",
+        "corporate-workplace",
+        "school"
       ],
-      "protagonistRole": [],
-      "careerDomain": [],
+      "protagonistRole": [
+        "executive"
+      ],
+      "careerDomain": [
+        "engineering"
+      ],
       "premiseMechanic": [],
       "conflictType": [
         "romance"
       ],
-      "progressionType": [],
+      "progressionType": [
+        "management-growth"
+      ],
       "tone": [
         "warm"
       ],
@@ -103,18 +124,39 @@
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea / modern-korea",
+    "semanticSummary": "corporate-workplace / modern-korea / corporate-workplace",
     "searchKeywords": [
       "night",
       "self-study",
-      "original",
-      "webtoon",
-      "naver",
-      "series"
+      "want",
+      "classes",
+      "woo",
+      "ji-soo",
+      "becomes",
+      "home-visiting",
+      "tutor",
+      "support",
+      "family",
+      "takes",
+      "charge",
+      "children",
+      "won",
+      "ju-yul",
+      "director",
+      "dae-ryuk",
+      "construction",
+      "many",
+      "problems",
+      "conducting",
+      "lessons",
+      "students",
+      "interest"
     ],
     "evidence": {
       "tags": [
         "Josei",
+        "Adult",
+        "Mature",
         "Smut",
         "Romance"
       ],
@@ -125,17 +167,35 @@
         "self-study"
       ],
       "descriptionTerms": [
-        "original",
-        "webtoon",
-        "naver",
-        "webtoon",
-        "naver",
-        "series"
+        "want",
+        "night",
+        "classes",
+        "woo",
+        "ji-soo",
+        "becomes",
+        "home-visiting",
+        "tutor",
+        "support",
+        "family",
+        "takes",
+        "charge",
+        "children",
+        "won",
+        "ju-yul",
+        "director",
+        "dae-ryuk",
+        "construction",
+        "many",
+        "problems",
+        "conducting",
+        "lessons",
+        "students",
+        "interest"
       ],
       "sourceFields": [
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 1
   }
 }

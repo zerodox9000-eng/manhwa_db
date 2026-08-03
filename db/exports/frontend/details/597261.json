@@ -42,7 +42,7 @@
       "note": null
     }
   ],
-  "description": "A giantess relentlessly pursues a cute artist who's spent years suppressing the darkness within.                                    \n\n[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9141) \n\n**Official Translations:**  \n[English](https://toomics.com/en/webtoon/episode/toon/9141)",
+  "description": "A giantess relentlessly pursues a cute artist who's spent years suppressing the darkness within.\n\n(Source: Toomics)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDQxNS1zRnVUNXU1U1dHYUYuanBn",
   "total_chapters": "6",
   "status": "completed",
@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-01T21:54:43.889Z",
+  "last_updated_at": "2026-08-02T23:48:01.005Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -74,13 +74,13 @@
   "source": {
     "anilist": {
       "id": 214415,
-      "rating": 30,
+      "rating": 71,
       "url": "https://anilist.co/manga/214415"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7db5w7y",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/7db5w7y"
     }
   },
@@ -91,27 +91,29 @@
     15,
     41,
     109,
+    6,
     31,
+    9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 31,
-    "favourites": null,
-    "meanScore": 30
+    "popularity": 43,
+    "favourites": 1,
+    "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6769,
-    "popularityPercentile": 19.6533,
-    "fanFavouriteDiscoveryScore": 15.6096,
-    "fanFavouriteDiscoveryPercentile": 17.2844
+    "fanFavouriteRaw": 2.3256,
+    "fanRatioPercentile": 78.0094,
+    "popularityPercentile": 24.7553,
+    "fanFavouriteDiscoveryScore": 46.6334,
+    "fanFavouriteDiscoveryPercentile": 55.4285
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "romance-core",
     "profileGroups": [
-      "modern-korea"
+      "romance-core"
     ],
     "primaryAnchors": [],
     "excludedProfiles": [],
@@ -120,15 +122,20 @@
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [],
-      "conflictType": [],
+      "conflictType": [
+        "romance"
+      ],
       "progressionType": [],
-      "tone": [],
+      "tone": [
+        "comedic",
+        "warm"
+      ],
       "worldType": [],
-      "romanceRole": "none",
+      "romanceRole": "major",
       "regressionRole": "none",
       "systemRole": "none"
     },
-    "semanticSummary": "modern-korea",
+    "semanticSummary": "romance-core",
     "searchKeywords": [
       "giantess",
       "unleashed",
@@ -147,11 +154,7 @@
       "suppressing",
       "darkness",
       "within",
-      "original",
-      "webtoon",
-      "official",
-      "translations",
-      "english"
+      "toomics"
     ],
     "evidence": {
       "tags": [
@@ -161,7 +164,9 @@
         "Mature",
         "Smut",
         "Nudity",
+        "Comedy",
         "Drama",
+        "Romance",
         "Longstrip",
         "Full Color",
         "Web Comic"
@@ -191,17 +196,13 @@
         "suppressing",
         "darkness",
         "within",
-        "original",
-        "webtoon",
-        "official",
-        "translations",
-        "english"
+        "toomics"
       ],
       "sourceFields": [
         "anilist",
         "mangaupdates"
       ]
     },
-    "confidence": 0.45
+    "confidence": 0.47
   }
 }

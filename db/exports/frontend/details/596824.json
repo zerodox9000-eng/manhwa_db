@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-07-19T04:19:30.700Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-01T17:06:35.934Z",
+  "last_updated_at": "2026-08-02T19:00:51.531Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,16 +90,18 @@
     },
     "mangaupdates": {
       "id": "a4chvmw",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/a4chvmw"
     }
   },
   "tag_ids": [
+    376,
     8,
     58,
     74,
     36,
     6,
+    117,
     31,
     18,
     7,
@@ -108,16 +110,16 @@
     428
   ],
   "stats": {
-    "popularity": 5,
+    "popularity": 30,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 100
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6769,
-    "popularityPercentile": 1.9877,
-    "fanFavouriteDiscoveryScore": 5.7738,
-    "fanFavouriteDiscoveryPercentile": 1.8607
+    "fanRatioPercentile": 31.6521,
+    "popularityPercentile": 19.069,
+    "fanFavouriteDiscoveryScore": 15.2124,
+    "fanFavouriteDiscoveryPercentile": 16.8423
   },
   "context": {
     "primaryProfile": "medical-career",
@@ -186,11 +188,13 @@
     ],
     "evidence": {
       "tags": [
+        "Acting",
         "Seinen",
         "Male Lead",
         "Based on a Web Novel",
         "Fantasy",
         "Comedy",
+        "Coming of Age",
         "Drama",
         "Psychological",
         "Slice of Life",
@@ -238,6 +242,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.78
+    "confidence": 0.8
   }
 }

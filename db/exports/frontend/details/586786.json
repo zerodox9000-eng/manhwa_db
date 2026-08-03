@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-01T21:16:32.423Z",
+  "last_updated_at": "2026-08-02T23:07:19.512Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -133,6 +133,9 @@
     36,
     41,
     31,
+    403,
+    127,
+    227,
     9,
     93,
     57,
@@ -145,21 +148,27 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.4493,
-    "fanRatioPercentile": 57.5176,
-    "popularityPercentile": 45.3221,
-    "fanFavouriteDiscoveryScore": 51.2992,
-    "fanFavouriteDiscoveryPercentile": 59.6174
+    "fanRatioPercentile": 57.5506,
+    "popularityPercentile": 45.2888,
+    "fanFavouriteDiscoveryScore": 51.3133,
+    "fanFavouriteDiscoveryPercentile": 59.6727
   },
   "context": {
-    "primaryProfile": "modern-korea",
+    "primaryProfile": "euro-fantasy",
     "profileGroups": [
+      "euro-fantasy",
+      "euro-romance",
       "modern-korea",
       "romance-core"
     ],
-    "primaryAnchors": [],
+    "primaryAnchors": [
+      "euro-fantasy"
+    ],
     "excludedProfiles": [],
     "storySignals": {
-      "setting": [],
+      "setting": [
+        "kingdom-fantasy"
+      ],
       "protagonistRole": [],
       "careerDomain": [],
       "premiseMechanic": [
@@ -183,7 +192,7 @@
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "modern-korea / system",
+    "semanticSummary": "euro-fantasy / kingdom-fantasy / system",
     "searchKeywords": [
       "atonement",
       "your",
@@ -228,6 +237,9 @@
         "Fantasy",
         "Smut",
         "Drama",
+        "Betrayal",
+        "Nobility",
+        "Revenge",
         "Romance",
         "Longstrip",
         "Full Color",
@@ -278,6 +290,6 @@
         "animeplanet"
       ]
     },
-    "confidence": 0.57
+    "confidence": 0.83
   }
 }

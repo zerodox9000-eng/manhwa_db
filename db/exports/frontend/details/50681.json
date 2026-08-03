@@ -120,7 +120,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-02T01:12:48.920Z",
+  "last_updated_at": "2026-08-02T14:01:27.806Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -155,6 +155,8 @@
     }
   },
   "tag_ids": [
+    167,
+    337,
     8,
     158,
     58,
@@ -165,10 +167,13 @@
     160,
     39,
     31,
+    706,
+    29,
     32,
     128,
     378,
     18,
+    1362,
     45,
     93,
     57,
@@ -182,21 +187,23 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.1818,
-    "fanRatioPercentile": 75.1009,
-    "popularityPercentile": 77.9629,
-    "fanFavouriteDiscoveryScore": 74.506,
-    "fanFavouriteDiscoveryPercentile": 82.2598
+    "fanRatioPercentile": 75.1252,
+    "popularityPercentile": 77.9646,
+    "fanFavouriteDiscoveryScore": 74.5301,
+    "fanFavouriteDiscoveryPercentile": 82.2237
   },
   "context": {
-    "primaryProfile": "game-system",
+    "primaryProfile": "murim-wuxia",
     "profileGroups": [
       "euro-fantasy",
       "game-system",
-      "modern-korea"
+      "modern-korea",
+      "murim-wuxia"
     ],
     "primaryAnchors": [
       "euro-fantasy",
-      "game-system"
+      "game-system",
+      "murim-wuxia"
     ],
     "excludedProfiles": [],
     "storySignals": {
@@ -215,7 +222,8 @@
         "politics"
       ],
       "progressionType": [
-        "power-growth"
+        "power-growth",
+        "martial-growth"
       ],
       "tone": [
         "dark",
@@ -229,7 +237,7 @@
       "regressionRole": "none",
       "systemRole": "major"
     },
-    "semanticSummary": "game-system / kingdom-fantasy / system / hunter-system",
+    "semanticSummary": "murim-wuxia / kingdom-fantasy / system / hunter-system",
     "searchKeywords": [
       "aza",
       "asha",
@@ -258,6 +266,8 @@
     ],
     "evidence": {
       "tags": [
+        "Crossdressing",
+        "Swordplay",
         "Seinen",
         "Primarily Adult Cast",
         "Male Lead",
@@ -268,10 +278,13 @@
         "Demons",
         "Action",
         "Drama",
+        "Espionage",
+        "Martial Arts",
         "Mystery",
         "Royalty",
         "Politics",
         "Psychological",
+        "Class Struggle",
         "Historical",
         "Longstrip",
         "Full Color",
@@ -316,6 +329,6 @@
         "read-en"
       ]
     },
-    "confidence": 0.86
+    "confidence": 1
   }
 }
