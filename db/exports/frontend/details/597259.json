@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Breeding Campus",
-  "mangabaka_title": "Breeding Campus",
+  "mangabaka_title": "Beonsing Campus",
   "native_title": "번식 캠퍼스",
-  "romanized_title": null,
+  "romanized_title": "Beonsing Campus",
   "titles": [
     {
       "language": "ko",
       "title": "번식 캠퍼스",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Beonsing Campus",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,7 +33,7 @@
       "note": null
     }
   ],
-  "description": "The illegitimate beta heir of a powerful loan empire has only one goal: graduate from college without causing trouble. But on the first day back, everything unravels after being paired with a shameless alpha whose provocative behavior turns campus life upside down. A desperate attempt at blackmail triggers an unexpected omega awakening, thrusting both into a volatile relationship filled with power struggles, irresistible instincts, and forbidden attraction.\n\n**Original Novel:**  \nVolumes: [Bomtoon](https://www.bomtoon.com/detail/breedC), [RIDI](https://ridibooks.com/books/1007104317), [MrBlue](https://www.mrblue.com/novel/E000131705), [Bookcube](https://www.joara.com/book/1776556)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/breedC_e), [MrBlue](https://www.mrblue.com/novel/E000131703), [Joara](https://www.joara.com/book/1776556)\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/breedingcampus)",
+  "description": "Park U-Ri, the illegitimate beta child of Irae Financial Loans, had only one goal: to graduate from college without incident, just as her father and older brother had ordered. But on his first day back on campus, his goal is thrown off course when he ends up paired with a perverted alpha who was groping a girl in the cafeteria as his partner for a general education class. He threatens the pervert to drop the class, but Lee Yeon instead orders him to withdraw from the course. Just as he was resorting to a last-ditch effort to blackmail Lee Yeon, U-Ri suddenly manifests as an Omega…\n\n*“I can smell Omega on you.”\n“No, whoa! No, I’m, I’m a Beta!”\n“What kind of Beta drips pre-cum from his hole, Park U-Ri?”*\n\nLee Yeon whispered cruelly, savoring the sight of our faces turning deathly pale.\n\n *“Do other people know you’re an Omega?”*\n\n(Source: Bomtoon, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzcvNC80LzcvOC9kL2EvYmNjOS80MzNhLzg2NzMvYWZhMDBkZjgyZTRk",
   "total_chapters": "6",
   "status": "releasing",
@@ -30,22 +41,22 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-16",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-03T05:54:52.787Z",
+  "last_updated_at": "2026-08-04T01:34:02.300Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Bambammaen",
-    "GakJinSulTang"
+    "Gakjinseoltang"
   ],
   "artists": [
-    "Yeobaek"
+    "Yeo-Baek"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/597259",
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214681,
+      "rating": null,
+      "url": "https://anilist.co/manga/214681"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "q7h01v6",
@@ -63,10 +78,17 @@
   },
   "tag_ids": [
     107,
+    257,
+    118,
     46,
+    180,
     16,
     31,
-    42
+    9,
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -74,9 +96,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6552,
+    "popularityPercentile": 0.1195,
+    "fanFavouriteDiscoveryScore": 5.0713,
+    "fanFavouriteDiscoveryPercentile": 0.1195
   },
   "context": {
     "primaryProfile": "modern-korea",

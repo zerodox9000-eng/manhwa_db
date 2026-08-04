@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Snow Plum Blossom",
-  "mangabaka_title": "Snow Plum Blossom",
+  "mangabaka_title": "Seolmaehwa",
   "native_title": "설매화",
-  "romanized_title": null,
+  "romanized_title": "Seolmaehwa",
   "titles": [
     {
       "language": "ko",
       "title": "설매화",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -19,6 +21,15 @@
       "title": "Plum Blossom in the Snow",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Seolmaehwa",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,22 +54,22 @@
       "note": null
     }
   ],
-  "description": "Ji-heon, a nobleman trapped in his elder brother’s shadow, and Seol-ho, a free spirit who defies social taboos despite his status as a slave.\n\nThe story of two men who hold each other’s leashes.\n\n---\n\n**Original Webtoon:**    \n[Lezhin](https://www.lezhin.com/ko/comic/snowplum), [Bomtoon](https://www.bomtoon.com/detail/snowplum)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3Nub3ctcGx1bS1ibG9zc29tLTEud2VicD90PTE3ODQ0NDE1MjM",
+  "description": "Ji-Heon, a nobleman trapped in his older brother’s shadow, and Seol-Ho, a free spirit who defies social taboos despite his status as a slave. The story of two men who hold each other’s leashes.\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDY4Mi1zUzVTYmoyWG5TT3YuanBn",
   "total_chapters": "5",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-20T04:28:23.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-02T10:59:51.031Z",
+  "last_updated_at": "2026-08-03T22:36:33.984Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214682,
+      "rating": null,
+      "url": "https://anilist.co/manga/214682"
+    },
     "animeplanet": {
       "id": "snow-plum-blossom",
       "rating": null,
@@ -89,6 +104,8 @@
     46,
     180,
     16,
+    31,
+    9,
     45,
     93,
     57,
@@ -100,9 +117,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6552,
+    "popularityPercentile": 0.1195,
+    "fanFavouriteDiscoveryScore": 5.0713,
+    "fanFavouriteDiscoveryPercentile": 0.1195
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Unsolved Detective",
-  "mangabaka_title": "Unsolved Detective",
+  "mangabaka_title": "Mihaegyeoltamjeong",
   "native_title": "미해결탐정",
-  "romanized_title": null,
+  "romanized_title": "Mihaegyeoltamjeong",
   "titles": [
     {
       "language": "ko",
       "title": "미해결탐정",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Mihaegyeoltamjeong",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,28 +41,28 @@
     }
   ],
   "description": "**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14476749)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzOTUxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDY4OC1iT3hkUFVBVWhiWjAuanBn",
   "total_chapters": "88",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2017,
   "published": {
-    "start_date": "2017-01-01",
+    "start_date": "2017-02-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-28T03:50:43.714Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-30T00:53:15.348Z",
+  "last_updated_at": "2026-08-04T02:16:04.423Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lee Jae-Hong"
+    "Jae-Hong Lee"
   ],
   "artists": [
-    "Lee Jae-Hong"
+    "Jae-Hong Lee"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598548",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214688,
+      "rating": null,
+      "url": "https://anilist.co/manga/214688"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "pabjxki",
@@ -70,8 +85,14 @@
   "tag_ids": [
     38,
     36,
+    22,
     39,
-    32
+    6,
+    32,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -79,9 +100,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6552,
+    "popularityPercentile": 0.1195,
+    "fanFavouriteDiscoveryScore": 5.0713,
+    "fanFavouriteDiscoveryPercentile": 0.1195
   },
   "context": {
     "primaryProfile": "modern-korea",

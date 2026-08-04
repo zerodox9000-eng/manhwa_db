@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Favorite Character Humiliation Simulation",
-  "mangabaka_title": "Favorite Character Humiliation Simulation",
+  "mangabaka_title": "Choeae Neungyong Simulation",
   "native_title": "최애 능욕 시뮬레이션",
-  "romanized_title": null,
+  "romanized_title": "Choeae Neungyong Simulation",
   "titles": [
     {
       "language": "ko",
       "title": "최애 능욕 시뮬레이션",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Choeae Neungyong Simulation",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,22 +40,22 @@
       "note": null
     }
   ],
-  "description": "Anna Hyun is an augmented-reality adult game developer. With development nearly complete, she creates lifelike versions of her favorite characters to fix bugs, satisfy her desires, and personally test their performance by having her way with them… But then a far more serious bug than expected occurs?!\n\n[Original Webtoon](https://www.bomtoon.com/detail/BullyMyBias)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2Zhdm9yaXRlLWNoYXJhY3Rlci1odW1pbGlhdGlvbi1zaW11bGF0aW9uLTEud2VicD90PTE3ODQzNjE0Mjc",
+  "description": "Anna Hyeon, a developer of adult AR games. With development nearing completion, she decides to implement her favorite characters, whom she’s always cherished, to fix bugs and satisfy her desires, and proceeds to test the game’s performance by subjecting them to abuse... but a more serious bug than expected pops up?!\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDY4NS1DTmxCQVU2ejNPaGYuanBn",
   "total_chapters": "7",
-  "status": "completed",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-01T21:55:27.409Z",
+  "last_updated_at": "2026-08-04T01:34:35.050Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214685,
+      "rating": null,
+      "url": "https://anilist.co/manga/214685"
+    },
     "animeplanet": {
       "id": "favorite-character-humiliation-simulation",
       "rating": null,
@@ -73,11 +88,14 @@
   },
   "tag_ids": [
     43,
+    59,
     20,
+    108,
     46,
     15,
     41,
     31,
+    9,
     93,
     57,
     428
@@ -88,9 +106,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6552,
+    "popularityPercentile": 0.1195,
+    "fanFavouriteDiscoveryScore": 5.0713,
+    "fanFavouriteDiscoveryPercentile": 0.1195
   },
   "context": {
     "primaryProfile": "engineering-builder",
