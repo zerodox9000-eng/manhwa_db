@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Fate Meets Destiny",
-  "mangabaka_title": "Fate Meets Destiny",
-  "native_title": "偶然出会った運命",
-  "romanized_title": null,
+  "mangabaka_title": "Eojjeoda Majuchin Unmyeong",
+  "native_title": "어쩌다 마주친 운명",
+  "romanized_title": "Eojjeoda Majuchin Unmyeong",
   "titles": [
     {
       "language": "ko",
       "title": "어쩌다 마주친 운명",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Eojjeoda Majuchin Unmyeong",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,29 +47,29 @@
       "note": null
     },
     {
-      "language": "zh",
+      "language": "zh-hk",
       "title": "偶然遇見的命運",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "An ordinary office worker, Woo Shin, who believed in a romantic love story. All the lovers he had been dating, thinking it was a fateful connection, turned out to be duds. Just as he was trying to turn his focus away from destiny and seek stability, someone keeps appearing in his line of sight.\n\nOnce... Twice... And then, three times...?\n\nCould this meeting be a coincidence, or is it fate?\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/fatewemet), [Lezhin](https://www.lezhin.com/ko/comic/fatewemet)\n\n**Official Translations:**  \n[T.Chinese](https://www.bomtoon.tw/detail/fatewemet), [Japanese](https://www.beltoon.jp/detail/fatewemet), [Thai](https://www.lezhinth.com/detail/fatewemet)\n\n##### Note: All official translations are uncensored, except for Japanese.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ZhdGUtbWVldHMtZGVzdGlueS0xLndlYnA_dD0xNzQ3NzkyODU1",
+  "description": "U-Sin is an ordinary office worker who believed in romantic love stories. All the previous lovers he dated, believing they were fated attraction, turned out to be total jerks. Just as he turns a blind eye to fate and seeks stability, there is someone who keeps catching his eye. Once... twice... and then three times...? Is this encounter a coincidence, or is it destiny?\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDcyNC0zTjJoMjNEaFA4bkcucG5n",
   "total_chapters": "10",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2025-02-07",
+    "end_date": "2025-02-07",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-04T00:30:52.930Z",
+  "last_updated_at": "2026-08-05T02:12:17.138Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214724,
+      "rating": null,
+      "url": "https://anilist.co/manga/214724"
+    },
     "animeplanet": {
       "id": "fate-meets-destiny",
       "rating": null,
@@ -89,6 +104,7 @@
     180,
     16,
     31,
+    9,
     93,
     57,
     428
@@ -99,9 +115,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6991,
+    "popularityPercentile": 0.2015,
+    "fanFavouriteDiscoveryScore": 5.1075,
+    "fanFavouriteDiscoveryPercentile": 0.2015
   },
   "context": {
     "primaryProfile": "corporate-workplace",

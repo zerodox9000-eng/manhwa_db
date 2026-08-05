@@ -2,22 +2,26 @@
   "id": 598705,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Ambroxan",
+  "display_title": "[XXL Anthology] Ambroxan",
   "mangabaka_title": "Ambroxan",
-  "native_title": "[XXL단편선] 앰브록산",
-  "romanized_title": null,
+  "native_title": "앰브록산",
+  "romanized_title": "Ambroxan",
   "titles": [
     {
       "language": "ko",
       "title": "앰브록산",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Ambroxan",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,40 +29,47 @@
       "language": "ko",
       "title": "[XXL단편선] 앰브록산",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "[XXL Anthology] Ambroxan",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[XXL Danpyeonseon] Ambroxan",
+      "traits": [],
       "is_primary": false,
       "note": null
     }
   ],
-  "description": "The top and bottom are members of the same organisation. Whilst they bicker daily over bottom’s obsessive-compulsive tidiness, which makes him the ‘brain’ of the group...\nOne day, as usual, top steps out of the shower whilst listening to bottom’s nagging, only to catch bottom masturbating with his underwear...\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/Ambroxan), [Lezhin](https://www.lezhin.com/ko/comic/ambroxan)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MjMzLnBuZw",
+  "description": "*Note: Part of CNC Revolution's XXL Danpyeonseon (XXL 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDcxNy03RDJwd0xXb0Z3VnkucG5n",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-03",
+    "end_date": "2026-08-03",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-31T04:15:25.825Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-03T09:03:18.812Z",
+  "last_updated_at": "2026-08-04T20:06:17.374Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kangpucon"
+    "Ppukon Kang"
   ],
   "artists": [
-    "Kangpucon"
+    "Ppukon Kang"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598705",
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214717,
+      "rating": null,
+      "url": "https://anilist.co/manga/214717"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "juhk2c5",
@@ -77,7 +92,12 @@
   "tag_ids": [
     46,
     41,
-    16
+    180,
+    16,
+    31,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -85,9 +105,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6991,
+    "popularityPercentile": 0.2015,
+    "fanFavouriteDiscoveryScore": 5.1075,
+    "fanFavouriteDiscoveryPercentile": 0.2015
   },
   "context": {
     "primaryProfile": "modern-korea",
