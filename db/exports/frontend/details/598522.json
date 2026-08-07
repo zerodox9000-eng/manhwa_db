@@ -4,13 +4,15 @@
   "type": "manhwa",
   "display_title": "Cherry on Top",
   "mangabaka_title": "Cherry on Top",
-  "native_title": "Icing On The Cake : アイシング・オン・ザ・ケーキ",
-  "romanized_title": null,
+  "native_title": "아이싱 온 더 케이크",
+  "romanized_title": "Icing on the Cake",
   "titles": [
     {
       "language": "ko",
       "title": "아이싱 온 더 케이크",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -24,15 +26,19 @@
     {
       "language": "en",
       "title": "Cherry on Top",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Icing on the Cake",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,22 +49,22 @@
       "note": null
     }
   ],
-  "description": "**Original Novel:**  \n[RIDI](https://ridibooks.com/books/1239020802), [MrBlue](https://www.mrblue.com/novel/E000148711), [Bookcube](https://www.bookcube.com/detail.asp?series_num=925039298)\n\n**Original Webtoon:**  \nLezhin, Bomtoon\n\n**Official Translations:**  \nEnglish, Spanish, French, German, T.Chinese, Thai, Japanese\n\n##### Note: All official translations are uncensored, except for Japanese. This series is a global release, meaning all official translations come out on the same day as the original Korean.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzOTE3LnBuZw",
+  "description": "Yuri Kiselyov has survived the absolute bottom of the underworld by keeping his head down and knowing his place. But protecting North American sports superstar Chariot \"Cherry\" Goodnight is a whole new kind of hazard. From the moment they meet, Cherry flirts relentlessly, up until he uncovers Yuri's criminal past. Suddenly, the charm turns to sharp hostility, and the cold shoulder gets brutal. But when a deadly hit turns a personal grudge into a life-or-death protection job, hatred becomes the least of their problems. Cherry might despise the ground Yuri walks on, but he can't keep his hands off him. Now stuck guarding a man who loathes his existence, Yuri has to keep Cherry alive...and figure out where sheer hostility ends and dangerous desire begins.\n\n(Source: Lezhin US, edited)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDc3NS1jMG85OUhiSjFyUXQucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-28T03:59:03.929Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-05T03:01:21.782Z",
+  "last_updated_at": "2026-08-07T01:06:04.088Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +72,7 @@
     "Seonsu"
   ],
   "artists": [
-    "Yeon Seo"
+    "Yeon-Seo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598522",
@@ -74,7 +80,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214775,
+      "rating": null,
+      "url": "https://anilist.co/manga/214775"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "dvmguat",
@@ -83,10 +93,17 @@
     }
   },
   "tag_ids": [
+    336,
+    118,
     46,
+    180,
     16,
     31,
-    9
+    9,
+    30,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -94,9 +111,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6869,
+    "popularityPercentile": 0.1418,
+    "fanFavouriteDiscoveryScore": 5.0843,
+    "fanFavouriteDiscoveryPercentile": 0.1418
   },
   "context": {
     "primaryProfile": "modern-korea",
