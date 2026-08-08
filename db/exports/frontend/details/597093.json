@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Past-Life Demon",
-  "mangabaka_title": "Past-Life Demon",
+  "mangabaka_title": "Jeonsaengmain",
   "native_title": "전생마인",
-  "romanized_title": null,
+  "romanized_title": "Jeonsaengmain",
   "titles": [
     {
       "language": "ko",
       "title": "전생마인",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jeonsaengmain",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,30 @@
       "note": null
     }
   ],
-  "description": "The Shadows of the Heavenly Demon Cult undergo extreme training beyond human limits solely to protect the young cult leader. Throughout their terrifying history, not a single Shadow has ever managed to rise to the rank of Cult Elder. However, a historic anomaly occurs when a Shadow reaches the pinnacle of demonic martial arts mastery for the very first time.\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69794848), [Daum](https://webtoon.kakao.com/content/%EC%A0%84%EC%83%9D%EB%A7%88%EC%9D%B8/4915)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMDg0LmpwZw",
+  "description": "The shadow of the Heavenly Horse Sect, a result of training that pushed beyond all limits to protect its Young Sect Leader. None of those terrifying shadows have ever risen to become an elder of the Heavenly Horse Sect. Yet, by some twist of fate, a master of Extreme Horse has emerged for the first time in the history of the shadows.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDgzNi11Q1hDYlduanBCZTMuanBn",
   "total_chapters": "21",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-19",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-22T04:11:09.134Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-02T13:12:15.704Z",
+  "last_updated_at": "2026-08-08T02:06:18.366Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Boyongdo"
+    "Boyongdo",
+    "Sang-Mo Yu"
   ],
   "artists": [
-    "Yoo Sangmo"
+    "Sang-Mo Yu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/597093",
@@ -52,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214836,
+      "rating": null,
+      "url": "https://anilist.co/manga/214836"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "16tfe0z",
@@ -62,10 +78,15 @@
   },
   "tag_ids": [
     8,
+    58,
+    126,
     36,
     39,
     31,
-    29
+    29,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -73,9 +94,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.6653,
+    "popularityPercentile": 0.1417,
+    "fanFavouriteDiscoveryScore": 5.0808,
+    "fanFavouriteDiscoveryPercentile": 0.1417
   },
   "context": {
     "primaryProfile": "modern-korea",

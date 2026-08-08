@@ -2,7 +2,7 @@
   "id": 599073,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Jamsikjeom",
+  "display_title": "Erosion Point",
   "mangabaka_title": "Jamsikjeom",
   "native_title": "잠식점",
   "romanized_title": "Jamsikjeom",
@@ -24,6 +24,20 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "[Basement Anthology] Erosion Point",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Erosion Point",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Jamsikjeom",
       "traits": [
@@ -35,6 +49,13 @@
     {
       "language": "ko-Latn",
       "title": "[Jihasil Danpyeonseon] Jamsikjeom",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Infestation Point",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -55,7 +76,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.737Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-06T19:32:44.748Z",
+  "last_updated_at": "2026-08-08T00:36:17.318Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -76,25 +97,33 @@
       "url": "https://anilist.co/manga/214713"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "ilhn1ns",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/ilhn1ns"
+    }
   },
   "tag_ids": [
+    46,
+    15,
+    41,
     180,
+    16,
     31,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 2,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.6869,
-    "popularityPercentile": 0.3805,
-    "fanFavouriteDiscoveryScore": 5.1698,
-    "fanFavouriteDiscoveryPercentile": 0.3731
+    "fanRatioPercentile": 31.6653,
+    "popularityPercentile": 3.3709,
+    "fanFavouriteDiscoveryScore": 6.3358,
+    "fanFavouriteDiscoveryPercentile": 3.1322
   }
 }
