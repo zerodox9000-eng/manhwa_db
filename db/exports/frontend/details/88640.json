@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Deijeu",
-  "mangabaka_title": "Deijeu",
-  "native_title": "デイズ (Yangsoo)",
-  "romanized_title": null,
+  "mangabaka_title": "Days",
+  "native_title": "데이즈",
+  "romanized_title": "Days",
   "titles": [
     {
       "language": "ko",
       "title": "데이즈",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -19,6 +21,15 @@
       "title": "데이즈 Days",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Days",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,29 +54,29 @@
       "note": null
     }
   ],
-  "description": "Jihun Han, or maybe the being called Adam.  \nThe being with the earliest memories of mankind, that repeats birth and death.  \nAdam has existed in the scenes of various historical events.  \nNow, the being does not want to repeat its life cycle of birth and death.  \nHe has planned for the end of the world to put an end to the eternal cycle of life.  \nHe has planned to execute the plan in this particular life as Jihun Han.   \n\n**Original Webtoon:**  \n[Naver Series](https://series.naver.com/comic/detail.nhn?productNo=5290983), [MrBlue](https://www.mrblue.com/webtoon/wt_000074516), [KakaoPage](https://page.kakao.com/content/69900078) \n\n**Official Translations:**     \n[Japanese](https://manga.line.me/product/periodic?id=Z0001374)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzU2MzkzLmpwZw",
+  "description": "Han Ji-Han, the eldest son of South Korea’s most powerful chaebol family and the family’s black sheep, was heavily intoxicated again today. He returned home after receiving a call from his father for the first time in a long while, but all he found there were the bodies of his father and younger brother, and only the youngest son, Han Ji-Hun, still alive. The youngest son, who had been acting like a spoiled child just yesterday, pointed his finger at Han Ji-Han in front of a crowd of police officers, accusing him of the crime?!\n\n(Source: Naver Series, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDg0My1JNHFoQmlRTFBCcVcuanBn",
   "total_chapters": "99",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2020,
   "published": {
-    "start_date": "2020-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2020-07-14",
+    "end_date": "2022-06-04",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:42:16.189Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-26T12:43:39.991Z",
+  "last_updated_at": "2026-08-08T03:16:49.462Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yangsu"
+    "Yang-Su"
   ],
   "artists": [
-    "Yangsu"
+    "Yang-Su"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/88640",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214843,
+      "rating": null,
+      "url": "https://anilist.co/manga/214843"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "gby80f9",
@@ -82,22 +97,31 @@
     }
   },
   "tag_ids": [
+    288,
     8,
+    58,
     36,
     22,
     39,
     31,
-    18
+    32,
+    18,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7248,
+    "popularityPercentile": 0.4319,
+    "fanFavouriteDiscoveryScore": 5.1946,
+    "fanFavouriteDiscoveryPercentile": 0.4245
   },
   "context": {
     "primaryProfile": "modern-korea",

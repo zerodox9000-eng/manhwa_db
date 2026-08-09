@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Kidnapped Dragons",
-  "mangabaka_title": "Kidnapped Dragons",
+  "mangabaka_title": "Dragonnap",
   "native_title": "드래곤을 유괴하다",
   "romanized_title": "Dragon-eul Yugoehada",
   "titles": [
@@ -29,6 +29,15 @@
       "language": "en",
       "title": "Dragon-eul Yugoehada",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Dragonnap",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -75,12 +84,12 @@
       "note": null
     }
   ],
-  "description": "Yu Ji-Tae, a regressor with unparalleled power. Even with that power and repeated regressions, he was unable to prevent the destruction of Earth. The cause of this destruction was four baby dragons who came to Earth to play. The story of a man who, rather than possessing absolute power, seeks to protect them and prevent destruction.\n\n(Source: KakaoPage, translated)",
+  "description": "Yu Jitae is a Regressor wielding limitless power—and he still isn't strong enough to prevent the end of the world. Because four bored, young dragons once descended to Earth for fun, Yu has been caught in an endless cycle of failing to stop the apocalypse. But this time, in yet another timeline, Yu decides to try something different: maybe he can nurture the destruction out of these dragons as their guardian!\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83L2YvNi8zL2YvNi8xLzQvZDI5OC80ZGNlLzhiYzUvNmE0MzVhNWYzZjQz",
   "total_chapters": "54",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-12-09",
@@ -90,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-07T17:41:25.511Z",
+  "last_updated_at": "2026-08-08T21:12:37.403Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -102,8 +111,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/569572",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://tapas.io/series/dragonnap/info",
+    "read_en_all": [
+      "https://tapas.io/series/dragonnap/info"
+    ]
   },
   "source": {
     "anilist": {
@@ -165,16 +176,16 @@
     121
   ],
   "stats": {
-    "popularity": 3777,
+    "popularity": 3797,
     "favourites": 67,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7739,
-    "fanRatioPercentile": 66.1571,
-    "popularityPercentile": 94.2054,
-    "fanFavouriteDiscoveryScore": 66.0209,
-    "fanFavouriteDiscoveryPercentile": 74.5246
+    "fanFavouriteRaw": 1.7646,
+    "fanRatioPercentile": 66.0039,
+    "popularityPercentile": 94.2434,
+    "fanFavouriteDiscoveryScore": 65.8684,
+    "fanFavouriteDiscoveryPercentile": 74.4191
   },
   "context": {
     "primaryProfile": "business-career-regression",

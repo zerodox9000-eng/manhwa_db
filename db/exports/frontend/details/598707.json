@@ -2,22 +2,35 @@
   "id": 598707,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Ki-ChanFans",
-  "mangabaka_title": "Ki-ChanFans",
-  "native_title": "ギチャンTV",
-  "romanized_title": "Ki-ChanFans",
+  "display_title": "Ki-chanFans",
+  "mangabaka_title": "Ki-chanFans",
+  "native_title": "기찬TV",
+  "romanized_title": "Ki-Chan TV",
   "titles": [
     {
+      "language": "en",
+      "title": "Ki-chanFans",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
-      "title": "Ki-ChanFans",
-      "traits": [],
+      "title": "Ki-Chan TV",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "기찬TV",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,36 +49,36 @@
       "note": null
     },
     {
-      "language": "zh-hk",
+      "language": "ko",
       "title": "基燦TV",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**  \nLezhin\n\n**Official Translations:**  \nEnglish, Spanish, T.Chinese, Thai, Japanese\n\n##### Note: All official translations are uncensored, except for Japanese. This series is a global release, meaning all official translations come out on the same day as the original Korean.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0Mzk4LnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNDg3NS1BRjF5RzFjRUg4aFUucG5n",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "upcoming",
+  "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-31T04:15:25.823Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-05T14:31:52.772Z",
+  "last_updated_at": "2026-08-08T22:46:20.875Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Leaf (III)"
+    "Purip"
   ],
   "artists": [
-    "Leaf (III)"
+    "Purip"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598707",
@@ -73,7 +86,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214875,
+      "rating": null,
+      "url": "https://anilist.co/manga/214875"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "32d05c6",
@@ -82,6 +99,7 @@
     }
   },
   "tag_ids": [
+    180,
     16
   ],
   "stats": {
@@ -90,9 +108,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7248,
+    "popularityPercentile": 0.1638,
+    "fanFavouriteDiscoveryScore": 5.0982,
+    "fanFavouriteDiscoveryPercentile": 0.1638
   },
   "context": {
     "primaryProfile": "modern-korea",

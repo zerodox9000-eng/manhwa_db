@@ -2,20 +2,31 @@
   "id": 597242,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Please Help Princess Deokhye",
-  "mangabaka_title": "Help Princess Deokhye",
+  "display_title": "Help Princess Deokhye",
+  "mangabaka_title": "Deokyeongjureul Dowajwo",
   "native_title": "덕혜옹주를 도와줘",
-  "romanized_title": "Help Princess Deokhye",
+  "romanized_title": "Deokyeongjureul Dowajwo",
   "titles": [
     {
       "language": "ko",
       "title": "덕혜옹주를 도와줘",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
+      "title": "Deokyeongjureul Dowajwo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Help Princess Deokhye",
       "traits": [],
       "is_primary": true,
@@ -25,33 +36,33 @@
       "language": "en",
       "title": "Please Help Princess Deokhye",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "High school student Hyunmin is transported one hundred years into the past—to an elite girls’ academy for aristocrats. In a place rife with political intrigue and blatant discrimination, she has only one mission: To protect one girl’s dignity—and her heart.\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69454911/), [Daum](https://webtoon.kakao.com/content/%EB%8D%95%ED%98%9C%EC%98%B9%EC%A3%BC%EB%A5%BC-%EB%8F%84%EC%99%80%EC%A4%98/4918)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMjU3LnBuZw",
+  "description": "Hyeon-Min, a high school girl, finds herself transported back 100 years to an aristocratic girls’ school. In a world rife with political strife and blatant discrimination, she has only one mission: to protect a young girl’s dignity and heart!\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDg0Mi1sZjY1YzN0ckRYUVguanBn",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-23T04:09:48.457Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-05T03:11:19.543Z",
+  "last_updated_at": "2026-08-08T06:21:05.890Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Fist"
+    "Inpyo Hong"
   ],
   "artists": [
-    "Hong In-Pyo"
+    "Jumeok"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/597242",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214842,
+      "rating": null,
+      "url": "https://anilist.co/manga/214842"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "5w4346n",
@@ -69,19 +84,24 @@
   },
   "tag_ids": [
     40,
+    59,
     36,
+    94,
+    31,
     9,
     45
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7248,
+    "popularityPercentile": 0.1638,
+    "fanFavouriteDiscoveryScore": 5.0982,
+    "fanFavouriteDiscoveryPercentile": 0.1638
   },
   "context": {
     "primaryProfile": "euro-fantasy",

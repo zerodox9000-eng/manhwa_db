@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Misfit on the Florida",
-  "mangabaka_title": "Misfit on the Florida",
+  "mangabaka_title": "Jisangnagwonui Bujeogeungja",
   "native_title": "지상낙원의 부적응자",
-  "romanized_title": null,
+  "romanized_title": "Jisangnagwonui Bujeogeungja",
   "titles": [
     {
       "language": "ko",
       "title": "지상낙원의 부적응자",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jisangnagwonui Bujeogeungja",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nLezhin, Bomtoon",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0NDA3LnBuZw",
+  "description": "Character Profiles\n\n**Original Webtoon:**  \nLezhin, Bomtoon",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNDg1MS04MW9CclFOdkV6dlAucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "upcoming",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-01T04:18:52.921Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-06T01:11:03.479Z",
+  "last_updated_at": "2026-08-08T04:16:17.878Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jeong Won Sa"
+    "Won-Sa Jeong"
   ],
   "artists": [
-    "Jeong Won Sa"
+    "Won-Sa Jeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598796",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214851,
+      "rating": null,
+      "url": "https://anilist.co/manga/214851"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "vsswxzk",
@@ -62,17 +77,20 @@
   },
   "tag_ids": [
     16,
-    31
+    31,
+    57
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7248,
+    "popularityPercentile": 0.8192,
+    "fanFavouriteDiscoveryScore": 5.3363,
+    "fanFavouriteDiscoveryPercentile": 0.7819
   },
   "context": {
     "primaryProfile": "modern-korea",
