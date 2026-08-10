@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Wife Waited in the Wheat Fields",
-  "mangabaka_title": "My Wife Waited in the Wheat Fields",
+  "mangabaka_title": "Buineun Milbateseo Gidaryeotda",
   "native_title": "부인은 밀밭에서 기다렸다",
-  "romanized_title": "Buin-eun Milbat-eseo Gidaryeotda",
+  "romanized_title": "Buineun Milbateseo Gidaryeotda",
   "titles": [
     {
       "language": "ko",
@@ -18,7 +18,7 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Buin-eun Milbat-eseo Gidaryeotda",
+      "title": "Buineun Milbateseo Gidaryeotda",
       "traits": [
         "native"
       ],
@@ -69,14 +69,14 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-06-08",
+    "start_date": "2026-05-22",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-08T15:52:40.519Z",
+  "last_updated_at": "2026-08-09T22:36:47.296Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -91,7 +91,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214900,
+      "rating": null,
+      "url": "https://anilist.co/manga/214900"
+    },
     "animeplanet": {
       "id": "my-wife-waited-in-the-wheat-fields",
       "rating": 76,
@@ -112,6 +116,7 @@
     74,
     405,
     1125,
+    108,
     450,
     36,
     894,
@@ -131,9 +136,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7082,
+    "popularityPercentile": 0.1563,
+    "fanFavouriteDiscoveryScore": 5.0929,
+    "fanFavouriteDiscoveryPercentile": 0.1563
   },
   "context": {
     "primaryProfile": "euro-fantasy",

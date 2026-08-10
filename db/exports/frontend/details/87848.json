@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Boxman: Tale of Ouroboros",
-  "mangabaka_title": "Boxman: Tale of Ouroboros",
+  "mangabaka_title": "Boxman: Renzoku Satsujin no Kiroku",
   "native_title": "ボックスマン～連続殺人の記録～",
-  "romanized_title": null,
+  "romanized_title": "Boxman: Renzoku Satsujin no Kiroku",
   "titles": [
     {
       "language": "ko",
@@ -15,10 +15,26 @@
       "note": null
     },
     {
+      "language": "ja-Latn",
+      "title": "Boxman: Renzoku Satsujin no Kiroku",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Boxman: Tale of Ouroboros",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "THE BOXMAN PART. 1 TAIL OF OUROBOROS",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -38,35 +54,38 @@
     {
       "language": "ja",
       "title": "ボックスマン～連続殺人の記録～",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Called Boxman for handing over information in a box, Cho Sung-jin is caught in a murder case while getting information through station producers, police and pimpers. At first, he is excited to think that he caught the scoop, but he feels angry and frustrated with the criminal as people around him are getting hurt and being threatened. Then he decides to catch an accomplice who is slowly creeping into his life...\n\n**Original Webtoon:**     \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=12772995), [MrBlue](https://www.mrblue.com/webtoon/wt_000070877), [KakaoPage](https://page.kakao.com/content/69432285) \n\n**Official Translations:**  \n[Japanese](https://dbook.docomo.ne.jp/list/1I21/800f2d198aba099d7777dff4e49c0b17589bdaaf3b689212991cc9cfc9a61eb6/)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDk3NTA2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDg5OC11dDNsS242ekJkTjAuanBn",
   "total_chapters": "50",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2024-06-13",
+    "end_date": "2025-03-20",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-28T09:11:05.974Z",
+  "last_updated_at": "2026-08-09T19:46:16.546Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Box",
-    "STORY TELLING"
+    "Han",
+    "Jae-Yeong Sin",
+    "Seu Park"
   ],
   "artists": [
-    "Box"
+    "Seu Park"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/87848",
@@ -74,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214898,
+      "rating": null,
+      "url": "https://anilist.co/manga/214898"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "883xjxh",
@@ -84,9 +107,14 @@
   },
   "tag_ids": [
     8,
+    58,
     15,
     31,
-    32
+    32,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -94,9 +122,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7082,
+    "popularityPercentile": 0.1563,
+    "fanFavouriteDiscoveryScore": 5.0929,
+    "fanFavouriteDiscoveryPercentile": 0.1563
   },
   "context": {
     "primaryProfile": "modern-korea",
