@@ -2,7 +2,7 @@
   "id": 599123,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Hwarim's Divine Brush",
+  "display_title": "The Divine Brush",
   "mangabaka_title": "Hwarimsinpil",
   "native_title": "화림신필",
   "romanized_title": "Hwarimsinpil",
@@ -10,7 +10,9 @@
     {
       "language": "ko",
       "title": "화림신필",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,13 +20,15 @@
       "language": "en",
       "title": "Hwarim's Divine Brush",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Hwarimsinpil",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -32,7 +36,7 @@
       "language": "en",
       "title": "The Divine Brush",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,22 +47,22 @@
       "note": null
     }
   ],
-  "description": "Mu-yeong may have been born a servant, but he dedicated his life to mastering his own unique art—until it was ruthlessly stolen by the Young Master, Hwang Hwi. Framed as a thief for allegedly stealing the Young Master's paintings, Mu-yeong is stripped of everything. Now, to reclaim his stolen identity, he vows a bloody revenge against the corrupt establishment of the Orthodox Faction.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852506), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14425783)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0ODgyLmpwZw",
+  "description": "Mu-Yeong, a former slave, has his unique paintings, the culmination of a lifetime’s work, stolen by the young master Hwang Hwi, and is then falsely accused of stealing the young master’s paintings. Determined to reclaim his stolen identity, Mu-Yeong vows to take revenge on the established powers of the orthodox school.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDk3NS1uRnNWdUVQVVdaWDcuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-05",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-06T03:59:41.147Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-09T19:55:20.301Z",
+  "last_updated_at": "2026-08-10T22:46:13.183Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214975,
+      "rating": null,
+      "url": "https://anilist.co/manga/214975"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "e2rn91k",
@@ -83,10 +91,16 @@
   },
   "tag_ids": [
     38,
+    58,
+    36,
     39,
     31,
     29,
-    45
+    227,
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -94,8 +108,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7557,
+    "popularityPercentile": 0.208,
+    "fanFavouriteDiscoveryScore": 5.119,
+    "fanFavouriteDiscoveryPercentile": 0.208
   }
 }

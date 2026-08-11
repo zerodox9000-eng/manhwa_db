@@ -2,15 +2,26 @@
   "id": 599373,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Licht (Yongwa)",
-  "mangabaka_title": "Licht (Yongwa)",
+  "display_title": "Licht",
+  "mangabaka_title": "Licht",
   "native_title": "리히트",
-  "romanized_title": "Licht (Yongwa)",
+  "romanized_title": "Licht",
   "titles": [
     {
       "language": "ko",
       "title": "리히트",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Licht",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853411), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14548342)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1MTUyLmpwZw",
+  "description": "A world where 1,000 years have passed since the dragons disappeared. On the night before her coming-of-age ceremony, a girl named Rit, who lost her younger sister in an attack by an assailant, sets out on a quest to bring her sister back to life.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDk3OS1YT0RWeDBKcWFGeXMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-09T02:46:03.863Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-09T16:59:20.245Z",
+  "last_updated_at": "2026-08-10T23:06:43.308Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yongwa"
+    "Yonggwa"
   ],
   "artists": [
-    "Yongwa"
+    "Yonggwa"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/599373",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214979,
+      "rating": null,
+      "url": "https://anilist.co/manga/214979"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "88u55h8",
@@ -62,9 +77,13 @@
   },
   "tag_ids": [
     38,
+    59,
     36,
     39,
-    37
+    37,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -72,8 +91,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7557,
+    "popularityPercentile": 0.208,
+    "fanFavouriteDiscoveryScore": 5.119,
+    "fanFavouriteDiscoveryPercentile": 0.208
   }
 }

@@ -3,10 +3,26 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "XX Under the Broken Air Conditioner",
-  "mangabaka_title": "XX Under the Broken Air Conditioner",
-  "native_title": "[곧휴가철 단편선] 고장난 에어컨 아래 XX",
-  "romanized_title": null,
+  "mangabaka_title": "Gojangnan Eeokeon Arae XX",
+  "native_title": "고장난 에어컨 아래 XX",
+  "romanized_title": "Gojangnan Eeokeon Arae XX",
   "titles": [
+    {
+      "language": "ko-Latn",
+      "title": "Gojangnan Eeokeon Arae XX",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gotyugacheol Danpyeonseon] Gojangnan Eeokeon Arae XX",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
     {
       "language": "en",
       "title": "[Soon-to-Vacation Season Anthology] XX Under the Broken Air Conditioner",
@@ -31,15 +47,17 @@
     {
       "language": "ko",
       "title": "고장난 에어컨 아래 XX",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[곧휴가철 단편선] 고장난 에어컨 아래 XX",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -57,29 +75,29 @@
       "note": null
     }
   ],
-  "description": "In the sweltering heat of summer, Jae-yi decides to become independent and moves into a small studio apartment for a fresh start. Having only ever dated scumbags in the past, she is firmly determined not to get entangled with anyone ever again. However, starting on her very first day, she gets into an argument over parking with the man next door—and somehow, she keeps getting tangled up with this guy named Ji Hyun-woo...\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/broken_aircon)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MTU5LmpwZw",
+  "description": "*Note: Part of Lezhin's Gotyugacheol Danpyeonseon (곧휴가철 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDU5MC03Q1ZZb0M0SUFlNW0uanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-30",
+    "end_date": "2026-07-30",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-09T05:13:21.361Z",
+  "last_updated_at": "2026-08-11T02:06:15.298Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "PARK Geun"
+    "Geun Park"
   ],
   "artists": [
-    "PARK Geun"
+    "Geun Park"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598669",
@@ -87,7 +105,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214590,
+      "rating": 79,
+      "url": "https://anilist.co/manga/214590"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "gmpen5v",
@@ -97,19 +119,27 @@
   },
   "tag_ids": [
     43,
+    629,
+    108,
     46,
     41,
-    9
+    498,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 17,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7557,
+    "popularityPercentile": 11.6651,
+    "fanFavouriteDiscoveryScore": 10.5751,
+    "fanFavouriteDiscoveryPercentile": 10.7512
   },
   "context": {
     "primaryProfile": "modern-korea",
