@@ -2,10 +2,10 @@
   "id": 599074,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Lingering Attachment",
+  "display_title": "The Lingering Shadow",
   "mangabaka_title": "Janyeon",
   "native_title": "잔연",
-  "romanized_title": "Janyeon",
+  "romanized_title": "Aftermath (Jjeongu)",
   "titles": [
     {
       "language": "ko",
@@ -13,6 +13,20 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Aftermath (Jjeongu)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "[Antología de historias cortas XXL] — Vestigio",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -29,6 +43,13 @@
       "language": "en",
       "title": "Lingering Attachment",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Lingering Shadow",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -42,6 +63,27 @@
     {
       "language": "ko-Latn",
       "title": "[XXL Danpyeonseon] Janyeon",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ru",
+      "title": "Последняя связь",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "ควันหลง",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "ชันยอน",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -62,7 +104,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.737Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-10T19:44:57.606Z",
+  "last_updated_at": "2026-08-11T22:01:42.673Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -83,25 +125,31 @@
       "url": "https://anilist.co/manga/214715"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "ce9vmcy",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/ce9vmcy"
+    }
   },
   "tag_ids": [
+    46,
     180,
+    16,
     31,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 4,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.7557,
-    "popularityPercentile": 1.4043,
-    "fanFavouriteDiscoveryScore": 5.5616,
-    "fanFavouriteDiscoveryPercentile": 1.3374
+    "fanRatioPercentile": 31.7861,
+    "popularityPercentile": 2.0423,
+    "fanFavouriteDiscoveryScore": 5.8153,
+    "fanFavouriteDiscoveryPercentile": 1.9235
   }
 }

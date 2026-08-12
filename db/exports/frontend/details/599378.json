@@ -2,7 +2,7 @@
   "id": 599378,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Swaebingseon",
+  "display_title": "Icebreaker",
   "mangabaka_title": "Swaebingseon",
   "native_title": "쇄빙선",
   "romanized_title": "Swaebingseon",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Icebreaker",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -41,7 +48,7 @@
   },
   "first_seen_at": "2026-08-09T02:46:03.863Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-10T19:27:27.984Z",
+  "last_updated_at": "2026-08-11T19:28:01.461Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -58,14 +65,20 @@
   "source": {
     "anilist": {
       "id": 214864,
-      "rating": null,
+      "rating": 10,
       "url": "https://anilist.co/manga/214864"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "iph01ek",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/iph01ek"
+    }
   },
   "tag_ids": [
+    46,
     180,
+    16,
     31,
     9,
     93,
@@ -73,15 +86,15 @@
     428
   ],
   "stats": {
-    "popularity": 4,
+    "popularity": 6,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 10
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.7557,
-    "popularityPercentile": 1.4043,
-    "fanFavouriteDiscoveryScore": 5.5616,
-    "fanFavouriteDiscoveryPercentile": 1.3374
+    "fanRatioPercentile": 31.7861,
+    "popularityPercentile": 2.7627,
+    "fanFavouriteDiscoveryScore": 6.106,
+    "fanFavouriteDiscoveryPercentile": 2.5548
   }
 }

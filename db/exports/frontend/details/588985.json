@@ -5,25 +5,36 @@
   "display_title": "Teto X Egen",
   "mangabaka_title": "Teto X Egen",
   "native_title": "테토X에겐",
-  "romanized_title": null,
+  "romanized_title": "Teto X Egen",
   "titles": [
     {
-      "language": "en",
-      "title": "Teto X Egen",
+      "language": "ko",
+      "title": "Teto Girl and Egen Guy, 테토와 에겐",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Teto X Egen",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "테토X에겐",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Haeseon, a driven \"Teto girl\" whose entire life revolves around her career, and Seonho, a quiet \"Egen guy\" who wants nothing more than to stay home with his cat.\n\nLiving in entirely different worlds, the two were like parallel lines destined never to cross. That is, until they are forced onto the same Task Force team—and to make matters worse, they discover they live right next door to each other! As their daily routines become hopelessly entangled, Seonho's \"first love\" suddenly enters the picture...!\n\nWhat will become of this chaotic, nerve-wracking, and strangely heart-fluttering romance between two complete opposites?\n\n_Source: Millie ui Seojae, translated_",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RldG8teC1lZ2VuLTEud2VicD90PTE3ODI2NjMyMDE",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTA4MC1VVHY5YjFaZkNoeW4ucG5n",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
@@ -37,7 +48,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-11T00:21:13.820Z",
+  "last_updated_at": "2026-08-11T23:36:14.166Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215080,
+      "rating": null,
+      "url": "https://anilist.co/manga/215080"
+    },
     "animeplanet": {
       "id": "teto-x-egen",
       "rating": 78,
@@ -88,6 +103,7 @@
     401,
     272,
     284,
+    6,
     31,
     776,
     9,
@@ -104,9 +120,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7861,
+    "popularityPercentile": 0.2005,
+    "fanFavouriteDiscoveryScore": 5.1212,
+    "fanFavouriteDiscoveryPercentile": 0.2005
   },
   "context": {
     "primaryProfile": "business-career-regression",
