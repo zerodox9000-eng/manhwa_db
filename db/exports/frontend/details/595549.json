@@ -3,21 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Substitute Hero",
-  "mangabaka_title": "Substitute Hero",
+  "mangabaka_title": "Daetayongsa",
   "native_title": "대타용사",
   "romanized_title": "Daetayongsa",
   "titles": [
     {
       "language": "ko",
       "title": "대타용사",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Daetayongsa",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -50,29 +54,29 @@
       "note": null
     }
   ],
-  "description": "To escape the looming threat of the Demon King, the people of another world begin summoning powerful warriors from different worlds. Meanwhile, an ordinary office worker named Song Lee-seok is summoned by mistake simply because he shares the same name as South Korea's strongest martial artist. But the people of this world mistake him for the legendary hero! Thrown into an adventure built on a lie, can this completely average man keep up the act and somehow defeat the Demon King before his true identity is exposed?\n\n**Original Webtoon**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=849541), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13991460)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwOTU2LmpwZw",
+  "description": "To escape the threat of the Demon King, the inhabitants of another world began summoning powerful individuals from other realms. Meanwhile, Song Yi-seok—an ordinary office worker—was summoned simply because he shared his name with South Korea’s greatest martial artist. Yet, the people of this new world mistook him for the ultimate hero! Amidst an adventure built on a misunderstanding, can he manage to defeat the Demon King while keeping his ordinariness a secret? \n\n(Naver translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTI1Ny1NVlRLYTEzcUtOS1YuanBn",
   "total_chapters": "10",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-01",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-10T10:11:20.703Z",
+  "last_updated_at": "2026-08-13T01:06:19.543Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Bat (밭)"
+    "Bat"
   ],
   "artists": [
-    "Bat (밭)"
+    "Bat"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595549",
@@ -80,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215257,
+      "rating": null,
+      "url": "https://anilist.co/manga/215257"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "60iyazg",
@@ -91,8 +99,12 @@
   "tag_ids": [
     38,
     36,
+    22,
     39,
-    37
+    37,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -100,9 +112,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7254,
+    "popularityPercentile": 0.2375,
+    "fanFavouriteDiscoveryScore": 5.1247,
+    "fanFavouriteDiscoveryPercentile": 0.2375
   },
   "context": {
     "primaryProfile": "corporate-workplace",

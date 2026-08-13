@@ -2,22 +2,33 @@
   "id": 599295,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Live With Me (Su-Hyun)",
+  "display_title": "Live With Me",
   "mangabaka_title": "Live With Me (Su-Hyun)",
   "native_title": "나랑 같이살아",
-  "romanized_title": "Live With Me (Su-Hyun)",
+  "romanized_title": "Na rang Gachisara",
   "titles": [
     {
       "language": "ko",
       "title": "나랑 같이살아",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Live With Me",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Live With Me (Su-Hyun)",
-      "traits": [],
+      "title": "Na rang Gachisara",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -37,7 +48,7 @@
   },
   "first_seen_at": "2026-08-08T02:38:24.102Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-11T20:08:21.745Z",
+  "last_updated_at": "2026-08-12T22:50:45.895Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [

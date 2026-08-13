@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "High School Nurse",
-  "mangabaka_title": "High School Nurse",
-  "native_title": null,
+  "mangabaka_title": "Yangho Seonsaeng",
+  "native_title": "양호 선생",
   "romanized_title": "School Nurse (Chungri)",
   "titles": [
     {
       "language": "ko",
       "title": "양호 선생",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,33 +27,43 @@
       "language": "ko-Latn",
       "title": "School Nurse (Chungri)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yangho Seonsaeng",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/highschoo_nurse)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1MzYwLmpwZw",
+  "description": "I’m Seo Taeseok. I used to be the best enforcer at headquarters, but now I’m just a small-town gangster holed up in the middle of nowhere with my little brother. If they tell me to beat someone up, I beat them up. If they tell me to collect money, I collect it. That’s the kind of country bumpkin I am. Then one day, I went to my brother’s high school looking for him and met this petite woman in the nurse’s office. Why does a woman in long sleeves and a white coat make me so damn horny?\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/highschoo_nurse)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDk2Ny1GcnF0ZEo0TGg3RlguanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-12T03:15:20.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-11T15:36:51.537Z",
+  "last_updated_at": "2026-08-12T16:12:15.102Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yoo Hong-Cha"
+    "Chungni",
+    "Hong-Cha Yu"
   ],
   "artists": [
-    "Chungri"
+    "Chungni"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/599589",
@@ -59,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214967,
+      "rating": null,
+      "url": "https://anilist.co/manga/214967"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "l6ch4hd",
@@ -69,20 +85,28 @@
   },
   "tag_ids": [
     43,
+    59,
     107,
+    36,
     46,
     41,
+    109,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7254,
+    "popularityPercentile": 0.5046,
+    "fanFavouriteDiscoveryScore": 5.221,
+    "fanFavouriteDiscoveryPercentile": 0.4972
   }
 }

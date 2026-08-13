@@ -3,8 +3,8 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "SSS-Class Regressor Has No Conscience",
-  "mangabaka_title": "SSS-Class Regressor Has No Conscience",
-  "native_title": "SSS级回归者毫无底线",
+  "mangabaka_title": "SSS-geum Hoegwijaneun Yangsimdo Eopseumnida",
+  "native_title": "SSS급 회귀자는 양심도 없습니다",
   "romanized_title": "An SSS-Class Regressor Has No Shame",
   "titles": [
     {
@@ -24,14 +24,25 @@
     {
       "language": "ko",
       "title": "SSS급 회귀자는 양심도 없습니다",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "SSS-Class Regressor Has No Conscience",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "SSS-Class Regressor Has No Conscience",
-      "traits": [],
+      "title": "SSS-geum Hoegwijaneun Yangsimdo Eopseumnida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -58,29 +69,28 @@
     }
   ],
   "description": "She lived solely for revenge, and even death would have been worth it if she could fight back against those who ruined her life. \n\nBut after a mysterious fragment grants her an SSS-grade hidden skill and sends her back in time, she gets a second chance at revenge. However, her plans are thrown into chaos when her overprotective childhood friend, an obsessive psychopath hunter, and a baby Black Flame Dragon she saved all become attached to her. Now, she must figure out how to pursue her revenge while dealing with the unexpected people and dragon who refuse to leave her side.\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69870165), [Daum](https://webtoon.kakao.com/content/SSS%EA%B8%89-%ED%9A%8C%EA%B7%80%EC%9E%90%EB%8A%94-%EC%96%91%EC%8B%AC%EB%8F%84-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4/4922)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzNzkxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTIyNS1QcVdJRndPeUNJdHouanBn",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-27T04:55:24.930Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-10T12:25:16.416Z",
+  "last_updated_at": "2026-08-12T21:36:18.301Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "CHA Sohee",
-    "Good Source"
+    "Good Sauce",
+    "So-Hui Cha"
   ],
   "artists": [
-    "Lamancha Studio",
     "Sangae"
   ],
   "links": {
@@ -89,7 +99,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215225,
+      "rating": null,
+      "url": "https://anilist.co/manga/215225"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "0zwrdoj",
@@ -99,10 +113,17 @@
   },
   "tag_ids": [
     38,
+    59,
+    748,
+    108,
     36,
     39,
     6,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -110,9 +131,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7254,
+    "popularityPercentile": 0.2375,
+    "fanFavouriteDiscoveryScore": 5.1247,
+    "fanFavouriteDiscoveryPercentile": 0.2375
   },
   "context": {
     "primaryProfile": "game-system",
