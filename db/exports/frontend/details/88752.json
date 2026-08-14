@@ -2,14 +2,23 @@
   "id": 88752,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Distorted Love (Sowol)",
-  "mangabaka_title": "Distorted Love (Sowol)",
+  "display_title": "Distorted Love",
+  "mangabaka_title": "Waegokdoen Sarang",
   "native_title": "왜곡된 사랑",
   "romanized_title": "Distorted Love (Sowol)",
   "titles": [
     {
       "language": "ko",
       "title": "왜곡된 사랑",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Distorted Love",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -20,7 +29,7 @@
       "traits": [
         "native"
       ],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,24 +38,33 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Waegokdoen Sarang",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Postype](https://www.postype.com/@sowol3938/series/1351569), [Ridibooks](https://ridibooks.com/books/5074001150)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNzU2NjUvcG9zdGVyX2ltYWdlLzhlOTVjOTFjOGNhM2U4MTE3OGNkYjg5YTNkYzE4MzI5LmpwZw",
+  "description": "*Note: Originally self-published on the author's Postype. Published by Ridibooks on 2026-08-02.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTMyNy0yVHdzZlpqUWJtaEcuanBn",
   "total_chapters": "13",
-  "status": "releasing",
+  "status": "hiatus",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
+    "start_date": "2024-10-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-13T02:26:27.242Z",
+  "last_updated_at": "2026-08-14T02:06:18.191Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -61,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215327,
+      "rating": null,
+      "url": "https://anilist.co/manga/215327"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6lvxi7k",
@@ -72,7 +94,12 @@
   "tag_ids": [
     46,
     41,
-    33
+    31,
+    33,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -80,9 +107,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7211,
+    "popularityPercentile": 0.1632,
+    "fanFavouriteDiscoveryScore": 5.0974,
+    "fanFavouriteDiscoveryPercentile": 0.1632
   },
   "context": {
     "primaryProfile": "modern-korea",
