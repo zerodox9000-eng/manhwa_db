@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "From Head to Toe",
-  "mangabaka_title": "From Head to Toe",
+  "mangabaka_title": "Meoributeo Balkkeutkkaji",
   "native_title": "머리부터 발끝까지",
-  "romanized_title": null,
+  "romanized_title": "Meoributeo Balkkeutkkaji",
   "titles": [
     {
       "language": "ko",
       "title": "머리부터 발끝까지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,31 +22,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Meoributeo Balkkeutkkaji",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Childhood friendship slowly blossoms into love, and after graduation, the two finally become a couple. Yet while one longs to grow closer and share more intimate moments, the other strangely avoids physical contact, leaving their partner hurt and confused. After years of suppressed feelings finally explode, a deeply guarded secret is revealed. But the reaction to this shocking confession is far more suspicious than expected…\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000080312)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1MzgzLmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "Sang-Hun and Seo-Yun have been together since childhood. What began as friendship blossomed into love, and the two became a couple after graduation. However, unlike Seo-Yun, who, now that they’re a couple, wants to be closer than ever, Sang-Hun strangely avoids physical contact...\n\nSeo-Yun feels hurt that Sang-Hun seems reluctant to deepen their relationship. One day, his pent-up frustration finally reaches a breaking point. Sang-Hun finally reveals the secret he had been hiding, even from Seo-Yun. But Seo-Yun’s reaction to Sang-Hun’s secret seems suspicious…?!\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTI3Mi1oNklySmFLSnpydFcuanBn",
+  "total_chapters": "9",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-09",
+    "end_date": "2026-08-09",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-12T03:15:20.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-13T19:36:07.244Z",
+  "last_updated_at": "2026-08-14T21:10:58.527Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ppaek-Oh"
+    "Ppaego"
   ],
   "artists": [
-    "Ppaek-Oh"
+    "Ppaego"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/599613",
@@ -52,27 +63,38 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215272,
+      "rating": null,
+      "url": "https://anilist.co/manga/215272"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "zs2bxxz",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/zs2bxxz"
     }
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7518,
+    "popularityPercentile": 0.5115,
+    "fanFavouriteDiscoveryScore": 5.2279,
+    "fanFavouriteDiscoveryPercentile": 0.5041
   }
 }
