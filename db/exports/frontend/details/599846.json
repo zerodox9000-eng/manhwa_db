@@ -2,15 +2,40 @@
   "id": 599846,
   "state": "active",
   "type": "manhwa",
-  "display_title": "X-Ten (Pilseung)",
-  "mangabaka_title": "X-Ten (Pilseung)",
-  "native_title": "엑스텐 (필승)",
-  "romanized_title": "X-Ten (Pilseung)",
+  "display_title": "Exten",
+  "mangabaka_title": "X Ten",
+  "native_title": "엑스텐",
+  "romanized_title": "X Ten",
   "titles": [
+    {
+      "language": "ko",
+      "title": "엑스텐",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
     {
       "language": "ko",
       "title": "엑스텐 (필승)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Exten",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "X Ten",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,26 +43,26 @@
       "language": "ko-Latn",
       "title": "X-Ten (Pilseung)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Cha Do-won is a genius national team athlete who knew nothing but shooting. From the very day he was reunited with his first love, Seo Yi-jeong, after nine years, he found himself having wet dreams about him...\n\nThe Yi-jeong he met in his dreams was sensual and candid. However, fearing that he might never make it onto the national team if things continued like this, Do-won went out of his way to seek out Yi-jeong, whom he had previously avoided.\n\n*“Hyung, why did you kiss me?”  \n“I did it because I wanted to sleep with you.”* *(Source: MrBlue, translated)*\n\n**Original Webtoon:**  \n[MrBlue](https://www.mrblue.com/webtoon/wt_000079851)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1NDU2LmpwZw",
+  "description": "Cha Do-Won, a genius national team member who knew nothing but shooting. From the very day he reunited with his first love, Seo Yi-Jeong, whom he hadn’t seen in nine years, he found himself having wet dreams about him... \n\nThe Yi-Jeong he met in his dreams was sensual and candid. But fearing he might never make the national team if things continued this way, Do-Won decided to seek out Yi-Jeong, whom he had been avoiding. \n\n *“Hyung, why did you kiss me?”\n\n“I did it because I want to sleep with you.”*\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTI3My1TMHFYVHVvdTFleWouanBn",
   "total_chapters": "15",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-12",
+    "end_date": "2026-08-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-13T03:18:15.412Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-14T16:33:30.121Z",
+  "last_updated_at": "2026-08-15T16:46:29.256Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215273,
+      "rating": null,
+      "url": "https://anilist.co/manga/215273"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7k8vjk0",
@@ -61,17 +90,24 @@
     }
   },
   "tag_ids": [
+    180,
     16,
-    9
+    9,
+    30,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7798,
+    "popularityPercentile": 0.8669,
+    "fanFavouriteDiscoveryScore": 5.3632,
+    "fanFavouriteDiscoveryPercentile": 0.8299
   }
 }

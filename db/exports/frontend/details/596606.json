@@ -2,22 +2,33 @@
   "id": 596606,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Have a Nice Day (Hangu)",
+  "display_title": "Have a Nice Day",
   "mangabaka_title": "Have a Nice Day (Hangu)",
   "native_title": "좋은 하루 보내",
-  "romanized_title": "Have a Nice Day (Hangu)",
+  "romanized_title": "Joheun Haru Bonae",
   "titles": [
     {
       "language": "ko",
       "title": "좋은 하루 보내",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Have a Nice Day",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Have a Nice Day (Hangu)",
-      "traits": [],
+      "title": "Joheun Haru Bonae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -37,7 +48,7 @@
   },
   "first_seen_at": "2026-07-16T04:03:31.462Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-01T21:20:32.090Z",
+  "last_updated_at": "2026-08-15T16:04:43.446Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -64,7 +75,10 @@
     40,
     107,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,

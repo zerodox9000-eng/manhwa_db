@@ -3,14 +3,23 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Bad X (Lee Sakwa)",
-  "mangabaka_title": "Bad X (Lee Sakwa)",
-  "native_title": "나쁜 X (이사과)",
-  "romanized_title": null,
+  "mangabaka_title": "Nappeun X",
+  "native_title": "나쁜X",
+  "romanized_title": "Nappeun X",
   "titles": [
     {
       "language": "en",
       "title": "Bad X (Lee Sakwa)",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nappeun X",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -24,34 +33,37 @@
     {
       "language": "ko",
       "title": "나쁜X",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**  \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=9706761), [Bomtoon](https://www.bomtoon.com/detail/bad_X), [Lezhin](https://www.lezhin.com/ko/comic/badx)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDM2NTk2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTQwNi1hRXduMGl2dXlsREUuanBn",
   "total_chapters": "22",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-05-11",
+    "end_date": "2023-07-28",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-06T03:51:19.945Z",
+  "last_updated_at": "2026-08-15T02:06:28.072Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lee Sakwa"
+    "Red Peach",
+    "Sa-Gwa Lee"
   ],
   "artists": [
-    "Red Peach Studio"
+    "Red Peach"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/87479",
@@ -59,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215406,
+      "rating": null,
+      "url": "https://anilist.co/manga/215406"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qd3wtg8",
@@ -69,19 +85,25 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7798,
+    "popularityPercentile": 0.1852,
+    "fanFavouriteDiscoveryScore": 5.1147,
+    "fanFavouriteDiscoveryPercentile": 0.1852
   },
   "context": {
     "primaryProfile": "modern-korea",
