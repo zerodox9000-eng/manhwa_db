@@ -3,13 +3,22 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Imperfect Sisters",
-  "mangabaka_title": "Imperfect Sisters",
+  "mangabaka_title": "Burwanjeon Jamae",
   "native_title": "불완전 자매",
-  "romanized_title": null,
+  "romanized_title": "Burwanjeon Jamae",
   "titles": [
     {
       "language": "ko",
       "title": "불완전 자매",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Burwanjeon Jamae",
       "traits": [
         "native"
       ],
@@ -39,7 +48,7 @@
     }
   ],
   "description": "High schooler Sohee Ryu once suffered through a debilitating illness as a child, but she has since recovered and now lives a relatively normal life. The same cannot be said for her younger sister, Ayoung, who remains chronically ill. While Ayoung is deeply devoted to her older sister, Sohee finds her sister’s constant presence increasingly suffocating. \n\nFollowing a single unsettling incident, the bond between them begins to splinter, leaving the two trapped in a web of growing tension and unease.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=850656), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14142629)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8zLzM0NzM1NWwuanBn",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTUzOC14Z0FGU1pNWG1JeG8uanBn",
   "total_chapters": "15",
   "status": "releasing",
   "content_rating": "safe",
@@ -53,12 +62,12 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-15T01:12:35.472Z",
+  "last_updated_at": "2026-08-17T01:28:09.778Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Ani",
-    "Nyam-nyam-i"
+    "Nyamnyami"
   ],
   "artists": [
     "Gomsi"
@@ -69,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215538,
+      "rating": null,
+      "url": "https://anilist.co/manga/215538"
+    },
     "animeplanet": {
       "id": "imperfect-sisters",
       "rating": null,
@@ -86,6 +99,7 @@
     31,
     598,
     32,
+    19,
     26,
     93,
     57,
@@ -97,9 +111,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8051,
+    "popularityPercentile": 0.1704,
+    "fanFavouriteDiscoveryScore": 5.1135,
+    "fanFavouriteDiscoveryPercentile": 0.1704
   },
   "context": {
     "primaryProfile": "modern-korea",

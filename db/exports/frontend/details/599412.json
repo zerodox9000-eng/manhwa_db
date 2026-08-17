@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Night at a Crossroads",
-  "mangabaka_title": "The Night at a Crossroads",
+  "mangabaka_title": "Giroui Bam",
   "native_title": "기로의 밤",
-  "romanized_title": null,
+  "romanized_title": "Giroui Bam",
   "titles": [
     {
       "language": "ko",
       "title": "기로의 밤",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Giroui Bam",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,24 +38,31 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Night at the Crossroads",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "Her life was forged in misfortune from the very beginning.\n\nAt twenty, she woke up in a hospital bed with no memories—and saw something she never should have on her way out. From that day on, Seo Iyeon lived every moment in desperate survival.\n\nDesperate to be okay. Desperate to be normal. Desperate not to die of loneliness.\n\nAfter years of grueling effort, the endless cracks in her life were finally gathering dust, on the verge of being forgotten forever.\n\nUntil...\n\n*“Have you ever lost something important?”*\n\nOn her twenty-ninth birthday, a mysterious man appears before her. And the fragile peace on the surface of Iyeon’s life begins to shatter all over again.\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853687), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14569639)",
+  "description": "Her life began with misfortune. Ever since she woke up in a hospital room at age twenty with no memory of her past, and saw something she shouldn’t have on her way home, Seo Yi-Yeon had been desperate in everything she did. To get better, to be normal, to keep from dying of loneliness. After years of effort, the countless cracks in her life were finally about to be covered in dust and forgotten. But—\n\n*“Have you ever lost something important?”*\n\nOn her twenty-ninth birthday, which had arrived before she knew it, a mysterious man appeared before her. Yi-Yeon’s daily life, which had been peaceful, at least on the surface, began to be shaken once again.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yLzMvZC9mL2YvYi8zL2YvNTUxYy80NTBkLzgwNjIvOWEyZTMzMDBhM2Q2",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-09",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-10T02:51:43.956Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-15T17:13:45.841Z",
+  "last_updated_at": "2026-08-16T20:46:31.578Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215535,
+      "rating": null,
+      "url": "https://anilist.co/manga/215535"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "jesvarc",
@@ -72,7 +94,8 @@
     22,
     31,
     32,
-    9
+    9,
+    19
   ],
   "stats": {
     "popularity": null,
@@ -80,8 +103,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8051,
+    "popularityPercentile": 0.1704,
+    "fanFavouriteDiscoveryScore": 5.1135,
+    "fanFavouriteDiscoveryPercentile": 0.1704
   }
 }
