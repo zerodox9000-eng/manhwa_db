@@ -3,15 +3,33 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Sponsorship Stigma",
-  "mangabaka_title": "Sponsorship Stigma",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Huwon Nagin",
+  "native_title": "후원 낙인",
+  "romanized_title": "Huwon Nagin",
   "titles": [
     {
       "language": "ko",
       "title": "후원 낙인",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Huwon Nagin",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Patronage Stigma",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -20,32 +38,39 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Stigma of Sponsorship",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853895), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14599350)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1ODc2LmpwZw",
+  "description": "Where did it all go wrong? Was it the moment she dared to fall for her patron’s only son, Gu Je-Heon? Or was it when she gave up her life as a pianist and gave birth to his child on her own? \n\nYeon-Jae ran away, abandoning everything to raise the child of her first love on her own. Five years later, her first love reappears before her. Yeon-Jae tries to hide the child’s existence, while Je-Heon finds himself drawn to her once again. Their unfinished story begins anew, alongside a child who resembles both of them.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTYzMS03SWY4eExYZnhraUsuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-18T02:07:47.929Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-17T15:15:06.351Z",
+  "last_updated_at": "2026-08-18T16:04:28.983Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Han Yu-Min",
-    "Song Ui-Yeong"
+    "Ui-Yeong Seong",
+    "Yun-Mi Ha"
   ],
   "artists": [
-    "Chom Chom"
+    "Jeomjeom"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600391",
@@ -53,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215631,
+      "rating": null,
+      "url": "https://anilist.co/manga/215631"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "zhadkl4",
@@ -63,17 +92,27 @@
   },
   "tag_ids": [
     43,
+    59,
+    108,
     31,
-    9
+    742,
+    9,
+    7,
+    282,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.801,
+    "popularityPercentile": 2.7167,
+    "fanFavouriteDiscoveryScore": 6.09,
+    "fanFavouriteDiscoveryPercentile": 2.5168
   }
 }

@@ -3,14 +3,23 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Possessed Grappler",
-  "mangabaka_title": "The Possessed Grappler",
-  "native_title": "神がかったグラップラー",
-  "romanized_title": null,
+  "mangabaka_title": "Chmsindeullin Grappler",
+  "native_title": "鬼신들린 그래플러",
+  "romanized_title": "Chmsindeullin Grappler",
   "titles": [
     {
       "language": "ko",
       "title": "귀신들린 그래플러",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Chmsindeullin Grappler",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -48,24 +57,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko",
+      "title": "鬼신들린 그래플러",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Ji Chul Min, a perpetual loser, suddenly gains the ability to see ghosts one day. Because revealing this power would cause spirits to haunt him, he desperately acts like he cannot see them. However, a persistent ghost eventually catches onto his secret and begins following him around everywhere. As it turns out, this haunting ghost is a former Jiu Jitsu monster.\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69170913), [Daum](https://webtoon.kakao.com/content/%EA%B7%80%EC%8B%A0%EB%93%A4%EB%A6%B0-%EA%B7%B8%EB%9E%98%ED%94%8C%EB%9F%AC/4926) \n\n**Official Translations:**   \n[Japanese](https://jp.piccoma.com/web/product/189025)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzOTQ3LmpwZw",
+  "description": "One day, Ji Cheol-Min, a perpetual loser, suddenly gained the ability to see ghosts. However, since he knew the ghosts would follow him if he let on about this ability, he always pretended not to notice. But one ghost found out about his ability, and that ghost began to follow Cheol-Min around. That ghost is none other than... a jiu-jitsu monster...?!\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTYzMy03cjlxRTh2TUdheHIuanBn",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-27",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-28T03:59:03.930Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-17T13:54:47.115Z",
+  "last_updated_at": "2026-08-18T05:46:29.097Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215633,
+      "rating": null,
+      "url": "https://anilist.co/manga/215633"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8pyzwf7",
@@ -90,23 +112,32 @@
   },
   "tag_ids": [
     38,
+    58,
     107,
     36,
     22,
+    229,
     39,
+    235,
+    416,
     29,
     32,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.801,
+    "popularityPercentile": 0.1184,
+    "fanFavouriteDiscoveryScore": 5.0943,
+    "fanFavouriteDiscoveryPercentile": 0.1184
   },
   "context": {
     "primaryProfile": "horror-survival",

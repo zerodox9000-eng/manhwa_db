@@ -2,8 +2,8 @@
   "id": 585129,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Will Accept XX as Offering",
-  "mangabaka_title": "Jemureun XX-ro Badeulgeyo",
+  "display_title": "Otherworldly Fantasies: Take Me as Tribute",
+  "mangabaka_title": "Otherworldly Fantasies: Take Me as Tribute",
   "native_title": "제물은 XX로 받을게요",
   "romanized_title": "Jemureun XX-ro Badeulgeyo",
   "titles": [
@@ -18,7 +18,7 @@
       "language": "en",
       "title": "I Will Accept XX as Offering",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -33,8 +33,10 @@
     {
       "language": "en",
       "title": "Otherworldly Fantasies: Take Me as Tribute",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -83,7 +85,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-17T10:15:09.388Z",
+  "last_updated_at": "2026-08-18T02:47:36.804Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -129,10 +131,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.8003,
-    "popularityPercentile": 7.5909,
-    "fanFavouriteDiscoveryScore": 8.341,
-    "fanFavouriteDiscoveryPercentile": 7.0947
+    "fanRatioPercentile": 31.801,
+    "popularityPercentile": 7.5579,
+    "fanFavouriteDiscoveryScore": 8.3242,
+    "fanFavouriteDiscoveryPercentile": 7.062
   },
   "context": {
     "primaryProfile": "romance-core",
