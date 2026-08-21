@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Health Gutter Life High School",
-  "mangabaka_title": "Health Gutter Life High School",
+  "mangabaka_title": "Helseu Sigungchanginsaeng Godeunghakgyo",
   "native_title": "헬스 시궁창인생 고등학교",
   "romanized_title": "Heath Sigungchangninsaeng High School",
   "titles": [
     {
       "language": "ko",
       "title": "헬스 시궁창인생 고등학교",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,33 +27,42 @@
       "language": "ko-Latn",
       "title": "Heath Sigungchangninsaeng High School",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Helseu Sigungchanginsaeng Godeunghakgyo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=784820), [Naver Series](https://series.naver.com/comic/detail.series?productNo=6754644)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzY3NDM2LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*Note: Includes one extra chapter.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTc1OS15MGJYY2w0WTNEUlMuanBn",
+  "total_chapters": "57",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2021,
   "published": {
-    "start_date": "2021-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2021-11-11",
+    "end_date": "2022-07-04",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:43:31.413Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-20T13:21:14.320Z",
+  "last_updated_at": "2026-08-20T22:16:30.720Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Red Elephant"
+    "Bulgeunkokkiri"
   ],
   "artists": [
-    "Red Elephant"
+    "Bulgeunkokkiri"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/90029",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215759,
+      "rating": null,
+      "url": "https://anilist.co/manga/215759"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ek2gs8x",
@@ -69,10 +84,16 @@
   },
   "tag_ids": [
     38,
+    58,
     107,
     6,
     31,
-    42
+    42,
+    30,
+    488,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -80,9 +101,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.7896,
+    "popularityPercentile": 0.1406,
+    "fanFavouriteDiscoveryScore": 5.1003,
+    "fanFavouriteDiscoveryPercentile": 0.1406
   },
   "context": {
     "primaryProfile": "modern-korea",
