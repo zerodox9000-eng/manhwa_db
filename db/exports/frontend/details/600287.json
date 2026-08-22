@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "28, Youth!",
-  "mangabaka_title": "28, Youth!",
+  "mangabaka_title": "28, Cheongchun!",
   "native_title": "28, 청춘!",
-  "romanized_title": null,
+  "romanized_title": "28, Cheongchun!",
   "titles": [
     {
       "language": "ko",
       "title": "28, 청춘!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "28, Cheongchun!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "'Nara' returns to university as a 4th-year senior at the age of 28, following a long and complicated leave of absence. Just as she is struggling with deep concerns about her life, her first love from school days, 'Dohyun,' and her ex-boyfriend's younger brother, 'Hanju,' barge into her life and keep her mind in a constant tangle...\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853838), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14591093)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1ODIyLmpwZw",
+  "description": "Na-Ra returns to university as a senior at age 28 after taking a long leave of absence for personal reasons. At this time in her life, when she’s grappling with many existential questions, her first love from her school days, Do-Hyepn, and Han-Ju, the younger brother of her ex-boyfriend, burst into her life and keep making things even more complicated...\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTUzOS02OWJSckdPdDNacTQuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-16",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-17T02:14:25.809Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-20T16:21:06.802Z",
+  "last_updated_at": "2026-08-21T09:06:29.161Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lee Nara"
+    "Na-Ra Lee"
   ],
   "artists": [
-    "Lee Nara"
+    "Na-Ra Lee"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600287",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215539,
+      "rating": null,
+      "url": "https://anilist.co/manga/215539"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8x5q629",
@@ -62,17 +77,25 @@
   },
   "tag_ids": [
     43,
+    59,
+    257,
+    108,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 11,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8276,
+    "popularityPercentile": 6.676,
+    "fanFavouriteDiscoveryScore": 7.8872,
+    "fanFavouriteDiscoveryPercentile": 6.2324
   }
 }

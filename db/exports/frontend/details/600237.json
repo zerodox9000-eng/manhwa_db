@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "It's a Miracle, but Too Much",
-  "mangabaka_title": "It's a Miracle, but Too Much",
+  "mangabaka_title": "Gijeogijiman Neomuhan",
   "native_title": "기적이지만 너무한",
-  "romanized_title": null,
+  "romanized_title": "Gijeogijiman Neomuhan",
   "titles": [
     {
       "language": "ko",
       "title": "기적이지만 너무한",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gijeogijiman Neomuhan",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,22 +33,22 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[MrBlue](https://www.mrblue.com/webtoon/wt_000079855)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1NzU0LmpwZw",
+  "description": "Jang Chu-Gong works at a \"black company” where once you're hired, you can never quit. Seeing two lines on his pregnancy test, he's convinced he has testicular cancer and happily heads home. And then there’s Dae Beom-Su who’s been held captive in his home for two years. Now that he’s finally managed to get sick leave, he’s thrilled at the thought of spending the whole day having his way with him…\n\n*“Sir, you don’t have testicular cancer, you’re pregnant.”*\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTc4MS1oaWV1T2kwa0FsT2wuanBn",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-17T02:14:25.809Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-20T07:42:04.505Z",
+  "last_updated_at": "2026-08-21T17:21:07.181Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215781,
+      "rating": null,
+      "url": "https://anilist.co/manga/215781"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "z5nin7h",
@@ -62,19 +77,26 @@
   },
   "tag_ids": [
     41,
+    180,
     16,
     6,
     31,
-    9
+    365,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8276,
+    "popularityPercentile": 0.4066,
+    "fanFavouriteDiscoveryScore": 5.2022,
+    "fanFavouriteDiscoveryPercentile": 0.3992
   }
 }

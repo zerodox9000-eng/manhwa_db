@@ -2,39 +2,50 @@
   "id": 600690,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Sing It!",
-  "mangabaka_title": "Sing It!",
-  "native_title": null,
-  "romanized_title": null,
+  "display_title": "Sing it!",
+  "mangabaka_title": "Sing it!",
+  "native_title": "Sing it!",
+  "romanized_title": "Sing it!",
   "titles": [
     {
-      "language": "en",
-      "title": "Sing It!",
-      "traits": [],
+      "language": "ko",
+      "title": "Sing it!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sing it!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "[Original Webtoon](https://ridibooks.com/books/3885049264)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MTIwLmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTc3MC1GOEt6SnhZMmthR1kuanBn",
+  "total_chapters": "11",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-19",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-21T02:18:47.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-20T15:52:04.667Z",
+  "last_updated_at": "2026-08-21T16:00:41.184Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ha Taejin"
+    "Tae-Jin Ha"
   ],
   "artists": [
     "Tangi"
@@ -45,26 +56,38 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215770,
+      "rating": null,
+      "url": "https://anilist.co/manga/215770"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "2kqbtx4",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/2kqbtx4"
     }
   },
   "tag_ids": [
     46,
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8276,
+    "popularityPercentile": 0.7985,
+    "fanFavouriteDiscoveryScore": 5.3459,
+    "fanFavouriteDiscoveryPercentile": 0.7615
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "An Equation Without Wrong Answers",
-  "mangabaka_title": "An Equation Without Wrong Answers",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Odam Eomneun Bangjeongsik",
+  "native_title": "오답 없는 방정식",
+  "romanized_title": "Odam Eomneun Bangjeongsik",
   "titles": [
     {
       "language": "ko",
       "title": "오답 없는 방정식",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,24 +22,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Odam Eomneun Bangjeongsik",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon :**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854036), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14611182)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MTE1LnBuZw",
+  "description": "Jae-Yi, a so-called “study freak” who always lives by his plans and routines. Jae-Yi’s once-perfect daily life begins to waver little by little because of Hae-Sol, the transfer student sitting next to him. A bet on grades between the two, sparked by the worst possible first impression. These two young people, who were complete opposites, gradually come to understand each other and begin to change each other’s worlds. A coming-of-age romance written together by a model student who only believed in the “right answers” and a free-spirited transfer student.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTc3OC1iVGZ4c2YzN01MelUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-20",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-21T02:18:47.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-20T15:26:46.130Z",
+  "last_updated_at": "2026-08-21T06:43:04.178Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215778,
+      "rating": null,
+      "url": "https://anilist.co/manga/215778"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "w9h30vu",
@@ -62,18 +77,28 @@
   },
   "tag_ids": [
     40,
+    58,
     107,
+    108,
+    6,
+    117,
+    31,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 15,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8276,
+    "popularityPercentile": 9.8255,
+    "fanFavouriteDiscoveryScore": 9.5444,
+    "fanFavouriteDiscoveryPercentile": 9.1232
   }
 }
