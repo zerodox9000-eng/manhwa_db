@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Good! Do It",
-  "mangabaka_title": "Gut! Haseyo",
+  "mangabaka_title": "Gun! Haseyo",
   "native_title": "굿!하세요",
-  "romanized_title": "Gut! Haseyo",
+  "romanized_title": "Gun! Haseyo",
   "titles": [
     {
       "language": "ko",
       "title": "굿!하세요",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,13 +25,22 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Gun! Haseyo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Gut! Haseyo",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Ha Jeong-min, an ordinary guy in his thirties with neither money nor hope, finds himself at the very depths of misery after a car crash leaves him able to see nothing but “male ghosts”.\n\nBut they say you should turn a crisis into an opportunity. Just as he’s making a name for himself by helping aggrieved male ghosts find peace through his own body, he runs into Kang Seung-hyuk, his high school crush. And what’s more, it’s all part of his “exorcism business”! But...\n\n*Ghost A: “I want some mutually consensual, love-filled ♥sexy time♥, darling.”*\n\n*Ghost B: “Ooooh\\~ Mummy, I’m sooo thirsty\\~ aww♥”*\n\n**Original Webtoon:**  \n[MrBlue](https://www.mrblue.com/webtoon/wt_000079854)",
+  "description": "Ha Jung-Min, an ordinary man in his thirties with neither money nor hope, finds himself at the very bottom of misfortune after a car accident leaves him able to see only “male ghosts.” But they say you should turn a crisis into an opportunity. Just as he’s making a name for himself by helping many tormented male ghosts find peace through him body, he runs into Kang Seung-Hyeok, his high school crush. And it’s all part of his “exorcism business”! But...\n\n# Ghost A: I want love-filled sex that we both want, darling.\n\\# Ghost B: Ooooh~ Mommy, I’m sooo thirsty~ ahh♥\n\nMy first love died as of today.\n\n(Source: MrBlue, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2QvNy82L2YvMi9jL2YvZDQ2Ni80MzJhL2IzN2UvZjg3YTYxMWM5YWJj",
   "total_chapters": "6",
   "status": "releasing",
@@ -44,14 +55,14 @@
   },
   "first_seen_at": "2026-08-15T02:07:30.747Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-22T00:55:48.839Z",
+  "last_updated_at": "2026-08-23T01:09:01.703Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Seongdube"
+    "Dube Seong"
   ],
   "artists": [
-    "Seongdube"
+    "Dube Seong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600071",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215604,
+      "rating": null,
+      "url": "https://anilist.co/manga/215604"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8alou3b",
@@ -89,20 +104,24 @@
     10,
     41,
     229,
+    180,
     16,
     984,
+    9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 25,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8575,
+    "popularityPercentile": 16.4314,
+    "fanFavouriteDiscoveryScore": 13.5776,
+    "fanFavouriteDiscoveryPercentile": 14.7978
   }
 }
