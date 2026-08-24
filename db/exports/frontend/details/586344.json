@@ -2,8 +2,8 @@
   "id": 586344,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Unforgettable Genius Martial Artist",
-  "mangabaka_title": "Modeungeol Gieokaneun Cheonjaemusa",
+  "display_title": "The Martial Genius Who Remembers Everything",
+  "mangabaka_title": "The Martial Genius Who Remembers Everything",
   "native_title": "모든걸 기억하는 천재무사",
   "romanized_title": "Modeungeol Gieokaneun Cheonjaemusa",
   "titles": [
@@ -40,17 +40,19 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "The Martial Genius Who Remembers Everything",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "The Unforgettable Genius Martial Artist",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -75,12 +77,12 @@
       "note": null
     }
   ],
-  "description": "Jin So-Un, a third-rate martial artist who remembers everything. He finds himself transported back to 30 years ago, before the Demon Sect’s return.\n\n The fact that I’ve returned to the past doesn’t exactly feel like a sign telling me to save the world. If that were the case, wouldn’t they have at least given me some special ability, or attached the spirit of Master Jang Sam-bong or something?\n\nThe Samun Sect, a third-rate martial arts school with no future. A talent for martial arts that couldn’t be more mediocre. My hand is simply too weak to feel any joy at having returned. \n\n *“I’m doomed.”*\n\nJin So-Un’s desperate struggle to change the despair of his predetermined future begins.\n\n(Source: Naver, translated)",
+  "description": "So-un Jin, a third-rate martial artist with an exceptional memory, awakens 30 years in the past, just before the return of the Demonic Cult. He's been given a second chance, but that's where divine intervention ends. With no innate talent for martial arts, no legendary master to guide him, and only a small, powerless sect to call home, his future seems just as bleak as before. Can So-un use his knowledge of the future to change the course of fate? \n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMTQxNS00OGJaQ0JhNnVaZDkuanBn",
-  "total_chapters": "23",
+  "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-04-25",
@@ -90,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-22T23:36:58.977Z",
+  "last_updated_at": "2026-08-23T08:19:40.746Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -102,8 +104,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/586344",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=10738",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=10738"
+    ]
   },
   "source": {
     "anilist": {
@@ -123,9 +127,11 @@
     }
   },
   "tag_ids": [
+    337,
     38,
     58,
     74,
+    748,
     311,
     249,
     36,
@@ -134,21 +140,22 @@
     29,
     363,
     990,
+    45,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": 1701,
-    "favourites": 11,
+    "popularity": 1730,
+    "favourites": 12,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 0.6467,
-    "fanRatioPercentile": 36.5142,
-    "popularityPercentile": 87.5231,
-    "fanFavouriteDiscoveryScore": 36.3832,
-    "fanFavouriteDiscoveryPercentile": 40.3134
+    "fanFavouriteRaw": 0.6936,
+    "fanRatioPercentile": 37.4196,
+    "popularityPercentile": 87.6967,
+    "fanFavouriteDiscoveryScore": 37.2873,
+    "fanFavouriteDiscoveryPercentile": 41.6242
   },
   "context": {
     "primaryProfile": "murim-wuxia",

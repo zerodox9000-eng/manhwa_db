@@ -33,7 +33,9 @@
     {
       "language": "es",
       "title": "Tu carta",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -72,6 +74,13 @@
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "Yeonui Pyeonji",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -148,7 +157,7 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.232Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-22T17:49:44.021Z",
+  "last_updated_at": "2026-08-23T07:27:32.875Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -215,16 +224,16 @@
     121
   ],
   "stats": {
-    "popularity": 10676,
+    "popularity": 10682,
     "favourites": 600,
     "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 5.6201,
-    "fanRatioPercentile": 97.8121,
-    "popularityPercentile": 98.1965,
-    "fanFavouriteDiscoveryScore": 97.6677,
-    "fanFavouriteDiscoveryPercentile": 99.1648
+    "fanFavouriteRaw": 5.6169,
+    "fanRatioPercentile": 97.8128,
+    "popularityPercentile": 98.1896,
+    "fanFavouriteDiscoveryScore": 97.6682,
+    "fanFavouriteDiscoveryPercentile": 99.1724
   },
   "context": {
     "primaryProfile": "showbiz-career",

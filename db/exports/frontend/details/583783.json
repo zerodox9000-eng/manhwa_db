@@ -3,15 +3,17 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Between Walls",
-  "mangabaka_title": "Between Walls",
-  "native_title": "[층간X음 단편선] 벽과 벽 사이",
-  "romanized_title": null,
+  "mangabaka_title": "Byeokgwa Byeong Sai",
+  "native_title": "벽과 벽 사이",
+  "romanized_title": "Byeokgwa Byeong Sai",
   "titles": [
     {
       "language": "ko",
       "title": "벽과 벽 사이",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -29,6 +31,22 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Byeokgwa Byeong Sai",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Cheunggan X-eum Danpyeonseon] Byeokgwa Byeong Sai",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "[Inter-Floor X-Sound Anthology] Between Walls",
       "traits": [],
@@ -39,26 +57,26 @@
       "language": "ko",
       "title": "[층간X음 단편선] 벽과 벽 사이",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Baek Ji-won suffered from a strange sound beyond the wall. The identity of that sound has been secretly watching him in the past. He learns that it is Lee Hae-seong and is conflicted by disgust and sympathy.\nIn the end, Ji-won reflects Hae-seong's twisted emotions and way of loving.\n\n**Original Webtoon:**  \n[Ridibooks](https://ridibooks.com/books/1642010152), [Bomtoon](https://www.bomtoon.com/detail/betweenthewallsan), [Lezhin](https://www.lezhin.com/ko/comic/between_walls), [MrBlue](https://www.mrblue.com/webtoon/wt_000079898)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIwNDg5LmpwZw",
+  "description": "Baek Ji-Won had been tormented by strange noises coming from behind the wall. Upon discovering that the source of those sounds was Lee Hae-Sung—who had been secretly watching him all along—he finds himself torn between revulsion and sympathy. Will Ji-Won ultimately be able to accept Hae-Sung’s twisted emotions and his peculiar way of loving him…?\n\n(Source: Ridibooks, translated)\n\n*Note: Part of Lucent's Cheunggan X-eum Danpyeonseon (층간X음 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMDA4Ni1HVFFzZzNGYlhTdjQuanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-03-28",
+    "end_date": "2026-03-28",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-17T23:39:20.263Z",
+  "last_updated_at": "2026-08-23T23:40:57.067Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,7 +91,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 210086,
+      "rating": null,
+      "url": "https://anilist.co/manga/210086"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "c6bf2zi",
@@ -84,18 +106,26 @@
   "tag_ids": [
     46,
     15,
+    180,
     16,
-    31
+    31,
+    9,
+    226,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 17,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8407,
+    "popularityPercentile": 11.2688,
+    "fanFavouriteDiscoveryScore": 10.3712,
+    "fanFavouriteDiscoveryPercentile": 10.4116
   },
   "context": {
     "primaryProfile": "modern-korea",

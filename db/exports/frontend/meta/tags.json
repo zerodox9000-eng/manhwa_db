@@ -2970,10 +2970,10 @@
   "459": {
     "id": 459,
     "name": "Baseball",
-    "path": "Themes > Sports > Baseball",
+    "path": "Themes > Sports > Team Sports > Baseball",
     "is_genre": false,
-    "parent_id": 30,
-    "level": 3
+    "parent_id": 349,
+    "level": 4
   },
   "460": {
     "id": 460,
@@ -3025,8 +3025,8 @@
   },
   "469": {
     "id": 469,
-    "name": "Water sports",
-    "path": "Themes > Sports > Water sports",
+    "name": "Water Sports",
+    "path": "Themes > Sports > Water Sports",
     "is_genre": false,
     "parent_id": 30,
     "level": 3
@@ -3042,7 +3042,7 @@
   "471": {
     "id": 471,
     "name": "Swimming",
-    "path": "Themes > Sports > Water sports > Swimming",
+    "path": "Themes > Sports > Water Sports > Swimming",
     "is_genre": false,
     "parent_id": 469,
     "level": 4
@@ -3218,10 +3218,10 @@
   "494": {
     "id": 494,
     "name": "American Football",
-    "path": "Themes > Sports > American Football",
+    "path": "Themes > Sports > Team Sports > American Football",
     "is_genre": false,
-    "parent_id": 30,
-    "level": 3
+    "parent_id": 349,
+    "level": 4
   },
   "495": {
     "id": 495,
@@ -3234,7 +3234,7 @@
   "496": {
     "id": 496,
     "name": "Scuba Diving",
-    "path": "Themes > Sports > Water sports > Scuba Diving",
+    "path": "Themes > Sports > Water Sports > Scuba Diving",
     "is_genre": false,
     "parent_id": 469,
     "level": 4
@@ -5993,8 +5993,8 @@
   },
   "894": {
     "id": 894,
-    "name": "Childhood love",
-    "path": "Themes > Childhood love",
+    "name": "Childhood Love",
+    "path": "Themes > Childhood Love",
     "is_genre": false,
     "parent_id": 542,
     "level": 2
@@ -7097,8 +7097,8 @@
   },
   "1107": {
     "id": 1107,
-    "name": "Talented Female lead",
-    "path": "Character Types > Female Lead > Talented Female lead",
+    "name": "Talented Female Lead",
+    "path": "Character Types > Female Lead > Talented Female Lead",
     "is_genre": false,
     "parent_id": 59,
     "level": 3
@@ -11778,10 +11778,10 @@
   "1912": {
     "id": 1912,
     "name": "Runaway Uke",
-    "path": "Character Types > Runaway Uke",
+    "path": "Character Types > Uke Character > Runaway Uke",
     "is_genre": false,
-    "parent_id": 544,
-    "level": 2
+    "parent_id": 2110,
+    "level": 3
   },
   "1913": {
     "id": 1913,
@@ -12698,10 +12698,10 @@
   "2038": {
     "id": 2038,
     "name": "Rapist Seme",
-    "path": "Character Types > Rapist Seme",
+    "path": "Character Types > Seme Character > Rapist Seme",
     "is_genre": false,
-    "parent_id": 544,
-    "level": 2
+    "parent_id": 2111,
+    "level": 3
   },
   "2039": {
     "id": 2039,
@@ -17586,10 +17586,10 @@
   "2728": {
     "id": 2728,
     "name": "Bisexual Protagonist",
-    "path": "Character Types > Bisexual Protagonist",
+    "path": "Character Types > LGBTQ+ Characters > Bisexual Protagonist",
     "is_genre": false,
-    "parent_id": 544,
-    "level": 2
+    "parent_id": 2112,
+    "level": 3
   },
   "2729": {
     "id": 2729,
@@ -17602,10 +17602,10 @@
   "2730": {
     "id": 2730,
     "name": "Homosexual Protagonist",
-    "path": "Character Types > Homosexual Protagonist",
+    "path": "Character Types > LGBTQ+ Characters > Homosexual Protagonist",
     "is_genre": false,
-    "parent_id": 544,
-    "level": 2
+    "parent_id": 2112,
+    "level": 3
   },
   "2731": {
     "id": 2731,
@@ -17802,10 +17802,10 @@
   "2755": {
     "id": 2755,
     "name": "Asexual Character",
-    "path": "Character Types > Asexual Character",
+    "path": "Character Types > LGBTQ+ Characters > Asexual Character",
     "is_genre": false,
-    "parent_id": 544,
-    "level": 2
+    "parent_id": 2112,
+    "level": 3
   },
   "2756": {
     "id": 2756,
@@ -18637,6 +18637,14 @@
     "path": "Themes > Grooming",
     "is_genre": false,
     "parent_id": 542,
+    "level": 2
+  },
+  "2891": {
+    "id": 2891,
+    "name": "Cuntboy",
+    "path": "Character Archetype > Cuntboy",
+    "is_genre": false,
+    "parent_id": 540,
     "level": 2
   }
 }
