@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Horror RPG Maker Survival Story",
-  "mangabaka_title": "Horror RPG Maker Survival Story",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Gongpo Jjeukkureu Saengjongi",
+  "native_title": "공포 쯔꾸르 생존기",
+  "romanized_title": "Gongpo Jjeukkureu Saengjongi",
   "titles": [
     {
       "language": "ko",
       "title": "공포 쯔꾸르 생존기",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gongpo Jjeukkureu Saengjongi",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,28 +31,50 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Horror RPG Survival Guide",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Surviving an RPG Maker Horror Game",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Surviving in an RPG Maker Horror Game",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon :**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854133), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14626810)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MzE2LnBuZw",
+  "description": "The moment Lee Hyeon launches the legendary horror game Unreal, he finds himself trapped inside it. Waking up in a school in the dead of night, he meets Da-Yeon, a mysterious high school girl. There is only one way to survive here: solve the chilling puzzles and uncover the hidden rules. Will the two of them be able to end this game of death and return to reality?\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTkwMS0ySm9CMndjbHFBRjMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-23",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-24T02:18:16.811Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-23T14:56:39.483Z",
+  "last_updated_at": "2026-08-24T15:06:51.602Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ripple Effect"
+    "LICO",
+    "Pageupyogwa"
   ],
   "artists": [
     "LICO"
@@ -52,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215901,
+      "rating": null,
+      "url": "https://anilist.co/manga/215901"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "g2per13",
@@ -61,19 +98,27 @@
     }
   },
   "tag_ids": [
+    36,
+    94,
     1,
     39,
     31,
-    32
+    32,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
-    "favourites": null,
+    "popularity": 6,
+    "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 16.6667,
+    "fanRatioPercentile": 99.8597,
+    "popularityPercentile": 2.5844,
+    "fanFavouriteDiscoveryScore": 18.9535,
+    "fanFavouriteDiscoveryPercentile": 20.9629
   }
 }

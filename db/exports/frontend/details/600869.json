@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Vote for Your Knight!",
-  "mangabaka_title": "Vote for Your Knight!",
+  "mangabaka_title": "Dangsinui Gisaege Tupyohaseyo!",
   "native_title": "당신의 기사에게 투표하세요!",
-  "romanized_title": null,
+  "romanized_title": "Dangsinui Gisaege Tupyohaseyo!",
   "titles": [
     {
       "language": "ko",
       "title": "당신의 기사에게 투표하세요!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -19,6 +21,15 @@
       "title": "Choose Your Knight!",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Dangsinui Gisaege Tupyohaseyo!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -36,27 +47,26 @@
       "note": null
     }
   ],
-  "description": "I was South Korea’s top idol survival show producer—until I opened my eyes and found myself reincarnated as Edith, the only daughter of the new emperor who had overthrown a tyrant through revolution. Using the knowledge from my previous life and alchemy, I somehow managed to help bring the tyrant down. But what awaited us afterward was an imperial family whose reputation among the people had already hit rock bottom. So, in order to resuscitate the dying imperial family, I decided to pull out my secret weapon: , a survival competition where the people themselves vote to select the Empire’s finest order of knights! Drawing on the skills from my past life, I rolled up my sleeves, ready to manufacture drama with some ruthless evil editing. But… what is this? Who are these contestants with such perfectly compelling stories that they don’t even need evil editing? Unmatched visuals that require no editing, emotional backstories impossible to watch without tears, and on top of that, intense bromance chemistry that constantly blurs the line between friendship and love! Maybe this… could become an even bigger hit than the masterpiece I created in my previous life! A fierce survival competition featuring knights determined to capture your heart.\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/70247058/), [Daum](https://webtoon.kakao.com/content/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EA%B8%B0%EC%82%AC%EC%97%90%EA%B2%8C-%ED%88%AC%ED%91%9C%ED%95%98%EC%84%B8%EC%9A%94/4952)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MzE1LmpwZw",
+  "description": "I was South Korea’s top idol survival show producer—until I opened my eyes and found myself reincarnated as Edith, the only daughter of the new emperor who had overthrown a tyrant through revolution. Using the knowledge from my previous life and alchemy, I somehow managed to help bring the tyrant down. But what awaited us afterward was an imperial family whose reputation among the people had already hit rock bottom. So, to resuscitate the dying imperial family, I decided to pull out my secret weapon: a survival competition where the people themselves vote to select the Empire’s finest order of knights! Drawing on the skills from my past life, I rolled up my sleeves, ready to manufacture drama with some ruthless evil editing. \n\nBut… what is this? Who are these contestants with such perfectly compelling stories that they don’t even need evil editing? Unmatched visuals that require no editing, emotional backstories impossible to watch without tears, and on top of that, intense bromance chemistry that constantly blurs the line between friendship and love! Maybe this… could become an even bigger hit than the masterpiece I created in my previous life!\n\nA fierce survival competition featuring knights determined to capture your heart.",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTkwOS1uZXBoYkJSYnd4QmEuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-23T20:37:15.251Z",
+  "last_updated_at": "2026-08-24T22:36:54.798Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Honeyshu",
-    "Team Yuragullo"
+    "Heonisyu"
   ],
   "artists": [
     "Team Jellybear"
@@ -67,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215909,
+      "rating": null,
+      "url": "https://anilist.co/manga/215909"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wuacb2l",
@@ -77,9 +91,14 @@
   },
   "tag_ids": [
     40,
+    59,
     20,
+    108,
     36,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -87,8 +106,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.8689,
+    "popularityPercentile": 0.1551,
+    "fanFavouriteDiscoveryScore": 5.1182,
+    "fanFavouriteDiscoveryPercentile": 0.1551
   }
 }
