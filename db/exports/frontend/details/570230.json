@@ -5,15 +5,8 @@
   "display_title": "XX Dungeon",
   "mangabaka_title": "XX Dungeon",
   "native_title": "XXダンジョン",
-  "romanized_title": null,
+  "romanized_title": "XX Dungeon",
   "titles": [
-    {
-      "language": "en",
-      "title": "DonjonXX",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
     {
       "language": "pt-br",
       "title": "Masmorra dos Prazeres",
@@ -24,34 +17,42 @@
     {
       "language": "ko",
       "title": "XX던전",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "XX Dungeon",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ja",
       "title": "XXダンジョン",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "XX地下城",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "th",
       "title": "ดันเจี้ยน xx",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "zh",
-      "title": "迷雾深处的诱惑 / XX地下城",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -72,7 +73,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-23T08:10:58.201Z",
+  "last_updated_at": "2026-08-25T08:28:44.185Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Chaebol Family's Genius Monster",
-  "mangabaka_title": "The Chaebol Family's Genius Monster",
+  "mangabaka_title": "Jaebeoljim Cheonjae Goemul",
   "native_title": "재벌집 천재 괴물",
-  "romanized_title": "The Chaebol Family's Genius Monster",
+  "romanized_title": "Jaebeoljim Cheonjae Goemul",
   "titles": [
     {
       "language": "ko",
       "title": "재벌집 천재 괴물",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jaebeoljim Cheonjae Goemul",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,43 +34,44 @@
     },
     {
       "language": "ko-Latn",
-      "title": "The Chaebol Family's Genius Monster",
+      "title": "The Chaebol Family’s Genius Monster",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "The Genius Monster of a Chaebol Family",
       "traits": [],
       "is_primary": false,
       "note": null
     }
   ],
-  "description": "With his memories intact, the year 1993 begins again. Murdered chaebol heir Jo Jin-hu wakes up in the body of Cha Dae-woo, an employee at a securities firm. He now possesses perfect recall — and knows the whole truth: the people who killed him and stole his family’s company. This time… he will take everything back.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=850964), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14126623)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1jaGFlYm9sLWZhbWlseXMtZ2VuaXVzLW1vbnN0ZXItMS53ZWJwP3Q9MTc3OTkxOTAwNg",
+  "description": "The year is 1993, and everything begins again—with his memories intact. The murdered chaebol heir, Jo Jin-Hu, awakens after possessing the body of Cha Dae-U, an employee at a securities firm. With perfect memory and the knowledge of every hidden truth, he knows exactly who killed him and stole his company. This time… he'll make every last one of them pay. \n\n(Source: Naver translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTk2Mi04ODhaVmNnVkx2NEMuanBn",
   "total_chapters": "18",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-20",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-23T14:07:59.598Z",
+  "last_updated_at": "2026-08-25T23:16:23.717Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Nakdong Oli",
-    "Pantela"
+    "Answer",
+    "Fantera",
+    "Nakdongori"
   ],
   "artists": [
-    "Kaebsyul"
+    "Capsule"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589055",
@@ -67,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215962,
+      "rating": null,
+      "url": "https://anilist.co/manga/215962"
+    },
     "animeplanet": {
       "id": "the-chaebol-familys-genius-monster",
       "rating": null,
@@ -81,6 +97,7 @@
   },
   "tag_ids": [
     38,
+    58,
     74,
     249,
     1,
@@ -99,9 +116,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 0.1992,
+    "fanFavouriteDiscoveryScore": 5.1418,
+    "fanFavouriteDiscoveryPercentile": 0.1992
   },
   "context": {
     "primaryProfile": "sci-fi-business-regression",

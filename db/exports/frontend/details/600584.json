@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Sin",
-  "mangabaka_title": "My Sin",
+  "mangabaka_title": "Naui Joe",
   "native_title": "나의 죄",
-  "romanized_title": null,
+  "romanized_title": "Naui Joe",
   "titles": [
     {
       "language": "ko",
       "title": "나의 죄",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,31 +22,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Naui Joe",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853249), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14531451)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MDMzLnBuZw",
+  "description": "**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853249), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14531451)\n\nSoyoung saves her eldest daughter, Nari, in an accident, but loses her unborn child. Since the accident, eight-year-old Nari begins to mimic her deceased younger sibling. Is it regression caused by trauma, or has the dead child truly possessed her daughter's body? The more she suspects her daughter, the more she confronts her own terrible feelings—feelings a mother should never harbor.",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTY5Ni1JbE91WTRXODZYZGUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-19",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-20T02:09:32.551Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-24T16:01:46.608Z",
+  "last_updated_at": "2026-08-25T16:17:25.841Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Jellyfish"
   ],
   "artists": [
-    "DDOGAK"
+    "Ddogak"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600584",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215696,
+      "rating": null,
+      "url": "https://anilist.co/manga/215696"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8kj956e",
@@ -66,16 +81,22 @@
     31,
     44,
     32,
-    18
+    18,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 16,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 10.4079,
+    "fanFavouriteDiscoveryScore": 9.8996,
+    "fanFavouriteDiscoveryPercentile": 9.6482
   }
 }

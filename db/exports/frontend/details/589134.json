@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Eldest Daughter of the Tang Clan of Sacheon Protects the Family",
-  "mangabaka_title": "The Eldest Daughter of the Tang Clan of Sacheon Protects the Family",
+  "mangabaka_title": "Sacheondanggaui Jangnyeoneun Gamuneul Jikinda",
   "native_title": "사천당가의 장녀는 가문을 지킨다",
   "romanized_title": "Sacheondangga ui Jangnyeo neun Gamun eul Jikinda",
   "titles": [
@@ -55,19 +55,18 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-05-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-23T10:11:46.545Z",
+  "last_updated_at": "2026-08-25T19:16:24.424Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Carrot",
-    "Damhwadam"
+    "Danggeun"
   ],
   "artists": [
     "Cha Hyeon"
@@ -78,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215954,
+      "rating": null,
+      "url": "https://anilist.co/manga/215954"
+    },
     "animeplanet": {
       "id": "the-eldest-daughter-of-the-tang-clan-of-sacheon-protects-the-family",
       "rating": 76,
@@ -97,6 +100,8 @@
     249,
     36,
     1,
+    39,
+    37,
     403,
     9,
     990,
@@ -110,9 +115,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 0.1992,
+    "fanFavouriteDiscoveryScore": 5.1418,
+    "fanFavouriteDiscoveryPercentile": 0.1992
   },
   "context": {
     "primaryProfile": "business-career-regression",

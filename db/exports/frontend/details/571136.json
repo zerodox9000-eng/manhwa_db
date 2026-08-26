@@ -3,21 +3,34 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Bloody Order Up!",
-  "mangabaka_title": "The Vampire You Ordered Has Arrived",
+  "mangabaka_title": "Bloody Order Up!",
   "native_title": "주문하신 뱀파이어 나왔습니다",
-  "romanized_title": null,
+  "romanized_title": "Jumunhasin Vampire Nawatseumnida",
   "titles": [
     {
       "language": "ko",
       "title": "주문하신 뱀파이어 나왔습니다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Bloody Order Up!",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jumunhasin Vampire Nawatseumnida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -64,22 +77,22 @@
       "note": null
     }
   ],
-  "description": "Verde, once a renowned gourmet restaurant, is now on the verge of ruin. One day, famous food critic 'Pido-young' visits, leading to a literal sensation. However, Pido-young visits daily and leaves his food untouched, causing the restaurant's reputation to hit...\n\n**Original Webtoon:**   \n[Lezhin](https://www.lezhin.com/ko/comic/vampire_ready), [Bomtoon](https://www.bomtoon.com/detail/vampire_ready) \n\n**Official Translations:**  \n[English](https://www.lezhinus.com/en/comic/bloodyorderup)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS12YW1waXJlLXlvdS1vcmRlcmVkLWhhcy1hcnJpdmVkLTEud2VicD90PTE3NjY4NzE4MTc",
+  "description": "One review from the legendary Pi Do-Yeong can make or break a career. For So-Yeong, it did both. After saving her failing restaurant with a rave review, Do-Yeong’s strange behavior—visiting daily but refusing to eat—starts to ruin Verde’s credibility all over again. When So-Yeong corners him to settle the score, she finds a man driven mad by a thirst no wine can quench. Do-Yeong is a vampire losing control, and he’s just placed a very specific order. To save her life’s work, she enters a risky contract with the supernatural, but in this kitchen, the chef might just end up as the main course.\n\n(Source: Lezhin US)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTkyNy1CaHA2NmVNMzk0RTAucG5n",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2025-12-26",
+    "end_date": "2025-12-26",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-21T02:05:50.602Z",
+  "last_updated_at": "2026-08-25T03:16:23.412Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +107,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215927,
+      "rating": null,
+      "url": "https://anilist.co/manga/215927"
+    },
     "animeplanet": {
       "id": "the-vampire-you-ordered-has-arrived",
       "rating": null,
@@ -108,9 +125,12 @@
   },
   "tag_ids": [
     43,
+    108,
+    36,
     22,
     46,
     41,
+    252,
     31,
     9,
     93,
@@ -123,9 +143,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 0.1992,
+    "fanFavouriteDiscoveryScore": 5.1418,
+    "fanFavouriteDiscoveryPercentile": 0.1992
   },
   "context": {
     "primaryProfile": "food-career",

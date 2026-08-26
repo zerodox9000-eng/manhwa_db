@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Judgment",
-  "mangabaka_title": "Judgment",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Simpan",
+  "native_title": "심판",
+  "romanized_title": "Simpan",
   "titles": [
     {
       "language": "ko",
       "title": "심판",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,31 +22,47 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Judgment of the Strong",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Simpan",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon :**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852505), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14425871)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MzYwLnBuZw",
+  "description": "In a society of superhumans where “strength” is the sole standard, whether it be law or rule, So Yeo-Ul has lived his life as an underdog. For So Yeo-Ul, whose entire life had been about running away, losing his father at the hands of the strong spurs him to seek revenge, and he heads for the Combat Tower.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTkzMi1HOTJoek5ha2FRRm4uanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-25T02:11:41.568Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-24T15:51:43.241Z",
+  "last_updated_at": "2026-08-25T16:08:22.659Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "BBU"
+    "Ppuek-i"
   ],
   "artists": [
-    "BBU"
+    "Ppuek-i"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600983",
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215932,
+      "rating": null,
+      "url": "https://anilist.co/manga/215932"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "9zvuirp",
@@ -62,17 +84,24 @@
   },
   "tag_ids": [
     38,
+    58,
     36,
-    39
+    39,
+    227,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 0.1992,
+    "fanFavouriteDiscoveryScore": 5.1418,
+    "fanFavouriteDiscoveryPercentile": 0.1992
   }
 }

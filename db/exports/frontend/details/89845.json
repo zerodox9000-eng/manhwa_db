@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Great Expectations",
-  "mangabaka_title": "Great Expectations",
+  "mangabaka_title": "Widaehan Yusan",
   "native_title": "위대한 유산",
-  "romanized_title": null,
+  "romanized_title": "Widaehan Yusan",
   "titles": [
     {
       "language": "ko",
       "title": "위대한 유산",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -41,28 +43,37 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Widaehan Yusan",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nNaver Webtoon, [Naver Series](https://series.naver.com/comic/detail.series?productNo=6838445)\n\n**Official Translations:**  \n[Indonesian](https://www.webtoons.com/id/drama/the-great-inheritance/list?title_no=4630), [French](https://www.webtoons.com/fr/drama/great-expectations/list?title_no=4559)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2dyZWF0LWV4cGVjdGF0aW9ucy0xLndlYnA_dD0xNjgxOTk1Mjgz",
+  "description": "Hwa-Jeong is pregnant and dreams of a happy married life. However, her hopes are shattered by her fiancé's betrayal. Just when she thinks she has lost everything, someone approaches her with unexpected news: having grown up as an orphan with no family, she has inherited 50 billion won. Will Hwa-Jeong be able to accept the inheritance and find happiness?",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTkxNS1Ld1h1b0hnenVIdE0uanBn",
   "total_chapters": "50",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2021,
   "published": {
-    "start_date": "2021-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2021-12-03",
+    "end_date": "2022-09-30",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:43:31.413Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-18T23:07:53.537Z",
+  "last_updated_at": "2026-08-25T23:36:10.782Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Seo Eun-soo"
+    "Eun-Su Seo"
   ],
   "artists": [
     "0510"
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215915,
+      "rating": null,
+      "url": "https://anilist.co/manga/215915"
+    },
     "animeplanet": {
       "id": "great-expectations",
       "rating": null,
@@ -86,21 +101,25 @@
     }
   },
   "tag_ids": [
+    108,
     31,
     32,
+    9,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 0.1992,
+    "fanFavouriteDiscoveryScore": 5.1418,
+    "fanFavouriteDiscoveryPercentile": 0.1992
   },
   "context": {
     "primaryProfile": "modern-korea",

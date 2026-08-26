@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Saintess Who Must Do It to Survive",
-  "mangabaka_title": "The Saintess Who Must Do It to Survive",
+  "mangabaka_title": "Haji Aneumyeon Jungneun Seongnyeo",
   "native_title": "하지 않으면 죽는 성녀",
-  "romanized_title": null,
+  "romanized_title": "Haji Aneumyeon Jungneun Seongnyeo",
   "titles": [
     {
       "language": "ko",
       "title": "하지 않으면 죽는 성녀",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Haji Aneumyeon Jungneun Seongnyeo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,28 +41,28 @@
     }
   ],
   "description": "Park Ina, an ordinary office worker who never once broke free from her routine in her previous life, dies from overwork and is reincarnated as Lilina, the saintess of the Kingdom of Byontier, hoping to enjoy sex freely with handsome men in her new life.\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/SMHS), [Lezhin](https://www.lezhin.com/ko/comic/do_or_die_saint)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1MzYyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTkyNS1uZHV5ZDlkMkVlQ0EuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-01",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-03T12:44:30.331Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-17T16:13:32.789Z",
+  "last_updated_at": "2026-08-26T02:11:29.060Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Ssuk Cream"
   ],
   "artists": [
-    "Eri (에리)"
+    "Eri"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598960",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215925,
+      "rating": null,
+      "url": "https://anilist.co/manga/215925"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6cr8fku",
@@ -70,18 +85,27 @@
   "tag_ids": [
     43,
     20,
+    164,
+    108,
     36,
+    94,
     46,
-    41
+    41,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 0.1992,
+    "fanFavouriteDiscoveryScore": 5.1418,
+    "fanFavouriteDiscoveryPercentile": 0.1992
   }
 }

@@ -2,15 +2,17 @@
   "id": 600523,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Give and Take (Dalpi)",
-  "mangabaka_title": "Give and Take (Dalpi)",
+  "display_title": "Give And Take",
+  "mangabaka_title": "Jugeoni Batgeoni",
   "native_title": "주거니 받거니",
   "romanized_title": "Give and Take (Dalpi)",
   "titles": [
     {
       "language": "ko",
       "title": "주거니 받거니",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,9 +24,25 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Give And Take",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Give and Take (Dalpi)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jugeoni Batgeoni",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,25 +55,25 @@
     }
   ],
   "description": "[Original Webtoon](https://ridibooks.com/books/4921002540)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1OTY4LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTc2OS1iVlVVNGg3Z1dNcWgucG5n",
+  "total_chapters": "10",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-18",
+    "end_date": "2026-08-18",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-20T02:09:32.551Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-24T04:57:35.710Z",
+  "last_updated_at": "2026-08-25T09:06:24.334Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Deokgyeong",
+    "Duk-Kyung",
     "Yuring"
   ],
   "artists": [
@@ -67,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215769,
+      "rating": null,
+      "url": "https://anilist.co/manga/215769"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "vkcd2e1",
@@ -78,17 +100,23 @@
   "tag_ids": [
     46,
     41,
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 14,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9171,
+    "popularityPercentile": 8.9548,
+    "fanFavouriteDiscoveryScore": 9.0922,
+    "fanFavouriteDiscoveryPercentile": 8.3352
   }
 }
