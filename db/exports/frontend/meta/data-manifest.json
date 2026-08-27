@@ -1,49 +1,49 @@
 {
   "contract": "manhwa-frontend-data",
   "schemaVersion": 1,
-  "buildId": "v1-7321d9c817f7c792",
-  "generatedAt": "2026-08-27T03:52:05.859Z",
+  "buildId": "v1-ba3e01c5ef4d0ea9",
+  "generatedAt": "2026-08-27T10:24:52.506Z",
   "chunkTargetBytes": 8388608,
   "datasets": {
     "catalog": {
       "kind": "array",
-      "count": 20593,
+      "count": 20595,
       "chunks": [
         {
-          "path": "builds/v1-7321d9c817f7c792/catalog/0001.json.gz",
-          "bytes": 1205724,
-          "sha256": "42c57991404fcdddbdf3e30f86a15c3bd9368e156cec71c976205aba85005007",
+          "path": "builds/v1-ba3e01c5ef4d0ea9/catalog/0001.json.gz",
+          "bytes": 1205874,
+          "sha256": "7be7c1091fb80f12617b0682a8f49e17f33979fe9de42d2578b695e944a81172",
           "records": 4473
         },
         {
-          "path": "builds/v1-7321d9c817f7c792/catalog/0002.json.gz",
-          "bytes": 1381772,
-          "sha256": "09b3810e733be0daad9efc185b8d7655f6d33d5e36d669dbbdd0f5d978649bc3",
+          "path": "builds/v1-ba3e01c5ef4d0ea9/catalog/0002.json.gz",
+          "bytes": 1381915,
+          "sha256": "c4697075974161461ac54484c4d47e36aaeaad80d0dee9fb13615e8e95eebca5",
           "records": 3752
         },
         {
-          "path": "builds/v1-7321d9c817f7c792/catalog/0003.json.gz",
-          "bytes": 1384556,
-          "sha256": "611375c793c119a9475fc8c77bf54bea361deaa8897868312f0beb6a2b5257fd",
+          "path": "builds/v1-ba3e01c5ef4d0ea9/catalog/0003.json.gz",
+          "bytes": 1384907,
+          "sha256": "06228c3d9891db5a260baaef4a2aefcfa8a282ee506577226db25b6893169905",
           "records": 3807
         },
         {
-          "path": "builds/v1-7321d9c817f7c792/catalog/0004.json.gz",
-          "bytes": 1396135,
-          "sha256": "d4cd706f80d7cb066a1558d7c73401c1714d9b52de65e118d9c9c5c69d8dc840",
+          "path": "builds/v1-ba3e01c5ef4d0ea9/catalog/0004.json.gz",
+          "bytes": 1396813,
+          "sha256": "31c99fedc09b7b9e69e2d3ee6709d2f452cf361787ed502bf69f29df80bcf7f7",
           "records": 3731
         },
         {
-          "path": "builds/v1-7321d9c817f7c792/catalog/0005.json.gz",
-          "bytes": 1334361,
-          "sha256": "a8eb4ac4abec8dc663e1a185b2acce34868caecb14ffa049065e175be2d2fce9",
+          "path": "builds/v1-ba3e01c5ef4d0ea9/catalog/0005.json.gz",
+          "bytes": 1335024,
+          "sha256": "c3a8c54b0cc3a373b1c819d66705ead3d599c7b681ad121dc2400b54b73762ff",
           "records": 4005
         },
         {
-          "path": "builds/v1-7321d9c817f7c792/catalog/0006.json.gz",
-          "bytes": 189625,
-          "sha256": "6a8be2aa9dc515e9391eddf23c2b92cb273feedd2a7aa65939c7be3c28630a2e",
-          "records": 825
+          "path": "builds/v1-ba3e01c5ef4d0ea9/catalog/0006.json.gz",
+          "bytes": 190117,
+          "sha256": "13b9a98a172126e65eb90708b45346fc405e75b981dad88ce6963de7bbcb7f83",
+          "records": 827
         }
       ]
     },
@@ -52,7 +52,7 @@
       "count": 2331,
       "chunks": [
         {
-          "path": "builds/v1-7321d9c817f7c792/tags/0001.json.gz",
+          "path": "builds/v1-ba3e01c5ef4d0ea9/tags/0001.json.gz",
           "bytes": 45138,
           "sha256": "f0f359b2671ea00208fc0394210922a8050624ade4e6b3f5178824a89f90f336",
           "records": 2331
@@ -61,13 +61,13 @@
     },
     "weeklyHistory": {
       "kind": "object",
-      "count": 13572,
+      "count": 13576,
       "chunks": [
         {
-          "path": "builds/v1-7321d9c817f7c792/weeklyHistory/0001.json.gz",
-          "bytes": 625459,
-          "sha256": "42b35e905449d8836c34d30cd20afee094ce71a3b46f28da493243d8b61ebed3",
-          "records": 13572
+          "path": "builds/v1-ba3e01c5ef4d0ea9/weeklyHistory/0001.json.gz",
+          "bytes": 621698,
+          "sha256": "10fbc4285cf05c9b82f891bced347519a527e5ca5b9218e54490a78bd235a02f",
+          "records": 13576
         }
       ]
     },
@@ -76,7 +76,7 @@
       "count": 0,
       "chunks": [
         {
-          "path": "builds/v1-7321d9c817f7c792/recommendations/0001.json.gz",
+          "path": "builds/v1-ba3e01c5ef4d0ea9/recommendations/0001.json.gz",
           "bytes": 22,
           "sha256": "21947b02ead137acb20e602e9448c7c453b2836d1a755aadd5e1c61ecd2eb034",
           "records": 0

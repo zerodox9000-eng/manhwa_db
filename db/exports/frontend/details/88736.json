@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Disbelief",
-  "mangabaka_title": "Disbelief",
+  "mangabaka_title": "Bulsin",
   "native_title": "불신",
-  "romanized_title": null,
+  "romanized_title": "Bulsin",
   "titles": [
     {
       "language": "ko",
       "title": "불신",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bulsin",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,21 +41,21 @@
     }
   ],
   "description": "**Original Webtoon:**  \n[Daum](https://webtoon.kakao.com/content/%EB%B6%88%EC%8B%A0/3680), [KakaoPage](https://page.kakao.com/content/62473722)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDI2MzA4LnBuZw",
-  "total_chapters": "29",
-  "status": "releasing",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjAxNC1yQmdBTTk2SWJIRzUucG5n",
+  "total_chapters": "50",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-08-29",
+    "end_date": "2024-11-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-13T03:24:55.827Z",
+  "last_updated_at": "2026-08-27T03:46:10.231Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216014,
+      "rating": null,
+      "url": "https://anilist.co/manga/216014"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "cafvte3",
@@ -71,17 +86,23 @@
     8,
     39,
     31,
-    32
+    32,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9806,
+    "popularityPercentile": 0.4493,
+    "fanFavouriteDiscoveryScore": 5.2428,
+    "fanFavouriteDiscoveryPercentile": 0.4419
   },
   "context": {
     "primaryProfile": "modern-korea",
