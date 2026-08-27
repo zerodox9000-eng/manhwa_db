@@ -8,6 +8,16 @@
   "romanized_title": "Herba",
   "titles": [
     {
+      "language": "ko",
+      "title": "풀",
+      "traits": [
+        "native",
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "pt-br",
       "title": "Grama",
       "traits": [],
@@ -110,17 +120,27 @@
       "note": null
     },
     {
-      "language": "ko",
-      "title": "풀",
+      "language": "ja",
+      "title": "草",
       "traits": [
-        "native"
+        "official"
+      ],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "草 日本軍「慰安婦」のリビング・ヒストリー",
+      "traits": [
+        "official",
+        "alternative"
       ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Grass is a powerful anti-war graphic novel, offering up firsthand the life story of a Korean girl named Ok-Sun Lee who was forced into sexual slavery for the Japanese Imperial Army during the second World War — a disputed chapter in 20th century Asian history. \n\n*Notes:\n**Included short story:** Ro Salpyeoboneun Ilbongun 'Wianbu' (로 살펴보는 일본군 '위안부') by Myeong-Suk Yun.\nNominated to the Eisner Comic Industry Awards 2020.*",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyMzA3My1EWGdvc2MxdGZtSXouanBn",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mLzEvOS9iLzcvZi83LzcvYjIyZS80MGU1LzhlYjQvMzEwOWM1YWNlMDFm",
   "total_chapters": "19",
   "status": "completed",
   "content_rating": "safe",
@@ -134,7 +154,7 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.581Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-26T01:20:10.501Z",
+  "last_updated_at": "2026-08-26T16:07:28.401Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -211,10 +231,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.9493,
-    "fanRatioPercentile": 96.6512,
-    "popularityPercentile": 87.3645,
-    "fanFavouriteDiscoveryScore": 96.2999,
-    "fanFavouriteDiscoveryPercentile": 98.3182
+    "fanRatioPercentile": 96.6404,
+    "popularityPercentile": 87.3573,
+    "fanFavouriteDiscoveryScore": 96.289,
+    "fanFavouriteDiscoveryPercentile": 98.3202
   },
   "context": {
     "primaryProfile": "modern-korea",

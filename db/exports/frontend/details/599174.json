@@ -3,22 +3,40 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Pure Love of a Stuttering, Virgin, Insatiable Man",
-  "mangabaka_title": "The Pure Love of a Stuttering, Virgin, Insatiable Man",
-  "native_title": "[순애 단편선] 말더듬 동정 절륜남의 순애",
-  "romanized_title": null,
+  "mangabaka_title": "Maldeodeum Dongjeong Jeollyunnamui Sunae",
+  "native_title": "말더듬 동정 절륜남의 순애",
+  "romanized_title": "Maldeodeum Dongjeong Jeollyunnamui Sunae",
   "titles": [
     {
       "language": "ko",
       "title": "말더듬 동정 절륜남의 순애",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[순애 단편선] 말더듬 동정 절륜남의 순애",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Maldeodeum Dongjeong Jeollyunnamui Sunae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Sunae Danpyeonseon] Maldeodeum Dongjeong Jeollyunnamui Sunae",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -43,22 +61,22 @@
       "note": null
     }
   ],
-  "description": "\"I r-really l-love you. My princess, you're so pretty.\"\n\nI was confessed to by Chu Ji-hoon, a guy who only ever talked about food. Never mind the fact that his stuttering makes it hard to understand him, who on earth confesses so out of the blue? I clearly rejected him and said I was sorry, but... With a height close to 190 cm, a massive build, muscles, and even other parts of him that have absolutely nothing cute about them... I don't know why he keeps looking so cute to me.\n\n[Original Webtoon](https://ridibooks.com/books/5285002668)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0ODg1LmpwZw",
+  "description": "*Note: Part of Metatoon's Sunae Danpyeonseon (순애 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjAwNi1GV0Y5cGNQcEtOemkuanBn",
   "total_chapters": "4",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-06T03:59:41.147Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-24T04:17:28.162Z",
+  "last_updated_at": "2026-08-26T22:36:29.641Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +84,7 @@
     "Nunmuljeom"
   ],
   "artists": [
-    "Chae Hana",
+    "Ha-Na Chae",
     "Metatoon"
   ],
   "links": {
@@ -75,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216006,
+      "rating": null,
+      "url": "https://anilist.co/manga/216006"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "rq57s9t",
@@ -85,9 +107,13 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -95,8 +121,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9605,
+    "popularityPercentile": 0.1768,
+    "fanFavouriteDiscoveryScore": 5.1408,
+    "fanFavouriteDiscoveryPercentile": 0.1768
   }
 }

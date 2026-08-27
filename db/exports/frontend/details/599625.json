@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Lotuses Bloom on the Celestial Mountain",
-  "mangabaka_title": "Lotuses Bloom on the Celestial Mountain",
+  "mangabaka_title": "Cheonsaneneun Yeonkkochi Pinda",
   "native_title": "천산에는 연꽃이 핀다",
-  "romanized_title": null,
+  "romanized_title": "Cheonsaneneun Yeonkkochi Pinda",
   "titles": [
     {
       "language": "ko",
       "title": "천산에는 연꽃이 핀다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Cheonsaneneun Yeonkkochi Pinda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,29 +41,29 @@
     }
   ],
   "description": "The man she spent the night with… turns out to be the Emperor! Seolyeon’s peaceful life with her herbalist grandmother is turned upside down overnight. Caught in Yeohee’s vicious scheme, Seolyeon ends up spending the night with the Emperor. In the treacherous imperial palace, will she be able to conceal her true identity and survive unharmed?\n\n[Original Webtoon](https://ridibooks.com/books/1239023581)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1NDAyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjAwOS1FWEVVdnZaNUFGUzMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-09",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-12T03:15:20.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-25T23:54:46.043Z",
+  "last_updated_at": "2026-08-26T22:46:59.745Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gilan",
-    "Pillback"
+    "Giran",
+    "Pilbaek"
   ],
   "artists": [
-    "Wonsoul"
+    "So-Ul Won"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/599625",
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216009,
+      "rating": null,
+      "url": "https://anilist.co/manga/216009"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "h7otlgn",
@@ -70,12 +85,14 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     41,
     31,
     9,
-    45
+    45,
+    57
   ],
   "stats": {
     "popularity": null,
@@ -83,8 +100,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9605,
+    "popularityPercentile": 0.1768,
+    "fanFavouriteDiscoveryScore": 5.1408,
+    "fanFavouriteDiscoveryPercentile": 0.1768
   }
 }

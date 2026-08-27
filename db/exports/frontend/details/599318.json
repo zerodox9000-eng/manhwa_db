@@ -2,28 +2,37 @@
   "id": 599318,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Mix Secret",
+  "display_title": "[Basement Anthology] Mix Secret",
   "mangabaka_title": "Mix Secret",
-  "native_title": "[지하실 단편선] 믹스 시크릿",
-  "romanized_title": null,
+  "native_title": "믹스 시크릿",
+  "romanized_title": "[Jihasil Danpyeonseon] Mix Secret",
   "titles": [
     {
       "language": "ko",
       "title": "믹스 시크릿",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[지하실 단편선] 믹스 시크릿",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "[Basement Anthology] Mix Secret",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Jihasil Danpyeonseon] Mix Secret",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -36,36 +45,38 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Mix Secret",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Ari is a conservative 'Confucian girl' who believes men and women should stay apart after age seven. She ends up in a relationship and even cohabiting with Yugyeom, a younger man who blushes bright red just from holding hands. However, she has one major dilemma: their physical intimacy hasn't gone beyond a simple kiss! One day, troubled by this, Ari happens to notice the basement door ajar and approaches it. This was the place Yugyeom had strictly forbidden her to ever open... 'Gasp!' Inside was Yugyeom, engaging in an intimate act with her underwear. \n\n\"Noona... you won't suddenly run away on me later, will you?\" \n\nStarting from that day, their secret and colorful games began.\n\n[Original Webtoon](https://ridibooks.com/books/840080360)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1MDk4LmpwZw",
+  "description": "*Note: Part of Nexcube's Jihasil Danpyeonseon (지하실 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjAwNy1XUWRITHoxR3ZGUGsuanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-07",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-08T02:38:24.102Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-25T06:16:08.829Z",
+  "last_updated_at": "2026-08-26T22:22:55.676Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Morurang"
+    "Ru-Rang Mo"
   ],
   "artists": [
-    "Morurang"
+    "Ru-Rang Mo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/599318",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216007,
+      "rating": null,
+      "url": "https://anilist.co/manga/216007"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "bpi0hwf",
@@ -83,9 +98,14 @@
   },
   "tag_ids": [
     43,
+    108,
+    36,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -93,8 +113,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9605,
+    "popularityPercentile": 0.1768,
+    "fanFavouriteDiscoveryScore": 5.1408,
+    "fanFavouriteDiscoveryPercentile": 0.1768
   }
 }

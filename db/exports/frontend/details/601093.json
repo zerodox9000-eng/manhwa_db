@@ -2,15 +2,26 @@
   "id": 601093,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Wonder Land (Kyeonghan)",
-  "mangabaka_title": "Wonder Land (Kyeonghan)",
+  "display_title": "Wonder Land",
+  "mangabaka_title": "Wonder Land",
   "native_title": "원더랜드",
-  "romanized_title": "Wonder Land (Kyeonghan)",
+  "romanized_title": "Wonder Land",
   "titles": [
     {
       "language": "ko",
       "title": "원더랜드",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wonder Land",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,33 +29,33 @@
       "language": "ko-Latn",
       "title": "Wonder Land (Kyeonghan)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon :**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852503), \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14425774)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NDMwLnBuZw",
+  "description": "*“Here, fantasy becomes reality! If you survive, that is.”*\n\nThe protagonist arrives at a bizarre amusement park while searching for his missing daughter. A monster wearing a puppet mask appears before him and tells him that if he wants to find his daughter, he must play the games at the amusement park and survive. A death game thriller in which the protagonist must survive the deadly games set up at the amusement park to find his missing daughter.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTk1OC1CV0pQeUc0QzBxeHAuanBn",
   "total_chapters": "4",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-25",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-26T02:19:28.203Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-25T16:57:06.612Z",
+  "last_updated_at": "2026-08-26T22:22:57.910Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ccamalsol"
+    "Kkamalsol"
   ],
   "artists": [
-    "Kyeonghan"
+    "Kyeong-Han"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601093",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215958,
+      "rating": null,
+      "url": "https://anilist.co/manga/215958"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "gakohi9",
@@ -62,16 +77,27 @@
   },
   "tag_ids": [
     8,
-    44
+    58,
+    520,
+    36,
+    44,
+    32,
+    18,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9605,
+    "popularityPercentile": 2.6376,
+    "fanFavouriteDiscoveryScore": 6.088,
+    "fanFavouriteDiscoveryPercentile": 2.4387
   }
 }
