@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Five (Bana)",
-  "mangabaka_title": "Five (Bana)",
+  "mangabaka_title": "Five",
   "native_title": "파이브",
-  "romanized_title": "Five (Nagyung)",
+  "romanized_title": "Five",
   "titles": [
     {
       "language": "ko",
       "title": "파이브",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,6 +20,15 @@
       "language": "es",
       "title": "Cinco",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Five",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -32,30 +43,30 @@
       "language": "ko-Latn",
       "title": "Five (Nagyung)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Cho Seong-woo is the ace of the ‘First Generation’ and the biggest star in Korean university basketball, and dreams of making it to the NBA. He possesses talent second to none, and is just as arrogant and self-centred.\n\nAnd Kang Seol-hyun, who looks up to him. Although he started playing basketball late and lacks both a dazzling career and overwhelming physical prowess, he works harder than anyone else and possesses an exceptional shooting instinct.\n\nOne day, Seol-hyun, a reserve player, gets the chance to play when the starting guard, Si-hoon, is injured, and finds himself playing alongside Seong-woo on the same team…\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/five)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ZpdmUtYmFuYS0xLndlYnA_dD0xNzg0NDE1NDk4",
+  "description": "Cho Seong-U, the ace of the “First Generation” and the top star in college basketball, dreams of making it to the NBA. He possesses exceptional talent, more than anyone else, and is just as arrogant and self-righteous. Kang Seol-Hyeon has always looked up to him. Although he started playing basketball late and lacks both a dazzling career and overwhelming physical prowess, he works harder than anyone else and possesses an outstanding shooting touch. One day, Seol-Hyeon, a reserve player, gets the chance to play when starting guard Si-Huon is injured, and he ends up playing alongside Seong-U on the same team…\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTgzNi1OazNWQVBkdWFUYmEucG5n",
   "total_chapters": "8",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-19T04:19:30.700Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-27T11:35:58.346Z",
+  "last_updated_at": "2026-08-28T09:16:22.634Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Bbana"
+    "Ppana"
   ],
   "artists": [
     "Nagyung"
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215836,
+      "rating": null,
+      "url": "https://anilist.co/manga/215836"
+    },
     "animeplanet": {
       "id": "five-bana",
       "rating": null,
@@ -85,20 +100,24 @@
     180,
     16,
     31,
+    9,
     30,
+    470,
     93,
     57,
     428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 17,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0138,
+    "popularityPercentile": 11.0956,
+    "fanFavouriteDiscoveryScore": 10.3264,
+    "fanFavouriteDiscoveryPercentile": 10.2641
   },
   "context": {
     "primaryProfile": "corporate-workplace",

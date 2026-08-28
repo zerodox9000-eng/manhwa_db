@@ -2,8 +2,8 @@
   "id": 590471,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Just an Ordinary Family",
-  "mangabaka_title": "Geujeo Botongui Gajok",
+  "display_title": "Family Ties",
+  "mangabaka_title": "Family Ties",
   "native_title": "그저 보통의 가족",
   "romanized_title": "Geujeo Botongui Gajok",
   "titles": [
@@ -12,6 +12,15 @@
       "title": "그저 보통의 가족",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Family Ties",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -29,7 +38,7 @@
       "language": "en",
       "title": "Just an Ordinary Family",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -52,7 +61,7 @@
   "total_chapters": "12",
   "status": "releasing",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-06-13",
@@ -62,7 +71,7 @@
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-26T20:08:14.258Z",
+  "last_updated_at": "2026-08-28T08:56:24.861Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -108,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.9688,
-    "popularityPercentile": 19.7246,
-    "fanFavouriteDiscoveryScore": 15.801,
-    "fanFavouriteDiscoveryPercentile": 17.4569
+    "fanRatioPercentile": 32.0138,
+    "popularityPercentile": 19.7042,
+    "fanFavouriteDiscoveryScore": 15.8097,
+    "fanFavouriteDiscoveryPercentile": 17.4527
   },
   "context": {
     "primaryProfile": "regression-return",

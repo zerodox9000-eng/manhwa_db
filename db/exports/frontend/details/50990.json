@@ -2,8 +2,8 @@
   "id": 50990,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Want Some New Face",
-  "mangabaka_title": "Eorin Aein",
+  "display_title": "Young Lover",
+  "mangabaka_title": "Young Lover",
   "native_title": "어린 애인",
   "romanized_title": "Eorin Aein",
   "titles": [
@@ -29,21 +29,23 @@
       "language": "en",
       "title": "I Want Some New Face",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "en",
       "title": "Little Lover",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Young Lover",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
@@ -52,7 +54,7 @@
   "total_chapters": "50",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2021,
   "published": {
     "start_date": "2021-06-05",
@@ -62,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.412Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-25T06:53:11.069Z",
+  "last_updated_at": "2026-08-28T10:16:32.096Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -117,10 +119,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.9688,
-    "popularityPercentile": 41.6507,
-    "fanFavouriteDiscoveryScore": 27.4504,
-    "fanFavouriteDiscoveryPercentile": 29.9882
+    "fanRatioPercentile": 32.0138,
+    "popularityPercentile": 41.6378,
+    "fanFavouriteDiscoveryScore": 27.4849,
+    "fanFavouriteDiscoveryPercentile": 30.0272
   },
   "context": {
     "primaryProfile": "romance-core",

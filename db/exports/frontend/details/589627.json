@@ -2,8 +2,8 @@
   "id": 589627,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Owner of C",
-  "mangabaka_title": "C-ui Juin",
+  "display_title": "C's Owner",
+  "mangabaka_title": "C's Owner",
   "native_title": "C의 주인",
   "romanized_title": "C-ui Juin",
   "titles": [
@@ -12,6 +12,15 @@
       "title": "C의 주인",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "C's Owner",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -36,7 +45,7 @@
       "language": "en",
       "title": "The Owner of C",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -45,7 +54,7 @@
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-05-30",
@@ -55,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-26T19:32:05.999Z",
+  "last_updated_at": "2026-08-28T07:30:24.135Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -98,10 +107,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 9.0909,
-    "fanRatioPercentile": 99.3889,
-    "popularityPercentile": 6.5602,
-    "fanFavouriteDiscoveryScore": 24.451,
-    "fanFavouriteDiscoveryPercentile": 26.8296
+    "fanRatioPercentile": 99.3967,
+    "popularityPercentile": 6.5411,
+    "fanFavouriteDiscoveryScore": 24.4237,
+    "fanFavouriteDiscoveryPercentile": 26.8634
   },
   "context": {
     "primaryProfile": "romance-core",
