@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Dogs Dream of Swimming",
-  "mangabaka_title": "Dogs Dream of Swimming",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Gaeneun Heeomchineun Kkumeul Kkunda",
+  "native_title": "개는 헤엄치는 꿈을 꾼다",
+  "romanized_title": "Gaeneun Heeomchineun Kkumeul Kkunda",
   "titles": [
     {
       "language": "ko",
       "title": "개는 헤엄치는 꿈을 꾼다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "A Dog Dreams of Swimming",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -20,32 +29,48 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gaeneun Heeomchineun Kkumeul Kkunda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Dog Dreams of Swimming",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854250), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14635769)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NTEzLnBuZw",
+  "description": "*“Then let’s work together. Don’t hold back.”*\n\nOne summer, when the cicadas were chirping at their loudest, Yeo-Eun’s daily life is completely turned upside down. Her 7-year-old younger brother, left behind by a mother who had only ever saddled her with debt, and a mysterious man named Ki Seung-Do, who appeared along with the news of her mother’s car accident. The more she becomes entangled with him, who exudes a cold, monochromatic aura, the deeper Yeo-Eun falls into a dangerous yet sweet trap... \n\nEventually, she takes Seung-Do’s hand and begins to cross a line she should never have crossed. \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjAxOC0zejZzWFNIVGo5NXouanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-27T03:45:42.901Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-26T16:21:25.903Z",
+  "last_updated_at": "2026-08-27T16:32:30.152Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Kwon",
-    "Lee Se-Mi"
+    "Se-Mi Lee"
   ],
   "artists": [
-    "Gyungta"
+    "Gyeongta"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601184",
@@ -53,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216018,
+      "rating": null,
+      "url": "https://anilist.co/manga/216018"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "uzl14ss",
@@ -63,18 +92,29 @@
   },
   "tag_ids": [
     43,
+    59,
+    108,
     31,
     32,
-    9
+    742,
+    9,
+    7,
+    282,
+    19,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9688,
+    "popularityPercentile": 0.7804,
+    "fanFavouriteDiscoveryScore": 5.3629,
+    "fanFavouriteDiscoveryPercentile": 0.751
   }
 }

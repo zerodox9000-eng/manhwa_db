@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Unrequited Love Mentoring",
-  "mangabaka_title": "Unrequited Love Mentoring",
+  "mangabaka_title": "Jjaksarang Mentoring",
   "native_title": "짝사랑 멘토링",
-  "romanized_title": null,
+  "romanized_title": "Jjaksarang Mentoring",
   "titles": [
     {
       "language": "ko",
       "title": "짝사랑 멘토링",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja-Latn",
+      "title": "Jjaksarang Mentoring",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,21 +34,21 @@
     }
   ],
   "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079857)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MTM2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjAxNS01YVRYZ055bEp5R3UuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-20",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-21T02:18:47.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-26T23:56:02.500Z",
+  "last_updated_at": "2026-08-27T23:50:49.900Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216015,
+      "rating": null,
+      "url": "https://anilist.co/manga/216015"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "uvkibh7",
@@ -63,16 +78,19 @@
   "tag_ids": [
     46,
     16,
+    31,
     9
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9688,
+    "popularityPercentile": 0.7804,
+    "fanFavouriteDiscoveryScore": 5.3629,
+    "fanFavouriteDiscoveryPercentile": 0.751
   }
 }
