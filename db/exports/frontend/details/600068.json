@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Theory of One True Fate",
-  "mangabaka_title": "The Theory of One True Fate",
+  "mangabaka_title": "Unmyeongui Yuillon",
   "native_title": "운명의 유일론",
-  "romanized_title": null,
+  "romanized_title": "Unmyeongui Yuillon",
   "titles": [
     {
       "language": "ko",
       "title": "운명의 유일론",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,28 +25,44 @@
     },
     {
       "language": "en",
+      "title": "The Sole Theory of Fate",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "The Theory of One True Fate",
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Unmyeongui Yuillon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "At an orphanage, a child appears before Lee Seohu, who refuses to have anything to do with anyone other than himself. The child stubbornly keeps clinging to him, no matter how many times Seohu pushes him away.Before long, Seohu becomes deeply attached to the child. He gives him the name Yuil—meaning “the one and only”—and begins to bind him to himself, becoming increasingly obsessed with him. But the world keeps trying to take Yuil away from Seohu in one way or another. Despite countless crises, Seohu ultimately manages to hold on to Yuil. However, when Yuil suddenly manifests as an all-rounder Guide, the two are forced apart once again. Now Seohu begins to move once more, determined to make Yuil his and his alone...\n\n[Original Webtoon](https://www.bomtoon.com/detail/OnlyFate)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1NjAzLmpwZw",
+  "description": "At an orphanage, a child appears before Lee Seo-Hu, who had rejected everyone but himself, and clings to him persistently. Before he knows it, Seo-Hu has lost his heart to the child, names him \"Yu-Il,\" and begins to obsess over him, binding him to his life. However, the world keeps trying to snatch Yu-Il away from Seo-Hu in various forms. Although Seo-Hu never let Yu-Il go despite numerous crises, they drift apart once again when Yu-Il manifests as an All-rounder Guide. Seo-Hu begins to take action once more to make Yu-Il his own...\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjA1MS1CVzNwYWJEVmhJNVIucG5n",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-12",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-15T02:07:30.747Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-27T19:20:19.071Z",
+  "last_updated_at": "2026-08-28T22:40:47.324Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216051,
+      "rating": null,
+      "url": "https://anilist.co/manga/216051"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "bckng2z",
@@ -70,16 +92,24 @@
   "tag_ids": [
     36,
     46,
-    16
+    180,
+    16,
+    9,
+    236,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0294,
+    "popularityPercentile": 0.2059,
+    "fanFavouriteDiscoveryScore": 5.1623,
+    "fanFavouriteDiscoveryPercentile": 0.2059
   }
 }

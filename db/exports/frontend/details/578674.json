@@ -2,47 +2,60 @@
   "id": 578674,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Rural Ace",
-  "mangabaka_title": "Rural Ace",
+  "display_title": "Back to First Base",
+  "mangabaka_title": "Back to First Base",
   "native_title": "농어촌 에이스",
-  "romanized_title": null,
+  "romanized_title": "Rural Ace",
   "titles": [
     {
       "language": "ko",
       "title": "농어촌 에이스",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
+      "title": "Back to First Base",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Rural Ace",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Seo Ye-Seong, winner of the U-18 Baseball World Cup and first overall pick in the draft, was a legendary rookie pitcher. However, after ten years of bouncing between the first and second teams, a series of injuries ultimately forced him to retire. Then one day, he stumbled upon an old glove. Grabbing it transported him back to his rookie days 20 years earlier! Opportunity awaited him. Driven by his desire to play baseball, he embarks on his second rookie season.\n\n[Original Novel](https://series.naver.com/novel/detail.series?productNo=11056915) \n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=848041), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13734987)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3J1cmFsLWFjZS0xLndlYnA_dD0xNzcwOTIxNTg2",
+  "description": "Baseball gave Ye-Seong everything, and then took it all away. Years after injuries ended his career, he suddenly finds himself back at age 18. This means another shot at becoming the pitcher he once dreamed of being, but starting over means more than just returning to the mound. Ye-Seong has already lived through one career filled with regret, but reconnecting with his estranged father, a legendary MLB pitcher, this opportunity may prove to be a second chance at more than just baseball. \n\n(Source: WEBTOON)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjA3Ny1ncmtCNXF4TmR2U3kuanBn",
   "total_chapters": "36",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-02-12",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-26T02:30:16.721Z",
+  "last_updated_at": "2026-08-29T00:46:40.040Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Evilline",
-    "Hwang Ji-Seong"
+    "Ji-Seong Hwang"
   ],
   "artists": [
     "Mandu"
@@ -53,7 +66,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216077,
+      "rating": null,
+      "url": "https://anilist.co/manga/216077"
+    },
     "animeplanet": {
       "id": "rural-ace",
       "rating": 76,
@@ -66,7 +83,9 @@
     }
   },
   "tag_ids": [
+    58,
     36,
+    31,
     30,
     459,
     93,
@@ -79,9 +98,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0294,
+    "popularityPercentile": 0.2059,
+    "fanFavouriteDiscoveryScore": 5.1623,
+    "fanFavouriteDiscoveryPercentile": 0.2059
   },
   "context": {
     "primaryProfile": "sports-career",

@@ -5,20 +5,31 @@
   "display_title": "Blue Lie",
   "mangabaka_title": "Blue Lie",
   "native_title": "블루라이",
-  "romanized_title": null,
+  "romanized_title": "Blue Lie",
   "titles": [
     {
       "language": "ko",
       "title": "블루라이",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Blue Lie",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "Blue Lie(블루라이)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,22 +40,22 @@
       "note": null
     }
   ],
-  "description": "After waking up one month after a car accident, Woogyeom discovers that he has not only lost his memories but has also presented as an Omega.   \n\nAmid all this, he feels something unsettling about Hanyeong, who shows up claiming to have been his lover.   \n\nWoogyeom thinks he shouldn't trust Hanyeong, but then...   \n\nWhat is this wonderful scent...?\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079858)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NDc5LmpwZw",
+  "description": "A month after a car accident, U-Gyeom wakes up to discover that he has lost his memory and has manifested as an Omega. Amid all this, he feels uneasy around Han-Yeong, who has come to see him, claiming to be his former lover...\n\nHe knows he shouldn’t trust Han-Yeong, but what is this wonderful scent...?\n\n(Source: Mr.Blue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjA4OS1YTFFOTjR4VzRndXUuanBn",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-25",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-27T03:45:42.901Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-28T06:23:27.187Z",
+  "last_updated_at": "2026-08-29T03:06:41.445Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216089,
+      "rating": null,
+      "url": "https://anilist.co/manga/216089"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "t5ghj0m",
@@ -82,8 +97,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0294,
+    "popularityPercentile": 0.2059,
+    "fanFavouriteDiscoveryScore": 5.1623,
+    "fanFavouriteDiscoveryPercentile": 0.2059
   }
 }

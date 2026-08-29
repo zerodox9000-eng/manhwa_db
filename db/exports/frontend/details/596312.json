@@ -2,14 +2,23 @@
   "id": 596312,
   "state": "active",
   "type": "manhwa",
-  "display_title": "God of Wine (Seong-Hye)",
-  "mangabaka_title": "God of Wine (Seong-Hye)",
+  "display_title": "God of Wine",
+  "mangabaka_title": "Wine-ui Sin",
   "native_title": "와인의 신",
   "romanized_title": "God of Wine (Seong-Hye)",
   "titles": [
     {
       "language": "ko",
       "title": "와인의 신",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "God of Wine",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -18,26 +27,42 @@
       "language": "ko-Latn",
       "title": "God of Wine (Seong-Hye)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Regressing and Becoming a Farming Tycoon in America",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wine-ui Sin",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "After living a life full of regret as a renowned agricultural PhD, Choi Woo-seok opens his eyes to find himself back in his high school days in California's Napa Valley. Facing a once-thriving vineyard now ruined by drought and pests, he decides to risk everything by taking over the failing farm.\nArmed with his future knowledge and expertise, he embarks on a challenging journey to revive the land, master the art of winemaking, and climb his way to the pinnacle of the wine industry — becoming the God of Wine.\nA realistic drama centered on farming, business management, and the world of fine wine, with no magic or cheats — only hard work, strategy, and passion.\n\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852403), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14420436)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyMjQyLmpwZw",
+  "description": "Choi U-Seok, a doctor of agricultural science who had been left alone in the emptiness of life, opens his eyes to find himself back in his high school days in Napa Valley, California! \n\nBut what awaits him is a grape farm that has gone bankrupt due to droughts and pests. In this desperate situation, U-Seok takes a huge gamble, using immigrant assistance programs and loans to acquire the farm… \n\nCan he really transform this devastated vineyard? \n\n(Source: Naver translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjA4MS1aQTRndzhiVll4b2MuanBn",
   "total_chapters": "9",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-12T04:22:02.555Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-25T12:00:26.239Z",
+  "last_updated_at": "2026-08-29T01:46:40.695Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216081,
+      "rating": null,
+      "url": "https://anilist.co/manga/216081"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "a0086lt",
@@ -77,9 +106,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0294,
+    "popularityPercentile": 0.2059,
+    "fanFavouriteDiscoveryScore": 5.1623,
+    "fanFavouriteDiscoveryPercentile": 0.2059
   },
   "context": {
     "primaryProfile": "business-career",
