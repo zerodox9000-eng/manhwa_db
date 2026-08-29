@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Young Lady's Bodyguard",
-  "mangabaka_title": "A Young Lady's Bodyguard",
-  "native_title": "令嬢のボディガード",
-  "romanized_title": null,
+  "mangabaka_title": "Yeongaeui Gyeonghogwan",
+  "native_title": "영애의 경호관",
+  "romanized_title": "Yeongaeui Gyeonghogwan",
   "titles": [
     {
       "language": "ko",
       "title": "영애의 경호관",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Yeongaeui Gyeonghogwan",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "令嬢のボディガード",
       "traits": [],
@@ -44,29 +55,29 @@
     }
   ],
   "description": "A relationship that started for the National Intelligence Service mission, but isn't there something suspicious about this young lady?\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=793617), [Naver Series](https://series.naver.com/comic/detail.series?productNo=8251136), [KakaoPage](https://page.kakao.com/content/69613625), [MrBlue](https://www.mrblue.com/webtoon/wt_000079837), [Ridibooks](https://ridibooks.com/books/3000017187) \n\n**Official Translations:**  \n[Japanese](https://manga.line.me/product/periodic?id=Z0003139)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2EteW91bmctbGFkeXMtYm9keWd1YXJkLTEud2VicD90PTE2NTQxMDQ0ODg",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjA5MC1aZFQxUm1lT3hZWWMuanBn",
   "total_chapters": "80",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2022,
   "published": {
-    "start_date": "2022-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2022-04-13",
+    "end_date": "2023-07-09",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:45:01.176Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-29T02:12:17.659Z",
+  "last_updated_at": "2026-08-29T03:36:41.891Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "carbo(Do Hyo-won)",
+    "Hyo-Won Do",
     "Ruschu"
   ],
   "artists": [
-    "Jeon Kyung-min"
+    "Gyeong-min Jeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/87066",
@@ -74,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216090,
+      "rating": null,
+      "url": "https://anilist.co/manga/216090"
+    },
     "animeplanet": {
       "id": "a-young-ladys-bodyguard",
       "rating": null,
@@ -90,6 +105,7 @@
     8,
     74,
     592,
+    108,
     39,
     31,
     9,
@@ -103,9 +119,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0494,
+    "popularityPercentile": 0.2352,
+    "fanFavouriteDiscoveryScore": 5.1762,
+    "fanFavouriteDiscoveryPercentile": 0.2352
   },
   "context": {
     "primaryProfile": "modern-korea",
