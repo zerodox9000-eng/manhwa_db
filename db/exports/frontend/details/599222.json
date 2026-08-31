@@ -3,22 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Don't Be Nice to the Man Next Door",
-  "mangabaka_title": "Don't Be Nice to the Man Next Door",
-  "native_title": "[불공정 단편선] 옆집 남자에게 잘해 주지 마세요",
-  "romanized_title": null,
+  "mangabaka_title": "Yeopjim Namjaege Jalhae Juji Maseyo",
+  "native_title": "옆집 남자에게 잘해 주지 마세요",
+  "romanized_title": "[Bulgongjeong Danpyeonseon] Yeopjim Namjaege Jalhae Juji Maseyo",
   "titles": [
     {
       "language": "ko",
       "title": "옆집 남자에게 잘해 주지 마세요",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[불공정 단편선] 옆집 남자에게 잘해 주지 마세요",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Bulgongjeong Danpyeonseon] Yeopjim Namjaege Jalhae Juji Maseyo",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -43,6 +52,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Yeopjim Namjaege Jalhae Juji Maseyo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "th",
       "title": "อย่าใจดีกับผู้ชายข้างบ้าน",
       "traits": [],
@@ -50,27 +68,27 @@
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000080033)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0OTE5LnBuZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*“Si, Si-U…? What’s that…? Something strange keeps brushing against me…”*\n\nMin Tae-Ha, who had unwittingly become friends with Lee Si-U, the man next door who wraps himself up tightly in a gloomy manner and jumps at the sight of anyone, and showed him some human kindness. Tae-Ha, who usually maintains a certain distance, finds himself unable to do so with Si-U, even though there’s an eight-year age gap between them. Perhaps it’s because he saw Si-U as a child who was only big in stature but otherwise incredibly fragile. His uninhibited affection for Si-U ended up coming back to haunt him.\n\nOn what should have been a happy day, the day his girlfriend proposed to him, Tae-Ha is grabbed by Si-U and “kidnapped” to his house…\n\n(Source: MrBlue, translated)\n\n*Note: Part of Metatoon's Bulgongjeong Danpyeonseon (불공정 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjA5MS1GT1Q5ZFVFMDNOTHUuanBn",
+  "total_chapters": "5",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-05",
+    "end_date": "2026-08-05",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-07T03:38:29.274Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-29T01:23:00.944Z",
+  "last_updated_at": "2026-08-31T03:13:09.501Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "All the Good Things Together",
-    "Hichae"
+    "Hichae",
+    "Joeungeondagachi"
   ],
   "artists": [
     "Metatoon",
@@ -82,7 +100,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216091,
+      "rating": null,
+      "url": "https://anilist.co/manga/216091"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "9r8d2s9",
@@ -91,18 +113,27 @@
     }
   },
   "tag_ids": [
+    106,
     46,
+    15,
+    180,
     16,
-    31
+    31,
+    18,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.1221,
+    "popularityPercentile": 2.7013,
+    "fanFavouriteDiscoveryScore": 6.1451,
+    "fanFavouriteDiscoveryPercentile": 2.5031
   }
 }

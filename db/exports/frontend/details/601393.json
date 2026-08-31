@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Obsession Series",
-  "mangabaka_title": "Obsession Series",
+  "mangabaka_title": "Jipchang Series",
   "native_title": "집착 시리즈",
-  "romanized_title": null,
+  "romanized_title": "Jipchang Series",
   "titles": [
     {
       "language": "ko",
       "title": "집착 시리즈",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jipchang Series",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,22 +33,22 @@
       "note": null
     }
   ],
-  "description": "Yuhan and Sua have been childhood friends for as long as they can remember, just like their brothers, Jihan and Shinwoo. The four of them have grown up together since they were young, but there has always been something about their relationship that feels different from ordinary friendship. Sua has always been the center of everyone’s attention, yet the only person she has eyes for is Yuhan. But when a delinquent who has feelings for her begins bullying Yuhan, things start to spiral out of control… Will Sua finally be able to have Yuhan completely to herself, just as she has always wanted? Meanwhile, Shinwoo has spent years obsessively interfering in Jihan’s relationships, gradually monopolizing his entire world. Their seemingly perfect relationship begins to crack, however, when a woman suddenly appears and approaches Jihan without hesitation. Sua wants Yuhan. Shinwoo has always kept Jihan all to himself. Under the guise of love and friendship, a dangerous game of manipulation and gaslighting begins. Will these obsessive siblings be able to keep their childhood friends by their side until the very end?\n\n**Original Webtoon:**     \n[KakaoPage](https://page.kakao.com/content/70251659/), [Daum](https://webtoon.kakao.com/content/%EC%A7%91%EC%B0%A9-%EC%8B%9C%EB%A6%AC%EC%A6%88/4944)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2Njc5LmpwZw",
+  "description": "Yu-Han and Su-A, along with their brothers Ji-Han and Shin-Woo, have been inseparable since childhood. But their bonds go far beyond ordinary friendship. Su-A only has eyes for Yu-Han, while Shin-Woo has always kept a tight grip on Ji-Han’s relationships. When outsiders threaten their bonds, their possessiveness begins to spiral. Under the guise of love and friendship, a dangerous game of obsession and gaslighting unfolds. Will these obsessive siblings be able to keep their childhood friends by their side? \n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNjE0OS1OYmlsVG9xS0RpWnYuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-29T03:13:25.424Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-29T16:24:59.628Z",
+  "last_updated_at": "2026-08-31T01:46:13.076Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216149,
+      "rating": null,
+      "url": "https://anilist.co/manga/216149"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "t3v6030",
@@ -67,7 +82,10 @@
     31,
     18,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -75,8 +93,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.1221,
+    "popularityPercentile": 0.1688,
+    "fanFavouriteDiscoveryScore": 5.1639,
+    "fanFavouriteDiscoveryPercentile": 0.1688
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Stealing the Egg",
-  "mangabaka_title": "Stealing the Egg",
+  "mangabaka_title": "Areul Humchida",
   "native_title": "알을 훔치다",
-  "romanized_title": null,
+  "romanized_title": "Areul Humchida",
   "titles": [
     {
       "language": "ko",
       "title": "알을 훔치다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Areul Humchida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,32 +38,39 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ru",
+      "title": "Кража яиц",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Novel:**  \n[RIDI](https://ridibooks.com/books/4847000040), [MrBlue](https://www.mrblue.com/novel/E000132651), [Bookcube](https://www.bookcube.com/detail.asp?series_num=924042136), [Naver Series](https://series.naver.com/novel/detail.series?productNo=11759152)\n\n**Original Webtoon:**   \n[RIDI](https://ridibooks.com/books/845057518)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NTc5LmpwZw",
+  "description": "**Original Novel:**  \n[RIDI](https://ridibooks.com/books/4847000040), [MrBlue](https://www.mrblue.com/novel/E000132651), [Bookcube](https://www.bookcube.com/detail.asp?series_num=924042136), [Naver Series](https://series.naver.com/novel/detail.series?productNo=11759152)\n\n[Original Webtoon](https://ridibooks.com/books/845057518)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjE1NC1xREFqc2NESjR0eGcuanBn",
   "total_chapters": "8",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-28T03:06:32.257Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-29T16:09:33.175Z",
+  "last_updated_at": "2026-08-31T02:36:13.555Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Limetree",
+    "Lime Namu",
     "Yeonmi"
   ],
   "artists": [
-    "MACSA"
+    "Maeksa"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601304",
@@ -60,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216154,
+      "rating": null,
+      "url": "https://anilist.co/manga/216154"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ybv0o1l",
@@ -71,7 +93,13 @@
   "tag_ids": [
     36,
     46,
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -79,8 +107,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.1221,
+    "popularityPercentile": 0.1688,
+    "fanFavouriteDiscoveryScore": 5.1639,
+    "fanFavouriteDiscoveryPercentile": 0.1688
   }
 }
