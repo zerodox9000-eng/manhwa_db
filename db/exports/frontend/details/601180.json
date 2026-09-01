@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Dear Pink",
-  "mangabaka_title": "Dear Pink",
+  "mangabaka_title": "Deer Pink",
   "native_title": "디어 핑크",
-  "romanized_title": null,
+  "romanized_title": "Deer Pink",
   "titles": [
     {
       "language": "ko",
       "title": "디어 핑크",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,37 +24,39 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Deer Pink",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
   "description": "“Researcher Baek Hayan. Are you a stalker? Or what? Are you going to say something childish like you want my heart or something?”\n\nNo, CEO. The one and only color she had spent her entire life searching for.”\n\n“I want your cock, CEO.”\n\nAnd of all places, she happened to find that color on the body of the man who was always openly displeased with her.\n\n “What am I supposed to do? It’s the color I’ve been looking for.”\n\n In the end, desperate to see that color again, Hayan decides to seduce Cha Kanghyuk, a man who is practically her sworn enemy. But something feels strange. She was definitely the one who started seducing him, yet at some point, the way Cha Kanghyuk looks at her begins to change.\n\n**Original Webtoon:**     \n[Ridibooks](https://ridibooks.com/books/4954017421)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NTY5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI0Ni13MUxsVWZRVUwzSXUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-27T03:45:42.901Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-31T19:00:44.907Z",
+  "last_updated_at": "2026-09-01T05:16:40.994Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kang Seon",
-    "Kim Reureu"
+    "Reu-Reu Kim",
+    "Seon Kang"
   ],
   "artists": [
-    "Yama (II)"
+    "Yama"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601180",
@@ -60,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216246,
+      "rating": null,
+      "url": "https://anilist.co/manga/216246"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ssbqagz",
@@ -70,10 +78,14 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -81,8 +93,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.1599,
+    "popularityPercentile": 0.154,
+    "fanFavouriteDiscoveryScore": 5.1646,
+    "fanFavouriteDiscoveryPercentile": 0.154
   }
 }

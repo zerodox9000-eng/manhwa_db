@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Ours",
-  "mangabaka_title": "Ours",
+  "mangabaka_title": "Urideurui Geot",
   "native_title": "우리들의 것",
-  "romanized_title": null,
+  "romanized_title": "Urideurui Geot",
   "titles": [
     {
       "language": "ko",
       "title": "우리들의 것",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,6 +45,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Urideurui Geot",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "What Belongs to Us",
       "traits": [],
@@ -51,29 +62,29 @@
     }
   ],
   "description": "\"My fake husband has a lover, and that lover is jealous of me. And a mad dog has just appeared, insisting on inserting himself into this fucked-up family tree.\"  \n\n\nA three-year sham marriage initiated to cover up the scandals of a presidential candidate backed by conservatives. Left alone in New York, Korean-American Lee Yu-ri served as her husband Aaron's perfect shield and sanctuary.  \n\n\nShe had planned to step down cleanly and return to a peaceful routine once the election was over, but the moment she stepped into the VVIP room of Aces Department Store, everything fell apart.  \n\n\nLeoluca Casani: an Italian mafia boss reeking of blood and dangerous lust.  \n\n\nWith his rough touch ruthlessly shattering the boundaries of her perfect disguise, Yu-ri's sturdy world begins to melt away in a sticky collapse.  \n\n\n\"The marriage vows you're keeping all by yourself are void. So, get into my bed.\"\n\n[Original Web Novel](https://series.naver.com/novel/detail.series?productNo=13912060)  \n[Original Webtoon](https://ridibooks.com/books/5754003847)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NjQ5LnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI0MC11bTd1bnJiS1FUMEcuanBn",
   "total_chapters": "1",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-29T03:13:25.424Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-31T18:48:39.074Z",
+  "last_updated_at": "2026-09-01T04:46:10.575Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Chyom Chyom",
-    "Saewoo"
+    "Ssae-U"
   ],
   "artists": [
-    "Baek Mu"
+    "Mu Baek"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601392",
@@ -81,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216240,
+      "rating": null,
+      "url": "https://anilist.co/manga/216240"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6fhp3od",
@@ -101,8 +116,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.1599,
+    "popularityPercentile": 0.154,
+    "fanFavouriteDiscoveryScore": 5.1646,
+    "fanFavouriteDiscoveryPercentile": 0.154
   }
 }
