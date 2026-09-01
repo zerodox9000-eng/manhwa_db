@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Pairing Complete!",
-  "mangabaka_title": "Pairing Complete!",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Pairing-i Wallyodoeeotseumnida!",
+  "native_title": "페어링이 완료되었습니다!",
+  "romanized_title": "Pairing-i Wallyodoeeotseumnida!",
   "titles": [
     {
       "language": "ko",
       "title": "페어링이 완료되었습니다!",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[순애 단편선] 페어링이 완료되었습니다!",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,6 +31,29 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Pairing-i Wallyodoeeotseumnida!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "[Pure Love Short Story Collection] Pairing Complete!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Sunae Danpyeonseon] Pairing-i Wallyodoeeotseumnida!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "[True Love Anthology] Pairing Complete!",
       "traits": [],
@@ -36,22 +61,22 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[MrBlue](https://www.mrblue.com/webtoon/wt_000080085)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2Njk0LnBuZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*Note: Part of Metatoon's Sunae Danpyeonseon (순애 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjA3MC1Oc2NOMVN4VGJ3NzkuanBn",
+  "total_chapters": "5",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-27",
+    "end_date": "2026-08-27",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-30T02:05:35.290Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-29T16:36:18.857Z",
+  "last_updated_at": "2026-08-31T19:02:57.749Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216070,
+      "rating": null,
+      "url": "https://anilist.co/manga/216070"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "iouz2uz",
@@ -79,17 +108,23 @@
   "tag_ids": [
     36,
     46,
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.13,
+    "popularityPercentile": 2.6855,
+    "fanFavouriteDiscoveryScore": 6.14,
+    "fanFavouriteDiscoveryPercentile": 2.4873
   }
 }

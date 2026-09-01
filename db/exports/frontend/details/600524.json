@@ -2,15 +2,26 @@
   "id": 600524,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Maid With a Child",
-  "mangabaka_title": "The Maid With a Child",
+  "display_title": "The Maid with a Child",
+  "mangabaka_title": "Ae Ttallin Hanyeo",
   "native_title": "애 딸린 하녀",
-  "romanized_title": null,
+  "romanized_title": "Ae Ttallin Hanyeo",
   "titles": [
     {
       "language": "ko",
       "title": "애 딸린 하녀",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ae Ttallin Hanyeo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,7 +48,7 @@
     },
     {
       "language": "en",
-      "title": "The Maid With a Child",
+      "title": "The Maid with a Child",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -50,27 +61,27 @@
       "note": null
     }
   ],
-  "description": "Adlen, a maid whose greatest life goal is to live happily ever after with a husband prettier than a chubby toad and a child better than a disobedient frog. On the day her master, whom she had never met before, returned from the battlefield, he threw a baby at her instead of war spoils!! \n\n\"Raise him.\"   \n\"What?\"    \n\"I will give you double your salary, a house, a carriage, livestocks, and even the wedding funds.\"   \n\"No.\"    \n\"I will find you a man to marry.\" \n\nListen, Master. A husband found by your boss... does that even make sense? Unable to resist her master's coercion, Adlen is captured and forced to serve as the nanny for the baby, who is the Crown Prince of an enemy nation. Will she be able to achieve her life's goal of a happy family?!!\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/69362229), [Daum](https://webtoon.kakao.com/content/%EC%95%A0-%EB%94%B8%EB%A6%B0-%ED%95%98%EB%85%80/4949)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1OTY2LmpwZw",
+  "description": "Adlen, a maid whose greatest life goal is to live happily ever after with a husband prettier than a chubby toad and a child better than a disobedient frog. On the day her master, whom she had never met before, returned from the battlefield, he threw a baby at her instead of war spoils!!\n\n *\"Raise him.\"\n\"What?\"\n\"I will give you double your salary, a house, a carriage, livestocks, and even the wedding funds.\"\n\"No.\"\n\"I will find you a man to marry.\"*\n\nListen, Master. A husband found by your boss... does that even make sense? Unable to resist her master's coercion, Adlen is captured and forced to serve as the nanny for the baby, who is the Crown Prince of an enemy nation. Will she be able to achieve her life's goal of a happy family?!!",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjE0MC1EU3BxUVpBTHgwelEuanBn",
   "total_chapters": "25",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-18",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-20T02:09:32.551Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-30T07:51:09.250Z",
+  "last_updated_at": "2026-09-01T01:16:08.509Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "설희",
-    "주시하"
+    "Seol-Hui",
+    "Si-Ha Ju"
   ],
   "artists": [
     "MAJI"
@@ -81,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216140,
+      "rating": 70,
+      "url": "https://anilist.co/manga/216140"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wuug4cg",
@@ -90,19 +105,27 @@
     }
   },
   "tag_ids": [
+    108,
     36,
     6,
+    742,
     9,
-    7
+    7,
+    282,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.13,
+    "popularityPercentile": 2.6855,
+    "fanFavouriteDiscoveryScore": 6.14,
+    "fanFavouriteDiscoveryPercentile": 2.4873
   }
 }

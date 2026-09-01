@@ -4,13 +4,22 @@
   "type": "manhwa",
   "display_title": "Palace Slave",
   "mangabaka_title": "Palace Slave",
-  "native_title": "宮奴～囚われた花～",
-  "romanized_title": null,
+  "native_title": "궁노(宮奴)",
+  "romanized_title": "Gungno",
   "titles": [
     {
       "language": "ko",
       "title": "궁노",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gungno",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -24,7 +33,9 @@
     {
       "language": "en",
       "title": "Palace Slave",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -45,8 +56,10 @@
     {
       "language": "ko",
       "title": "궁노(宮奴)",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -57,26 +70,27 @@
       "note": null
     }
   ],
-  "description": "As a child, Seori is nearly sold into a courtesan house by her mother, but is saved by the benevolent Queen Yeonhwa. So she later helps the queen's son, Prince Seon-gyeom, avoid an attempt on his life and run away from the kingdom. Six years later, Seori is living in disguise as a \"male\" slave at the palace for her safety. But then, Seon-gyeom unexpectedly returns as a powerful prince and is drawn to Seori despite failing to recognize her. Can Seori keep her identity a secret with the prince's heated obsession growing by the day?\n\n**Original Novel:**    \nR19, R15\n\n**Original Webtoon:**    \nR19, R15\n\n**Official Translations:**    \nR19: [English](https://www.tappytoon.com/en/book/palace-slave-m)   \nR15: [English](https://www.tappytoon.com/en/book/palace-slave), [Japanese](https://mechacomic.jp/books/275241)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI2NjYxLmpwZw",
+  "description": "As a child, Seo-Ri is nearly sold into a courtesan house by her mother, but is saved by the benevolent Queen Yeon-Hwa. So she later helps the queen's son, Prince Seon-Gyeom, avoid an attempt on his life and run away from the kingdom. Six years later, Seo-Ri is living in disguise as a \"male\" slave at the palace for her safety. But then, Seon-Gyeom unexpectedly returns as a powerful prince and is drawn to Seo-Ri despite failing to recognize her. Can Seo-Ri keep her identity a secret with the prince's heated obsession growing by the day?\n\n(Source: Tappytoon)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjE1Mi1uNXZLUFFZWDdBV1IucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-09-23",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-30T14:32:32.868Z",
+  "last_updated_at": "2026-09-01T02:16:09.138Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Chyomchyom"
+    "Aurora Studio",
+    "Chyom Chyom"
   ],
   "artists": [
     "Aurora Studio"
@@ -87,7 +101,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216152,
+      "rating": 50,
+      "url": "https://anilist.co/manga/216152"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wnrft54",
@@ -97,22 +115,29 @@
   },
   "tag_ids": [
     43,
+    108,
+    36,
     46,
     15,
     41,
     31,
     9,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 50
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.13,
+    "popularityPercentile": 0.675,
+    "fanFavouriteDiscoveryScore": 5.3506,
+    "fanFavouriteDiscoveryPercentile": 0.6457
   },
   "context": {
     "primaryProfile": "euro-fantasy",
