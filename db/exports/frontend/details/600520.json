@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Companion's Seat",
-  "mangabaka_title": "Companion's Seat",
+  "mangabaka_title": "Ballyeoseok",
   "native_title": "반려석",
-  "romanized_title": null,
+  "romanized_title": "Ballyeoseok",
   "titles": [
     {
       "language": "ko",
       "title": "반려석",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ballyeoseok",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,21 +48,21 @@
     }
   ],
   "description": "One day, when she was desperate for love, Seoyeon gets her hands on a mysterious 'pet rock'. The next morning, the rock appears by her side in the form of a handsome man... A strange cohabitation begins with him, who claims to be a sculptor from mythology and a descendant of Pygmalion.\n\n**Original Webtoon:**   \n[Lezhin](https://www.lezhin.com/ko/comic/companion_stone)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1OTczLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTY0MC1Ka1JxcGgyQWF4V1QuanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "erotica",
+  "status": "releasing",
+  "content_rating": "suggestive",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-19",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-20T02:09:32.551Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-30T07:51:25.606Z",
+  "last_updated_at": "2026-09-02T02:06:22.262Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 215640,
+      "rating": null,
+      "url": "https://anilist.co/manga/215640"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "64mcx63",
@@ -78,16 +93,23 @@
     43,
     36,
     46,
-    9
+    109,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.7765,
+    "fanFavouriteDiscoveryScore": 5.4044,
+    "fanFavouriteDiscoveryPercentile": 0.7472
   }
 }

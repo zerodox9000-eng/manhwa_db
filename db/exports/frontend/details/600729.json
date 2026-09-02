@@ -3,28 +3,46 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Delicious Cherry Pie",
-  "mangabaka_title": "Delicious Cherry Pie",
-  "native_title": "[계략 단편선] 맛 좋은 체리파이",
-  "romanized_title": null,
+  "mangabaka_title": "Man Joeun Cherry Pie",
+  "native_title": "맛 좋은 체리파이",
+  "romanized_title": "[Gyeryak Danpyeonseon] Man Joeun Cherry Pie",
   "titles": [
     {
       "language": "ko",
       "title": "맛 좋은 체리파이",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계략 단편선] 맛 좋은 체리파이",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Delicious Cherry Pie",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeryak Danpyeonseon] Man Joeun Cherry Pie",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Man Joeun Cherry Pie",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,30 +54,30 @@
       "note": null
     }
   ],
-  "description": "“Would you like a slice of cherry pie?” \n\nAlone with a strange man in a secluded room, where a sweet fragrance mingled with the intense heat of their bodies. The glimpse of skin beneath his immaculate shirt and the handsome smile resting beneath his indifferent gaze made her falter. \n\n“For a knight, this part of you is… surprisingly obscene.” \n\nA kiss hotter than their body heat, and cherry juice spreading across her tongue. The day a noble knight fell for the first time. \n\n“Relax. It’s only a tiny fruit, after all.” \n\nBut this had never been merely about a pie.\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5285002729)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MTI0LmpwZw",
+  "description": "*Note: Part of Metatoon's Gyeryak Danpyeonseon (계략 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI5MC1Qa0JuUERMMU1YWlouanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-19",
+    "end_date": "2026-08-19",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-21T02:18:47.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-01T02:41:18.546Z",
+  "last_updated_at": "2026-09-02T02:43:28.590Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Jeomeum",
-    "Minseong"
+    "Min-Seong"
   ],
   "artists": [
-    "Mero (메로)",
+    "Mero",
     "Metatoon"
   ],
   "links": {
@@ -68,7 +86,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216290,
+      "rating": null,
+      "url": "https://anilist.co/manga/216290"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "r7h844x",
@@ -78,10 +100,14 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -89,8 +115,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.2344,
+    "fanFavouriteDiscoveryScore": 5.2042,
+    "fanFavouriteDiscoveryPercentile": 0.2344
   }
 }

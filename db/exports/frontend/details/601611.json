@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Lord Who Levels up by Devouring",
-  "mangabaka_title": "The Lord Who Levels up by Devouring",
+  "mangabaka_title": "Neungnyeok Meokgo Level Up-neun Yeongjunim",
   "native_title": "능력 먹고 레벨업하는 영주님",
-  "romanized_title": null,
+  "romanized_title": "Neungnyeok Meokgo Level Up-neun Yeongjunim",
   "titles": [
     {
       "language": "ko",
       "title": "능력 먹고 레벨업하는 영주님",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Neungnyeok Meokgo Level Up-neun Yeongjunim",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Lord Who Levels up by Devouring",
       "traits": [],
@@ -29,30 +40,30 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70274422/), [Daum](https://webtoon.kakao.com/content/%EB%8A%A5%EB%A0%A5-%EB%A8%B9%EA%B3%A0-%EB%A0%88%EB%B2%A8%EC%97%85%ED%95%98%EB%8A%94-%EC%98%81%EC%A3%BC%EB%8B%98/4965)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2ODQxLmpwZw",
+  "description": "The continent lay in ruins at the hands of the Emperor. Even the allied forces, the last hope of all, had suffered a crushing defeat. It was a moment of utter despair.\n\n*“Ad. This is an order. Absorb my heart.”*\n\n\"Predation,\" the ability to devour another person’s talents and powers whole. Adrian absorbs the heart of Ian, his dying hero and friend, and regresses fifteen years into the past, back to when he was nothing more than a good-for-nothing scoundrel.\n\n*“Ian… You want me to save the world? Sorry, but I can't care less about that...\"*\n\nHis brutal combat experience from his past life, a Player System seemingly inherited from Ian, and \"Predation,\" an ability that allows him to grow stronger without limit, all come together... and Adrian begins to grow at an overwhelming pace.\n\n*“...But I will make you one promise. I’ll hunt those bastards down to the very end… and chew their hearts into pieces!!”*\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI5Mi1PUEFuTzgyZFZ0dHAuanBn",
   "total_chapters": "20",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-31",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-01T02:54:38.958Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-01T04:41:13.114Z",
+  "last_updated_at": "2026-09-01T23:06:20.369Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Double D",
-    "Space Wanderer"
+    "Ujunangin"
   ],
   "artists": [
-    "Average Attacker"
+    "Pyeongtajaengi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601611",
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216292,
+      "rating": null,
+      "url": "https://anilist.co/manga/216292"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "lgk9hkc",
@@ -71,7 +86,10 @@
   "tag_ids": [
     38,
     36,
-    39
+    39,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -79,8 +97,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.2344,
+    "fanFavouriteDiscoveryScore": 5.2042,
+    "fanFavouriteDiscoveryPercentile": 0.2344
   }
 }

@@ -2,50 +2,75 @@
   "id": 601615,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Autumn, Chili!",
-  "mangabaka_title": "Autumn, Chili!",
-  "native_title": null,
-  "romanized_title": null,
+  "display_title": "Autumn Chili",
+  "mangabaka_title": "Eoteom, Chilli!",
+  "native_title": "어텀, 칠리!",
+  "romanized_title": "Eoteom, Chilli!",
   "titles": [
     {
       "language": "ko",
       "title": "어텀, 칠리!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Autumn Chili",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
-      "title": "Autumn, Chili!",
+      "title": "Chilies in Autumn!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Eoteom, Chilli!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "รักเผ็ดหวานในฤดูใบไม้ร่วง",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "\"What's the use of a pepper grower who has no pepper?\"\n\nReturning to Songhwa Village like a fugitive after quitting her job, Sowon doesn't even get to see the house remodeling finished before getting into a car accident the moment she arrives! Overwhelmed by a string of misfortunes, she ends up drinking heavily with the grandmothers at the village hall.\n\nWhen she wakes up in a daze and wanders into the bathroom, she runs into Woo Kang-jun, a man rumored in the village to be impotent, and his peppe—no, Pringles?\n\n\"Curious? Whether the rumor that I'm impotent is true.\"\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/297091821)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2ODIxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI0MS1iN3FDTlFGN1pHMVMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-27",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-01T02:54:38.960Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-31T16:26:18.824Z",
+  "last_updated_at": "2026-09-01T17:04:36.138Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Sajang",
-    "Kokoring"
+    "Kokoring",
+    "Sa-Jang Kim"
   ],
   "artists": [
-    "Buldub"
+    "Buldup"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601615",
@@ -53,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216241,
+      "rating": null,
+      "url": "https://anilist.co/manga/216241"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "brnsurq",
@@ -63,19 +92,26 @@
   },
   "tag_ids": [
     43,
+    415,
+    108,
     46,
     41,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.4835,
+    "fanFavouriteDiscoveryScore": 5.2954,
+    "fanFavouriteDiscoveryPercentile": 0.4762
   }
 }

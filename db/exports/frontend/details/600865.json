@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Don't Bite the Tail!",
-  "mangabaka_title": "Don't Bite the Tail!",
-  "native_title": "[순애 단편선] 꼬리는 깨물지 마세요!",
-  "romanized_title": null,
+  "mangabaka_title": "Kkorineun Kkaemulji Maseyo!",
+  "native_title": "꼬리는 깨물지 마세요!",
+  "romanized_title": "Kkorineun Kkaemulji Maseyo!",
   "titles": [
     {
       "language": "ko",
       "title": "꼬리는 깨물지 마세요!",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[순애 단편선] 꼬리는 깨물지 마세요!",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -36,8 +38,31 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Kkorineun Kkaemulji Maseyo!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Please Don't Bite My Tail!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Sunae Danpyeonseon] Kkorineun Kkaemulji Maseyo!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "[True Love Anthology] Don't Bite the Tail!",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -50,31 +75,31 @@
       "note": null
     }
   ],
-  "description": "“Y-You… you’re a puppy?” \n\nChloe Heysoltz, the youngest daughter of a prestigious wolf family, has a secret. Unlike everyone else in her family, she isn’t a wolf beastkin at all—she’s a Malamute beastkin. As if being unable to howl weren’t humiliating enough, her secret gets exposed at the academy’s graduation party. \n\n“I’d like you to leave.” \n\nBy whom? Yohan Valentine—the one person in the whole world she least wanted to find out, and the person she had always been compared to! But his reaction is… a little strange.\n\n “You’re so cute…” \n\nDid he eat something weird or what?\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5285002717)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MjYzLmpwZw",
+  "description": "*Note: Part of Metatoon's Sunae Danpyeonseon (순애 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI5Ni1kRTBoTEVONWlESGguanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-01T00:52:21.472Z",
+  "last_updated_at": "2026-09-02T00:53:39.920Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Eunbohwa",
-    "Hyun"
+    "Bo-Hwa Eun",
+    "Hyeon"
   ],
   "artists": [
-    "Dturyan",
-    "Metatoon"
+    "Metatoon",
+    "Tturyan"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600865",
@@ -82,7 +107,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216296,
+      "rating": null,
+      "url": "https://anilist.co/manga/216296"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "df6by0e",
@@ -92,10 +121,15 @@
   },
   "tag_ids": [
     43,
+    279,
+    108,
     36,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -103,8 +137,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.2344,
+    "fanFavouriteDiscoveryScore": 5.2042,
+    "fanFavouriteDiscoveryPercentile": 0.2344
   }
 }

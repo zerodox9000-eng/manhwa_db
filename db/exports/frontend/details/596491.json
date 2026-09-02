@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Pregnancy Loan Contract",
-  "mangabaka_title": "Pregnancy Loan Contract",
-  "native_title": "[계약 단편선] 임신 사채 계약",
-  "romanized_title": null,
+  "mangabaka_title": "Imsin Sachae Gyeyak",
+  "native_title": "임신 사채 계약",
+  "romanized_title": "[Gyeyak Danpyeonseon] Imsin Sachae Gyeyak",
   "titles": [
     {
       "language": "ko",
       "title": "임신 사채 계약",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계약 단편선] 임신 사채 계약",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -26,6 +28,22 @@
       "title": "[Contract Anthology] Pregnancy Loan Contract",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeyak Danpyeonseon] Imsin Sachae Gyeyak",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Imsin Sachae Gyeyak",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,31 +61,31 @@
       "note": null
     }
   ],
-  "description": "\"They said if I just give birth to one kid, they’ll set me free, right?\"    \n\nTwenty-year-old Sion, the daughter of a National Assembly member, is dragged away by loan shark Han Ki-seok to bear his child due to her parents' debt. \n\n\"Wouldn't it be better to die than to carry a thug's baby?\" \n\nWhen they first met, he was a cruel and cold man. \n\nHowever, \"Eat your meals. That's why you're so skinny.\" \"Stay by my side. That's the only way you'll be safe.\" \n\nAmidst his relentless control, Ki-seok's hidden tenderness begins to surface, and Sion's fear and confusion slowly turn into an intense attraction.\n\n**Original Webtoon:**    \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14384295), [Ridibooks](https://ridibooks.com/books/5285002676)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyMzQzLmpwZw",
+  "description": "*Note: Part of Metatoon's Gyeyak Danpyeonseon (계약 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjMwMi1jSEtyaUVYTDZualkuanBn",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-11",
+    "end_date": "2026-07-11",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-15T03:59:45.684Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-31T14:32:40.246Z",
+  "last_updated_at": "2026-09-02T02:06:22.142Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Moon Jeongmin",
-    "Ranju"
+    "Jeong-Min Mun",
+    "Mi-Sak Cha"
   ],
   "artists": [
-    "Chamisak",
-    "Metatoon"
+    "Metatoon",
+    "Ranju"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/596491",
@@ -75,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216302,
+      "rating": null,
+      "url": "https://anilist.co/manga/216302"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "j3gigh0",
@@ -85,11 +107,15 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     15,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -97,9 +123,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.2344,
+    "fanFavouriteDiscoveryScore": 5.2042,
+    "fanFavouriteDiscoveryPercentile": 0.2344
   },
   "context": {
     "primaryProfile": "modern-korea",

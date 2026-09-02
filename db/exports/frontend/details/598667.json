@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Beautiful Brother-in-Law",
-  "mangabaka_title": "My Beautiful Brother-in-Law",
+  "mangabaka_title": "Areumdaun Sidongsaeng",
   "native_title": "아름다운 시동생",
-  "romanized_title": null,
+  "romanized_title": "Areumdaun Sidongsaeng",
   "titles": [
     {
       "language": "ko",
       "title": "아름다운 시동생",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Areumdaun Sidongsaeng",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -51,29 +62,29 @@
     }
   ],
   "description": "\"Hello, sister-in-law.\" \n\nJiyu has endured years of abuse at the hands of her husband. After returning home from years of studying abroad, her husband's younger brother, Ah-In, gently begins to heal the wounds she has long carried.\n\n[Original Webtoon](https://ridibooks.com/books/5646007083)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0MTUzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI4Ny1rUGpUMjdrOUNIQWQuanBn",
   "total_chapters": "14",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-01T03:03:41.842Z",
+  "last_updated_at": "2026-09-01T22:06:32.141Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "BAE Cheong-Yi",
-    "JICHOGA Jicheon"
+    "Agison",
+    "Jichoga Jicheon"
   ],
   "artists": [
-    "Gokkuri"
+    "Gokkeuri"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598667",
@@ -81,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216287,
+      "rating": null,
+      "url": "https://anilist.co/manga/216287"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3idfssi",
@@ -91,11 +106,15 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     15,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -103,9 +122,11 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.2344,
+    "fanFavouriteDiscoveryScore": 5.2042,
+    "fanFavouriteDiscoveryPercentile": 0.2344
   },
   "context": {
     "primaryProfile": "modern-korea",

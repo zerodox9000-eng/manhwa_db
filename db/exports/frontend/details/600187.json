@@ -3,29 +3,40 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "You and Me (Jang Green)",
-  "mangabaka_title": "You and Me (Jang Green)",
+  "mangabaka_title": "Nikangnaekang",
   "native_title": "니캉내캉",
   "romanized_title": "Knock Knock (Jang Green)",
   "titles": [
     {
       "language": "ko",
       "title": "니캉내캉",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Knock Knock",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Knock Knock (Jang Green)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
-      "language": "unknown",
-      "title": "Nikang Naekang",
-      "traits": [],
-      "is_primary": false,
+      "language": "ko-Latn",
+      "title": "Nikangnaekang",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -44,28 +55,28 @@
     }
   ],
   "description": "At twenty, I thought my first summer would be a little special. I expected to move to Seoul and date a sweet city guy, but reality is working a bingsu part-time job with my hometown guy friend! \n\nWe've been like siblings since childhood. Brash and shameless Jang Je-Yeol was definitely not dating material. But is it because I'm drunk on the summer heat? I impulsively ended up kissing Jang Je-Yeol. \n\n\"Why... does he look handsome to me?\"\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/4895003876)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1NzcyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI5MS1BRFA3N0x3NVd5R3MuanBn",
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-15",
+    "end_date": "2026-08-15",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-16T02:16:31.420Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-31T23:29:28.631Z",
+  "last_updated_at": "2026-09-01T22:46:20.181Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jang Green"
+    "Ul-So Seo"
   ],
   "artists": [
-    "Seoul So"
+    "Green Jang"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600187",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216291,
+      "rating": null,
+      "url": "https://anilist.co/manga/216291"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "rd23a5t",
@@ -83,9 +98,13 @@
   },
   "tag_ids": [
     43,
+    108,
     15,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -93,8 +112,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.2344,
+    "fanFavouriteDiscoveryScore": 5.2042,
+    "fanFavouriteDiscoveryPercentile": 0.2344
   }
 }

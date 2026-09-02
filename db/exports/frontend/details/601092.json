@@ -2,7 +2,7 @@
   "id": 601092,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Tidal Warning",
+  "display_title": "Tsunami Warning",
   "mangabaka_title": "Haeiljuuibo",
   "native_title": "해일주의보",
   "romanized_title": "Haeiljuuibo",
@@ -36,7 +36,7 @@
       "language": "en",
       "title": "Tidal Warning",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -50,7 +50,7 @@
       "language": "en",
       "title": "Tsunami Warning",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-08-26T02:19:28.203Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-31T22:35:15.663Z",
+  "last_updated_at": "2026-09-01T22:35:52.607Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -87,7 +87,7 @@
   "source": {
     "anilist": {
       "id": 215959,
-      "rating": 65,
+      "rating": 68,
       "url": "https://anilist.co/manga/215959"
     },
     "animeplanet": null,
@@ -98,7 +98,9 @@
     }
   },
   "tag_ids": [
+    248,
     43,
+    159,
     59,
     429,
     108,
@@ -110,15 +112,15 @@
     428
   ],
   "stats": {
-    "popularity": 80,
+    "popularity": 87,
     "favourites": null,
-    "meanScore": 65
+    "meanScore": 68
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.1599,
-    "popularityPercentile": 35.0568,
-    "fanFavouriteDiscoveryScore": 25.0242,
-    "fanFavouriteDiscoveryPercentile": 27.5174
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 36.5614,
+    "fanFavouriteDiscoveryScore": 25.7479,
+    "fanFavouriteDiscoveryPercentile": 28.2397
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Younger Wolf Is Targeting Me",
-  "mangabaka_title": "The Younger Wolf Is Targeting Me",
+  "mangabaka_title": "Yeonha Neukdaega Norigo Itda",
   "native_title": "연하 늑대가 노리고 있다",
-  "romanized_title": null,
+  "romanized_title": "Yeonha Neukdaega Norigo Itda",
   "titles": [
     {
       "language": "ko",
       "title": "연하 늑대가 노리고 있다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,29 +29,38 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeonha Neukdaega Norigo Itda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "[A straightforward romance about a wealthy younger man who falls in love at first sight with an indifferent female lead] \n\n\"It's not like I'm asking for your phone number... Just your name! P-Please, can't I?\" \n\nA man suddenly appeared before her and asked for her name. The business card he handed her read, 'Cheon Ha-kyung, Director of Cheonhae Group.' She'd heard the Cheonhae Group has three sons, but... Could a man this handsome and young really be one? Could he be an impostor? \n\n\"Goodbye.\" \n\nTwo weeks after parting ways with the mysterious man, he joined Ina's Management Support Team as a new employee. Contrary to her expectation that he would flirt all day long now that he was her subordinate, Ha-kyung only sent her burning gazes without playing any cheap tricks. \n\n\"I have no intention of just dating.\"    \n\"Someone else would be a better match for you.\"    \n\"I... um. I-I like you.\"    \n\"What?\"    \n\"I want to do it. Marry you, Senior.\"\n\n[Original Webtoon](https://ridibooks.com/books/3498026930)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1ODgxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjI5NC1OSkdVR091Qjc1UzMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-18T02:07:47.929Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-29T00:47:01.642Z",
+  "last_updated_at": "2026-09-01T23:36:21.829Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Geumgwi",
-    "Gyeonghwan"
+    "Gyeong Hwan"
   ],
   "artists": [
     "Dolphin"
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216294,
+      "rating": null,
+      "url": "https://anilist.co/manga/216294"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wlhgphv",
@@ -70,10 +85,14 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -81,8 +100,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2247,
+    "popularityPercentile": 0.2344,
+    "fanFavouriteDiscoveryScore": 5.2042,
+    "fanFavouriteDiscoveryPercentile": 0.2344
   }
 }
