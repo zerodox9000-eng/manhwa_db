@@ -3,29 +3,47 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Somehow, With My Brother's Friend",
-  "mangabaka_title": "How I Ended up With My Oppa's Friend",
-  "native_title": "[계략 단편선] 어쩌다 오빠 친구와",
-  "romanized_title": "How I Ended up With My Oppa's Friend",
+  "mangabaka_title": "Eojjeoda Oppa Chinguwa",
+  "native_title": "어쩌다 오빠 친구와",
+  "romanized_title": "Eojjeoda Oppa Chinguwa",
   "titles": [
     {
       "language": "ko",
       "title": "어쩌다 오빠 친구와",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계략 단편선] 어쩌다 오빠 친구와",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Eojjeoda Oppa Chinguwa",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeryak Danpyeonseon] Eojjeoda Oppa Chinguwa",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "How I Ended up With My Oppa's Friend",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -43,31 +61,31 @@
       "note": null
     }
   ],
-  "description": "\"It looks pretty firm and won't be easy, but I'll loosen it up as much as I can.\"\n\nArin, a sports scholarship student specializing in swimming, has a nightly routine to wrap up her day: a secret self-care session to improve her quality of life.\n\nOn a night like any other, just as she was about to indulge while watching adult videos, Shin Joo-won—her older brother's friend and the man of her absolute ideal type—asked her for a favor: to practice massage techniques for his upcoming license exam.\n\nHowever, for some reason, the hands touching her body keep wandering toward more intimate places...\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5285002387)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2ODI0LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*Note: Part of Metatoon's Gyeryak Danpyeonseon (계략 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjIzOS1KaUZ3bUZhSmlEcnUuanBn",
+  "total_chapters": "8",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-30",
+    "end_date": "2026-08-30",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-01T02:54:38.960Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-01T17:02:46.025Z",
+  "last_updated_at": "2026-09-02T16:46:37.120Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Muje",
-    "Singyeom"
+    "Gyeom Sin",
+    "Muje"
   ],
   "artists": [
-    "Chaeryeong",
-    "Metatoon"
+    "Metatoon",
+    "Ryeong Chae"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601614",
@@ -75,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216239,
+      "rating": null,
+      "url": "https://anilist.co/manga/216239"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "zf1g2iv",
@@ -85,18 +107,24 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2106,
+    "popularityPercentile": 0.7981,
+    "fanFavouriteDiscoveryScore": 5.4101,
+    "fanFavouriteDiscoveryPercentile": 0.7688
   }
 }

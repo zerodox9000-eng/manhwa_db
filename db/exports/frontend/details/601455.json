@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Mom Became a Pig",
-  "mangabaka_title": "Mom Became a Pig",
+  "mangabaka_title": "Eommaneun Dwaejiga Doeeotda",
   "native_title": "엄마는 돼지가 되었다",
-  "romanized_title": null,
+  "romanized_title": "Eommaneun Dwaejiga Doeeotda",
   "titles": [
     {
       "language": "ko",
       "title": "엄마는 돼지가 되었다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Eommaneun Dwaejiga Doeeotda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854129), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14626681)    \n\nIn a world where pigs exist as a subspecies of humans, Gudam encounters his mother, who has turned into a pig, and continues his daily life with her. What is a pig, and how is it defined? Where does its boundary begin and end? And what defines a human? Gudam endlessly agonizes over these questions while struggling to continue his life with his mother.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NzcxLmpwZw",
+  "description": "A world where pigs exist as a subspecies of humans.\n\nOne day, Gu-Dam comes face to face with his mother, who has turned into a pig, and continues his daily life alongside her. What is a pig, and how is it defined? Where does it begin and where does it end? How are humans defined? Gu-Dam struggles endlessly with these questions as he fights to carry on his life with her mother.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjEwMS1IVzJrMXM5d1A5TmguanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-30T02:05:35.290Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-01T19:28:41.065Z",
+  "last_updated_at": "2026-09-02T19:22:52.529Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lion Slash"
+    "Sajabegi"
   ],
   "artists": [
-    "Lion Slash"
+    "Sajabegi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601455",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216101,
+      "rating": null,
+      "url": "https://anilist.co/manga/216101"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wow6rr9",
@@ -62,8 +77,12 @@
   },
   "tag_ids": [
     8,
+    58,
     31,
-    18
+    18,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -71,8 +90,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2106,
+    "popularityPercentile": 0.2123,
+    "fanFavouriteDiscoveryScore": 5.1939,
+    "fanFavouriteDiscoveryPercentile": 0.2123
   }
 }
