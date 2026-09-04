@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Nightmare Shaman",
-  "mangabaka_title": "Nightmare Shaman",
+  "mangabaka_title": "Angmongmudang",
   "native_title": "악몽무당",
-  "romanized_title": null,
+  "romanized_title": "Angmongmudang",
   "titles": [
     {
       "language": "ko",
       "title": "악몽무당",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Angmongmudang",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "Beom-Gu, the greatest shaman in South Korea, falls into ruin in an instant following the death of the spirit he serves, General Mu-Yeong. There is only one way to resurrect the spirit: \n\n“Shaman! Enter the trauma of the murder case and slay the evil spirit.” \n\nBy saving the worst victims, can Beom-Gu save himself?\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853837), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14591242)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1NzU5LmpwZw",
+  "description": "Beom-Gu, South Korea’s greatest shaman, is plunged into despair in an instant by the death of General Mu-Yeong, the deity he serves. There is only one way to revive the deity: “Oh shaman! Enter the trauma of a murder case and slay the evil spirit.” By saving the worst of the victims, will Shaman Beom-Gu be able to save himself?\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjM4Ni1vT2NlcXZrS254R04uanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-16T02:16:31.420Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-16T16:50:30.584Z",
+  "last_updated_at": "2026-09-04T04:36:06.251Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gong Hyeon-Gon"
+    "Hyeon-Gon Gong"
   ],
   "artists": [
-    "Gong Hyeon-Gon"
+    "Hyeon-Gon Gong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600188",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216386,
+      "rating": null,
+      "url": "https://anilist.co/manga/216386"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "aqcreil",
@@ -62,9 +77,16 @@
   },
   "tag_ids": [
     38,
+    58,
+    36,
     22,
+    160,
+    229,
     39,
-    44
+    616,
+    44,
+    19,
+    57
   ],
   "stats": {
     "popularity": null,
@@ -72,8 +94,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.204,
+    "popularityPercentile": 0.2488,
+    "fanFavouriteDiscoveryScore": 5.2061,
+    "fanFavouriteDiscoveryPercentile": 0.2488
   }
 }

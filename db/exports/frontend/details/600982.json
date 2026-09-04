@@ -3,13 +3,22 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Relaxing Academy Convenience Store",
-  "mangabaka_title": "My Relaxing Academy Convenience Store",
+  "mangabaka_title": "Academy Pyeonuijeomeuro Healing-halgeyo",
   "native_title": "아카데미 편의점으로 힐링할게요",
-  "romanized_title": null,
+  "romanized_title": "Academy Pyeonuijeomeuro Healing-halgeyo",
   "titles": [
     {
       "language": "ko",
       "title": "아카데미 편의점으로 힐링할게요",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Academy Pyeonuijeomeuro Healing-halgeyo",
       "traits": [
         "native"
       ],
@@ -31,27 +40,27 @@
       "note": null
     }
   ],
-  "description": "Me. Lee Young-jin. Twenty-nine years old. Orphan. Master Convenience Store Worker. \n\nI came up to Seoul with a mere five million won, earned recognition for my business acumen at a convenience store in Seongbuk-dong, and on the very night my promotion to store owner was finally decided, I was hit by a damn delivery truck and met my demise… but instead, I possess the body of the villainous prince in the shitty game I’ve always been obsessed with. \n\nMe. Wolfram von Lohengrin. Prince. Expelled student council president. The villain with the neck-cut in the intro… but I refuse to die again immediately after dying! \n\nLove and adventure are the protagonists' lot anyway. From now on, my dream is to be the owner of a convenience store in another world. Unleashing the amazing skills of a Master Convenience Store Worker and a hardcore gamer, I will empty the pockets of everyone in the academy!\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853839), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14539863)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8yLzM0OTc0MGwuanBn",
+  "description": "Lee Young-Jin. Twenty-nine years old. Orphan. Convenience Store Master. He came to Seoul with just five million won and, after his business acumen was recognized at a convenience store in Seongbuk-dong, on the very night he was set to become the store’s owner…\n\nHe was struck by a damn delivery truck and met his untimely end… but he finds himself possessed by the body of the villainous prince from the crappy game he used to be obsessed with. I. Wolfram von Lohengrin. Prince. Ousted student council president. An intro-scene villain who gets his head chopped off… but I refuse to die again the moment I die! Love and adventure are the protagonists’ domain anyway. From now on, my dream is to be the owner of a convenience store in this other world. As a convenience store master wielding amazing skills worthy of a true “rotten scum” character, I’ll clean out the pockets of everyone at the academy!\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjM4NS1wbG55OEtuOERqRTguanBn",
   "total_chapters": null,
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-08-24",
+    "start_date": "2026-08-11",
     "end_date": null,
     "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-25T02:11:41.568Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-04T02:36:36.611Z",
+  "last_updated_at": "2026-09-04T04:16:05.933Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Aquacorn",
-    "Kanu Coffee"
+    "Aquacon",
+    "Keopineunkanu"
   ],
   "artists": [
     "Grami"
@@ -62,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216385,
+      "rating": null,
+      "url": "https://anilist.co/manga/216385"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "p3tciy5",
@@ -72,12 +85,18 @@
   },
   "tag_ids": [
     38,
+    58,
+    721,
     107,
     126,
     20,
     36,
     94,
-    6
+    6,
+    7,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -85,8 +104,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.204,
+    "popularityPercentile": 0.2488,
+    "fanFavouriteDiscoveryScore": 5.2061,
+    "fanFavouriteDiscoveryPercentile": 0.2488
   }
 }
