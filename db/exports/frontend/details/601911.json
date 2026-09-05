@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Love Tears Away the Zombie",
-  "mangabaka_title": "Love Tears Away the Zombie",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Sarangeun Zombie-reul Jjitgo",
+  "native_title": "사랑은 좀비를 찢고",
+  "romanized_title": "Sarangeun Zombie-reul Jjitgo",
   "titles": [
     {
       "language": "ko",
       "title": "사랑은 좀비를 찢고",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Love Tears Apart Zombies",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -20,24 +29,47 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Love Tears Through Zombies",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sarangeun Zombie-reul Jjitgo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Tình Yêu Xác Sống",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854591), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14680159)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3MDc3LnBuZw",
+  "description": "South Korea, a country brought to ruin by a zombie apocalypse. “The Suitor”—his goal is simple: to find his true love! As he sets out on a journey to find the bride who awaits him somewhere, he encounters not only hordes of zombies but also survivors filled with distrust and selfishness! Will he be able to overcome all these hardships and find the woman of his destiny? Does true love even exist in this zombie-infested world?\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjM4NC05OUs5dUdhSk03Nk4uanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-03",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-04T02:52:39.506Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-03T16:51:11.301Z",
+  "last_updated_at": "2026-09-04T17:00:20.731Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216384,
+      "rating": null,
+      "url": "https://anilist.co/manga/216384"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6grt5ev",
@@ -61,18 +97,29 @@
     }
   },
   "tag_ids": [
+    8,
+    58,
     36,
     1,
-    39
+    413,
+    39,
+    37,
+    44,
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2048,
+    "popularityPercentile": 0.8556,
+    "fanFavouriteDiscoveryScore": 5.4307,
+    "fanFavouriteDiscoveryPercentile": 0.8263
   }
 }

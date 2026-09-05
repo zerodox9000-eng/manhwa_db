@@ -36,8 +36,24 @@
       "note": null
     },
     {
+      "language": "de",
+      "title": "Gras",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Grass",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ca",
+      "title": "Herba",
       "traits": [
         "official"
       ],
@@ -153,23 +169,36 @@
       "note": null
     },
     {
-      "language": "ru",
-      "title": "Паросток",
-      "traits": [],
+      "language": "uk",
+      "title": "паросток",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ru",
-      "title": "Трава",
+      "title": "Паросток",
       "traits": [],
       "is_primary": false,
       "note": null
     },
     {
+      "language": "ru",
+      "title": "Трава",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ar",
       "title": "عشب",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -208,7 +237,7 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.581Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-03T23:53:06.004Z",
+  "last_updated_at": "2026-09-04T13:08:39.066Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -227,7 +256,7 @@
   "source": {
     "anilist": {
       "id": 123073,
-      "rating": 75,
+      "rating": 76,
       "url": "https://anilist.co/manga/123073"
     },
     "animeplanet": {
@@ -281,14 +310,14 @@
   "stats": {
     "popularity": 1679,
     "favourites": 83,
-    "meanScore": 75
+    "meanScore": 76
   },
   "analytics": {
     "fanFavouriteRaw": 4.9434,
-    "fanRatioPercentile": 96.7364,
-    "popularityPercentile": 87.3628,
-    "fanFavouriteDiscoveryScore": 96.3848,
-    "fanFavouriteDiscoveryPercentile": 98.3902
+    "fanRatioPercentile": 96.7386,
+    "popularityPercentile": 87.3492,
+    "fanFavouriteDiscoveryScore": 96.3866,
+    "fanFavouriteDiscoveryPercentile": 98.3839
   },
   "context": {
     "primaryProfile": "modern-korea",
