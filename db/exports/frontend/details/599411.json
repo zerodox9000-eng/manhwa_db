@@ -2,15 +2,17 @@
   "id": 599411,
   "state": "active",
   "type": "manhwa",
-  "display_title": "We Are Animals",
+  "display_title": "Beast saga.",
   "mangabaka_title": "We Are Animals",
   "native_title": "위 아 애니멀스",
-  "romanized_title": null,
+  "romanized_title": "We Are Animals",
   "titles": [
     {
       "language": "ko",
       "title": "위 아 애니멀스",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,40 +20,42 @@
       "language": "en",
       "title": "Beast saga.",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "We Are Animals",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "The fates and tangled love triangles of wolves crossing paths, each bearing their own wounds and goals. Having resolved to stand and fight rather than flee in the harsh wilderness, can these wolves survive the brutal territorial wars and forge a pack of their own? A fierce and majestic epic of survival among stray wolves!\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853676), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14564574)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1MTk4LnBuZw",
+  "description": "The intertwined fates and love triangles of wolves, each bearing their own wounds and pursuing their own goals. Having resolved to fight rather than flee in the harsh wilderness, will they survive the brutal territorial war and form their own pack? A fierce and majestic epic of survival featuring a pack of wandering wolves! \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNjM4Ny1URHJPV0pid21WcWQuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-06",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-10T02:51:43.956Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-04T22:45:29.836Z",
+  "last_updated_at": "2026-09-06T04:27:57.859Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Wooblue"
+    "Ublue"
   ],
   "artists": [
-    "Noh Mi-Young"
+    "Mi-Young Noh"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/599411",
@@ -59,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216387,
+      "rating": null,
+      "url": "https://anilist.co/manga/216387"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "vm2kjbw",
@@ -70,22 +78,29 @@
   "tag_ids": [
     8,
     38,
+    58,
     36,
     22,
     15,
+    278,
     39,
     37,
     31,
-    18
+    18,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 10,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2078,
+    "popularityPercentile": 5.7224,
+    "fanFavouriteDiscoveryScore": 7.5139,
+    "fanFavouriteDiscoveryPercentile": 5.3716
   }
 }

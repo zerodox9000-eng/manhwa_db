@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Time Healer Ceres",
-  "mangabaka_title": "Time Healer Ceres",
+  "mangabaka_title": "Siganchiryosa Ceres",
   "native_title": "시간치료사 세레스",
   "romanized_title": "Siganchilyosa Ceres",
   "titles": [
@@ -25,6 +25,13 @@
     },
     {
       "language": "en",
+      "title": "A Woman Who Turn Back Time Ceres",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Ceres, the Time Therapist",
       "traits": [],
       "is_primary": false,
@@ -34,6 +41,15 @@
       "language": "ko-Latn",
       "title": "Siganchilyosa Ceres",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Siganchiryosa Ceres",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -81,7 +97,7 @@
   },
   "first_seen_at": "2026-08-15T02:07:30.747Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-04T05:16:38.191Z",
+  "last_updated_at": "2026-09-05T20:10:28.648Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +112,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216412,
+      "rating": null,
+      "url": "https://anilist.co/manga/216412"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "q4xf485",
@@ -114,13 +134,15 @@
     7
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 11,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 54
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2078,
+    "popularityPercentile": 6.614,
+    "fanFavouriteDiscoveryScore": 7.9504,
+    "fanFavouriteDiscoveryPercentile": 6.2048
   }
 }

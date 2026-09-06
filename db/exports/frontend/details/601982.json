@@ -2,7 +2,7 @@
   "id": 601982,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Between Officers",
+  "display_title": "In the Military",
   "mangabaka_title": "Ganbuganseong",
   "native_title": "간부간성",
   "romanized_title": "Ganbuganseong",
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Between Officers",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,6 +29,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "In the Military",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-09-04T05:11:37.104Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-05T04:51:24.204Z",
+  "last_updated_at": "2026-09-06T04:52:09.826Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,10 +76,16 @@
       "url": "https://anilist.co/manga/216389"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "4iah4uh",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/4iah4uh"
+    }
   },
   "tag_ids": [
+    46,
     180,
+    16,
     31,
     230,
     93,
@@ -80,15 +93,15 @@
     428
   ],
   "stats": {
-    "popularity": 1,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2048,
-    "popularityPercentile": 0.2267,
-    "fanFavouriteDiscoveryScore": 5.1982,
-    "fanFavouriteDiscoveryPercentile": 0.2267
+    "fanRatioPercentile": 32.2078,
+    "popularityPercentile": 0.7893,
+    "fanFavouriteDiscoveryScore": 5.4063,
+    "fanFavouriteDiscoveryPercentile": 0.7601
   }
 }

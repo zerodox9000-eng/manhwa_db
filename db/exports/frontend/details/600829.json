@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Please Recommend Something for Today's Menu!",
-  "mangabaka_title": "Please Recommend Something for Today's Menu!",
+  "mangabaka_title": "Oneul Menu Chucheon Jom!",
   "native_title": "오늘 메뉴 추천 좀!",
-  "romanized_title": null,
+  "romanized_title": "Oneul Menu Chucheon Jom!",
   "titles": [
     {
       "language": "ko",
       "title": "오늘 메뉴 추천 좀!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Oneul Menu Chucheon Jom!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70110490), [Daum](https://webtoon.kakao.com/content/%EC%98%A4%EB%8A%98-%EB%A9%94%EB%89%B4-%EC%B6%94%EC%B2%9C-%EC%A2%80/4933)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MTkzLmpwZw",
+  "description": "Tae-Ho and Ji-Ho, siblings who suddenly lost both their parents when their father murdered their mother. Faced with an overwhelming reality, Tae-Ho decides to become a master of home-cooked meals for his younger brother, Ji-Ho. \n\nSocial worker Kyu-Jin, known for being a picky eater, hears about their situation and decides he cannot simply leave them to fend for themselves. He visits their home to try to connect them with a shelter, only to find himself completely helpless against Tae-Ho’s home-cooked meal offensive. \n\nJi-Ho, who finds strength just by thinking about food no matter how hard things get, and Tae-Ho, who hones his cooking skills for Ji-Ho’s sake— Kyu-Jin finds that Tae-Ho’s food suits his taste exceptionally well. Before they knew it, the three of them began to resemble a “family,” for whom eating together no longer felt awkward. And they even made new friends through “Seum,” a child welfare organization established for the children of inmates. Mealtimes, which Tae-Ho and Ji-Ho used to spend alone, or sometimes in lonely solitude, have now become the most joyful part of their day.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjUwMC1TSm1hNDUwbE1WejQucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-21",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-08-23T04:23:20.999Z",
+  "last_updated_at": "2026-09-05T23:16:23.232Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Park Neongkul"
+    "Neong-Kul Park"
   ],
   "artists": [
-    "Park Neongkul"
+    "Neong-Kul Park"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600829",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216500,
+      "rating": null,
+      "url": "https://anilist.co/manga/216500"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "oc1cjp2",
@@ -62,7 +77,12 @@
   },
   "tag_ids": [
     8,
-    31
+    31,
+    1052,
+    7,
+    93,
+    57,
+    428
   ],
   "stats": {
     "popularity": null,
@@ -70,8 +90,10 @@
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2078,
+    "popularityPercentile": 0.1754,
+    "fanFavouriteDiscoveryScore": 5.1801,
+    "fanFavouriteDiscoveryPercentile": 0.1754
   }
 }

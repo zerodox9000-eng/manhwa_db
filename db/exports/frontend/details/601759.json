@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Husband and Lover",
-  "mangabaka_title": "Husband and Lover",
+  "mangabaka_title": "Nampyeongwa Aein",
   "native_title": "남편과 애인",
-  "romanized_title": null,
+  "romanized_title": "Nampyeongwa Aein",
   "titles": [
     {
       "language": "ko",
       "title": "남편과 애인",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,6 +31,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Nampyeongwa Aein",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Husband and the Lover",
       "traits": [],
@@ -37,21 +48,21 @@
     }
   ],
   "description": "Somi's loneliness only grows as her relationship with her husband drifts apart. One day, her peaceful daily life begins to slowly unravel as she gets entangled with a handsome, well-built deliveryman she encounters by chance. At a point of no return, she struggles between her desires and reality...\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/husbandand_lover)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2ODk4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjE5NS1TcmRlZWh3UTFqRlMuanBn",
   "total_chapters": "1",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-01",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-02T02:52:04.320Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-04T16:32:37.998Z",
+  "last_updated_at": "2026-09-05T16:46:30.671Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216195,
+      "rating": null,
+      "url": "https://anilist.co/manga/216195"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "n1it7ss",
@@ -80,17 +95,23 @@
     46,
     15,
     41,
+    109,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2078,
+    "popularityPercentile": 1.9075,
+    "fanFavouriteDiscoveryScore": 5.8386,
+    "fanFavouriteDiscoveryPercentile": 1.7979
   }
 }
