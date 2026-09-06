@@ -18,6 +18,7 @@ Contains:
 - titles
 - covers
 - tags
+- `tag_weights` for AniList-backed entries (`core`, `defining`, `recurrent`, `incidental`, or `unweighted`)
 - stats
 - analytics
 

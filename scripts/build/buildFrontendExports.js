@@ -111,6 +111,7 @@ function percentileRank(
 }
 
 const seriesTagIds = new Map();
+const seriesTagWeights = new Map();
 
 const TEXT_STOPWORDS = new Set([
   "a", "about", "after", "again", "all", "also", "an", "and", "are", "as", "at", "back", "be", "been", "but", "by",
@@ -451,6 +452,7 @@ for (const file of tagFiles) {
   for (const entry of data) {
 
     const ids = [];
+    const weights = {};
 
     for (
       const tag of
@@ -458,6 +460,10 @@ for (const file of tagFiles) {
     ) {
 
       ids.push(tag.id);
+
+      if (Number.isSafeInteger(tag.id) && typeof tag.weight === "string" && tag.weight.trim()) {
+        weights[String(tag.id)] = tag.weight.trim();
+      }
 
       if (!tagMap.has(tag.id)) {
 
@@ -484,6 +490,11 @@ for (const file of tagFiles) {
     seriesTagIds.set(
       entry.id,
       ids
+    );
+
+    seriesTagWeights.set(
+      entry.id,
+      weights
     );
   }
 }
@@ -584,6 +595,10 @@ for (const file of seriesFiles) {
 
       tag_ids:
         seriesTagIds.get(entry.id) || [],
+
+      ...(entry.source?.anilist?.id != null && Object.keys(seriesTagWeights.get(entry.id) || {}).length > 0
+        ? { tag_weights: seriesTagWeights.get(entry.id) }
+        : {}),
 
       stats: {
 
@@ -1236,6 +1251,10 @@ for (
 
     tag_ids:
       entry.tag_ids,
+
+    ...(entry.source?.anilist?.id != null && Object.keys(entry.tag_weights || {}).length > 0
+      ? { tag_weights: entry.tag_weights }
+      : {}),
 
     stats:
       entry.stats,
