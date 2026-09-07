@@ -1,5 +1,20 @@
 const endpoint = "https://graphql.anilist.co";
 
+function tokenShape(rawToken) {
+  const trimmedToken = rawToken.trim();
+
+  return {
+    rawLength: rawToken.length,
+    trimmedLength: trimmedToken.length,
+    hasLeadingOrTrailingWhitespace: rawToken !== trimmedToken,
+    hasAccessTokenWrapper: /^access_token=/i.test(trimmedToken),
+    hasBearerWrapper: /^Bearer\s+/i.test(trimmedToken),
+    hasQuerySeparators: /[&#]/.test(trimmedToken),
+    hasQuotes: /["']/.test(trimmedToken),
+    jwtLike: /^[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+$/.test(trimmedToken),
+  };
+}
+
 function errorSummary(payload) {
   if (!Array.isArray(payload?.errors)) return "";
 
@@ -18,6 +33,8 @@ async function main() {
     console.error("AniList auth check: ANILIST_ACCESS_TOKEN is missing.");
     return 2;
   }
+
+  console.log(`AniList auth input shape: ${JSON.stringify(tokenShape(process.env.ANILIST_ACCESS_TOKEN || ""))}`);
 
   let response;
   try {
