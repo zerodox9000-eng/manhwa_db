@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.738Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T01:46:30.938Z",
+  "last_updated_at": "2026-09-06T11:22:55.424Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -88,8 +88,14 @@
     }
   },
   "tag_ids": [
+    4200,
+    4343,
     58,
+    3013,
+    3007,
     74,
+    4488,
+    4800,
     287,
     522,
     46,
@@ -103,6 +109,7 @@
     161,
     910,
     103,
+    3457,
     180,
     16,
     235,
@@ -111,7 +118,8 @@
     488,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "16": "defining",
@@ -137,19 +145,27 @@
     "487": "core",
     "488": "defining",
     "522": "defining",
-    "910": "core"
+    "910": "core",
+    "3007": "core",
+    "3013": "defining",
+    "3457": "defining",
+    "4200": "defining",
+    "4343": "core",
+    "4488": "core",
+    "4800": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 84,
+    "popularity": 83,
     "favourites": null,
     "meanScore": 52
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2078,
-    "popularityPercentile": 35.9059,
-    "fanFavouriteDiscoveryScore": 25.4472,
-    "fanFavouriteDiscoveryPercentile": 27.9105
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 35.6104,
+    "fanFavouriteDiscoveryScore": 25.3246,
+    "fanFavouriteDiscoveryPercentile": 27.7636
   },
   "context": {
     "primaryProfile": "sports-career",

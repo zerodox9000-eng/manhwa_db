@@ -77,10 +77,10 @@
       "note": null
     },
     {
-      "language": "zh",
+      "language": "zh-hk",
       "title": "易感期算什麼 !",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.150Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-04T22:09:12.715Z",
+  "last_updated_at": "2026-09-06T15:58:55.533Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -139,19 +139,26 @@
   },
   "tag_ids": [
     695,
+    5529,
     1781,
     1387,
     850,
     1019,
     1050,
     556,
+    5241,
+    3693,
     2444,
     2465,
+    3285,
+    3013,
     257,
-    1064,
+    3066,
     647,
     1299,
+    4439,
     1571,
+    3000,
     118,
     985,
     46,
@@ -167,6 +174,7 @@
     93,
     57,
     428,
+    7332,
     1128
   ],
   "tag_weights": {
@@ -191,7 +199,6 @@
     "1000": "defining",
     "1019": "defining",
     "1050": "defining",
-    "1064": "unweighted",
     "1128": "unweighted",
     "1299": "core",
     "1387": "core",
@@ -199,19 +206,28 @@
     "1781": "defining",
     "2444": "unweighted",
     "2465": "defining",
-    "2735": "defining"
+    "2735": "defining",
+    "3000": "core",
+    "3013": "defining",
+    "3066": "defining",
+    "3285": "defining",
+    "3693": "defining",
+    "4439": "core",
+    "5241": "defining",
+    "5529": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 66,
+    "popularity": 67,
     "favourites": 1,
     "meanScore": 59
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5152,
-    "fanRatioPercentile": 60.7469,
-    "popularityPercentile": 31.7767,
-    "fanFavouriteDiscoveryScore": 44.1863,
-    "fanFavouriteDiscoveryPercentile": 50.0694
+    "fanFavouriteRaw": 1.4925,
+    "fanRatioPercentile": 60.1666,
+    "popularityPercentile": 31.9793,
+    "fanFavouriteDiscoveryScore": 43.9648,
+    "fanFavouriteDiscoveryPercentile": 49.7406
   },
   "context": {
     "primaryProfile": "romance-core",

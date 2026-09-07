@@ -5,7 +5,7 @@
   "display_title": "Regina Rena: To the Unforgiven",
   "mangabaka_title": "Regina Rena: To the Unforgiven",
   "native_title": "레지나레나 - 용서받지 못한 그대에게",
-  "romanized_title": "Regina Lena - To the Unforgivable You",
+  "romanized_title": "Regina Rena: Yongseobatji Motan Geudaeege",
   "titles": [
     {
       "language": "ko",
@@ -24,10 +24,10 @@
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "en",
       "title": "Regina Lena - To the Unforgivable You",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -77,9 +77,11 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Regina Rena: Yongseo Batji Mothan Geudae-ege",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -134,7 +136,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-04T11:37:31.211Z",
+  "last_updated_at": "2026-09-07T02:56:06.130Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -188,22 +190,33 @@
     899,
     1822,
     653,
+    998,
     578,
     617,
+    3114,
     106,
+    3963,
+    3222,
     1313,
+    4506,
+    3301,
+    3705,
     108,
-    998,
     450,
     36,
+    3639,
     395,
     413,
+    3369,
+    2930,
     2895,
     1062,
     39,
     31,
     1816,
     44,
+    3589,
+    3970,
     1036,
     230,
     32,
@@ -212,14 +225,17 @@
     18,
     227,
     9,
-    45,
+    5441,
     905,
     994,
+    45,
     93,
     57,
     428,
+    7332,
     121,
-    1899
+    1899,
+    3108
   ],
   "tag_weights": {
     "9": "defining",
@@ -271,19 +287,33 @@
     "2139": "defining",
     "2242": "defining",
     "2422": "recurrent",
-    "2895": "unweighted"
+    "2895": "defining",
+    "2930": "unweighted",
+    "3108": "recurrent",
+    "3114": "recurrent",
+    "3222": "recurrent",
+    "3301": "recurrent",
+    "3369": "unweighted",
+    "3589": "defining",
+    "3639": "recurrent",
+    "3705": "recurrent",
+    "3963": "recurrent",
+    "3970": "recurrent",
+    "4506": "recurrent",
+    "5441": "recurrent",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 4597,
+    "popularity": 4598,
     "favourites": 105,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 2.2841,
-    "fanRatioPercentile": 78.5427,
-    "popularityPercentile": 95.1765,
-    "fanFavouriteDiscoveryScore": 78.3936,
-    "fanFavouriteDiscoveryPercentile": 85.4783
+    "fanFavouriteRaw": 2.2836,
+    "fanRatioPercentile": 78.7243,
+    "popularityPercentile": 95.1706,
+    "fanFavouriteDiscoveryScore": 78.5748,
+    "fanFavouriteDiscoveryPercentile": 85.6287
   },
   "context": {
     "primaryProfile": "horror-survival",

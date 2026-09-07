@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T11:53:48.368Z",
+  "last_updated_at": "2026-09-06T11:53:30.013Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -107,7 +107,7 @@
   "source": {
     "anilist": {
       "id": 160313,
-      "rating": 71,
+      "rating": 70,
       "url": "https://anilist.co/manga/160313"
     },
     "animeplanet": {
@@ -123,6 +123,7 @@
   },
   "tag_ids": [
     366,
+    3383,
     40,
     2149,
     2148,
@@ -140,7 +141,8 @@
     132,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -161,19 +163,21 @@
     "2148": "core",
     "2149": "core",
     "2408": "core",
-    "2434": "defining"
+    "2434": "defining",
+    "3383": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 301,
+    "popularity": 302,
     "favourites": 3,
-    "meanScore": 71
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9967,
-    "fanRatioPercentile": 45.7502,
-    "popularityPercentile": 59.5191,
-    "fanFavouriteDiscoveryScore": 44.1122,
-    "fanFavouriteDiscoveryPercentile": 49.9013
+    "fanFavouriteRaw": 0.9934,
+    "fanRatioPercentile": 45.7076,
+    "popularityPercentile": 59.5309,
+    "fanFavouriteDiscoveryScore": 44.0727,
+    "fanFavouriteDiscoveryPercentile": 49.8648
   },
   "context": {
     "primaryProfile": "showbiz-career",

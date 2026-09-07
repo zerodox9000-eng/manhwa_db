@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T10:47:51.515Z",
+  "last_updated_at": "2026-09-07T08:34:50.018Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -72,7 +72,7 @@
   "source": {
     "anilist": {
       "id": 205993,
-      "rating": 79,
+      "rating": 78,
       "url": "https://anilist.co/manga/205993"
     },
     "animeplanet": {
@@ -87,6 +87,7 @@
     }
   },
   "tag_ids": [
+    3648,
     22,
     46,
     41,
@@ -97,7 +98,8 @@
     1004,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -110,19 +112,21 @@
     "180": "incidental",
     "229": "core",
     "428": "unweighted",
-    "1004": "core"
+    "1004": "core",
+    "3648": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 178,
+    "popularity": 180,
     "favourites": 7,
-    "meanScore": 79
+    "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 3.9326,
-    "fanRatioPercentile": 93.8829,
-    "popularityPercentile": 49.3751,
-    "fanFavouriteDiscoveryScore": 86.4108,
-    "fanFavouriteDiscoveryPercentile": 91.8731
+    "fanFavouriteRaw": 3.8889,
+    "fanRatioPercentile": 93.7386,
+    "popularityPercentile": 49.5068,
+    "fanFavouriteDiscoveryScore": 86.3529,
+    "fanFavouriteDiscoveryPercentile": 91.8463
   },
   "context": {
     "primaryProfile": "horror-survival",

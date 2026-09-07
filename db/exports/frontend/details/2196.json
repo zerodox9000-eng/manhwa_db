@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.234Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T22:40:28.062Z",
+  "last_updated_at": "2026-09-07T15:14:28.109Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -115,13 +115,22 @@
   },
   "tag_ids": [
     659,
+    6136,
+    3892,
+    2972,
     1976,
+    4641,
+    3622,
+    4136,
+    4099,
     75,
+    6212,
     1322,
+    449,
+    1592,
     1099,
     1693,
     1680,
-    1592,
     2750,
     14,
     180,
@@ -129,6 +138,7 @@
     31,
     1192,
     2687,
+    3239,
     361,
     127,
     128,
@@ -138,7 +148,8 @@
     479,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -154,7 +165,8 @@
     "226": "core",
     "361": "recurrent",
     "428": "unweighted",
-    "479": "incidental",
+    "449": "core",
+    "479": "core",
     "659": "recurrent",
     "984": "core",
     "1099": "recurrent",
@@ -165,7 +177,17 @@
     "1693": "defining",
     "1976": "recurrent",
     "2687": "recurrent",
-    "2750": "recurrent"
+    "2750": "recurrent",
+    "2972": "defining",
+    "3239": "core",
+    "3622": "recurrent",
+    "3892": "core",
+    "4099": "recurrent",
+    "4136": "recurrent",
+    "4641": "recurrent",
+    "6136": "recurrent",
+    "6212": "recurrent",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 507,
@@ -174,10 +196,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.5917,
-    "fanRatioPercentile": 36.0447,
-    "popularityPercentile": 69.2246,
-    "fanFavouriteDiscoveryScore": 35.4583,
-    "fanFavouriteDiscoveryPercentile": 39.1362
+    "fanRatioPercentile": 36.0634,
+    "popularityPercentile": 69.1605,
+    "fanFavouriteDiscoveryScore": 35.4736,
+    "fanFavouriteDiscoveryPercentile": 39.1905
   },
   "context": {
     "primaryProfile": "corporate-workplace",

@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T10:51:31.829Z",
+  "last_updated_at": "2026-09-07T01:07:08.065Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -134,15 +134,17 @@
     }
   },
   "tag_ids": [
-    2896,
     38,
     806,
     903,
+    2896,
     68,
     58,
     2500,
     2570,
+    3803,
     257,
+    5146,
     36,
     6,
     31,
@@ -151,7 +153,8 @@
     1004,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -171,7 +174,10 @@
     "1004": "defining",
     "2500": "defining",
     "2570": "defining",
-    "2896": "unweighted"
+    "2896": "core",
+    "3803": "defining",
+    "5146": "defining",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 669,
@@ -180,10 +186,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.8401,
-    "fanRatioPercentile": 86.5453,
-    "popularityPercentile": 74.1066,
-    "fanFavouriteDiscoveryScore": 85.6028,
-    "fanFavouriteDiscoveryPercentile": 91.3031
+    "fanRatioPercentile": 86.6808,
+    "popularityPercentile": 74.0338,
+    "fanFavouriteDiscoveryScore": 85.7311,
+    "fanFavouriteDiscoveryPercentile": 91.4225
   },
   "context": {
     "primaryProfile": "showbiz-career",

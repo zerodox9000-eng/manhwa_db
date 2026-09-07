@@ -92,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.173Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-02T20:52:40.978Z",
+  "last_updated_at": "2026-09-06T21:53:54.462Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -111,7 +111,7 @@
   "source": {
     "anilist": {
       "id": 151454,
-      "rating": 63,
+      "rating": 64,
       "url": "https://anilist.co/manga/151454"
     },
     "animeplanet": {
@@ -139,17 +139,19 @@
     1400,
     1383,
     1403,
-    2460,
+    3227,
     1045,
+    2460,
     595,
     1205,
     831,
     848,
     449,
     648,
-    429,
     1007,
+    429,
     286,
+    3315,
     235,
     839,
     983,
@@ -160,18 +162,16 @@
     18,
     984,
     9,
-    7,
-    282,
+    5,
     132,
     1004,
-    5,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "5": "unweighted",
-    "7": "unweighted",
     "9": "defining",
     "18": "defining",
     "31": "defining",
@@ -181,11 +181,10 @@
     "132": "core",
     "235": "core",
     "237": "core",
-    "282": "unweighted",
     "286": "core",
     "428": "unweighted",
     "429": "core",
-    "449": "unweighted",
+    "449": "core",
     "595": "core",
     "648": "core",
     "776": "unweighted",
@@ -211,19 +210,22 @@
     "1473": "core",
     "1478": "core",
     "1482": "core",
-    "2460": "core"
+    "2460": "core",
+    "3227": "core",
+    "3315": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 346,
     "favourites": 3,
-    "meanScore": 63
+    "meanScore": 64
   },
   "analytics": {
     "fanFavouriteRaw": 0.8671,
-    "fanRatioPercentile": 42.0741,
-    "popularityPercentile": 62.1647,
-    "fanFavouriteDiscoveryScore": 40.8571,
-    "fanFavouriteDiscoveryPercentile": 45.5163
+    "fanRatioPercentile": 42.1056,
+    "popularityPercentile": 62.1393,
+    "fanFavouriteDiscoveryScore": 40.8853,
+    "fanFavouriteDiscoveryPercentile": 45.5323
   },
   "context": {
     "primaryProfile": "business-career-regression",

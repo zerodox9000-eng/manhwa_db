@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Summer Younger Man",
-  "mangabaka_title": "Summer Younger Man",
+  "mangabaka_title": "Yeoreumui Yeonha",
   "native_title": "여름의 연하",
-  "romanized_title": null,
+  "romanized_title": "Yeoreumui Yeonha",
   "titles": [
     {
       "language": "ko",
       "title": "여름의 연하",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -34,29 +36,38 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeoreumui Yeonha",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "In the summer of her thirtieth year, Yeong-won's seven-year relationship came to an end. \n\n\"I like someone prettier and younger than you.\" \n\nSuffering from lingering emotional trauma caused by her ex-boyfriend's terrible breakup line, Yeong-won registers for a local Taekwondo gym to clear her mind. What she meets there is Kang Eun-ho, a former national team instructor. He was handsome, pretty, and even eight years younger than Yeong-won. Then one day, a drunk Yeong-won runs into Eun-ho and ends up making a massive mistake. \n\n\"Sob, my sausage... I caught it! But why is it so hard, is it spoiled?\"    \n\"...Why would that be spoiled? It's perfectly healthy.\" \n\nYet, this young and pretty guy keeps interfering in her life. Why?\n\n**Original Webtoon:**   \nR19: [Naver Series](https://series.naver.com/comic/detail.series?productNo=14424774), [Bomtoon](https://www.bomtoon.com/detail/summer_younger), [Lezhin](https://www.lezhin.com/ko/comic/summer_younger_man)    \nR15: [Naver Series](https://series.naver.com/comic/detail.series?productNo=14424789), [Bomtoon](https://www.bomtoon.com/detail/summer_younger15), [Lezhin](https://www.lezhin.com/ko/comic/summer_younger_man_15)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzMzU4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjMzNy1OQXhJN1VkNUE0SWsuanBn",
   "total_chapters": "12",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-24",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-24T04:08:24.058Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-02T12:44:40.808Z",
+  "last_updated_at": "2026-09-06T09:16:26.151Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lee Melon",
-    "Maru the Red"
+    "Imeron",
+    "MARUCOMICS"
   ],
   "artists": [
     "Doing"
@@ -67,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216337,
+      "rating": null,
+      "url": "https://anilist.co/manga/216337"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "poa4dhl",
@@ -77,19 +92,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 1.2786,
+    "fanFavouriteDiscoveryScore": 5.5944,
+    "fanFavouriteDiscoveryPercentile": 1.2128
   },
   "context": {
     "primaryProfile": "modern-korea",

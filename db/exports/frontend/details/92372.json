@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T03:19:51.904Z",
+  "last_updated_at": "2026-09-07T13:38:10.508Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -95,7 +95,7 @@
   "source": {
     "anilist": {
       "id": 196880,
-      "rating": 65,
+      "rating": 63,
       "url": "https://anilist.co/manga/196880"
     },
     "animeplanet": {
@@ -115,6 +115,7 @@
     59,
     36,
     22,
+    5399,
     46,
     41,
     527,
@@ -125,7 +126,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "4": "unweighted",
@@ -143,19 +145,21 @@
     "386": "core",
     "423": "core",
     "428": "unweighted",
-    "527": "unweighted"
+    "527": "incidental",
+    "5399": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 100,
     "favourites": null,
-    "meanScore": 65
+    "meanScore": 63
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2078,
-    "popularityPercentile": 38.8511,
-    "fanFavouriteDiscoveryScore": 26.6654,
-    "fanFavouriteDiscoveryPercentile": 29.248
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 38.8032,
+    "fanFavouriteDiscoveryScore": 26.6574,
+    "fanFavouriteDiscoveryPercentile": 29.2248
   },
   "context": {
     "primaryProfile": "romance-core",

@@ -109,6 +109,9 @@
   },
   "tag_ids": [
     247,
+    4049,
+    4217,
+    3046,
     1165,
     880,
     308,
@@ -119,6 +122,7 @@
     95,
     547,
     512,
+    3956,
     180,
     16,
     31,
@@ -126,7 +130,8 @@
     93,
     1167,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -147,7 +152,12 @@
     "547": "unweighted",
     "880": "defining",
     "1165": "core",
-    "1167": "unweighted"
+    "1167": "unweighted",
+    "3046": "defining",
+    "3956": "core",
+    "4049": "defining",
+    "4217": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 9,
@@ -156,10 +166,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2078,
-    "popularityPercentile": 4.8381,
-    "fanFavouriteDiscoveryScore": 7.0978,
-    "fanFavouriteDiscoveryPercentile": 4.5385
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 4.7856,
+    "fanFavouriteDiscoveryScore": 7.0763,
+    "fanFavouriteDiscoveryPercentile": 4.486
   },
   "context": {
     "primaryProfile": "regression-return",

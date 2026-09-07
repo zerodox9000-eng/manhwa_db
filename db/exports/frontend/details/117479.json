@@ -94,7 +94,7 @@
   },
   "first_seen_at": "2026-06-10T15:38:39.044Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T01:58:31.173Z",
+  "last_updated_at": "2026-09-07T02:08:32.922Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -146,6 +146,7 @@
     231,
     406,
     656,
+    3004,
     280,
     600,
     668,
@@ -174,12 +175,13 @@
     227,
     9,
     309,
-    132,
     5,
     830,
+    132,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "5": "defining",
@@ -215,7 +217,7 @@
     "406": "unweighted",
     "428": "unweighted",
     "448": "core",
-    "449": "unweighted",
+    "449": "core",
     "585": "incidental",
     "589": "defining",
     "595": "core",
@@ -232,19 +234,21 @@
     "982": "defining",
     "1017": "defining",
     "1090": "unweighted",
-    "2726": "defining"
+    "2726": "defining",
+    "3004": "recurrent",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1028,
+    "popularity": 1030,
     "favourites": 11,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 1.07,
-    "fanRatioPercentile": 47.7381,
-    "popularityPercentile": 81.0422,
-    "fanFavouriteDiscoveryScore": 47.445,
-    "fanFavouriteDiscoveryPercentile": 55.8723
+    "fanFavouriteRaw": 1.068,
+    "fanRatioPercentile": 47.746,
+    "popularityPercentile": 81.0258,
+    "fanFavouriteDiscoveryScore": 47.4525,
+    "fanFavouriteDiscoveryPercentile": 55.8998
   },
   "context": {
     "primaryProfile": "business-career-regression",

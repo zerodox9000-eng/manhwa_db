@@ -141,14 +141,17 @@
   },
   "tag_ids": [
     250,
-    1981,
     1378,
     1374,
     690,
     692,
     1395,
-    1964,
     247,
+    3007,
+    1964,
+    3037,
+    1981,
+    3608,
     2828,
     106,
     575,
@@ -158,6 +161,7 @@
     985,
     46,
     547,
+    475,
     39,
     180,
     16,
@@ -165,7 +169,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -183,6 +188,7 @@
     "250": "incidental",
     "308": "unweighted",
     "428": "unweighted",
+    "475": "core",
     "547": "unweighted",
     "575": "defining",
     "690": "defining",
@@ -193,7 +199,11 @@
     "1395": "defining",
     "1964": "core",
     "1981": "defining",
-    "2828": "core"
+    "2828": "core",
+    "3007": "core",
+    "3037": "defining",
+    "3608": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 97,
@@ -202,10 +212,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2078,
-    "popularityPercentile": 38.3907,
-    "fanFavouriteDiscoveryScore": 26.4871,
-    "fanFavouriteDiscoveryPercentile": 29.0653
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 38.343,
+    "fanFavouriteDiscoveryScore": 26.4786,
+    "fanFavouriteDiscoveryPercentile": 29.0422
   },
   "context": {
     "primaryProfile": "romance-core",

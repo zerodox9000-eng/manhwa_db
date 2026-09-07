@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T10:34:41.581Z",
+  "last_updated_at": "2026-09-07T05:14:18.181Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -101,7 +101,7 @@
   "source": {
     "anilist": {
       "id": 191854,
-      "rating": 57,
+      "rating": 56,
       "url": "https://anilist.co/manga/191854"
     },
     "animeplanet": {
@@ -116,6 +116,8 @@
     }
   },
   "tag_ids": [
+    4442,
+    3988,
     75,
     74,
     849,
@@ -137,7 +139,8 @@
     155,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -161,19 +164,22 @@
     "428": "unweighted",
     "849": "defining",
     "1020": "defining",
-    "1079": "defining"
+    "1079": "defining",
+    "3988": "defining",
+    "4442": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 242,
+    "popularity": 247,
     "favourites": 1,
-    "meanScore": 57
+    "meanScore": 56
   },
   "analytics": {
-    "fanFavouriteRaw": 0.4132,
-    "fanRatioPercentile": 33.5234,
-    "popularityPercentile": 55.5068,
-    "fanFavouriteDiscoveryScore": 31.8701,
-    "fanFavouriteDiscoveryPercentile": 34.0642
+    "fanFavouriteRaw": 0.4049,
+    "fanRatioPercentile": 33.4624,
+    "popularityPercentile": 55.8705,
+    "fanFavouriteDiscoveryScore": 31.859,
+    "fanFavouriteDiscoveryPercentile": 34.0323
   },
   "context": {
     "primaryProfile": "engineering-builder",

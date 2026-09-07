@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Spot Where the Snow Melted",
-  "mangabaka_title": "A Spot Where the Snow Melted",
+  "mangabaka_title": "Nuni Nogeun Jari",
   "native_title": "눈이 녹은 자리",
-  "romanized_title": null,
+  "romanized_title": "Nuni Nogeun Jari",
   "titles": [
     {
       "language": "ko",
       "title": "눈이 녹은 자리",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,24 +22,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nuni Nogeun Jari",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "To be honest, I used to believe that Yi-jung was innocent too.\n\n**Original Webtoon:**  \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14427273), [Bomtoon](https://www.bomtoon.com/detail/snowplace), [Lezhin](https://www.lezhin.com/ko/comic/where_snow_melts), [RIDI](https://ridibooks.com/books/4895003911)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyOTQyLmpwZw",
+  "description": "*Note: Originally self-published on the author's Postype. Published by Naver Series on 2026-07-19.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjMzMy00MHdrWVg2Zm5PTlEuanBn",
   "total_chapters": "20",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-02-20",
+    "end_date": "2023-03-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.153Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-04T15:32:48.832Z",
+  "last_updated_at": "2026-09-06T16:33:43.823Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216333,
+      "rating": null,
+      "url": "https://anilist.co/manga/216333"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "5ysew9n",
@@ -61,19 +76,34 @@
     }
   },
   "tag_ids": [
+    180,
     23,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "23": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 1.2786,
+    "fanFavouriteDiscoveryScore": 5.5944,
+    "fanFavouriteDiscoveryPercentile": 1.2128
   },
   "context": {
     "primaryProfile": "modern-korea",

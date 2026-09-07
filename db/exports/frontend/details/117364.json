@@ -85,7 +85,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.822Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-03T10:42:49.787Z",
+  "last_updated_at": "2026-09-06T10:45:32.962Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -104,7 +104,7 @@
   "source": {
     "anilist": {
       "id": 181075,
-      "rating": 69,
+      "rating": 67,
       "url": "https://anilist.co/manga/181075"
     },
     "animeplanet": {
@@ -120,14 +120,16 @@
   },
   "tag_ids": [
     2112,
-    906,
     1136,
+    906,
+    5008,
     46,
     14,
     10,
     15,
     41,
     109,
+    3432,
     372,
     31,
     4,
@@ -135,7 +137,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "4": "unweighted",
@@ -154,19 +157,22 @@
     "428": "unweighted",
     "906": "unweighted",
     "1136": "core",
-    "2112": "core"
+    "2112": "core",
+    "3432": "core",
+    "5008": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 237,
+    "popularity": 239,
     "favourites": 2,
-    "meanScore": 69
+    "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8439,
-    "fanRatioPercentile": 41.4967,
-    "popularityPercentile": 55.1633,
-    "fanFavouriteDiscoveryScore": 39.3938,
-    "fanFavouriteDiscoveryPercentile": 43.967
+    "fanFavouriteRaw": 0.8368,
+    "fanRatioPercentile": 41.3093,
+    "popularityPercentile": 55.286,
+    "fanFavouriteDiscoveryScore": 39.2361,
+    "fanFavouriteDiscoveryPercentile": 43.6984
   },
   "context": {
     "primaryProfile": "euro-fantasy",

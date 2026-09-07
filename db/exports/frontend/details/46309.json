@@ -141,6 +141,7 @@
     }
   },
   "tag_ids": [
+    4533,
     1998,
     1963,
     158,
@@ -150,14 +151,14 @@
     257,
     125,
     268,
-    429,
     1007,
+    429,
     106,
     880,
-    1118,
     573,
     177,
     1710,
+    1118,
     14,
     10,
     180,
@@ -168,7 +169,8 @@
     42,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "7": "defining",
@@ -198,7 +200,9 @@
     "1118": "recurrent",
     "1710": "recurrent",
     "1963": "core",
-    "1998": "defining"
+    "1998": "defining",
+    "4533": "recurrent",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 354,
@@ -207,10 +211,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2078,
-    "popularityPercentile": 62.5813,
-    "fanFavouriteDiscoveryScore": 31.3072,
-    "fanFavouriteDiscoveryPercentile": 32.8217
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 62.5484,
+    "fanFavouriteDiscoveryScore": 31.3169,
+    "fanFavouriteDiscoveryPercentile": 32.8268
   },
   "context": {
     "primaryProfile": "business-career-regression",

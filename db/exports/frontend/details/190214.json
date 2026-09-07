@@ -101,7 +101,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T01:39:56.748Z",
+  "last_updated_at": "2026-09-07T14:30:12.899Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -135,13 +135,18 @@
     }
   },
   "tag_ids": [
+    2994,
     123,
     389,
     158,
-    2236,
     2261,
+    2236,
     2124,
+    3229,
     336,
+    3046,
+    4925,
+    5555,
     663,
     889,
     1741,
@@ -150,10 +155,10 @@
     2741,
     287,
     398,
+    2992,
     46,
     15,
     41,
-    109,
     289,
     306,
     370,
@@ -167,14 +172,17 @@
     4,
     1948,
     33,
+    4478,
     227,
     9,
     469,
-    424,
     749,
+    4457,
+    424,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "4": "core",
@@ -188,7 +196,6 @@
     "93": "unweighted",
     "95": "defining",
     "103": "core",
-    "109": "unweighted",
     "123": "defining",
     "158": "recurrent",
     "161": "recurrent",
@@ -216,19 +223,28 @@
     "2236": "core",
     "2261": "core",
     "2733": "core",
-    "2741": "core"
+    "2741": "core",
+    "2992": "core",
+    "2994": "core",
+    "3046": "core",
+    "3229": "core",
+    "4457": "core",
+    "4478": "core",
+    "4925": "core",
+    "5555": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 222,
+    "popularity": 224,
     "favourites": null,
     "meanScore": 55
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2078,
-    "popularityPercentile": 53.899,
-    "fanFavouriteDiscoveryScore": 30.4045,
-    "fanFavouriteDiscoveryPercentile": 32.3906
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 54.0294,
+    "fanFavouriteDiscoveryScore": 30.4347,
+    "fanFavouriteDiscoveryPercentile": 32.4907
   },
   "context": {
     "primaryProfile": "sports-career",

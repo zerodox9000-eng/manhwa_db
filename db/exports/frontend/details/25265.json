@@ -33,7 +33,7 @@
       "note": null
     },
     {
-      "language": "ko",
+      "language": "ko-Latn",
       "title": "FOOLS",
       "traits": [
         "native"
@@ -42,7 +42,7 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "ko",
       "title": "FOOLS",
       "traits": [
         "native"
@@ -117,7 +117,7 @@
   },
   "first_seen_at": "2026-06-10T15:38:39.043Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T09:57:43.205Z",
+  "last_updated_at": "2026-09-07T06:02:10.923Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -163,12 +163,16 @@
     356,
     886,
     125,
+    3083,
+    998,
+    3815,
+    4181,
+    3213,
     106,
     906,
     1040,
-    400,
-    998,
     573,
+    400,
     180,
     23,
     6,
@@ -179,9 +183,12 @@
     9,
     7,
     42,
+    3078,
+    3640,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "2": "recurrent",
@@ -214,19 +221,26 @@
     "1040": "recurrent",
     "1783": "recurrent",
     "1792": "recurrent",
-    "2685": "core"
+    "2685": "core",
+    "3078": "recurrent",
+    "3083": "recurrent",
+    "3213": "recurrent",
+    "3640": "core",
+    "3815": "recurrent",
+    "4181": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 6224,
+    "popularity": 6222,
     "favourites": 273,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 4.3862,
-    "fanRatioPercentile": 95.5492,
-    "popularityPercentile": 96.5797,
-    "fanFavouriteDiscoveryScore": 95.3878,
-    "fanFavouriteDiscoveryPercentile": 97.7856
+    "fanFavouriteRaw": 4.3877,
+    "fanRatioPercentile": 95.6017,
+    "popularityPercentile": 96.5734,
+    "fanFavouriteDiscoveryScore": 95.4401,
+    "fanFavouriteDiscoveryPercentile": 97.8154
   },
   "context": {
     "primaryProfile": "food-career",

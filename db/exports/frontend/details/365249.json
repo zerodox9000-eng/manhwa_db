@@ -17,19 +17,19 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Gyeolhon Jangsa 2: Ichiji Aneul Norae",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Gyeolhon Jangsa 2: Ichiji Aneul Norae",
       "traits": [
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Gyeolhon Jangsa 2: Ichiji Aneul Norae",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -155,7 +155,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T10:14:30.594Z",
+  "last_updated_at": "2026-09-07T09:06:54.002Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -198,6 +198,7 @@
     108,
     771,
     36,
+    4373,
     1,
     31,
     128,
@@ -205,7 +206,8 @@
     990,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "1": "unweighted",
@@ -223,19 +225,21 @@
     "428": "unweighted",
     "584": "core",
     "771": "unweighted",
-    "990": "unweighted"
+    "990": "unweighted",
+    "4373": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1243,
+    "popularity": 1257,
     "favourites": 25,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 2.0113,
-    "fanRatioPercentile": 73.0834,
-    "popularityPercentile": 83.6732,
-    "fanFavouriteDiscoveryScore": 72.7226,
-    "fanFavouriteDiscoveryPercentile": 80.3186
+    "fanFavouriteRaw": 1.9889,
+    "fanRatioPercentile": 72.7479,
+    "popularityPercentile": 83.7729,
+    "fanFavouriteDiscoveryScore": 72.3917,
+    "fanFavouriteDiscoveryPercentile": 80.0395
   },
   "context": {
     "primaryProfile": "business-career-regression",

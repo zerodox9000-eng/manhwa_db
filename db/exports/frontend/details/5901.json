@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.148Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T09:53:32.004Z",
+  "last_updated_at": "2026-09-06T16:25:19.273Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,8 +89,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/5901",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://global.toptoon.com/content/103948",
+    "read_en_all": [
+      "https://global.toptoon.com/content/103948"
+    ]
   },
   "source": {
     "anilist": {
@@ -120,8 +122,10 @@
     2024,
     107,
     660,
+    3055,
     1571,
     108,
+    5426,
     21,
     6,
     9,
@@ -129,7 +133,8 @@
     42,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -151,19 +156,22 @@
     "1039": "core",
     "1571": "core",
     "1576": "core",
-    "2024": "core"
+    "2024": "core",
+    "3055": "core",
+    "5426": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 533,
+    "popularity": 534,
     "favourites": 11,
     "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 2.0638,
-    "fanRatioPercentile": 74.0408,
-    "popularityPercentile": 70.2258,
-    "fanFavouriteDiscoveryScore": 72.9311,
-    "fanFavouriteDiscoveryPercentile": 80.5087
+    "fanFavouriteRaw": 2.0599,
+    "fanRatioPercentile": 74.0849,
+    "popularityPercentile": 70.2418,
+    "fanFavouriteDiscoveryScore": 72.9761,
+    "fanFavouriteDiscoveryPercentile": 80.602
   },
   "context": {
     "primaryProfile": "modern-korea",

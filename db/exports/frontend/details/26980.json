@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-06-10T15:37:33.829Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T09:45:42.593Z",
+  "last_updated_at": "2026-09-06T05:37:41.382Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -109,9 +109,13 @@
   },
   "tag_ids": [
     1856,
+    3080,
     1860,
+    3688,
     574,
     107,
+    3204,
+    3318,
     239,
     1868,
     253,
@@ -122,7 +126,8 @@
     42,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "31": "defining",
@@ -139,7 +144,12 @@
     "574": "recurrent",
     "1856": "unweighted",
     "1860": "core",
-    "1868": "recurrent"
+    "1868": "recurrent",
+    "3080": "recurrent",
+    "3204": "recurrent",
+    "3318": "recurrent",
+    "3688": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 1289,
@@ -148,10 +158,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.7929,
-    "fanRatioPercentile": 86.0922,
-    "popularityPercentile": 84.2067,
-    "fanFavouriteDiscoveryScore": 85.6856,
-    "fanFavouriteDiscoveryPercentile": 91.3689
+    "fanRatioPercentile": 86.1913,
+    "popularityPercentile": 84.1748,
+    "fanFavouriteDiscoveryScore": 85.7831,
+    "fanFavouriteDiscoveryPercentile": 91.4664
   },
   "context": {
     "primaryProfile": "school-life",

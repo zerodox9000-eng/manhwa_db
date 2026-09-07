@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T22:26:19.861Z",
+  "last_updated_at": "2026-09-06T23:22:32.362Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,7 +90,7 @@
   "source": {
     "anilist": {
       "id": 214585,
-      "rating": 60,
+      "rating": 65,
       "url": "https://anilist.co/manga/214585"
     },
     "animeplanet": null,
@@ -102,6 +102,11 @@
   },
   "tag_ids": [
     58,
+    3164,
+    3390,
+    5834,
+    4207,
+    3191,
     1962,
     880,
     98,
@@ -144,19 +149,24 @@
     "1550": "core",
     "1947": "core",
     "1962": "core",
-    "2058": "unweighted"
+    "2058": "unweighted",
+    "3164": "core",
+    "3191": "core",
+    "3390": "core",
+    "4207": "core",
+    "5834": "core"
   },
   "stats": {
-    "popularity": 21,
+    "popularity": 23,
     "favourites": null,
-    "meanScore": 60
+    "meanScore": 65
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2078,
-    "popularityPercentile": 13.8858,
-    "fanFavouriteDiscoveryScore": 12.0879,
-    "fanFavouriteDiscoveryPercentile": 12.7457
+    "fanRatioPercentile": 32.2204,
+    "popularityPercentile": 14.8973,
+    "fanFavouriteDiscoveryScore": 12.7357,
+    "fanFavouriteDiscoveryPercentile": 13.6115
   },
   "context": {
     "primaryProfile": "romance-core",

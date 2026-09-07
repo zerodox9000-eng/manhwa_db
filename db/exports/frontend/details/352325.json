@@ -113,6 +113,7 @@
   },
   "tag_ids": [
     1781,
+    3821,
     1425,
     1395,
     579,
@@ -120,12 +121,13 @@
     107,
     257,
     651,
+    449,
     647,
     896,
+    889,
     898,
     2817,
     997,
-    889,
     573,
     180,
     1947,
@@ -137,7 +139,8 @@
     93,
     1167,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -151,33 +154,36 @@
     "226": "incidental",
     "257": "defining",
     "428": "unweighted",
-    "573": "defining",
+    "449": "recurrent",
+    "573": "recurrent",
     "579": "defining",
-    "647": "defining",
-    "651": "defining",
-    "889": "defining",
+    "647": "recurrent",
+    "651": "recurrent",
+    "889": "recurrent",
     "896": "core",
     "898": "unweighted",
     "997": "defining",
     "1167": "unweighted",
     "1395": "core",
     "1425": "core",
-    "1781": "defining",
+    "1781": "recurrent",
     "1947": "defining",
-    "2410": "defining",
-    "2817": "defining"
+    "2410": "recurrent",
+    "2817": "recurrent",
+    "3821": "recurrent",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 468,
+    "popularity": 469,
     "favourites": 1,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 0.2137,
-    "fanRatioPercentile": 32.3175,
-    "popularityPercentile": 67.7337,
-    "fanFavouriteDiscoveryScore": 31.7234,
-    "fanFavouriteDiscoveryPercentile": 33.5672
+    "fanFavouriteRaw": 0.2132,
+    "fanRatioPercentile": 32.3226,
+    "popularityPercentile": 67.7212,
+    "fanFavouriteDiscoveryScore": 31.7279,
+    "fanFavouriteDiscoveryPercentile": 33.4551
   },
   "context": {
     "primaryProfile": "office-romance",

@@ -79,21 +79,21 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Surviving the Apocalypse",
-      "traits": [
-        "native"
-      ],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "en",
       "title": "Surviving the Apocalypse",
       "traits": [
         "official"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Surviving the Apocalypse",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
       "note": null
     },
     {
@@ -137,7 +137,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.821Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T23:36:59.107Z",
+  "last_updated_at": "2026-09-07T13:31:18.655Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -173,6 +173,7 @@
   "tag_ids": [
     8,
     58,
+    3972,
     265,
     36,
     390,
@@ -183,7 +184,8 @@
     29,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "8": "defining",
@@ -198,19 +200,21 @@
     "265": "core",
     "390": "defining",
     "395": "core",
-    "428": "unweighted"
+    "428": "unweighted",
+    "3972": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 4730,
-    "favourites": 91,
+    "popularity": 4739,
+    "favourites": 90,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1.9239,
-    "fanRatioPercentile": 71.154,
-    "popularityPercentile": 95.3154,
-    "fanFavouriteDiscoveryScore": 71.0204,
-    "fanFavouriteDiscoveryPercentile": 78.74
+    "fanFavouriteRaw": 1.8991,
+    "fanRatioPercentile": 70.7094,
+    "popularityPercentile": 95.3167,
+    "fanFavouriteDiscoveryScore": 70.5767,
+    "fanFavouriteDiscoveryPercentile": 78.3883
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T09:31:23.533Z",
+  "last_updated_at": "2026-09-07T13:00:31.376Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -128,20 +128,21 @@
     },
     "mangaupdates": {
       "id": "6i04ynv",
-      "rating": 66,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/6i04ynv"
     }
   },
   "tag_ids": [
-    2896,
     8,
     675,
     903,
-    1080,
+    2896,
     58,
+    2470,
     2428,
     2461,
-    2470,
+    1080,
+    3495,
     748,
     311,
     525,
@@ -149,6 +150,7 @@
     265,
     898,
     1133,
+    5587,
     1704,
     696,
     36,
@@ -158,15 +160,16 @@
     39,
     44,
     32,
+    5,
+    262,
     1004,
     19,
     26,
-    5,
-    262,
     2852,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "1": "unweighted",
@@ -202,19 +205,22 @@
     "2461": "core",
     "2470": "core",
     "2852": "unweighted",
-    "2896": "unweighted"
+    "2896": "core",
+    "3495": "core",
+    "5587": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1431,
-    "favourites": 23,
+    "popularity": 1434,
+    "favourites": 22,
     "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 1.6073,
-    "fanRatioPercentile": 63.1733,
-    "popularityPercentile": 85.5368,
-    "fanFavouriteDiscoveryScore": 62.9061,
-    "fanFavouriteDiscoveryPercentile": 70.7666
+    "fanFavouriteRaw": 1.5342,
+    "fanRatioPercentile": 61.3137,
+    "popularityPercentile": 85.5483,
+    "fanFavouriteDiscoveryScore": 61.0546,
+    "fanFavouriteDiscoveryPercentile": 68.8025
   },
   "context": {
     "primaryProfile": "business-career-regression",

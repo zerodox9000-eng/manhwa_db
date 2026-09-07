@@ -113,7 +113,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.410Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T03:23:39.993Z",
+  "last_updated_at": "2026-09-07T11:37:39.118Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -149,15 +149,20 @@
   },
   "tag_ids": [
     1914,
+    5139,
+    3168,
     2442,
     2591,
+    3778,
     1975,
+    3011,
+    3648,
     74,
     595,
     823,
+    889,
     1097,
     2872,
-    889,
     406,
     985,
     14,
@@ -171,8 +176,9 @@
     16,
     6,
     31,
-    776,
+    3342,
     241,
+    5207,
     128,
     9,
     666,
@@ -180,7 +186,8 @@
     769,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -203,9 +210,8 @@
     "406": "defining",
     "428": "unweighted",
     "595": "unweighted",
-    "666": "unweighted",
+    "666": "incidental",
     "769": "core",
-    "776": "unweighted",
     "823": "core",
     "889": "unweighted",
     "985": "unweighted",
@@ -215,19 +221,27 @@
     "1975": "defining",
     "2442": "recurrent",
     "2591": "defining",
-    "2872": "defining"
+    "2872": "defining",
+    "3011": "recurrent",
+    "3168": "recurrent",
+    "3342": "core",
+    "3648": "defining",
+    "3778": "defining",
+    "5139": "recurrent",
+    "5207": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 673,
+    "popularity": 672,
     "favourites": 8,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1887,
-    "fanRatioPercentile": 50.9684,
-    "popularityPercentile": 74.2308,
-    "fanFavouriteDiscoveryScore": 50.4189,
-    "fanFavouriteDiscoveryPercentile": 58.5398
+    "fanFavouriteRaw": 1.1905,
+    "fanRatioPercentile": 51.1873,
+    "popularityPercentile": 74.1507,
+    "fanFavouriteDiscoveryScore": 50.6318,
+    "fanFavouriteDiscoveryPercentile": 58.7492
   },
   "context": {
     "primaryProfile": "euro-fantasy",

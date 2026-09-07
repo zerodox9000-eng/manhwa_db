@@ -129,7 +129,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.186Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T03:50:37.705Z",
+  "last_updated_at": "2026-09-06T10:12:49.314Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -166,11 +166,12 @@
     }
   },
   "tag_ids": [
+    4781,
     38,
     419,
-    1818,
     58,
     1054,
+    1818,
     74,
     405,
     1822,
@@ -179,6 +180,7 @@
     94,
     635,
     399,
+    3188,
     1171,
     22,
     640,
@@ -188,12 +190,13 @@
     37,
     31,
     29,
-    1004,
     5,
     267,
+    1004,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "5": "recurrent",
@@ -223,7 +226,10 @@
     "1054": "core",
     "1171": "core",
     "1818": "defining",
-    "1822": "core"
+    "1822": "core",
+    "3188": "core",
+    "4781": "recurrent",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 12609,
@@ -232,10 +238,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.5941,
-    "fanRatioPercentile": 62.8736,
-    "popularityPercentile": 98.6187,
-    "fanFavouriteDiscoveryScore": 62.784,
-    "fanFavouriteDiscoveryPercentile": 70.5986
+    "fanRatioPercentile": 62.921,
+    "popularityPercentile": 98.6118,
+    "fanFavouriteDiscoveryScore": 62.8313,
+    "fanFavouriteDiscoveryPercentile": 70.6583
   },
   "context": {
     "primaryProfile": "game-system",

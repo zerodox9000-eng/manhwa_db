@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-06-10T15:38:01.911Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T08:24:53.402Z",
+  "last_updated_at": "2026-09-07T02:21:50.489Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,7 +79,7 @@
   "source": {
     "anilist": {
       "id": 106511,
-      "rating": 57,
+      "rating": 56,
       "url": "https://anilist.co/manga/106511"
     },
     "animeplanet": {
@@ -98,18 +98,22 @@
     248,
     8,
     123,
+    3060,
     59,
     2120,
     581,
     2688,
     595,
     336,
+    3223,
     874,
+    3246,
     312,
-    576,
-    661,
     20,
     163,
+    576,
+    661,
+    4144,
     522,
     46,
     448,
@@ -124,11 +128,13 @@
     776,
     1153,
     403,
+    3281,
     9,
     132,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "8": "defining",
@@ -165,19 +171,25 @@
     "874": "recurrent",
     "1153": "recurrent",
     "2120": "recurrent",
-    "2688": "recurrent"
+    "2688": "recurrent",
+    "3060": "recurrent",
+    "3223": "recurrent",
+    "3246": "recurrent",
+    "3281": "recurrent",
+    "4144": "defining",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 461,
     "favourites": 5,
-    "meanScore": 57
+    "meanScore": 56
   },
   "analytics": {
     "fanFavouriteRaw": 1.0846,
-    "fanRatioPercentile": 48.0816,
-    "popularityPercentile": 67.4852,
-    "fanFavouriteDiscoveryScore": 47.1796,
-    "fanFavouriteDiscoveryPercentile": 55.653
+    "fanRatioPercentile": 48.1844,
+    "popularityPercentile": 67.4801,
+    "fanFavouriteDiscoveryScore": 47.2801,
+    "fanFavouriteDiscoveryPercentile": 55.7098
   },
   "context": {
     "primaryProfile": "business-career-regression",

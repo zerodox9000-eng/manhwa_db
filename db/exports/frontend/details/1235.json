@@ -115,7 +115,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T18:39:39.490Z",
+  "last_updated_at": "2026-09-07T12:37:24.105Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -153,14 +153,16 @@
   "tag_ids": [
     38,
     419,
-    1818,
     58,
     67,
+    1818,
     74,
     1822,
     2865,
+    3190,
     36,
     261,
+    4166,
     395,
     160,
     39,
@@ -169,6 +171,7 @@
     93,
     57,
     428,
+    7332,
     121
   ],
   "tag_weights": {
@@ -181,28 +184,31 @@
     "67": "defining",
     "74": "unweighted",
     "93": "unweighted",
-    "121": "unweighted",
-    "160": "unweighted",
-    "227": "unweighted",
+    "121": "incidental",
+    "160": "incidental",
+    "227": "incidental",
     "261": "incidental",
     "395": "defining",
-    "419": "unweighted",
+    "419": "incidental",
     "428": "unweighted",
     "1818": "defining",
     "1822": "defining",
-    "2865": "defining"
+    "2865": "defining",
+    "3190": "defining",
+    "4166": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 2923,
+    "popularity": 2932,
     "favourites": 15,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 0.5132,
-    "fanRatioPercentile": 34.7804,
-    "popularityPercentile": 92.392,
-    "fanFavouriteDiscoveryScore": 34.6971,
-    "fanFavouriteDiscoveryPercentile": 38.1715
+    "fanFavouriteRaw": 0.5116,
+    "fanRatioPercentile": 34.7775,
+    "popularityPercentile": 92.4015,
+    "fanFavouriteDiscoveryScore": 34.6944,
+    "fanFavouriteDiscoveryPercentile": 38.1968
   },
   "context": {
     "primaryProfile": "kingdom-management",

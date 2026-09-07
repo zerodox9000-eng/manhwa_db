@@ -99,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T11:31:53.503Z",
+  "last_updated_at": "2026-09-07T06:14:04.288Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -133,11 +133,13 @@
     }
   },
   "tag_ids": [
-    2896,
     8,
-    362,
+    2896,
     58,
+    362,
     107,
+    4658,
+    4619,
     22,
     682,
     235,
@@ -148,13 +150,16 @@
     18,
     227,
     42,
+    3734,
     19,
     26,
+    3743,
     93,
     111,
     115,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "8": "defining",
@@ -178,19 +183,24 @@
     "421": "incidental",
     "428": "unweighted",
     "682": "unweighted",
-    "2896": "unweighted"
+    "2896": "core",
+    "3734": "defining",
+    "3743": "core",
+    "4619": "defining",
+    "4658": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1777,
+    "popularity": 1779,
     "favourites": 26,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4631,
-    "fanRatioPercentile": 59.1464,
-    "popularityPercentile": 87.9266,
-    "fanFavouriteDiscoveryScore": 58.9412,
-    "fanFavouriteDiscoveryPercentile": 66.7105
+    "fanFavouriteRaw": 1.4615,
+    "fanRatioPercentile": 59.2022,
+    "popularityPercentile": 87.9155,
+    "fanFavouriteDiscoveryScore": 58.9966,
+    "fanFavouriteDiscoveryPercentile": 66.786
   },
   "context": {
     "primaryProfile": "horror-survival",

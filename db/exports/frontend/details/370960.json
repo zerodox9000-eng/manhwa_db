@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-05T15:26:16.865Z",
+  "last_updated_at": "2026-09-07T16:18:48.543Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -83,7 +83,7 @@
   "source": {
     "anilist": {
       "id": 198284,
-      "rating": 53,
+      "rating": 54,
       "url": "https://anilist.co/manga/198284"
     },
     "animeplanet": {
@@ -100,13 +100,20 @@
   "tag_ids": [
     1006,
     517,
+    3911,
+    3680,
+    4049,
+    3804,
+    3242,
     449,
+    3014,
     648,
     1086,
     842,
     280,
     516,
     600,
+    4520,
     14,
     41,
     95,
@@ -121,6 +128,7 @@
     93,
     57,
     428,
+    7332,
     1128,
     2058
   ],
@@ -149,19 +157,27 @@
     "1006": "defining",
     "1086": "defining",
     "1128": "unweighted",
-    "2058": "unweighted"
+    "2058": "unweighted",
+    "3014": "defining",
+    "3242": "defining",
+    "3680": "defining",
+    "3804": "defining",
+    "3911": "defining",
+    "4049": "core",
+    "4520": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 499,
+    "popularity": 503,
     "favourites": 6,
-    "meanScore": 53
+    "meanScore": 54
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2024,
-    "fanRatioPercentile": 51.4653,
-    "popularityPercentile": 68.9103,
-    "fanFavouriteDiscoveryScore": 50.6062,
-    "fanFavouriteDiscoveryPercentile": 58.686
+    "fanFavouriteRaw": 1.1928,
+    "fanRatioPercentile": 51.2165,
+    "popularityPercentile": 69.0144,
+    "fanFavouriteDiscoveryScore": 50.3687,
+    "fanFavouriteDiscoveryPercentile": 58.5081
   },
   "context": {
     "primaryProfile": "regression-return",
