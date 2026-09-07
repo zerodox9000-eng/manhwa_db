@@ -7,7 +7,11 @@ const { GraphQLClient, gql } = require("graphql-request");
 const INPUT_DIR = path.resolve(__dirname, "../../db/processed/by-year");
 const OUTPUT_DIR = path.resolve(__dirname, "../../db/enriched/anilist");
 const PERMANENT_MISSING_FILE = path.resolve(__dirname, "../../db/curation/anilist-permanent-missing.json");
-const client = new GraphQLClient("https://graphql.anilist.co");
+const client = new GraphQLClient("https://graphql.anilist.co", {
+  headers: {
+    referer: "https://github.com/zerodox9000-eng/manhwa_db",
+  },
+});
 // AniList's current query-complexity ceiling permits 100 of these Media lookups.
 const BATCH_SIZES = [100, 50, 10, 3, 1];
 const REQUEST_DELAYS = [2200, 3000, 5000, 8000, 8000];
@@ -180,7 +184,10 @@ async function enrichAdaptive(batch, year, level = 0) {
 async function processFile(file, stagingDir) {
   const year = file.replace(".series.json", "");
   const data = JSON.parse(fs.readFileSync(path.join(INPUT_DIR, file), "utf8"));
-  const expected = data.filter(entry => entry.source?.anilist?.id);
+  const expected = data.filter((entry) => {
+    const anilistId = Number(entry.source?.anilist?.id);
+    return Number.isSafeInteger(anilistId) && anilistId > 0;
+  });
 
   console.log(`Processing ${file}`);
   console.log(`AniList entries: ${expected.length}`);
