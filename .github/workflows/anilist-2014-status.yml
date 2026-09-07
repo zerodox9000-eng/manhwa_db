@@ -1,0 +1,29 @@
+name: AniList 2014 Status Check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: backend
+
+    steps:
+      - name: Checkout backend
+        uses: actions/checkout@v5
+        with:
+          path: backend
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Check AniList 2014 batches
+        run: node scripts/health/checkAniListYear.mjs
