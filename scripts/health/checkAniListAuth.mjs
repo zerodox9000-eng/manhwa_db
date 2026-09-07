@@ -1,5 +1,16 @@
 const endpoint = "https://graphql.anilist.co";
 
+function errorSummary(payload) {
+  if (!Array.isArray(payload?.errors)) return "";
+
+  const details = payload.errors.slice(0, 3).map((error) => ({
+    status: Number.isFinite(Number(error?.status)) ? Number(error.status) : null,
+    message: String(error?.message || "Unknown AniList error").slice(0, 200),
+  }));
+
+  return ` ${JSON.stringify(details)}`;
+}
+
 async function main() {
   const token = String(process.env.ANILIST_ACCESS_TOKEN || "").trim();
 
@@ -38,11 +49,11 @@ async function main() {
   }
 
   if (response.status === 401 || response.status === 400) {
-    console.error("AniList auth check: INVALID_TOKEN_OR_REQUEST");
+    console.error(`AniList auth check: INVALID_TOKEN_OR_REQUEST${errorSummary(payload)}`);
   } else if (response.status === 403) {
-    console.error("AniList auth check: SERVICE_FORBIDDEN (AniList returned 403; this does not prove the token is invalid)");
+    console.error(`AniList auth check: SERVICE_FORBIDDEN (AniList returned 403; this does not prove the token is invalid)${errorSummary(payload)}`);
   } else {
-    console.error(`AniList auth check: FAILED_HTTP_${response.status}`);
+    console.error(`AniList auth check: FAILED_HTTP_${response.status}${errorSummary(payload)}`);
   }
 
   return 1;
