@@ -14,7 +14,12 @@ if (!fs.existsSync(inputFile)) {
 const entries = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 const ids = [...new Set(entries
   .map(entry => Number(entry?.source?.anilist?.id))
-  .filter(Number.isInteger))];
+  .filter(id => Number.isSafeInteger(id) && id > 0))];
+
+const requestHeaders = {
+  "content-type": "application/json",
+  referer: "https://github.com/zerodox9000-eng/manhwa_db",
+};
 
 function buildQuery(batch) {
   const fields = batch.map((id, index) => `
@@ -37,7 +42,7 @@ console.log(`AniList ${year} status check: ${ids.length} unique Manga ID(s), ano
 let completed = 0;
 for (let start = 0; start < ids.length; start += 100) {
   const batch = ids.slice(start, start + 100);
-  const headers = { "content-type": "application/json" };
+  const headers = { ...requestHeaders };
   if (token) headers.authorization = `Bearer ${token}`;
 
   let response;
