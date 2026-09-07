@@ -1,0 +1,31 @@
+name: AniList Auth Check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      ANILIST_ACCESS_TOKEN: ${{ secrets.ANILIST_ACCESS_TOKEN }}
+
+    steps:
+      - name: Checkout backend
+        uses: actions/checkout@v5
+        with:
+          path: backend
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Check AniList authentication
+        run: node scripts/health/checkAniListAuth.mjs
