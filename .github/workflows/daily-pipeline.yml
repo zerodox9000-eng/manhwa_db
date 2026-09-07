@@ -72,7 +72,6 @@ jobs:
 
       - name: Run Daily Pipeline
         env:
-          ANILIST_ACCESS_TOKEN: ${{ secrets.ANILIST_ACCESS_TOKEN }}
           FRONTEND_WEEKLY_ONLY: "1"
         run: npm run daily:incremental
 

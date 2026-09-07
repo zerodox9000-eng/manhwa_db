@@ -7,17 +7,7 @@ const { GraphQLClient, gql } = require("graphql-request");
 const INPUT_DIR = path.resolve(__dirname, "../../db/processed/by-year");
 const OUTPUT_DIR = path.resolve(__dirname, "../../db/enriched/anilist");
 const PERMANENT_MISSING_FILE = path.resolve(__dirname, "../../db/curation/anilist-permanent-missing.json");
-const ANILIST_ACCESS_TOKEN = String(process.env.ANILIST_ACCESS_TOKEN || "").trim();
-
-if (!ANILIST_ACCESS_TOKEN) {
-  throw new Error("ANILIST_ACCESS_TOKEN is required for AniList refreshes");
-}
-
-const client = new GraphQLClient("https://graphql.anilist.co", {
-  headers: {
-    Authorization: `Bearer ${ANILIST_ACCESS_TOKEN}`,
-  },
-});
+const client = new GraphQLClient("https://graphql.anilist.co");
 // AniList's current query-complexity ceiling permits 100 of these Media lookups.
 const BATCH_SIZES = [100, 50, 10, 3, 1];
 const REQUEST_DELAYS = [2200, 3000, 5000, 8000, 8000];
