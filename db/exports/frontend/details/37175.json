@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Sizzling Chop Chop",
-  "mangabaka_title": "Sizzling Chop Chop",
-  "native_title": "보글보글 챱챱",
-  "romanized_title": null,
+  "mangabaka_title": "Bogeulbogeul Chabchab",
+  "native_title": "보글보글챱챱",
+  "romanized_title": "Bogeulbogeul Chabchab",
   "titles": [
     {
       "language": "ko",
       "title": "보글보글챱챱",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bogeulbogeul Chabchab",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,26 +33,26 @@
       "note": null
     }
   ],
-  "description": "Eat, eat, eat, eat, eat, eat, eat, eat, eat, eat... We will eat delicious food well ♡ (Ah, I'm glad I'm alive!!!)\n\nA delicious mouthful that will fill your everyday with happiness!\n\n[Original Webtoon](https://page.kakao.com/home/52952958)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3NpenpsaW5nLWNob3AtY2hvcC0xLmpwZz90PTE2MjU5MzExMDg",
-  "total_chapters": "71",
+  "description": "Eat, eat, eat, eat, eat, eat, eat, eat, eat, eat... We will eat delicious food well ♡ (Ah, I'm glad I'm alive!!!)\n\nA delicious mouthful that will fill your everyday with happiness!",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEyMjA5OS1pUjlxeTNPbDRHT0gucG5n",
+  "total_chapters": "78",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
-  "year": 2019,
+  "year": 2014,
   "published": {
-    "start_date": "2019-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2014-06-30",
+    "end_date": "2016-04-11",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
-  "first_seen_at": "2026-06-10T15:41:08.379Z",
-  "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-23T07:32:52.798Z",
+  "first_seen_at": "2026-06-16T06:06:11.189Z",
+  "first_seen_at_is_trusted": true,
+  "last_updated_at": "2026-08-31T12:46:12.928Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "CheomJi"
+    "Cheomji"
   ],
   "artists": [
     "Cheomji"
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 122099,
+      "rating": 60,
+      "url": "https://anilist.co/manga/122099"
+    },
     "animeplanet": {
       "id": "sizzling-chop-chop",
       "rating": null,
@@ -65,12 +80,31 @@
     }
   },
   "tag_ids": [
+    669,
+    333,
+    257,
+    6,
     991,
+    2,
     7,
     93,
     57,
-    428
+    428,
+    7332
   ],
+  "tag_weights": {
+    "2": "defining",
+    "6": "defining",
+    "7": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "257": "defining",
+    "333": "defining",
+    "428": "unweighted",
+    "669": "unweighted",
+    "991": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": 44,
     "favourites": null,

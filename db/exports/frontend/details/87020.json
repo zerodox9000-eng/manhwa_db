@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Story That Comes to Mind",
-  "mangabaka_title": "A Story That Comes to Mind",
-  "native_title": "ふと思いついた物語",
-  "romanized_title": null,
+  "mangabaka_title": "Eojjeoda Saenggangnaneun Iyagi",
+  "native_title": "어쩌다 생각나는 이야기",
+  "romanized_title": "Eojjeoda Saenggangnaneun Iyagi",
   "titles": [
     {
       "language": "ko",
       "title": "어쩌다 생각나는 이야기",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Eojjeoda Saenggangnaneun Iyagi",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "ふと思いついた物語",
       "traits": [],
@@ -43,29 +54,29 @@
       "note": null
     }
   ],
-  "description": "If you're walking alone and you suddenly think of this story, you're going to be terrified by the power of the imagination you don't know.\n\n**Original Webtoon:**  \n[Onestory](https://onestory.co.kr/detail/H036947677), [Nate](https://toonnbook.nate.com/detail/H036947677), [KakaoPage](https://page.kakao.com/content/52617663), MeToon, [Mootoon](https://www.mootoon.co.kr/comic/moo_list.mg?tcode=0ihv), [Naver Series](https://series.naver.com/comic/detail.nhn?productNo=5161196), Tocsoda",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDAxNjM5LmpwZw",
+  "description": "If you happen to be walking alone and this story suddenly comes to mind, you’ll be overcome with fear by the power of your own imagination.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDg0NC1IYTBvb0Y3ZTJSM3IuanBn",
   "total_chapters": "56",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
-  "year": 2020,
+  "year": 2019,
   "published": {
-    "start_date": "2020-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2019-06-10",
+    "end_date": "2019-06-10",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
-  "first_seen_at": "2026-06-10T15:42:16.189Z",
-  "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-08-05T14:43:22.175Z",
+  "first_seen_at": "2026-08-09T02:38:32.752Z",
+  "first_seen_at_is_trusted": true,
+  "last_updated_at": "2026-08-31T08:36:17.697Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yangsu"
+    "Yang-Su"
   ],
   "artists": [
-    "Yangsu"
+    "Yang-Su"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/87020",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214844,
+      "rating": null,
+      "url": "https://anilist.co/manga/214844"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "27nbvdv",
@@ -83,10 +98,30 @@
   },
   "tag_ids": [
     8,
+    22,
+    229,
     39,
     31,
-    18
+    18,
+    19,
+    93,
+    115,
+    57,
+    428
   ],
+  "tag_weights": {
+    "8": "defining",
+    "18": "defining",
+    "19": "defining",
+    "22": "defining",
+    "31": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "115": "unweighted",
+    "229": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": 6,
     "favourites": null,

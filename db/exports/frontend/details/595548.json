@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Epilepsy Diary",
-  "mangabaka_title": "Epilepsy Diary",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Noejeonjeung Ilgi",
+  "native_title": "뇌전증 일기",
+  "romanized_title": "Noejeonjeung Ilgi",
   "titles": [
     {
       "language": "ko",
       "title": "뇌전증 일기",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,31 +22,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Noejeonjeung Ilgi",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/69521798), [Daum](https://webtoon.kakao.com/content/%EB%87%8C%EC%A0%84%EC%A6%9D-%EC%9D%BC%EA%B8%B0/4884)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMwOTU4LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "I’ve heard of epilepsy, but epilepsy?\n\nAs a second-year middle school student in a rural town, during a time when I was at my most sensitive, epilepsy, an unwelcome guest, suddenly arrived. Plagued by a barrage of medication side effects, and branded with the label “the kid who has seizures,” I had to live my days surrounded by misunderstanding and prejudice. \n\nA chaotic, headlong account of my battle with epilepsy, as I navigate daily life while facing this unfamiliar disease! (With a bit of information thrown in, though).\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDEyNC1qRnlyZUFPbUtZbm0uanBn",
+  "total_chapters": "18",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
-  "year": 2026,
+  "year": 2023,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-03-31",
+    "end_date": "2023-03-31",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
-  "first_seen_at": "2026-07-02T04:54:10.400Z",
+  "first_seen_at": "2026-07-17T03:57:45.192Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-07-01T16:06:57.647Z",
+  "last_updated_at": "2026-09-04T12:09:20.537Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Owl Prescription"
+    "Bueongicheobangjeon"
   ],
   "artists": [
-    "Owl Prescription"
+    "Bueongicheobangjeon"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/595548",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214124,
+      "rating": null,
+      "url": "https://anilist.co/manga/214124"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1zi6hr0",
@@ -62,9 +77,20 @@
   },
   "tag_ids": [
     8,
+    508,
     31,
-    18
+    18,
+    7,
+    57
   ],
+  "tag_weights": {
+    "7": "defining",
+    "8": "defining",
+    "18": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "508": "incidental"
+  },
   "stats": {
     "popularity": 4,
     "favourites": null,
