@@ -11,6 +11,7 @@ const {
   loadTitleDisplayOverrides,
 } = require("./titleDisplayOverrides");
 const { writeUpdatesExport } = require("./buildUpdatesExport");
+const { selectCanonicalSeries } = require("./selectCanonicalSeries");
 const { firstSeenDate, updateFirstSeenState } = require("../history/firstSeenState");
 const { updatePopularityMilestoneState } = require("../history/popularityMilestoneState");
 
@@ -109,9 +110,6 @@ function percentileRank(
     low / sorted.length
   ) * 100;
 }
-
-const seriesTagIds = new Map();
-const seriesTagWeights = new Map();
 
 const TEXT_STOPWORDS = new Set([
   "a", "about", "after", "again", "all", "also", "an", "and", "are", "as", "at", "back", "be", "been", "but", "by",
@@ -439,10 +437,16 @@ function buildRecommendationFeature(entry, tagDocumentCounts, textDocumentFreque
 
 
 
+const tagRowsByKey = new Map();
+
 const tagFiles =
-  fs.readdirSync(TAGS_DIR);
+  fs.readdirSync(TAGS_DIR)
+    .filter((file) => file.endsWith(".tags.json"))
+    .sort();
 
 for (const file of tagFiles) {
+
+  const sourceKey = file.replace(/\.tags\.json$/, "");
 
   const data =
     readJson(
@@ -487,24 +491,26 @@ for (const file of tagFiles) {
       }
     }
 
-    seriesTagIds.set(
-      entry.id,
-      ids
-    );
-
-    seriesTagWeights.set(
-      entry.id,
-      weights
-    );
+    tagRowsByKey.set(`${sourceKey}:${entry.id}`, {
+      ids,
+      weights,
+      sourceFile: file,
+    });
   }
 }
 
 
 
+const seriesRows = [];
+
 const seriesFiles =
-  fs.readdirSync(SERIES_DIR);
+  fs.readdirSync(SERIES_DIR)
+    .filter((file) => file.endsWith(".series.json"))
+    .sort();
 
 for (const file of seriesFiles) {
+
+  const sourceKey = file.replace(/\.series\.json$/, "");
 
   const data =
     readJson(
@@ -512,6 +518,27 @@ for (const file of seriesFiles) {
     );
 
   for (const entry of data) {
+
+    seriesRows.push({
+      entry,
+      sourceKey,
+      sourceFile: file,
+    });
+  }
+}
+
+const {
+  selected: canonicalSeriesRows,
+  resolvedDuplicates: duplicateSeriesResolved,
+  quarantined: duplicateSeriesQuarantine,
+} = selectCanonicalSeries(seriesRows);
+
+for (const row of canonicalSeriesRows) {
+
+    const { entry, sourceKey } = row;
+    const tagRecord = tagRowsByKey.get(`${sourceKey}:${entry.id}`);
+    const tagIds = tagRecord?.ids || [];
+    const tagWeights = tagRecord?.weights || {};
 
     const displayTitle = applyTitleDisplayOverride(entry, titleDisplayOverrides);
 
@@ -594,10 +621,10 @@ for (const file of seriesFiles) {
         entry.source || {},
 
       tag_ids:
-        seriesTagIds.get(entry.id) || [],
+        tagIds,
 
-      ...(entry.source?.anilist?.id != null && Object.keys(seriesTagWeights.get(entry.id) || {}).length > 0
-        ? { tag_weights: seriesTagWeights.get(entry.id) }
+      ...(entry.source?.anilist?.id != null && Object.keys(tagWeights).length > 0
+        ? { tag_weights: tagWeights }
         : {}),
 
       stats: {
@@ -618,7 +645,6 @@ for (const file of seriesFiles) {
         fanFavouritePercentile: null
       }
     });
-  }
 }
 
 
@@ -1292,6 +1318,33 @@ fs.mkdirSync(
   ),
   { recursive: true }
 );
+
+for (const duplicate of duplicateSeriesQuarantine) {
+  fs.rmSync(
+    path.join(EXPORT_DIR, `details/${duplicate.id}.json`),
+    { force: true }
+  );
+}
+
+fs.mkdirSync(path.join(EXPORT_DIR, "meta"), { recursive: true });
+fs.writeFileSync(
+  path.join(EXPORT_DIR, "meta/duplicate-series-quarantine.json"),
+  JSON.stringify(
+    {
+      generated_at: new Date().toISOString(),
+      resolved_duplicates: duplicateSeriesResolved,
+      quarantined_duplicates: duplicateSeriesQuarantine,
+    },
+    null,
+    2
+  )
+);
+
+if (duplicateSeriesResolved.length > 0 || duplicateSeriesQuarantine.length > 0) {
+  console.log(
+    `Duplicate series IDs: ${duplicateSeriesResolved.length} resolved, ${duplicateSeriesQuarantine.length} quarantined.`
+  );
+}
 
 const tagsExport = Object.fromEntries(tagMap);
 
