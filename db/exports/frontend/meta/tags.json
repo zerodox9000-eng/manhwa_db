@@ -943,6 +943,14 @@
     "parent_id": 127,
     "level": 3
   },
+  "129": {
+    "id": 129,
+    "name": "Period Piece",
+    "path": "Time Period > Period Piece",
+    "is_genre": false,
+    "parent_id": 1314,
+    "level": 2
+  },
   "130": {
     "id": 130,
     "name": "19th Century",
@@ -1234,10 +1242,10 @@
   "175": {
     "id": 175,
     "name": "Teachers",
-    "path": "Occupations > Teachers",
+    "path": "Occupations > Education > Teachers",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2905,
+    "level": 3
   },
   "176": {
     "id": 176,
@@ -1706,10 +1714,10 @@
   "281": {
     "id": 281,
     "name": "Idols",
-    "path": "Occupations > Idols",
+    "path": "Occupations > Entertainment > Idols",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2917,
+    "level": 3
   },
   "282": {
     "id": 282,
@@ -1922,10 +1930,10 @@
   "312": {
     "id": 312,
     "name": "Office Lady",
-    "path": "Occupations > Office Lady",
+    "path": "Occupations > Administration > Office Lady",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7463,
+    "level": 3
   },
   "313": {
     "id": 313,
@@ -1938,10 +1946,10 @@
   "314": {
     "id": 314,
     "name": "Police",
-    "path": "Occupations > Police",
+    "path": "Occupations > Public Service > Police",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2911,
+    "level": 3
   },
   "315": {
     "id": 315,
@@ -1986,18 +1994,18 @@
   "322": {
     "id": 322,
     "name": "Idols (Male)",
-    "path": "Occupations > Idols > Idols (Male)",
+    "path": "Occupations > Entertainment > Idols > Idols (Male)",
     "is_genre": false,
     "parent_id": 281,
-    "level": 3
+    "level": 4
   },
   "323": {
     "id": 323,
     "name": "Idols (Female)",
-    "path": "Occupations > Idols > Idols (Female)",
+    "path": "Occupations > Entertainment > Idols > Idols (Female)",
     "is_genre": false,
     "parent_id": 281,
-    "level": 3
+    "level": 4
   },
   "324": {
     "id": 324,
@@ -2146,10 +2154,10 @@
   "345": {
     "id": 345,
     "name": "School Idols",
-    "path": "Occupations > Idols > School Idols",
+    "path": "Occupations > Entertainment > Idols > School Idols",
     "is_genre": false,
     "parent_id": 281,
-    "level": 3
+    "level": 4
   },
   "346": {
     "id": 346,
@@ -2794,10 +2802,10 @@
   "429": {
     "id": 429,
     "name": "Office Worker",
-    "path": "Occupations > Office Worker",
+    "path": "Occupations > Administration > Office Worker",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7463,
+    "level": 3
   },
   "431": {
     "id": 431,
@@ -3666,10 +3674,10 @@
   "578": {
     "id": 578,
     "name": "Knight",
-    "path": "Occupations > Knight",
+    "path": "Occupations > Court > Knight",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2915,
+    "level": 3
   },
   "579": {
     "id": 579,
@@ -3698,10 +3706,10 @@
   "582": {
     "id": 582,
     "name": "Swordsman",
-    "path": "Occupations > Swordsman",
+    "path": "Occupations > Warriors > Swordsman",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7465,
+    "level": 3
   },
   "583": {
     "id": 583,
@@ -3834,10 +3842,10 @@
   "599": {
     "id": 599,
     "name": "Nurse",
-    "path": "Occupations > Nurse",
+    "path": "Occupations > Healthcare > Nurse",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2903,
+    "level": 3
   },
   "600": {
     "id": 600,
@@ -3978,10 +3986,10 @@
   "617": {
     "id": 617,
     "name": "Swordswoman",
-    "path": "Occupations > Swordswoman",
+    "path": "Occupations > Warriors > Swordswoman",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7465,
+    "level": 3
   },
   "618": {
     "id": 618,
@@ -4026,10 +4034,10 @@
   "623": {
     "id": 623,
     "name": "Soldier",
-    "path": "Occupations > Soldier",
+    "path": "Occupations > Armed Forces > Soldier",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2913,
+    "level": 3
   },
   "624": {
     "id": 624,
@@ -4058,10 +4066,10 @@
   "627": {
     "id": 627,
     "name": "Celebrity",
-    "path": "Occupations > Celebrity",
+    "path": "Occupations > Performers > Celebrity",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7470,
+    "level": 3
   },
   "628": {
     "id": 628,
@@ -4418,10 +4426,10 @@
   "672": {
     "id": 672,
     "name": "Part-Time Job",
-    "path": "Occupations > Part-Time Job",
+    "path": "Occupations > Laborers > Part-Time Job",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "673": {
     "id": 673,
@@ -4522,10 +4530,10 @@
   "685": {
     "id": 685,
     "name": "Comic Artist",
-    "path": "Occupations > Comic Artist",
+    "path": "Occupations > Creative Arts > Comic Artist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2908,
+    "level": 3
   },
   "686": {
     "id": 686,
@@ -4538,18 +4546,18 @@
   "687": {
     "id": 687,
     "name": "Adventurers",
-    "path": "Occupations > Adventurers",
+    "path": "Occupations > Explorers > Adventurers",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7464,
+    "level": 3
   },
   "688": {
     "id": 688,
     "name": "Martial Artist",
-    "path": "Occupations > Martial Artist",
+    "path": "Occupations > Warriors > Martial Artist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7465,
+    "level": 3
   },
   "689": {
     "id": 689,
@@ -4682,10 +4690,10 @@
   "705": {
     "id": 705,
     "name": "Pirates",
-    "path": "Occupations > Pirates",
+    "path": "Occupations > Criminals > Pirates",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7335,
+    "level": 3
   },
   "706": {
     "id": 706,
@@ -4703,21 +4711,13 @@
     "parent_id": 539,
     "level": 2
   },
-  "708": {
-    "id": 708,
-    "name": "Terrorism",
-    "path": "Themes > Terrorism",
-    "is_genre": false,
-    "parent_id": 542,
-    "level": 2
-  },
   "709": {
     "id": 709,
     "name": "Homeless",
-    "path": "Occupations > Homeless",
+    "path": "Character Types > Outcasts > Homeless",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7481,
+    "level": 3
   },
   "710": {
     "id": 710,
@@ -5183,14 +5183,6 @@
     "parent_id": 45,
     "level": 4
   },
-  "770": {
-    "id": 770,
-    "name": "France",
-    "path": "Locations > France",
-    "is_genre": false,
-    "parent_id": 535,
-    "level": 2
-  },
   "771": {
     "id": 771,
     "name": "Medieval European Ambience",
@@ -5618,9 +5610,9 @@
   "839": {
     "id": 839,
     "name": "Child Abuse",
-    "path": "Themes > Child Abuse",
+    "path": "Sexual Content > Child Abuse",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 565,
     "level": 2
   },
   "840": {
@@ -6610,9 +6602,9 @@
   "1037": {
     "id": 1037,
     "name": "Sexual Abuse",
-    "path": "Themes > Sexual Abuse",
+    "path": "Sexual Content > Sexual Abuse",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 565,
     "level": 2
   },
   "1038": {
@@ -6906,10 +6898,10 @@
   "1076": {
     "id": 1076,
     "name": "Female Knight",
-    "path": "Occupations > Knight > Female Knight",
+    "path": "Occupations > Court > Knight > Female Knight",
     "is_genre": false,
     "parent_id": 578,
-    "level": 3
+    "level": 4
   },
   "1078": {
     "id": 1078,
@@ -7290,10 +7282,10 @@
   "1139": {
     "id": 1139,
     "name": "Scientist",
-    "path": "Occupations > Scientist",
+    "path": "Occupations > Scholars > Scientist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7467,
+    "level": 3
   },
   "1140": {
     "id": 1140,
@@ -7322,10 +7314,10 @@
   "1147": {
     "id": 1147,
     "name": "Craftsman",
-    "path": "Occupations > Craftsman",
+    "path": "Occupations > Artisans > Craftsman",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7466,
+    "level": 3
   },
   "1148": {
     "id": 1148,
@@ -7586,18 +7578,18 @@
   "1185": {
     "id": 1185,
     "name": "Heir",
-    "path": "Occupations > Heir",
+    "path": "Occupations > Heirs > Heir",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7476,
+    "level": 3
   },
   "1186": {
     "id": 1186,
     "name": "Servant",
-    "path": "Occupations > Servant",
+    "path": "Occupations > Service Staff > Servant",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7339,
+    "level": 3
   },
   "1187": {
     "id": 1187,
@@ -11378,10 +11370,10 @@
   "1847": {
     "id": 1847,
     "name": "Astronauts",
-    "path": "Occupations > Astronauts",
+    "path": "Occupations > Explorers > Astronauts",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7464,
+    "level": 3
   },
   "1848": {
     "id": 1848,
@@ -11522,10 +11514,10 @@
   "1868": {
     "id": 1868,
     "name": "Fighters",
-    "path": "Occupations > Fighters",
+    "path": "Occupations > Warriors > Fighters",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7465,
+    "level": 3
   },
   "1870": {
     "id": 1870,
@@ -11555,14 +11547,6 @@
     "id": 1873,
     "name": "Tournaments",
     "path": "Activities > Tournaments",
-    "is_genre": false,
-    "parent_id": 537,
-    "level": 2
-  },
-  "1874": {
-    "id": 1874,
-    "name": "High Stakes Games",
-    "path": "Activities > High Stakes Games",
     "is_genre": false,
     "parent_id": 537,
     "level": 2
@@ -11666,10 +11650,10 @@
   "1890": {
     "id": 1890,
     "name": "Directors",
-    "path": "Occupations > Directors",
+    "path": "Occupations > Performers > Directors",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7470,
+    "level": 3
   },
   "1891": {
     "id": 1891,
@@ -11682,10 +11666,10 @@
   "1892": {
     "id": 1892,
     "name": "Film Directors",
-    "path": "Occupations > Film Directors",
+    "path": "Occupations > Performers > Film Directors",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7470,
+    "level": 3
   },
   "1893": {
     "id": 1893,
@@ -11698,18 +11682,18 @@
   "1894": {
     "id": 1894,
     "name": "Novelist",
-    "path": "Occupations > Novelist",
+    "path": "Occupations > Creative Arts > Novelist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2908,
+    "level": 3
   },
   "1895": {
     "id": 1895,
     "name": "Erotic Novelist",
-    "path": "Occupations > Novelist > Erotic Novelist",
+    "path": "Occupations > Creative Arts > Novelist > Erotic Novelist",
     "is_genre": false,
     "parent_id": 1894,
-    "level": 3
+    "level": 4
   },
   "1898": {
     "id": 1898,
@@ -12010,9 +11994,9 @@
   "1940": {
     "id": 1940,
     "name": "Incest as a Subplot",
-    "path": "Themes > Incest as a Subplot",
+    "path": "Sexual Content > Incest as a Subplot",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 565,
     "level": 2
   },
   "1941": {
@@ -12762,18 +12746,18 @@
   "2044": {
     "id": 2044,
     "name": "Loyal Servant",
-    "path": "Occupations > Servant > Loyal Servant",
+    "path": "Occupations > Service Staff > Servant > Loyal Servant",
     "is_genre": false,
     "parent_id": 1186,
-    "level": 3
+    "level": 4
   },
   "2045": {
     "id": 2045,
     "name": "High School Teacher",
-    "path": "Occupations > Teachers > High School Teacher",
+    "path": "Occupations > Education > Teachers > High School Teacher",
     "is_genre": false,
     "parent_id": 175,
-    "level": 3
+    "level": 4
   },
   "2046": {
     "id": 2046,
@@ -12978,10 +12962,10 @@
   "2079": {
     "id": 2079,
     "name": "Hospital Patient",
-    "path": "Occupations > Hospital Patient",
+    "path": "Character Types > Outcasts > Hospital Patient",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7481,
+    "level": 3
   },
   "2080": {
     "id": 2080,
@@ -13034,10 +13018,10 @@
   "2086": {
     "id": 2086,
     "name": "School Nurse",
-    "path": "Occupations > Nurse > School Nurse",
+    "path": "Occupations > Healthcare > Nurse > School Nurse",
     "is_genre": false,
     "parent_id": 599,
-    "level": 3
+    "level": 4
   },
   "2088": {
     "id": 2088,
@@ -13130,10 +13114,10 @@
   "2102": {
     "id": 2102,
     "name": "Dungeon Master",
-    "path": "Occupations > Dungeon Master",
+    "path": "Occupations > Masters > Dungeon Master",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7475,
+    "level": 3
   },
   "2103": {
     "id": 2103,
@@ -17922,18 +17906,18 @@
   "2772": {
     "id": 2772,
     "name": "Archers",
-    "path": "Occupations > Archers",
+    "path": "Occupations > Warriors > Archers",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7465,
+    "level": 3
   },
   "2773": {
     "id": 2773,
     "name": "Pilots",
-    "path": "Occupations > Pilots",
+    "path": "Occupations > Transportation > Pilots",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2918,
+    "level": 3
   },
   "2774": {
     "id": 2774,
@@ -17978,10 +17962,10 @@
   "2781": {
     "id": 2781,
     "name": "Producers",
-    "path": "Occupations > Producers",
+    "path": "Occupations > Performers > Producers",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7470,
+    "level": 3
   },
   "2782": {
     "id": 2782,
@@ -18082,18 +18066,18 @@
   "2802": {
     "id": 2802,
     "name": "Surgeons",
-    "path": "Occupations > Surgeons",
+    "path": "Occupations > Healthcare > Surgeons",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2903,
+    "level": 3
   },
   "2803": {
     "id": 2803,
     "name": "Plastic Surgeon",
-    "path": "Occupations > Surgeons > Plastic Surgeon",
+    "path": "Occupations > Healthcare > Surgeons > Plastic Surgeon",
     "is_genre": false,
     "parent_id": 2802,
-    "level": 3
+    "level": 4
   },
   "2804": {
     "id": 2804,
@@ -18106,10 +18090,10 @@
   "2805": {
     "id": 2805,
     "name": "Principals",
-    "path": "Occupations > Principals",
+    "path": "Occupations > Education > Principals",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2905,
+    "level": 3
   },
   "2807": {
     "id": 2807,
@@ -18130,10 +18114,10 @@
   "2809": {
     "id": 2809,
     "name": "Receptionist",
-    "path": "Occupations > Receptionist",
+    "path": "Occupations > Administration > Receptionist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7463,
+    "level": 3
   },
   "2810": {
     "id": 2810,
@@ -18162,10 +18146,10 @@
   "2813": {
     "id": 2813,
     "name": "Diplomats",
-    "path": "Occupations > Diplomats",
+    "path": "Occupations > Public Service > Diplomats",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2911,
+    "level": 3
   },
   "2814": {
     "id": 2814,
@@ -18210,10 +18194,10 @@
   "2820": {
     "id": 2820,
     "name": "Student Council President",
-    "path": "Occupations > Student Council President",
+    "path": "Occupations > Officials > Student Council President",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7471,
+    "level": 3
   },
   "2821": {
     "id": 2821,
@@ -18226,26 +18210,26 @@
   "2822": {
     "id": 2822,
     "name": "Policeman",
-    "path": "Occupations > Police > Policeman",
+    "path": "Occupations > Public Service > Police > Policeman",
     "is_genre": false,
     "parent_id": 314,
-    "level": 3
+    "level": 4
   },
   "2823": {
     "id": 2823,
     "name": "Policewoman",
-    "path": "Occupations > Police > Policewoman",
+    "path": "Occupations > Public Service > Police > Policewoman",
     "is_genre": false,
     "parent_id": 314,
-    "level": 3
+    "level": 4
   },
   "2824": {
     "id": 2824,
     "name": "Military Police",
-    "path": "Occupations > Police > Military Police",
+    "path": "Occupations > Public Service > Police > Military Police",
     "is_genre": false,
     "parent_id": 314,
-    "level": 3
+    "level": 4
   },
   "2825": {
     "id": 2825,
@@ -18474,18 +18458,18 @@
   "2860": {
     "id": 2860,
     "name": "Guild Master",
-    "path": "Occupations > Guild Master",
+    "path": "Occupations > Masters > Guild Master",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7475,
+    "level": 3
   },
   "2862": {
     "id": 2862,
     "name": "Monster/Beast Tamer",
-    "path": "Occupations > Monster/Beast Tamer",
+    "path": "Occupations > Keepers > Monster/Beast Tamer",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7477,
+    "level": 3
   },
   "2863": {
     "id": 2863,
@@ -18506,10 +18490,10 @@
   "2865": {
     "id": 2865,
     "name": "Disciple",
-    "path": "Occupations > Disciple",
+    "path": "Occupations > Disciples > Disciple",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7474,
+    "level": 3
   },
   "2866": {
     "id": 2866,
@@ -18522,18 +18506,18 @@
   "2867": {
     "id": 2867,
     "name": "Matchmakers",
-    "path": "Occupations > Matchmakers",
+    "path": "Occupations > Advisors > Matchmakers",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7472,
+    "level": 3
   },
   "2868": {
     "id": 2868,
     "name": "Wedding Planner",
-    "path": "Occupations > Wedding Planner",
+    "path": "Occupations > Hospitality > Wedding Planner",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2907,
+    "level": 3
   },
   "2869": {
     "id": 2869,
@@ -18546,10 +18530,10 @@
   "2870": {
     "id": 2870,
     "name": "Mortician",
-    "path": "Occupations > Mortician",
+    "path": "Occupations > Healthcare > Mortician",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2903,
+    "level": 3
   },
   "2872": {
     "id": 2872,
@@ -18674,9 +18658,9 @@
   "2890": {
     "id": 2890,
     "name": "Grooming",
-    "path": "Themes > Grooming",
+    "path": "Sexual Content > Grooming",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 565,
     "level": 2
   },
   "2891": {
@@ -18750,6 +18734,14 @@
     "is_genre": false,
     "parent_id": 538,
     "level": 2
+  },
+  "2929": {
+    "id": 2929,
+    "name": "Sealed Powers",
+    "path": "Themes > Super Powers > Sealed Powers",
+    "is_genre": false,
+    "parent_id": 236,
+    "level": 3
   },
   "2930": {
     "id": 2930,
@@ -19898,10 +19890,10 @@
   "3114": {
     "id": 3114,
     "name": "Warrior",
-    "path": "Occupations > Warrior",
+    "path": "Occupations > Warriors > Warrior",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7465,
+    "level": 3
   },
   "3115": {
     "id": 3115,
@@ -20022,6 +20014,14 @@
     "is_genre": false,
     "parent_id": 543,
     "level": 2
+  },
+  "3130": {
+    "id": 3130,
+    "name": "Housewife",
+    "path": "Occupations > Caregivers > Housewife",
+    "is_genre": false,
+    "parent_id": 7478,
+    "level": 3
   },
   "3131": {
     "id": 3131,
@@ -20911,14 +20911,6 @@
     "parent_id": 566,
     "level": 2
   },
-  "3250": {
-    "id": 3250,
-    "name": "Board Game",
-    "path": "Activities > Board Game",
-    "is_genre": false,
-    "parent_id": 537,
-    "level": 2
-  },
   "3251": {
     "id": 3251,
     "name": "Board Games",
@@ -21071,14 +21063,6 @@
     "parent_id": 2930,
     "level": 3
   },
-  "3271": {
-    "id": 3271,
-    "name": "Skeletons",
-    "path": "Species & Creatures > Skeletons",
-    "is_genre": false,
-    "parent_id": 545,
-    "level": 2
-  },
   "3272": {
     "id": 3272,
     "name": "Stepmother",
@@ -21162,10 +21146,10 @@
   "3282": {
     "id": 3282,
     "name": "Famous Character",
-    "path": "Occupations > Celebrity > Famous Character",
+    "path": "Occupations > Performers > Celebrity > Famous Character",
     "is_genre": false,
     "parent_id": 627,
-    "level": 3
+    "level": 4
   },
   "3283": {
     "id": 3283,
@@ -21357,14 +21341,6 @@
     "path": "Themes > Emotions > Grief",
     "is_genre": false,
     "parent_id": 2960,
-    "level": 3
-  },
-  "3307": {
-    "id": 3307,
-    "name": "Outcast",
-    "path": "Character Types > Supporting Cast > Outcast",
-    "is_genre": false,
-    "parent_id": 7326,
     "level": 3
   },
   "3308": {
@@ -21821,14 +21797,6 @@
     "path": "Character Traits > Spoiled Character",
     "is_genre": false,
     "parent_id": 543,
-    "level": 2
-  },
-  "3369": {
-    "id": 3369,
-    "name": "Undead",
-    "path": "Species & Creatures > Undead",
-    "is_genre": false,
-    "parent_id": 545,
     "level": 2
   },
   "3371": {
@@ -23079,14 +23047,6 @@
     "parent_id": 566,
     "level": 2
   },
-  "3536": {
-    "id": 3536,
-    "name": "World War Ii",
-    "path": "Time Period > Period Piece > Historical > World War Ii",
-    "is_genre": false,
-    "parent_id": 45,
-    "level": 4
-  },
   "3537": {
     "id": 3537,
     "name": "Animal Cruelty",
@@ -23213,6 +23173,14 @@
     "path": "Sexual Content > Rape By Lover",
     "is_genre": false,
     "parent_id": 565,
+    "level": 2
+  },
+  "3555": {
+    "id": 3555,
+    "name": "Rebellion",
+    "path": "Themes > Rebellion",
+    "is_genre": false,
+    "parent_id": 542,
     "level": 2
   },
   "3556": {
@@ -23634,10 +23602,10 @@
   "3611": {
     "id": 3611,
     "name": "Special Squad",
-    "path": "Occupations > Special Squad",
+    "path": "Occupations > Units > Special Squad",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7480,
+    "level": 3
   },
   "3612": {
     "id": 3612,
@@ -24114,10 +24082,10 @@
   "3673": {
     "id": 3673,
     "name": "Mad Scientist",
-    "path": "Occupations > Mad Scientist",
+    "path": "Occupations > Scholars > Mad Scientist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7467,
+    "level": 3
   },
   "3674": {
     "id": 3674,
@@ -24243,14 +24211,6 @@
     "id": 3690,
     "name": "Horse",
     "path": "Species & Creatures > Animals > Horse",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
-  },
-  "3691": {
-    "id": 3691,
-    "name": "Horses",
-    "path": "Species & Creatures > Animals > Horses",
     "is_genre": false,
     "parent_id": 278,
     "level": 3
@@ -24679,14 +24639,6 @@
     "parent_id": 18,
     "level": 3
   },
-  "3747": {
-    "id": 3747,
-    "name": "Sealed Power",
-    "path": "Themes > Super Powers > Sealed Power",
-    "is_genre": false,
-    "parent_id": 236,
-    "level": 3
-  },
   "3748": {
     "id": 3748,
     "name": "Aggressive Character",
@@ -24906,10 +24858,10 @@
   "3777": {
     "id": 3777,
     "name": "Villager",
-    "path": "Occupations > Villager",
+    "path": "Occupations > Explorers > Villager",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7464,
+    "level": 3
   },
   "3778": {
     "id": 3778,
@@ -25030,14 +24982,6 @@
     "is_genre": false,
     "parent_id": 279,
     "level": 4
-  },
-  "3793": {
-    "id": 3793,
-    "name": "Convenience Store",
-    "path": "Locations > Convenience Store",
-    "is_genre": false,
-    "parent_id": 535,
-    "level": 2
   },
   "3794": {
     "id": 3794,
@@ -25173,6 +25117,14 @@
     "path": "Themes > Advertisement",
     "is_genre": false,
     "parent_id": 542,
+    "level": 2
+  },
+  "3813": {
+    "id": 3813,
+    "name": "Card Battle",
+    "path": "Narrative Tropes > Card Battle",
+    "is_genre": false,
+    "parent_id": 563,
     "level": 2
   },
   "3814": {
@@ -27154,17 +27106,9 @@
   "4089": {
     "id": 4089,
     "name": "Shimaidon",
-    "path": "Themes > Shimaidon",
+    "path": "Sexual Content > Shimaidon",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
-  },
-  "4090": {
-    "id": 4090,
-    "name": "Two-Faced Character/s",
-    "path": "Character Traits > Two-Faced Character/s",
-    "is_genre": false,
-    "parent_id": 543,
+    "parent_id": 565,
     "level": 2
   },
   "4091": {
@@ -27426,10 +27370,10 @@
   "4127": {
     "id": 4127,
     "name": "Construction Worker",
-    "path": "Occupations > Construction Worker",
+    "path": "Occupations > Laborers > Construction Worker",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "4128": {
     "id": 4128,
@@ -27618,10 +27562,10 @@
   "4153": {
     "id": 4153,
     "name": "Civil Servant",
-    "path": "Occupations > Civil Servant",
+    "path": "Occupations > Officials > Civil Servant",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7471,
+    "level": 3
   },
   "4154": {
     "id": 4154,
@@ -28471,8 +28415,8 @@
     "parent_id": 2104,
     "level": 3
   },
-  "4271": {
-    "id": 4271,
+  "4270": {
+    "id": 4270,
     "name": "Novel Industry",
     "path": "Themes > Entertainment Industry > Novel Industry",
     "is_genre": false,
@@ -28518,14 +28462,6 @@
     "is_genre": false,
     "parent_id": 2921,
     "level": 4
-  },
-  "4277": {
-    "id": 4277,
-    "name": "Slimes",
-    "path": "Species & Creatures > Monsters > Slimes",
-    "is_genre": false,
-    "parent_id": 395,
-    "level": 3
   },
   "4278": {
     "id": 4278,
@@ -28618,10 +28554,10 @@
   "4293": {
     "id": 4293,
     "name": "OFL",
-    "path": "Themes > OFL",
+    "path": "Work Info > Publication Origin > OFL",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 1229,
+    "level": 3
   },
   "4294": {
     "id": 4294,
@@ -28829,14 +28765,6 @@
     "path": "Relationship > Bad Friend",
     "is_genre": false,
     "parent_id": 566,
-    "level": 2
-  },
-  "4323": {
-    "id": 4323,
-    "name": "Card Battles",
-    "path": "Narrative Tropes > Card Battles",
-    "is_genre": false,
-    "parent_id": 563,
     "level": 2
   },
   "4325": {
@@ -29090,10 +29018,10 @@
   "4363": {
     "id": 4363,
     "name": "Painter",
-    "path": "Occupations > Painter",
+    "path": "Occupations > Creative Arts > Painter",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2908,
+    "level": 3
   },
   "4364": {
     "id": 4364,
@@ -29242,10 +29170,10 @@
   "4386": {
     "id": 4386,
     "name": "Night-Life Worker",
-    "path": "Occupations > Night-Life Worker",
+    "path": "Occupations > Laborers > Night-Life Worker",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "4387": {
     "id": 4387,
@@ -29434,10 +29362,10 @@
   "4418": {
     "id": 4418,
     "name": "Worker",
-    "path": "Occupations > Worker",
+    "path": "Occupations > Laborers > Worker",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "4419": {
     "id": 4419,
@@ -29767,6 +29695,14 @@
     "parent_id": 542,
     "level": 2
   },
+  "4470": {
+    "id": 4470,
+    "name": "Mirror",
+    "path": "Objects > Mirror",
+    "is_genre": false,
+    "parent_id": 1071,
+    "level": 2
+  },
   "4472": {
     "id": 4472,
     "name": "Platonic Love",
@@ -30082,10 +30018,10 @@
   "4519": {
     "id": 4519,
     "name": "Guide",
-    "path": "Occupations > Guide",
+    "path": "Occupations > Laborers > Guide",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "4520": {
     "id": 4520,
@@ -30463,14 +30399,6 @@
     "parent_id": 545,
     "level": 2
   },
-  "4576": {
-    "id": 4576,
-    "name": "Genies",
-    "path": "Species & Creatures > Supernatural Beings > Genies",
-    "is_genre": false,
-    "parent_id": 546,
-    "level": 3
-  },
   "4577": {
     "id": 4577,
     "name": "Gymnastics",
@@ -30631,14 +30559,6 @@
     "parent_id": 7335,
     "level": 3
   },
-  "4601": {
-    "id": 4601,
-    "name": "First-Person Perspective",
-    "path": "Narrative Tropes > Storytelling Techniques > Multiple POVs > First-Person Perspective",
-    "is_genre": false,
-    "parent_id": 1172,
-    "level": 4
-  },
   "4602": {
     "id": 4602,
     "name": "Food Lure",
@@ -30682,10 +30602,10 @@
   "4608": {
     "id": 4608,
     "name": "Make-Up Artist",
-    "path": "Occupations > Make-Up Artist",
+    "path": "Occupations > Creative Arts > Make-Up Artist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2908,
+    "level": 3
   },
   "4609": {
     "id": 4609,
@@ -31074,10 +30994,10 @@
   "4671": {
     "id": 4671,
     "name": "Fellow Disciple",
-    "path": "Occupations > Fellow Disciple",
+    "path": "Occupations > Disciples > Fellow Disciple",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7474,
+    "level": 3
   },
   "4672": {
     "id": 4672,
@@ -31170,10 +31090,10 @@
   "4687": {
     "id": 4687,
     "name": "Prime Minister",
-    "path": "Occupations > Prime Minister",
+    "path": "Occupations > Court > Prime Minister",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2915,
+    "level": 3
   },
   "4688": {
     "id": 4688,
@@ -31362,10 +31282,10 @@
   "4717": {
     "id": 4717,
     "name": "Translator",
-    "path": "Occupations > Translator",
+    "path": "Occupations > Linguists > Translator",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7479,
+    "level": 3
   },
   "4719": {
     "id": 4719,
@@ -31414,22 +31334,6 @@
     "is_genre": false,
     "parent_id": 540,
     "level": 2
-  },
-  "4726": {
-    "id": 4726,
-    "name": "Fairytale",
-    "path": "Derivative Work > Based on > Based on Literature > Based on a Fairy Tale > Fairy Tale > Fairytale",
-    "is_genre": false,
-    "parent_id": 2052,
-    "level": 6
-  },
-  "4727": {
-    "id": 4727,
-    "name": "Fish",
-    "path": "Species & Creatures > Animals > Fish",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
   },
   "4728": {
     "id": 4728,
@@ -31674,10 +31578,10 @@
   "4768": {
     "id": 4768,
     "name": "OGL",
-    "path": "Themes > OGL",
+    "path": "Work Info > Publication Origin > OGL",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 1229,
+    "level": 3
   },
   "4770": {
     "id": 4770,
@@ -31978,10 +31882,10 @@
   "4822": {
     "id": 4822,
     "name": "Sage",
-    "path": "Occupations > Sage",
+    "path": "Occupations > Advisors > Sage",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7472,
+    "level": 3
   },
   "4824": {
     "id": 4824,
@@ -32090,10 +31994,10 @@
   "4838": {
     "id": 4838,
     "name": "Diplomacy",
-    "path": "Occupations > Diplomats > Diplomacy",
+    "path": "Occupations > Public Service > Diplomats > Diplomacy",
     "is_genre": false,
     "parent_id": 2813,
-    "level": 3
+    "level": 4
   },
   "4839": {
     "id": 4839,
@@ -33458,10 +33362,10 @@
   "5049": {
     "id": 5049,
     "name": "OSL",
-    "path": "Themes > OSL",
+    "path": "Work Info > Publication Origin > OSL",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 1229,
+    "level": 3
   },
   "5051": {
     "id": 5051,
@@ -33474,10 +33378,10 @@
   "5052": {
     "id": 5052,
     "name": "Private Investigator",
-    "path": "Occupations > Private Investigator",
+    "path": "Occupations > Investigators > Private Investigator",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7473,
+    "level": 3
   },
   "5053": {
     "id": 5053,
@@ -33485,14 +33389,6 @@
     "path": "Themes > Strategy Game > Puzzles",
     "is_genre": false,
     "parent_id": 354,
-    "level": 3
-  },
-  "5054": {
-    "id": 5054,
-    "name": "Rebellions",
-    "path": "Themes > Politics > Rebellions",
-    "is_genre": false,
-    "parent_id": 378,
     "level": 3
   },
   "5055": {
@@ -33871,14 +33767,6 @@
     "parent_id": 537,
     "level": 2
   },
-  "5110": {
-    "id": 5110,
-    "name": "Sharks",
-    "path": "Species & Creatures > Animals > Sharks",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
-  },
   "5111": {
     "id": 5111,
     "name": "Shark",
@@ -34058,9 +33946,9 @@
   "5138": {
     "id": 5138,
     "name": "Chikan",
-    "path": "Themes > Chikan",
+    "path": "Sexual Content > Chikan",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 565,
     "level": 2
   },
   "5139": {
@@ -34282,10 +34170,10 @@
   "5173": {
     "id": 5173,
     "name": "Tenant",
-    "path": "Occupations > Tenant",
+    "path": "Occupations > Administration > Tenant",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7463,
+    "level": 3
   },
   "5175": {
     "id": 5175,
@@ -34610,10 +34498,10 @@
   "5231": {
     "id": 5231,
     "name": "Dragon Rider",
-    "path": "Occupations > Dragon Rider",
+    "path": "Occupations > Warriors > Dragon Rider",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7465,
+    "level": 3
   },
   "5232": {
     "id": 5232,
@@ -35159,14 +35047,6 @@
     "parent_id": 278,
     "level": 3
   },
-  "5321": {
-    "id": 5321,
-    "name": "Chicken/s",
-    "path": "Species & Creatures > Animals > Chicken/s",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
-  },
   "5322": {
     "id": 5322,
     "name": "Cool Protagonist",
@@ -35178,10 +35058,10 @@
   "5323": {
     "id": 5323,
     "name": "Corporate Slave",
-    "path": "Occupations > Corporate Slave",
+    "path": "Occupations > Laborers > Corporate Slave",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "5324": {
     "id": 5324,
@@ -35250,10 +35130,10 @@
   "5333": {
     "id": 5333,
     "name": "Ex-Soldier",
-    "path": "Occupations > Soldier > Ex-Soldier",
+    "path": "Occupations > Armed Forces > Soldier > Ex-Soldier",
     "is_genre": false,
     "parent_id": 623,
-    "level": 3
+    "level": 4
   },
   "5334": {
     "id": 5334,
@@ -35474,10 +35354,10 @@
   "5367": {
     "id": 5367,
     "name": "School Doctor",
-    "path": "Occupations > School Doctor",
+    "path": "Occupations > Healthcare > School Doctor",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 2903,
+    "level": 3
   },
   "5368": {
     "id": 5368,
@@ -35674,10 +35554,10 @@
   "5403": {
     "id": 5403,
     "name": "Lost Heirs",
-    "path": "Occupations > Heir > Lost Heirs",
+    "path": "Occupations > Heirs > Heir > Lost Heirs",
     "is_genre": false,
     "parent_id": 1185,
-    "level": 3
+    "level": 4
   },
   "5406": {
     "id": 5406,
@@ -35746,10 +35626,10 @@
   "5415": {
     "id": 5415,
     "name": "Subordinates",
-    "path": "Occupations > Subordinates",
+    "path": "Occupations > Administration > Subordinates",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7463,
+    "level": 3
   },
   "5416": {
     "id": 5416,
@@ -36255,14 +36135,6 @@
     "parent_id": 278,
     "level": 3
   },
-  "5505": {
-    "id": 5505,
-    "name": "Dolphin/s",
-    "path": "Species & Creatures > Animals > Dolphin/s",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
-  },
   "5506": {
     "id": 5506,
     "name": "Erotic Eating",
@@ -36274,10 +36146,10 @@
   "5507": {
     "id": 5507,
     "name": "Ex-Idol",
-    "path": "Occupations > Idols > Ex-Idol",
+    "path": "Occupations > Entertainment > Idols > Ex-Idol",
     "is_genre": false,
     "parent_id": 281,
-    "level": 3
+    "level": 4
   },
   "5508": {
     "id": 5508,
@@ -36341,14 +36213,6 @@
     "path": "Character Archetype > Muse",
     "is_genre": false,
     "parent_id": 540,
-    "level": 2
-  },
-  "5520": {
-    "id": 5520,
-    "name": "Mysterious Benefactor",
-    "path": "Character Types > Mysterious Benefactor",
-    "is_genre": false,
-    "parent_id": 544,
     "level": 2
   },
   "5521": {
@@ -36898,10 +36762,10 @@
   "5610": {
     "id": 5610,
     "name": "Witch Hunter",
-    "path": "Occupations > Witch Hunter",
+    "path": "Occupations > Hunters > Witch Hunter",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7331,
+    "level": 3
   },
   "5611": {
     "id": 5611,
@@ -36978,10 +36842,10 @@
   "5625": {
     "id": 5625,
     "name": "Consultant",
-    "path": "Occupations > Consultant",
+    "path": "Occupations > Advisors > Consultant",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7472,
+    "level": 3
   },
   "5628": {
     "id": 5628,
@@ -37935,18 +37799,10 @@
     "parent_id": 7325,
     "level": 3
   },
-  "5829": {
-    "id": 5829,
-    "name": "Petplay",
-    "path": "Sexual Content > Petplay",
-    "is_genre": false,
-    "parent_id": 565,
-    "level": 2
-  },
-  "5831": {
-    "id": 5831,
-    "name": "Pigeon/s",
-    "path": "Species & Creatures > Animals > Pigeon/s",
+  "5830": {
+    "id": 5830,
+    "name": "Pigeon",
+    "path": "Species & Creatures > Animals > Pigeon",
     "is_genre": false,
     "parent_id": 278,
     "level": 3
@@ -38047,14 +37903,6 @@
     "parent_id": 278,
     "level": 3
   },
-  "5855": {
-    "id": 5855,
-    "name": "Whales",
-    "path": "Species & Creatures > Animals > Whales",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
-  },
   "5856": {
     "id": 5856,
     "name": "Writing Language",
@@ -38091,14 +37939,6 @@
     "id": 5864,
     "name": "Attempted Reverse Rape",
     "path": "Sexual Content > Attempted Reverse Rape",
-    "is_genre": false,
-    "parent_id": 565,
-    "level": 2
-  },
-  "5866": {
-    "id": 5866,
-    "name": "Beastiality",
-    "path": "Sexual Content > Beastiality",
     "is_genre": false,
     "parent_id": 565,
     "level": 2
@@ -38639,10 +38479,10 @@
     "parent_id": 535,
     "level": 2
   },
-  "5972": {
-    "id": 5972,
-    "name": "Cows",
-    "path": "Species & Creatures > Animals > Cows",
+  "5971": {
+    "id": 5971,
+    "name": "Cow",
+    "path": "Species & Creatures > Animals > Cow",
     "is_genre": false,
     "parent_id": 278,
     "level": 3
@@ -38706,10 +38546,10 @@
   "5983": {
     "id": 5983,
     "name": "Employees",
-    "path": "Occupations > Employees",
+    "path": "Occupations > Laborers > Employees",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "5984": {
     "id": 5984,
@@ -38890,10 +38730,10 @@
   "6019": {
     "id": 6019,
     "name": "Military Officer",
-    "path": "Occupations > Military Officer",
+    "path": "Occupations > Officers > Military Officer",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7469,
+    "level": 3
   },
   "6020": {
     "id": 6020,
@@ -38959,12 +38799,28 @@
     "parent_id": 118,
     "level": 4
   },
+  "6033": {
+    "id": 6033,
+    "name": "Owls",
+    "path": "Species & Creatures > Animals > Owls",
+    "is_genre": false,
+    "parent_id": 278,
+    "level": 3
+  },
   "6034": {
     "id": 6034,
     "name": "Pansexual Character",
     "path": "Themes > LGBTQ+ > Pansexual Character",
     "is_genre": false,
     "parent_id": 326,
+    "level": 3
+  },
+  "6036": {
+    "id": 6036,
+    "name": "Polar Bears",
+    "path": "Species & Creatures > Animals > Polar Bears",
+    "is_genre": false,
+    "parent_id": 278,
     "level": 3
   },
   "6037": {
@@ -39042,10 +38898,10 @@
   "6048": {
     "id": 6048,
     "name": "Secret Heir",
-    "path": "Occupations > Secret Heir",
+    "path": "Occupations > Heirs > Secret Heir",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7476,
+    "level": 3
   },
   "6049": {
     "id": 6049,
@@ -39170,10 +39026,10 @@
   "6075": {
     "id": 6075,
     "name": "Captain",
-    "path": "Occupations > Captain",
+    "path": "Occupations > Officers > Captain",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7469,
+    "level": 3
   },
   "6077": {
     "id": 6077,
@@ -39218,10 +39074,10 @@
   "6085": {
     "id": 6085,
     "name": "Corrupt Detective",
-    "path": "Occupations > Corrupt Detective",
+    "path": "Occupations > Investigators > Corrupt Detective",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7473,
+    "level": 3
   },
   "6086": {
     "id": 6086,
@@ -40143,6 +39999,14 @@
     "parent_id": 542,
     "level": 2
   },
+  "6276": {
+    "id": 6276,
+    "name": "Stutterer",
+    "path": "Character Traits > Stutterer",
+    "is_genre": false,
+    "parent_id": 543,
+    "level": 2
+  },
   "6277": {
     "id": 6277,
     "name": "Submissive Seme",
@@ -40210,10 +40074,10 @@
   "6291": {
     "id": 6291,
     "name": "Art Restorer",
-    "path": "Occupations > Art Restorer",
+    "path": "Occupations > Artisans > Art Restorer",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7466,
+    "level": 3
   },
   "6292": {
     "id": 6292,
@@ -40295,14 +40159,6 @@
     "parent_id": 2110,
     "level": 3
   },
-  "6311": {
-    "id": 6311,
-    "name": "Deer",
-    "path": "Species & Creatures > Animals > Deer",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
-  },
   "6312": {
     "id": 6312,
     "name": "Dishonest Character",
@@ -40378,10 +40234,10 @@
   "6327": {
     "id": 6327,
     "name": "Grave Robber",
-    "path": "Occupations > Grave Robber",
+    "path": "Occupations > Criminals > Grave Robber",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7335,
+    "level": 3
   },
   "6328": {
     "id": 6328,
@@ -40574,14 +40430,6 @@
     "is_genre": false,
     "parent_id": 118,
     "level": 4
-  },
-  "6362": {
-    "id": 6362,
-    "name": "Owl",
-    "path": "Species & Creatures > Animals > Owl",
-    "is_genre": false,
-    "parent_id": 278,
-    "level": 3
   },
   "6365": {
     "id": 6365,
@@ -41234,10 +41082,10 @@
   "6540": {
     "id": 6540,
     "name": "Administrator",
-    "path": "Occupations > Administrator",
+    "path": "Occupations > Administration > Administrator",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7463,
+    "level": 3
   },
   "6546": {
     "id": 6546,
@@ -41250,10 +41098,10 @@
   "6548": {
     "id": 6548,
     "name": "Art Collector",
-    "path": "Occupations > Art Collector",
+    "path": "Occupations > Artisans > Art Collector",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7466,
+    "level": 3
   },
   "6549": {
     "id": 6549,
@@ -41277,14 +41125,6 @@
     "path": "Character Traits > Bearded Character",
     "is_genre": false,
     "parent_id": 543,
-    "level": 2
-  },
-  "6555": {
-    "id": 6555,
-    "name": "Bet",
-    "path": "Activities > Bet",
-    "is_genre": false,
-    "parent_id": 537,
     "level": 2
   },
   "6556": {
@@ -42034,10 +41874,10 @@
   "6744": {
     "id": 6744,
     "name": "Freelancer",
-    "path": "Occupations > Freelancer",
+    "path": "Occupations > Laborers > Freelancer",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7468,
+    "level": 3
   },
   "6752": {
     "id": 6752,
@@ -42234,10 +42074,10 @@
   "6795": {
     "id": 6795,
     "name": "Naval Officer",
-    "path": "Occupations > Naval Officer",
+    "path": "Occupations > Officers > Naval Officer",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7469,
+    "level": 3
   },
   "6798": {
     "id": 6798,
@@ -42325,14 +42165,6 @@
     "path": "Character Types > Protagonists > Pet Protagonist",
     "is_genre": false,
     "parent_id": 7325,
-    "level": 3
-  },
-  "6818": {
-    "id": 6818,
-    "name": "Polar Bear",
-    "path": "Species & Creatures > Animals > Polar Bear",
-    "is_genre": false,
-    "parent_id": 278,
     "level": 3
   },
   "6820": {
@@ -43050,10 +42882,10 @@
   "7084": {
     "id": 7084,
     "name": "Animal Behaviorist",
-    "path": "Occupations > Animal Behaviorist",
+    "path": "Occupations > Keepers > Animal Behaviorist",
     "is_genre": false,
-    "parent_id": 538,
-    "level": 2
+    "parent_id": 7477,
+    "level": 3
   },
   "7091": {
     "id": 7091,
@@ -43109,14 +42941,6 @@
     "path": "Character Types > Uke Character > Duke Uke",
     "is_genre": false,
     "parent_id": 2110,
-    "level": 3
-  },
-  "7130": {
-    "id": 7130,
-    "name": "Elephants",
-    "path": "Species & Creatures > Animals > Elephants",
-    "is_genre": false,
-    "parent_id": 278,
     "level": 3
   },
   "7133": {
@@ -43441,8 +43265,8 @@
   },
   "7266": {
     "id": 7266,
-    "name": "Tabliads",
-    "path": "Themes > Tabliads",
+    "name": "Tabloids",
+    "path": "Themes > Tabloids",
     "is_genre": false,
     "parent_id": 542,
     "level": 2
@@ -43527,14 +43351,6 @@
     "parent_id": 565,
     "level": 2
   },
-  "7295": {
-    "id": 7295,
-    "name": "Housewife Ves",
-    "path": "Occupations > Housewife Ves",
-    "is_genre": false,
-    "parent_id": 538,
-    "level": 2
-  },
   "7296": {
     "id": 7296,
     "name": "Idol Character",
@@ -43557,14 +43373,6 @@
     "path": "Character Types > Male Futanari",
     "is_genre": false,
     "parent_id": 544,
-    "level": 2
-  },
-  "7301": {
-    "id": 7301,
-    "name": "Mirror/s",
-    "path": "Objects > Mirror/s",
-    "is_genre": false,
-    "parent_id": 1071,
     "level": 2
   },
   "7302": {
@@ -43595,14 +43403,6 @@
     "id": 7308,
     "name": "Strategic Character",
     "path": "Character Traits > Strategic Character",
-    "is_genre": false,
-    "parent_id": 543,
-    "level": 2
-  },
-  "7309": {
-    "id": 7309,
-    "name": "Stutterers",
-    "path": "Character Traits > Stutterers",
     "is_genre": false,
     "parent_id": 543,
     "level": 2
@@ -43638,5 +43438,13 @@
     "is_genre": false,
     "parent_id": 1229,
     "level": 3
+  },
+  "7481": {
+    "id": 7481,
+    "name": "Outcasts",
+    "path": "Character Types > Outcasts",
+    "is_genre": false,
+    "parent_id": 544,
+    "level": 2
   }
 }

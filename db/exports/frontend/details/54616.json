@@ -9,7 +9,7 @@
   "titles": [
     {
       "language": "ko",
-      "title": "이 결혼은 어차피 망하게 되어있다",
+      "title": "이 결혼은 어차피 망하게 되어 있다",
       "traits": [
         "native"
       ],
@@ -18,16 +18,18 @@
     },
     {
       "language": "es",
-      "title": "El anillo roto: Este matrimonio fracasará de todos modos",
+      "title": "El Anillo Roto: Este matrimonio fracasará de todos modos",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "es",
       "title": "Este matrimonio está destinado a fracasar",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -39,9 +41,11 @@
     },
     {
       "language": "ko-Latn",
-      "title": "I Gyeolhoneun Eochapi Manghage Doeeoitda",
-      "traits": [],
-      "is_primary": false,
+      "title": "I Gyeolhoneun Eochapi Manghage Doeeo Itda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -84,25 +88,20 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "The Broken Ring: This Marriage Will Fail Anyway",
+      "language": "pl",
+      "title": "The Broken Ring: to małżeństwo i tak się rozpadnie",
       "traits": [
-        "native"
+        "official"
       ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "pl",
-      "title": "The Broken Ring - To małżeństwo i tak się rozpadnie",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "pt-br",
-      "title": "The Broken Ring: Um casamento fadado ao fracasso",
-      "traits": [],
+      "title": "The Broken Ring: Um Casamento Fadado ao Fracasso",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -124,7 +123,7 @@
       "language": "zh-Latn",
       "title": "Zhe Ge Hun Fanzheng Ye Yao Wandan",
       "traits": [
-        "native"
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -175,7 +174,7 @@
       "language": "zh",
       "title": "这个婚反正也要完蛋",
       "traits": [
-        "native"
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -192,7 +191,7 @@
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2IvNi8zLzUvNC8xLzQvYzE4OC80YzNmLzg2YzEvMTBkMmU4YTQ3OWMz",
   "total_chapters": "121",
   "status": "hiatus",
-  "content_rating": "safe",
+  "content_rating": "suggestive",
   "is_licensed": true,
   "year": 2022,
   "published": {
@@ -203,7 +202,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.172Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-07T23:39:28.507Z",
+  "last_updated_at": "2026-09-08T14:47:39.730Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -333,6 +332,7 @@
     15,
     41,
     109,
+    1037,
     2700,
     303,
     99,
@@ -363,7 +363,6 @@
     498,
     9,
     4740,
-    1037,
     3520,
     309,
     1593,
@@ -515,15 +514,15 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 10785,
+    "popularity": 10797,
     "favourites": 539,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 4.9977,
-    "fanRatioPercentile": 96.8218,
+    "fanFavouriteRaw": 4.9921,
+    "fanRatioPercentile": 96.8072,
     "popularityPercentile": 98.2173,
-    "fanFavouriteDiscoveryScore": 96.6791,
+    "fanFavouriteDiscoveryScore": 96.6645,
     "fanFavouriteDiscoveryPercentile": 98.5826
   },
   "context": {
