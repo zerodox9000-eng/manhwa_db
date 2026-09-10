@@ -1322,10 +1322,10 @@
   "231": {
     "id": 231,
     "name": "Infidelity",
-    "path": "Relationship > Infidelity",
+    "path": "Relationship > Romantic Relationship > Infidelity",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "232": {
     "id": 232,
@@ -1490,34 +1490,34 @@
   "253": {
     "id": 253,
     "name": "Twins",
-    "path": "Relationship > Family > Siblings > Twins",
+    "path": "Relationship > Family Relationship > Family > Siblings > Twins",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "254": {
     "id": 254,
     "name": "Siblings",
-    "path": "Relationship > Family > Siblings",
+    "path": "Relationship > Family Relationship > Family > Siblings",
     "is_genre": false,
     "parent_id": 1154,
-    "level": 3
+    "level": 4
   },
   "255": {
     "id": 255,
     "name": "Stepsibling",
-    "path": "Relationship > Family > Siblings > Stepsibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Stepsibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "256": {
     "id": 256,
     "name": "Half-Siblings",
-    "path": "Relationship > Family > Siblings > Half-Siblings",
+    "path": "Relationship > Family Relationship > Family > Siblings > Half-Siblings",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "257": {
     "id": 257,
@@ -1546,10 +1546,10 @@
   "260": {
     "id": 260,
     "name": "Secret Identity",
-    "path": "Narrative Tropes > Secret Identity",
+    "path": "Narrative Tropes > Identity Tropes > Secret Identity",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "261": {
     "id": 261,
@@ -1730,10 +1730,10 @@
   "283": {
     "id": 283,
     "name": "Amnesia",
-    "path": "Narrative Tropes > Amnesia",
+    "path": "Narrative Tropes > Memory Tropes > Amnesia",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "284": {
     "id": 284,
@@ -2674,10 +2674,10 @@
   "412": {
     "id": 412,
     "name": "Transfer Students",
-    "path": "Narrative Tropes > Transfer Students",
+    "path": "Locations > School > Transfer Students",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 107,
+    "level": 3
   },
   "413": {
     "id": 413,
@@ -2906,10 +2906,10 @@
   "449": {
     "id": 449,
     "name": "Flashbacks",
-    "path": "Narrative Tropes > Flashbacks",
+    "path": "Narrative Tropes > Storytelling Techniques > Flashbacks",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2108,
+    "level": 3
   },
   "450": {
     "id": 450,
@@ -2962,10 +2962,10 @@
   "456": {
     "id": 456,
     "name": "High Stakes Game",
-    "path": "Narrative Tropes > High Stakes Game",
+    "path": "Narrative Tropes > Elimination Games > High Stakes Game",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7509,
+    "level": 3
   },
   "457": {
     "id": 457,
@@ -3866,10 +3866,10 @@
   "602": {
     "id": 602,
     "name": "Mother and Son",
-    "path": "Relationship > Family > Parent-Child > Mother and Son",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Mother and Son",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "603": {
     "id": 603,
@@ -4026,10 +4026,10 @@
   "622": {
     "id": 622,
     "name": "Fake Relationship",
-    "path": "Relationship > Fake Relationship",
+    "path": "Relationship > Romantic Relationship > Fake Relationship",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "623": {
     "id": 623,
@@ -4482,10 +4482,10 @@
   "679": {
     "id": 679,
     "name": "Memory Manipulation",
-    "path": "Narrative Tropes > Memory Manipulation",
+    "path": "Narrative Tropes > Mental Manipulation > Memory Manipulation",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7508,
+    "level": 3
   },
   "680": {
     "id": 680,
@@ -4498,10 +4498,10 @@
   "681": {
     "id": 681,
     "name": "Time Skip In Final Chapter/Epilogue",
-    "path": "Narrative Tropes > Time Skip In Final Chapter/Epilogue",
+    "path": "Narrative Tropes > Time Passage > Time Skip In Final Chapter/Epilogue",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7507,
+    "level": 3
   },
   "682": {
     "id": 682,
@@ -4898,10 +4898,10 @@
   "733": {
     "id": 733,
     "name": "Dissociative Identities",
-    "path": "Narrative Tropes > Dissociative Identities",
+    "path": "Narrative Tropes > Mental Manipulation > Dissociative Identities",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7508,
+    "level": 3
   },
   "735": {
     "id": 735,
@@ -4978,10 +4978,10 @@
   "744": {
     "id": 744,
     "name": "Impersonation",
-    "path": "Narrative Tropes > Impersonation",
+    "path": "Narrative Tropes > Identity Tropes > Impersonation",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "745": {
     "id": 745,
@@ -5066,10 +5066,10 @@
   "755": {
     "id": 755,
     "name": "Inseki",
-    "path": "Relationship > Family > Extended Family > Inseki",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Inseki",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "756": {
     "id": 756,
@@ -5170,10 +5170,10 @@
   "768": {
     "id": 768,
     "name": "Divorce",
-    "path": "Relationship > Divorce",
+    "path": "Relationship > Family Relationship > Divorce",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "769": {
     "id": 769,
@@ -5546,10 +5546,10 @@
   "831": {
     "id": 831,
     "name": "Dead Family Member",
-    "path": "Narrative Tropes > Dead Family Member",
+    "path": "Narrative Tropes > Backstory > Dead Family Member",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7506,
+    "level": 3
   },
   "832": {
     "id": 832,
@@ -5594,18 +5594,18 @@
   "837": {
     "id": 837,
     "name": "Mind Break",
-    "path": "Narrative Tropes > Mind Break",
+    "path": "Narrative Tropes > Mental Manipulation > Mind Break",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7508,
+    "level": 3
   },
   "838": {
     "id": 838,
     "name": "Hidden past",
-    "path": "Narrative Tropes > Hidden past",
+    "path": "Narrative Tropes > Backstory > Hidden past",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7506,
+    "level": 3
   },
   "839": {
     "id": 839,
@@ -5618,10 +5618,10 @@
   "840": {
     "id": 840,
     "name": "Lifestyle Change",
-    "path": "Narrative Tropes > Lifestyle Change",
+    "path": "Narrative Tropes > Character Change > Lifestyle Change",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "841": {
     "id": 841,
@@ -6034,10 +6034,10 @@
   "898": {
     "id": 898,
     "name": "Tragic Past",
-    "path": "Narrative Tropes > Tragic Past",
+    "path": "Narrative Tropes > Backstory > Tragic Past",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7506,
+    "level": 3
   },
   "899": {
     "id": 899,
@@ -6098,10 +6098,10 @@
   "906": {
     "id": 906,
     "name": "Breakup",
-    "path": "Relationship > Breakup",
+    "path": "Relationship > Romantic Relationship > Breakup",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "907": {
     "id": 907,
@@ -6210,10 +6210,10 @@
   "988": {
     "id": 988,
     "name": "Brothers",
-    "path": "Relationship > Family > Brothers",
+    "path": "Relationship > Family Relationship > Family > Brothers",
     "is_genre": false,
     "parent_id": 1154,
-    "level": 3
+    "level": 4
   },
   "989": {
     "id": 989,
@@ -6250,10 +6250,10 @@
   "993": {
     "id": 993,
     "name": "Sisters",
-    "path": "Relationship > Family > Siblings > Sisters",
+    "path": "Relationship > Family Relationship > Family > Siblings > Sisters",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "994": {
     "id": 994,
@@ -6314,10 +6314,10 @@
   "1001": {
     "id": 1001,
     "name": "Brother Complex",
-    "path": "Relationship > Family > Family Dynamics > Brother Complex",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Brother Complex",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "1002": {
     "id": 1002,
@@ -6474,10 +6474,10 @@
   "1021": {
     "id": 1021,
     "name": "Cousins",
-    "path": "Relationship > Family > Extended Family > Cousins",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Cousins",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "1022": {
     "id": 1022,
@@ -6506,10 +6506,10 @@
   "1025": {
     "id": 1025,
     "name": "Older Sister",
-    "path": "Relationship > Family > Siblings > Older Sister",
+    "path": "Relationship > Family Relationship > Family > Siblings > Older Sister",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "1026": {
     "id": 1026,
@@ -6530,10 +6530,10 @@
   "1028": {
     "id": 1028,
     "name": "Drawn by Hentai Artist",
-    "path": "Work Info > Drawn by Hentai Artist",
+    "path": "Work Info > Authorship > Drawn by Hentai Artist",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1029": {
     "id": 1029,
@@ -6626,10 +6626,10 @@
   "1040": {
     "id": 1040,
     "name": "Ex-Boyfriends",
-    "path": "Relationship > Ex-Boyfriends",
+    "path": "Relationship > Romantic Relationship > Ex-Boyfriends",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "1041": {
     "id": 1041,
@@ -7002,10 +7002,10 @@
   "1092": {
     "id": 1092,
     "name": "Mother and Daughter",
-    "path": "Relationship > Family > Parent-Child > Mother and Daughter",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Mother and Daughter",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "1093": {
     "id": 1093,
@@ -7114,10 +7114,10 @@
   "1108": {
     "id": 1108,
     "name": "Searching for Someone",
-    "path": "Narrative Tropes > Searching for Someone",
+    "path": "Narrative Tropes > Quest > Searching for Someone",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3355,
+    "level": 3
   },
   "1111": {
     "id": 1111,
@@ -7130,10 +7130,10 @@
   "1116": {
     "id": 1116,
     "name": "Brother and Sister",
-    "path": "Relationship > Family > Siblings > Brother and Sister",
+    "path": "Relationship > Family Relationship > Family > Siblings > Brother and Sister",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "1117": {
     "id": 1117,
@@ -7146,10 +7146,10 @@
   "1118": {
     "id": 1118,
     "name": "Sex Friends",
-    "path": "Relationship > Sex Friends",
+    "path": "Relationship > Romantic Relationship > Sex Friends",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "1119": {
     "id": 1119,
@@ -7210,10 +7210,10 @@
   "1128": {
     "id": 1128,
     "name": "Uncensored Version Available",
-    "path": "Work Info > Uncensored Version Available",
+    "path": "Work Info > Censorship > Uncensored Version Available",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 2852,
+    "level": 3
   },
   "1129": {
     "id": 1129,
@@ -7250,10 +7250,10 @@
   "1133": {
     "id": 1133,
     "name": "Father and Daughter",
-    "path": "Relationship > Family > Parent-Child > Father and Daughter",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Father and Daughter",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "1134": {
     "id": 1134,
@@ -7370,18 +7370,18 @@
   "1154": {
     "id": 1154,
     "name": "Family",
-    "path": "Relationship > Family",
+    "path": "Relationship > Family Relationship > Family",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "1156": {
     "id": 1156,
     "name": "Comedic Undertone",
-    "path": "Narrative Tropes > Comedic Undertone",
+    "path": "Themes > Comedy > Comedic Undertone",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 6,
+    "level": 3
   },
   "1159": {
     "id": 1159,
@@ -7538,10 +7538,10 @@
   "1179": {
     "id": 1179,
     "name": "Sudden Appearance",
-    "path": "Narrative Tropes > Sudden Appearance",
+    "path": "Narrative Tropes > Sudden Twists > Sudden Appearance",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7511,
+    "level": 3
   },
   "1181": {
     "id": 1181,
@@ -7634,10 +7634,10 @@
   "1193": {
     "id": 1193,
     "name": "Friends Grow Distant",
-    "path": "Narrative Tropes > Friends Grow Distant",
+    "path": "Narrative Tropes > Character Change > Friends Grow Distant",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "1194": {
     "id": 1194,
@@ -7666,10 +7666,10 @@
   "1198": {
     "id": 1198,
     "name": "Mind control",
-    "path": "Narrative Tropes > Mind control",
+    "path": "Narrative Tropes > Mental Manipulation > Mind control",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7508,
+    "level": 3
   },
   "1199": {
     "id": 1199,
@@ -7834,42 +7834,42 @@
   "1307": {
     "id": 1307,
     "name": "Father Complex",
-    "path": "Relationship > Family > Family Dynamics > Father Complex",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Father Complex",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "1308": {
     "id": 1308,
     "name": "Daughter Complex",
-    "path": "Relationship > Family > Family Dynamics > Daughter Complex",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Daughter Complex",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "1310": {
     "id": 1310,
     "name": "Mother Complex",
-    "path": "Relationship > Family > Family Dynamics > Mother Complex",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Mother Complex",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "1311": {
     "id": 1311,
     "name": "Sister Complex",
-    "path": "Relationship > Family > Family Dynamics > Sister Complex",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Sister Complex",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "1313": {
     "id": 1313,
     "name": "Complicated Family",
-    "path": "Relationship > Family > Complicated Family",
+    "path": "Relationship > Family Relationship > Family > Complicated Family",
     "is_genre": false,
     "parent_id": 1154,
-    "level": 3
+    "level": 4
   },
   "1316": {
     "id": 1316,
@@ -10226,10 +10226,10 @@
   "1687": {
     "id": 1687,
     "name": "Brother-Sister Relationship",
-    "path": "Relationship > Brother-Sister Relationship",
+    "path": "Relationship > Family Relationship > Brother-Sister Relationship",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "1688": {
     "id": 1688,
@@ -10370,10 +10370,10 @@
   "1705": {
     "id": 1705,
     "name": "Father-Son Relationship",
-    "path": "Relationship > Father-Son Relationship",
+    "path": "Relationship > Family Relationship > Father-Son Relationship",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "1706": {
     "id": 1706,
@@ -10394,10 +10394,10 @@
   "1708": {
     "id": 1708,
     "name": "Forbidden Relationship",
-    "path": "Narrative Tropes > Forbidden Relationship",
+    "path": "Narrative Tropes > Love Tropes > Forbidden Relationship",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2109,
+    "level": 3
   },
   "1709": {
     "id": 1709,
@@ -10426,18 +10426,18 @@
   "1712": {
     "id": 1712,
     "name": "Sibling Relationship",
-    "path": "Relationship > Sibling Relationship",
+    "path": "Relationship > Family Relationship > Sibling Relationship",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "1713": {
     "id": 1713,
     "name": "Stepbrother-Stepsister Relationship",
-    "path": "Relationship > Stepbrother-Stepsister Relationship",
+    "path": "Relationship > Family Relationship > Stepbrother-Stepsister Relationship",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "1714": {
     "id": 1714,
@@ -10586,10 +10586,10 @@
   "1734": {
     "id": 1734,
     "name": "Uncle-Nephew Relationship",
-    "path": "Relationship > Uncle-Nephew Relationship",
+    "path": "Relationship > Family Relationship > Uncle-Nephew Relationship",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "1735": {
     "id": 1735,
@@ -11242,74 +11242,74 @@
   "1827": {
     "id": 1827,
     "name": "Open Ending",
-    "path": "Work Info > Open Ending",
+    "path": "Work Info > Endings > Open Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1828": {
     "id": 1828,
     "name": "Rushed Ending",
-    "path": "Work Info > Rushed Ending",
+    "path": "Work Info > Endings > Rushed Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1829": {
     "id": 1829,
     "name": "Inconclusive Ending",
-    "path": "Work Info > Inconclusive Ending",
+    "path": "Work Info > Endings > Inconclusive Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1830": {
     "id": 1830,
     "name": "Abrupt Ending",
-    "path": "Work Info > Abrupt Ending",
+    "path": "Work Info > Endings > Abrupt Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1831": {
     "id": 1831,
     "name": "Harem Ending",
-    "path": "Work Info > Harem Ending",
+    "path": "Work Info > Endings > Harem Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1832": {
     "id": 1832,
     "name": "Bittersweet Ending",
-    "path": "Work Info > Bittersweet Ending",
+    "path": "Work Info > Endings > Bittersweet Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1833": {
     "id": 1833,
     "name": "Multiple Endings",
-    "path": "Work Info > Multiple Endings",
+    "path": "Work Info > Endings > Multiple Endings",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1834": {
     "id": 1834,
     "name": "Bitter Ending",
-    "path": "Work Info > Bitter Ending",
+    "path": "Work Info > Endings > Bitter Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1835": {
     "id": 1835,
     "name": "Sad Ending",
-    "path": "Work Info > Sad Ending",
+    "path": "Work Info > Endings > Sad Ending",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7501,
+    "level": 3
   },
   "1837": {
     "id": 1837,
@@ -11322,10 +11322,10 @@
   "1838": {
     "id": 1838,
     "name": "Male Demographic with Female Artist",
-    "path": "Work Info > Male Demographic with Female Artist",
+    "path": "Work Info > Authorship > Male Demographic with Female Artist",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1839": {
     "id": 1839,
@@ -11338,10 +11338,10 @@
   "1842": {
     "id": 1842,
     "name": "Drawn by Boys Love Artist",
-    "path": "Work Info > Drawn by Boys Love Artist",
+    "path": "Work Info > Authorship > Drawn by Boys Love Artist",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1844": {
     "id": 1844,
@@ -11354,18 +11354,18 @@
   "1845": {
     "id": 1845,
     "name": "Female Author",
-    "path": "Work Info > Female Author",
+    "path": "Work Info > Authorship > Female Author",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1846": {
     "id": 1846,
     "name": "Female Demographic with Male Author",
-    "path": "Work Info > Female Demographic with Male Author",
+    "path": "Work Info > Authorship > Female Demographic with Male Author",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1847": {
     "id": 1847,
@@ -11378,26 +11378,26 @@
   "1848": {
     "id": 1848,
     "name": "Yuri with Female Author",
-    "path": "Work Info > Yuri with Female Author",
+    "path": "Work Info > Authorship > Yuri with Female Author",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1849": {
     "id": 1849,
     "name": "Author Transmigrated to Their Own Creation",
-    "path": "Work Info > Author Transmigrated to Their Own Creation",
+    "path": "Narrative Tropes > Author Transmigrated to Their Own Creation",
     "is_genre": false,
-    "parent_id": 562,
+    "parent_id": 563,
     "level": 2
   },
   "1850": {
     "id": 1850,
     "name": "Boys Love with Male Author",
-    "path": "Work Info > Boys Love with Male Author",
+    "path": "Work Info > Authorship > Boys Love with Male Author",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1851": {
     "id": 1851,
@@ -11410,10 +11410,10 @@
   "1852": {
     "id": 1852,
     "name": "Male Author",
-    "path": "Work Info > Male Author",
+    "path": "Work Info > Authorship > Male Author",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 7502,
+    "level": 3
   },
   "1853": {
     "id": 1853,
@@ -11426,9 +11426,9 @@
   "1854": {
     "id": 1854,
     "name": "Author Transported to Their Own Creation",
-    "path": "Work Info > Author Transported to Their Own Creation",
+    "path": "Narrative Tropes > Author Transported to Their Own Creation",
     "is_genre": false,
-    "parent_id": 562,
+    "parent_id": 563,
     "level": 2
   },
   "1856": {
@@ -11442,10 +11442,10 @@
   "1857": {
     "id": 1857,
     "name": "Unrealistic Fighting",
-    "path": "Narrative Tropes > Unrealistic Fighting",
+    "path": "Narrative Tropes > Battle Tropes > Unrealistic Fighting",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7510,
+    "level": 3
   },
   "1858": {
     "id": 1858,
@@ -11530,10 +11530,10 @@
   "1871": {
     "id": 1871,
     "name": "Comedic Violence",
-    "path": "Narrative Tropes > Comedic Violence",
+    "path": "Themes > Comedy > Comedic Violence",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 6,
+    "level": 3
   },
   "1872": {
     "id": 1872,
@@ -11554,18 +11554,18 @@
   "1875": {
     "id": 1875,
     "name": "Kill or Be Killed Situation",
-    "path": "Narrative Tropes > Kill or Be Killed Situation",
+    "path": "Narrative Tropes > Elimination Games > Kill or Be Killed Situation",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7509,
+    "level": 3
   },
   "1876": {
     "id": 1876,
     "name": "Play or Die Situation",
-    "path": "Narrative Tropes > Play or Die Situation",
+    "path": "Narrative Tropes > Elimination Games > Play or Die Situation",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7509,
+    "level": 3
   },
   "1877": {
     "id": 1877,
@@ -11938,10 +11938,10 @@
   "1933": {
     "id": 1933,
     "name": "Only Boy in an All-Girls School",
-    "path": "Narrative Tropes > Only Boy in an All-Girls School",
+    "path": "Locations > School > Only Boy in an All-Girls School",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 107,
+    "level": 3
   },
   "1934": {
     "id": 1934,
@@ -12218,10 +12218,10 @@
   "1973": {
     "id": 1973,
     "name": "Gay Couple with Child",
-    "path": "Relationship > Family > Gay Couple with Child",
+    "path": "Relationship > Family Relationship > Family > Gay Couple with Child",
     "is_genre": false,
     "parent_id": 1154,
-    "level": 3
+    "level": 4
   },
   "1974": {
     "id": 1974,
@@ -12826,10 +12826,10 @@
   "2058": {
     "id": 2058,
     "name": "Official English Uncensored",
-    "path": "Work Info > Uncensored Version Available > Official English Uncensored",
+    "path": "Work Info > Censorship > Uncensored Version Available > Official English Uncensored",
     "is_genre": false,
     "parent_id": 1128,
-    "level": 3
+    "level": 4
   },
   "2060": {
     "id": 2060,
@@ -18378,10 +18378,10 @@
   "2848": {
     "id": 2848,
     "name": "Past Friendship",
-    "path": "Narrative Tropes > Past Friendship",
+    "path": "Relationship > Friendship > Past Friendship",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 242,
+    "level": 3
   },
   "2849": {
     "id": 2849,
@@ -18570,10 +18570,10 @@
   "2877": {
     "id": 2877,
     "name": "Younger Brother",
-    "path": "Relationship > Younger Brother",
+    "path": "Relationship > Family Relationship > Younger Brother",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "2878": {
     "id": 2878,
@@ -18618,10 +18618,10 @@
   "2883": {
     "id": 2883,
     "name": "Hidden Identity",
-    "path": "Narrative Tropes > Hidden Identity",
+    "path": "Narrative Tropes > Identity Tropes > Hidden Identity",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "2884": {
     "id": 2884,
@@ -18690,10 +18690,10 @@
   "2897": {
     "id": 2897,
     "name": "Older Brother",
-    "path": "Relationship > Family > Siblings > Older Brother",
+    "path": "Relationship > Family Relationship > Family > Siblings > Older Brother",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "2898": {
     "id": 2898,
@@ -18778,10 +18778,10 @@
   "2968": {
     "id": 2968,
     "name": "Absent Parent",
-    "path": "Relationship > Family > Parent-Child > Absent Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Absent Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "2969": {
     "id": 2969,
@@ -18898,10 +18898,10 @@
   "2985": {
     "id": 2985,
     "name": "Abusive Family Member",
-    "path": "Relationship > Family > Family Dynamics > Abusive Family Member",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Abusive Family Member",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "2986": {
     "id": 2986,
@@ -19042,10 +19042,10 @@
   "3005": {
     "id": 3005,
     "name": "Memories",
-    "path": "Narrative Tropes > Memories",
+    "path": "Narrative Tropes > Memory Tropes > Memories",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "3006": {
     "id": 3006,
@@ -19130,10 +19130,10 @@
   "3016": {
     "id": 3016,
     "name": "Time Progression",
-    "path": "Narrative Tropes > Time Progression",
+    "path": "Narrative Tropes > Time Passage > Time Progression",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7507,
+    "level": 3
   },
   "3017": {
     "id": 3017,
@@ -19146,10 +19146,10 @@
   "3018": {
     "id": 3018,
     "name": "Estranged Family",
-    "path": "Relationship > Family > Family Dynamics > Estranged Family",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Estranged Family",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "3019": {
     "id": 3019,
@@ -19242,10 +19242,10 @@
   "3031": {
     "id": 3031,
     "name": "Dysfunctional Family",
-    "path": "Relationship > Family > Family Dynamics > Dysfunctional Family",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Dysfunctional Family",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "3032": {
     "id": 3032,
@@ -19266,10 +19266,10 @@
   "3034": {
     "id": 3034,
     "name": "Disguise",
-    "path": "Narrative Tropes > Disguise",
+    "path": "Narrative Tropes > Identity Tropes > Disguise",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3035": {
     "id": 3035,
@@ -19354,18 +19354,18 @@
   "3045": {
     "id": 3045,
     "name": "Promises",
-    "path": "Narrative Tropes > Promises",
+    "path": "Narrative Tropes > Oaths > Promises",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7514,
+    "level": 3
   },
   "3046": {
     "id": 3046,
     "name": "Confinement",
-    "path": "Narrative Tropes > Confinement",
+    "path": "Narrative Tropes > Survival > Confinement",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "3047": {
     "id": 3047,
@@ -19394,10 +19394,10 @@
   "3050": {
     "id": 3050,
     "name": "Rejection",
-    "path": "Relationship > Rejection",
+    "path": "Relationship > Romantic Relationship > Rejection",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "3051": {
     "id": 3051,
@@ -19434,26 +19434,26 @@
   "3055": {
     "id": 3055,
     "name": "Pretend Lovers",
-    "path": "Relationship > Fake Relationship > Pretend Lovers",
+    "path": "Relationship > Romantic Relationship > Fake Relationship > Pretend Lovers",
     "is_genre": false,
     "parent_id": 622,
-    "level": 3
+    "level": 4
   },
   "3056": {
     "id": 3056,
     "name": "Stepbrother",
-    "path": "Relationship > Stepbrother",
+    "path": "Relationship > Family Relationship > Stepbrother",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3057": {
     "id": 3057,
     "name": "Crush",
-    "path": "Relationship > Crush",
+    "path": "Relationship > Romantic Relationship > Crush",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "3058": {
     "id": 3058,
@@ -19490,10 +19490,10 @@
   "3062": {
     "id": 3062,
     "name": "Playboy Becomes Monogamous",
-    "path": "Narrative Tropes > Playboy Becomes Monogamous",
+    "path": "Narrative Tropes > Love Tropes > Playboy Becomes Monogamous",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2109,
+    "level": 3
   },
   "3063": {
     "id": 3063,
@@ -19506,10 +19506,10 @@
   "3064": {
     "id": 3064,
     "name": "Abusive Father",
-    "path": "Relationship > Family > Parent-Child > Abusive Father",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Abusive Father",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3065": {
     "id": 3065,
@@ -19586,10 +19586,10 @@
   "3074": {
     "id": 3074,
     "name": "Bad Parent",
-    "path": "Relationship > Family > Parent-Child > Bad Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Bad Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3075": {
     "id": 3075,
@@ -19722,18 +19722,18 @@
   "3092": {
     "id": 3092,
     "name": "Divorced Parent",
-    "path": "Relationship > Family > Parent-Child > Divorced Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Divorced Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3093": {
     "id": 3093,
     "name": "Father and Son",
-    "path": "Relationship > Father and Son",
+    "path": "Relationship > Family Relationship > Father and Son",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3094": {
     "id": 3094,
@@ -19794,10 +19794,10 @@
   "3101": {
     "id": 3101,
     "name": "Past Life",
-    "path": "Narrative Tropes > Past Life",
+    "path": "Narrative Tropes > Reincarnation > Past Life",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 126,
+    "level": 3
   },
   "3103": {
     "id": 3103,
@@ -19826,18 +19826,18 @@
   "3106": {
     "id": 3106,
     "name": "Alternating POV",
-    "path": "Narrative Tropes > Alternating POV",
+    "path": "Narrative Tropes > Storytelling Techniques > Alternating POV",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2108,
+    "level": 3
   },
   "3107": {
     "id": 3107,
     "name": "Embarrassing Situations",
-    "path": "Narrative Tropes > Embarrassing Situations",
+    "path": "Themes > Comedy > Embarrassing Situations",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 6,
+    "level": 3
   },
   "3108": {
     "id": 3108,
@@ -19914,10 +19914,10 @@
   "3117": {
     "id": 3117,
     "name": "Negligent Parent",
-    "path": "Relationship > Family > Parent-Child > Negligent Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Negligent Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3118": {
     "id": 3118,
@@ -20074,18 +20074,18 @@
   "3138": {
     "id": 3138,
     "name": "Cheating Wife",
-    "path": "Relationship > Cheating Wife",
+    "path": "Relationship > Romantic Relationship > Cheating Wife",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "3139": {
     "id": 3139,
     "name": "Doting Family Member",
-    "path": "Relationship > Family > Family Dynamics > Doting Family Member",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Doting Family Member",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "3140": {
     "id": 3140,
@@ -20146,10 +20146,10 @@
   "3147": {
     "id": 3147,
     "name": "Missing Person",
-    "path": "Narrative Tropes > Missing Person",
+    "path": "Themes > Mystery > Missing Person",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 32,
+    "level": 3
   },
   "3148": {
     "id": 3148,
@@ -20170,10 +20170,10 @@
   "3150": {
     "id": 3150,
     "name": "Dead Mother",
-    "path": "Relationship > Family > Parent-Child > Dead Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Dead Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3151": {
     "id": 3151,
@@ -20218,10 +20218,10 @@
   "3156": {
     "id": 3156,
     "name": "Clan",
-    "path": "Relationship > Family > Extended Family > Clan",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Clan",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3157": {
     "id": 3157,
@@ -20330,18 +20330,18 @@
   "3171": {
     "id": 3171,
     "name": "Extended Flashbacks",
-    "path": "Narrative Tropes > Flashbacks > Extended Flashbacks",
+    "path": "Narrative Tropes > Storytelling Techniques > Flashbacks > Extended Flashbacks",
     "is_genre": false,
     "parent_id": 449,
-    "level": 3
+    "level": 4
   },
   "3172": {
     "id": 3172,
     "name": "Female Disguised as Male",
-    "path": "Narrative Tropes > Female Disguised as Male",
+    "path": "Narrative Tropes > Identity Tropes > Female Disguised as Male",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3173": {
     "id": 3173,
@@ -20354,10 +20354,10 @@
   "3174": {
     "id": 3174,
     "name": "Reincarnated as the Villainess",
-    "path": "Narrative Tropes > Reincarnated as the Villainess",
+    "path": "Narrative Tropes > Reincarnation > Reincarnated as the Villainess",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 126,
+    "level": 3
   },
   "3175": {
     "id": 3175,
@@ -20410,10 +20410,10 @@
   "3181": {
     "id": 3181,
     "name": "Mistaken Identity",
-    "path": "Narrative Tropes > Mistaken Identity",
+    "path": "Narrative Tropes > Identity Tropes > Mistaken Identity",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3182": {
     "id": 3182,
@@ -20506,10 +20506,10 @@
   "3194": {
     "id": 3194,
     "name": "Scenario Deviation",
-    "path": "Narrative Tropes > Scenario Deviation",
+    "path": "Narrative Tropes > Plot Structure > Scenario Deviation",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2106,
+    "level": 3
   },
   "3195": {
     "id": 3195,
@@ -20546,10 +20546,10 @@
   "3200": {
     "id": 3200,
     "name": "Cheating Husband",
-    "path": "Relationship > Cheating Husband",
+    "path": "Relationship > Romantic Relationship > Cheating Husband",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "3201": {
     "id": 3201,
@@ -20562,10 +20562,10 @@
   "3202": {
     "id": 3202,
     "name": "Grandfather",
-    "path": "Relationship > Family > Extended Family > Grandfather",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Grandfather",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3203": {
     "id": 3203,
@@ -20578,10 +20578,10 @@
   "3204": {
     "id": 3204,
     "name": "Enemies Become Allies",
-    "path": "Narrative Tropes > Enemies Become Allies",
+    "path": "Narrative Tropes > Character Change > Enemies Become Allies",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "3205": {
     "id": 3205,
@@ -20650,10 +20650,10 @@
   "3214": {
     "id": 3214,
     "name": "Enemies Become Friends",
-    "path": "Narrative Tropes > Enemies Become Friends",
+    "path": "Narrative Tropes > Character Change > Enemies Become Friends",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "3215": {
     "id": 3215,
@@ -20666,10 +20666,10 @@
   "3216": {
     "id": 3216,
     "name": "Fake Couple Becomes Genuine",
-    "path": "Relationship > Fake Relationship > Fake Couple Becomes Genuine",
+    "path": "Relationship > Romantic Relationship > Fake Relationship > Fake Couple Becomes Genuine",
     "is_genre": false,
     "parent_id": 622,
-    "level": 3
+    "level": 4
   },
   "3217": {
     "id": 3217,
@@ -20698,10 +20698,10 @@
   "3222": {
     "id": 3222,
     "name": "Engagement",
-    "path": "Relationship > Engagement",
+    "path": "Relationship > Romantic Relationship > Engagement",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "3223": {
     "id": 3223,
@@ -20898,10 +20898,10 @@
   "3248": {
     "id": 3248,
     "name": "Sudden Strength Gain",
-    "path": "Narrative Tropes > Sudden Strength Gain",
+    "path": "Narrative Tropes > Power Dynamics > Sudden Strength Gain",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2105,
+    "level": 3
   },
   "3249": {
     "id": 3249,
@@ -20986,10 +20986,10 @@
   "3261": {
     "id": 3261,
     "name": "Sibling Rivalry",
-    "path": "Relationship > Family > Siblings > Sibling Rivalry",
+    "path": "Relationship > Family Relationship > Family > Siblings > Sibling Rivalry",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3262": {
     "id": 3262,
@@ -21002,26 +21002,26 @@
   "3263": {
     "id": 3263,
     "name": "Fake Romance",
-    "path": "Relationship > Fake Relationship > Fake Romance",
+    "path": "Relationship > Romantic Relationship > Fake Relationship > Fake Romance",
     "is_genre": false,
     "parent_id": 622,
-    "level": 3
+    "level": 4
   },
   "3264": {
     "id": 3264,
     "name": "False Personality",
-    "path": "Narrative Tropes > False Personality",
+    "path": "Narrative Tropes > Identity Tropes > False Personality",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3265": {
     "id": 3265,
     "name": "Imprisonment",
-    "path": "Narrative Tropes > Imprisonment",
+    "path": "Narrative Tropes > Survival > Imprisonment",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "3266": {
     "id": 3266,
@@ -21066,10 +21066,10 @@
   "3272": {
     "id": 3272,
     "name": "Stepmother",
-    "path": "Relationship > Family > Parent-Child > Stepmother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Stepmother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3273": {
     "id": 3273,
@@ -21178,10 +21178,10 @@
   "3286": {
     "id": 3286,
     "name": "Grandmother",
-    "path": "Relationship > Family > Extended Family > Grandmother",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Grandmother",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3287": {
     "id": 3287,
@@ -21266,10 +21266,10 @@
   "3297": {
     "id": 3297,
     "name": "Mistaken Gender",
-    "path": "Narrative Tropes > Mistaken Gender",
+    "path": "Narrative Tropes > Identity Tropes > Mistaken Gender",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3298": {
     "id": 3298,
@@ -21282,10 +21282,10 @@
   "3299": {
     "id": 3299,
     "name": "Separation",
-    "path": "Relationship > Separation",
+    "path": "Relationship > Romantic Relationship > Separation",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "3300": {
     "id": 3300,
@@ -21298,10 +21298,10 @@
   "3301": {
     "id": 3301,
     "name": "Family Feud",
-    "path": "Relationship > Family > Family Dynamics > Family Feud",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Family Feud",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "3302": {
     "id": 3302,
@@ -21322,18 +21322,18 @@
   "3304": {
     "id": 3304,
     "name": "Prophecy",
-    "path": "Narrative Tropes > Prophecy",
+    "path": "Themes > Philosophy > Fate > Prophecy",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3378,
+    "level": 4
   },
   "3305": {
     "id": 3305,
     "name": "Friends Become Enemies",
-    "path": "Narrative Tropes > Friends Become Enemies",
+    "path": "Narrative Tropes > Character Change > Friends Become Enemies",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "3306": {
     "id": 3306,
@@ -21362,10 +21362,10 @@
   "3310": {
     "id": 3310,
     "name": "Searching for Answers",
-    "path": "Narrative Tropes > Searching for Answers",
+    "path": "Narrative Tropes > Quest > Searching for Answers",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3355,
+    "level": 3
   },
   "3311": {
     "id": 3311,
@@ -21530,10 +21530,10 @@
   "3332": {
     "id": 3332,
     "name": "Comedic Moments in a Serious Manga",
-    "path": "Narrative Tropes > Comedic Undertone > Comedic Moments in a Serious Manga",
+    "path": "Themes > Comedy > Comedic Undertone > Comedic Moments in a Serious Manga",
     "is_genre": false,
     "parent_id": 1156,
-    "level": 3
+    "level": 4
   },
   "3333": {
     "id": 3333,
@@ -21578,10 +21578,10 @@
   "3339": {
     "id": 3339,
     "name": "Deal with the Devil",
-    "path": "Narrative Tropes > Deal with the Devil",
+    "path": "Narrative Tropes > Faustian Bargain > Deal with the Devil",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7512,
+    "level": 3
   },
   "3340": {
     "id": 3340,
@@ -21682,18 +21682,18 @@
   "3352": {
     "id": 3352,
     "name": "Abusive Mother",
-    "path": "Relationship > Family > Parent-Child > Abusive Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Abusive Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3353": {
     "id": 3353,
     "name": "Resurrection",
-    "path": "Narrative Tropes > Resurrection",
+    "path": "Narrative Tropes > Death Tropes > Resurrection",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 1671,
+    "level": 3
   },
   "3354": {
     "id": 3354,
@@ -21762,10 +21762,10 @@
   "3362": {
     "id": 3362,
     "name": "Brainwashing",
-    "path": "Narrative Tropes > Mind control > Brainwashing",
+    "path": "Narrative Tropes > Mental Manipulation > Mind control > Brainwashing",
     "is_genre": false,
     "parent_id": 1198,
-    "level": 3
+    "level": 4
   },
   "3363": {
     "id": 3363,
@@ -21786,10 +21786,10 @@
   "3365": {
     "id": 3365,
     "name": "Mother",
-    "path": "Relationship > Family > Parent-Child > Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3367": {
     "id": 3367,
@@ -21986,10 +21986,10 @@
   "3394": {
     "id": 3394,
     "name": "Divorced Protagonist",
-    "path": "Relationship > Divorced Protagonist",
+    "path": "Relationship > Family Relationship > Divorced Protagonist",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3395": {
     "id": 3395,
@@ -22114,10 +22114,10 @@
   "3411": {
     "id": 3411,
     "name": "Parental Favoritism",
-    "path": "Relationship > Family > Family Dynamics > Parental Favoritism",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Parental Favoritism",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "3412": {
     "id": 3412,
@@ -22154,18 +22154,18 @@
   "3417": {
     "id": 3417,
     "name": "Comedic Facial Expressions",
-    "path": "Narrative Tropes > Comedic Facial Expressions",
+    "path": "Themes > Comedy > Comedic Facial Expressions",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 6,
+    "level": 3
   },
   "3418": {
     "id": 3418,
     "name": "Dead Sibling",
-    "path": "Relationship > Family > Siblings > Dead Sibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Dead Sibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3419": {
     "id": 3419,
@@ -22258,10 +22258,10 @@
   "3430": {
     "id": 3430,
     "name": "Defying Destiny/Fate",
-    "path": "Narrative Tropes > Defying Destiny/Fate",
+    "path": "Themes > Philosophy > Fate > Defying Destiny/Fate",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3378,
+    "level": 4
   },
   "3431": {
     "id": 3431,
@@ -22298,10 +22298,10 @@
   "3436": {
     "id": 3436,
     "name": "Childhood Crush",
-    "path": "Relationship > Childhood Crush",
+    "path": "Relationship > Romantic Relationship > Childhood Crush",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7457,
+    "level": 3
   },
   "3437": {
     "id": 3437,
@@ -22378,18 +22378,18 @@
   "3447": {
     "id": 3447,
     "name": "Lost Family",
-    "path": "Relationship > Lost Family",
+    "path": "Relationship > Family Relationship > Lost Family",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3448": {
     "id": 3448,
     "name": "Mind Games",
-    "path": "Narrative Tropes > Mind Games",
+    "path": "Narrative Tropes > Mental Manipulation > Mind Games",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7508,
+    "level": 3
   },
   "3449": {
     "id": 3449,
@@ -22418,10 +22418,10 @@
   "3452": {
     "id": 3452,
     "name": "Overprotective Sibling",
-    "path": "Relationship > Family > Siblings > Overprotective Sibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Overprotective Sibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3453": {
     "id": 3453,
@@ -22466,10 +22466,10 @@
   "3458": {
     "id": 3458,
     "name": "Chance Encounter",
-    "path": "Narrative Tropes > Chance Encounter",
+    "path": "Narrative Tropes > Fateful Encounters > Chance Encounter",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7513,
+    "level": 3
   },
   "3459": {
     "id": 3459,
@@ -22490,10 +22490,10 @@
   "3461": {
     "id": 3461,
     "name": "Multiple Reincarnated Individuals",
-    "path": "Narrative Tropes > Multiple Reincarnated Individuals",
+    "path": "Narrative Tropes > Reincarnation > Multiple Reincarnated Individuals",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 126,
+    "level": 3
   },
   "3462": {
     "id": 3462,
@@ -22562,10 +22562,10 @@
   "3470": {
     "id": 3470,
     "name": "Aunt",
-    "path": "Relationship > Family > Extended Family > Aunt",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Aunt",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3471": {
     "id": 3471,
@@ -22578,18 +22578,18 @@
   "3473": {
     "id": 3473,
     "name": "Memory Loss",
-    "path": "Narrative Tropes > Memory Loss",
+    "path": "Narrative Tropes > Memory Tropes > Memory Loss",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "3474": {
     "id": 3474,
     "name": "Random Plot",
-    "path": "Narrative Tropes > Random Plot",
+    "path": "Narrative Tropes > Plot Structure > Random Plot",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2106,
+    "level": 3
   },
   "3477": {
     "id": 3477,
@@ -22610,10 +22610,10 @@
   "3479": {
     "id": 3479,
     "name": "Overcoming the Past",
-    "path": "Narrative Tropes > Overcoming the Past",
+    "path": "Narrative Tropes > Backstory > Overcoming the Past",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7506,
+    "level": 3
   },
   "3480": {
     "id": 3480,
@@ -22650,10 +22650,10 @@
   "3484": {
     "id": 3484,
     "name": "Dead Father",
-    "path": "Relationship > Family > Parent-Child > Dead Father",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Dead Father",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3485": {
     "id": 3485,
@@ -22714,10 +22714,10 @@
   "3492": {
     "id": 3492,
     "name": "Male Disguised as Female",
-    "path": "Narrative Tropes > Male Disguised as Female",
+    "path": "Narrative Tropes > Identity Tropes > Male Disguised as Female",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3493": {
     "id": 3493,
@@ -22746,10 +22746,10 @@
   "3496": {
     "id": 3496,
     "name": "Siblings Not Related By Blood",
-    "path": "Relationship > Family > Siblings > Siblings Not Related By Blood",
+    "path": "Relationship > Family Relationship > Family > Siblings > Siblings Not Related By Blood",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3497": {
     "id": 3497,
@@ -22762,10 +22762,10 @@
   "3498": {
     "id": 3498,
     "name": "Escape",
-    "path": "Narrative Tropes > Escape",
+    "path": "Narrative Tropes > Survival > Escape",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "3499": {
     "id": 3499,
@@ -22778,10 +22778,10 @@
   "3500": {
     "id": 3500,
     "name": "In-Laws",
-    "path": "Relationship > Family > Extended Family > In-Laws",
+    "path": "Relationship > Family Relationship > Family > Extended Family > In-Laws",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3501": {
     "id": 3501,
@@ -22794,10 +22794,10 @@
   "3502": {
     "id": 3502,
     "name": "Ranked by Strength",
-    "path": "Narrative Tropes > Ranked by Strength",
+    "path": "Narrative Tropes > Power Dynamics > Ranked by Strength",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2105,
+    "level": 3
   },
   "3503": {
     "id": 3503,
@@ -22882,10 +22882,10 @@
   "3514": {
     "id": 3514,
     "name": "Deal",
-    "path": "Narrative Tropes > Deal",
+    "path": "Narrative Tropes > Faustian Bargain > Deal",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7512,
+    "level": 3
   },
   "3515": {
     "id": 3515,
@@ -22898,10 +22898,10 @@
   "3516": {
     "id": 3516,
     "name": "Family Reunited",
-    "path": "Relationship > Family Reunited",
+    "path": "Relationship > Family Relationship > Family Reunited",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3517": {
     "id": 3517,
@@ -22922,10 +22922,10 @@
   "3519": {
     "id": 3519,
     "name": "Married Protagonist",
-    "path": "Relationship > Married Protagonist",
+    "path": "Relationship > Family Relationship > Married Protagonist",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3520": {
     "id": 3520,
@@ -22962,10 +22962,10 @@
   "3524": {
     "id": 3524,
     "name": "Changing Fate",
-    "path": "Narrative Tropes > Changing Fate",
+    "path": "Themes > Philosophy > Fate > Changing Fate",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3378,
+    "level": 4
   },
   "3525": {
     "id": 3525,
@@ -23010,10 +23010,10 @@
   "3530": {
     "id": 3530,
     "name": "On the Run",
-    "path": "Narrative Tropes > On the Run",
+    "path": "Narrative Tropes > Survival > On the Run",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "3531": {
     "id": 3531,
@@ -23034,10 +23034,10 @@
   "3533": {
     "id": 3533,
     "name": "Protective Brother",
-    "path": "Relationship > Family > Siblings > Protective Brother",
+    "path": "Relationship > Family Relationship > Family > Siblings > Protective Brother",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3534": {
     "id": 3534,
@@ -23258,10 +23258,10 @@
   "3565": {
     "id": 3565,
     "name": "Unusual First Meeting",
-    "path": "Narrative Tropes > Unusual First Meeting",
+    "path": "Narrative Tropes > Fateful Encounters > Unusual First Meeting",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7513,
+    "level": 3
   },
   "3566": {
     "id": 3566,
@@ -23378,10 +23378,10 @@
   "3581": {
     "id": 3581,
     "name": "Wife",
-    "path": "Relationship > Wife",
+    "path": "Relationship > Family Relationship > Wife",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3582": {
     "id": 3582,
@@ -23394,10 +23394,10 @@
   "3583": {
     "id": 3583,
     "name": "Father",
-    "path": "Relationship > Family > Parent-Child > Father",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Father",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3584": {
     "id": 3584,
@@ -23458,10 +23458,10 @@
   "3592": {
     "id": 3592,
     "name": "Stepsister",
-    "path": "Relationship > Stepsister",
+    "path": "Relationship > Family Relationship > Stepsister",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3593": {
     "id": 3593,
@@ -23578,10 +23578,10 @@
   "3608": {
     "id": 3608,
     "name": "Memory Erasure",
-    "path": "Narrative Tropes > Memory Manipulation > Memory Erasure",
+    "path": "Narrative Tropes > Mental Manipulation > Memory Manipulation > Memory Erasure",
     "is_genre": false,
     "parent_id": 679,
-    "level": 3
+    "level": 4
   },
   "3609": {
     "id": 3609,
@@ -23594,10 +23594,10 @@
   "3610": {
     "id": 3610,
     "name": "Sibling Love",
-    "path": "Relationship > Family > Siblings > Sibling Love",
+    "path": "Relationship > Family Relationship > Family > Siblings > Sibling Love",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3611": {
     "id": 3611,
@@ -23666,18 +23666,18 @@
   "3619": {
     "id": 3619,
     "name": "Irresponsible Parent",
-    "path": "Relationship > Family > Parent-Child > Irresponsible Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Irresponsible Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3620": {
     "id": 3620,
     "name": "Loving Family",
-    "path": "Relationship > Loving Family",
+    "path": "Relationship > Family Relationship > Loving Family",
     "is_genre": false,
-    "parent_id": 566,
-    "level": 2
+    "parent_id": 7329,
+    "level": 3
   },
   "3621": {
     "id": 3621,
@@ -23898,26 +23898,26 @@
   "3649": {
     "id": 3649,
     "name": "Trapped",
-    "path": "Narrative Tropes > Trapped",
+    "path": "Narrative Tropes > Survival > Trapped",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "3650": {
     "id": 3650,
     "name": "Troubled Past",
-    "path": "Narrative Tropes > Tragic Past > Troubled Past",
+    "path": "Narrative Tropes > Backstory > Tragic Past > Troubled Past",
     "is_genre": false,
     "parent_id": 898,
-    "level": 3
+    "level": 4
   },
   "3651": {
     "id": 3651,
     "name": "Image Change",
-    "path": "Narrative Tropes > Image Change",
+    "path": "Narrative Tropes > Character Change > Image Change",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "3652": {
     "id": 3652,
@@ -23930,10 +23930,10 @@
   "3653": {
     "id": 3653,
     "name": "Searching for Something",
-    "path": "Narrative Tropes > Searching for Something",
+    "path": "Narrative Tropes > Quest > Searching for Something",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3355,
+    "level": 3
   },
   "3655": {
     "id": 3655,
@@ -24154,18 +24154,18 @@
   "3683": {
     "id": 3683,
     "name": "Special Technique",
-    "path": "Narrative Tropes > Special Technique",
+    "path": "Narrative Tropes > Battle Tropes > Special Technique",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7510,
+    "level": 3
   },
   "3684": {
     "id": 3684,
     "name": "Adoptive Sibling",
-    "path": "Relationship > Family > Siblings > Adoptive Sibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Adoptive Sibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3685": {
     "id": 3685,
@@ -24250,10 +24250,10 @@
   "3696": {
     "id": 3696,
     "name": "Abusive Sibling",
-    "path": "Relationship > Family > Siblings > Abusive Sibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Abusive Sibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3697": {
     "id": 3697,
@@ -24314,10 +24314,10 @@
   "3705": {
     "id": 3705,
     "name": "Lost Mother",
-    "path": "Relationship > Family > Parent-Child > Lost Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Lost Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3706": {
     "id": 3706,
@@ -24402,18 +24402,18 @@
   "3716": {
     "id": 3716,
     "name": "Mission",
-    "path": "Narrative Tropes > Mission",
+    "path": "Narrative Tropes > Quest > Mission",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3355,
+    "level": 3
   },
   "3717": {
     "id": 3717,
     "name": "Nephew",
-    "path": "Relationship > Family > Extended Family > Nephew",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Nephew",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3718": {
     "id": 3718,
@@ -24458,18 +24458,18 @@
   "3723": {
     "id": 3723,
     "name": "Skill Growth",
-    "path": "Narrative Tropes > Skill Growth",
+    "path": "Narrative Tropes > Character Change > Skill Growth",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "3724": {
     "id": 3724,
     "name": "Daughter",
-    "path": "Relationship > Family > Parent-Child > Daughter",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Daughter",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3725": {
     "id": 3725,
@@ -24786,10 +24786,10 @@
   "3767": {
     "id": 3767,
     "name": "Stepfather",
-    "path": "Relationship > Family > Parent-Child > Stepfather",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Stepfather",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3768": {
     "id": 3768,
@@ -24938,10 +24938,10 @@
   "3787": {
     "id": 3787,
     "name": "Long Lost Sibling",
-    "path": "Relationship > Family > Siblings > Long Lost Sibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Long Lost Sibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3788": {
     "id": 3788,
@@ -25122,10 +25122,10 @@
   "3813": {
     "id": 3813,
     "name": "Card Battle",
-    "path": "Narrative Tropes > Card Battle",
+    "path": "Narrative Tropes > Elimination Games > Card Battle",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7509,
+    "level": 3
   },
   "3814": {
     "id": 3814,
@@ -25154,10 +25154,10 @@
   "3817": {
     "id": 3817,
     "name": "Distant Parent",
-    "path": "Relationship > Family > Parent-Child > Distant Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Distant Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3818": {
     "id": 3818,
@@ -25290,10 +25290,10 @@
   "3834": {
     "id": 3834,
     "name": "Child Ren Death",
-    "path": "Relationship > Family > Parent-Child > Child Ren Death",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Child Ren Death",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3836": {
     "id": 3836,
@@ -25426,10 +25426,10 @@
   "3853": {
     "id": 3853,
     "name": "Brother-in-Law",
-    "path": "Relationship > Family > Extended Family > Brother-in-Law",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Brother-in-Law",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3854": {
     "id": 3854,
@@ -25450,10 +25450,10 @@
   "3856": {
     "id": 3856,
     "name": "Half Brothers",
-    "path": "Relationship > Family > Siblings > Half Brothers",
+    "path": "Relationship > Family Relationship > Family > Siblings > Half Brothers",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3857": {
     "id": 3857,
@@ -25522,10 +25522,10 @@
   "3865": {
     "id": 3865,
     "name": "Sudden Disappearance",
-    "path": "Narrative Tropes > Sudden Disappearance",
+    "path": "Themes > Mystery > Sudden Disappearance",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 32,
+    "level": 3
   },
   "3866": {
     "id": 3866,
@@ -25586,10 +25586,10 @@
   "3873": {
     "id": 3873,
     "name": "Secret Child Ren",
-    "path": "Relationship > Family > Parent-Child > Secret Child Ren",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Secret Child Ren",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3874": {
     "id": 3874,
@@ -25634,10 +25634,10 @@
   "3879": {
     "id": 3879,
     "name": "Niece",
-    "path": "Relationship > Family > Extended Family > Niece",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Niece",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "3880": {
     "id": 3880,
@@ -25682,10 +25682,10 @@
   "3889": {
     "id": 3889,
     "name": "Running Gags",
-    "path": "Narrative Tropes > Running Gags",
+    "path": "Themes > Comedy > Running Gags",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 6,
+    "level": 3
   },
   "3891": {
     "id": 3891,
@@ -25754,10 +25754,10 @@
   "3901": {
     "id": 3901,
     "name": "Sick Parent",
-    "path": "Relationship > Family > Parent-Child > Sick Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Sick Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3902": {
     "id": 3902,
@@ -25890,10 +25890,10 @@
   "3919": {
     "id": 3919,
     "name": "Magical Transformation",
-    "path": "Narrative Tropes > Magical Transformation",
+    "path": "Narrative Tropes > Character Change > Transformation > Magical Transformation",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 275,
+    "level": 4
   },
   "3920": {
     "id": 3920,
@@ -26010,10 +26010,10 @@
   "3938": {
     "id": 3938,
     "name": "Overprotective Parent",
-    "path": "Relationship > Family > Parent-Child > Overprotective Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Overprotective Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "3939": {
     "id": 3939,
@@ -26042,10 +26042,10 @@
   "3943": {
     "id": 3943,
     "name": "Alter Ego",
-    "path": "Narrative Tropes > Alter Ego",
+    "path": "Narrative Tropes > Identity Tropes > Alter Ego",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3944": {
     "id": 3944,
@@ -26058,10 +26058,10 @@
   "3945": {
     "id": 3945,
     "name": "Facade",
-    "path": "Narrative Tropes > Facade",
+    "path": "Narrative Tropes > Identity Tropes > Facade",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "3946": {
     "id": 3946,
@@ -26298,10 +26298,10 @@
   "3979": {
     "id": 3979,
     "name": "Overshadowed By Siblings",
-    "path": "Relationship > Family > Siblings > Overshadowed By Siblings",
+    "path": "Relationship > Family Relationship > Family > Siblings > Overshadowed By Siblings",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "3980": {
     "id": 3980,
@@ -26418,10 +26418,10 @@
   "3995": {
     "id": 3995,
     "name": "Future Plays a Big Role",
-    "path": "Narrative Tropes > Future Plays a Big Role",
+    "path": "Narrative Tropes > Time Passage > Future Plays a Big Role",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7507,
+    "level": 3
   },
   "3996": {
     "id": 3996,
@@ -26474,10 +26474,10 @@
   "4002": {
     "id": 4002,
     "name": "Secret Child",
-    "path": "Relationship > Family > Parent-Child > Secret Child",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Secret Child",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4003": {
     "id": 4003,
@@ -26554,10 +26554,10 @@
   "4012": {
     "id": 4012,
     "name": "Hiding True Gender",
-    "path": "Narrative Tropes > Hiding True Gender",
+    "path": "Narrative Tropes > Identity Tropes > Hiding True Gender",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "4013": {
     "id": 4013,
@@ -26690,10 +26690,10 @@
   "4029": {
     "id": 4029,
     "name": "Parental Interference",
-    "path": "Relationship > Family > Family Dynamics > Parental Interference",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Parental Interference",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "4030": {
     "id": 4030,
@@ -26706,10 +26706,10 @@
   "4031": {
     "id": 4031,
     "name": "Story Within Story",
-    "path": "Narrative Tropes > Story Within Story",
+    "path": "Narrative Tropes > Story Structure > Story Within Story",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 1360,
+    "level": 3
   },
   "4032": {
     "id": 4032,
@@ -26738,10 +26738,10 @@
   "4036": {
     "id": 4036,
     "name": "Ancestors",
-    "path": "Relationship > Family > Extended Family > Ancestors",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Ancestors",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "4038": {
     "id": 4038,
@@ -26842,10 +26842,10 @@
   "4054": {
     "id": 4054,
     "name": "Granddaughter",
-    "path": "Relationship > Family > Extended Family > Granddaughter",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Granddaughter",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "4055": {
     "id": 4055,
@@ -26898,10 +26898,10 @@
   "4061": {
     "id": 4061,
     "name": "Time Paradox",
-    "path": "Narrative Tropes > Time Paradox",
+    "path": "Narrative Tropes > Time Passage > Time Paradox",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7507,
+    "level": 3
   },
   "4062": {
     "id": 4062,
@@ -26914,10 +26914,10 @@
   "4063": {
     "id": 4063,
     "name": "Yaoi Hand Syndrome",
-    "path": "Narrative Tropes > Yaoi Hand Syndrome",
+    "path": "Narrative Tropes > Storytelling Techniques > Meta > Yaoi Hand Syndrome",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 757,
+    "level": 4
   },
   "4064": {
     "id": 4064,
@@ -27162,10 +27162,10 @@
   "4097": {
     "id": 4097,
     "name": "Stranded",
-    "path": "Narrative Tropes > Stranded",
+    "path": "Narrative Tropes > Survival > Stranded",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "4098": {
     "id": 4098,
@@ -27426,10 +27426,10 @@
   "4135": {
     "id": 4135,
     "name": "Sick Family Member",
-    "path": "Relationship > Family > Family Dynamics > Sick Family Member",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Sick Family Member",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "4136": {
     "id": 4136,
@@ -27498,18 +27498,18 @@
   "4145": {
     "id": 4145,
     "name": "Painful Past",
-    "path": "Narrative Tropes > Painful Past",
+    "path": "Narrative Tropes > Backstory > Painful Past",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7506,
+    "level": 3
   },
   "4146": {
     "id": 4146,
     "name": "Searching for a Cure",
-    "path": "Narrative Tropes > Searching for a Cure",
+    "path": "Narrative Tropes > Quest > Searching for a Cure",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 3355,
+    "level": 3
   },
   "4147": {
     "id": 4147,
@@ -27546,10 +27546,10 @@
   "4151": {
     "id": 4151,
     "name": "Character Transformation",
-    "path": "Narrative Tropes > Character Transformation",
+    "path": "Narrative Tropes > Character Change > Transformation > Character Transformation",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 275,
+    "level": 4
   },
   "4152": {
     "id": 4152,
@@ -27714,10 +27714,10 @@
   "4173": {
     "id": 4173,
     "name": "Black and White Webtoon/Webcomic",
-    "path": "Work Info > Black and White Webtoon/Webcomic",
+    "path": "Work Info > Publication Medium > Black and White Webtoon/Webcomic",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 426,
+    "level": 3
   },
   "4174": {
     "id": 4174,
@@ -27738,10 +27738,10 @@
   "4176": {
     "id": 4176,
     "name": "Descendants",
-    "path": "Relationship > Family > Extended Family > Descendants",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Descendants",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "4177": {
     "id": 4177,
@@ -27866,10 +27866,10 @@
   "4195": {
     "id": 4195,
     "name": "Grandson",
-    "path": "Relationship > Family > Extended Family > Grandson",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Grandson",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "4196": {
     "id": 4196,
@@ -28034,10 +28034,10 @@
   "4218": {
     "id": 4218,
     "name": "Past Promise",
-    "path": "Themes > Past Promise",
+    "path": "Narrative Tropes > Oaths > Past Promise",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7514,
+    "level": 3
   },
   "4219": {
     "id": 4219,
@@ -28586,18 +28586,18 @@
   "4297": {
     "id": 4297,
     "name": "Sudden Servitude",
-    "path": "Narrative Tropes > Sudden Servitude",
+    "path": "Narrative Tropes > Power Dynamics > Sudden Servitude",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2105,
+    "level": 3
   },
   "4298": {
     "id": 4298,
     "name": "Unpopular to Popular",
-    "path": "Narrative Tropes > Unpopular to Popular",
+    "path": "Narrative Tropes > Character Change > Unpopular to Popular",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "4299": {
     "id": 4299,
@@ -28922,18 +28922,18 @@
   "4349": {
     "id": 4349,
     "name": "Animal S Pov",
-    "path": "Narrative Tropes > Animal S Pov",
+    "path": "Narrative Tropes > Storytelling Techniques > Animal S Pov",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2108,
+    "level": 3
   },
   "4350": {
     "id": 4350,
     "name": "BL Played for Comedy",
-    "path": "Narrative Tropes > BL Played for Comedy",
+    "path": "Themes > Comedy > BL Played for Comedy",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 6,
+    "level": 3
   },
   "4351": {
     "id": 4351,
@@ -28978,10 +28978,10 @@
   "4356": {
     "id": 4356,
     "name": "Hiding Real Identity",
-    "path": "Narrative Tropes > Hiding Real Identity",
+    "path": "Narrative Tropes > Identity Tropes > Hiding Real Identity",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "4357": {
     "id": 4357,
@@ -29050,10 +29050,10 @@
   "4368": {
     "id": 4368,
     "name": "Sudden Ambience Shift",
-    "path": "Narrative Tropes > Sudden Ambience Shift",
+    "path": "Narrative Tropes > Sudden Twists > Sudden Ambience Shift",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7511,
+    "level": 3
   },
   "4369": {
     "id": 4369,
@@ -29106,10 +29106,10 @@
   "4375": {
     "id": 4375,
     "name": "Child Custody",
-    "path": "Relationship > Family > Family Dynamics > Child Custody",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Child Custody",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "4377": {
     "id": 4377,
@@ -29514,10 +29514,10 @@
   "4441": {
     "id": 4441,
     "name": "Broken Promise",
-    "path": "Themes > Broken Promise",
+    "path": "Narrative Tropes > Oaths > Broken Promise",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7514,
+    "level": 3
   },
   "4442": {
     "id": 4442,
@@ -29714,10 +29714,10 @@
   "4473": {
     "id": 4473,
     "name": "Regain Memory",
-    "path": "Narrative Tropes > Regain Memory",
+    "path": "Narrative Tropes > Memory Tropes > Regain Memory",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "4474": {
     "id": 4474,
@@ -29778,10 +29778,10 @@
   "4482": {
     "id": 4482,
     "name": "Change of Career",
-    "path": "Narrative Tropes > Change of Career",
+    "path": "Narrative Tropes > Character Change > Change of Career",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "4483": {
     "id": 4483,
@@ -29930,10 +29930,10 @@
   "4506": {
     "id": 4506,
     "name": "Abused Family Member",
-    "path": "Relationship > Family > Family Dynamics > Abused Family Member",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Abused Family Member",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "4507": {
     "id": 4507,
@@ -30234,10 +30234,10 @@
   "4550": {
     "id": 4550,
     "name": "Fight for the Throne",
-    "path": "Narrative Tropes > Fight for the Throne",
+    "path": "Themes > Politics > Fight for the Throne",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 378,
+    "level": 3
   },
   "4551": {
     "id": 4551,
@@ -30330,10 +30330,10 @@
   "4567": {
     "id": 4567,
     "name": "Adoptive Family",
-    "path": "Relationship > Family > Family Dynamics > Adoptive Family",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Adoptive Family",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "4568": {
     "id": 4568,
@@ -30410,10 +30410,10 @@
   "4578": {
     "id": 4578,
     "name": "Hidden Child",
-    "path": "Relationship > Family > Parent-Child > Hidden Child",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Hidden Child",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4579": {
     "id": 4579,
@@ -30490,10 +30490,10 @@
   "4589": {
     "id": 4589,
     "name": "Stepdaughter",
-    "path": "Relationship > Family > Parent-Child > Stepdaughter",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Stepdaughter",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4591": {
     "id": 4591,
@@ -30538,10 +30538,10 @@
   "4597": {
     "id": 4597,
     "name": "Cover Up",
-    "path": "Narrative Tropes > Cover Up",
+    "path": "Narrative Tropes > Identity Tropes > Cover Up",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7504,
+    "level": 3
   },
   "4598": {
     "id": 4598,
@@ -30594,10 +30594,10 @@
   "4607": {
     "id": 4607,
     "name": "Half Sisters",
-    "path": "Relationship > Family > Siblings > Half Sisters",
+    "path": "Relationship > Family Relationship > Family > Siblings > Half Sisters",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "4608": {
     "id": 4608,
@@ -30626,10 +30626,10 @@
   "4611": {
     "id": 4611,
     "name": "Origin Story",
-    "path": "Narrative Tropes > Origin Story",
+    "path": "Narrative Tropes > Story Structure > Origin Story",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 1360,
+    "level": 3
   },
   "4612": {
     "id": 4612,
@@ -30698,10 +30698,10 @@
   "4621": {
     "id": 4621,
     "name": "Strong Father",
-    "path": "Relationship > Family > Parent-Child > Strong Father",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Strong Father",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4622": {
     "id": 4622,
@@ -30714,10 +30714,10 @@
   "4624": {
     "id": 4624,
     "name": "Unreliable Narrator",
-    "path": "Narrative Tropes > Unreliable Narrator",
+    "path": "Narrative Tropes > Storytelling Techniques > Unreliable Narrator",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2108,
+    "level": 3
   },
   "4625": {
     "id": 4625,
@@ -30858,10 +30858,10 @@
   "4649": {
     "id": 4649,
     "name": "Realistic Fighting",
-    "path": "Narrative Tropes > Realistic Fighting",
+    "path": "Narrative Tropes > Battle Tropes > Realistic Fighting",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7510,
+    "level": 3
   },
   "4650": {
     "id": 4650,
@@ -31066,10 +31066,10 @@
   "4682": {
     "id": 4682,
     "name": "Narrator",
-    "path": "Narrative Tropes > Narrator",
+    "path": "Narrative Tropes > Storytelling Techniques > Narrator",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2108,
+    "level": 3
   },
   "4685": {
     "id": 4685,
@@ -31194,10 +31194,10 @@
   "4704": {
     "id": 4704,
     "name": "Game Mixes with Reality",
-    "path": "Narrative Tropes > Game Mixes with Reality",
+    "path": "Narrative Tropes > Elimination Games > Game Mixes with Reality",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7509,
+    "level": 3
   },
   "4705": {
     "id": 4705,
@@ -31234,10 +31234,10 @@
   "4710": {
     "id": 4710,
     "name": "Mysterious Past",
-    "path": "Narrative Tropes > Mysterious Past",
+    "path": "Narrative Tropes > Backstory > Mysterious Past",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7506,
+    "level": 3
   },
   "4711": {
     "id": 4711,
@@ -31482,10 +31482,10 @@
   "4753": {
     "id": 4753,
     "name": "Bought by Money",
-    "path": "Narrative Tropes > Bought by Money",
+    "path": "Narrative Tropes > Power Dynamics > Bought by Money",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2105,
+    "level": 3
   },
   "4754": {
     "id": 4754,
@@ -31634,18 +31634,18 @@
   "4778": {
     "id": 4778,
     "name": "Stepson",
-    "path": "Relationship > Family > Parent-Child > Stepson",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Stepson",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4779": {
     "id": 4779,
     "name": "Strong to Weak",
-    "path": "Narrative Tropes > Strong to Weak",
+    "path": "Narrative Tropes > Character Change > Strong to Weak",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "4780": {
     "id": 4780,
@@ -31914,10 +31914,10 @@
   "4827": {
     "id": 4827,
     "name": "Strong Mother",
-    "path": "Relationship > Family > Parent-Child > Strong Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Strong Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4828": {
     "id": 4828,
@@ -31930,10 +31930,10 @@
   "4829": {
     "id": 4829,
     "name": "Triplets",
-    "path": "Relationship > Family > Siblings > Triplets",
+    "path": "Relationship > Family Relationship > Family > Siblings > Triplets",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "4830": {
     "id": 4830,
@@ -32170,10 +32170,10 @@
   "4864": {
     "id": 4864,
     "name": "Taking The Place Of A Sibling",
-    "path": "Relationship > Family > Siblings > Taking The Place Of A Sibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Taking The Place Of A Sibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "4865": {
     "id": 4865,
@@ -32354,10 +32354,10 @@
   "4890": {
     "id": 4890,
     "name": "Neglectful Father",
-    "path": "Relationship > Family > Parent-Child > Neglectful Father",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Neglectful Father",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4892": {
     "id": 4892,
@@ -32426,10 +32426,10 @@
   "4903": {
     "id": 4903,
     "name": "Supportive Family",
-    "path": "Relationship > Family > Family Dynamics > Supportive Family",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Supportive Family",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "4904": {
     "id": 4904,
@@ -32674,10 +32674,10 @@
   "4941": {
     "id": 4941,
     "name": "Path to King",
-    "path": "Narrative Tropes > Path to King",
+    "path": "Themes > Politics > Path to King",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 378,
+    "level": 3
   },
   "4942": {
     "id": 4942,
@@ -32714,10 +32714,10 @@
   "4947": {
     "id": 4947,
     "name": "Protective Sibling",
-    "path": "Relationship > Family > Siblings > Protective Sibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Protective Sibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "4948": {
     "id": 4948,
@@ -32978,10 +32978,10 @@
   "4990": {
     "id": 4990,
     "name": "Only Child",
-    "path": "Relationship > Family > Parent-Child > Only Child",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Only Child",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "4991": {
     "id": 4991,
@@ -33106,10 +33106,10 @@
   "5006": {
     "id": 5006,
     "name": "Unconventional Family",
-    "path": "Relationship > Family > Family Dynamics > Unconventional Family",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Unconventional Family",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "5008": {
     "id": 5008,
@@ -33266,10 +33266,10 @@
   "5031": {
     "id": 5031,
     "name": "Genre Shift",
-    "path": "Narrative Tropes > Genre Shift",
+    "path": "Narrative Tropes > Plot Structure > Genre Shift",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2106,
+    "level": 3
   },
   "5033": {
     "id": 5033,
@@ -33314,10 +33314,10 @@
   "5042": {
     "id": 5042,
     "name": "Memories of Past Body Owner",
-    "path": "Narrative Tropes > Memories of Past Body Owner",
+    "path": "Narrative Tropes > Memory Tropes > Memories of Past Body Owner",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "5043": {
     "id": 5043,
@@ -33338,10 +33338,10 @@
   "5045": {
     "id": 5045,
     "name": "Monster Pov",
-    "path": "Narrative Tropes > Monster Pov",
+    "path": "Narrative Tropes > Storytelling Techniques > Monster Pov",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2108,
+    "level": 3
   },
   "5046": {
     "id": 5046,
@@ -33370,10 +33370,10 @@
   "5051": {
     "id": 5051,
     "name": "Perverted Parent",
-    "path": "Relationship > Family > Parent-Child > Perverted Parent",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Perverted Parent",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5052": {
     "id": 5052,
@@ -33490,10 +33490,10 @@
   "5070": {
     "id": 5070,
     "name": "Abusive In-Laws",
-    "path": "Relationship > Family > Extended Family > Abusive In-Laws",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Abusive In-Laws",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "5071": {
     "id": 5071,
@@ -33594,10 +33594,10 @@
   "5084": {
     "id": 5084,
     "name": "Dead Child/ren",
-    "path": "Relationship > Family > Parent-Child > Dead Child/ren",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Dead Child/ren",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5085": {
     "id": 5085,
@@ -33714,10 +33714,10 @@
   "5103": {
     "id": 5103,
     "name": "Protective Sister",
-    "path": "Relationship > Family > Siblings > Protective Sister",
+    "path": "Relationship > Family Relationship > Family > Siblings > Protective Sister",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "5104": {
     "id": 5104,
@@ -33826,10 +33826,10 @@
   "5120": {
     "id": 5120,
     "name": "Whodunit",
-    "path": "Narrative Tropes > Whodunit",
+    "path": "Themes > Mystery > Whodunit",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 32,
+    "level": 3
   },
   "5123": {
     "id": 5123,
@@ -33994,10 +33994,10 @@
   "5144": {
     "id": 5144,
     "name": "Exchange Student",
-    "path": "Narrative Tropes > Transfer Students > Exchange Student",
+    "path": "Locations > School > Transfer Students > Exchange Student",
     "is_genre": false,
     "parent_id": 412,
-    "level": 3
+    "level": 4
   },
   "5145": {
     "id": 5145,
@@ -34010,10 +34010,10 @@
   "5146": {
     "id": 5146,
     "name": "Fat to Fit",
-    "path": "Narrative Tropes > Fat to Fit",
+    "path": "Narrative Tropes > Character Change > Fat to Fit",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "5148": {
     "id": 5148,
@@ -34162,10 +34162,10 @@
   "5171": {
     "id": 5171,
     "name": "Son",
-    "path": "Relationship > Family > Parent-Child > Son",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Son",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5173": {
     "id": 5173,
@@ -34442,10 +34442,10 @@
   "5222": {
     "id": 5222,
     "name": "Young to Old",
-    "path": "Narrative Tropes > Young to Old",
+    "path": "Narrative Tropes > Character Change > Young to Old",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "5223": {
     "id": 5223,
@@ -34834,10 +34834,10 @@
   "5287": {
     "id": 5287,
     "name": "Neglectful Family",
-    "path": "Relationship > Family > Family Dynamics > Neglectful Family",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Neglectful Family",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "5289": {
     "id": 5289,
@@ -35090,10 +35090,10 @@
   "5327": {
     "id": 5327,
     "name": "Daughter-in-Law",
-    "path": "Relationship > Family > Extended Family > Daughter-in-Law",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Daughter-in-Law",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "5328": {
     "id": 5328,
@@ -35146,10 +35146,10 @@
   "5335": {
     "id": 5335,
     "name": "Fake Engagement",
-    "path": "Narrative Tropes > Fake Engagement",
+    "path": "Narrative Tropes > Love Tropes > Fake Engagement",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2109,
+    "level": 3
   },
   "5336": {
     "id": 5336,
@@ -35170,10 +35170,10 @@
   "5338": {
     "id": 5338,
     "name": "Human Raised By Animal S",
-    "path": "Relationship > Family > Parent-Child > Human Raised By Animal S",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Human Raised By Animal S",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5341": {
     "id": 5341,
@@ -35514,10 +35514,10 @@
   "5397": {
     "id": 5397,
     "name": "Fast Growth",
-    "path": "Narrative Tropes > Fast Growth",
+    "path": "Narrative Tropes > Character Change > Fast Growth",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "5398": {
     "id": 5398,
@@ -35914,10 +35914,10 @@
   "5467": {
     "id": 5467,
     "name": "Mother-in-Law",
-    "path": "Relationship > Family > Extended Family > Mother-in-Law",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Mother-in-Law",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "5469": {
     "id": 5469,
@@ -35946,10 +35946,10 @@
   "5473": {
     "id": 5473,
     "name": "Punishment Game",
-    "path": "Narrative Tropes > Punishment Game",
+    "path": "Narrative Tropes > Elimination Games > Punishment Game",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7509,
+    "level": 3
   },
   "5475": {
     "id": 5475,
@@ -36314,10 +36314,10 @@
   "5535": {
     "id": 5535,
     "name": "Substitute Bride/Groom",
-    "path": "Narrative Tropes > Substitute Bride/Groom",
+    "path": "Narrative Tropes > Love Tropes > Substitute Bride/Groom",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2109,
+    "level": 3
   },
   "5536": {
     "id": 5536,
@@ -36442,10 +36442,10 @@
   "5555": {
     "id": 5555,
     "name": "Falling From Grace",
-    "path": "Narrative Tropes > Falling From Grace",
+    "path": "Narrative Tropes > Character Change > Falling From Grace",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "5556": {
     "id": 5556,
@@ -36554,10 +36554,10 @@
   "5575": {
     "id": 5575,
     "name": "Metamorphosis",
-    "path": "Narrative Tropes > Metamorphosis",
+    "path": "Narrative Tropes > Character Change > Transformation > Metamorphosis",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 275,
+    "level": 4
   },
   "5576": {
     "id": 5576,
@@ -36626,10 +36626,10 @@
   "5587": {
     "id": 5587,
     "name": "Protective Father",
-    "path": "Relationship > Family > Parent-Child > Protective Father",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Protective Father",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5589": {
     "id": 5589,
@@ -37242,10 +37242,10 @@
   "5711": {
     "id": 5711,
     "name": "Game Show",
-    "path": "Narrative Tropes > Game Show",
+    "path": "Narrative Tropes > Elimination Games > Game Show",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7509,
+    "level": 3
   },
   "5713": {
     "id": 5713,
@@ -37418,10 +37418,10 @@
   "5739": {
     "id": 5739,
     "name": "Overprotective Father",
-    "path": "Relationship > Family > Parent-Child > Overprotective Father",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Overprotective Father",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5740": {
     "id": 5740,
@@ -37450,10 +37450,10 @@
   "5744": {
     "id": 5744,
     "name": "Protective Mother",
-    "path": "Relationship > Family > Parent-Child > Protective Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Protective Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5747": {
     "id": 5747,
@@ -37698,10 +37698,10 @@
   "5801": {
     "id": 5801,
     "name": "Father Figure",
-    "path": "Relationship > Family > Parent-Child > Father Figure",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Father Figure",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5802": {
     "id": 5802,
@@ -37826,10 +37826,10 @@
   "5837": {
     "id": 5837,
     "name": "Rebuilding",
-    "path": "Narrative Tropes > Rebuilding",
+    "path": "Narrative Tropes > Character Change > Rebuilding",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2107,
+    "level": 3
   },
   "5839": {
     "id": 5839,
@@ -37954,10 +37954,10 @@
   "5868": {
     "id": 5868,
     "name": "CGI",
-    "path": "Work Info > CGI",
+    "path": "Work Info > Production Style > CGI",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 1218,
+    "level": 3
   },
   "5869": {
     "id": 5869,
@@ -37970,10 +37970,10 @@
   "5870": {
     "id": 5870,
     "name": "Dangerous Family",
-    "path": "Relationship > Family > Family Dynamics > Dangerous Family",
+    "path": "Relationship > Family Relationship > Family > Family Dynamics > Dangerous Family",
     "is_genre": false,
     "parent_id": 1306,
-    "level": 4
+    "level": 5
   },
   "5873": {
     "id": 5873,
@@ -38018,10 +38018,10 @@
   "5880": {
     "id": 5880,
     "name": "Father-in-law",
-    "path": "Relationship > Family > Extended Family > Father-in-law",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Father-in-law",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "5881": {
     "id": 5881,
@@ -38226,10 +38226,10 @@
   "5913": {
     "id": 5913,
     "name": "Overprotective Mother",
-    "path": "Relationship > Family > Parent-Child > Overprotective Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Overprotective Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "5915": {
     "id": 5915,
@@ -38378,10 +38378,10 @@
   "5945": {
     "id": 5945,
     "name": "Abusive Stepsibling",
-    "path": "Relationship > Family > Siblings > Abusive Stepsibling",
+    "path": "Relationship > Family Relationship > Family > Siblings > Abusive Stepsibling",
     "is_genre": false,
     "parent_id": 254,
-    "level": 4
+    "level": 5
   },
   "5949": {
     "id": 5949,
@@ -38554,10 +38554,10 @@
   "5984": {
     "id": 5984,
     "name": "Endless Cycle",
-    "path": "Narrative Tropes > Endless Cycle",
+    "path": "Narrative Tropes > Plot Structure > Endless Cycle",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2106,
+    "level": 3
   },
   "5985": {
     "id": 5985,
@@ -38754,10 +38754,10 @@
   "6023": {
     "id": 6023,
     "name": "Monochrome",
-    "path": "Work Info > Monochrome",
+    "path": "Work Info > Publication Medium > Monochrome",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 426,
+    "level": 3
   },
   "6024": {
     "id": 6024,
@@ -38882,10 +38882,10 @@
   "6045": {
     "id": 6045,
     "name": "Relaunched as a New Series",
-    "path": "Narrative Tropes > Relaunched as a New Series",
+    "path": "Narrative Tropes > Plot Structure > Relaunched as a New Series",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2106,
+    "level": 3
   },
   "6047": {
     "id": 6047,
@@ -39002,10 +39002,10 @@
   "6072": {
     "id": 6072,
     "name": "Buried Alive",
-    "path": "Narrative Tropes > Buried Alive",
+    "path": "Narrative Tropes > Survival > Buried Alive",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "6073": {
     "id": 6073,
@@ -39258,10 +39258,10 @@
   "6123": {
     "id": 6123,
     "name": "Living the Past",
-    "path": "Narrative Tropes > Living the Past",
+    "path": "Narrative Tropes > Memory Tropes > Living the Past",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "6124": {
     "id": 6124,
@@ -39282,10 +39282,10 @@
   "6129": {
     "id": 6129,
     "name": "Memory Swap",
-    "path": "Narrative Tropes > Memory Swap",
+    "path": "Narrative Tropes > Memory Tropes > Memory Swap",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "6131": {
     "id": 6131,
@@ -39306,10 +39306,10 @@
   "6133": {
     "id": 6133,
     "name": "Neglectful Mother",
-    "path": "Relationship > Family > Parent-Child > Neglectful Mother",
+    "path": "Relationship > Family Relationship > Family > Parent-Child > Neglectful Mother",
     "is_genre": false,
     "parent_id": 1304,
-    "level": 4
+    "level": 5
   },
   "6134": {
     "id": 6134,
@@ -39498,10 +39498,10 @@
   "6174": {
     "id": 6174,
     "name": "Time Limit",
-    "path": "Narrative Tropes > Time Limit",
+    "path": "Narrative Tropes > Time Passage > Time Limit",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7507,
+    "level": 3
   },
   "6177": {
     "id": 6177,
@@ -39858,10 +39858,10 @@
   "6235": {
     "id": 6235,
     "name": "Long-Running Story",
-    "path": "Narrative Tropes > Long-Running Story",
+    "path": "Narrative Tropes > Plot Structure > Long-Running Story",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2106,
+    "level": 3
   },
   "6237": {
     "id": 6237,
@@ -40082,10 +40082,10 @@
   "6292": {
     "id": 6292,
     "name": "Bad Official English Translation",
-    "path": "Work Info > Production Status > English Version Dropped > Bad Official English Translation",
+    "path": "Work Info > Translation > Bad Official English Translation",
     "is_genre": false,
-    "parent_id": 2057,
-    "level": 4
+    "parent_id": 7503,
+    "level": 3
   },
   "6295": {
     "id": 6295,
@@ -40186,10 +40186,10 @@
   "6317": {
     "id": 6317,
     "name": "Failed Escape",
-    "path": "Narrative Tropes > Failed Escape",
+    "path": "Narrative Tropes > Survival > Failed Escape",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 265,
+    "level": 3
   },
   "6318": {
     "id": 6318,
@@ -40218,10 +40218,10 @@
   "6324": {
     "id": 6324,
     "name": "Full CGI",
-    "path": "Work Info > Full CGI",
+    "path": "Work Info > Production Style > Full CGI",
     "is_genre": false,
-    "parent_id": 562,
-    "level": 2
+    "parent_id": 1218,
+    "level": 3
   },
   "6325": {
     "id": 6325,
@@ -40338,10 +40338,10 @@
   "6347": {
     "id": 6347,
     "name": "Losing Memories",
-    "path": "Narrative Tropes > Losing Memories",
+    "path": "Narrative Tropes > Memory Tropes > Losing Memories",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 7505,
+    "level": 3
   },
   "6348": {
     "id": 6348,
@@ -42530,10 +42530,10 @@
   "6941": {
     "id": 6941,
     "name": "Grandparent",
-    "path": "Relationship > Family > Extended Family > Grandparent",
+    "path": "Relationship > Family Relationship > Family > Extended Family > Grandparent",
     "is_genre": false,
     "parent_id": 1305,
-    "level": 4
+    "level": 5
   },
   "6943": {
     "id": 6943,
@@ -42658,10 +42658,10 @@
   "6989": {
     "id": 6989,
     "name": "Object Transformed into Human",
-    "path": "Narrative Tropes > Object Transformed into Human",
+    "path": "Narrative Tropes > Character Change > Transformation > Object Transformed into Human",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 275,
+    "level": 4
   },
   "6990": {
     "id": 6990,
@@ -43018,10 +43018,10 @@
   "7162": {
     "id": 7162,
     "name": "Honeymoon",
-    "path": "Narrative Tropes > Honeymoon",
+    "path": "Narrative Tropes > Love Tropes > Honeymoon",
     "is_genre": false,
-    "parent_id": 563,
-    "level": 2
+    "parent_id": 2109,
+    "level": 3
   },
   "7163": {
     "id": 7163,

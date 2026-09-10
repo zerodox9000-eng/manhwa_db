@@ -2,14 +2,23 @@
   "id": 8851,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Tiger Brother - Barkhan",
-  "mangabaka_title": "Tiger Brother Barkhan",
-  "native_title": "虎大哥",
-  "romanized_title": null,
+  "display_title": "Tiger Brother",
+  "mangabaka_title": "Horangi Hyungnim",
+  "native_title": "호랑이형님",
+  "romanized_title": "Horangi Hyungnim",
   "titles": [
     {
       "language": "ko",
       "title": "호랑이형님",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Barkhan",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -20,21 +29,44 @@
       "traits": [
         "native"
       ],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Horangi Hyeongnim",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Horangi Hyungnim",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
-      "title": "Tiger Brother",
+      "title": "Tiger Aniki",
       "traits": [],
       "is_primary": false,
       "note": null
     },
     {
       "language": "en",
-      "title": "Tiger Brother - Barkhan",
+      "title": "Tiger Brother",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Tiger Brother - Barkhan",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -46,7 +78,7 @@
     },
     {
       "language": "ru",
-      "title": "Братец тигр - Бархан",
+      "title": "Братец тигр — Бархан",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -66,29 +98,29 @@
       "note": null
     }
   ],
-  "description": "White Eyebrows wants to dominate the world and for that he will need the power of a magical child. But the child's guardian is no other than San-goon, the powerful tiger who swore to protect it by the will of his old master. From now on White Eyebrows will send a combined force after them but it'll be up to San-goon to defend not only the child but the world from White Eyebrows's ambition!\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=650305), [Naver Series](https://series.naver.com/comic/detail.series?productNo=1880317)\n\n**Official Translations:**  \n[T.Chinese](https://www.webtoons.com/zh-hant/martial-arts/hudage/list?title_no=1165), [Japanese](https://manga.line.me/product/periodic?id=Z0000990)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RpZ2VyLWJyb3RoZXItYmFya2hhbi0xLmpwZz90PTE2MjU5MTQxNDg",
+  "description": "White Eyebrows wants to dominate the world and for that he will need the power of a magical child!\nBut the child's guardian is none other than San-Goon, the powerful tiger who swore to protect the child by the will of his old master. Now, White Eyebrows will send his armies after them but it will be up to San-Goon to defend not only the child but the world from White Eyebrows's ambition!\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDEwOTIyMi1HYnRjaVVwQ1ZWRVcucG5n",
   "total_chapters": "419",
-  "status": "completed",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2015,
   "published": {
-    "start_date": "2015-01-01",
+    "start_date": "2015-03-20",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:38:01.911Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T08:47:24.173Z",
+  "last_updated_at": "2026-09-09T18:39:23.495Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Li Sang Gyu"
+    "Sang Gyu Lee"
   ],
   "artists": [
-    "Li Sang Gyu"
+    "Sang Gyu Lee"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/8851",
@@ -96,7 +128,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 109222,
+      "rating": 65,
+      "url": "https://anilist.co/manga/109222"
+    },
     "animeplanet": {
       "id": "tiger-brother-barkhan",
       "rating": null,
@@ -112,11 +148,14 @@
     38,
     2828,
     36,
+    259,
     22,
+    278,
     284,
     3612,
     3212,
     39,
+    37,
     31,
     772,
     776,
@@ -126,15 +165,38 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "22": "defining",
+    "31": "defining",
+    "36": "unweighted",
+    "37": "unweighted",
+    "38": "defining",
+    "39": "defining",
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "259": "unweighted",
+    "278": "unweighted",
+    "284": "unweighted",
+    "428": "unweighted",
+    "772": "defining",
+    "776": "defining",
+    "2828": "defining",
+    "3212": "defining",
+    "3612": "defining",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 176,
+    "favourites": 4,
+    "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 2.2727,
+    "fanRatioPercentile": 78.5652,
+    "popularityPercentile": 49.0503,
+    "fanFavouriteDiscoveryScore": 72.1546,
+    "fanFavouriteDiscoveryPercentile": 79.7925
   },
   "context": {
     "primaryProfile": "modern-korea",
