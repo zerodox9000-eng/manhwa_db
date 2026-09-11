@@ -1,5 +1,10 @@
 const fs = require("fs");
 const path = require("path");
+const { getEnglishReadLinks } = require("./englishReadLinks");
+const {
+  applyTagOverrides,
+  loadTagOverrides,
+} = require("./tagOverrides");
 
 const INPUT_DIR = path.resolve(
   __dirname,
@@ -15,6 +20,8 @@ const TAGS_OUTPUT = path.resolve(
   __dirname,
   "../../db/processed/tags"
 );
+
+const tagOverrides = loadTagOverrides();
 
 if (!fs.existsSync(TAGS_OUTPUT)) {
 
@@ -125,27 +132,6 @@ function cleanTitleEntry(title) {
 function getMangabakaLink(series) {
 
   return `https://mangabaka.org/${series.id}`;
-}
-
-function getEnglishReadLinks(series) {
-
-  const allLinks =
-    Array.isArray(series.links_v2)
-      ? series.links_v2
-      : [];
-
-  return [
-    ...new Set(
-      allLinks
-        .filter(
-          link =>
-            link?.language === "en" &&
-            link?.type === "webplatform"
-        )
-        .map(link => String(link.url || "").trim())
-        .filter(Boolean)
-    )
-  ];
 }
 
 function getSource(series) {
@@ -331,7 +317,7 @@ function normalizeTags(series) {
     id: series.id,
 
     tags_v2:
-      series.tags_v2 || []
+      applyTagOverrides(series, tagOverrides)
   };
 }
 

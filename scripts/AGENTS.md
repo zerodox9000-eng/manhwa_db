@@ -22,6 +22,7 @@ Owns backend pipeline scripts for fetching, updating, normalizing, enriching, sn
 - Do not publish partial data silently. If a year, source, or enrichment pass fails, make the failure visible and preserve consistency.
 - Keep exported schemas backward-compatible with the frontend unless the frontend repo is updated in the same task.
 - `db/curation/title-display-overrides.json` is an audited display-title registry. Export builders apply it only to frontend display values after normalization; raw source titles remain untouched. Each override must match a stored MangaBaka title variant or the build must fail.
+- `db/curation/tag-overrides.json` is an audited normalized-tag registry. Normalization applies only its explicit removals to processed tag records; raw source tags remain untouched.
 - Normalization preserves every unique MangaBaka `links_v2` English `webplatform` URL in `links.read_en_all`. It also keeps the first URL in legacy `links.read_en` so older frontend versions remain compatible. Export builders must preserve both fields.
 - The daily pipeline does not fetch MangaBaka's `sort_by=latest` listing. Existing exported `mangabaka_latest_rank` values remain compatibility data for saved feeds, but the cache is no longer refreshed or used by a shipped default feed.
 - The compact frontend catalogue exports each processed record's MangaBaka `type`. The frontend uses it to separate `oel` from manhwa locally and derives MangaBaka-backed Add order from descending MangaBaka IDs without another latest-listing request.
