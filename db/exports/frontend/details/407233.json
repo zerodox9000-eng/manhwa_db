@@ -17,6 +17,20 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Damn Ghost Story",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "pt-br",
+      "title": "Histórias Originais de Terror",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "es",
       "title": "Historias originales de terror",
       "traits": [],
@@ -49,8 +63,29 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Sibal Goedam (Gangsan)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "it",
       "title": "Storie originali del terrore",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh",
+      "title": "始发怪谈",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "始発怪談",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -60,6 +95,13 @@
       "title": "始發 괴담",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "zh-hk",
+      "title": "始發怪談",
+      "traits": [],
+      "is_primary": true,
       "note": null
     }
   ],
@@ -78,7 +120,7 @@
   },
   "first_seen_at": "2026-06-10T15:38:39.045Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-03T07:53:16.644Z",
+  "last_updated_at": "2026-09-10T16:06:23.324Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -103,12 +145,18 @@
       "rating": 68,
       "url": "https://www.anime-planet.com/manga/original-horror-stories"
     },
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "8yzektg",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/8yzektg"
+    }
   },
   "tag_ids": [
+    8,
     3090,
     22,
     229,
+    31,
     44,
     32,
     262,
@@ -119,8 +167,10 @@
     7332
   ],
   "tag_weights": {
+    "8": "unweighted",
     "19": "defining",
-    "22": "unweighted",
+    "22": "defining",
+    "31": "unweighted",
     "32": "defining",
     "44": "defining",
     "57": "unweighted",
@@ -138,10 +188,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.123,
-    "popularityPercentile": 11.5576,
-    "fanFavouriteDiscoveryScore": 10.6336,
-    "fanFavouriteDiscoveryPercentile": 10.659
+    "fanRatioPercentile": 32.0988,
+    "popularityPercentile": 11.6298,
+    "fanFavouriteDiscoveryScore": 10.6684,
+    "fanFavouriteDiscoveryPercentile": 10.7093
   },
   "context": {
     "primaryProfile": "horror-survival",

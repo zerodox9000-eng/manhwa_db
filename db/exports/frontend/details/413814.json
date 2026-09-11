@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Tosa's Master",
-  "mangabaka_title": "The Tosa's Master",
-  "native_title": "[ハードコアBL短編選] 土佐犬の檻",
-  "romanized_title": null,
+  "mangabaka_title": "Dogcage",
+  "native_title": "도사견장",
+  "romanized_title": "Dosagyeonjang",
   "titles": [
     {
       "language": "ko",
       "title": "도사견장",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -24,13 +26,31 @@
     {
       "language": "en",
       "title": "Dogcage",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Dosagyeonjang",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "[Hardcore BL Anthology] The Tosa's Master",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Hardcore BL Short Story Collection] Dosagyeonjang",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -79,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-09T15:05:42.958Z",
+  "last_updated_at": "2026-09-10T15:02:09.848Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +114,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 180313,
+      "rating": 53,
+      "url": "https://anilist.co/manga/180313"
+    },
     "animeplanet": {
       "id": "the-tosas-master",
       "rating": 64,
@@ -112,6 +136,7 @@
     1019,
     1585,
     1974,
+    58,
     61,
     4677,
     3285,
@@ -166,15 +191,78 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "15": "defining",
+    "16": "defining",
+    "18": "defining",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "58": "unweighted",
+    "61": "core",
+    "68": "defining",
+    "93": "unweighted",
+    "95": "core",
+    "107": "unweighted",
+    "180": "unweighted",
+    "227": "defining",
+    "257": "recurrent",
+    "412": "recurrent",
+    "428": "unweighted",
+    "446": "core",
+    "449": "defining",
+    "648": "core",
+    "830": "core",
+    "878": "core",
+    "893": "defining",
+    "905": "defining",
+    "994": "defining",
+    "1019": "recurrent",
+    "1037": "defining",
+    "1079": "core",
+    "1167": "unweighted",
+    "1585": "defining",
+    "1679": "recurrent",
+    "1974": "defining",
+    "1975": "recurrent",
+    "1976": "defining",
+    "2038": "core",
+    "3005": "defining",
+    "3011": "recurrent",
+    "3046": "core",
+    "3058": "recurrent",
+    "3113": "core",
+    "3143": "core",
+    "3180": "defining",
+    "3242": "defining",
+    "3265": "core",
+    "3285": "core",
+    "3389": "core",
+    "3660": "recurrent",
+    "3904": "recurrent",
+    "4049": "recurrent",
+    "4219": "defining",
+    "4489": "defining",
+    "4520": "defining",
+    "4677": "defining",
+    "4916": "defining",
+    "5860": "defining",
+    "6074": "recurrent",
+    "6207": "recurrent",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 218,
+    "favourites": 2,
+    "meanScore": 54
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0.9174,
+    "fanRatioPercentile": 43.3487,
+    "popularityPercentile": 53.3129,
+    "fanFavouriteDiscoveryScore": 40.8071,
+    "fanFavouriteDiscoveryPercentile": 45.584
   },
   "context": {
     "primaryProfile": "euro-fantasy",
