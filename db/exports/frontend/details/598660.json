@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-09T23:37:05.733Z",
+  "last_updated_at": "2026-09-11T22:07:00.789Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -97,27 +97,39 @@
       "rating": 68,
       "url": "https://anilist.co/manga/214541"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-ultimate-class-master",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-ultimate-class-master"
+    },
     "mangaupdates": {
       "id": "at4b5c2",
-      "rating": 66,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/at4b5c2"
     }
   },
   "tag_ids": [
     8,
     38,
+    692,
     58,
+    2549,
+    2566,
+    74,
+    1822,
     36,
     22,
     39,
+    4921,
     31,
     29,
     45,
     505,
+    1126,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "8": "defining",
@@ -130,21 +142,29 @@
     "45": "defining",
     "57": "unweighted",
     "58": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
     "428": "unweighted",
-    "505": "unweighted"
+    "505": "unweighted",
+    "692": "unweighted",
+    "1126": "unweighted",
+    "1822": "unweighted",
+    "2549": "unweighted",
+    "2566": "unweighted",
+    "4921": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 827,
+    "popularity": 836,
     "favourites": 5,
     "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": 0.6046,
-    "fanRatioPercentile": 36.1312,
-    "popularityPercentile": 77.7266,
-    "fanFavouriteDiscoveryScore": 35.8393,
-    "fanFavouriteDiscoveryPercentile": 39.6742
+    "fanFavouriteRaw": 0.5981,
+    "fanRatioPercentile": 35.9486,
+    "popularityPercentile": 77.8874,
+    "fanFavouriteDiscoveryScore": 35.662,
+    "fanFavouriteDiscoveryPercentile": 39.5208
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-07-31T04:15:25.823Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T02:21:03.339Z",
+  "last_updated_at": "2026-09-12T04:16:30.762Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -93,7 +93,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214875"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ki-chanfans",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ki-chanfans"
+    },
     "mangaupdates": {
       "id": "32d05c6",
       "rating": null,
@@ -104,6 +108,7 @@
     376,
     158,
     58,
+    3419,
     522,
     41,
     109,
@@ -117,7 +122,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -136,7 +142,9 @@
     "376": "incidental",
     "428": "unweighted",
     "522": "incidental",
-    "665": "incidental"
+    "665": "incidental",
+    "3419": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 27,
@@ -145,10 +153,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 17.1305,
-    "fanFavouriteDiscoveryScore": 14.1396,
-    "fanFavouriteDiscoveryPercentile": 15.4138
+    "fanRatioPercentile": 32.033,
+    "popularityPercentile": 17.0867,
+    "fanFavouriteDiscoveryScore": 14.0818,
+    "fanFavouriteDiscoveryPercentile": 15.3773
   },
   "context": {
     "primaryProfile": "modern-korea",

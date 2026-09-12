@@ -5,7 +5,7 @@
   "display_title": "Off The Record",
   "mangabaka_title": "Off The Record",
   "native_title": "편집 불가 파트너",
-  "romanized_title": "Off the Record (Nunggae)",
+  "romanized_title": "Off the Record (Noonggae)",
   "titles": [
     {
       "language": "ko",
@@ -30,6 +30,13 @@
         "official"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Off the Record (Noonggae)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -71,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-11T02:56:22.189Z",
+  "last_updated_at": "2026-09-12T03:00:33.225Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,9 +101,9 @@
       "url": "https://anilist.co/manga/212860"
     },
     "animeplanet": {
-      "id": "uneditable-partner",
+      "id": "off-the-record-noonggae",
       "rating": null,
-      "url": "https://www.anime-planet.com/manga/uneditable-partner"
+      "url": "https://www.anime-planet.com/manga/off-the-record-noonggae"
     },
     "mangaupdates": {
       "id": "yupk62q",
@@ -123,6 +130,7 @@
     906,
     1040,
     4631,
+    14,
     180,
     16,
     31,
@@ -138,6 +146,7 @@
   ],
   "tag_weights": {
     "9": "defining",
+    "14": "unweighted",
     "16": "defining",
     "31": "defining",
     "57": "unweighted",
@@ -175,10 +184,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 36.7521,
-    "fanFavouriteDiscoveryScore": 25.7288,
-    "fanFavouriteDiscoveryPercentile": 28.2709
+    "fanRatioPercentile": 32.033,
+    "popularityPercentile": 36.7229,
+    "fanFavouriteDiscoveryScore": 25.6637,
+    "fanFavouriteDiscoveryPercentile": 28.2124
   },
   "context": {
     "primaryProfile": "business-career-regression",

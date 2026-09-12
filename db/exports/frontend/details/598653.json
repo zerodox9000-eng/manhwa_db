@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-07-30T03:55:02.288Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T23:57:26.633Z",
+  "last_updated_at": "2026-09-12T03:45:04.157Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,7 +89,11 @@
       "rating": 72,
       "url": "https://anilist.co/manga/214531"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "get-out-of-here",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/get-out-of-here"
+    },
     "mangaupdates": {
       "id": "teot727",
       "rating": 63,
@@ -108,7 +112,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "8": "defining",
@@ -122,19 +127,20 @@
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 167,
-    "favourites": null,
+    "popularity": 168,
+    "favourites": 1,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 48.1481,
-    "fanFavouriteDiscoveryScore": 29.293,
-    "fanFavouriteDiscoveryPercentile": 31.6312
+    "fanFavouriteRaw": 0.5952,
+    "fanRatioPercentile": 35.912,
+    "popularityPercentile": 48.192,
+    "fanFavouriteDiscoveryScore": 32.7834,
+    "fanFavouriteDiscoveryPercentile": 35.744
   },
   "context": {
     "primaryProfile": null,

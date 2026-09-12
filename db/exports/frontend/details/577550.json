@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T11:19:35.429Z",
+  "last_updated_at": "2026-09-12T03:16:34.067Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -100,7 +100,11 @@
       "rating": 64,
       "url": "https://anilist.co/manga/212526"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-obsessive-neighbor",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/my-obsessive-neighbor"
+    },
     "mangaupdates": {
       "id": "cqqav0b",
       "rating": 71,
@@ -109,6 +113,7 @@
   },
   "tag_ids": [
     43,
+    401,
     108,
     46,
     41,
@@ -119,7 +124,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -133,19 +139,21 @@
     "109": "incidental",
     "161": "incidental",
     "370": "incidental",
-    "428": "unweighted"
+    "401": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 242,
+    "popularity": 244,
     "favourites": 1,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 0.4132,
-    "fanRatioPercentile": 33.4429,
-    "popularityPercentile": 55.3729,
-    "fanFavouriteDiscoveryScore": 31.776,
-    "fanFavouriteDiscoveryPercentile": 33.9908
+    "fanFavouriteRaw": 0.4098,
+    "fanRatioPercentile": 33.3114,
+    "popularityPercentile": 55.4825,
+    "fanFavouriteDiscoveryScore": 31.6654,
+    "fanFavouriteDiscoveryPercentile": 33.8885
   },
   "context": {
     "primaryProfile": "romance-core",

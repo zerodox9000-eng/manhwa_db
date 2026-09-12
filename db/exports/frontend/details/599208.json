@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-08-07T03:38:29.274Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T04:19:40.318Z",
+  "last_updated_at": "2026-09-12T04:23:25.045Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -110,7 +110,11 @@
       "rating": 57,
       "url": "https://anilist.co/manga/214830"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ill-eat-it-before-i-die",
+      "rating": 70,
+      "url": "https://www.anime-planet.com/manga/ill-eat-it-before-i-die"
+    },
     "mangaupdates": {
       "id": "f0v3d7g",
       "rating": 69,
@@ -128,7 +132,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -141,18 +146,19 @@
     "93": "unweighted",
     "108": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 57,
+    "popularity": 58,
     "favourites": 1,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7544,
-    "fanRatioPercentile": 67.2072,
-    "popularityPercentile": 28.9429,
-    "fanFavouriteDiscoveryScore": 45.576,
-    "fanFavouriteDiscoveryPercentile": 52.4947
+    "fanFavouriteRaw": 1.7241,
+    "fanRatioPercentile": 66.411,
+    "popularityPercentile": 29.1694,
+    "fanFavouriteDiscoveryScore": 45.3087,
+    "fanFavouriteDiscoveryPercentile": 52.0929
   }
 }

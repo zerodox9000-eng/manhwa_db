@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T20:48:04.123Z",
+  "last_updated_at": "2026-09-12T00:46:31.310Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,7 +80,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/211686"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "plot-to-worm",
+      "rating": 70,
+      "url": "https://www.anime-planet.com/manga/plot-to-worm"
+    },
     "mangaupdates": {
       "id": "ek5zfo4",
       "rating": 65,
@@ -98,6 +102,7 @@
     2392,
     2752,
     75,
+    74,
     1627,
     790,
     36,
@@ -135,6 +140,7 @@
     1167,
     57,
     428,
+    7332,
     121
   ],
   "tag_weights": {
@@ -149,6 +155,7 @@
     "45": "incidental",
     "46": "unweighted",
     "57": "unweighted",
+    "74": "unweighted",
     "75": "incidental",
     "93": "unweighted",
     "99": "incidental",
@@ -185,7 +192,8 @@
     "2544": "unweighted",
     "2752": "unweighted",
     "3577": "core",
-    "4520": "core"
+    "4520": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 113,
@@ -194,10 +202,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.6549,
-    "fanRatioPercentile": 84.4839,
-    "popularityPercentile": 40.9161,
-    "fanFavouriteDiscoveryScore": 71.9016,
-    "fanFavouriteDiscoveryPercentile": 79.5675
+    "fanRatioPercentile": 84.462,
+    "popularityPercentile": 40.8941,
+    "fanFavouriteDiscoveryScore": 71.8634,
+    "fanFavouriteDiscoveryPercentile": 79.5602
   },
   "context": {
     "primaryProfile": "kingdom-management",

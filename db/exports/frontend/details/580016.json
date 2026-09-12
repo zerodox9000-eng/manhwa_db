@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-06T11:44:30.827Z",
+  "last_updated_at": "2026-09-12T03:45:04.100Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -91,7 +91,11 @@
       "rating": 71,
       "url": "https://anilist.co/manga/211326"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "cheating-chatting",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/cheating-chatting"
+    },
     "mangaupdates": {
       "id": "9jr3x22",
       "rating": 66,
@@ -100,6 +104,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     15,
     41,
@@ -107,7 +112,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -116,9 +122,11 @@
     "41": "defining",
     "43": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 43,
@@ -127,10 +135,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 24.0777,
-    "fanFavouriteDiscoveryScore": 18.7503,
-    "fanFavouriteDiscoveryPercentile": 20.7977
+    "fanRatioPercentile": 32.033,
+    "popularityPercentile": 24.0412,
+    "fanFavouriteDiscoveryScore": 18.6882,
+    "fanFavouriteDiscoveryPercentile": 20.7758
   },
   "context": {
     "primaryProfile": "romance-core",

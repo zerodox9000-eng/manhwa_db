@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-08-15T02:07:30.747Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T04:31:12.482Z",
+  "last_updated_at": "2026-09-11T22:36:31.214Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -117,7 +117,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/216412"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "time-healer-ceres",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/time-healer-ceres"
+    },
     "mangaupdates": {
       "id": "q4xf485",
       "rating": 67,
@@ -126,12 +130,17 @@
   },
   "tag_ids": [
     40,
+    74,
     249,
     36,
     1,
     6,
     9,
-    7
+    7,
+    93,
+    57,
+    428,
+    7332
   ],
   "tag_weights": {
     "1": "unweighted",
@@ -140,18 +149,23 @@
     "9": "defining",
     "36": "defining",
     "40": "defining",
-    "249": "unweighted"
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "249": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 55,
-    "favourites": 3,
-    "meanScore": 74
+    "popularity": 62,
+    "favourites": 4,
+    "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 5.4545,
-    "fanRatioPercentile": 97.6697,
-    "popularityPercentile": 28.3951,
-    "fanFavouriteDiscoveryScore": 65.2528,
-    "fanFavouriteDiscoveryPercentile": 73.738
+    "fanFavouriteRaw": 6.4516,
+    "fanRatioPercentile": 98.5536,
+    "popularityPercentile": 30.4259,
+    "fanFavouriteDiscoveryScore": 69.4311,
+    "fanFavouriteDiscoveryPercentile": 77.4125
   }
 }

@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-08-03T04:21:18.691Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T18:30:07.821Z",
+  "last_updated_at": "2026-09-12T00:17:00.889Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -97,7 +97,11 @@
       "rating": 80,
       "url": "https://anilist.co/manga/215908"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "wasnt-i-the-heroine-of-a-regret-novel",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/wasnt-i-the-heroine-of-a-regret-novel"
+    },
     "mangaupdates": {
       "id": "iv1nmso",
       "rating": 63,
@@ -106,18 +110,26 @@
   },
   "tag_ids": [
     40,
+    74,
+    768,
     20,
     164,
+    165,
     108,
+    906,
     36,
+    94,
     6,
     3197,
     31,
+    127,
     9,
     93,
     57,
     428,
-    3280
+    7332,
+    3280,
+    121
   ],
   "tag_weights": {
     "6": "defining",
@@ -127,24 +139,32 @@
     "36": "defining",
     "40": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
+    "94": "unweighted",
     "108": "unweighted",
+    "121": "unweighted",
+    "127": "unweighted",
     "164": "incidental",
+    "165": "unweighted",
     "428": "unweighted",
+    "768": "unweighted",
+    "906": "unweighted",
     "3197": "core",
-    "3280": "core"
+    "3280": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 71,
+    "popularity": 73,
     "favourites": null,
     "meanScore": 74
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 32.8147,
-    "fanFavouriteDiscoveryScore": 23.8877,
-    "fanFavouriteDiscoveryPercentile": 26.2839
+    "fanRatioPercentile": 32.033,
+    "popularityPercentile": 33.253,
+    "fanFavouriteDiscoveryScore": 24.0596,
+    "fanFavouriteDiscoveryPercentile": 26.4811
   },
   "context": {
     "primaryProfile": "modern-korea",

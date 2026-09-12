@@ -85,7 +85,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T08:22:25.412Z",
+  "last_updated_at": "2026-09-12T02:36:33.337Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -107,7 +107,11 @@
       "rating": 56,
       "url": "https://anilist.co/manga/208437"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "brother-for-hire",
+      "rating": 72,
+      "url": "https://www.anime-planet.com/manga/brother-for-hire"
+    },
     "mangaupdates": {
       "id": "b2xskwa",
       "rating": 65,
@@ -129,15 +133,16 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
     "14": "unweighted",
     "16": "defining",
-    "22": "unweighted",
+    "22": "defining",
     "31": "defining",
-    "41": "unweighted",
+    "41": "defining",
     "46": "defining",
     "57": "unweighted",
     "93": "unweighted",
@@ -146,19 +151,20 @@
     "369": "incidental",
     "428": "unweighted",
     "755": "defining",
-    "3018": "defining"
+    "3018": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 78,
+    "popularity": 81,
     "favourites": 1,
     "meanScore": 56
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2821,
-    "fanRatioPercentile": 53.6708,
-    "popularityPercentile": 34.3268,
-    "fanFavouriteDiscoveryScore": 41.1891,
-    "fanFavouriteDiscoveryPercentile": 46.1246
+    "fanFavouriteRaw": 1.2346,
+    "fanRatioPercentile": 52.2682,
+    "popularityPercentile": 34.9697,
+    "fanFavouriteDiscoveryScore": 40.6052,
+    "fanFavouriteDiscoveryPercentile": 45.3722
   },
   "context": {
     "primaryProfile": "showbiz-career",

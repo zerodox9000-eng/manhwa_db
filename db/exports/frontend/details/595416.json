@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-30T04:59:15.716Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T14:53:24.279Z",
+  "last_updated_at": "2026-09-11T22:07:00.708Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,7 +79,11 @@
       "rating": 61,
       "url": "https://anilist.co/manga/214002"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "perfect-error",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/perfect-error"
+    },
     "mangaupdates": {
       "id": "q4b52n9",
       "rating": 63,
@@ -133,7 +137,8 @@
     2058,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -182,19 +187,20 @@
     "5145": "core",
     "5613": "core",
     "6031": "defining",
-    "6158": "defining"
+    "6158": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 206,
+    "popularity": 207,
     "favourites": 2,
     "meanScore": 61
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9709,
-    "fanRatioPercentile": 44.9704,
-    "popularityPercentile": 52.2171,
-    "fanFavouriteDiscoveryScore": 42.0978,
-    "fanFavouriteDiscoveryPercentile": 47.2569
+    "fanFavouriteRaw": 0.9662,
+    "fanRatioPercentile": 44.7805,
+    "popularityPercentile": 52.2536,
+    "fanFavouriteDiscoveryScore": 41.9281,
+    "fanFavouriteDiscoveryPercentile": 47.1327
   },
   "context": {
     "primaryProfile": "game-system",

@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-07-28T03:59:03.930Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-08T18:30:03.379Z",
+  "last_updated_at": "2026-09-12T03:16:34.200Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -103,7 +103,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/215633"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-possessed-grappler",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-possessed-grappler"
+    },
     "mangaupdates": {
       "id": "8pyzwf7",
       "rating": null,
@@ -125,7 +129,8 @@
     42,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "22": "defining",
@@ -142,19 +147,20 @@
     "229": "incidental",
     "235": "incidental",
     "416": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 38,
+    "popularity": 43,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 56
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 22.2149,
-    "fanFavouriteDiscoveryScore": 17.5264,
-    "fanFavouriteDiscoveryPercentile": 19.4097
+    "fanRatioPercentile": 32.033,
+    "popularityPercentile": 24.0412,
+    "fanFavouriteDiscoveryScore": 18.6882,
+    "fanFavouriteDiscoveryPercentile": 20.7758
   },
   "context": {
     "primaryProfile": "horror-survival",

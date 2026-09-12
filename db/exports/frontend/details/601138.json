@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-08-26T02:19:28.203Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T00:33:46.116Z",
+  "last_updated_at": "2026-09-12T03:45:04.384Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -75,7 +75,11 @@
       "rating": 85,
       "url": "https://anilist.co/manga/215788"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "living-with-my-teacher",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/living-with-my-teacher"
+    },
     "mangaupdates": {
       "id": "qtcn1o9",
       "rating": 65,
@@ -84,17 +88,20 @@
   },
   "tag_ids": [
     8,
+    264,
     46,
     10,
     15,
     41,
     109,
+    228,
     31,
     9,
     7,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "7": "defining",
@@ -108,18 +115,21 @@
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "228": "unweighted",
+    "264": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 169,
+    "popularity": 180,
     "favourites": 3,
-    "meanScore": 83
+    "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 1.7751,
-    "fanRatioPercentile": 67.5652,
-    "popularityPercentile": 48.3527,
-    "fanFavouriteDiscoveryScore": 61.7506,
-    "fanFavouriteDiscoveryPercentile": 69.5522
+    "fanFavouriteRaw": 1.6667,
+    "fanRatioPercentile": 65.0157,
+    "popularityPercentile": 49.3462,
+    "fanFavouriteDiscoveryScore": 59.8296,
+    "fanFavouriteDiscoveryPercentile": 67.5068
   }
 }

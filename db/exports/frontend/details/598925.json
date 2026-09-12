@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-08-03T04:21:18.691Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T04:48:50.678Z",
+  "last_updated_at": "2026-09-12T04:52:10.051Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,7 +68,11 @@
       "rating": 75,
       "url": "https://anilist.co/manga/214652"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "clover-days",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/clover-days"
+    },
     "mangaupdates": {
       "id": "i09475b",
       "rating": null,
@@ -87,7 +91,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -101,19 +106,20 @@
     "108": "unweighted",
     "428": "unweighted",
     "498": "unweighted",
-    "629": "incidental"
+    "629": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 38,
+    "popularity": 39,
     "favourites": null,
     "meanScore": 75
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 22.2149,
-    "fanFavouriteDiscoveryScore": 17.5264,
-    "fanFavouriteDiscoveryPercentile": 19.4097
+    "fanRatioPercentile": 32.033,
+    "popularityPercentile": 22.5656,
+    "fanFavouriteDiscoveryScore": 17.7222,
+    "fanFavouriteDiscoveryPercentile": 19.6508
   },
   "context": {
     "primaryProfile": "korean-corporate-regression",

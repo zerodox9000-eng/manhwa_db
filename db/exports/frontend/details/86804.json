@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T12:55:11.427Z",
+  "last_updated_at": "2026-09-12T03:16:33.847Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -128,7 +128,11 @@
       "rating": 57,
       "url": "https://anilist.co/manga/189791"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "reading-between-the-lines",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/reading-between-the-lines"
+    },
     "mangaupdates": {
       "id": "19qf9lo",
       "rating": 65,
@@ -168,7 +172,8 @@
     93,
     113,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -203,19 +208,20 @@
     "1962": "defining",
     "2498": "defining",
     "2562": "defining",
-    "3007": "defining"
+    "3007": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 99,
+    "popularity": 100,
     "favourites": null,
     "meanScore": 57
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0988,
-    "popularityPercentile": 38.5419,
-    "fanFavouriteDiscoveryScore": 26.4562,
-    "fanFavouriteDiscoveryPercentile": 29.016
+    "fanRatioPercentile": 32.033,
+    "popularityPercentile": 38.7026,
+    "fanFavouriteDiscoveryScore": 26.4639,
+    "fanFavouriteDiscoveryPercentile": 29.0306
   },
   "context": {
     "primaryProfile": "romance-core",
