@@ -148,7 +148,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T05:31:39.164Z",
+  "last_updated_at": "2026-09-13T01:41:31.876Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -172,7 +172,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/199027"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "doing-bad-things-with-my-husbands-boss",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/doing-bad-things-with-my-husbands-boss"
+    },
     "mangaupdates": {
       "id": "2fvuaro",
       "rating": 62,
@@ -181,15 +185,21 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
+    231,
     46,
     15,
     41,
     31,
+    241,
+    403,
+    227,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -199,9 +209,15 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "227": "unweighted",
+    "231": "unweighted",
+    "241": "unweighted",
+    "403": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 39,
@@ -210,10 +226,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 22.5656,
-    "fanFavouriteDiscoveryScore": 17.7222,
-    "fanFavouriteDiscoveryPercentile": 19.6508
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 22.6404,
+    "fanFavouriteDiscoveryScore": 17.7969,
+    "fanFavouriteDiscoveryPercentile": 19.7155
   },
   "context": {
     "primaryProfile": "romance-core",

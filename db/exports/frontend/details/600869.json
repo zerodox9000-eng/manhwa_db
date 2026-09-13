@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T01:55:48.080Z",
+  "last_updated_at": "2026-09-12T19:47:38.858Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -98,10 +98,14 @@
   "source": {
     "anilist": {
       "id": 215909,
-      "rating": 65,
+      "rating": 69,
       "url": "https://anilist.co/manga/215909"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "vote-for-your-knight",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/vote-for-your-knight"
+    },
     "mangaupdates": {
       "id": "wuacb2l",
       "rating": 63,
@@ -111,13 +115,15 @@
   "tag_ids": [
     40,
     59,
+    74,
     20,
     108,
     36,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -126,20 +132,22 @@
     "40": "defining",
     "57": "unweighted",
     "59": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 79,
+    "popularity": 80,
     "favourites": null,
-    "meanScore": 67
+    "meanScore": 69
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 34.5314,
-    "fanFavouriteDiscoveryScore": 24.6804,
-    "fanFavouriteDiscoveryPercentile": 27.1386
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 34.7921,
+    "fanFavouriteDiscoveryScore": 24.8382,
+    "fanFavouriteDiscoveryPercentile": 27.2939
   }
 }

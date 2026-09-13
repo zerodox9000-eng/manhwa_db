@@ -132,7 +132,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T03:54:18.771Z",
+  "last_updated_at": "2026-09-12T05:52:30.806Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -153,7 +153,11 @@
       "rating": 71,
       "url": "https://anilist.co/manga/199377"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "night-offering",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/night-offering"
+    },
     "mangaupdates": {
       "id": "4no3muw",
       "rating": 63,
@@ -164,6 +168,7 @@
     43,
     158,
     59,
+    74,
     108,
     622,
     46,
@@ -173,7 +178,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -184,11 +190,13 @@
     "46": "defining",
     "57": "unweighted",
     "59": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "158": "incidental",
     "428": "unweighted",
-    "622": "incidental"
+    "622": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 44,
@@ -197,10 +205,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 24.4284,
-    "fanFavouriteDiscoveryScore": 18.9387,
-    "fanFavouriteDiscoveryPercentile": 21.068
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 24.4858,
+    "fanFavouriteDiscoveryScore": 19.0028,
+    "fanFavouriteDiscoveryPercentile": 21.1379
   },
   "context": {
     "primaryProfile": "medical-career",

@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.737Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T09:05:09.381Z",
+  "last_updated_at": "2026-09-12T22:35:41.272Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,7 +89,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214712"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "cellar",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/cellar"
+    },
     "mangaupdates": {
       "id": "kp9iasw",
       "rating": 63,
@@ -107,7 +111,8 @@
     45,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "16": "defining",
@@ -120,18 +125,19 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 27,
+    "popularity": 26,
     "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": 3.7037,
-    "fanRatioPercentile": 92.9359,
-    "popularityPercentile": 17.0867,
-    "fanFavouriteDiscoveryScore": 40.8549,
-    "fanFavouriteDiscoveryPercentile": 45.8543
+    "fanFavouriteRaw": 3.8462,
+    "fanRatioPercentile": 93.6105,
+    "popularityPercentile": 16.6302,
+    "fanFavouriteDiscoveryScore": 40.2762,
+    "fanFavouriteDiscoveryPercentile": 44.8651
   }
 }

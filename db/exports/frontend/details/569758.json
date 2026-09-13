@@ -33,6 +33,13 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Stock (Chodeul)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Stock (S)",
       "traits": [],
@@ -69,7 +76,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-11T04:12:14.933Z",
+  "last_updated_at": "2026-09-12T20:25:41.501Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -91,7 +98,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/204152"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "stock-chodeul",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/stock-chodeul"
+    },
     "mangaupdates": {
       "id": "4gdxc1h",
       "rating": null,
@@ -99,6 +110,7 @@
     }
   },
   "tag_ids": [
+    74,
     46,
     41,
     180,
@@ -107,7 +119,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -116,9 +129,11 @@
     "41": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 12,
@@ -127,10 +142,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 7.1883,
-    "fanFavouriteDiscoveryScore": 8.1957,
-    "fanFavouriteDiscoveryPercentile": 6.7207
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 7.2575,
+    "fanFavouriteDiscoveryScore": 8.2427,
+    "fanFavouriteDiscoveryPercentile": 6.7761
   },
   "context": {
     "primaryProfile": "romance-core",

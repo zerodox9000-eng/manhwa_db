@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Have You Been Wronged?",
-  "mangabaka_title": "Budang-han Il-eul Danghaetnayo?",
+  "mangabaka_title": "Budanghan Ireul Danghaennayo?",
   "native_title": "부당한 일을 당했나요?",
   "romanized_title": "Budang-han Il-eul Danghaetnayo?",
   "titles": [
     {
       "language": "ko",
       "title": "부당한 일을 당했나요?",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,6 +20,15 @@
       "language": "ko-Latn",
       "title": "Budang-han Il-eul Danghaetnayo?",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Budanghan Ireul Danghaennayo?",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,29 +41,28 @@
     }
   ],
   "description": "Character Profiles\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/3885014151), [MrBlue](https://www.mrblue.com/novel/E000107409), [Naver Series](https://series.naver.com/novel/detail.series?productNo=9807745), [Bookcube](https://www.bookcube.com/detail.asp?series_num=923015675)  \nChapters: RIDI ([Main Story](https://ridibooks.com/books/3885009791), [Side Story](https://ridibooks.com/books/3885014221)), [Bomtoon](https://www.bomtoon.com/detail/boo1_0), [Joara](https://www.joara.com/book/1722336), [Naver Series](https://series.naver.com/novel/detail.series?productNo=9808585)\n\n\n**Original Webtoon:**  \n[R19](https://ridibooks.com/books/5062003014), [R15](https://ridibooks.com/books/5062003027)\n\n##### Note: In the original novel, only the Side Story is mature.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2OTczLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjc3MC1JdE4yQ2l6amVHcm0uanBn",
   "total_chapters": "6",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-03T02:48:04.178Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T17:31:32.372Z",
+  "last_updated_at": "2026-09-13T05:06:27.038Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "HaTaeJin",
-    "Suho (V)"
+    "Tae-Jin Ha"
   ],
   "artists": [
-    "Suho (V)"
+    "SUHO"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601840",
@@ -60,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216770,
+      "rating": null,
+      "url": "https://anilist.co/manga/216770"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "xzvavgi",
@@ -69,17 +83,31 @@
     }
   },
   "tag_ids": [
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 0.1532,
+    "fanFavouriteDiscoveryScore": 5.1513,
+    "fanFavouriteDiscoveryPercentile": 0.1532
   }
 }

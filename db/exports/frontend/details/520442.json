@@ -183,7 +183,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-12T00:03:28.455Z",
+  "last_updated_at": "2026-09-12T21:52:23.460Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -207,7 +207,11 @@
       "rating": 54,
       "url": "https://anilist.co/manga/199761"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "living-with-my-guy-friends",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/living-with-my-guy-friends"
+    },
     "mangaupdates": {
       "id": "p81i2kx",
       "rating": 61,
@@ -216,17 +220,22 @@
   },
   "tag_ids": [
     43,
+    74,
+    97,
     20,
     108,
+    1368,
     46,
     41,
     173,
+    228,
     31,
     9,
     7,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "7": "defining",
@@ -237,10 +246,15 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
+    "97": "unweighted",
     "108": "unweighted",
     "173": "incidental",
-    "428": "unweighted"
+    "228": "unweighted",
+    "428": "unweighted",
+    "1368": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 31,
@@ -249,10 +263,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 18.9203,
-    "fanFavouriteDiscoveryScore": 15.2965,
-    "fanFavouriteDiscoveryPercentile": 16.8749
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 19.0153,
+    "fanFavouriteDiscoveryScore": 15.3817,
+    "fanFavouriteDiscoveryPercentile": 16.9511
   },
   "context": {
     "primaryProfile": "romance-core",

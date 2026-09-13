@@ -2,10 +2,10 @@
   "id": 600297,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Hero Is the Secretary Under the Desk",
-  "mangabaka_title": "Yongsanimeun Chaeksang Mit Biseo",
+  "display_title": "Hero/Secretary",
+  "mangabaka_title": "Hero/Secretary",
   "native_title": "용사님은 책상 밑 비서",
-  "romanized_title": "Yongsanimeun Chaeksang Mit Biseo",
+  "romanized_title": "The Hero Is the Secretary Under the Desk",
   "titles": [
     {
       "language": "ko",
@@ -18,9 +18,18 @@
     },
     {
       "language": "en",
+      "title": "Hero/Secretary",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "The Hero Is the Secretary Under the Desk",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -35,10 +44,10 @@
   ],
   "description": "A legendary hero who once saved Korea from a demon invasion now struggles to find a normal job in the modern world. Desperate for employment, he applies to a mysterious company… only to discover that the chairman is none other than the Demon King he defeated years ago. What starts as an awkward office reunion quickly turns into a very unusual working relationship.\n\n\n[Original Webtoon](https://www.toomics.com/webtoon/episode/toon/7668)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNjUwOS1sRG5nQTVSbDlkV3EuanBn",
-  "total_chapters": null,
+  "total_chapters": "8",
   "status": "releasing",
   "content_rating": "pornographic",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-08-16",
@@ -48,7 +57,7 @@
   },
   "first_seen_at": "2026-08-17T02:14:25.809Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T21:38:54.699Z",
+  "last_updated_at": "2026-09-12T21:41:27.557Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,8 +68,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600297",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://global.toomics.com/en/webtoon/episode/toon/7668",
+    "read_en_all": [
+      "https://global.toomics.com/en/webtoon/episode/toon/7668"
+    ]
   },
   "source": {
     "anilist": {
@@ -68,7 +79,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/216509"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-hero-is-the-secretary-under-the-desk",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-hero-is-the-secretary-under-the-desk"
+    },
     "mangaupdates": {
       "id": "scbexfc",
       "rating": null,
@@ -86,7 +101,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "8": "defining",
@@ -99,18 +115,19 @@
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 25,
+    "popularity": 29,
     "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": 4,
-    "fanRatioPercentile": 94.2509,
-    "popularityPercentile": 16.0129,
-    "fanFavouriteDiscoveryScore": 39.3677,
-    "fanFavouriteDiscoveryPercentile": 43.955
+    "fanFavouriteRaw": 3.4483,
+    "fanRatioPercentile": 91.5974,
+    "popularityPercentile": 18.1109,
+    "fanFavouriteDiscoveryScore": 42.2011,
+    "fanFavouriteDiscoveryPercentile": 47.4034
   }
 }

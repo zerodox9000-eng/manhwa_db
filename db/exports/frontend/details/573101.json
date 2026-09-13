@@ -85,7 +85,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T14:22:14.667Z",
+  "last_updated_at": "2026-09-13T00:15:31.849Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -108,7 +108,11 @@
       "rating": 62,
       "url": "https://anilist.co/manga/207462"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-crazy-bosss-dirty-proposal",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/my-crazy-bosss-dirty-proposal"
+    },
     "mangaupdates": {
       "id": "1j4roax",
       "rating": 63,
@@ -127,7 +131,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -141,19 +146,20 @@
     "108": "unweighted",
     "360": "core",
     "428": "unweighted",
-    "5130": "core"
+    "5130": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 30,
+    "popularity": 31,
     "favourites": null,
     "meanScore": 62
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 18.5477,
-    "fanFavouriteDiscoveryScore": 15.0485,
-    "fanFavouriteDiscoveryPercentile": 16.568
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 19.0153,
+    "fanFavouriteDiscoveryScore": 15.3817,
+    "fanFavouriteDiscoveryPercentile": 16.9511
   },
   "context": {
     "primaryProfile": "modern-korea",

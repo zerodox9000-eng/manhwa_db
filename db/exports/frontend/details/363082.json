@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Workplace Boss",
-  "mangabaka_title": "Workplace Boss",
-  "native_title": "[Play短篇] 職場上司的誘惑",
-  "romanized_title": null,
+  "mangabaka_title": "Jikjang Sangsa",
+  "native_title": "직장 상사",
+  "romanized_title": "Jikjang Sangsa",
   "titles": [
     {
       "language": "ko",
       "title": "직장 상사",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,7 +31,23 @@
       "note": null
     },
     {
-      "language": "zh",
+      "language": "ko-Latn",
+      "title": "Jikjang Sangsa",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Play Danpyeonseon] Jikjang Sangsa",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "zh-hk",
       "title": "[Play短篇] 職場上司的誘惑",
       "traits": [],
       "is_primary": true,
@@ -53,34 +71,34 @@
       "language": "zh",
       "title": "職場上司的誘惑",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "Friday night. Another team leader approached me. I ended up having a one-night stand with Team Leader Jeong Jun-won, the handsome and popular leader on the team. I thought last night was a dream... but it wasn't! \n\n\"So what? Just hand in your resignation. Goodbye, everyone!\"\n\n**Original Webtoon:**   \nR19: [Naver Series](https://series.naver.com/comic/detail.series?productNo=12850459), [Bomtoon](https://www.bomtoon.com/detail/lainey_172), [Lezhin](https://www.lezhin.com/ko/comic/office_boss)    \nR15: [Naver Series](https://series.naver.com/comic/detail.series?productNo=14374103), [Bomtoon](https://www.bomtoon.com/detail/lainey_173), [Lezhin](https://www.lezhin.com/ko/comic/office_boss_15) \n\n**Official Translations:**    \n[T.Chinese](https://www.webtoons.com/zh-hant/romance-m/the-boss/list?title_no=10147)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIyMjAxLmpwZw",
-  "total_chapters": "6",
+  "description": "*Note: Part of Playtoon's Play Danpyeonseon (플래이 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjMyOS1LbkRyeURvSHBFOGouanBn",
+  "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
-  "year": 2025,
+  "year": 2026,
   "published": {
-    "start_date": "2025-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-07-02",
+    "end_date": "2026-07-02",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
-  "first_seen_at": "2026-06-10T15:50:08.740Z",
-  "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-11T21:16:35.293Z",
+  "first_seen_at": "2026-09-13T05:21:39.136Z",
+  "first_seen_at_is_trusted": true,
+  "last_updated_at": "2026-09-12T19:06:54.137Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Moon Jeong Min"
+    "Jeong-Min Mun",
+    "Mangnanyong"
   ],
   "artists": [
-    "Mangnanyong",
-    "Ryueullip"
+    "Eun-Rip Ryu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/363082",
@@ -88,7 +106,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216329,
+      "rating": null,
+      "url": "https://anilist.co/manga/216329"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wuxlr83",
@@ -98,19 +120,35 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 0.671,
+    "fanFavouriteDiscoveryScore": 5.3406,
+    "fanFavouriteDiscoveryPercentile": 0.6346
   },
   "context": {
     "primaryProfile": "business-career",

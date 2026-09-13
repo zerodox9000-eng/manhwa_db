@@ -104,7 +104,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.737Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T05:38:08.512Z",
+  "last_updated_at": "2026-09-13T01:09:24.810Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -124,7 +124,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214715"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-lingering-shadow",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-lingering-shadow"
+    },
     "mangaupdates": {
       "id": "ce9vmcy",
       "rating": null,
@@ -162,7 +166,8 @@
     830,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "unweighted",
@@ -195,7 +200,8 @@
     "1986": "defining",
     "2427": "defining",
     "2449": "defining",
-    "2587": "core"
+    "2587": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 18,
@@ -204,9 +210,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 11.5933,
-    "fanFavouriteDiscoveryScore": 10.625,
-    "fanFavouriteDiscoveryPercentile": 10.6728
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 11.6557,
+    "fanFavouriteDiscoveryScore": 10.6772,
+    "fanFavouriteDiscoveryPercentile": 10.7221
   }
 }

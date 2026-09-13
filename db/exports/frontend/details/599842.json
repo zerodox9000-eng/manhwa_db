@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-08-13T03:18:15.412Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T10:48:39.551Z",
+  "last_updated_at": "2026-09-12T06:17:01.682Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -97,7 +97,11 @@
       "rating": 100,
       "url": "https://anilist.co/manga/215205"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "pregnancy-trap",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/pregnancy-trap"
+    },
     "mangaupdates": {
       "id": "t3igltz",
       "rating": null,
@@ -107,6 +111,7 @@
   "tag_ids": [
     43,
     59,
+    74,
     108,
     46,
     15,
@@ -116,7 +121,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -127,10 +133,12 @@
     "46": "defining",
     "57": "unweighted",
     "59": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 14,
@@ -139,9 +147,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 8.7223,
-    "fanFavouriteDiscoveryScore": 8.9993,
-    "fanFavouriteDiscoveryPercentile": 8.1233
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 8.7819,
+    "fanFavouriteDiscoveryScore": 9.0444,
+    "fanFavouriteDiscoveryPercentile": 8.1692
   }
 }

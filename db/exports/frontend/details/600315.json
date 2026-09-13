@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-08-17T02:14:25.809Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T06:54:03.511Z",
+  "last_updated_at": "2026-09-12T22:29:24.543Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -104,7 +104,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/215889"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "doing-bad-things-behind-my-husbands-back",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/doing-bad-things-behind-my-husbands-back"
+    },
     "mangaupdates": {
       "id": "uu260m2",
       "rating": null,
@@ -113,23 +117,29 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
+    31,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
+    "31": "unweighted",
     "41": "defining",
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 9,
@@ -138,9 +148,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 4.741,
-    "fanFavouriteDiscoveryScore": 7.0148,
-    "fanFavouriteDiscoveryPercentile": 4.4415
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 4.8067,
+    "fanFavouriteDiscoveryScore": 7.0549,
+    "fanFavouriteDiscoveryPercentile": 4.4931
   }
 }

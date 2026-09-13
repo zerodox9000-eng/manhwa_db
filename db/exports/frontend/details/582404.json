@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T10:24:57.689Z",
+  "last_updated_at": "2026-09-12T23:29:31.275Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -82,7 +82,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/209370"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "dissolve-his-last-choice",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/dissolve-his-last-choice"
+    },
     "mangaupdates": {
       "id": "ifclgs0",
       "rating": 64,
@@ -90,6 +94,7 @@
     }
   },
   "tag_ids": [
+    74,
     15,
     41,
     180,
@@ -98,7 +103,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -107,9 +113,11 @@
     "31": "defining",
     "41": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 66,
@@ -118,10 +126,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.0303,
-    "fanRatioPercentile": 88.7793,
-    "popularityPercentile": 31.5582,
-    "fanFavouriteDiscoveryScore": 64.2548,
-    "fanFavouriteDiscoveryPercentile": 72.7153
+    "fanRatioPercentile": 88.8257,
+    "popularityPercentile": 31.6047,
+    "fanFavouriteDiscoveryScore": 64.3571,
+    "fanFavouriteDiscoveryPercentile": 72.8738
   },
   "context": {
     "primaryProfile": "corporate-workplace",

@@ -3,22 +3,26 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Impossible Delivery",
-  "mangabaka_title": "Impossible Delivery",
+  "mangabaka_title": "Delivery Impossible",
   "native_title": "딜리버리 임파서블",
-  "romanized_title": null,
+  "romanized_title": "Delivery Impossible",
   "titles": [
     {
       "language": "ko",
       "title": "딜리버리 임파서블",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Delivery Impossible",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -27,24 +31,31 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Impossible Delivery",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "“I’ll take you to the northern city!”\n\nIn a world where winter never ends, Dawn is a girl who runs errands in an alley town. The driving force behind Dawn's survival is only because of her promise with the delivery person, Heather. Let’s go to ‘Northern City’, a place of hope where everything happens! Dawn, who meets Heather again, thinks there is only happiness left in the future, but things start to get more and more strange...\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854757), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14697626)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3NDUwLmpwZw",
+  "description": "*“Ravi, you can do it, right? I believe in you.”*\n\nA world blanketed in snow beneath an eternal winter. Ravi, a girl who makes a living selling drugs in the slums, follows in the footsteps of Heather, the delivery person she admires, and begins making deliveries to the “Northern City,” a place of hope. But in reality, what she was trying to deliver was... \n\nA coming-of-age fantasy about two children navigating a cold and lonely world. \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjU2My16alZVdkhqTFZWYnguanBn",
   "total_chapters": "2",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-09T05:10:57.372Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T00:23:13.268Z",
+  "last_updated_at": "2026-09-13T00:29:47.743Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216563,
+      "rating": null,
+      "url": "https://anilist.co/manga/216563"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "nw5v0x0",
@@ -70,17 +85,38 @@
   "tag_ids": [
     36,
     1,
-    31
+    39,
+    117,
+    31,
+    424,
+    93,
+    57,
+    428,
+    121
   ],
+  "tag_weights": {
+    "1": "defining",
+    "31": "defining",
+    "36": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "117": "incidental",
+    "121": "incidental",
+    "424": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 26,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 16.6302,
+    "fanFavouriteDiscoveryScore": 13.802,
+    "fanFavouriteDiscoveryPercentile": 15.0328
   },
   "context": {
     "primaryProfile": null,

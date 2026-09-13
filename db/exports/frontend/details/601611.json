@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-09-01T02:54:38.958Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T05:01:00.339Z",
+  "last_updated_at": "2026-09-13T05:09:30.052Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -115,10 +115,14 @@
   "source": {
     "anilist": {
       "id": 216292,
-      "rating": 68,
+      "rating": 67,
       "url": "https://anilist.co/manga/216292"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-lord-who-levels-up-by-devouring",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-lord-who-levels-up-by-devouring"
+    },
     "mangaupdates": {
       "id": "lgk9hkc",
       "rating": 62,
@@ -128,11 +132,13 @@
   "tag_ids": [
     38,
     58,
+    74,
     36,
     39,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "36": "defining",
@@ -140,19 +146,21 @@
     "39": "defining",
     "57": "unweighted",
     "58": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 346,
+    "popularity": 358,
     "favourites": 3,
     "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8671,
-    "fanRatioPercentile": 41.9096,
-    "popularityPercentile": 62.006,
-    "fanFavouriteDiscoveryScore": 40.6817,
-    "fanFavouriteDiscoveryPercentile": 45.4745
+    "fanFavouriteRaw": 0.838,
+    "fanRatioPercentile": 41.1816,
+    "popularityPercentile": 62.779,
+    "fanFavouriteDiscoveryScore": 40.0483,
+    "fanFavouriteDiscoveryPercentile": 44.6098
   }
 }

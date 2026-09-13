@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T05:06:25.006Z",
+  "last_updated_at": "2026-09-13T01:31:08.723Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +96,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/211681"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "wolf-declaration",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/wolf-declaration"
+    },
     "mangaupdates": {
       "id": "yvspqdd",
       "rating": 63,
@@ -105,15 +109,18 @@
   },
   "tag_ids": [
     43,
+    274,
     108,
     36,
     46,
     41,
     626,
+    127,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -124,8 +131,11 @@
     "57": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
+    "127": "unweighted",
+    "274": "unweighted",
     "428": "unweighted",
-    "626": "incidental"
+    "626": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 24,
@@ -134,10 +144,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 15.4504,
-    "fanFavouriteDiscoveryScore": 13.0161,
-    "fanFavouriteDiscoveryPercentile": 14.0405
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 15.5215,
+    "fanFavouriteDiscoveryScore": 13.0806,
+    "fanFavouriteDiscoveryPercentile": 14.0919
   },
   "context": {
     "primaryProfile": "romance-core",

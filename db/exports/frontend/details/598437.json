@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-07-27T04:55:24.931Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T12:48:10.652Z",
+  "last_updated_at": "2026-09-12T15:18:27.987Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -112,7 +112,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214514"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "bad-uncle",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/bad-uncle"
+    },
     "mangaupdates": {
       "id": "sn0rxp1",
       "rating": null,
@@ -121,6 +125,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     15,
@@ -129,7 +134,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -139,9 +145,11 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 14,
@@ -150,10 +158,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 8.7223,
-    "fanFavouriteDiscoveryScore": 8.9993,
-    "fanFavouriteDiscoveryPercentile": 8.1233
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 8.7819,
+    "fanFavouriteDiscoveryScore": 9.0444,
+    "fanFavouriteDiscoveryPercentile": 8.1692
   },
   "context": {
     "primaryProfile": "romance-core",

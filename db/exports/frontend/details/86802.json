@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-11T23:23:48.858Z",
+  "last_updated_at": "2026-09-12T23:35:43.113Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,10 +90,14 @@
   "source": {
     "anilist": {
       "id": 214585,
-      "rating": 65,
+      "rating": 62,
       "url": "https://anilist.co/manga/214585"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "jaeha-next-door",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/jaeha-next-door"
+    },
     "mangaupdates": {
       "id": "w52n0fc",
       "rating": 63,
@@ -126,7 +130,8 @@
     93,
     1167,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -154,19 +159,20 @@
     "3191": "core",
     "3390": "core",
     "4207": "core",
-    "5834": "core"
+    "5834": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 25,
+    "popularity": 26,
     "favourites": null,
-    "meanScore": 60
+    "meanScore": 62
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 16.0129,
-    "fanFavouriteDiscoveryScore": 13.3799,
-    "fanFavouriteDiscoveryPercentile": 14.5153
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 16.6302,
+    "fanFavouriteDiscoveryScore": 13.802,
+    "fanFavouriteDiscoveryPercentile": 15.0328
   },
   "context": {
     "primaryProfile": "romance-core",

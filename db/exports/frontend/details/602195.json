@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Demon King's Friend",
-  "mangabaka_title": "The Demon King's Friend",
+  "mangabaka_title": "Mawangui Chingu",
   "native_title": "마왕의 친구",
-  "romanized_title": null,
+  "romanized_title": "Mawangui Chingu",
   "titles": [
     {
       "language": "ko",
       "title": "마왕의 친구",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Mawangui Chingu",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Demon King's Friend",
       "traits": [],
@@ -29,26 +40,26 @@
       "note": null
     }
   ],
-  "description": "\"Today, every demonkind in the world will disappear.\"\n\nThe ‘Continental Demon-Sealing Formation,’ humanity’s final card to end the 100-year war against the demonkind.\n\nThe hero Part and imperial mage Noah, dispatched to complete this mission.\n\nTogether with Roro, a young shepherd boy they met at their final destination, they finally stand on the verge of completing the great plan.\n\nAnd on that day, everything was turned upside down.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854402), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14660430)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3NDI4LmpwZw",
+  "description": "*“Today, all demons in the world will vanish.”*\n\nThe Continental Magic Barrier, humanity’s final trump card to end the century-long war against the demons. Pat, a hero, and Noah, an imperial mage, were dispatched to carry out this mission. Together with Loro, a young shepherd boy they met at their final destination, they finally find themselves on the verge of completing this grand plan. And on that day, everything changed.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjU0My1aellRdUY2Q1Z1ZEIuanBn",
   "total_chapters": "7",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-06",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-07T18:21:24.774Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T04:32:59.639Z",
+  "last_updated_at": "2026-09-13T04:39:42.425Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Skulley"
+    "Scully"
   ],
   "artists": [
     "7"
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216543,
+      "rating": 71,
+      "url": "https://anilist.co/manga/216543"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7qeqc42",
@@ -70,16 +85,33 @@
   "tag_ids": [
     38,
     36,
-    39
+    160,
+    39,
+    93,
+    57,
+    428,
+    121
   ],
+  "tag_weights": {
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "121": "incidental",
+    "160": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 260,
+    "favourites": 3,
+    "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 1.1538,
+    "fanRatioPercentile": 49.9927,
+    "popularityPercentile": 56.7396,
+    "fanFavouriteDiscoveryScore": 47.7571,
+    "fanFavouriteDiscoveryPercentile": 56.1488
   }
 }

@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.737Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T09:42:48.878Z",
+  "last_updated_at": "2026-09-12T16:10:46.114Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -103,7 +103,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214726"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "white-territory",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/white-territory"
+    },
     "mangaupdates": {
       "id": "bpnxqk8",
       "rating": null,
@@ -120,7 +124,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -132,7 +137,8 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 7,
@@ -141,9 +147,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 3.3384,
-    "fanFavouriteDiscoveryScore": 6.3955,
-    "fanFavouriteDiscoveryPercentile": 3.1193
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 3.3844,
+    "fanFavouriteDiscoveryScore": 6.4243,
+    "fanFavouriteDiscoveryPercentile": 3.151
   }
 }

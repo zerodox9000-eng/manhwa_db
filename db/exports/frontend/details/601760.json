@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Weird and Beautiful",
-  "mangabaka_title": "Weird and Beautiful",
+  "mangabaka_title": "Isanghago Aritown",
   "native_title": "이상하고 아리타운",
-  "romanized_title": null,
+  "romanized_title": "Isanghago Aritown",
   "titles": [
     {
       "language": "ko",
       "title": "이상하고 아리타운",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Isanghago Aritown",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,21 +34,21 @@
     }
   ],
   "description": "Lee Sangha works as a specialized cleaner, taking care of the traces no one else wants to touch. One day, while cleaning, she casually tears apart some old talismans she finds at the site. At that very moment, she begins to see things she was never supposed to see. Skeletal ghosts start chasing her… and then, out of nowhere, a strange and beautiful dokkaebi appears and wipes them out in the blink of an eye.\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/aritown)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2ODk3LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjE5NC16RlFvYjJTc0VjYVQuanBn",
+  "total_chapters": "1",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-01",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-02T02:52:04.320Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T17:16:59.181Z",
+  "last_updated_at": "2026-09-12T19:06:57.432Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,8 +63,16 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
+    "anilist": {
+      "id": 216194,
+      "rating": null,
+      "url": "https://anilist.co/manga/216194"
+    },
+    "animeplanet": {
+      "id": "weird-and-beautiful",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/weird-and-beautiful"
+    },
     "mangaupdates": {
       "id": "42kli49",
       "rating": null,
@@ -64,16 +83,34 @@
     43,
     22,
     46,
-    9
+    32,
+    9,
+    93,
+    57,
+    428,
+    7332
   ],
+  "tag_weights": {
+    "9": "defining",
+    "22": "defining",
+    "32": "unweighted",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 2.6331,
+    "fanFavouriteDiscoveryScore": 6.1087,
+    "fanFavouriteDiscoveryPercentile": 2.4362
   }
 }

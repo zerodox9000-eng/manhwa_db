@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Exodus (Gunbarrel)",
-  "mangabaka_title": "Exodus (Gunbarrel)",
+  "mangabaka_title": "Exodus",
   "native_title": "엑소더스",
   "romanized_title": null,
   "titles": [
@@ -16,6 +16,13 @@
     },
     {
       "language": "en",
+      "title": "Exodus",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Exodus (Gunbarrel)",
       "traits": [],
       "is_primary": true,
@@ -23,7 +30,7 @@
     }
   ],
   "description": "People say it's Hell Joseon, that living in the Republic of Korea is too hard. But what if this peninsula truly becomes Hell Joseon, forcing people to leave? The Korean Peninsula faces a crisis of mass extinction. The 80 million people of the peninsula must find a new world to migrate to\n\n_Source: Mr.Blue, translated_\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/68929806), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14254265), [Ridibooks](https://ridibooks.com/books/3587013882), [Bomtoon](https://www.bomtoon.com/detail/exodus), [Lezhin](https://www.lezhin.com/ko/comic/exodus), [MrBlue](https://www.mrblue.com/webtoon/wt_000079091), [Toomics](https://www.toomics.com/webtoon/episode/toon/9272)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5MDY0LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2V4b2R1cy0xLndlYnA_dD0xNzg1MjY1MjQ2",
   "total_chapters": "16",
   "status": "releasing",
   "content_rating": "safe",
@@ -37,7 +44,7 @@
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T05:15:30.325Z",
+  "last_updated_at": "2026-09-12T17:36:49.220Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -53,7 +60,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "exodus",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/exodus"
+    },
     "mangaupdates": {
       "id": "lbt1dky",
       "rating": null,
@@ -63,7 +74,11 @@
   "tag_ids": [
     8,
     39,
-    31
+    31,
+    93,
+    57,
+    428,
+    7332
   ],
   "stats": {
     "popularity": null,

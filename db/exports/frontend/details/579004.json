@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-11T17:46:48.472Z",
+  "last_updated_at": "2026-09-12T22:09:24.225Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +94,11 @@
       "rating": 75,
       "url": "https://anilist.co/manga/208058"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "mind-your-eyes-my-lady",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/mind-your-eyes-my-lady"
+    },
     "mangaupdates": {
       "id": "h3rd4fe",
       "rating": 63,
@@ -103,6 +107,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
@@ -111,7 +116,8 @@
     45,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "9": "defining",
@@ -121,9 +127,11 @@
     "45": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 22,
@@ -132,10 +140,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 14.1427,
-    "fanFavouriteDiscoveryScore": 12.1834,
-    "fanFavouriteDiscoveryPercentile": 12.9301
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 14.1867,
+    "fanFavouriteDiscoveryScore": 12.2286,
+    "fanFavouriteDiscoveryPercentile": 12.954
   },
   "context": {
     "primaryProfile": "modern-korea",

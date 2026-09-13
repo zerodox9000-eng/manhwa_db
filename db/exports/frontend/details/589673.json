@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-10T01:05:16.818Z",
+  "last_updated_at": "2026-09-13T01:11:07.808Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -81,10 +81,14 @@
   "source": {
     "anilist": {
       "id": 212900,
-      "rating": 74,
+      "rating": 76,
       "url": "https://anilist.co/manga/212900"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "caregiving-alliance",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/caregiving-alliance"
+    },
     "mangaupdates": {
       "id": "ngcwsnd",
       "rating": 62,
@@ -100,7 +104,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -111,19 +116,20 @@
     "93": "unweighted",
     "108": "unweighted",
     "257": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 160,
+    "popularity": 159,
     "favourites": 2,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 1.25,
-    "fanRatioPercentile": 52.7504,
-    "popularityPercentile": 47.2861,
-    "fanFavouriteDiscoveryScore": 47.8281,
-    "fanFavouriteDiscoveryPercentile": 56.2203
+    "fanFavouriteRaw": 1.2579,
+    "fanRatioPercentile": 52.9686,
+    "popularityPercentile": 47.2283,
+    "fanFavouriteDiscoveryScore": 48.0044,
+    "fanFavouriteDiscoveryPercentile": 56.3749
   },
   "context": {
     "primaryProfile": "medical-career",

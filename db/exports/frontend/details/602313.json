@@ -2,15 +2,26 @@
   "id": 602313,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Realm of Mourning: Yeouido",
-  "mangabaka_title": "Realm of Mourning: Yeouido",
+  "display_title": "Jo-ui Yeongyeok: Yeouido",
+  "mangabaka_title": "Jo-ui Yeongyeok: Yeouido",
   "native_title": "조의 영역: 여의도",
-  "romanized_title": "Realm of Mourning: Yeouido",
+  "romanized_title": "Jo-ui Yeongyeok: Yeouido",
   "titles": [
     {
       "language": "ko",
       "title": "조의 영역: 여의도",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jo-ui Yeongyeok: Yeouido",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,7 +29,7 @@
       "language": "ko-Latn",
       "title": "Realm of Mourning: Yeouido",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,29 +40,29 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854589), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14679846)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3NTA5LmpwZw",
+  "description": "In a world where giant fish are increasingly encroaching upon human territory, humans either associate with or exploit one another. The threat posed by the giant fish has not diminished at all, and the people encountered are far from beings to be safe; far from beings to be trusted, they are merely more dangerous than ever before. The human instinct for survival perpetuates this suffering and pain, and the threat posed by the fish, once merely large, begins to evolve into something...\n\nA new threat distinct from anything seen before. In such a world, Ha-Na is surviving all alone, without anyone by her side. As if fleeing from something... or perhaps trying to come to terms with a certain situation. However, the world does not grant the leisure to compose one's mind.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjYxMC1xTkJ0VUFqZmVqSFguanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-09T05:10:57.373Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-10T16:43:42.605Z",
+  "last_updated_at": "2026-09-12T19:06:58.233Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Cho Seok"
+    "Seok Cho"
   ],
   "artists": [
-    "Cho Seok"
+    "Seok Cho"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602313",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216610,
+      "rating": null,
+      "url": "https://anilist.co/manga/216610"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "kf5o3zy",
@@ -68,17 +83,35 @@
     }
   },
   "tag_ids": [
+    59,
     1,
-    32
+    22,
+    32,
+    19,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "1": "defining",
+    "19": "unweighted",
+    "22": "unweighted",
+    "32": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 13,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 8.0671,
+    "fanFavouriteDiscoveryScore": 8.6626,
+    "fanFavouriteDiscoveryPercentile": 7.4982
   }
 }

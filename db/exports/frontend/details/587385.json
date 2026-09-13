@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-11T20:21:39.453Z",
+  "last_updated_at": "2026-09-12T22:09:42.201Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,7 +69,11 @@
       "rating": 75,
       "url": "https://anilist.co/manga/212783"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "immoral-romantic-comedy",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/immoral-romantic-comedy"
+    },
     "mangaupdates": {
       "id": "fpwlf92",
       "rating": 64,
@@ -77,6 +81,7 @@
     }
   },
   "tag_ids": [
+    74,
     41,
     180,
     16,
@@ -85,7 +90,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "6": "defining",
@@ -94,9 +100,11 @@
     "31": "defining",
     "41": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "180": "defining",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 89,
@@ -105,10 +113,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2472,
-    "fanRatioPercentile": 77.9896,
-    "popularityPercentile": 36.7229,
-    "fanFavouriteDiscoveryScore": 62.4824,
-    "fanFavouriteDiscoveryPercentile": 70.3923
+    "fanRatioPercentile": 78.0088,
+    "popularityPercentile": 36.7907,
+    "fanFavouriteDiscoveryScore": 62.5677,
+    "fanFavouriteDiscoveryPercentile": 70.4376
   },
   "context": {
     "primaryProfile": "romance-core",

@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.737Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-11T09:35:39.873Z",
+  "last_updated_at": "2026-09-12T22:38:29.887Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +96,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214713"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "erosion-point",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/erosion-point"
+    },
     "mangaupdates": {
       "id": "ilhn1ns",
       "rating": null,
@@ -112,7 +116,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "15": "defining",
@@ -123,7 +128,8 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 22,
@@ -132,9 +138,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.033,
-    "popularityPercentile": 14.1427,
-    "fanFavouriteDiscoveryScore": 12.1834,
-    "fanFavouriteDiscoveryPercentile": 12.9301
+    "fanRatioPercentile": 32.0788,
+    "popularityPercentile": 14.1867,
+    "fanFavouriteDiscoveryScore": 12.2286,
+    "fanFavouriteDiscoveryPercentile": 12.954
   }
 }
