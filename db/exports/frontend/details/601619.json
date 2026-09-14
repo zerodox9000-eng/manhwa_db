@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Please Grant Me a Glorious Regret",
-  "mangabaka_title": "Please Grant Me a Glorious Regret",
+  "mangabaka_title": "Hwaryeohan Huhoereul Butakae",
   "native_title": "화려한 후회를 부탁해",
-  "romanized_title": null,
+  "romanized_title": "Hwaryeohan Huhoereul Butakae",
   "titles": [
     {
       "language": "ko",
       "title": "화려한 후회를 부탁해",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hwaryeohan Huhoereul Butakae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,29 +41,29 @@
     }
   ],
   "description": "I dream every night. A dream that has been repeating for years.\n\nTo save Arte, who lost her memory and fell into a coma due to a carriage accident 5 years ago, the Tian family poured everything into her medical care, accumulating massive debt and bringing them to the brink of bankruptcy. Finally, they held a banquet to put their estate up for sale. Just as she was resigning herself to the failure of this banquet as well, she encountered Dimion Rokata, the man who had been appearing in her dreams for years—both of them harboring an inexplicable sense of déjà vu toward one another. \n\n “I would like to propose a contract.” Maybe I'm making another mistake. But... “I will be the substitute for Lady Daton. Use me.” \n\nI also know that I have nowhere left to retreat. \n\n\"How far do you think I wanted to go with Peria?” With a bitter, cynical smile, he instantly closed the distance between them. “If I told you I wanted us to tangle like beasts until dawn, would you even care?” Green eyes stained with hatred loomed over her, and his trembling fingertips revealed his fury. “Take it off, then.”\n\n**Original Novel:**  \n[R19](https://ridibooks.com/books/4544012706), [R15](https://ridibooks.com/books/4544012636)\n\n**Original Webtoon:**    \nR19: [Ridibooks](https://ridibooks.com/books/6067000110)   \nR15: [Ridibooks](https://ridibooks.com/books/6067000111)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2OTcwLnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjU3Ni1rZjNhZnFNMjdvbWEucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-01T02:54:38.960Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T18:29:34.638Z",
+  "last_updated_at": "2026-09-13T19:16:06.965Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jigu",
-    "Sim Chadol"
+    "Cha-Dol Sim",
+    "Jigu"
   ],
   "artists": [
-    "Langhi"
+    "Ranghi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601619",
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216576,
+      "rating": null,
+      "url": "https://anilist.co/manga/216576"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3e1w2mw",
@@ -70,19 +85,36 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 8,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0702,
+    "popularityPercentile": 4.0443,
+    "fanFavouriteDiscoveryScore": 6.7097,
+    "fanFavouriteDiscoveryPercentile": 3.7674
   }
 }

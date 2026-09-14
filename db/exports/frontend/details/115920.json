@@ -40,21 +40,21 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Unfinished Business",
-      "traits": [
-        "official"
-      ],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Unfinished Business",
       "traits": [
         "native"
       ],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Unfinished Business",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -115,7 +115,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.148Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-13T01:13:25.024Z",
+  "last_updated_at": "2026-09-14T01:14:06.669Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -151,6 +151,7 @@
   },
   "tag_ids": [
     878,
+    392,
     1006,
     315,
     1788,
@@ -183,6 +184,7 @@
     3483,
     848,
     2883,
+    260,
     3066,
     1707,
     125,
@@ -235,28 +237,27 @@
     4219,
     180,
     16,
-    235,
+    893,
     4461,
     3118,
     31,
     383,
     2979,
-    3618,
     1123,
-    893,
-    392,
     237,
+    3113,
     18,
     984,
-    227,
     9,
     226,
     469,
-    3113,
-    749,
     5,
     830,
+    235,
     262,
+    3618,
+    227,
+    749,
     1126,
     93,
     57,
@@ -292,6 +293,7 @@
     "227": "core",
     "235": "incidental",
     "237": "core",
+    "260": "defining",
     "262": "incidental",
     "280": "incidental",
     "287": "unweighted",
@@ -342,7 +344,7 @@
     "2596": "defining",
     "2691": "defining",
     "2729": "recurrent",
-    "2883": "defining",
+    "2883": "unweighted",
     "2979": "recurrent",
     "2992": "recurrent",
     "3000": "defining",
@@ -378,16 +380,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 868,
+    "popularity": 870,
     "favourites": 11,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2673,
-    "fanRatioPercentile": 53.3187,
-    "popularityPercentile": 78.4099,
-    "fanFavouriteDiscoveryScore": 52.9117,
-    "fanFavouriteDiscoveryPercentile": 60.8753
+    "fanFavouriteRaw": 1.2644,
+    "fanRatioPercentile": 53.1589,
+    "popularityPercentile": 78.4449,
+    "fanFavouriteDiscoveryScore": 52.7543,
+    "fanFavouriteDiscoveryPercentile": 60.7374
   },
   "context": {
     "primaryProfile": "corporate-workplace",

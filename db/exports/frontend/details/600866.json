@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "In Search of Summer",
-  "mangabaka_title": "In Search of Summer",
+  "mangabaka_title": "Yeoreumeul Chajaseo",
   "native_title": "여름을 찾아서",
-  "romanized_title": null,
+  "romanized_title": "Yeoreumeul Chajaseo",
   "titles": [
     {
       "language": "ko",
       "title": "여름을 찾아서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,24 +22,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeoreumeul Chajaseo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/70110900), [Daum](https://webtoon.kakao.com/content/%EC%97%AC%EB%A6%84%EC%9D%84-%EC%B0%BE%EC%95%84%EC%84%9C/4932)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2luLXNlYXJjaC1vZi1zdW1tZXItMS53ZWJwP3Q9MTc4NzUwMzc0Nw",
+  "description": "U-Yeong is an elementary school student who misses her older sister, who died in an accident while studying abroad in the U.S. Whenever she misses her sister, U-Yeong writes a letter, turns it into a paper airplane, and flies it into the sky. During summer vacation, U-Yeong returns to her hometown and accidentally discovers seven treasures left behind by her sister, leading her to follow in her footsteps... As she searches for the letters and memories her sister left behind, she slowly comes to a true farewell with her.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjgxNi1hN3ppR1hHWkZkSGMucG5n",
   "total_chapters": "10",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T16:55:00.087Z",
+  "last_updated_at": "2026-09-14T05:06:06.036Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216816,
+      "rating": null,
+      "url": "https://anilist.co/manga/216816"
+    },
     "animeplanet": {
       "id": "in-search-of-summer",
       "rating": null,
@@ -66,6 +81,7 @@
   },
   "tag_ids": [
     40,
+    59,
     848,
     31,
     7,
@@ -75,14 +91,28 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "7": "defining",
+    "31": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "282": "unweighted",
+    "428": "unweighted",
+    "848": "core",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0702,
+    "popularityPercentile": 0.1895,
+    "fanFavouriteDiscoveryScore": 5.163,
+    "fanFavouriteDiscoveryPercentile": 0.1895
   }
 }

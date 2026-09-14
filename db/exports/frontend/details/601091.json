@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Misunderstanding Blind Date",
-  "mangabaka_title": "Misunderstanding Blind Date",
+  "mangabaka_title": "Chakgang Matseon",
   "native_title": "착각 맞선",
-  "romanized_title": null,
+  "romanized_title": "Chakgang Matseon",
   "titles": [
     {
       "language": "ko",
       "title": "착각 맞선",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Chakgang Matseon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,27 +47,27 @@
       "note": null
     }
   ],
-  "description": "Who Did I Go on a Blind Date With? Han Bom is a first-year surgical resident at YJ Hospital. Though momentarily taken aback by the rugged, wild charm of the man she’s been set up with, she sticks to her plan and turns him down. Having accomplished what she came for, Bom is about to leave when she sees someone collapse at the hotel. She rushes to help and ends up saving the person together with her blind date…\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/70234407/), [Daum](https://webtoon.kakao.com/content/%EC%B0%A9%EA%B0%81-%EB%A7%9E%EC%84%A0/4957)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L21pc3VuZGVyc3RhbmRpbmctYmxpbmQtZGF0ZS0xLndlYnA_dD0xNzg3NzM3MDQ5",
+  "description": "Who did I go on a blind date with?\n\nHan Bom, a first-year surgery resident at YJ. She flinched at the wild, masculine appearance of the man she was set up with, but she rejected him as planned. Just as she was about to leave having achieved her objective, Bom witnessed someone collapsing at the hotel and ended up saving them together with her date.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjgxNy1wTE9LQjlDUkdia1QuanBn",
   "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-25",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-26T02:19:28.203Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T15:38:52.629Z",
+  "last_updated_at": "2026-09-14T05:16:36.094Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kang Young-Ju",
-    "New Writer"
+    "Saejagga",
+    "Yeong-Ju Kang"
   ],
   "artists": [
     "Jingni"
@@ -67,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216817,
+      "rating": null,
+      "url": "https://anilist.co/manga/216817"
+    },
     "animeplanet": {
       "id": "misunderstanding-blind-date",
       "rating": null,
@@ -82,21 +97,37 @@
   "tag_ids": [
     43,
     74,
+    108,
     6,
+    350,
     9,
     93,
     57,
     428,
     7332
   ],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "350": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0702,
+    "popularityPercentile": 0.1895,
+    "fanFavouriteDiscoveryScore": 5.163,
+    "fanFavouriteDiscoveryPercentile": 0.1895
   }
 }

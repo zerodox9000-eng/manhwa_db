@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Dog Needs Owner",
-  "mangabaka_title": "Dog Needs Owner",
+  "mangabaka_title": "Gaeneun Juini Piryohada",
   "native_title": "개는 주인이 필요하다",
-  "romanized_title": null,
+  "romanized_title": "Gaeneun Juini Piryohada",
   "titles": [
     {
       "language": "ko",
       "title": "개는 주인이 필요하다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,9 +32,25 @@
     },
     {
       "language": "en",
+      "title": "Dog Needs Owners",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Dogs Need Owners",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gaeneun Juini Piryohada",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -44,26 +62,26 @@
     }
   ],
   "description": "[This is the story of a woman transported into a BL novel, where she must survive by dealing with the most dangerous character in the entire world—a deadly quest to win her new master's favor before he decides to kill her!] \n\nErabelle Vermillion is a low-ranking countess with a huge secret: she isn't from this world. She was once an ordinary reader who somehow became trapped inside the world of a novel known for its violence, brutality, and graphic content. \n\nFor eight years, Erabelle has hidden herself from the main cast while desperately searching for a way back to her own world. \n\nJust when she finally finds a temporal rift that could take her home, she's caught by the most dangerous character in the novel: Dejev Abaknis. Dejev is infamous for his violence and is destined to become the cause of the horrific slaughter that takes place in the novel's final chapters. \n\nCertain that he'll kill her, Erabelle desperately pleads for her life and offers to become his servant instead. Now, trapped in this mad world with the novel's most dangerous man as her master, Erabelle must do everything she can to earn his favor and stay alive. \n\nLet's plunge into this chaotic world and hope our protagonist can survive long enough to escape... or perhaps become the one person her dangerous master can't let go.\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/3498026965)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2RvZy1uZWVkcy1vd25lci0xLndlYnA_dD0xNzg3ODQ0MzUz",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjU2OS1rOGRUTzNjVWduZjMuanBn",
   "total_chapters": "13",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-27T03:45:42.901Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-12T17:31:38.115Z",
+  "last_updated_at": "2026-09-13T09:06:23.259Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Igo (II)",
-    "Yeonbab"
+    "Go Lee",
+    "Yeon-Bap"
   ],
   "artists": [
     "Dalbora"
@@ -74,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216569,
+      "rating": null,
+      "url": "https://anilist.co/manga/216569"
+    },
     "animeplanet": {
       "id": "dog-needs-owner",
       "rating": null,
@@ -89,6 +111,7 @@
   "tag_ids": [
     43,
     74,
+    108,
     36,
     94,
     258,
@@ -102,14 +125,33 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "1": "defining",
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "44": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "94": "unweighted",
+    "108": "unweighted",
+    "258": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 15,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0702,
+    "popularityPercentile": 9.546,
+    "fanFavouriteDiscoveryScore": 9.4611,
+    "fanFavouriteDiscoveryPercentile": 8.8902
   }
 }

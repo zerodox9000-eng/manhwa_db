@@ -930,18 +930,18 @@
   "127": {
     "id": 127,
     "name": "Nobility",
-    "path": "Themes > Nobility",
+    "path": "Themes > Social Issues > Nobility",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 1361,
+    "level": 3
   },
   "128": {
     "id": 128,
     "name": "Royalty",
-    "path": "Themes > Nobility > Royalty",
+    "path": "Themes > Social Issues > Nobility > Royalty",
     "is_genre": false,
     "parent_id": 127,
-    "level": 3
+    "level": 4
   },
   "129": {
     "id": 129,
@@ -1290,10 +1290,10 @@
   "227": {
     "id": 227,
     "name": "Revenge",
-    "path": "Themes > Revenge",
+    "path": "Themes > Violence > Revenge",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "228": {
     "id": 228,
@@ -1354,10 +1354,10 @@
   "235": {
     "id": 235,
     "name": "Bullying",
-    "path": "Themes > Bullying",
+    "path": "Themes > Violence > Bullying",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "236": {
     "id": 236,
@@ -1370,10 +1370,10 @@
   "237": {
     "id": 237,
     "name": "Orphans",
-    "path": "Themes > Orphans",
+    "path": "Themes > Kinship > Orphans",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "238": {
     "id": 238,
@@ -1914,10 +1914,10 @@
   "309": {
     "id": 309,
     "name": "Suicide",
-    "path": "Themes > Suicide",
+    "path": "Themes > Death > Suicide",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7532,
+    "level": 3
   },
   "311": {
     "id": 311,
@@ -2122,9 +2122,9 @@
   "341": {
     "id": 341,
     "name": "Guns",
-    "path": "Themes > Guns",
+    "path": "Objects > Guns",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 1071,
     "level": 2
   },
   "342": {
@@ -2194,18 +2194,18 @@
   "350": {
     "id": 350,
     "name": "Medical",
-    "path": "Themes > Medical",
+    "path": "Themes > Health > Medical",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7530,
+    "level": 3
   },
   "351": {
     "id": 351,
     "name": "Organized Crime",
-    "path": "Themes > Organized Crime",
+    "path": "Activities > Crimes > Organized Crime",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 288,
+    "level": 3
   },
   "352": {
     "id": 352,
@@ -2218,10 +2218,10 @@
   "353": {
     "id": 353,
     "name": "Mafia",
-    "path": "Themes > Organized Crime > Mafia",
+    "path": "Activities > Crimes > Organized Crime > Mafia",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "354": {
     "id": 354,
@@ -2266,26 +2266,26 @@
   "359": {
     "id": 359,
     "name": "Arranged Marriage",
-    "path": "Themes > Marriage > Arranged Marriage",
+    "path": "Themes > Kinship > Marriage > Arranged Marriage",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "360": {
     "id": 360,
     "name": "Marriage",
-    "path": "Themes > Marriage",
+    "path": "Themes > Kinship > Marriage",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "361": {
     "id": 361,
     "name": "Marriage of Convenience",
-    "path": "Themes > Marriage > Marriage of Convenience",
+    "path": "Themes > Kinship > Marriage > Marriage of Convenience",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "362": {
     "id": 362,
@@ -2522,10 +2522,10 @@
   "392": {
     "id": 392,
     "name": "Gangs",
-    "path": "Themes > Organized Crime > Gangs",
+    "path": "Activities > Crimes > Organized Crime > Gangs",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "393": {
     "id": 393,
@@ -2706,10 +2706,10 @@
   "416": {
     "id": 416,
     "name": "Disability",
-    "path": "Themes > Disability",
+    "path": "Themes > Health > Disability",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7530,
+    "level": 3
   },
   "417": {
     "id": 417,
@@ -2954,10 +2954,10 @@
   "455": {
     "id": 455,
     "name": "Visual Arts",
-    "path": "Themes > Visual Arts",
+    "path": "Themes > Culture > Visual Arts",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 2962,
+    "level": 3
   },
   "456": {
     "id": 456,
@@ -3274,10 +3274,10 @@
   "499": {
     "id": 499,
     "name": "Adoption",
-    "path": "Themes > Adoption",
+    "path": "Themes > Kinship > Adoption",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "500": {
     "id": 500,
@@ -3314,10 +3314,10 @@
   "504": {
     "id": 504,
     "name": "Fashion",
-    "path": "Themes > Fashion",
+    "path": "Themes > Culture > Fashion",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 2962,
+    "level": 3
   },
   "505": {
     "id": 505,
@@ -3834,10 +3834,10 @@
   "598": {
     "id": 598,
     "name": "Illness",
-    "path": "Themes > Illness",
+    "path": "Themes > Health > Illness",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7530,
+    "level": 3
   },
   "599": {
     "id": 599,
@@ -3962,10 +3962,10 @@
   "614": {
     "id": 614,
     "name": "Mental Illness",
-    "path": "Themes > Mental Illness",
+    "path": "Themes > Mental Health > Mental Illness",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "615": {
     "id": 615,
@@ -3978,10 +3978,10 @@
   "616": {
     "id": 616,
     "name": "Exorcism",
-    "path": "Themes > Exorcism",
+    "path": "Themes > Occult > Exorcism",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7538,
+    "level": 3
   },
   "617": {
     "id": 617,
@@ -4434,10 +4434,10 @@
   "673": {
     "id": 673,
     "name": "Conspiracy",
-    "path": "Themes > Conspiracy",
+    "path": "Themes > Politics > Conspiracy",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7533,
+    "level": 3
   },
   "674": {
     "id": 674,
@@ -4466,10 +4466,10 @@
   "677": {
     "id": 677,
     "name": "Loneliness",
-    "path": "Themes > Loneliness",
+    "path": "Themes > Emotions > Loneliness",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7536,
+    "level": 3
   },
   "678": {
     "id": 678,
@@ -4658,10 +4658,10 @@
   "701": {
     "id": 701,
     "name": "Transgender",
-    "path": "Themes > Transgender",
+    "path": "Themes > Gender > Transgender",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7539,
+    "level": 3
   },
   "702": {
     "id": 702,
@@ -4762,9 +4762,9 @@
   "715": {
     "id": 715,
     "name": "Makeup",
-    "path": "Themes > Makeup",
+    "path": "Character Traits > Makeup",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 543,
     "level": 2
   },
   "716": {
@@ -4922,10 +4922,10 @@
   "737": {
     "id": 737,
     "name": "Astronomy",
-    "path": "Themes > Astronomy",
+    "path": "Themes > Science > Astronomy",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7540,
+    "level": 3
   },
   "738": {
     "id": 738,
@@ -4962,10 +4962,10 @@
   "742": {
     "id": 742,
     "name": "Parenthood",
-    "path": "Themes > Parenthood",
+    "path": "Themes > Kinship > Parenthood",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "743": {
     "id": 743,
@@ -5018,10 +5018,10 @@
   "749": {
     "id": 749,
     "name": "Torture",
-    "path": "Themes > Torture",
+    "path": "Themes > Violence > Torture",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "750": {
     "id": 750,
@@ -5666,10 +5666,10 @@
   "846": {
     "id": 846,
     "name": "Adultery",
-    "path": "Themes > Adultery",
+    "path": "Themes > Courtship > Adultery",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "848": {
     "id": 848,
@@ -5850,10 +5850,10 @@
   "875": {
     "id": 875,
     "name": "First Love",
-    "path": "Themes > First Love",
+    "path": "Themes > Courtship > First Love",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "876": {
     "id": 876,
@@ -5994,10 +5994,10 @@
   "893": {
     "id": 893,
     "name": "Obsessive Love",
-    "path": "Themes > Obsessive Love",
+    "path": "Themes > Courtship > Obsessive Love",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "894": {
     "id": 894,
@@ -6090,10 +6090,10 @@
   "905": {
     "id": 905,
     "name": "Trauma",
-    "path": "Themes > Trauma",
+    "path": "Themes > Mental Health > Trauma",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "906": {
     "id": 906,
@@ -6170,10 +6170,10 @@
   "983": {
     "id": 983,
     "name": "Dead Parents",
-    "path": "Themes > Dead Parents",
+    "path": "Themes > Kinship > Dead Parents",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "984": {
     "id": 984,
@@ -6234,10 +6234,10 @@
   "991": {
     "id": 991,
     "name": "Food and Beverage",
-    "path": "Themes > Food and Beverage",
+    "path": "Themes > Gourmet > Food and Beverage",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7535,
+    "level": 3
   },
   "992": {
     "id": 992,
@@ -6266,10 +6266,10 @@
   "995": {
     "id": 995,
     "name": "Unexpressed Feelings",
-    "path": "Themes > Unexpressed Feelings",
+    "path": "Themes > Courtship > Unexpressed Feelings",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "996": {
     "id": 996,
@@ -6322,10 +6322,10 @@
   "1002": {
     "id": 1002,
     "name": "Insecurity",
-    "path": "Themes > Insecurity",
+    "path": "Themes > Mental Health > Insecurity",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "1003": {
     "id": 1003,
@@ -6346,10 +6346,10 @@
   "1005": {
     "id": 1005,
     "name": "Romantic Subplot",
-    "path": "Themes > Romantic Subplot",
+    "path": "Themes > Courtship > Romantic Subplot",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "1006": {
     "id": 1006,
@@ -6402,10 +6402,10 @@
   "1012": {
     "id": 1012,
     "name": "Stalkers",
-    "path": "Themes > Stalkers",
+    "path": "Themes > Violence > Stalkers",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "1013": {
     "id": 1013,
@@ -6466,10 +6466,10 @@
   "1020": {
     "id": 1020,
     "name": "Debts",
-    "path": "Themes > Debts",
+    "path": "Themes > Economics > Debts",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7543,
+    "level": 3
   },
   "1021": {
     "id": 1021,
@@ -6490,10 +6490,10 @@
   "1023": {
     "id": 1023,
     "name": "Student Council",
-    "path": "Themes > Student Council",
+    "path": "Themes > Academia > Student Council",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7529,
+    "level": 3
   },
   "1024": {
     "id": 1024,
@@ -6578,26 +6578,26 @@
   "1034": {
     "id": 1034,
     "name": "Corruption",
-    "path": "Themes > Corruption",
+    "path": "Themes > Politics > Corruption",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7533,
+    "level": 3
   },
   "1035": {
     "id": 1035,
     "name": "Married Life",
-    "path": "Themes > Marriage > Married Life",
+    "path": "Themes > Kinship > Marriage > Married Life",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "1036": {
     "id": 1036,
     "name": "Marriage Proposal",
-    "path": "Themes > Marriage > Marriage Proposal",
+    "path": "Themes > Kinship > Marriage > Marriage Proposal",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "1037": {
     "id": 1037,
@@ -6634,18 +6634,18 @@
   "1041": {
     "id": 1041,
     "name": "Secret Crush",
-    "path": "Themes > Secret Crush",
+    "path": "Themes > Courtship > Secret Crush",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "1042": {
     "id": 1042,
     "name": "Childhood Trauma",
-    "path": "Themes > Childhood Trauma",
+    "path": "Themes > Mental Health > Childhood Trauma",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "1043": {
     "id": 1043,
@@ -6722,18 +6722,18 @@
   "1052": {
     "id": 1052,
     "name": "Found Family",
-    "path": "Themes > Found Family",
+    "path": "Themes > Kinship > Found Family",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "1053": {
     "id": 1053,
     "name": "Inferiority Complex",
-    "path": "Themes > Inferiority Complex",
+    "path": "Themes > Mental Health > Inferiority Complex",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "1054": {
     "id": 1054,
@@ -6802,10 +6802,10 @@
   "1062": {
     "id": 1062,
     "name": "Abandonment",
-    "path": "Themes > Abandonment",
+    "path": "Themes > Kinship > Abandonment",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "1063": {
     "id": 1063,
@@ -6946,10 +6946,10 @@
   "1083": {
     "id": 1083,
     "name": "Art",
-    "path": "Themes > Art",
+    "path": "Themes > Culture > Art",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 2962,
+    "level": 3
   },
   "1084": {
     "id": 1084,
@@ -6986,17 +6986,17 @@
   "1090": {
     "id": 1090,
     "name": "Depression",
-    "path": "Themes > Depression",
+    "path": "Themes > Mental Health > Depression",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "1091": {
     "id": 1091,
     "name": "Competitions",
-    "path": "Themes > Competitions",
+    "path": "Activities > Competitions",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 537,
     "level": 2
   },
   "1092": {
@@ -7034,10 +7034,10 @@
   "1096": {
     "id": 1096,
     "name": "Historical Persons",
-    "path": "Themes > Historical Persons",
+    "path": "Themes > History > Historical Persons",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7527,
+    "level": 3
   },
   "1097": {
     "id": 1097,
@@ -7082,10 +7082,10 @@
   "1103": {
     "id": 1103,
     "name": "Affairs",
-    "path": "Themes > Affairs",
+    "path": "Themes > Courtship > Affairs",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "1104": {
     "id": 1104,
@@ -7162,10 +7162,10 @@
   "1120": {
     "id": 1120,
     "name": "Single Parent",
-    "path": "Themes > Single Parent",
+    "path": "Themes > Kinship > Single Parent",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "1122": {
     "id": 1122,
@@ -7218,10 +7218,10 @@
   "1129": {
     "id": 1129,
     "name": "Adopted Children",
-    "path": "Themes > Adopted Children",
+    "path": "Themes > Kinship > Adopted Children",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "1130": {
     "id": 1130,
@@ -7626,10 +7626,10 @@
   "1192": {
     "id": 1192,
     "name": "Inheritance",
-    "path": "Themes > Inheritance",
+    "path": "Themes > Kinship > Inheritance",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "1193": {
     "id": 1193,
@@ -9722,10 +9722,10 @@
   "1584": {
     "id": 1584,
     "name": "Rich Family",
-    "path": "Themes > Rich Family",
+    "path": "Themes > Kinship > Rich Family",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "1585": {
     "id": 1585,
@@ -9794,10 +9794,10 @@
   "1593": {
     "id": 1593,
     "name": "Attempted Suicide",
-    "path": "Themes > Suicide > Attempted Suicide",
+    "path": "Themes > Death > Suicide > Attempted Suicide",
     "is_genre": false,
     "parent_id": 309,
-    "level": 3
+    "level": 4
   },
   "1594": {
     "id": 1594,
@@ -10794,10 +10794,10 @@
   "1763": {
     "id": 1763,
     "name": "Mourning",
-    "path": "Themes > Mourning",
+    "path": "Themes > Death > Mourning",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7532,
+    "level": 3
   },
   "1764": {
     "id": 1764,
@@ -11674,10 +11674,10 @@
   "1893": {
     "id": 1893,
     "name": "Movie Business",
-    "path": "Themes > Movie Business",
+    "path": "Themes > Entertainment Industry > Movie Business",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 1173,
+    "level": 3
   },
   "1894": {
     "id": 1894,
@@ -11986,10 +11986,10 @@
   "1939": {
     "id": 1939,
     "name": "Harem Subtext",
-    "path": "Themes > Harem Subtext",
+    "path": "Themes > Courtship > Harem Subtext",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "1940": {
     "id": 1940,
@@ -12530,50 +12530,50 @@
   "2012": {
     "id": 2012,
     "name": "Insomnia",
-    "path": "Themes > Illness > Insomnia",
+    "path": "Themes > Health > Illness > Insomnia",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "2013": {
     "id": 2013,
     "name": "Post-Traumatic Stress Disorder",
-    "path": "Themes > Mental Illness > Post-Traumatic Stress Disorder",
+    "path": "Themes > Mental Health > Mental Illness > Post-Traumatic Stress Disorder",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "2014": {
     "id": 2014,
     "name": "Anxiety",
-    "path": "Themes > Mental Illness > Anxiety Disorders > Anxiety",
+    "path": "Themes > Mental Health > Mental Illness > Anxiety Disorders > Anxiety",
     "is_genre": false,
     "parent_id": 2923,
-    "level": 4
+    "level": 5
   },
   "2018": {
     "id": 2018,
     "name": "Social Anxiety",
-    "path": "Themes > Mental Illness > Anxiety Disorders > Social Anxiety",
+    "path": "Themes > Mental Health > Mental Illness > Anxiety Disorders > Social Anxiety",
     "is_genre": false,
     "parent_id": 2923,
-    "level": 4
+    "level": 5
   },
   "2019": {
     "id": 2019,
     "name": "Blindness",
-    "path": "Themes > Disability > Blindness",
+    "path": "Themes > Health > Disability > Blindness",
     "is_genre": false,
     "parent_id": 416,
-    "level": 3
+    "level": 4
   },
   "2020": {
     "id": 2020,
     "name": "Amputee",
-    "path": "Themes > Disability > Amputee",
+    "path": "Themes > Health > Disability > Amputee",
     "is_genre": false,
     "parent_id": 416,
-    "level": 3
+    "level": 4
   },
   "2021": {
     "id": 2021,
@@ -12714,10 +12714,10 @@
   "2039": {
     "id": 2039,
     "name": "Abusive Parents",
-    "path": "Themes > Abusive Parents",
+    "path": "Themes > Kinship > Abusive Parents",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "2041": {
     "id": 2041,
@@ -17306,10 +17306,10 @@
   "2687": {
     "id": 2687,
     "name": "Injury",
-    "path": "Themes > Injury",
+    "path": "Themes > Health > Injury",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7530,
+    "level": 3
   },
   "2688": {
     "id": 2688,
@@ -18674,10 +18674,10 @@
   "2895": {
     "id": 2895,
     "name": "Abandoned Child/ren",
-    "path": "Themes > Abandoned Child/ren",
+    "path": "Themes > Kinship > Abandoned Child/ren",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "2896": {
     "id": 2896,
@@ -19002,10 +19002,10 @@
   "2999": {
     "id": 2999,
     "name": "Obsession",
-    "path": "Themes > Obsessive Love > Obsession",
+    "path": "Themes > Courtship > Obsessive Love > Obsession",
     "is_genre": false,
     "parent_id": 893,
-    "level": 3
+    "level": 4
   },
   "3000": {
     "id": 3000,
@@ -19234,10 +19234,10 @@
   "3030": {
     "id": 3030,
     "name": "Parental Abandonment",
-    "path": "Themes > Abandonment > Parental Abandonment",
+    "path": "Themes > Kinship > Abandonment > Parental Abandonment",
     "is_genre": false,
     "parent_id": 1062,
-    "level": 3
+    "level": 4
   },
   "3031": {
     "id": 3031,
@@ -19282,10 +19282,10 @@
   "3036": {
     "id": 3036,
     "name": "Cruelty",
-    "path": "Themes > Cruelty",
+    "path": "Themes > Violence > Cruelty",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "3037": {
     "id": 3037,
@@ -19330,18 +19330,18 @@
   "3042": {
     "id": 3042,
     "name": "Historical Fiction",
-    "path": "Themes > Historical Fiction",
+    "path": "Themes > History > Historical Fiction",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7527,
+    "level": 3
   },
   "3043": {
     "id": 3043,
     "name": "Delusions",
-    "path": "Themes > Mental Illness > Psychotic Disorders > Delusions",
+    "path": "Themes > Mental Health > Mental Illness > Psychotic Disorders > Delusions",
     "is_genre": false,
     "parent_id": 2924,
-    "level": 4
+    "level": 5
   },
   "3044": {
     "id": 3044,
@@ -19402,10 +19402,10 @@
   "3051": {
     "id": 3051,
     "name": "Immortality",
-    "path": "Themes > Immortality",
+    "path": "Themes > Occult > Immortality",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7538,
+    "level": 3
   },
   "3052": {
     "id": 3052,
@@ -19618,10 +19618,10 @@
   "3078": {
     "id": 3078,
     "name": "Social Media",
-    "path": "Themes > Social Media",
+    "path": "Themes > Culture > Social Media",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 2962,
+    "level": 3
   },
   "3079": {
     "id": 3079,
@@ -19770,10 +19770,10 @@
   "3098": {
     "id": 3098,
     "name": "Family Business",
-    "path": "Themes > Family Business",
+    "path": "Themes > Kinship > Family Business",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "3099": {
     "id": 3099,
@@ -19882,10 +19882,10 @@
   "3113": {
     "id": 3113,
     "name": "Stockholm Syndrome",
-    "path": "Themes > Stockholm Syndrome",
+    "path": "Themes > Mental Health > Stockholm Syndrome",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "3114": {
     "id": 3114,
@@ -20002,10 +20002,10 @@
   "3128": {
     "id": 3128,
     "name": "Coming Out",
-    "path": "Themes > Coming Out",
+    "path": "Themes > Courtship > Coming Out",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "3129": {
     "id": 3129,
@@ -20162,10 +20162,10 @@
   "3149": {
     "id": 3149,
     "name": "Single Father",
-    "path": "Themes > Single Parent > Single Father",
+    "path": "Themes > Kinship > Single Parent > Single Father",
     "is_genre": false,
     "parent_id": 1120,
-    "level": 3
+    "level": 4
   },
   "3150": {
     "id": 3150,
@@ -20194,10 +20194,10 @@
   "3153": {
     "id": 3153,
     "name": "Pandemic",
-    "path": "Themes > Pandemic",
+    "path": "Themes > Health > Pandemic",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7530,
+    "level": 3
   },
   "3154": {
     "id": 3154,
@@ -20434,10 +20434,10 @@
   "3184": {
     "id": 3184,
     "name": "Moving Away",
-    "path": "Themes > Moving Away",
+    "path": "Themes > Cohabitation > Moving Away",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 228,
+    "level": 3
   },
   "3185": {
     "id": 3185,
@@ -20554,10 +20554,10 @@
   "3201": {
     "id": 3201,
     "name": "Fear of Abandonment",
-    "path": "Themes > Abandonment > Fear of Abandonment",
+    "path": "Themes > Kinship > Abandonment > Fear of Abandonment",
     "is_genre": false,
     "parent_id": 1062,
-    "level": 3
+    "level": 4
   },
   "3202": {
     "id": 3202,
@@ -20826,10 +20826,10 @@
   "3239": {
     "id": 3239,
     "name": "Contract Marriage",
-    "path": "Themes > Marriage > Contract Marriage",
+    "path": "Themes > Kinship > Marriage > Contract Marriage",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "3240": {
     "id": 3240,
@@ -20866,10 +20866,10 @@
   "3244": {
     "id": 3244,
     "name": "Remarriage",
-    "path": "Themes > Marriage > Remarriage",
+    "path": "Themes > Kinship > Marriage > Remarriage",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "3245": {
     "id": 3245,
@@ -21138,10 +21138,10 @@
   "3281": {
     "id": 3281,
     "name": "Corrupt Organizations",
-    "path": "Themes > Organized Crime > Corrupt Organizations",
+    "path": "Activities > Crimes > Organized Crime > Corrupt Organizations",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "3282": {
     "id": 3282,
@@ -21442,10 +21442,10 @@
   "3320": {
     "id": 3320,
     "name": "Baby/ies",
-    "path": "Themes > Baby/ies",
+    "path": "Themes > Kinship > Baby/ies",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "3322": {
     "id": 3322,
@@ -21594,18 +21594,18 @@
   "3341": {
     "id": 3341,
     "name": "Forced into Marriage",
-    "path": "Themes > Marriage > Forced into Marriage",
+    "path": "Themes > Kinship > Marriage > Forced into Marriage",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "3342": {
     "id": 3342,
     "name": "Harassment",
-    "path": "Themes > Harassment",
+    "path": "Themes > Violence > Harassment",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "3343": {
     "id": 3343,
@@ -21634,10 +21634,10 @@
   "3346": {
     "id": 3346,
     "name": "Denied Feelings",
-    "path": "Themes > Unexpressed Feelings > Denied Feelings",
+    "path": "Themes > Courtship > Unexpressed Feelings > Denied Feelings",
     "is_genre": false,
     "parent_id": 995,
-    "level": 3
+    "level": 4
   },
   "3347": {
     "id": 3347,
@@ -21698,10 +21698,10 @@
   "3354": {
     "id": 3354,
     "name": "Greed",
-    "path": "Themes > Greed",
+    "path": "Themes > Economics > Greed",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7543,
+    "level": 3
   },
   "3355": {
     "id": 3355,
@@ -21842,10 +21842,10 @@
   "3376": {
     "id": 3376,
     "name": "Political Marriage",
-    "path": "Themes > Marriage > Political Marriage",
+    "path": "Themes > Kinship > Marriage > Political Marriage",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "3377": {
     "id": 3377,
@@ -21914,10 +21914,10 @@
   "3385": {
     "id": 3385,
     "name": "Hatred",
-    "path": "Themes > Hatred",
+    "path": "Themes > Emotions > Hatred",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7536,
+    "level": 3
   },
   "3386": {
     "id": 3386,
@@ -21946,10 +21946,10 @@
   "3389": {
     "id": 3389,
     "name": "Psychological Trauma",
-    "path": "Themes > Trauma > Psychological Trauma",
+    "path": "Themes > Mental Health > Trauma > Psychological Trauma",
     "is_genre": false,
     "parent_id": 905,
-    "level": 3
+    "level": 4
   },
   "3390": {
     "id": 3390,
@@ -21962,10 +21962,10 @@
   "3391": {
     "id": 3391,
     "name": "Human Trafficking",
-    "path": "Themes > Organized Crime > Human Trafficking",
+    "path": "Activities > Crimes > Organized Crime > Human Trafficking",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "3392": {
     "id": 3392,
@@ -22002,10 +22002,10 @@
   "3396": {
     "id": 3396,
     "name": "Insanity",
-    "path": "Themes > Mental Illness > Insanity",
+    "path": "Themes > Mental Health > Mental Illness > Insanity",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "3397": {
     "id": 3397,
@@ -22026,10 +22026,10 @@
   "3399": {
     "id": 3399,
     "name": "Mental Breakdown",
-    "path": "Themes > Mental Illness > Mental Breakdown",
+    "path": "Themes > Mental Health > Mental Illness > Mental Breakdown",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "3400": {
     "id": 3400,
@@ -22042,10 +22042,10 @@
   "3401": {
     "id": 3401,
     "name": "Terminal Illness",
-    "path": "Themes > Illness > Terminal Illness",
+    "path": "Themes > Health > Illness > Terminal Illness",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "3403": {
     "id": 3403,
@@ -22106,10 +22106,10 @@
   "3410": {
     "id": 3410,
     "name": "Painful First Love",
-    "path": "Themes > First Love > Painful First Love",
+    "path": "Themes > Courtship > First Love > Painful First Love",
     "is_genre": false,
     "parent_id": 875,
-    "level": 3
+    "level": 4
   },
   "3411": {
     "id": 3411,
@@ -22146,10 +22146,10 @@
   "3416": {
     "id": 3416,
     "name": "Coma",
-    "path": "Themes > Medical > Coma",
+    "path": "Themes > Health > Medical > Coma",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "3417": {
     "id": 3417,
@@ -22450,10 +22450,10 @@
   "3456": {
     "id": 3456,
     "name": "Fallen Nobility",
-    "path": "Themes > Nobility > Fallen Nobility",
+    "path": "Themes > Social Issues > Nobility > Fallen Nobility",
     "is_genre": false,
     "parent_id": 127,
-    "level": 3
+    "level": 4
   },
   "3457": {
     "id": 3457,
@@ -22626,10 +22626,10 @@
   "3481": {
     "id": 3481,
     "name": "Single Mother",
-    "path": "Themes > Single Parent > Single Mother",
+    "path": "Themes > Kinship > Single Parent > Single Mother",
     "is_genre": false,
     "parent_id": 1120,
-    "level": 3
+    "level": 4
   },
   "3482": {
     "id": 3482,
@@ -22666,10 +22666,10 @@
   "3486": {
     "id": 3486,
     "name": "Living Alone",
-    "path": "Themes > Living Alone",
+    "path": "Themes > Cohabitation > Living Alone",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 228,
+    "level": 3
   },
   "3487": {
     "id": 3487,
@@ -23466,9 +23466,9 @@
   "3593": {
     "id": 3593,
     "name": "Variations on a Theme",
-    "path": "Themes > Variations on a Theme",
+    "path": "Narrative Tropes > Variations on a Theme",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 563,
     "level": 2
   },
   "3594": {
@@ -23538,10 +23538,10 @@
   "3603": {
     "id": 3603,
     "name": "Agender",
-    "path": "Themes > Agender",
+    "path": "Themes > Gender > Agender",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7539,
+    "level": 3
   },
   "3604": {
     "id": 3604,
@@ -23650,18 +23650,18 @@
   "3617": {
     "id": 3617,
     "name": "Disease",
-    "path": "Themes > Illness > Disease",
+    "path": "Themes > Health > Illness > Disease",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "3618": {
     "id": 3618,
     "name": "Grudge",
-    "path": "Themes > Grudge",
+    "path": "Themes > Violence > Grudge",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "3619": {
     "id": 3619,
@@ -23818,9 +23818,9 @@
   "3638": {
     "id": 3638,
     "name": "Symbolism",
-    "path": "Themes > Symbolism",
+    "path": "Narrative Tropes > Symbolism",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 563,
     "level": 2
   },
   "3639": {
@@ -23922,10 +23922,10 @@
   "3652": {
     "id": 3652,
     "name": "Marriage Without Love",
-    "path": "Themes > Marriage > Marriage Without Love",
+    "path": "Themes > Kinship > Marriage > Marriage Without Love",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "3653": {
     "id": 3653,
@@ -24282,10 +24282,10 @@
   "3700": {
     "id": 3700,
     "name": "Dispute Over Succession",
-    "path": "Themes > Dispute Over Succession",
+    "path": "Themes > Kinship > Dispute Over Succession",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "3702": {
     "id": 3702,
@@ -24482,10 +24482,10 @@
   "3726": {
     "id": 3726,
     "name": "Management",
-    "path": "Themes > Management",
+    "path": "Themes > Work > Management",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "3727": {
     "id": 3727,
@@ -24794,10 +24794,10 @@
   "3768": {
     "id": 3768,
     "name": "Coercion",
-    "path": "Themes > Coercion",
+    "path": "Themes > Violence > Coercion",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "3769": {
     "id": 3769,
@@ -24898,10 +24898,10 @@
   "3782": {
     "id": 3782,
     "name": "Female to Male",
-    "path": "Themes > Female to Male",
+    "path": "Themes > Gender > Female to Male",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7539,
+    "level": 3
   },
   "3783": {
     "id": 3783,
@@ -25050,10 +25050,10 @@
   "3802": {
     "id": 3802,
     "name": "Child Neglect",
-    "path": "Themes > Child Neglect",
+    "path": "Themes > Kinship > Child Neglect",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "3803": {
     "id": 3803,
@@ -25074,10 +25074,10 @@
   "3806": {
     "id": 3806,
     "name": "Redemption",
-    "path": "Themes > Redemption",
+    "path": "Themes > Morality > Redemption",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7537,
+    "level": 3
   },
   "3807": {
     "id": 3807,
@@ -25106,10 +25106,10 @@
   "3811": {
     "id": 3811,
     "name": "Viruses",
-    "path": "Themes > Viruses",
+    "path": "Themes > Health > Viruses",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7530,
+    "level": 3
   },
   "3812": {
     "id": 3812,
@@ -25282,10 +25282,10 @@
   "3833": {
     "id": 3833,
     "name": "Brutality",
-    "path": "Themes > Brutality",
+    "path": "Themes > Violence > Brutality",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "3834": {
     "id": 3834,
@@ -25330,10 +25330,10 @@
   "3841": {
     "id": 3841,
     "name": "Protagonist Lives Alone",
-    "path": "Themes > Protagonist Lives Alone",
+    "path": "Themes > Cohabitation > Protagonist Lives Alone",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 228,
+    "level": 3
   },
   "3842": {
     "id": 3842,
@@ -25458,10 +25458,10 @@
   "3857": {
     "id": 3857,
     "name": "Important Family",
-    "path": "Themes > Important Family",
+    "path": "Themes > Kinship > Important Family",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "3858": {
     "id": 3858,
@@ -25530,10 +25530,10 @@
   "3866": {
     "id": 3866,
     "name": "Business Management",
-    "path": "Themes > Business Management",
+    "path": "Themes > Work > Business Management",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "3867": {
     "id": 3867,
@@ -25546,10 +25546,10 @@
   "3868": {
     "id": 3868,
     "name": "Gang Wars",
-    "path": "Themes > Organized Crime > Gangs > Gang Wars",
+    "path": "Activities > Crimes > Organized Crime > Gangs > Gang Wars",
     "is_genre": false,
     "parent_id": 392,
-    "level": 4
+    "level": 5
   },
   "3869": {
     "id": 3869,
@@ -25578,10 +25578,10 @@
   "3872": {
     "id": 3872,
     "name": "Rituals",
-    "path": "Themes > Rituals",
+    "path": "Themes > Religion > Rituals",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7534,
+    "level": 3
   },
   "3873": {
     "id": 3873,
@@ -25602,10 +25602,10 @@
   "3875": {
     "id": 3875,
     "name": "Coffee",
-    "path": "Themes > Coffee",
+    "path": "Themes > Gourmet > Coffee",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7535,
+    "level": 3
   },
   "3876": {
     "id": 3876,
@@ -25706,10 +25706,10 @@
   "3894": {
     "id": 3894,
     "name": "Distinguished Family",
-    "path": "Themes > Distinguished Family",
+    "path": "Themes > Kinship > Distinguished Family",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "3895": {
     "id": 3895,
@@ -25826,10 +25826,10 @@
   "3910": {
     "id": 3910,
     "name": "Evolution",
-    "path": "Themes > Evolution",
+    "path": "Themes > Science > Evolution",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7540,
+    "level": 3
   },
   "3911": {
     "id": 3911,
@@ -25906,10 +25906,10 @@
   "3921": {
     "id": 3921,
     "name": "New Job",
-    "path": "Themes > New Job",
+    "path": "Themes > Work > New Job",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "3923": {
     "id": 3923,
@@ -26146,10 +26146,10 @@
   "3957": {
     "id": 3957,
     "name": "Mysterious Illness",
-    "path": "Themes > Illness > Mysterious Illness",
+    "path": "Themes > Health > Illness > Mysterious Illness",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "3959": {
     "id": 3959,
@@ -26386,10 +26386,10 @@
   "3990": {
     "id": 3990,
     "name": "Cancer",
-    "path": "Themes > Illness > Cancer",
+    "path": "Themes > Health > Illness > Cancer",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "3991": {
     "id": 3991,
@@ -26466,10 +26466,10 @@
   "4001": {
     "id": 4001,
     "name": "Repressed Memories",
-    "path": "Themes > Mental Illness > Repressed Memories",
+    "path": "Themes > Mental Health > Mental Illness > Repressed Memories",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "4002": {
     "id": 4002,
@@ -26562,10 +26562,10 @@
   "4013": {
     "id": 4013,
     "name": "Job Hunting",
-    "path": "Themes > Job Hunting",
+    "path": "Themes > Work > Job Hunting",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "4014": {
     "id": 4014,
@@ -26826,10 +26826,10 @@
   "4052": {
     "id": 4052,
     "name": "Bride",
-    "path": "Themes > Bride",
+    "path": "Themes > Kinship > Bride",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4053": {
     "id": 4053,
@@ -27042,10 +27042,10 @@
   "4081": {
     "id": 4081,
     "name": "Childhood",
-    "path": "Themes > Childhood",
+    "path": "Themes > Kinship > Childhood",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4082": {
     "id": 4082,
@@ -27202,10 +27202,10 @@
   "4102": {
     "id": 4102,
     "name": "Amputation",
-    "path": "Themes > Illness > Amputation",
+    "path": "Themes > Health > Illness > Amputation",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4103": {
     "id": 4103,
@@ -27314,18 +27314,18 @@
   "4119": {
     "id": 4119,
     "name": "Scandal",
-    "path": "Themes > Scandal",
+    "path": "Themes > Violence > Scandal",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 830,
+    "level": 3
   },
   "4121": {
     "id": 4121,
     "name": "Surgery",
-    "path": "Themes > Medical > Surgery",
+    "path": "Themes > Health > Medical > Surgery",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "4122": {
     "id": 4122,
@@ -27402,10 +27402,10 @@
   "4131": {
     "id": 4131,
     "name": "Identity Crisis",
-    "path": "Themes > Identity Crisis",
+    "path": "Themes > Mental Health > Identity Crisis",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "4132": {
     "id": 4132,
@@ -27418,10 +27418,10 @@
   "4133": {
     "id": 4133,
     "name": "Non-Existent Disease",
-    "path": "Themes > Illness > Non-Existent Disease",
+    "path": "Themes > Health > Illness > Non-Existent Disease",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4135": {
     "id": 4135,
@@ -27522,10 +27522,10 @@
   "4148": {
     "id": 4148,
     "name": "Army",
-    "path": "Themes > Army",
+    "path": "Themes > Military > Army",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7542,
+    "level": 3
   },
   "4149": {
     "id": 4149,
@@ -27618,18 +27618,18 @@
   "4160": {
     "id": 4160,
     "name": "Fake Marriage",
-    "path": "Themes > Marriage > Fake Marriage",
+    "path": "Themes > Kinship > Marriage > Fake Marriage",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "4161": {
     "id": 4161,
     "name": "Heart Condition",
-    "path": "Themes > Illness > Heart Condition",
+    "path": "Themes > Health > Illness > Heart Condition",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4162": {
     "id": 4162,
@@ -27922,18 +27922,18 @@
   "4202": {
     "id": 4202,
     "name": "Paraplegia",
-    "path": "Themes > Illness > Paraplegia",
+    "path": "Themes > Health > Illness > Paraplegia",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4203": {
     "id": 4203,
     "name": "Protective Family",
-    "path": "Themes > Protective Family",
+    "path": "Themes > Kinship > Protective Family",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4204": {
     "id": 4204,
@@ -28122,10 +28122,10 @@
   "4230": {
     "id": 4230,
     "name": "Arranged Engagement",
-    "path": "Themes > Arranged Engagement",
+    "path": "Themes > Kinship > Arranged Engagement",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4231": {
     "id": 4231,
@@ -28146,10 +28146,10 @@
   "4234": {
     "id": 4234,
     "name": "Dream Job",
-    "path": "Themes > Dream Job",
+    "path": "Themes > Work > Dream Job",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "4235": {
     "id": 4235,
@@ -28394,10 +28394,10 @@
   "4267": {
     "id": 4267,
     "name": "Longing",
-    "path": "Themes > Longing",
+    "path": "Themes > Emotions > Longing",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7536,
+    "level": 3
   },
   "4268": {
     "id": 4268,
@@ -28474,10 +28474,10 @@
   "4279": {
     "id": 4279,
     "name": "Transvestite",
-    "path": "Themes > Transvestite",
+    "path": "Themes > Gender > Transvestite",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7539,
+    "level": 3
   },
   "4280": {
     "id": 4280,
@@ -28546,10 +28546,10 @@
   "4292": {
     "id": 4292,
     "name": "Nazi",
-    "path": "Themes > Nazi",
+    "path": "Themes > Social Issues > Nazi",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 1361,
+    "level": 3
   },
   "4293": {
     "id": 4293,
@@ -28618,10 +28618,10 @@
   "4301": {
     "id": 4301,
     "name": "Assault",
-    "path": "Themes > Assault",
+    "path": "Activities > Crimes > Assault",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 288,
+    "level": 3
   },
   "4304": {
     "id": 4304,
@@ -28834,10 +28834,10 @@
   "4337": {
     "id": 4337,
     "name": "Inner Turmoil",
-    "path": "Themes > Inner Turmoil",
+    "path": "Themes > Mental Health > Inner Turmoil",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7531,
+    "level": 3
   },
   "4338": {
     "id": 4338,
@@ -28858,10 +28858,10 @@
   "4340": {
     "id": 4340,
     "name": "Menstruation",
-    "path": "Themes > Illness > Menstruation",
+    "path": "Themes > Health > Illness > Menstruation",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4341": {
     "id": 4341,
@@ -28874,10 +28874,10 @@
   "4342": {
     "id": 4342,
     "name": "Moving In",
-    "path": "Themes > Moving In",
+    "path": "Themes > Cohabitation > Moving In",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 228,
+    "level": 3
   },
   "4343": {
     "id": 4343,
@@ -28962,10 +28962,10 @@
   "4354": {
     "id": 4354,
     "name": "Eating Disorder",
-    "path": "Themes > Mental Illness > Eating Disorders > Eating Disorder",
+    "path": "Themes > Mental Health > Mental Illness > Eating Disorders > Eating Disorder",
     "is_genre": false,
     "parent_id": 2925,
-    "level": 4
+    "level": 5
   },
   "4355": {
     "id": 4355,
@@ -28994,10 +28994,10 @@
   "4359": {
     "id": 4359,
     "name": "Motherhood",
-    "path": "Themes > Motherhood",
+    "path": "Themes > Kinship > Motherhood",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4360": {
     "id": 4360,
@@ -29042,10 +29042,10 @@
   "4366": {
     "id": 4366,
     "name": "Sex Change",
-    "path": "Themes > Transgender > Sex Change",
+    "path": "Themes > Gender > Transgender > Sex Change",
     "is_genre": false,
     "parent_id": 701,
-    "level": 3
+    "level": 4
   },
   "4368": {
     "id": 4368,
@@ -29146,10 +29146,10 @@
   "4383": {
     "id": 4383,
     "name": "Living Together",
-    "path": "Themes > Living Together",
+    "path": "Themes > Cohabitation > Living Together",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 228,
+    "level": 3
   },
   "4384": {
     "id": 4384,
@@ -29202,10 +29202,10 @@
   "4392": {
     "id": 4392,
     "name": "Shamanism",
-    "path": "Themes > Shamanism",
+    "path": "Themes > Religion > Shamanism",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7534,
+    "level": 3
   },
   "4393": {
     "id": 4393,
@@ -29330,10 +29330,10 @@
   "4412": {
     "id": 4412,
     "name": "Painful Memories",
-    "path": "Themes > Mental Illness > Painful Memories",
+    "path": "Themes > Mental Health > Mental Illness > Painful Memories",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "4413": {
     "id": 4413,
@@ -29530,10 +29530,10 @@
   "4444": {
     "id": 4444,
     "name": "Cute Child/ren",
-    "path": "Themes > Cute Child/ren",
+    "path": "Themes > Kinship > Cute Child/ren",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4446": {
     "id": 4446,
@@ -29586,10 +29586,10 @@
   "4453": {
     "id": 4453,
     "name": "Overwork",
-    "path": "Themes > Overwork",
+    "path": "Themes > Work > Overwork",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "4454": {
     "id": 4454,
@@ -29682,18 +29682,18 @@
   "4467": {
     "id": 4467,
     "name": "Human Livestock",
-    "path": "Themes > Organized Crime > Human Livestock",
+    "path": "Activities > Crimes > Organized Crime > Human Livestock",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "4469": {
     "id": 4469,
     "name": "Lost Child/ren",
-    "path": "Themes > Lost Child/ren",
+    "path": "Themes > Kinship > Lost Child/ren",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4470": {
     "id": 4470,
@@ -29746,10 +29746,10 @@
   "4478": {
     "id": 4478,
     "name": "Abduction",
-    "path": "Themes > Organized Crime > Abduction",
+    "path": "Activities > Crimes > Organized Crime > Abduction",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "4479": {
     "id": 4479,
@@ -29786,10 +29786,10 @@
   "4483": {
     "id": 4483,
     "name": "Deafness",
-    "path": "Themes > Illness > Deafness",
+    "path": "Themes > Health > Illness > Deafness",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4484": {
     "id": 4484,
@@ -29810,10 +29810,10 @@
   "4486": {
     "id": 4486,
     "name": "Fatherhood",
-    "path": "Themes > Fatherhood",
+    "path": "Themes > Kinship > Fatherhood",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4488": {
     "id": 4488,
@@ -29874,10 +29874,10 @@
   "4497": {
     "id": 4497,
     "name": "Plastic Surgery",
-    "path": "Themes > Illness > Plastic Surgery",
+    "path": "Themes > Health > Illness > Plastic Surgery",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4498": {
     "id": 4498,
@@ -29954,10 +29954,10 @@
   "4509": {
     "id": 4509,
     "name": "Atonement",
-    "path": "Themes > Atonement",
+    "path": "Themes > Morality > Atonement",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7537,
+    "level": 3
   },
   "4510": {
     "id": 4510,
@@ -30066,10 +30066,10 @@
   "4525": {
     "id": 4525,
     "name": "Lost Memories",
-    "path": "Themes > Mental Illness > Lost Memories",
+    "path": "Themes > Mental Health > Mental Illness > Lost Memories",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "4527": {
     "id": 4527,
@@ -30258,7 +30258,7 @@
   "4554": {
     "id": 4554,
     "name": "Hotel Business",
-    "path": "Themes > Competitions > Hotel Business",
+    "path": "Activities > Competitions > Hotel Business",
     "is_genre": false,
     "parent_id": 1091,
     "level": 3
@@ -30282,10 +30282,10 @@
   "4557": {
     "id": 4557,
     "name": "Mutual Attraction",
-    "path": "Themes > Mutual Attraction",
+    "path": "Themes > Courtship > Mutual Attraction",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "4559": {
     "id": 4559,
@@ -30618,9 +30618,9 @@
   "4610": {
     "id": 4610,
     "name": "Metaphorical",
-    "path": "Themes > Metaphorical",
+    "path": "Narrative Tropes > Metaphorical",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 563,
     "level": 2
   },
   "4611": {
@@ -30634,10 +30634,10 @@
   "4612": {
     "id": 4612,
     "name": "Physical Handicap",
-    "path": "Themes > Illness > Physical Handicap",
+    "path": "Themes > Health > Illness > Physical Handicap",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4613": {
     "id": 4613,
@@ -30746,10 +30746,10 @@
   "4629": {
     "id": 4629,
     "name": "Birth",
-    "path": "Themes > Birth",
+    "path": "Themes > Kinship > Birth",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7525,
+    "level": 3
   },
   "4630": {
     "id": 4630,
@@ -30802,10 +30802,10 @@
   "4640": {
     "id": 4640,
     "name": "Infertility",
-    "path": "Themes > Illness > Infertility",
+    "path": "Themes > Health > Illness > Infertility",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4641": {
     "id": 4641,
@@ -31010,10 +31010,10 @@
   "4673": {
     "id": 4673,
     "name": "Fever",
-    "path": "Themes > Illness > Fever",
+    "path": "Themes > Health > Illness > Fever",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4674": {
     "id": 4674,
@@ -31026,10 +31026,10 @@
   "4675": {
     "id": 4675,
     "name": "Haphephobia",
-    "path": "Themes > Mental Illness > Haphephobia",
+    "path": "Themes > Mental Health > Mental Illness > Haphephobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "4676": {
     "id": 4676,
@@ -31226,10 +31226,10 @@
   "4709": {
     "id": 4709,
     "name": "Mistress",
-    "path": "Themes > Mistress",
+    "path": "Themes > Courtship > Mistress",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "4710": {
     "id": 4710,
@@ -31402,10 +31402,10 @@
   "4740": {
     "id": 4740,
     "name": "Second Life",
-    "path": "Themes > Second Life",
+    "path": "Themes > Death > Second Life",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7532,
+    "level": 3
   },
   "4741": {
     "id": 4741,
@@ -31546,10 +31546,10 @@
   "4762": {
     "id": 4762,
     "name": "Madness",
-    "path": "Themes > Mental Illness > Madness",
+    "path": "Themes > Mental Health > Mental Illness > Madness",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "4763": {
     "id": 4763,
@@ -31602,10 +31602,10 @@
   "4773": {
     "id": 4773,
     "name": "Secret Marriage",
-    "path": "Themes > Marriage > Secret Marriage",
+    "path": "Themes > Kinship > Marriage > Secret Marriage",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "4774": {
     "id": 4774,
@@ -31802,10 +31802,10 @@
   "4807": {
     "id": 4807,
     "name": "Multiple Lives",
-    "path": "Themes > Multiple Lives",
+    "path": "Themes > Death > Multiple Lives",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7532,
+    "level": 3
   },
   "4809": {
     "id": 4809,
@@ -32050,10 +32050,10 @@
   "4847": {
     "id": 4847,
     "name": "Forced Work",
-    "path": "Themes > Forced Work",
+    "path": "Themes > Work > Forced Work",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "4848": {
     "id": 4848,
@@ -32258,10 +32258,10 @@
   "4877": {
     "id": 4877,
     "name": "Former Royalty",
-    "path": "Themes > Nobility > Royalty > Former Royalty",
+    "path": "Themes > Social Issues > Nobility > Royalty > Former Royalty",
     "is_genre": false,
     "parent_id": 128,
-    "level": 4
+    "level": 5
   },
   "4878": {
     "id": 4878,
@@ -32290,10 +32290,10 @@
   "4881": {
     "id": 4881,
     "name": "Human Auction",
-    "path": "Themes > Organized Crime > Human Auction",
+    "path": "Activities > Crimes > Organized Crime > Human Auction",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "4882": {
     "id": 4882,
@@ -32306,10 +32306,10 @@
   "4884": {
     "id": 4884,
     "name": "Infectious Virus",
-    "path": "Themes > Illness > Infectious Virus",
+    "path": "Themes > Health > Illness > Infectious Virus",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "4885": {
     "id": 4885,
@@ -32538,10 +32538,10 @@
   "4918": {
     "id": 4918,
     "name": "Counselling",
-    "path": "Themes > Medical > Counselling",
+    "path": "Themes > Health > Medical > Counselling",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "4919": {
     "id": 4919,
@@ -32562,10 +32562,10 @@
   "4921": {
     "id": 4921,
     "name": "Disability Aid",
-    "path": "Themes > Disability > Disability Aid",
+    "path": "Themes > Health > Disability > Disability Aid",
     "is_genre": false,
     "parent_id": 416,
-    "level": 3
+    "level": 4
   },
   "4923": {
     "id": 4923,
@@ -32850,10 +32850,10 @@
   "4967": {
     "id": 4967,
     "name": "Child Bride",
-    "path": "Themes > Marriage > Child Bride",
+    "path": "Themes > Kinship > Marriage > Child Bride",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "4968": {
     "id": 4968,
@@ -32890,10 +32890,10 @@
   "4975": {
     "id": 4975,
     "name": "Forced Proximity",
-    "path": "Themes > Forced Proximity",
+    "path": "Themes > Courtship > Forced Proximity",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7526,
+    "level": 3
   },
   "4977": {
     "id": 4977,
@@ -32962,10 +32962,10 @@
   "4988": {
     "id": 4988,
     "name": "New Year's",
-    "path": "Themes > New Year's",
+    "path": "Themes > Holidays > New Year's",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7541,
+    "level": 3
   },
   "4989": {
     "id": 4989,
@@ -33034,10 +33034,10 @@
   "4997": {
     "id": 4997,
     "name": "Self Inflicted Injuries",
-    "path": "Themes > Mental Illness > Self Inflicted Injuries",
+    "path": "Themes > Mental Health > Mental Illness > Self Inflicted Injuries",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "4998": {
     "id": 4998,
@@ -33066,10 +33066,10 @@
   "5001": {
     "id": 5001,
     "name": "Sold To Be A Wife Concubine",
-    "path": "Themes > Marriage > Sold To Be A Wife Concubine",
+    "path": "Themes > Kinship > Marriage > Sold To Be A Wife Concubine",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "5002": {
     "id": 5002,
@@ -33306,7 +33306,7 @@
   "5041": {
     "id": 5041,
     "name": "Makeup and Cosmetics",
-    "path": "Themes > Makeup > Makeup and Cosmetics",
+    "path": "Character Traits > Makeup > Makeup and Cosmetics",
     "is_genre": false,
     "parent_id": 715,
     "level": 3
@@ -33514,10 +33514,10 @@
   "5073": {
     "id": 5073,
     "name": "Autism",
-    "path": "Themes > Mental Illness > Developmental Disorders > Autism",
+    "path": "Themes > Mental Health > Mental Illness > Developmental Disorders > Autism",
     "is_genre": false,
     "parent_id": 2926,
-    "level": 4
+    "level": 5
   },
   "5075": {
     "id": 5075,
@@ -33626,10 +33626,10 @@
   "5089": {
     "id": 5089,
     "name": "False Memories",
-    "path": "Themes > Mental Illness > False Memories",
+    "path": "Themes > Mental Health > Mental Illness > False Memories",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5090": {
     "id": 5090,
@@ -33706,10 +33706,10 @@
   "5102": {
     "id": 5102,
     "name": "Organ Transplant",
-    "path": "Themes > Medical > Organ Transplant",
+    "path": "Themes > Health > Medical > Organ Transplant",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "5103": {
     "id": 5103,
@@ -33738,10 +33738,10 @@
   "5106": {
     "id": 5106,
     "name": "Retirement",
-    "path": "Themes > Retirement",
+    "path": "Themes > Work > Retirement",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "5107": {
     "id": 5107,
@@ -33794,10 +33794,10 @@
   "5116": {
     "id": 5116,
     "name": "Treatment",
-    "path": "Themes > Illness > Treatment",
+    "path": "Themes > Health > Illness > Treatment",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "5117": {
     "id": 5117,
@@ -33898,10 +33898,10 @@
   "5132": {
     "id": 5132,
     "name": "Brain Injury",
-    "path": "Themes > Illness > Brain Injury",
+    "path": "Themes > Health > Illness > Brain Injury",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "5133": {
     "id": 5133,
@@ -34074,10 +34074,10 @@
   "5157": {
     "id": 5157,
     "name": "Literature",
-    "path": "Themes > Literature",
+    "path": "Themes > Culture > Literature",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 2962,
+    "level": 3
   },
   "5158": {
     "id": 5158,
@@ -34226,10 +34226,10 @@
   "5188": {
     "id": 5188,
     "name": "Confused Memories",
-    "path": "Themes > Mental Illness > Confused Memories",
+    "path": "Themes > Mental Health > Mental Illness > Confused Memories",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5189": {
     "id": 5189,
@@ -34402,10 +34402,10 @@
   "5217": {
     "id": 5217,
     "name": "Social Phobia",
-    "path": "Themes > Mental Illness > Anxiety Disorders > Social Phobia",
+    "path": "Themes > Mental Health > Mental Illness > Anxiety Disorders > Social Phobia",
     "is_genre": false,
     "parent_id": 2923,
-    "level": 4
+    "level": 5
   },
   "5218": {
     "id": 5218,
@@ -34594,10 +34594,10 @@
   "5246": {
     "id": 5246,
     "name": "Obsessive Compulsive Personality Disorder",
-    "path": "Themes > Mental Illness > Obsessive Compulsive Personality Disorder",
+    "path": "Themes > Mental Health > Mental Illness > Obsessive Compulsive Personality Disorder",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5247": {
     "id": 5247,
@@ -34682,10 +34682,10 @@
   "5262": {
     "id": 5262,
     "name": "Bad Memory",
-    "path": "Themes > Mental Illness > Bad Memory",
+    "path": "Themes > Mental Health > Mental Illness > Bad Memory",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5264": {
     "id": 5264,
@@ -34850,10 +34850,10 @@
   "5291": {
     "id": 5291,
     "name": "Panic Attacks",
-    "path": "Themes > Mental Illness > Anxiety Disorders > Panic Attacks",
+    "path": "Themes > Mental Health > Mental Illness > Anxiety Disorders > Panic Attacks",
     "is_genre": false,
     "parent_id": 2923,
-    "level": 4
+    "level": 5
   },
   "5292": {
     "id": 5292,
@@ -34882,10 +34882,10 @@
   "5295": {
     "id": 5295,
     "name": "Prosopagnosia",
-    "path": "Themes > Mental Illness > Prosopagnosia",
+    "path": "Themes > Mental Health > Mental Illness > Prosopagnosia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5296": {
     "id": 5296,
@@ -34938,10 +34938,10 @@
   "5303": {
     "id": 5303,
     "name": "Work Transfer",
-    "path": "Themes > Work Transfer",
+    "path": "Themes > Work > Work Transfer",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "5305": {
     "id": 5305,
@@ -35010,18 +35010,18 @@
   "5316": {
     "id": 5316,
     "name": "Bureaucracy",
-    "path": "Themes > Bureaucracy",
+    "path": "Themes > Politics > Bureaucracy",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7533,
+    "level": 3
   },
   "5317": {
     "id": 5317,
     "name": "Burnout",
-    "path": "Themes > Burnout",
+    "path": "Themes > Work > Burnout",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7528,
+    "level": 3
   },
   "5318": {
     "id": 5318,
@@ -35098,10 +35098,10 @@
   "5328": {
     "id": 5328,
     "name": "Dementia",
-    "path": "Themes > Mental Illness > Cognitive Disorders > Dementia",
+    "path": "Themes > Mental Health > Mental Illness > Cognitive Disorders > Dementia",
     "is_genre": false,
     "parent_id": 2927,
-    "level": 4
+    "level": 5
   },
   "5329": {
     "id": 5329,
@@ -35386,18 +35386,18 @@
   "5371": {
     "id": 5371,
     "name": "Sushi",
-    "path": "Themes > Sushi",
+    "path": "Themes > Gourmet > Sushi",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7535,
+    "level": 3
   },
   "5372": {
     "id": 5372,
     "name": "Therapy",
-    "path": "Themes > Medical > Therapy",
+    "path": "Themes > Health > Medical > Therapy",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "5373": {
     "id": 5373,
@@ -35666,10 +35666,10 @@
   "5422": {
     "id": 5422,
     "name": "Acupuncture",
-    "path": "Themes > Medical > Acupuncture",
+    "path": "Themes > Health > Medical > Acupuncture",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "5423": {
     "id": 5423,
@@ -35682,10 +35682,10 @@
   "5424": {
     "id": 5424,
     "name": "Anemia",
-    "path": "Themes > Illness > Anemia",
+    "path": "Themes > Health > Illness > Anemia",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "5426": {
     "id": 5426,
@@ -35826,10 +35826,10 @@
   "5449": {
     "id": 5449,
     "name": "Feminization",
-    "path": "Themes > Feminization",
+    "path": "Themes > Gender > Feminization",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7539,
+    "level": 3
   },
   "5450": {
     "id": 5450,
@@ -35850,10 +35850,10 @@
   "5453": {
     "id": 5453,
     "name": "Gaslighting",
-    "path": "Themes > Mental Illness > Gaslighting",
+    "path": "Themes > Mental Health > Mental Illness > Gaslighting",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5454": {
     "id": 5454,
@@ -36058,7 +36058,7 @@
   "5494": {
     "id": 5494,
     "name": "Business Competition",
-    "path": "Themes > Competitions > Business Competition",
+    "path": "Activities > Competitions > Business Competition",
     "is_genre": false,
     "parent_id": 1091,
     "level": 3
@@ -36082,10 +36082,10 @@
   "5497": {
     "id": 5497,
     "name": "Claustrophobia",
-    "path": "Themes > Mental Illness > Claustrophobia",
+    "path": "Themes > Mental Health > Mental Illness > Claustrophobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5498": {
     "id": 5498,
@@ -36106,18 +36106,18 @@
   "5501": {
     "id": 5501,
     "name": "Demon Prince",
-    "path": "Themes > Nobility > Demon Prince",
+    "path": "Themes > Social Issues > Nobility > Demon Prince",
     "is_genre": false,
     "parent_id": 127,
-    "level": 3
+    "level": 4
   },
   "5502": {
     "id": 5502,
     "name": "Demon Princess Es",
-    "path": "Themes > Nobility > Demon Princess Es",
+    "path": "Themes > Social Issues > Nobility > Demon Princess Es",
     "is_genre": false,
     "parent_id": 127,
-    "level": 3
+    "level": 4
   },
   "5503": {
     "id": 5503,
@@ -36170,10 +36170,10 @@
   "5511": {
     "id": 5511,
     "name": "Framed for a Crime",
-    "path": "Themes > Framed for a Crime",
+    "path": "Activities > Crimes > Framed for a Crime",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 288,
+    "level": 3
   },
   "5512": {
     "id": 5512,
@@ -36370,10 +36370,10 @@
   "5544": {
     "id": 5544,
     "name": "Black Market",
-    "path": "Themes > Organized Crime > Black Market",
+    "path": "Activities > Crimes > Organized Crime > Black Market",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "5545": {
     "id": 5545,
@@ -36546,10 +36546,10 @@
   "5574": {
     "id": 5574,
     "name": "Mental Regression",
-    "path": "Themes > Mental Illness > Mental Regression",
+    "path": "Themes > Mental Health > Mental Illness > Mental Regression",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5575": {
     "id": 5575,
@@ -36594,10 +36594,10 @@
   "5581": {
     "id": 5581,
     "name": "Organ Trafficking",
-    "path": "Themes > Organized Crime > Organ Trafficking",
+    "path": "Activities > Crimes > Organized Crime > Organ Trafficking",
     "is_genre": false,
     "parent_id": 351,
-    "level": 3
+    "level": 4
   },
   "5582": {
     "id": 5582,
@@ -36682,10 +36682,10 @@
   "5596": {
     "id": 5596,
     "name": "Sponsorship",
-    "path": "Themes > Sponsorship",
+    "path": "Themes > Economics > Sponsorship",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7543,
+    "level": 3
   },
   "5597": {
     "id": 5597,
@@ -36730,10 +36730,10 @@
   "5603": {
     "id": 5603,
     "name": "Transplants",
-    "path": "Themes > Medical > Transplants",
+    "path": "Themes > Health > Medical > Transplants",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "5604": {
     "id": 5604,
@@ -36818,10 +36818,10 @@
   "5619": {
     "id": 5619,
     "name": "Buddha",
-    "path": "Themes > Historical Persons > Buddha",
+    "path": "Themes > History > Historical Persons > Buddha",
     "is_genre": false,
     "parent_id": 1096,
-    "level": 3
+    "level": 4
   },
   "5622": {
     "id": 5622,
@@ -37050,18 +37050,18 @@
   "5670": {
     "id": 5670,
     "name": "Schizophrenia",
-    "path": "Themes > Mental Illness > Psychotic Disorders > Schizophrenia",
+    "path": "Themes > Mental Health > Mental Illness > Psychotic Disorders > Schizophrenia",
     "is_genre": false,
     "parent_id": 2924,
-    "level": 4
+    "level": 5
   },
   "5671": {
     "id": 5671,
     "name": "Scholarship",
-    "path": "Themes > Scholarship",
+    "path": "Themes > Academia > Scholarship",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7529,
+    "level": 3
   },
   "5674": {
     "id": 5674,
@@ -37114,10 +37114,10 @@
   "5689": {
     "id": 5689,
     "name": "Anorexia",
-    "path": "Themes > Mental Illness > Eating Disorders > Anorexia",
+    "path": "Themes > Mental Health > Mental Illness > Eating Disorders > Anorexia",
     "is_genre": false,
     "parent_id": 2925,
-    "level": 4
+    "level": 5
   },
   "5690": {
     "id": 5690,
@@ -37306,10 +37306,10 @@
   "5720": {
     "id": 5720,
     "name": "Heart Attack",
-    "path": "Themes > Illness > Heart Attack",
+    "path": "Themes > Health > Illness > Heart Attack",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "5723": {
     "id": 5723,
@@ -37490,10 +37490,10 @@
   "5755": {
     "id": 5755,
     "name": "STD",
-    "path": "Themes > Illness > STD",
+    "path": "Themes > Health > Illness > STD",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "5757": {
     "id": 5757,
@@ -37530,10 +37530,10 @@
   "5763": {
     "id": 5763,
     "name": "Alcoholism",
-    "path": "Themes > Illness > Alcoholism",
+    "path": "Themes > Health > Illness > Alcoholism",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "5764": {
     "id": 5764,
@@ -37586,10 +37586,10 @@
   "5775": {
     "id": 5775,
     "name": "Bread",
-    "path": "Themes > Bread",
+    "path": "Themes > Gourmet > Bread",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7535,
+    "level": 3
   },
   "5776": {
     "id": 5776,
@@ -38034,10 +38034,10 @@
   "5882": {
     "id": 5882,
     "name": "Fear of Loneliness",
-    "path": "Themes > Mental Illness > Fear of Loneliness",
+    "path": "Themes > Mental Health > Mental Illness > Fear of Loneliness",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "5883": {
     "id": 5883,
@@ -38146,10 +38146,10 @@
   "5900": {
     "id": 5900,
     "name": "Love Contract",
-    "path": "Themes > Marriage > Love Contract",
+    "path": "Themes > Kinship > Marriage > Love Contract",
     "is_genre": false,
     "parent_id": 360,
-    "level": 3
+    "level": 4
   },
   "5901": {
     "id": 5901,
@@ -38386,10 +38386,10 @@
   "5949": {
     "id": 5949,
     "name": "Addiction",
-    "path": "Themes > Illness > Addiction",
+    "path": "Themes > Health > Illness > Addiction",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "5950": {
     "id": 5950,
@@ -39490,10 +39490,10 @@
   "6172": {
     "id": 6172,
     "name": "Temporary Blindness",
-    "path": "Themes > Disability > Blindness > Temporary Blindness",
+    "path": "Themes > Health > Disability > Blindness > Temporary Blindness",
     "is_genre": false,
     "parent_id": 2019,
-    "level": 4
+    "level": 5
   },
   "6174": {
     "id": 6174,
@@ -39522,10 +39522,10 @@
   "6179": {
     "id": 6179,
     "name": "Voodoo",
-    "path": "Themes > Voodoo",
+    "path": "Themes > Occult > Voodoo",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7538,
+    "level": 3
   },
   "6180": {
     "id": 6180,
@@ -39842,10 +39842,10 @@
   "6231": {
     "id": 6231,
     "name": "Jujutsu",
-    "path": "Themes > Jujutsu",
+    "path": "Themes > Occult > Jujutsu",
     "is_genre": false,
-    "parent_id": 542,
-    "level": 2
+    "parent_id": 7538,
+    "level": 3
   },
   "6232": {
     "id": 6232,
@@ -40130,10 +40130,10 @@
   "6300": {
     "id": 6300,
     "name": "Body Dysmorphia",
-    "path": "Themes > Mental Illness > Body Dysmorphia",
+    "path": "Themes > Mental Health > Mental Illness > Body Dysmorphia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6302": {
     "id": 6302,
@@ -40274,9 +40274,9 @@
   "6334": {
     "id": 6334,
     "name": "Himejoshi",
-    "path": "Themes > Himejoshi",
+    "path": "Character Archetype > Himejoshi",
     "is_genre": false,
-    "parent_id": 542,
+    "parent_id": 540,
     "level": 2
   },
   "6335": {
@@ -40322,10 +40322,10 @@
   "6341": {
     "id": 6341,
     "name": "Jack the Ripper or a Related Character",
-    "path": "Themes > Historical Persons > Jack the Ripper or a Related Character",
+    "path": "Themes > History > Historical Persons > Jack the Ripper or a Related Character",
     "is_genre": false,
     "parent_id": 1096,
-    "level": 3
+    "level": 4
   },
   "6345": {
     "id": 6345,
@@ -40386,10 +40386,10 @@
   "6354": {
     "id": 6354,
     "name": "Malnutrition",
-    "path": "Themes > Illness > Malnutrition",
+    "path": "Themes > Health > Illness > Malnutrition",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "6357": {
     "id": 6357,
@@ -40594,10 +40594,10 @@
   "6406": {
     "id": 6406,
     "name": "Alexithymia",
-    "path": "Themes > Mental Illness > Alexithymia",
+    "path": "Themes > Mental Health > Mental Illness > Alexithymia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6407": {
     "id": 6407,
@@ -40626,10 +40626,10 @@
   "6410": {
     "id": 6410,
     "name": "Anthrophobia",
-    "path": "Themes > Mental Illness > Anthrophobia",
+    "path": "Themes > Mental Health > Mental Illness > Anthrophobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6411": {
     "id": 6411,
@@ -40650,10 +40650,10 @@
   "6418": {
     "id": 6418,
     "name": "Autopsy",
-    "path": "Themes > Medical > Autopsy",
+    "path": "Themes > Health > Medical > Autopsy",
     "is_genre": false,
     "parent_id": 350,
-    "level": 3
+    "level": 4
   },
   "6419": {
     "id": 6419,
@@ -41306,10 +41306,10 @@
   "6600": {
     "id": 6600,
     "name": "Jack-The-Ripper",
-    "path": "Themes > Historical Persons > Jack-The-Ripper",
+    "path": "Themes > History > Historical Persons > Jack-The-Ripper",
     "is_genre": false,
     "parent_id": 1096,
-    "level": 3
+    "level": 4
   },
   "6603": {
     "id": 6603,
@@ -41778,7 +41778,7 @@
   "6719": {
     "id": 6719,
     "name": "Conglomerate",
-    "path": "Themes > Competitions > Conglomerate",
+    "path": "Activities > Competitions > Conglomerate",
     "is_genre": false,
     "parent_id": 1091,
     "level": 3
@@ -41906,10 +41906,10 @@
   "6756": {
     "id": 6756,
     "name": "Hanahaki Disease",
-    "path": "Themes > Illness > Hanahaki Disease",
+    "path": "Themes > Health > Illness > Hanahaki Disease",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "6757": {
     "id": 6757,
@@ -42066,10 +42066,10 @@
   "6794": {
     "id": 6794,
     "name": "Narcolepsy",
-    "path": "Themes > Illness > Narcolepsy",
+    "path": "Themes > Health > Illness > Narcolepsy",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "6795": {
     "id": 6795,
@@ -42098,10 +42098,10 @@
   "6802": {
     "id": 6802,
     "name": "Nyctophobia",
-    "path": "Themes > Mental Illness > Nyctophobia",
+    "path": "Themes > Mental Health > Mental Illness > Nyctophobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6804": {
     "id": 6804,
@@ -42146,10 +42146,10 @@
   "6814": {
     "id": 6814,
     "name": "Personality Disorder",
-    "path": "Themes > Mental Illness > Personality Disorder",
+    "path": "Themes > Mental Health > Mental Illness > Personality Disorder",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6815": {
     "id": 6815,
@@ -42194,10 +42194,10 @@
   "6823": {
     "id": 6823,
     "name": "Psychological Abuse",
-    "path": "Themes > Mental Illness > Psychotic Disorders > Psychological Abuse",
+    "path": "Themes > Mental Health > Mental Illness > Psychotic Disorders > Psychological Abuse",
     "is_genre": false,
     "parent_id": 2924,
-    "level": 4
+    "level": 5
   },
   "6824": {
     "id": 6824,
@@ -42210,10 +42210,10 @@
   "6828": {
     "id": 6828,
     "name": "Rare Medical Condition",
-    "path": "Themes > Illness > Rare Medical Condition",
+    "path": "Themes > Health > Illness > Rare Medical Condition",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "6829": {
     "id": 6829,
@@ -42354,10 +42354,10 @@
   "6869": {
     "id": 6869,
     "name": "Aquaphobia",
-    "path": "Themes > Mental Illness > Aquaphobia",
+    "path": "Themes > Mental Health > Mental Illness > Aquaphobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6881": {
     "id": 6881,
@@ -42418,18 +42418,18 @@
   "6903": {
     "id": 6903,
     "name": "Cynophobia",
-    "path": "Themes > Mental Illness > Cynophobia",
+    "path": "Themes > Mental Health > Mental Illness > Cynophobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6908": {
     "id": 6908,
     "name": "Dissociative Identity Disorder",
-    "path": "Themes > Mental Illness > Dissociative Identity Disorder",
+    "path": "Themes > Mental Health > Mental Illness > Dissociative Identity Disorder",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "6910": {
     "id": 6910,
@@ -42458,10 +42458,10 @@
   "6914": {
     "id": 6914,
     "name": "Dyslexia",
-    "path": "Themes > Mental Illness > Developmental Disorders > Dyslexia",
+    "path": "Themes > Mental Health > Mental Illness > Developmental Disorders > Dyslexia",
     "is_genre": false,
     "parent_id": 2926,
-    "level": 4
+    "level": 5
   },
   "6917": {
     "id": 6917,
@@ -42554,10 +42554,10 @@
   "6946": {
     "id": 6946,
     "name": "Hemochromatosis",
-    "path": "Themes > Illness > Hemochromatosis",
+    "path": "Themes > Health > Illness > Hemochromatosis",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "6947": {
     "id": 6947,
@@ -42858,18 +42858,18 @@
   "7073": {
     "id": 7073,
     "name": "Aichmophobia",
-    "path": "Themes > Mental Illness > Aichmophobia",
+    "path": "Themes > Mental Health > Mental Illness > Aichmophobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "7081": {
     "id": 7081,
     "name": "Alzheimer's Disease",
-    "path": "Themes > Illness > Alzheimer's Disease",
+    "path": "Themes > Health > Illness > Alzheimer's Disease",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "7083": {
     "id": 7083,
@@ -42906,10 +42906,10 @@
   "7106": {
     "id": 7106,
     "name": "Bulimia",
-    "path": "Themes > Mental Illness > Eating Disorders > Bulimia",
+    "path": "Themes > Mental Health > Mental Illness > Eating Disorders > Bulimia",
     "is_genre": false,
     "parent_id": 2925,
-    "level": 4
+    "level": 5
   },
   "7116": {
     "id": 7116,
@@ -43098,10 +43098,10 @@
   "7209": {
     "id": 7209,
     "name": "Ombrophobia",
-    "path": "Themes > Mental Illness > Ombrophobia",
+    "path": "Themes > Mental Health > Mental Illness > Ombrophobia",
     "is_genre": false,
     "parent_id": 614,
-    "level": 3
+    "level": 4
   },
   "7210": {
     "id": 7210,
@@ -43218,10 +43218,10 @@
   "7245": {
     "id": 7245,
     "name": "Seizure",
-    "path": "Themes > Illness > Seizure",
+    "path": "Themes > Health > Illness > Seizure",
     "is_genre": false,
     "parent_id": 598,
-    "level": 3
+    "level": 4
   },
   "7247": {
     "id": 7247,
