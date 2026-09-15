@@ -2,7 +2,7 @@
   "id": 603865,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Mulgo Tteutgo Sogigo",
+  "display_title": "Bite, Rip, and Trick",
   "mangabaka_title": "Mulgo Tteutgo Sogigo",
   "native_title": "물고 뜯고 속이고",
   "romanized_title": "Biting, Tearing, and Deceiving",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Bite, Rip, and Trick",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -33,7 +40,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854643), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14687159)",
+  "description": "Han Jun-hyuk had zero interest in arranged marriages orchestrated by families. That is, until he meets Yoon Seor-ha, a woman even more unhinged than his mad-dog reputation. To escape a life spent being used for her adoptive parents' image-making and to reclaim her lost eye, Seor-ha is determined to make this marriage succeed—offering to die after the wedding so he can be widowed rather than divorced. Having escaped her prison once, she sees no reason why she cannot do it a second time. However, she fails to realize that Jun-hyuk is a man who never lets go of the prey he has bitten into.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854643), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14687159)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjc4My1hUkdmV2Q2bHpWa2UuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-09-14T05:28:22.097Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-13T23:16:32.855Z",
+  "last_updated_at": "2026-09-14T16:47:18.189Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +73,7 @@
   "source": {
     "anilist": {
       "id": 216783,
-      "rating": null,
+      "rating": 77,
       "url": "https://anilist.co/manga/216783"
     },
     "animeplanet": null,
@@ -78,6 +85,8 @@
   },
   "tag_ids": [
     43,
+    106,
+    108,
     31,
     9,
     93,
@@ -85,23 +94,25 @@
     428
   ],
   "tag_weights": {
-    "9": "unweighted",
-    "31": "unweighted",
-    "43": "unweighted",
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
     "57": "unweighted",
     "93": "unweighted",
+    "106": "unweighted",
+    "108": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 16,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 77
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0702,
-    "popularityPercentile": 0.1895,
-    "fanFavouriteDiscoveryScore": 5.163,
-    "fanFavouriteDiscoveryPercentile": 0.1895
+    "fanRatioPercentile": 32.0463,
+    "popularityPercentile": 10.2207,
+    "fanFavouriteDiscoveryScore": 9.8331,
+    "fanFavouriteDiscoveryPercentile": 9.485
   }
 }

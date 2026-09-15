@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Secret Life (Viagra)",
-  "mangabaka_title": "My Aunt",
+  "mangabaka_title": "Secret Life",
   "native_title": "숙모",
   "romanized_title": "My Aunt",
   "titles": [
@@ -36,19 +36,19 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "My Aunt",
       "traits": [
-        "native"
+        "official"
       ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "My Aunt",
       "traits": [
-        "official"
+        "native"
       ],
       "is_primary": true,
       "note": null
@@ -63,7 +63,9 @@
     {
       "language": "en",
       "title": "Secret Life",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -150,6 +152,13 @@
     },
     {
       "language": "zh",
+      "title": "甜蜜人生",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "zh",
       "title": "甜蜜人生 (Viagra)",
       "traits": [],
       "is_primary": false,
@@ -171,7 +180,7 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.234Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-13T23:15:40.725Z",
+  "last_updated_at": "2026-09-14T23:16:06.158Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -343,10 +352,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.8657,
-    "fanRatioPercentile": 69.8025,
-    "popularityPercentile": 77.177,
-    "fanFavouriteDiscoveryScore": 69.2125,
-    "fanFavouriteDiscoveryPercentile": 77.228
+    "fanRatioPercentile": 69.7895,
+    "popularityPercentile": 77.1545,
+    "fanFavouriteDiscoveryScore": 69.1984,
+    "fanFavouriteDiscoveryPercentile": 77.1982
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -2,8 +2,8 @@
   "id": 589960,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Unofficial CC",
-  "mangabaka_title": "Bigongsik CC",
+  "display_title": "Unofficial Campus Couple",
+  "mangabaka_title": "Unofficial Campus Couple",
   "native_title": "비공식 CC",
   "romanized_title": "Bigongsik CC",
   "titles": [
@@ -28,15 +28,17 @@
     {
       "language": "en",
       "title": "Unofficial Campus Couple",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Unofficial CC",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -47,12 +49,12 @@
       "note": null
     }
   ],
-  "description": "Do-Ah is secretly dating Seong-U, the most popular guy on campus. But Seong-U has a hidden secret. When she becomes entangled with Eun-Ho, who knows the truth, Do-Ah’s relationship begins to falter. A campus romance entangled with conflicting desires!\n\n(Source: Naver, translated)",
+  "description": "Do-A Han is secretly dating Seong-U Yu, the most popular guy on campus. To the outside world, they’re just acquaintances, but behind closed doors, they’re in a relationship. However, the illusion of a perfect romance is shattered when Do-A suspects Seong-U is harboring a dark secret. Enter Eun-Ho Yeon. He’s a mysterious student who seems to know something about Seong-U. As Do-A becomes increasingly entangled with Eun-Ho, her unofficial relationship is pushed to the absolute brink. On a campus fueled by twisted desires and shifting loyalties, how far will Do-A go to uncover the truth?\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzAyOC1ZY0VSUHgxQ285d1QuanBn",
   "total_chapters": "19",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-06-07",
@@ -62,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-13T22:25:11.784Z",
+  "last_updated_at": "2026-09-14T22:25:40.991Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,13 +75,15 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589960",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=11014",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=11014"
+    ]
   },
   "source": {
     "anilist": {
       "id": 213028,
-      "rating": 66,
+      "rating": 67,
       "url": "https://anilist.co/manga/213028"
     },
     "animeplanet": {
@@ -144,16 +148,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 303,
+    "popularity": 309,
     "favourites": null,
-    "meanScore": 66
+    "meanScore": 67
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0702,
-    "popularityPercentile": 59.5424,
-    "fanFavouriteDiscoveryScore": 30.9242,
-    "fanFavouriteDiscoveryPercentile": 32.6605
+    "fanRatioPercentile": 32.0463,
+    "popularityPercentile": 59.8528,
+    "fanFavouriteDiscoveryScore": 30.9293,
+    "fanFavouriteDiscoveryPercentile": 32.6364
   },
   "context": {
     "primaryProfile": "modern-korea",
