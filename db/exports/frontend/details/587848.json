@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-14T20:19:08.188Z",
+  "last_updated_at": "2026-09-15T20:19:16.408Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -65,7 +65,7 @@
   "source": {
     "anilist": {
       "id": 212610,
-      "rating": 65,
+      "rating": 63,
       "url": "https://anilist.co/manga/212610"
     },
     "animeplanet": {
@@ -80,8 +80,11 @@
     }
   },
   "tag_ids": [
+    315,
+    387,
     1478,
     2994,
+    158,
     59,
     2267,
     2184,
@@ -98,6 +101,7 @@
     370,
     171,
     6,
+    893,
     2999,
     4,
     1948,
@@ -113,20 +117,24 @@
   ],
   "tag_weights": {
     "4": "unweighted",
-    "6": "unweighted",
+    "6": "defining",
     "9": "defining",
     "33": "defining",
     "57": "unweighted",
-    "59": "incidental",
+    "59": "recurrent",
     "93": "unweighted",
     "101": "unweighted",
-    "106": "incidental",
+    "106": "unweighted",
+    "158": "unweighted",
     "171": "core",
     "241": "unweighted",
     "290": "defining",
+    "315": "unweighted",
     "370": "core",
+    "387": "unweighted",
     "428": "unweighted",
     "461": "defining",
+    "893": "unweighted",
     "1167": "unweighted",
     "1478": "defining",
     "1818": "defining",
@@ -144,16 +152,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 55,
+    "popularity": 57,
     "favourites": null,
-    "meanScore": 65
+    "meanScore": 63
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0463,
-    "popularityPercentile": 28.3893,
-    "fanFavouriteDiscoveryScore": 21.4066,
-    "fanFavouriteDiscoveryPercentile": 23.6687
+    "fanRatioPercentile": 32.159,
+    "popularityPercentile": 28.9198,
+    "fanFavouriteDiscoveryScore": 21.7948,
+    "fanFavouriteDiscoveryPercentile": 24.0501
   },
   "context": {
     "primaryProfile": "sports-career",

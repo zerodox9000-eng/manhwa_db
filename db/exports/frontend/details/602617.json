@@ -2,15 +2,17 @@
   "id": 602617,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Killed My Husband and Inherited the Estate",
-  "mangabaka_title": "I Killed My Husband and Inherited the Estate",
+  "display_title": "Nampyeoneul Jugigo Jeotaegeul Sangsokbadatda",
+  "mangabaka_title": "Nampyeoneul Jugigo Jeotaegeul Sangsokbadatda",
   "native_title": "남편을 죽이고 저택을 상속받았다",
   "romanized_title": "I Killed My Husband and Inherited the Estate",
   "titles": [
     {
       "language": "ko",
       "title": "남편을 죽이고 저택을 상속받았다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,32 +25,42 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Nampyeoneul Jugigo Jeotaegeul Sangsokbadatda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Nampyeoneul Jugigo Jeotaekeul Sangsokbadatda",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "The youngest of a fallen family, Ivnye. On the first night she is sold off as a bride, she kills the groom who tries to offer her as a sacrifice and becomes the master of the Belfer Mansion. To survive in this eerie mansion, there is no choice but to find and subjugate its hidden ghost stories. A mysterious man appears in the dreams of the despairing Ivnye and tempts her...\n\n_Source: NAVER Webtoon, translated_\n\n**Original Webtoon:**  \n[NAVER Webtoon](https://comic.naver.com/webtoon/list?titleId=854857) | [NAVER Series](https://series.naver.com/comic/detail.series?productNo=14710384)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2kta2lsbGVkLW15LWh1c2JhbmQtYW5kLWluaGVyaXRlZC10aGUtZXN0YXRlLTEud2VicD90PTE3ODkwNjEzNjM",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjcwOC1BRTZtU0NZak0zRk4uanBn",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-10",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-11T05:10:53.100Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-14T16:08:07.078Z",
+  "last_updated_at": "2026-09-15T16:21:50.333Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "LaChic"
+    "LaChic",
+    "LICO"
   ],
   "artists": [
     "LICO"
@@ -59,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216708,
+      "rating": 55,
+      "url": "https://anilist.co/manga/216708"
+    },
     "animeplanet": {
       "id": "i-killed-my-husband-and-inherited-the-estate",
       "rating": null,
@@ -74,7 +90,11 @@
   "tag_ids": [
     40,
     74,
+    108,
     36,
+    22,
+    229,
+    31,
     32,
     9,
     93,
@@ -82,14 +102,31 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "9": "defining",
+    "22": "unweighted",
+    "31": "defining",
+    "32": "defining",
+    "36": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "229": "incidental",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 19,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 55
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.159,
+    "popularityPercentile": 12.389,
+    "fanFavouriteDiscoveryScore": 11.1446,
+    "fanFavouriteDiscoveryPercentile": 11.3845
   }
 }

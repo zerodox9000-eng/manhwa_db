@@ -2,15 +2,17 @@
   "id": 590377,
   "state": "active",
   "type": "manhwa",
-  "display_title": "[Younger Man Anthology] For Belumia",
+  "display_title": "For Bellumia",
   "mangabaka_title": "Bellumia-reul Wihayeo",
-  "native_title": "[연하남 단편선] 벨루미아를 위하여",
+  "native_title": "벨루미아를 위하여",
   "romanized_title": "Bellumia-reul Wihayeo",
   "titles": [
     {
       "language": "ko",
       "title": "벨루미아를 위하여",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -31,7 +33,9 @@
     {
       "language": "ko-Latn",
       "title": "Bellumia-reul Wihayeo",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -46,6 +50,13 @@
       "language": "en",
       "title": "For Bellumia",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Yeonhanam Danpyeonseon] Bellumiareul Wihayeo",
+      "traits": [],
       "is_primary": false,
       "note": null
     },
@@ -53,33 +64,33 @@
       "language": "en",
       "title": "[Younger Man Anthology] For Belumia",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "The Aetheria Empire must find the Divine Dragon, Bellumia, to prevent its destruction. Kylik, the 9th Prince, nearly dies due to his brothers' conspiracy but falls in love with Bellumia after she saves him in the forest. He ascends to the throne as a reward for bringing her to the imperial palace. Upon reaching adulthood, Kylik makes Bellumia his Empress, but on their long-awaited wedding night, he realizes that her indifferent gaze is directed not at him, but at someone else. \n\n\"Bellumia, please... just look at me...\"\n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14245361), [Lezhin](https://www.lezhin.com/ko/comic/for_bellumia), [MrBlue](https://www.mrblue.com/webtoon/wt_000081110)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI5MDE4LmpwZw",
+  "description": "*Note: Part of Jaedam Media's Yeonhanam Danpyeonseon (연하남 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjczNi15eFcxaVRDV0xRWFYuanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-06-13",
+    "end_date": "2026-06-13",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-14T05:29:06.806Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-14T23:00:52.944Z",
+  "last_updated_at": "2026-09-15T09:16:10.252Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Potato Rice Cake"
+    "Gamjatteok"
   ],
   "artists": [
-    "Potato Rice Cake"
+    "Gamjatteok"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/590377",
@@ -87,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216736,
+      "rating": 65,
+      "url": "https://anilist.co/manga/216736"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "2fgw9g2",
@@ -97,18 +112,35 @@
   },
   "tag_ids": [
     43,
+    108,
+    36,
     46,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "36": "unweighted",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.159,
+    "popularityPercentile": 1.7907,
+    "fanFavouriteDiscoveryScore": 5.7834,
+    "fanFavouriteDiscoveryPercentile": 1.6815
   },
   "context": {
     "primaryProfile": "euro-fantasy",

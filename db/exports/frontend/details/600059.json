@@ -41,7 +41,7 @@
   },
   "first_seen_at": "2026-08-15T02:07:30.747Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-15T01:56:14.933Z",
+  "last_updated_at": "2026-09-16T01:56:49.132Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -65,21 +65,25 @@
     "mangaupdates": null
   },
   "tag_ids": [
-    180
+    315,
+    180,
+    893
   ],
   "tag_weights": {
-    "180": "incidental"
+    "180": "incidental",
+    "315": "unweighted",
+    "893": "unweighted"
   },
   "stats": {
-    "popularity": 17,
+    "popularity": 27,
     "favourites": null,
     "meanScore": 90
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0463,
-    "popularityPercentile": 11.0366,
-    "fanFavouriteDiscoveryScore": 10.3025,
-    "fanFavouriteDiscoveryPercentile": 10.1916
+    "fanRatioPercentile": 32.159,
+    "popularityPercentile": 17.1058,
+    "fanFavouriteDiscoveryScore": 14.1498,
+    "fanFavouriteDiscoveryPercentile": 15.4098
   }
 }

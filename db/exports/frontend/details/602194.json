@@ -5,46 +5,57 @@
   "display_title": "Red Riding Hood",
   "mangabaka_title": "Red Riding Hood",
   "native_title": "레드 라이딩 후드",
-  "romanized_title": null,
+  "romanized_title": "Red Riding Hood",
   "titles": [
     {
       "language": "ko",
       "title": "레드 라이딩 후드",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Red Riding Hood",
+      "language": "ko",
+      "title": "레드 라이딩 후드(Red Riding Hood)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Red Riding Hood",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Cyncke, a girl in a red cloak living in a bizarre village isolated from the outside world, discovers one day that a black wolf named Irfus has killed her pimp. Now free, Cyncke tends to the wounded Irfus and grows increasingly close to him... \n\n\"Cyncke, may I love you?\" \n\n\"Yes, Mr. Wolf. Please love me.\"\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/1746036211)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3JlZC1yaWRpbmctaG9vZC0xLndlYnA_dD0xNzg4NzQ5MTcy",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjYzMi11a2R6THJrWVRWWXQuanBn",
   "total_chapters": "10",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-06",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-07T18:21:24.774Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-14T16:55:57.310Z",
+  "last_updated_at": "2026-09-15T17:14:25.275Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Coming For You"
+    "Sitguwasseoyong"
   ],
   "artists": [
-    "Jae-Eun"
+    "Jaeeun"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602194",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216632,
+      "rating": null,
+      "url": "https://anilist.co/manga/216632"
+    },
     "animeplanet": {
       "id": "red-riding-hood",
       "rating": null,
@@ -66,7 +81,9 @@
   },
   "tag_ids": [
     43,
+    2052,
     74,
+    108,
     36,
     15,
     41,
@@ -76,14 +93,30 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "2052": "incidental",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 16,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.159,
+    "popularityPercentile": 10.1834,
+    "fanFavouriteDiscoveryScore": 9.8464,
+    "fanFavouriteDiscoveryPercentile": 9.4628
   }
 }

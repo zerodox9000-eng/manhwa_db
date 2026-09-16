@@ -3,8 +3,8 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Leash",
-  "mangabaka_title": "Leash (Sontob)",
-  "native_title": "목줄 (손톱)",
+  "mangabaka_title": "Mokjul",
+  "native_title": "목줄",
   "romanized_title": "Mokjul",
   "titles": [
     {
@@ -48,11 +48,11 @@
   },
   "first_seen_at": "2026-09-04T02:52:39.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-14T21:17:08.543Z",
+  "last_updated_at": "2026-09-15T09:16:10.441Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Sontob"
+    "Sontop"
   ],
   "artists": [
     "Manton"
@@ -63,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216753,
+      "rating": null,
+      "url": "https://anilist.co/manga/216753"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "50i38lv",
@@ -98,6 +102,7 @@
     16,
     875,
     893,
+    31,
     984,
     9,
     1004,
@@ -106,14 +111,52 @@
     57,
     428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "57": "unweighted",
+    "63": "unweighted",
+    "67": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "288": "incidental",
+    "428": "unweighted",
+    "875": "unweighted",
+    "878": "unweighted",
+    "890": "unweighted",
+    "893": "unweighted",
+    "984": "unweighted",
+    "1004": "unweighted",
+    "1037": "unweighted",
+    "1050": "unweighted",
+    "1167": "unweighted",
+    "1579": "unweighted",
+    "1585": "unweighted",
+    "1732": "unweighted",
+    "1781": "unweighted",
+    "1812": "unweighted",
+    "1984": "unweighted",
+    "1991": "unweighted",
+    "2407": "unweighted",
+    "2413": "unweighted",
+    "2449": "unweighted",
+    "2524": "unweighted",
+    "2582": "unweighted",
+    "2680": "unweighted",
+    "2729": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.159,
+    "popularityPercentile": 2.6277,
+    "fanFavouriteDiscoveryScore": 6.1217,
+    "fanFavouriteDiscoveryPercentile": 2.4385
   }
 }

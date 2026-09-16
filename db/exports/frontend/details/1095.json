@@ -3,13 +3,22 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Yard for Two",
-  "mangabaka_title": "Yard for Two",
-  "native_title": "狼と山羊のガーデン",
-  "romanized_title": "Ookami to Yagi no Garden",
+  "mangabaka_title": "Du Marireul Wihan Tteul",
+  "native_title": "두 마리를 위한 뜰",
+  "romanized_title": "Du Marireul Wihan Tteul",
   "titles": [
     {
       "language": "ko",
       "title": "두 마리를 위한 뜰",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Du Marireul Wihan Tteul",
       "traits": [
         "native"
       ],
@@ -59,22 +68,22 @@
       "note": null
     }
   ],
-  "description": "In the once peaceful Goat Village, Woo I-ram suddenly became a cursed omen.\n\nShunned and burdened with despair, she made a decision—\nto end it all by seeking out a wolf to devour her.\n\nBut there was just one problem…\n\nThis wolf wasn’t normal.\n\nAs she embarks on a journey toward what she believes to be the perfect death,\nI-ram begins to question everything.\n\nCan she find a reason to live… in the last place she expected?\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=806304), [Naver Series](https://series.naver.com/comic/detail.series?productNo=9392462)\n\n**Official Translations:**    \n[Japanese](https://manga.line.me/product/periodic?id=Z0003041)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3lhcmQtZm9yLXR3by0xLndlYnA_dD0xNzEzMDM0Njcz",
-  "total_chapters": "105",
+  "description": "In the once peaceful Goat Village, Woo I-ram suddenly became a cursed omen. Shunned and burdened with despair, she made a decision— to end it all by seeking out a wolf to devour her. But there was just one problem… This wolf wasn’t normal. As she embarks on a journey toward what she believes to be the perfect death, I-ram begins to question everything. Can she find a reason to live… in the last place she expected?\n\n*Note: Includes five extra chapters.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjg1NC1vcVQyQzg1VVVGN2QuanBn",
+  "total_chapters": "110",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-02-14",
+    "end_date": "2025-04-15",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-14T15:20:41.385Z",
+  "last_updated_at": "2026-09-16T04:46:31.558Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216854,
+      "rating": null,
+      "url": "https://anilist.co/manga/216854"
+    },
     "animeplanet": {
       "id": "yard-for-two",
       "rating": 82,
@@ -105,9 +118,13 @@
     43,
     274,
     247,
+    108,
+    36,
     5559,
     3167,
     547,
+    626,
+    37,
     31,
     18,
     9,
@@ -117,15 +134,37 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "5": "defining",
+    "9": "defining",
+    "18": "defining",
+    "31": "defining",
+    "36": "defining",
+    "37": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "247": "unweighted",
+    "274": "unweighted",
+    "428": "unweighted",
+    "547": "unweighted",
+    "626": "incidental",
+    "3167": "unweighted",
+    "5559": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.159,
+    "popularityPercentile": 0.3785,
+    "fanFavouriteDiscoveryScore": 5.2461,
+    "fanFavouriteDiscoveryPercentile": 0.3712
   },
   "context": {
     "primaryProfile": "modern-korea",

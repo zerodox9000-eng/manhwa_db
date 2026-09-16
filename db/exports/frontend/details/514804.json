@@ -2,8 +2,8 @@
   "id": 514804,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Heartbeat Sounds",
-  "mangabaka_title": "Seolleneun Sori",
+  "display_title": "Shutter Flutters",
+  "mangabaka_title": "Shutter Flutters",
   "native_title": "설레는 소리",
   "romanized_title": "Seolleneun Sori",
   "titles": [
@@ -27,7 +27,7 @@
       "language": "en",
       "title": "Heartbeat Sounds",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -35,6 +35,15 @@
       "title": "Seolleneun Sori",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Shutter Flutters",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -68,12 +77,12 @@
       "note": null
     }
   ],
-  "description": "Han Ye-Rim, a video production major at an arts high school, can hear the inner thoughts of those captured in photos and videos. Ye-Rim, who's reluctant to film anything because of her talent, encounters Cha Jin-Ho, a famous model from the entertainment department. But what? Can you hear their inner thoughts too? A bumbling school romance between the prim Ye-Rim and the affectionate Jin-Ho!\n\n(Source: Naver, translated)",
+  "description": "*“What was going through your mind?”*\n\nYe-Rim Han was an ordinary student who loved filming until one day, she started hearing the thoughts of anyone captured in a photo or video. However, this ability brings her nothing but torment as she attempts to navigate her film and video production program without being overwhelmed by everyone’s thoughts. Soon after, Ye-Rim meets Jin-Ho Cha, a performing arts student who confides in her about his own ability. As the two work together to overcome their shared aversion to being in front of and behind the camera, they find themselves falling for each other.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83L2MvZS9jL2QvMC9jL2UvZWU3OS80OTFjLzhlMjcvNWNhYTI2ODdkZTdi",
   "total_chapters": "42",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2025,
   "published": {
     "start_date": "2025-09-22",
@@ -83,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-14T23:23:06.321Z",
+  "last_updated_at": "2026-09-15T23:23:49.120Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,8 +103,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/514804",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=11123",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=11123"
+    ]
   },
   "source": {
     "anilist": {
@@ -128,7 +139,7 @@
   ],
   "tag_weights": {
     "9": "defining",
-    "22": "defining",
+    "22": "unweighted",
     "40": "defining",
     "42": "defining",
     "57": "unweighted",
@@ -139,16 +150,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 95,
+    "popularity": 97,
     "favourites": 1,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0526,
-    "fanRatioPercentile": 47.1625,
-    "popularityPercentile": 37.9471,
-    "fanFavouriteDiscoveryScore": 38.5278,
-    "fanFavouriteDiscoveryPercentile": 42.8717
+    "fanFavouriteRaw": 1.0309,
+    "fanRatioPercentile": 47.0301,
+    "popularityPercentile": 38.2443,
+    "fanFavouriteDiscoveryScore": 38.5925,
+    "fanFavouriteDiscoveryPercentile": 42.8665
   },
   "context": {
     "primaryProfile": "modern-korea",
