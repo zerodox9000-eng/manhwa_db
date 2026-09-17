@@ -11,9 +11,19 @@ const INPUT_DIR = path.resolve(
   "../../db/raw/by-year"
 );
 
+const COLLECTION_INPUT_DIR = path.resolve(
+  __dirname,
+  "../../db/raw/collections"
+);
+
 const SERIES_OUTPUT = path.resolve(
   __dirname,
   "../../db/processed/by-year"
+);
+
+const COLLECTION_SERIES_OUTPUT = path.resolve(
+  __dirname,
+  "../../db/processed/collections"
 );
 
 const TAGS_OUTPUT = path.resolve(
@@ -323,75 +333,89 @@ function normalizeTags(series) {
 
 async function main() {
 
-  const files = fs
-    .readdirSync(INPUT_DIR)
-    .filter(
-      file =>
-        file.endsWith(".json")
-    );
+  const inputs = [
+    {
+      inputDir: INPUT_DIR,
+      seriesOutput: SERIES_OUTPUT,
+    },
+    {
+      inputDir: COLLECTION_INPUT_DIR,
+      seriesOutput: COLLECTION_SERIES_OUTPUT,
+    },
+  ];
 
-  for (const file of files) {
+  for (const input of inputs) {
+    if (!fs.existsSync(input.inputDir)) continue;
 
-    console.log(
-      `Processing ${file}`
-    );
+    fs.mkdirSync(input.seriesOutput, { recursive: true });
 
-    const data =
-      JSON.parse(
-        fs.readFileSync(
-          path.join(
-            INPUT_DIR,
-            file
-          ),
-          "utf-8"
-        )
+    const files = fs
+      .readdirSync(input.inputDir)
+      .filter(file => file.endsWith(".json"));
+
+    for (const file of files) {
+
+      console.log(
+        `Processing ${file}`
       );
 
-    const seriesData =
-      data.map(
-        normalizeSeries
+      const data =
+        JSON.parse(
+          fs.readFileSync(
+            path.join(
+              input.inputDir,
+              file
+            ),
+            "utf-8"
+          )
+        );
+
+      const seriesData =
+        data.map(
+          normalizeSeries
+        );
+
+      const tagsData =
+        data.map(
+          normalizeTags
+        );
+
+      const baseName =
+        file.replace(
+          ".json",
+          ""
+        );
+
+      fs.writeFileSync(
+        path.join(
+          input.seriesOutput,
+          `${baseName}.series.json`
+        ),
+        JSON.stringify(
+          seriesData,
+          null,
+          2
+        ),
+        "utf-8"
       );
 
-    const tagsData =
-      data.map(
-        normalizeTags
+      fs.writeFileSync(
+        path.join(
+          TAGS_OUTPUT,
+          `${baseName}.tags.json`
+        ),
+        JSON.stringify(
+          tagsData,
+          null,
+          2
+        ),
+        "utf-8"
       );
 
-    const baseName =
-      file.replace(
-        ".json",
-        ""
+      console.log(
+        `Saved ${baseName}`
       );
-
-    fs.writeFileSync(
-      path.join(
-        SERIES_OUTPUT,
-        `${baseName}.series.json`
-      ),
-      JSON.stringify(
-        seriesData,
-        null,
-        2
-      ),
-      "utf-8"
-    );
-
-    fs.writeFileSync(
-      path.join(
-        TAGS_OUTPUT,
-        `${baseName}.tags.json`
-      ),
-      JSON.stringify(
-        tagsData,
-        null,
-        2
-      ),
-      "utf-8"
-    );
-
-    console.log(
-      `Saved ${baseName}`
-    );
+    }
   }
 
   console.log("Done.");

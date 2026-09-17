@@ -21,6 +21,12 @@ const SERIES_DIR =
     "../../db/processed/by-year"
   );
 
+const COLLECTION_SERIES_DIR =
+  path.resolve(
+    __dirname,
+    "../../db/processed/collections"
+  );
+
 const TAGS_DIR =
   path.resolve(
     __dirname,
@@ -503,18 +509,27 @@ for (const file of tagFiles) {
 
 const seriesRows = [];
 
-const seriesFiles =
-  fs.readdirSync(SERIES_DIR)
-    .filter((file) => file.endsWith(".series.json"))
-    .sort();
+const seriesFiles = [
+  ...(fs.existsSync(SERIES_DIR)
+    ? fs.readdirSync(SERIES_DIR)
+      .filter((file) => file.endsWith(".series.json"))
+      .map((file) => ({ directory: SERIES_DIR, file }))
+    : []),
+  ...(fs.existsSync(COLLECTION_SERIES_DIR)
+    ? fs.readdirSync(COLLECTION_SERIES_DIR)
+      .filter((file) => file.endsWith(".series.json"))
+      .map((file) => ({ directory: COLLECTION_SERIES_DIR, file }))
+    : []),
+].sort((left, right) => left.file.localeCompare(right.file));
 
-for (const file of seriesFiles) {
+for (const item of seriesFiles) {
 
+  const { file } = item;
   const sourceKey = file.replace(/\.series\.json$/, "");
 
   const data =
     readJson(
-      path.join(SERIES_DIR, file)
+      path.join(item.directory, file)
     );
 
   for (const entry of data) {
@@ -566,6 +581,9 @@ for (const row of canonicalSeriesRows) {
 
       titles:
         entry.titles || [],
+
+      english_titles:
+        entry.english_titles || [],
 
       description:
         entry.description || null,
@@ -1296,12 +1314,13 @@ for (
   } catch {
     preservedContext = undefined;
   }
+  const { english_titles: _legacyEnglishTitles, ...exportEntry } = entry;
   fs.writeFileSync(
     detailPath,
 
     JSON.stringify(
       {
-        ...entry,
+        ...exportEntry,
         ...(preservedContext === undefined ? {} : { context: preservedContext }),
         display_title: applyTitleDisplayOverride(entry, titleDisplayOverrides),
       },

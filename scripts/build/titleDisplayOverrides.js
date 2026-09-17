@@ -36,7 +36,12 @@ function applyTitleDisplayOverride(entry, overrides) {
   const override = overrides.get(String(entry.id));
   if (!override) return entry.display_title;
 
-  const storedTitles = (entry.titles || []).map((title) => title?.title).filter(Boolean);
+  const storedTitles = [
+    ...(entry.english_titles || []),
+    ...(entry.titles || [])
+      .filter((title) => title?.language === "en")
+      .map((title) => title.title),
+  ].filter(Boolean);
   if (!storedTitles.some((title) => normalizeTitle(title) === normalizeTitle(override))) {
     throw new Error(
       `Title display override for ${entry.id} is not a stored MangaBaka title: ${override}`

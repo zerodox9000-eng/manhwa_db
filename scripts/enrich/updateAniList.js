@@ -4,7 +4,10 @@ const fs = require("fs");
 const path = require("path");
 const { GraphQLClient, gql } = require("graphql-request");
 
-const INPUT_DIR = path.resolve(__dirname, "../../db/processed/by-year");
+const INPUT_DIRS = [
+  path.resolve(__dirname, "../../db/processed/by-year"),
+  path.resolve(__dirname, "../../db/processed/collections"),
+];
 const OUTPUT_DIR = path.resolve(__dirname, "../../db/enriched/anilist");
 const PERMANENT_MISSING_FILE = path.resolve(__dirname, "../../db/curation/anilist-permanent-missing.json");
 const client = new GraphQLClient("https://graphql.anilist.co", {
@@ -130,7 +133,7 @@ function nextFallbackLevel(error, level, batchLength) {
   return nextLevel;
 }
 
-async function enrichAdaptive(batch, year, level = 0) {
+async function enrichAdaptive(batch, scope, level = 0) {
   const results = [];
 
   for (const subBatch of chunk(batch, BATCH_SIZES[level])) {
@@ -147,7 +150,7 @@ async function enrichAdaptive(batch, year, level = 0) {
         if (isRateLimited(error) && rateLimitRetries < MAX_RATE_LIMIT_RETRIES) {
           rateLimitRetries += 1;
           const waitMs = retryAfterMs(error);
-          console.log(`AniList rate window for ${year}; resuming this batch in ${Math.ceil(waitMs / 1000)}s.`);
+          console.log(`AniList rate window for ${scope}; resuming this batch in ${Math.ceil(waitMs / 1000)}s.`);
           await sleep(waitMs);
           continue;
         }
@@ -155,16 +158,16 @@ async function enrichAdaptive(batch, year, level = 0) {
         if (isTransientServerError(error) && serverRetries < MAX_SERVER_RETRIES) {
           const waitMs = SERVER_RETRY_DELAYS[serverRetries];
           serverRetries += 1;
-          console.log(`AniList server retry ${serverRetries}/${MAX_SERVER_RETRIES} for ${year}; resuming this batch in ${Math.ceil(waitMs / 1000)}s.`);
+          console.log(`AniList server retry ${serverRetries}/${MAX_SERVER_RETRIES} for ${scope}; resuming this batch in ${Math.ceil(waitMs / 1000)}s.`);
           await sleep(waitMs);
           continue;
         }
 
-        console.error(`AniList request retry ${level + 1} for ${year}:`, error.response?.errors || error.message);
+        console.error(`AniList request retry ${level + 1} for ${scope}:`, error.response?.errors || error.message);
 
         if (level < BATCH_SIZES.length - 1) {
           await sleep(REQUEST_DELAYS[level]);
-          results.push(...await enrichAdaptive(subBatch, year, nextFallbackLevel(error, level, subBatch.length)));
+          results.push(...await enrichAdaptive(subBatch, scope, nextFallbackLevel(error, level, subBatch.length)));
           break;
         }
 
@@ -173,7 +176,7 @@ async function enrichAdaptive(batch, year, level = 0) {
           break;
         }
 
-        throw new Error(`AniList refresh did not complete for ${year}`, { cause: error });
+        throw new Error(`AniList refresh did not complete for ${scope}`, { cause: error });
       }
     }
   }
@@ -181,9 +184,9 @@ async function enrichAdaptive(batch, year, level = 0) {
   return results;
 }
 
-async function processFile(file, stagingDir) {
-  const year = file.replace(".series.json", "");
-  const data = JSON.parse(fs.readFileSync(path.join(INPUT_DIR, file), "utf8"));
+async function processFile(file, inputDir, stagingDir) {
+  const scope = file.replace(".series.json", "");
+  const data = JSON.parse(fs.readFileSync(path.join(inputDir, file), "utf8"));
   const expected = data.filter((entry) => {
     const anilistId = Number(entry.source?.anilist?.id);
     return Number.isSafeInteger(anilistId) && anilistId > 0;
@@ -194,17 +197,17 @@ async function processFile(file, stagingDir) {
 
   const { permanentlyMissing, fetchable } = partitionExpectedEntries(expected);
   if (permanentlyMissing.length) {
-    console.log(`Skipping ${permanentlyMissing.length} confirmed missing AniList ID(s) for ${year}.`);
+    console.log(`Skipping ${permanentlyMissing.length} confirmed missing AniList ID(s) for ${scope}.`);
   }
 
-  const fetchedResults = await enrichAdaptive(fetchable, year);
+  const fetchedResults = await enrichAdaptive(fetchable, scope);
   const fetchedById = new Map(fetchedResults.map((result) => [result.id, result]));
   const permanentlyMissingIds = new Set(permanentlyMissing.map((entry) => entry.id));
   const results = expected.map((entry) => permanentlyMissingIds.has(entry.id)
     ? currentResult(entry, null)
     : fetchedById.get(entry.id));
   if (results.some((result) => !result)) {
-    throw new Error(`AniList current-run coverage mismatch for ${year}`);
+    throw new Error(`AniList current-run coverage mismatch for ${scope}`);
   }
   const expectedIds = new Set(expected.map(entry => entry.id));
   const actualIds = new Set(results.map(entry => entry.id));
@@ -214,16 +217,16 @@ async function processFile(file, stagingDir) {
     actualIds.size !== expectedIds.size ||
     [...expectedIds].some(id => !actualIds.has(id))
   ) {
-    throw new Error(`AniList current-run coverage mismatch for ${year}`);
+    throw new Error(`AniList current-run coverage mismatch for ${scope}`);
   }
 
   fs.writeFileSync(
-    path.join(stagingDir, `${year}.anilist.json`),
+    path.join(stagingDir, `${scope}.anilist.json`),
     JSON.stringify(results, null, 2),
     "utf8"
   );
-  console.log(`Refreshed ${year}: ${results.length}/${expected.length}`);
-  return { year, count: results.length };
+  console.log(`Refreshed ${scope}: ${results.length}/${expected.length}`);
+  return { scope, count: results.length };
 }
 
 function publishCompleteRefresh(stagingDir) {
@@ -243,19 +246,37 @@ function publishCompleteRefresh(stagingDir) {
 }
 
 async function main() {
-  const files = fs.readdirSync(INPUT_DIR)
-    .filter(file => file.endsWith(".series.json"))
-    .sort();
+  const allFiles = INPUT_DIRS
+    .filter(inputDir => fs.existsSync(inputDir))
+    .flatMap(inputDir => fs.readdirSync(inputDir)
+      .filter(file => file.endsWith(".series.json"))
+      .map(file => ({ file, inputDir })))
+    .sort((left, right) => left.file.localeCompare(right.file));
+  const onlyScope = process.env.ANILIST_ONLY_SCOPE;
+  const files = onlyScope
+    ? allFiles.filter(item => item.file === `${onlyScope}.series.json`)
+    : allFiles;
+
+  if (onlyScope && files.length !== 1) {
+    throw new Error(`AniList scope ${onlyScope} was not found in the processed inputs.`);
+  }
+
   const stagingDir = fs.mkdtempSync(path.join(path.dirname(OUTPUT_DIR), ".anilist-next-"));
   const refreshed = [];
 
   try {
-    for (const file of files) {
-      refreshed.push(await processFile(file, stagingDir));
+    if (onlyScope && process.env.ANILIST_PRESERVE_OTHER_OUTPUT === "1" && fs.existsSync(OUTPUT_DIR)) {
+      for (const file of fs.readdirSync(OUTPUT_DIR).filter(name => name.endsWith(".anilist.json"))) {
+        fs.copyFileSync(path.join(OUTPUT_DIR, file), path.join(stagingDir, file));
+      }
+    }
+
+    for (const item of files) {
+      refreshed.push(await processFile(item.file, item.inputDir, stagingDir));
     }
 
     if (refreshed.length !== files.length) {
-      throw new Error(`AniList year coverage mismatch: ${refreshed.length}/${files.length}`);
+      throw new Error(`AniList collection coverage mismatch: ${refreshed.length}/${files.length}`);
     }
 
     publishCompleteRefresh(stagingDir);
@@ -264,7 +285,7 @@ async function main() {
     throw error;
   }
 
-  console.log(`AniList refresh complete for ${refreshed.length}/${files.length} years.`);
+  console.log(`AniList refresh complete for ${refreshed.length}/${files.length} collections.`);
 }
 
 if (require.main === module) {

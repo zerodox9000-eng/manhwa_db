@@ -54,7 +54,9 @@ jobs:
       - name: Bootstrap directories
         run: |
           mkdir -p db/raw/by-year
+          mkdir -p db/raw/collections
           mkdir -p db/processed/by-year
+          mkdir -p db/processed/collections
           mkdir -p db/processed/tags
           mkdir -p db/enriched/anilist
           mkdir -p db/snapshots/anilist-daily
@@ -73,7 +75,7 @@ jobs:
       - name: Run Daily Pipeline
         env:
           FRONTEND_WEEKLY_ONLY: "1"
-        run: npm run daily:incremental
+        run: npm run daily:incremental:pre2014
 
       - name: Validate AniList year coverage
         run: npm run validate:anilist

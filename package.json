@@ -30,7 +30,10 @@
     "daily": "npm run update && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend",
     "update": "node scripts/updates/updateMangabaka.js",
     "incremental": "node scripts/updates/incrementalRawPatch.js",
-    "daily:incremental": "npm run incremental && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend"
+    "incremental:pre2014": "node scripts/updates/updatePre2014Popular.js",
+    "seed:pre2014-popular": "node scripts/curation/seedPre2014Popular.js",
+    "daily:incremental": "npm run incremental && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend",
+    "daily:incremental:pre2014": "npm run incremental && npm run incremental:pre2014 && npm run normalize && npm run enrich && npm run snapshot && npm run build:frontend"
     
   },
   "keywords": [],

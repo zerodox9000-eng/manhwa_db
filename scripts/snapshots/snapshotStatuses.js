@@ -3,7 +3,10 @@ const path = require("path");
 const { execFileSync } = require("child_process");
 
 const ROOT = path.resolve(__dirname, "../..");
-const SERIES_DIR = path.join(ROOT, "db/processed/by-year");
+const SERIES_DIRS = [
+  path.join(ROOT, "db/processed/by-year"),
+  path.join(ROOT, "db/processed/collections"),
+];
 const STATE_PATH = path.join(ROOT, "db/state/status-history.json");
 const KNOWN_STATUSES = new Set(["releasing", "completed", "hiatus", "cancelled", "upcoming"]);
 
@@ -43,9 +46,11 @@ function catalogSnapshotFromFiles(readFile, files) {
 }
 
 function currentCatalogSnapshot() {
-  const files = fs.readdirSync(SERIES_DIR)
-    .filter((name) => name.endsWith(".series.json"))
-    .map((name) => path.join(SERIES_DIR, name));
+  const files = SERIES_DIRS.flatMap((directory) => fs.existsSync(directory)
+    ? fs.readdirSync(directory)
+      .filter((name) => name.endsWith(".series.json"))
+      .map((name) => path.join(directory, name))
+    : []);
   return catalogSnapshotFromFiles((file) => fs.readFileSync(file, "utf8"), files);
 }
 
@@ -81,7 +86,7 @@ function applySnapshot(state, snapshot, date) {
 function gitSnapshots() {
   const log = execFileSync(
     "git",
-    ["log", "--reverse", "--format=%H|%cI", "--", "db/processed/by-year"],
+    ["log", "--reverse", "--format=%H|%cI", "--", "db/processed/by-year", "db/processed/collections"],
     { cwd: ROOT, encoding: "utf8", maxBuffer: 10 * 1024 * 1024 },
   ).trim();
   if (!log) return [];
@@ -98,7 +103,7 @@ function gitSnapshots() {
 function catalogSnapshotAtCommit(hash) {
   const names = execFileSync(
     "git",
-    ["ls-tree", "-r", "--name-only", hash, "--", "db/processed/by-year"],
+    ["ls-tree", "-r", "--name-only", hash, "--", "db/processed/by-year", "db/processed/collections"],
     { cwd: ROOT, encoding: "utf8", maxBuffer: 10 * 1024 * 1024 },
   ).trim().split(/\r?\n/).filter((name) => name.endsWith(".series.json"));
   return catalogSnapshotFromFiles(

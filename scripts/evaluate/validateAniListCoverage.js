@@ -1,21 +1,31 @@
 const fs = require("fs");
 const path = require("path");
 
-const INPUT_DIR = path.resolve(__dirname, "../../db/processed/by-year");
+const INPUT_DIRS = [
+  path.resolve(__dirname, "../../db/processed/by-year"),
+  path.resolve(__dirname, "../../db/processed/collections"),
+];
 const OUTPUT_DIR = path.resolve(__dirname, "../../db/enriched/anilist");
 const errors = [];
 let expectedTotal = 0;
 let actualTotal = 0;
 
-for (const file of fs.readdirSync(INPUT_DIR).filter(file => file.endsWith(".series.json")).sort()) {
-  const year = file.replace(".series.json", "");
-  const input = JSON.parse(fs.readFileSync(path.join(INPUT_DIR, file), "utf8"));
+const files = INPUT_DIRS
+  .filter(inputDir => fs.existsSync(inputDir))
+  .flatMap(inputDir => fs.readdirSync(inputDir)
+    .filter(file => file.endsWith(".series.json"))
+    .map(file => ({ file, inputDir })))
+  .sort((left, right) => left.file.localeCompare(right.file));
+
+for (const item of files) {
+  const scope = item.file.replace(".series.json", "");
+  const input = JSON.parse(fs.readFileSync(path.join(item.inputDir, item.file), "utf8"));
   const expected = input.filter(entry => entry.source?.anilist?.id);
-  const outputPath = path.join(OUTPUT_DIR, `${year}.anilist.json`);
+  const outputPath = path.join(OUTPUT_DIR, `${scope}.anilist.json`);
   expectedTotal += expected.length;
 
   if (!fs.existsSync(outputPath)) {
-    errors.push(`${year}: missing enrichment file`);
+    errors.push(`${scope}: missing enrichment file`);
     continue;
   }
 
@@ -25,18 +35,18 @@ for (const file of fs.readdirSync(INPUT_DIR).filter(file => file.endsWith(".seri
   const actualIds = new Set(actual.map(entry => entry.id));
 
   if (actualIds.size !== actual.length) {
-    errors.push(`${year}: duplicate enrichment IDs`);
+    errors.push(`${scope}: duplicate enrichment IDs`);
   }
 
   for (const id of expectedIds) {
-    if (!actualIds.has(id)) errors.push(`${year}: missing ID ${id}`);
+    if (!actualIds.has(id)) errors.push(`${scope}: missing ID ${id}`);
   }
 
   for (const id of actualIds) {
-    if (!expectedIds.has(id)) errors.push(`${year}: unexpected ID ${id}`);
+    if (!expectedIds.has(id)) errors.push(`${scope}: unexpected ID ${id}`);
   }
 
-  console.log(`${year}: ${actual.length}/${expected.length}`);
+  console.log(`${scope}: ${actual.length}/${expected.length}`);
 }
 
 if (errors.length > 0) {
