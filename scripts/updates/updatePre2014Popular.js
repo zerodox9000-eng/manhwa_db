@@ -15,6 +15,14 @@ const RAW_FILE = path.join(ROOT, "db/raw/collections/pre2014-popular.json");
 const CHANGELOG_DIR = path.join(ROOT, "db/updates/changelog");
 const REQUEST_TIMEOUT_MS = Number(process.env.MANGABAKA_REQUEST_TIMEOUT_MS || 30000);
 const REQUEST_DELAY_MS = Number(process.env.PRE2014_POPULAR_REQUEST_DELAY_MS || 500);
+const BATCH_SIZE = 50;
+const configuredMissingFallbacks = Number(
+  process.env.PRE2014_POPULAR_MAX_MISSING_FALLBACKS || 10
+);
+const MAX_MISSING_FALLBACKS = Number.isSafeInteger(configuredMissingFallbacks) &&
+  configuredMissingFallbacks >= 0
+  ? configuredMissingFallbacks
+  : 10;
 const MAX_RETRIES = 5;
 const RETRYABLE_STATUSES = new Set([429, 500, 502, 503, 504, 520, 522, 524, 530]);
 const RETRYABLE_CODES = new Set(["ECONNABORTED", "ECONNRESET", "ETIMEDOUT"]);
@@ -55,42 +63,151 @@ function rosterIdFor(entry) {
   );
 }
 
-function selectCurrentSeries(series, anilistId) {
-  const matching = series.filter((entry) =>
-    Number(entry?.source?.anilist?.id) === anilistId ||
-    Number(entry?._pre2014_popular?.anilist_id) === anilistId
-  );
-  const candidates = matching.length > 0 ? matching : series;
-
-  return [...candidates].sort((left, right) => {
-    const leftActive = left?.state === "active" && !left?.merged_with ? 1 : 0;
-    const rightActive = right?.state === "active" && !right?.merged_with ? 1 : 0;
-    if (leftActive !== rightActive) return rightActive - leftActive;
-    return String(right?.last_updated_at || "").localeCompare(String(left?.last_updated_at || ""));
-  })[0] || null;
+function mangaBakaIdFor(entry, label) {
+  const id = Number(entry?.id);
+  if (!Number.isSafeInteger(id) || id <= 0) {
+    throw new Error(`${label} must contain a positive MangaBaka ID.`);
+  }
+  return id;
 }
 
-async function fetchSeriesForAniList(anilistId) {
+function chunk(values, size = BATCH_SIZE) {
+  if (!Array.isArray(values)) throw new Error("Values to chunk must be an array.");
+  if (!Number.isSafeInteger(size) || size <= 0) throw new Error("Chunk size must be positive.");
+
+  const chunks = [];
+  for (let index = 0; index < values.length; index += size) {
+    chunks.push(values.slice(index, index + size));
+  }
+  return chunks;
+}
+
+function buildRosterBindings(rosterEntries, existing) {
+  const existingByRosterId = new Map();
+
+  existing.forEach((entry, index) => {
+    const anilistId = rosterIdFor(entry);
+    if (!Number.isSafeInteger(anilistId) || anilistId <= 0) {
+      throw new Error(`Pre-2014 popular raw entry ${index + 1} has no valid AniList ID.`);
+    }
+
+    const seriesId = mangaBakaIdFor(entry, `Pre-2014 popular raw entry ${index + 1}`);
+    if (existingByRosterId.has(anilistId)) {
+      throw new Error(`Pre-2014 popular raw collection contains duplicate AniList ID ${anilistId}.`);
+    }
+
+    existingByRosterId.set(anilistId, { entry, seriesId });
+  });
+
+  const seenSeriesIds = new Map();
+  return rosterEntries.map((rosterEntry, index) => {
+    const previous = existingByRosterId.get(rosterEntry.anilist_id);
+    if (!previous) {
+      throw new Error(
+        `Pre-2014 popular roster entry ${index + 1} (AniList ${rosterEntry.anilist_id}) ` +
+        "has no saved MangaBaka ID. The one-time collection must be seeded before the daily refresh can run."
+      );
+    }
+
+    if (seenSeriesIds.has(previous.seriesId)) {
+      const prior = seenSeriesIds.get(previous.seriesId);
+      throw new Error(
+        `Pre-2014 popular roster maps multiple AniList IDs to MangaBaka ${previous.seriesId}: ` +
+        `${prior} and ${rosterEntry.anilist_id}.`
+      );
+    }
+    seenSeriesIds.set(previous.seriesId, rosterEntry.anilist_id);
+
+    return {
+      rosterEntry,
+      previous: previous.entry,
+      seriesId: previous.seriesId,
+    };
+  });
+}
+
+function indexBatchResults(requestedIds, series, byId) {
+  const requested = new Set(requestedIds);
+  let matched = 0;
+
+  for (const entry of series) {
+    const seriesId = mangaBakaIdFor(entry, "MangaBaka batch response entry");
+    if (!requested.has(seriesId)) continue;
+
+    if (byId.has(seriesId)) {
+      throw new Error(`MangaBaka batch responses returned duplicate series ID ${seriesId}.`);
+    }
+
+    byId.set(seriesId, entry);
+    matched += 1;
+  }
+
+  return matched;
+}
+
+async function fetchSeriesBatch(seriesIds) {
+  if (seriesIds.length < 1 || seriesIds.length > BATCH_SIZE) {
+    throw new Error(`MangaBaka batch must contain between 1 and ${BATCH_SIZE} IDs.`);
+  }
+
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
     try {
       const response = await axios.get(
-        `${API}/v1/source/anilist/${anilistId}`,
+        `${API}/v1/series/batch`,
         {
           params: {
-            with_series: true,
-            with_merged_series: true,
+            id: seriesIds,
           },
+          // MangaBaka expects repeated `id` parameters, not `id[]`.
+          paramsSerializer: { indexes: null },
           timeout: REQUEST_TIMEOUT_MS,
         }
       );
 
-      const series = response.data?.data?.series;
+      const series = response.data?.data;
       if (!Array.isArray(series)) {
-        throw new Error(`MangaBaka AniList lookup ${anilistId} returned no series array.`);
+        throw new Error("MangaBaka series batch returned no data array.");
       }
 
       return {
-        series: selectCurrentSeries(series, anilistId),
+        series,
+        status: response.status,
+      };
+    } catch (error) {
+      if (!isRetryableError(error) || attempt === MAX_RETRIES) {
+        throw new Error(
+          `MangaBaka series batch failed for ${seriesIds.length} IDs`,
+          { cause: error }
+        );
+      }
+
+      const delay = retryDelayMs(error, attempt);
+      console.log(
+        `Pre-2014 popular MangaBaka batch API error ${error.response?.status || error.code}. ` +
+        `Retry ${attempt}/${MAX_RETRIES} after ${delay}ms.`
+      );
+      await sleep(delay);
+    }
+  }
+
+  throw new Error("Unable to fetch MangaBaka series batch.");
+}
+
+async function fetchSeriesById(seriesId) {
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt += 1) {
+    try {
+      const response = await axios.get(
+        `${API}/v1/series/${seriesId}`,
+        { timeout: REQUEST_TIMEOUT_MS }
+      );
+
+      const series = response.data?.data;
+      if (!series || mangaBakaIdFor(series, `MangaBaka series ${seriesId}`) !== seriesId) {
+        throw new Error(`MangaBaka series ${seriesId} returned an invalid record.`);
+      }
+
+      return {
+        series,
         status: response.status,
       };
     } catch (error) {
@@ -99,19 +216,82 @@ async function fetchSeriesForAniList(anilistId) {
       }
 
       if (!isRetryableError(error) || attempt === MAX_RETRIES) {
-        throw new Error(`MangaBaka AniList lookup failed for ${anilistId}`, { cause: error });
+        throw new Error(`MangaBaka series lookup failed for ${seriesId}`, { cause: error });
       }
 
       const delay = retryDelayMs(error, attempt);
       console.log(
-        `Pre-2014 popular AniList ${anilistId} API error ${error.response?.status || error.code}. ` +
+        `Pre-2014 popular MangaBaka fallback ${seriesId} API error ${error.response?.status || error.code}. ` +
         `Retry ${attempt}/${MAX_RETRIES} after ${delay}ms.`
       );
       await sleep(delay);
     }
   }
 
-  throw new Error(`Unable to fetch MangaBaka record for AniList ${anilistId}.`);
+  throw new Error(`Unable to fetch MangaBaka record ${seriesId}.`);
+}
+
+async function fetchCollectionSeries(bindings) {
+  const requestedIds = bindings.map((binding) => binding.seriesId);
+  const batches = chunk(requestedIds);
+  const seriesById = new Map();
+  const statusById = new Map();
+  let batchReturnedCount = 0;
+
+  for (let index = 0; index < batches.length; index += 1) {
+    const batch = batches[index];
+    const result = await fetchSeriesBatch(batch);
+    const matched = indexBatchResults(batch, result.series, seriesById);
+    batchReturnedCount += result.series.length;
+
+    console.log(
+      `Pre-2014 popular MangaBaka batch ${index + 1}/${batches.length}: ` +
+      `${batch.length} requested, ${result.series.length} returned, ${matched} matched.`
+    );
+
+    if (index + 1 < batches.length) await sleep(REQUEST_DELAY_MS);
+  }
+
+  const missingIds = requestedIds.filter((seriesId) => !seriesById.has(seriesId));
+  if (missingIds.length > MAX_MISSING_FALLBACKS) {
+    throw new Error(
+      `MangaBaka batch omitted ${missingIds.length} of ${requestedIds.length} requested IDs ` +
+      `(${missingIds.join(", ")}). Refusing to issue individual fallback requests; ` +
+      `the batch response is incomplete.`
+    );
+  }
+
+  let fallbackCount = 0;
+  for (let index = 0; index < missingIds.length; index += 1) {
+    const seriesId = missingIds[index];
+    const result = await fetchSeriesById(seriesId);
+    statusById.set(seriesId, result.status);
+
+    if (result.series) {
+      seriesById.set(seriesId, result.series);
+      fallbackCount += 1;
+      console.log(
+        `Pre-2014 popular MangaBaka fallback ${index + 1}/${missingIds.length}: ` +
+        `${seriesId} resolved.`
+      );
+    } else {
+      console.log(
+        `Pre-2014 popular MangaBaka fallback ${index + 1}/${missingIds.length}: ` +
+        `${seriesId} unresolved (404).`
+      );
+    }
+
+    if (index + 1 < missingIds.length) await sleep(REQUEST_DELAY_MS);
+  }
+
+  return {
+    seriesById,
+    statusById,
+    batchCount: batches.length,
+    batchReturnedCount,
+    fallbackCount,
+    missingIds,
+  };
 }
 
 function withCollectionMetadata(series, rosterEntry, previous) {
@@ -143,47 +323,36 @@ function changed(left, right) {
 async function main() {
   const roster = loadRoster();
   const existing = readExisting();
-  const existingByRosterId = new Map(
-    existing
-      .map((entry) => [rosterIdFor(entry), entry])
-      .filter(([id]) => Number.isSafeInteger(id) && id > 0)
-  );
+  const bindings = buildRosterBindings(roster.entries, existing);
   const fresh = [];
   const unresolved = [];
-  const seenSeriesIds = new Map();
 
-  console.log(`Refreshing ${roster.entries.length} pre-2014 popular AniList titles through MangaBaka.`);
+  console.log(
+    `Refreshing ${roster.entries.length} pre-2014 popular titles through ` +
+    `${Math.ceil(bindings.length / BATCH_SIZE)} MangaBaka batch request(s).`
+  );
 
-  for (let index = 0; index < roster.entries.length; index += 1) {
-    const rosterEntry = roster.entries[index];
-    const result = await fetchSeriesForAniList(rosterEntry.anilist_id);
+  const refresh = await fetchCollectionSeries(bindings);
 
-    if (!result.series) {
+  for (let index = 0; index < bindings.length; index += 1) {
+    const { rosterEntry, previous, seriesId } = bindings[index];
+    const series = refresh.seriesById.get(seriesId);
+
+    if (!series) {
       unresolved.push({
         anilist_id: rosterEntry.anilist_id,
         title: rosterEntry.title,
-        status: result.status,
+        mangabaka_id: seriesId,
+        status: refresh.statusById.get(seriesId) || 404,
       });
     } else {
-      const seriesId = Number(result.series.id);
-      const previousMatch = existingByRosterId.get(rosterEntry.anilist_id);
-      if (seenSeriesIds.has(seriesId)) {
-        const prior = seenSeriesIds.get(seriesId);
-        throw new Error(
-          `Pre-2014 popular roster resolved multiple AniList IDs to MangaBaka ${seriesId}: ` +
-          `${prior} and ${rosterEntry.anilist_id}.`
-        );
-      }
-      seenSeriesIds.set(seriesId, rosterEntry.anilist_id);
-      fresh.push(withCollectionMetadata(result.series, rosterEntry, previousMatch));
+      fresh.push(withCollectionMetadata(series, rosterEntry, previous));
     }
 
     console.log(
       `Pre-2014 popular ${index + 1}/${roster.entries.length}: ` +
-      `${rosterEntry.anilist_id} ${result.series ? `-> MangaBaka ${result.series.id}` : "unresolved"}`
+      `${rosterEntry.anilist_id} -> MangaBaka ${series ? series.id : `${seriesId} unresolved`}`
     );
-
-    if (index + 1 < roster.entries.length) await sleep(REQUEST_DELAY_MS);
   }
 
   const oldById = new Map(existing.map((entry) => [entry.id, entry]));
@@ -210,6 +379,11 @@ async function main() {
       collection: COLLECTION_NAME,
       roster_count: roster.entries.length,
       resolved_count: fresh.length,
+      batch_count: refresh.batchCount,
+      batch_requested_count: bindings.length,
+      batch_returned_count: refresh.batchReturnedCount,
+      individual_fallback_count: refresh.fallbackCount,
+      batch_missing_ids: refresh.missingIds,
       unresolved,
       changes,
       refreshed_at: new Date().toISOString(),
@@ -218,7 +392,8 @@ async function main() {
 
   console.log(
     `Pre-2014 popular refresh complete: ${fresh.length}/${roster.entries.length} resolved; ` +
-    `${unresolved.length} unresolved.`
+    `${unresolved.length} unresolved; ${refresh.batchCount} batch request(s), ` +
+    `${refresh.fallbackCount} individual fallback request(s).`
   );
 }
 
@@ -230,6 +405,11 @@ if (require.main === module) {
 }
 
 module.exports = {
-  fetchSeriesForAniList,
-  selectCurrentSeries,
+  BATCH_SIZE,
+  buildRosterBindings,
+  chunk,
+  fetchCollectionSeries,
+  fetchSeriesBatch,
+  fetchSeriesById,
+  indexBatchResults,
 };
