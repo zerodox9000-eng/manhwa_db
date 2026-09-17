@@ -24,14 +24,14 @@
       "note": null
     },
     {
-      "language": "es-la",
+      "language": "es",
       "title": "El santo que sube de nivel como nigromante",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "es",
+      "language": "es-la",
       "title": "El santo que sube de nivel como nigromante",
       "traits": [],
       "is_primary": true,
@@ -42,6 +42,15 @@
       "title": "Necromancer de Level Up Suru Seija-sama",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja-Latn",
+      "title": "Necromancer de Level Up Suru Seijou-sama",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
       "note": null
     },
     {
@@ -71,7 +80,7 @@
     },
     {
       "language": "en",
-      "title": "The Saint Levels up Through Necromancy",
+      "title": "The Saint Levels Up Through Necromancy",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -143,11 +152,12 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-15T05:51:32.106Z",
+  "last_updated_at": "2026-09-17T04:52:06.472Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Glsujer"
+    "Geulsujeo",
+    "Studio Inus"
   ],
   "artists": [
     "Studio Inus"
@@ -160,7 +170,11 @@
     ]
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216855,
+      "rating": 60,
+      "url": "https://anilist.co/manga/216855"
+    },
     "animeplanet": {
       "id": "the-necromancer-saint",
       "rating": 78,
@@ -175,6 +189,7 @@
   "tag_ids": [
     38,
     419,
+    58,
     3495,
     4562,
     74,
@@ -185,17 +200,37 @@
     93,
     57,
     428,
-    7332
+    7332,
+    528
   ],
+  "tag_weights": {
+    "22": "defining",
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "74": "unweighted",
+    "93": "unweighted",
+    "419": "core",
+    "428": "unweighted",
+    "528": "incidental",
+    "748": "core",
+    "3495": "core",
+    "4562": "core",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 16,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9968,
+    "popularityPercentile": 10.1286,
+    "fanFavouriteDiscoveryScore": 9.7657,
+    "fanFavouriteDiscoveryPercentile": 9.4206
   },
   "context": {
     "primaryProfile": "game-system",

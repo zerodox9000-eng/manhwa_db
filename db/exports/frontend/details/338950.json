@@ -2,14 +2,21 @@
   "id": 338950,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Match (Lim Hee-Jae)",
-  "mangabaka_title": "The Match (Lim Hee-Jae)",
+  "display_title": "The Match",
+  "mangabaka_title": "The Match",
   "native_title": "승부 (임희재)",
   "romanized_title": "The Match (Lim Hee-Jae)",
   "titles": [
     {
       "language": "ko",
       "title": "승부 (임희재)",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Match",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -23,9 +30,9 @@
     }
   ],
   "description": "**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/66439490), [Ridibooks](https://ridibooks.com/books/2584004311), [Naver Series](https://series.naver.com/comic/detail.series?productNo=12410565)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDgyMzA2LmpwZw",
-  "total_chapters": "21",
-  "status": "releasing",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1tYXRjaC0xLndlYnA_dD0xNzg0OTIyMjQ0",
+  "total_chapters": "45",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2025,
@@ -37,7 +44,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-07-25T12:42:50.334Z",
+  "last_updated_at": "2026-09-16T09:14:14.555Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -53,7 +60,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-match",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-match"
+    },
     "mangaupdates": {
       "id": "7ow5gps",
       "rating": null,
@@ -62,7 +73,11 @@
   },
   "tag_ids": [
     8,
-    31
+    31,
+    93,
+    57,
+    428,
+    7332
   ],
   "stats": {
     "popularity": null,

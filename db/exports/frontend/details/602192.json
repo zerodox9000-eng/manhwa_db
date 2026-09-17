@@ -2,15 +2,17 @@
   "id": 602192,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Asha of the Border",
-  "mangabaka_title": "Asha of the Border",
+  "display_title": "Asha of the Borderlands",
+  "mangabaka_title": "Asha of the Borderlands",
   "native_title": "국경의 아샤",
-  "romanized_title": null,
+  "romanized_title": "Gukgyeongui Asya",
   "titles": [
     {
       "language": "ko",
       "title": "국경의 아샤",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,40 +20,53 @@
       "language": "en",
       "title": "Asha of the Border",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Asha of the Borderlands",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gukgyeongui Asya",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "Branded a cursed princess fated to kill the king, Princess Renée is cast out of the palace after her father's death. Rescued by Eden of the border clans, she grows up in exile and learns love for the first time—until the truth drags her back.\n\n[Original Webtoon](https://ridibooks.com/books/4158001268)\n\n**Official Translations:**    \n[English](https://manta.net/en/series/asha-of-the-borderlands?seriesId=5534)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3ODU3LnBuZw",
+  "description": "Branded a cursed princess fated to kill the king, Princess Renée is cast out of the palace after her father's death. Rescued by Eden of the border clans, she grows up in exile and learns love for the first time—until the truth drags her back. \n\n(Source: Manta)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjg4NS11bTFJVUJhR3l0SzcucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-13",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-07T18:21:24.774Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-15T17:14:31.242Z",
+  "last_updated_at": "2026-09-17T03:31:52.580Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Surreuk Comics"
+    "Bi",
+    "Ranppang Gye",
+    "Sabi"
   ],
   "artists": [
-    "Surreuk Comics"
+    "Tabun"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602192",
@@ -59,7 +74,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216885,
+      "rating": 50,
+      "url": "https://anilist.co/manga/216885"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ij16nwm",
@@ -69,17 +88,36 @@
   },
   "tag_ids": [
     43,
+    336,
+    106,
+    108,
     36,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "106": "unweighted",
+    "108": "unweighted",
+    "336": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 17,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 50
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9968,
+    "popularityPercentile": 10.9088,
+    "fanFavouriteDiscoveryScore": 10.2124,
+    "fanFavouriteDiscoveryPercentile": 10.1069
   }
 }

@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Want a Girlfriend!",
-  "mangabaka_title": "I Want a Girlfriend!",
+  "mangabaka_title": "Yeosachini Gajigo Sipeo!",
   "native_title": "여사친이 가지고 싶어!",
-  "romanized_title": null,
+  "romanized_title": "Yeosachini Gajigo Sipeo!",
   "titles": [
     {
       "language": "ko",
@@ -22,31 +22,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeosachini Gajigo Sipeo!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Song-ina is just a regular girl trying to join a club but she keeps getting hit on by men. Wait, isn’t that just fantastic? Well no. She’s a lesbian.\n\n**Original Webtoon:**  \n[Tobe Aladin](https://tobe.aladin.co.kr/n/12821), [Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=397352718), [Ridibooks](https://ridibooks.com/books/6121000572)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDcxMTA5LmpwZw",
+  "description": "*Note: Originally self-published on the author's Aladin account. Published by Ridibooks on 2026-09-06.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjYzNC1EdldhdDV4YnR1a0EuanBn",
   "total_chapters": "12",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-01-10",
+    "end_date": "2023-12-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-15T00:36:20.177Z",
+  "last_updated_at": "2026-09-17T00:51:27.890Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "KIM Jong Geon"
+    "Jong-Geon Kim"
   ],
   "artists": [
-    "KIM Jong Geon"
+    "Jong-Geon Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/90652",
@@ -54,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216634,
+      "rating": 50,
+      "url": "https://anilist.co/manga/216634"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7gxoljh",
@@ -66,19 +79,37 @@
     46,
     15,
     41,
+    6,
     31,
     33,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "33": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 14,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 50
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9968,
+    "popularityPercentile": 8.756,
+    "fanFavouriteDiscoveryScore": 9.0073,
+    "fanFavouriteDiscoveryPercentile": 8.1563
   },
   "context": {
     "primaryProfile": "modern-korea",
