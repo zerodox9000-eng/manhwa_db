@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Spring Snowflake",
-  "mangabaka_title": "Spring Snowflake",
+  "mangabaka_title": "Bom Nunkkot",
   "native_title": "봄 눈꽃",
-  "romanized_title": null,
+  "romanized_title": "Bom Nunkkot",
   "titles": [
     {
       "language": "ko",
       "title": "봄 눈꽃",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bom Nunkkot",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,28 +41,28 @@
     }
   ],
   "description": "[Original Webtoon](https://www.lezhin.com/ko/comic/spring_snowflake)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MjI3LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "erotica",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjg5MS0wMnRzclBlMTFpMk8uanBn",
+  "total_chapters": "40",
+  "status": "completed",
+  "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-05T09:19:32.751Z",
+  "last_updated_at": "2026-09-17T19:59:35.957Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Zelkova"
+    "Neutinamu"
   ],
   "artists": [
-    "Zelkova"
+    "Neutinamu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600819",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216891,
+      "rating": null,
+      "url": "https://anilist.co/manga/216891"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "i6dc8rk",
@@ -72,18 +87,39 @@
     36,
     46,
     21,
+    10,
     15,
     41,
-    31
+    109,
+    31,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "8": "defining",
+    "10": "unweighted",
+    "15": "defining",
+    "21": "defining",
+    "31": "defining",
+    "36": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "109": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9856,
+    "popularityPercentile": 0.1588,
+    "fanFavouriteDiscoveryScore": 5.1384,
+    "fanFavouriteDiscoveryPercentile": 0.1588
   }
 }

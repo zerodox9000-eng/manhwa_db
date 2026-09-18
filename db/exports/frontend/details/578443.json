@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Don't Need a Trashy Sub-Male Lead",
-  "mangabaka_title": "I Don't Need a Trashy Sub-Male Lead",
+  "mangabaka_title": "Kuzu Hero wa Irimasen!: Otokoun Zero Reijou no Karei na Fukushuu",
   "native_title": "くずヒーローは要りません！～男運ゼロ令嬢の華麗な復讐～",
-  "romanized_title": null,
+  "romanized_title": "Kuzu Hero wa Irimasen!: Otokoun Zero Reijou no Karei na Fukushuu",
   "titles": [
     {
       "language": "ko",
@@ -22,37 +22,47 @@
       "note": null
     },
     {
+      "language": "ja-Latn",
+      "title": "Kuzu Hero wa Irimasen!: Otokoun Zero Reijou no Karei na Fukushuu",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "くずヒーローは要りません！～男運ゼロ令嬢の華麗な復讐～",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Layla lost her beloved mother. When her new stepmother and stepsister arrive, she regains memories of her past life. She realizes this is the world of a novel she was obsessed with, where she is fated to die at age 21. However, she is poisoned instead of dying from illness. Just before dying, she is sent back one year in the past. She decides to take revenge on those who ruined her.\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/68998791), [Bomtoon](https://www.bomtoon.com/detail/notrashlead) \n\n**Official Translations:**    \nJapanese (Localized): \n[Horizontal](https://www.cmoa.jp/title/302737/), [Vertical](https://www.cmoa.jp/title/302738/)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIxMzU2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjc1NC1URVNCejg2YnVhREcuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-10-04",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-17T04:08:31.419Z",
+  "last_updated_at": "2026-09-18T00:46:30.392Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "DuYeon",
-    "Mooncrystal"
+    "Dalsujeong"
   ],
   "artists": [
-    "Sungwel"
+    "Seong-Wol"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/578443",
@@ -60,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216754,
+      "rating": null,
+      "url": "https://anilist.co/manga/216754"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "r9mumt3",
@@ -70,19 +84,35 @@
   },
   "tag_ids": [
     40,
+    108,
     36,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9856,
+    "popularityPercentile": 1.7762,
+    "fanFavouriteDiscoveryScore": 5.7465,
+    "fanFavouriteDiscoveryPercentile": 1.6679
   },
   "context": {
     "primaryProfile": "romance-core",

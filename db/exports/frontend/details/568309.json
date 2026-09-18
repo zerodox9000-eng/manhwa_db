@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Between Two Men's Secretaries",
-  "mangabaka_title": "Trapped Between Two Men",
-  "native_title": "二人の男の秘書",
-  "romanized_title": null,
+  "mangabaka_title": "Du Namjaui Biseo Sai",
+  "native_title": "두 남자의 비서 사이",
+  "romanized_title": "Du Namjaui Biseo Sai",
   "titles": [
     {
       "language": "ko",
       "title": "두 남자의 비서 사이",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,9 +24,25 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Between Two Men's Secretary",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "vi",
       "title": "Cô Thư Ký Mắc Kẹt Giữa Hai Người Đàn Ông",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Du Namjaui Biseo Sai",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -50,31 +68,31 @@
       "note": null
     }
   ],
-  "description": "On the day of the proposal I had been eagerly waiting for, Han Taemin, who had once been my entire world, chose another woman.\n\nAnd not just anyone… but Joo Haena, the very girl who made my school years a living hell.\n\nFaced with his shameless behavior, I made up my mind: I would get my revenge.\n\n\"So, I’m going to do every awful thing I can, and I'll do it with your friend, Yoon Jeha.\"\n\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=845221), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13439322)\n\n**Official Translations:**   \n[Japanese](https://manga.line.me/product/periodic?id=Z0004325)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RyYXBwZWQtYmV0d2Vlbi10d28tbWVuLTEud2VicD90PTE3Njc5ODEzOTI",
+  "description": "The proposal day I had been counting down the days. Han Tae-Min, who was my whole world, chose another woman. And not just any woman, but Ju Hye-Na, the woman who turned my school days into hell… His shameless attitude made me vow revenge. I promised I would do every despicable thing imaginable with his friend, Yun Je-Ha.\n\n(Source: Naver Series, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjkyMC1FREhMbkdhUkFYWkMuanBn",
   "total_chapters": "36",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-11-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-15T11:33:15.267Z",
+  "last_updated_at": "2026-09-18T02:56:26.797Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Bulsa",
-    "Lee Dara",
-    "Mute"
+    "Dal-A Lee"
   ],
   "artists": [
-    "Baduk"
+    "Badugi",
+    "MUTE"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/568309",
@@ -82,7 +100,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216920,
+      "rating": null,
+      "url": "https://anilist.co/manga/216920"
+    },
     "animeplanet": {
       "id": "trapped-between-two-men",
       "rating": null,
@@ -96,24 +118,47 @@
   },
   "tag_ids": [
     43,
+    158,
     74,
+    108,
+    231,
     15,
     31,
+    403,
     9,
+    227,
     93,
     57,
     428,
     7332
   ],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "158": "unweighted",
+    "227": "unweighted",
+    "231": "unweighted",
+    "403": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9856,
+    "popularityPercentile": 0.1588,
+    "fanFavouriteDiscoveryScore": 5.1384,
+    "fanFavouriteDiscoveryPercentile": 0.1588
   },
   "context": {
     "primaryProfile": "modern-korea",

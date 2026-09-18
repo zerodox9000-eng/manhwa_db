@@ -4,7 +4,7 @@
   "type": "manhwa",
   "display_title": "Radia",
   "mangabaka_title": "Radia",
-  "native_title": "ラディア〜神殺しの私が神の恋人!?〜",
+  "native_title": "라디아",
   "romanized_title": "Radia",
   "titles": [
     {
@@ -20,6 +20,15 @@
       "language": "es-la",
       "title": "La Venganza de la Santa",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Radia",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -47,22 +56,22 @@
       "note": null
     }
   ],
-  "description": "Radia's quest for revenge against her treacherous friend takes an unexpected turn when she is saved from a near-death experience by Yulius, a mysteriously powerful man. The twist? Yulius is a ghost, visible only to Radia. As he becomes Radia's constant companion, Radia is embroiled in a web of supernatural mishaps that reveal just how potent Yulius really is. And although even Yulius doesn't know his true identity yet, his near-omnipotence might be the key to Radia exacting her revenge. However, this power might also conceal a lurking danger that threatens to reshape their quest in unexpected and perilous ways...\n\n**Original Webtoon:**  \n[MrBlue](https://www.mrblue.com/comic/C000061267), [Bomtoon](https://www.bomtoon.com/detail/radia), [Lezhin](https://www.lezhin.com/ko/comic/radia), [Ridibooks](https://ridibooks.com/books/3372014037), [Naver Series](https://series.naver.com/comic/detail.series?productNo=11122583), [KakaoPage](https://page.kakao.com/content/64077597), [Toptoon](https://toptoon.com/comic/ep_list/Radia?p_id=pp_1601_001), [Anytoon](https://www.anytoon.co.kr/webtoon/episode/9793)\n\n**Official Translations:**  \n[English](https://www.tappytoon.com/en/book/radia), [Japanese](https://jp.piccoma.com/web/product/163410)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNzM1NDQvcG9zdGVyX2ltYWdlLzUyMDJmNWNkMjA0NmE1MjFkMzVmN2I1Y2Q5OTAwMjJlLmpwZw",
+  "description": "Radia's quest for revenge against her treacherous friend takes an unexpected turn when she is saved from a near-death experience by Yulius, a mysteriously powerful man. The twist? Yulius is a ghost, visible only to Radia. As he becomes Radia's constant companion, Radia is embroiled in a web of supernatural mishaps that reveal just how potent Yulius really is. And although even Yulius doesn't know his true identity yet, his near-omnipotence might be the key to Radia exacting her revenge. However, this power might also conceal a lurking danger that threatens to reshape their quest in unexpected and perilous ways... \n\n(Source: Tappytoon)\n\n*Note: This work pre-released in English before releasing in Korean.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjkxOC1JVWxDYzd3RlU1YmIuanBn",
   "total_chapters": "50",
-  "status": "completed",
+  "status": "hiatus",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
+    "start_date": "2023-10-27",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:46:39.150Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-16T14:31:32.077Z",
+  "last_updated_at": "2026-09-18T02:26:28.358Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,11 +82,17 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/6311",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.tappytoon.com/en/book/radia",
+    "read_en_all": [
+      "https://www.tappytoon.com/en/book/radia"
+    ]
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216918,
+      "rating": null,
+      "url": "https://anilist.co/manga/216918"
+    },
     "animeplanet": {
       "id": "radia",
       "rating": 78,
@@ -91,25 +106,45 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     22,
     31,
+    32,
     9,
+    227,
     45,
     93,
     57,
     428,
     7332
   ],
+  "tag_weights": {
+    "9": "defining",
+    "22": "defining",
+    "31": "defining",
+    "32": "unweighted",
+    "36": "defining",
+    "43": "defining",
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "227": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 31.9856,
+    "popularityPercentile": 1.7762,
+    "fanFavouriteDiscoveryScore": 5.7465,
+    "fanFavouriteDiscoveryPercentile": 1.6679
   },
   "context": {
     "primaryProfile": "horror-survival",
