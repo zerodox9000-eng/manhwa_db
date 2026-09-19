@@ -349,10 +349,6 @@ async function main() {
       fresh.push(withCollectionMetadata(series, rosterEntry, previous));
     }
 
-    console.log(
-      `Pre-2014 popular ${index + 1}/${roster.entries.length}: ` +
-      `${rosterEntry.anilist_id} -> MangaBaka ${series ? series.id : `${seriesId} unresolved`}`
-    );
   }
 
   const oldById = new Map(existing.map((entry) => [entry.id, entry]));
@@ -391,9 +387,9 @@ async function main() {
   );
 
   console.log(
-    `Pre-2014 popular refresh complete: ${fresh.length}/${roster.entries.length} resolved; ` +
-    `${unresolved.length} unresolved; ${refresh.batchCount} batch request(s), ` +
-    `${refresh.fallbackCount} individual fallback request(s).`
+    `Pre-2014 popular refresh complete: ${fresh.length}/${roster.entries.length} records assembled ` +
+    `from ${refresh.batchCount} batch request(s) and ${refresh.fallbackCount} individual fallback ` +
+    `request(s); ${unresolved.length} unresolved.`
   );
 }
 
