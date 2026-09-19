@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-08-10T02:51:43.956Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-18T01:52:27.643Z",
+  "last_updated_at": "2026-09-19T01:54:16.657Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,10 +69,16 @@
       "url": "https://anilist.co/manga/214911"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "xr1imaw",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/xr1imaw"
+    }
   },
   "tag_ids": [
+    46,
     180,
+    16,
     31,
     9,
     93,
@@ -80,8 +86,10 @@
     428
   ],
   "tag_weights": {
-    "9": "unweighted",
-    "31": "unweighted",
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
@@ -94,9 +102,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 31.9856,
-    "popularityPercentile": 7.2274,
-    "fanFavouriteDiscoveryScore": 8.2034,
-    "fanFavouriteDiscoveryPercentile": 6.7581
+    "fanRatioPercentile": 32.0049,
+    "popularityPercentile": 7.2341,
+    "fanFavouriteDiscoveryScore": 8.2118,
+    "fanFavouriteDiscoveryPercentile": 6.7649
   }
 }
