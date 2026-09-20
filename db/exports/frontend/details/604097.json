@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Mistaken Romance",
-  "mangabaka_title": "Mistaken Romance",
+  "mangabaka_title": "Chakgang Yeonae",
   "native_title": "착각 연애",
-  "romanized_title": null,
+  "romanized_title": "Chakgang Yeonae",
   "titles": [
     {
       "language": "ko",
       "title": "착각 연애",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Chakgang Yeonae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,30 +47,30 @@
       "note": null
     }
   ],
-  "description": "A cold-blooded, heartless boss and a workaholic madman who never rests 365 days a year has lost his memory! \"Senior Managing Director, are you awake?\" \"Honey, my head hurts.\" Where did the ruthless 33-year-old boss go? A romantic comedy about 21-year-old Sa-heon, who clings to his secretary Ji-an and calls her 'honey'!\n\n[Original Novel](https://series.naver.com/novel/detail.series?productNo=13009866)\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854786), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14701336)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MjY4LmpwZw",
+  "description": "A cold-blooded, ruthless boss, a workaholic driven by madness who never takes a day off, has lost his memory! \n\n*“Executive, are you okay?”\n\n“Honey, my head hurts.”*\n\nWhere has the ruthless 33-year-old boss gone? A romantic comedy about 21-year-old Sa-Heon, who calls his secretary Ji-An “honey” and clings to her!\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzAwNS1zUUtWdHhDTG5DTGsuanBn",
   "total_chapters": "7",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-16T05:15:46.329Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-19T03:11:24.437Z",
+  "last_updated_at": "2026-09-20T04:46:02.286Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "89 (II)",
-    "Gu Jae-Na"
+    "89",
+    "Jae-Na Gu"
   ],
   "artists": [
-    "Director Lee"
+    "I-Sa Lee"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604097",
@@ -67,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217005,
+      "rating": null,
+      "url": "https://anilist.co/manga/217005"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "5voq1b3",
@@ -77,17 +92,40 @@
   },
   "tag_ids": [
     43,
+    158,
+    59,
+    283,
+    429,
+    108,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "93": "unweighted",
+    "108": "unweighted",
+    "158": "incidental",
+    "283": "incidental",
+    "428": "unweighted",
+    "429": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0329,
+    "popularityPercentile": 0.3461,
+    "fanFavouriteDiscoveryScore": 5.2137,
+    "fanFavouriteDiscoveryPercentile": 0.3389
   }
 }

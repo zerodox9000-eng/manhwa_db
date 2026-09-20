@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Guy I Saw in My Dream Is Amazing!",
-  "mangabaka_title": "The Guy I Saw in My Dream Is Amazing!",
+  "mangabaka_title": "Kkumeseo Bon Geunomi Daedanhae!",
   "native_title": "꿈에서 본 그놈이 대단해!",
-  "romanized_title": null,
+  "romanized_title": "Kkumeseo Bon Geunomi Daedanhae!",
   "titles": [
     {
       "language": "ko",
       "title": "꿈에서 본 그놈이 대단해!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Kkumeseo Bon Geunomi Daedanhae!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,29 +40,29 @@
       "note": null
     }
   ],
-  "description": "Gong Mujeong, a 28-year-old civil servant with an MBTI that’s TTTT to the core, suddenly develops a strange ability. Whenever her skin touches someone else’s, she has erotic dreams about that person, a phenomenon known as sex dreams. Things get even more complicated when her friend Kim Namsoon and the younger intern Choi Kang both start making moves on her. Before long, Mujeong unwillingly finds herself having erotic dreams about both of them... On one side is a cute, proper, virginal guy who is pure love personified. On the other is a sexy, smooth-talking younger man with dangerously irresistible charm. Caught between the two, Gong Mujeong struggles to keep her sanity in this wildly chaotic office romantic comedy!\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854132), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14626941)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MjU3LmpwZw",
+  "description": "Gong Mu-Jeong, a 28-year-old woman with an MBTI type of TTTT. One day, she begins having so-called “erotic dreams”—dreams in which she sees the sexual acts of anyone she comes into physical contact with. Then, her friend Nam-Sun and her intern Kang start making moves on her. Mu-Jeong finds herself unwittingly having erotic dreams about Nam-Sun and Kang... A wild office romantic comedy about Mu-Jeong’s struggles as she’s caught between a pure, cute, and chaste guy and a sexy, charismatic younger man!\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzAwMS1XTm1YelNJRldrc0EucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-18T01:34:14.945Z",
+  "last_updated_at": "2026-09-19T05:46:07.314Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "LICO"
   ],
   "artists": [
-    "Miji (미지)"
+    "Mi-Ji"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600871",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217001,
+      "rating": null,
+      "url": "https://anilist.co/manga/217001"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mv4cwp4",
@@ -69,17 +84,44 @@
   },
   "tag_ids": [
     43,
+    158,
+    59,
+    429,
+    108,
+    36,
     46,
-    41
+    41,
+    6,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "93": "unweighted",
+    "108": "unweighted",
+    "158": "incidental",
+    "428": "unweighted",
+    "429": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0329,
+    "popularityPercentile": 0.3461,
+    "fanFavouriteDiscoveryScore": 5.2137,
+    "fanFavouriteDiscoveryPercentile": 0.3389
   }
 }

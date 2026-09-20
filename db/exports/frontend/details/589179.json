@@ -2,8 +2,8 @@
   "id": 589179,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Healing With Deubly",
-  "mangabaka_title": "Deubeulliwa Healing-hamnida.",
+  "display_title": "A Druid’s Healing Days",
+  "mangabaka_title": "A Druid’s Healing Days",
   "native_title": "드블리와 힐링합니다.",
   "romanized_title": "Deubeulliwa Healing-hamnida.",
   "titles": [
@@ -19,8 +19,10 @@
     {
       "language": "en",
       "title": "A Druid’s Healing Days",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -50,7 +52,7 @@
       "language": "en",
       "title": "Healing With Deubly",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -80,7 +82,7 @@
   "total_chapters": "28",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-05-29",
@@ -90,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-19T02:10:05.915Z",
+  "last_updated_at": "2026-09-20T02:11:05.920Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -102,8 +104,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589179",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=11016",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=11016"
+    ]
   },
   "source": {
     "anilist": {
@@ -165,16 +169,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 211,
+    "popularity": 213,
     "favourites": 4,
     "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 1.8957,
-    "fanRatioPercentile": 71.0996,
-    "popularityPercentile": 52.1912,
-    "fanFavouriteDiscoveryScore": 66.5486,
-    "fanFavouriteDiscoveryPercentile": 74.8682
+    "fanFavouriteRaw": 1.8779,
+    "fanRatioPercentile": 70.6786,
+    "popularityPercentile": 52.4266,
+    "fanFavouriteDiscoveryScore": 66.237,
+    "fanFavouriteDiscoveryPercentile": 74.5799
   },
   "context": {
     "primaryProfile": "korean-corporate-regression",

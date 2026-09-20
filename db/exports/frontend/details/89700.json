@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.148Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-18T07:14:33.091Z",
+  "last_updated_at": "2026-09-20T00:27:14.045Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -107,6 +107,7 @@
   "tag_ids": [
     8,
     5892,
+    123,
     71,
     7053,
     59,
@@ -155,6 +156,7 @@
     "103": "core",
     "108": "unweighted",
     "109": "incidental",
+    "123": "unweighted",
     "163": "incidental",
     "287": "unweighted",
     "369": "core",
@@ -167,13 +169,13 @@
     "1286": "core",
     "2124": "core",
     "2137": "core",
-    "2138": "core",
+    "2138": "unweighted",
     "2397": "core",
     "2408": "core",
     "2437": "core",
     "2544": "core",
     "5892": "core",
-    "7053": "core",
+    "7053": "unweighted",
     "7332": "unweighted"
   },
   "stats": {
@@ -183,10 +185,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.2013,
-    "fanRatioPercentile": 77.7272,
-    "popularityPercentile": 72.6807,
-    "fanFavouriteDiscoveryScore": 76.7752,
-    "fanFavouriteDiscoveryPercentile": 84.03
+    "fanRatioPercentile": 77.7962,
+    "popularityPercentile": 72.7122,
+    "fanFavouriteDiscoveryScore": 76.8458,
+    "fanFavouriteDiscoveryPercentile": 84.0485
   },
   "context": {
     "primaryProfile": "office-romance",

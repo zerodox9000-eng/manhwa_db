@@ -3,14 +3,23 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Dr. A Doctor Who Sees a New Future",
-  "mangabaka_title": "Dr. Shin Seonhan: The Doctor Who Sees the Future",
+  "mangabaka_title": "Dr. Sin Seon-Han: Miraereul Boneun Uisa",
   "native_title": "Dr. 신선한 : 미래를 보는 의사",
   "romanized_title": "Dr. Shin Seonhan: The Doctor Who Sees the Future",
   "titles": [
     {
-      "language": "ko",
-      "title": "Dr.신선한 미래를 보는 의사",
+      "language": "en",
+      "title": "A Doctor Who Sees a New Future",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "Dr. 신선한 : 미래를 보는 의사",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,7 +34,7 @@
       "language": "ko-Latn",
       "title": "Dr. Shin Seonhan: The Doctor Who Sees the Future",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -36,6 +45,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Dr. Sin Seon-Han: Miraereul Boneun Uisa",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "th",
       "title": "หมออินเทิร์นผู้หยั่งรู้",
       "traits": [],
@@ -43,30 +61,30 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=846635), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13614486) \n\n**Official Translations:**    \n[Thai](https://www.webtoons.com/th/fantasy/the-doctor-who-sees-the-future/list?title_no=10213)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2RyLXNoaW4tc2Vvbmhhbi10aGUtZG9jdG9yLXdoby1zZWVzLXRoZS1mdXR1cmUtMS53ZWJwP3Q9MTc2ODgxNTkyMw",
+  "description": "The protagonist, Shin Seonhan, graduated from a provincial medical school that has since been shut down, yet manages to land an internship at Yeonguk University Hospital, one of the best hospitals in Korea. One day, after being looked down on for coming from a provincial university, he suddenly begins to see the future of his patients. Now that he has gained the ability to see the future, his arduous life as an intern begins—one where he cannot let his guard down for even a moment. \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzAxNy11VmRBdWwyeWM4VVouanBn",
   "total_chapters": "46",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-01-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-18T22:01:36.253Z",
+  "last_updated_at": "2026-09-19T17:46:04.907Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jeonjakga & Yoon D",
+    "Jeon-jakga & Yun D",
     "Jepigalu"
   ],
   "artists": [
-    "Kim Ki-Baek"
+    "Ki-Baek Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/576290",
@@ -74,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217017,
+      "rating": null,
+      "url": "https://anilist.co/manga/217017"
+    },
     "animeplanet": {
       "id": "dr-shin-seonhan-the-doctor-who-sees-the-future",
       "rating": 78,
@@ -90,6 +112,7 @@
     38,
     4421,
     1069,
+    58,
     2418,
     2428,
     2079,
@@ -110,20 +133,54 @@
     1033,
     350,
     4993,
+    7,
     93,
     57,
     428,
     7332
   ],
+  "tag_weights": {
+    "6": "defining",
+    "7": "defining",
+    "22": "defining",
+    "31": "defining",
+    "38": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "74": "unweighted",
+    "75": "core",
+    "93": "unweighted",
+    "350": "core",
+    "408": "unweighted",
+    "428": "unweighted",
+    "676": "core",
+    "760": "core",
+    "1033": "core",
+    "1069": "core",
+    "1080": "core",
+    "1594": "core",
+    "2079": "core",
+    "2418": "core",
+    "2428": "core",
+    "3026": "core",
+    "3928": "core",
+    "4421": "core",
+    "4993": "core",
+    "5202": "core",
+    "6977": "core",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0329,
+    "popularityPercentile": 0.1226,
+    "fanFavouriteDiscoveryScore": 5.1329,
+    "fanFavouriteDiscoveryPercentile": 0.1226
   },
   "context": {
     "primaryProfile": "medical-career",

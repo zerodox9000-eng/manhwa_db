@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Not Me",
-  "mangabaka_title": "Note Me",
+  "mangabaka_title": "Knot Me",
   "native_title": "노트 미",
-  "romanized_title": "Note Me",
+  "romanized_title": "Knot Me",
   "titles": [
     {
       "language": "ko",
@@ -21,6 +21,15 @@
       "title": "Enviame un mensaje",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Knot Me",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
       "note": null
     },
     {
@@ -55,7 +64,7 @@
   },
   "first_seen_at": "2026-08-17T02:14:25.809Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-19T01:31:06.251Z",
+  "last_updated_at": "2026-09-20T01:32:03.764Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -119,9 +128,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 4.3478,
-    "fanRatioPercentile": 95.5743,
-    "popularityPercentile": 14.7571,
-    "fanFavouriteDiscoveryScore": 37.5107,
-    "fanFavouriteDiscoveryPercentile": 41.7298
+    "fanRatioPercentile": 95.5866,
+    "popularityPercentile": 14.8121,
+    "fanFavouriteDiscoveryScore": 37.6202,
+    "fanFavouriteDiscoveryPercentile": 41.8476
   }
 }

@@ -3,15 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Lovers Walking on a Clockwork",
-  "mangabaka_title": "Lovers Walking on a Clockwork",
+  "mangabaka_title": "Taeyeom Wireul Geonneun Yeonin",
   "native_title": "태엽 위를 걷는 연인",
-  "romanized_title": null,
+  "romanized_title": "Taeyeom Wireul Geonneun Yeonin",
   "titles": [
     {
       "language": "ko",
       "title": "태엽 위를 걷는 연인",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Clockwork Lovers",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Lovers on a Clockwork",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -34,31 +50,40 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Taeyeom Wireul Geonneun Yeonin",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Stripped of her crown and locked in an underground cell after a bloody revolution, Princess Lien believed her life was over. Three years later, she is pulled from the dark and forced into an arranged marriage with the powerful Duke Lishian of Roche-Noir. Haunted by the stigmas of her fallen past, Lien retreats into a shell of trauma. Yet, through Lishian’s unwavering devotion and quiet warmth, she discovers that love and trust are far stronger than fate. \n\nA breathtaking story of healing, political intrigue, and finding home in each other's arms.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854367), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14653825)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MjczLmpwZw",
-  "total_chapters": "5",
+  "description": "Three years after the revolution toppled the monarchy, Princess Lien, who had been confined underground, enters into a political marriage with Duke Lishian of Roche-Noire by order of the Emperor. Lien, who had always retreated into the abyss of her own making whenever others’ judgments were directed at her, finally comes face to face with her true self through her love and solidarity with him, and realizes for the first time that promises and trust are stronger than fate, and that they were each other’s most radiant homecoming—having walked side by side while gazing at the same star.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjk5NS1icWVKYVlpeko4ZGEuanBn",
+  "total_chapters": "6",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-12",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-13T05:21:39.137Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-18T17:51:52.347Z",
+  "last_updated_at": "2026-09-20T05:06:41.989Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Arrnuni"
+    "Areununi"
   ],
   "artists": [
-    "Arrnuni"
+    "Areununi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/603601",
@@ -66,7 +91,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216995,
+      "rating": null,
+      "url": "https://anilist.co/manga/216995"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6be87h8",
@@ -76,18 +105,38 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
+    6,
     9,
-    45
+    45,
+    424,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "36": "defining",
+    "43": "defining",
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "424": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0329,
+    "popularityPercentile": 1.8389,
+    "fanFavouriteDiscoveryScore": 5.7797,
+    "fanFavouriteDiscoveryPercentile": 1.7307
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Vivaldi",
-  "mangabaka_title": "My Vivaldi",
+  "mangabaka_title": "Naui Vivaldi",
   "native_title": "나의 비발디",
-  "romanized_title": null,
+  "romanized_title": "Naui Vivaldi",
   "titles": [
     {
       "language": "ko",
       "title": "나의 비발디",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,31 +22,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Naui Vivaldi",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "\"I want it... Teach me your talent.\" \n\nYun Seol-Ah, a pianist who rose to the top by stealing a genius's talent. And Woo Ji-Hwan, the abandoned genius. After releasing a new song on her own, Seol-Ah falls from grace, and Ji-Hwan, determined to have his revenge, appears before her once again.\n\n\"This time, it's my turn to have you.\"\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854344), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14580181)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3MjA3LnBuZw",
+  "description": "*“I want it... Teach me your talent.”*\n\nYun Seol-A, a pianist who stole a genius’s talent to rise to the top. And U Ji-Hwan, the abandoned genius. After releasing a new song on her own, Seol-A’s career takes a nosedive, and Ji-Hwan, determined to exact revenge, reappears before her.\n\nThis time, it’s my turn to have you.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzAwMi00VUIzbUd2RTNQdmYuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-05",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-06T05:07:52.221Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-18T16:44:20.521Z",
+  "last_updated_at": "2026-09-19T19:26:17.673Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Baechongi"
+    "Agison"
   ],
   "artists": [
-    "Tilda123"
+    "Tilda 123"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602121",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217002,
+      "rating": null,
+      "url": "https://anilist.co/manga/217002"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "b9uchei",
@@ -62,19 +77,40 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
     31,
+    27,
     18,
-    9
+    9,
+    227,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "18": "defining",
+    "27": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "227": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0329,
+    "popularityPercentile": 0.6851,
+    "fanFavouriteDiscoveryScore": 5.3382,
+    "fanFavouriteDiscoveryPercentile": 0.649
   }
 }
