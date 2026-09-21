@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Silver Eyes Sparkled",
-  "mangabaka_title": "The Silver Eyes Sparkled",
+  "mangabaka_title": "Eunbin Nuni Banjjagideon",
   "native_title": "은빛 눈이 반짝이던",
-  "romanized_title": null,
+  "romanized_title": "Eunbin Nuni Banjjagideon",
   "titles": [
     {
       "language": "ko",
       "title": "은빛 눈이 반짝이던",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Eunbin Nuni Banjjagideon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,29 +47,29 @@
       "note": null
     }
   ],
-  "description": "Five years ago, my first love, who vanished without a trace, has returned with a group of suspicious friends. Something about him has changed, and secrets are beginning to unfold one by one. Our story begins anew at the 'Milky Way' guesthouse. Will we be able to get through this summer safely?\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853653), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14567684)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1OTg1LmpwZw",
+  "description": "Five years ago, my first love disappeared without a trace, but now he’s back with a suspicious group of friends. He seems different somehow. And secrets are slowly coming to light, one by one. Our story begins anew at the “Milky Way” guesthouse. Will we make it through this summer unscathed?\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzAwNi00Sjc0QWk1b0RCMmQuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-18",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-20T02:09:32.551Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-16T10:06:51.202Z",
+  "last_updated_at": "2026-09-20T16:22:34.074Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Joyeun"
+    "I-Eun Jo"
   ],
   "artists": [
-    "Joyeun"
+    "I-Eun Jo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600533",
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217006,
+      "rating": null,
+      "url": "https://anilist.co/manga/217006"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "eztnruf",
@@ -76,17 +91,32 @@
   },
   "tag_ids": [
     43,
+    108,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 10,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0432,
+    "popularityPercentile": 5.6144,
+    "fanFavouriteDiscoveryScore": 7.4241,
+    "fanFavouriteDiscoveryPercentile": 5.2685
   }
 }

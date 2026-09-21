@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Dazzling Male Friend",
-  "mangabaka_title": "Dazzling Male Friend",
+  "mangabaka_title": "Ajjilhan Namsachin",
   "native_title": "아찔한 남사친",
-  "romanized_title": null,
+  "romanized_title": "Ajjilhan Namsachin",
   "titles": [
     {
       "language": "ko",
       "title": "아찔한 남사친",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ajjilhan Namsachin",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,30 +40,30 @@
       "note": null
     }
   ],
-  "description": "\"Wanna date for just six months?\" \n\nExhausted by her father's constant pressure to go on arranged dates, Chaeyun plans to study abroad in six months and proposes a contract relationship to her childhood friend, Taesan. Looking at Chaeyun's sparkling eyes, Taesan smiled meaningfully and said, \"Well, there are a lot of things I want to do with a lover... Can you handle it?\" \n\n\"Of course! Just name it.\" \n\n\"Alright. For six months, in exchange for being your boyfriend, I'm going to do everything a lover can do.\" \n\nAt that moment, Chaeyun became the temporary lover of Taesan, the male friend who used to feel like family.\n\n**Original Webtoon:**    \nR19: [KakaoPage](https://page.kakao.com/content/70271246/), [Daum](https://webtoon.kakao.com/content/%EC%95%84%EC%B0%94%ED%95%9C-%EB%82%A8%EC%82%AC%EC%B9%9C-19%EC%84%B8-%EC%99%84%EC%A0%84%ED%8C%90/4964)   \nR15: [KakaoPage](https://page.kakao.com/content/70270854/)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2RhenpsaW5nLW1hbGUtZnJpZW5kLTEud2VicD90PTE3ODgwMzgzNTQ",
+  "description": "*“Shall we date for just six months?”*\n\nExhausted by her father’s constant pressure to met, Chae-Yun proposes a contract relationship to her childhood friend, Tae-San, while planning to go on an overseas study trip in six months. Tae-San gazed at Chae-Yun, whose eyes were sparkling, and gave a meaningful smile before saying, “But there are so many things I want to do with a lover... Do you think you can handle it?” “Of course! Just tell me anything.” “Alright. In exchange for being your lover for six months, I’ll do everything a lover can do.” It was the moment Chae-Yun became the limited-time lover of Tae-San, her male friend who was like family.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzA3Ni1GM0ticXdtOHBJMUkuanBn",
   "total_chapters": "22",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-30T02:05:35.290Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-16T20:52:44.190Z",
+  "last_updated_at": "2026-09-20T19:06:42.009Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Cha Su-in",
-    "Jeong Hae-Jin",
-    "Metatoon"
+    "Hae-Jin Jeong",
+    "Su-In Cha"
   ],
   "artists": [
+    "Metatoon",
     "Sapsal"
   ],
   "links": {
@@ -61,7 +72,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217076,
+      "rating": null,
+      "url": "https://anilist.co/manga/217076"
+    },
     "animeplanet": {
       "id": "dazzling-male-friend",
       "rating": null,
@@ -76,6 +91,8 @@
   "tag_ids": [
     43,
     74,
+    108,
+    622,
     41,
     6,
     9,
@@ -84,14 +101,29 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "622": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0432,
+    "popularityPercentile": 0.1369,
+    "fanFavouriteDiscoveryScore": 5.1397,
+    "fanFavouriteDiscoveryPercentile": 0.1369
   }
 }

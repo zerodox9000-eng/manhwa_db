@@ -2,15 +2,17 @@
   "id": 89000,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Dust Lump Jjangdeok",
-  "mangabaka_title": "Dust Lump Jjangdeok",
+  "display_title": "Meonji Deongeori Jjang-Deok",
+  "mangabaka_title": "Meonji Deongeori Jjang-Deok",
   "native_title": "먼지 덩어리 짱덕",
   "romanized_title": "Dust Lump Jjangdeok",
   "titles": [
     {
       "language": "ko",
       "title": "먼지 덩어리 짱덕",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,7 +20,7 @@
       "language": "ko-Latn",
       "title": "Dust Lump Jjangdeok",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -27,31 +29,40 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Meonji Deongeori Jjang-Deok",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Daum](https://webtoon.kakao.com/content/%EB%A8%BC%EC%A7%80-%EB%8D%A9%EC%96%B4%EB%A6%AC-%EC%A7%B1%EB%8D%95/4288), [KakaoPage](https://page.kakao.com/content/65523155)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDY4NjE0LmpwZw",
+  "description": "A couple who started living together before marriage welcomed a tiny baby! This small, adorable creature is going to become the world's biggest cat...? Everyone, just look how cute our little one is! The strange and delightful cohabitation life of a novice cat butler couple and their Maine Coon, Jang-Deok.\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzA3Ny1acGZMbUNWOUtUclMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
+    "start_date": "2024-11-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-04-08T08:59:42.221Z",
+  "last_updated_at": "2026-09-21T04:09:04.288Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Pennac"
+    "Pen-Nak"
   ],
   "artists": [
-    "Pennac"
+    "Pen-Nak"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/89000",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217077,
+      "rating": null,
+      "url": "https://anilist.co/manga/217077"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "tefhmgz",
@@ -69,17 +84,31 @@
   },
   "tag_ids": [
     43,
-    7
+    515,
+    228,
+    7,
+    282,
+    57
   ],
+  "tag_weights": {
+    "7": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "228": "unweighted",
+    "282": "unweighted",
+    "515": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0432,
+    "popularityPercentile": 0.1369,
+    "fanFavouriteDiscoveryScore": 5.1397,
+    "fanFavouriteDiscoveryPercentile": 0.1369
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -2,15 +2,17 @@
   "id": 604059,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Hasanim, Binu Juweojushigess-seubnikka?",
-  "mangabaka_title": "Hasanim, Binu Juweojushigess-seubnikka?",
+  "display_title": "Sergeant, could you pick up the soap?",
+  "mangabaka_title": "Hasanim, Binu Juwojusigetseumnikka?",
   "native_title": "하사님, 비누 주워주시겠습니까?",
   "romanized_title": "Hasanim, Binu Juweojushigess-seubnikka?",
   "titles": [
     {
       "language": "ko",
       "title": "하사님, 비누 주워주시겠습니까?",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,33 +20,49 @@
       "language": "ko-Latn",
       "title": "Hasanim, Binu Juweojushigess-seubnikka?",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hasanim, Binu Juwojusigetseumnikka?",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Sergeant, could you pick up the soap?",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/soap_sergeant)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MDY5LmpwZw",
+  "description": "The Republic of Korea Army has approximately 320,000 members. What are the odds of running into an ex-boyfriend you broke up with four years ago among so many units? Corporal Chae Min-Hyeok, a non-commissioned officer, has just been assigned to 2nd Company. While wandering around lost, he stumbles into a warehouse and witnesses his ex-boyfriend, Seo Tae-Kyung, whom he broke up with four years ago, receiving oral sex. Min-Hyeok tries to make a quick escape, claiming he didn’t mean to interrupt their intimate moment, but Tae-Kyung, as if he’d been waiting for this, grabs him without mercy and stops him in his tracks.\n\n*“If you’re that sorry, why don’t you do it for me?”*\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzAzMC05QWVNSWNKTVpFUG0ucG5n",
   "total_chapters": "1",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-13",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-16T05:15:46.329Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-19T05:53:15.409Z",
+  "last_updated_at": "2026-09-21T03:46:26.947Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yahee"
+    "Yahi"
   ],
   "artists": [
-    "Yahee"
+    "Yahi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604059",
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217030,
+      "rating": null,
+      "url": "https://anilist.co/manga/217030"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "q7jmcjr",
@@ -62,17 +84,36 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    230,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "230": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0432,
+    "popularityPercentile": 1.7658,
+    "fanFavouriteDiscoveryScore": 5.7528,
+    "fanFavouriteDiscoveryPercentile": 1.6577
   }
 }
