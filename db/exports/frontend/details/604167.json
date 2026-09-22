@@ -4,46 +4,64 @@
   "type": "manhwa",
   "display_title": "Do or Die!",
   "mangabaka_title": "Do or Die!",
-  "native_title": null,
-  "romanized_title": null,
+  "native_title": "Do or Die!",
+  "romanized_title": "Do or Die!",
   "titles": [
     {
-      "language": "en",
+      "language": "ko",
       "title": "Do or Die!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Do or Die!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Heekyung has long harbored a crush on Oh Taeju, the boyfriend of her twin sister and recessive Omega, Kang Heewon.\n\nShe graduated high school without ever confessing her feelings, thinking she would never see him again.\n\nHowever, an unexpected connection arises when Heewon and Taeju start dating.\n\nWhile she suffers watching the couple from the sidelines,\n\nshe also thought it was good to be able to see Taeju, even if only in this way.\n\n“What are you doing right now?”\n\n“Ah, uh, how....”\n\n“You told me the door lock password. —Heewon.”\n\nThen one day, she ends up sleeping with Taeju, who mistakes her for Heewon.\n\nFrom that moment on, Heekyung begins to act as Heewon in front of Taeju, deceiving both of them.\n\nHowever, pretending to be the Omega Heewon while being a Beta is not exactly smooth sailing...\n\n“Why, lately, it feels like I’m not getting wet as easily?”\n\n[Original Novel](https://ridibooks.com/books/2922000274)  \n[Original Webtoon](https://ridibooks.com/books/297092465)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MTY4LnBuZw",
-  "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzE1Mi1nY1JnUE9GNnFtMVcuanBn",
+  "total_chapters": "9",
+  "status": "completed",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-09-15",
+    "end_date": "2026-09-15",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-17T05:36:53.421Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-20T07:29:36.665Z",
+  "last_updated_at": "2026-09-21T22:06:30.218Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Goyohi"
+    "Polka",
+    "Yo-Hi Go"
   ],
-  "artists": [],
+  "artists": [
+    "Hi"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/604167",
     "read_en": null,
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217152,
+      "rating": null,
+      "url": "https://anilist.co/manga/217152"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ndo8lzy",
@@ -53,17 +71,34 @@
   },
   "tag_ids": [
     15,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "unweighted",
+    "15": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0945,
+    "popularityPercentile": 0.1585,
+    "fanFavouriteDiscoveryScore": 5.1557,
+    "fanFavouriteDiscoveryPercentile": 0.1585
   }
 }

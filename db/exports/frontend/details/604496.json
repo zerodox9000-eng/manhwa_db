@@ -5,19 +5,23 @@
   "display_title": "In Deep Blue",
   "mangabaka_title": "In Deep Blue",
   "native_title": "인 딥 블루",
-  "romanized_title": null,
+  "romanized_title": "In Deep Blue",
   "titles": [
     {
       "language": "ko",
       "title": "인 딥 블루",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "In Deep Blue",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,28 +34,28 @@
     }
   ],
   "description": "Captain Roan is assigned a top-secret mission by his superiors. The crux of the mission is to track down a specific individual, X. Whilst scouring his intelligence networks, Roan uncovers an unexpected lead. It turns out that the mercenary Max has a direct connection to X. Without hesitation, Roan makes contact with Max, who, in exchange for a suitable reward, tells Roan, “open yourself up to me until I’m satisfied.” With no other options, Roan accepts the terms, but...\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/5731000154)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4NDU3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzEzMC1neXBLVTVObFg3bHouanBn",
   "total_chapters": "11",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-19",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-20T05:23:16.416Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-20T16:58:35.004Z",
+  "last_updated_at": "2026-09-21T16:50:40.485Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "LEE Yeon Ji"
+    "Yeon-Ji Lee"
   ],
   "artists": [
-    "LEE Yeon Ji"
+    "Yeon-Ji Lee"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604496",
@@ -59,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217130,
+      "rating": null,
+      "url": "https://anilist.co/manga/217130"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "eod3kjd",
@@ -68,18 +76,37 @@
     }
   },
   "tag_ids": [
+    58,
     41,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "41": "defining",
+    "57": "unweighted",
+    "58": "defining",
+    "93": "unweighted",
+    "180": "defining",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0945,
+    "popularityPercentile": 0.1585,
+    "fanFavouriteDiscoveryScore": 5.1557,
+    "fanFavouriteDiscoveryPercentile": 0.1585
   }
 }

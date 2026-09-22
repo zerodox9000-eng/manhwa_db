@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "To Your Wingman",
-  "mangabaka_title": "To Your Wingman",
+  "mangabaka_title": "Neoui Wingman-ege",
   "native_title": "너의 윙맨에게",
-  "romanized_title": null,
+  "romanized_title": "Neoui Wingman-ege",
   "titles": [
     {
       "language": "ko",
       "title": "너의 윙맨에게",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Neoui Wingman-ege",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,30 +34,30 @@
     }
   ],
   "description": "Dating is strictly banned at the Air Force Academy, and Senior Cadet Lim Cheong-ha enforces the rules with an iron fist. But her strictly disciplined life crashes down when a mysterious cadet drops a bizarre confession: **\"I won't kill you in this life.\"**\n\nApparently, they were lovers in a past life—and he was the one who ended her. Cheong-ha has only one response to his dramatic, angst-ridden prophecy: *Shut up and just confess already, you lunatic. Before I make sure you die first.*\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/70436988/), [Daum](https://webtoon.kakao.com/content/%EB%84%88%EC%9D%98-%EC%9C%99%EB%A7%A8%EC%97%90%EA%B2%8C/4990)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MzgwLnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzA4My1WMkxTNkwwQnJqQkUucG5n",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-18",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-15T05:19:50.254Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-20T18:19:16.095Z",
+  "last_updated_at": "2026-09-22T02:06:55.728Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Dry Fish Girl"
+    "Cha-Yang Son",
+    "Geoneomullyeo",
+    "Sotteok"
   ],
   "artists": [
-    "Sat-ro",
-    "Son Cha-Yang",
-    "Sotteok"
+    "Satro"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604002",
@@ -54,7 +65,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217083,
+      "rating": 98,
+      "url": "https://anilist.co/manga/217083"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "j56wh1y",
@@ -64,23 +79,52 @@
   },
   "tag_ids": [
     43,
+    59,
     2430,
     2441,
     2438,
     2413,
+    125,
+    164,
+    108,
     22,
     6,
     31,
-    9
+    32,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "22": "defining",
+    "31": "defining",
+    "32": "unweighted",
+    "43": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "125": "unweighted",
+    "164": "unweighted",
+    "428": "unweighted",
+    "2413": "core",
+    "2430": "core",
+    "2438": "core",
+    "2441": "core"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 13,
+    "favourites": 1,
+    "meanScore": 98
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 7.6923,
+    "fanRatioPercentile": 99.1501,
+    "popularityPercentile": 7.9444,
+    "fanFavouriteDiscoveryScore": 26.5753,
+    "fanFavouriteDiscoveryPercentile": 29.1919
   }
 }

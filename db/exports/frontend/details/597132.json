@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-07-22T04:11:09.134Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-21T02:22:08.390Z",
+  "last_updated_at": "2026-09-22T02:22:58.963Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -111,7 +111,11 @@
       "rating": 80,
       "url": "https://anilist.co/manga/214315"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "chronicles-of-the-demon-slaying-cultivator",
+      "rating": 82,
+      "url": "https://www.anime-planet.com/manga/chronicles-of-the-demon-slaying-cultivator"
+    },
     "mangaupdates": {
       "id": "sdoxxzb",
       "rating": 71,
@@ -121,6 +125,7 @@
   "tag_ids": [
     8,
     58,
+    74,
     36,
     22,
     160,
@@ -133,7 +138,8 @@
     505,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "tag_weights": {
     "5": "defining",
@@ -146,23 +152,25 @@
     "45": "defining",
     "57": "unweighted",
     "58": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
     "160": "incidental",
     "262": "unweighted",
     "428": "unweighted",
-    "505": "unweighted"
+    "505": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1483,
-    "favourites": 22,
+    "popularity": 1497,
+    "favourites": 23,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4835,
-    "fanRatioPercentile": 60.4685,
-    "popularityPercentile": 85.5495,
-    "fanFavouriteDiscoveryScore": 60.213,
-    "fanFavouriteDiscoveryPercentile": 68
+    "fanFavouriteRaw": 1.5364,
+    "fanRatioPercentile": 62.0931,
+    "popularityPercentile": 85.6742,
+    "fanFavouriteDiscoveryScore": 61.8334,
+    "fanFavouriteDiscoveryPercentile": 69.6053
   },
   "context": {
     "primaryProfile": "murim-wuxia",
