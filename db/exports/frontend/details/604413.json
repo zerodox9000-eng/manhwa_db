@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Fight Is Too Easy",
-  "mangabaka_title": "The Fight Is Too Easy",
+  "mangabaka_title": "Ssaumi Neomu Swipda",
   "native_title": "싸움이 너무 쉽다",
-  "romanized_title": null,
+  "romanized_title": "Ssaumi Neomu Swipda",
   "titles": [
     {
       "language": "ko",
       "title": "싸움이 너무 쉽다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Ssaumi Neomu Swipda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Fight Is Too Easy",
       "traits": [],
@@ -44,26 +55,26 @@
     }
   ],
   "description": "Lee Jae-ha has lived his entire life avoiding fights. With no particular dreams or talents, Jae-ha suddenly realizes he possesses an incredible natural talent for martial arts. Thinking, 'What's the use of being good at fighting...', he shows no interest despite his friend Lim Myung-in's persistent encouragement to try mixed martial arts. \n\nWithout Jae-ha knowing, Myung-in secretly applies him to 'Never Back Down', a reality program that searches for hidden rough diamonds in martial arts...\n\n**Original Novel:**  \n[Naver Series](https://series.naver.com/novel/detail.series?productNo=12729583), [Munpia](https://novel.munpia.com/463728)  \n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855035), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14729337)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4NDAxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjk1OS0wSVJZbW4xWk5BQmkuanBn",
   "total_chapters": "6",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-18",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-19T05:03:46.247Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-21T18:23:09.742Z",
+  "last_updated_at": "2026-09-22T18:16:48.607Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Bluetiful",
-    "Jeongsan"
+    "Jeongsang"
   ],
   "artists": [
     "OFOZ"
@@ -74,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216959,
+      "rating": 50,
+      "url": "https://anilist.co/manga/216959"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4r2x1z9",
@@ -84,16 +99,30 @@
   },
   "tag_ids": [
     38,
-    39
+    39,
+    30,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "30": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 20,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 50
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0757,
+    "popularityPercentile": 12.8303,
+    "fanFavouriteDiscoveryScore": 11.3844,
+    "fanFavouriteDiscoveryPercentile": 11.7935
   }
 }

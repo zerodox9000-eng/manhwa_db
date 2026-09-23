@@ -2,10 +2,10 @@
   "id": 114975,
   "state": "active",
   "type": "manhwa",
-  "display_title": "WET SAND",
-  "mangabaka_title": "WET SAND",
-  "native_title": "웻 샌드",
-  "romanized_title": "WETSAND",
+  "display_title": "Wet Sand",
+  "mangabaka_title": "Wet Sand",
+  "native_title": "Wet Sand",
+  "romanized_title": "Wet Sand",
   "titles": [
     {
       "language": "ko",
@@ -25,14 +25,25 @@
     },
     {
       "language": "ko",
-      "title": "Wet Sand(웻샌드)",
-      "traits": [],
+      "title": "Wet Sand",
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Wet Sand",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
-      "title": "WET SAND",
+      "title": "Wet Sand",
       "traits": [
         "official"
       ],
@@ -40,12 +51,10 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "WETSAND",
-      "traits": [
-        "native"
-      ],
-      "is_primary": true,
+      "language": "ko",
+      "title": "Wet Sand(웻샌드)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -92,7 +101,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.172Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-22T01:04:33.373Z",
+  "last_updated_at": "2026-09-23T01:05:21.865Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -315,16 +324,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 3409,
+    "popularity": 3412,
     "favourites": 101,
     "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 2.9627,
-    "fanRatioPercentile": 88.512,
-    "popularityPercentile": 93.3305,
-    "fanFavouriteDiscoveryScore": 88.316,
-    "fanFavouriteDiscoveryPercentile": 93.1936
+    "fanFavouriteRaw": 2.9601,
+    "fanRatioPercentile": 88.5881,
+    "popularityPercentile": 93.3329,
+    "fanFavouriteDiscoveryScore": 88.392,
+    "fanFavouriteDiscoveryPercentile": 93.1961
   },
   "context": {
     "primaryProfile": "business-career-regression",

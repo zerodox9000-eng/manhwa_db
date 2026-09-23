@@ -2,7 +2,7 @@
   "id": 604000,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Heart Is Blue",
+  "display_title": "Heart Is Blue",
   "mangabaka_title": "Heart-neun Parang",
   "native_title": "하트는 파랑",
   "romanized_title": "Heart-neun Parang",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Heart Is Blue",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -29,7 +36,7 @@
       "language": "en",
       "title": "The Heart Is Blue",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-09-15T05:19:50.254Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-21T18:26:10.755Z",
+  "last_updated_at": "2026-09-22T16:22:18.393Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -100,15 +107,15 @@
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 13,
+    "popularity": 17,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0945,
-    "popularityPercentile": 7.9444,
-    "fanFavouriteDiscoveryScore": 8.6023,
-    "fanFavouriteDiscoveryPercentile": 7.4042
+    "fanRatioPercentile": 32.0757,
+    "popularityPercentile": 10.7063,
+    "fanFavouriteDiscoveryScore": 10.1203,
+    "fanFavouriteDiscoveryPercentile": 9.9143
   }
 }
