@@ -15,8 +15,26 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Fragrant Magician",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Fragrant Magician",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja-Latn",
+      "title": "Mahoutsukai no Kaori wa Koutei no Konomi desu",
       "traits": [
         "native"
       ],
@@ -33,27 +51,29 @@
     {
       "language": "ja",
       "title": "魔法使いの香りは皇帝の好みです",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Emperor Carlos Afforny suffers from an awful curse that causes him to smell a foul stench from everything and everyone at all times. In a desperate attempt to break the ever-worsening curse, he summons Ersala, the apprentice of the Grand Witch, to the imperial palace. However, lacking experience, she fails to fully lift the curse leading to the stench vanishing for the emperor but only when Ersala is within his vicinity. Moreover, with Ersala being able to use magic only once a year, it seems she is tied to the emperor, almost quite literally, until she can attempt to lift the curse again.\n\n**Official Translations:**  \n[English](https://www.tappytoon.com/en/book/fragrant-magician), [French](https://www.delitoon.com/detail/daf_1000793), [Japanese](https://jp.piccoma.com/web/product/171438)",
+  "description": "Emperor Carlos Afforny suffers from an awful curse that causes him to smell a foul stench from everything and everyone at all times. In a desperate attempt to break the ever-worsening curse, he summons Ersala, the apprentice of the Grand Witch, to the imperial palace. However, lacking experience, she fails to fully lift the curse leading to the stench vanishing for the emperor but only when Ersala is within his vicinity. Moreover, with Ersala being able to use magic only once a year, it seems she is tied to the emperor, almost quite literally, until she can attempt to lift the curse again.\n\n(Source: Tappytoon)\n\n*Note: This work pre-released in English before releasing in Japanese.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvNzM1MzUvcG9zdGVyX2ltYWdlL2NjZjY1Yzc2ZjUxY2FjZmZlOGRmMDJkN2Y1YTMyZTc5LmpwZw",
   "total_chapters": "54",
-  "status": "releasing",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2024-04-21",
+    "end_date": "2025-06-20",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:48:24.824Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-21T18:04:31.173Z",
+  "last_updated_at": "2026-09-23T21:06:28.038Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -69,7 +89,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217236,
+      "rating": null,
+      "url": "https://anilist.co/manga/217236"
+    },
     "animeplanet": {
       "id": "fragrant-magician",
       "rating": 72,
@@ -95,15 +119,31 @@
     428,
     7332
   ],
+  "tag_weights": {
+    "9": "defining",
+    "22": "unweighted",
+    "36": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "128": "unweighted",
+    "394": "incidental",
+    "428": "unweighted",
+    "497": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0783,
+    "popularityPercentile": 0.0504,
+    "fanFavouriteDiscoveryScore": 5.1143,
+    "fanFavouriteDiscoveryPercentile": 0.0504
   },
   "context": {
     "primaryProfile": "euro-fantasy",
