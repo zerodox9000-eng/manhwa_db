@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-09-20T05:23:16.416Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-23T16:33:20.779Z",
+  "last_updated_at": "2026-09-24T17:15:44.996Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -65,17 +65,20 @@
   "source": {
     "anilist": {
       "id": 217130,
-      "rating": 85,
+      "rating": 80,
       "url": "https://anilist.co/manga/217130"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "eod3kjd",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/eod3kjd"
     }
   },
   "tag_ids": [
+    1483,
+    1378,
+    1387,
     58,
     41,
     180,
@@ -95,18 +98,21 @@
     "58": "defining",
     "93": "unweighted",
     "180": "defining",
-    "428": "unweighted"
+    "428": "unweighted",
+    "1378": "unweighted",
+    "1387": "unweighted",
+    "1483": "unweighted"
   },
   "stats": {
-    "popularity": 11,
+    "popularity": 16,
     "favourites": null,
-    "meanScore": 85
+    "meanScore": 80
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.0783,
-    "popularityPercentile": 5.536,
-    "fanFavouriteDiscoveryScore": 7.3949,
-    "fanFavouriteDiscoveryPercentile": 5.1976
+    "fanRatioPercentile": 32.0527,
+    "popularityPercentile": 9.3748,
+    "fanFavouriteDiscoveryScore": 9.3611,
+    "fanFavouriteDiscoveryPercentile": 8.7416
   }
 }

@@ -3,14 +3,32 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Overtake (ALTTTA)",
-  "mangabaka_title": "Overtake (ALTTTA)",
-  "native_title": "冠军禁区",
-  "romanized_title": null,
+  "mangabaka_title": "Overtake",
+  "native_title": "오버테이크",
+  "romanized_title": "Overtake",
   "titles": [
+    {
+      "language": "ko",
+      "title": "오버테이크",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
     {
       "language": "ko",
       "title": "오버테이크 (ALTTTA)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Overtake",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,22 +54,22 @@
       "note": null
     }
   ],
-  "description": "The rush of victory is followed by a private ritual that popular racers have grown accustomed to. For him, sex is nothing more than a casual after-party once the race is over. But just as he is about to find another hot, uncomplicated partner, someone from his childhood steps in. Now all grown up and surprisingly attractive, he seems perfect for a one-night fling until he makes an unexpected demand: “Do it with me. Only me.”\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/ovtake)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MzcwLmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "The surge of euphoria the moment he grasped the winning trophy, followed by the secret routine that ensued. For popular racer Do Yeon-Ho, sex was merely a light after-party that followed a race. Just as he was about to get started with his usual light and passionate partner, Yeon-Ho was blocked by Kael, the little kid who had been annoyingly following him around since childhood. He had thought Kael looked quite cute since he had grown up so well, so he had planned to casually treat him for just one night...\n\n *\"Do that kind of thing only with me.\"*\n\nSomehow, it seemed this guy never intended to stop at just one night from the start.\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzE1Ni1qSmE4YUx1OGJxb1UucG5n",
+  "total_chapters": "8",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-09-15",
+    "end_date": "2026-09-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-19T05:03:46.247Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-23T18:00:02.742Z",
+  "last_updated_at": "2026-09-24T20:39:07.090Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217156,
+      "rating": null,
+      "url": "https://anilist.co/manga/217156"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ukh304c",
@@ -75,18 +97,41 @@
     }
   },
   "tag_ids": [
+    1316,
     46,
+    180,
     16,
-    31
+    6,
+    31,
+    9,
+    30,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "6": "unweighted",
+    "9": "unweighted",
+    "16": "defining",
+    "30": "unweighted",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted",
+    "1316": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0527,
+    "popularityPercentile": 1.1368,
+    "fanFavouriteDiscoveryScore": 5.5112,
+    "fanFavouriteDiscoveryPercentile": 1.072
   }
 }

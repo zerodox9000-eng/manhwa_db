@@ -2,8 +2,8 @@
   "id": 581400,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Club Knights",
-  "mangabaka_title": "Mongdungigisa Dan",
+  "display_title": "Batter Up, Monsters!",
+  "mangabaka_title": "Batter Up, Monsters!",
   "native_title": "몽둥이기사 단",
   "romanized_title": "Mongdungigisa Dan",
   "titles": [
@@ -18,9 +18,18 @@
     },
     {
       "language": "en",
+      "title": "Batter Up, Monsters!",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Club Knights",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -75,12 +84,12 @@
       "note": null
     }
   ],
-  "description": "Bottom of the 9th, two outs—the ‘Club Knight’ swings for the game-winning home run! An unknown power resides within the baseball bat. Dan's adventure to smash monsters from another world and return home!\n\n(Source: KakaoPage, translated)",
+  "description": "Kim Dan, a rising baseball prospect on the verge of going pro, is suddenly thrown into a world overrun by monsters, armed only with his bat and the mysterious creature lurking inside it. Before long, he forms a strange symbiotic relationship with the being, which devours the monsters he defeats and grants him overwhelming power in return. With no way home in sight, Dan must grow stronger by taking down deadlier creatures, one swing at a time. Batter up, monsters. Dan doesn’t plan to miss.\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lLzQvZC9iL2YvYi82L2YvMDcxYS80MjFkL2JhNTMvZGY5NzM5OWM1Y2I0",
   "total_chapters": "45",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-03-03",
@@ -90,7 +99,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-24T01:33:05.573Z",
+  "last_updated_at": "2026-09-25T04:22:12.875Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -101,8 +110,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/581400",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://tapas.io/series/batter-up-monsters/info",
+    "read_en_all": [
+      "https://tapas.io/series/batter-up-monsters/info"
+    ]
   },
   "source": {
     "anilist": {
@@ -146,16 +157,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 513,
+    "popularity": 518,
     "favourites": 6,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1696,
-    "fanRatioPercentile": 51.4002,
-    "popularityPercentile": 68.7424,
-    "fanFavouriteDiscoveryScore": 50.5302,
-    "fanFavouriteDiscoveryPercentile": 58.5775
+    "fanFavouriteRaw": 1.1583,
+    "fanRatioPercentile": 51.126,
+    "popularityPercentile": 68.8755,
+    "fanFavouriteDiscoveryScore": 50.27,
+    "fanFavouriteDiscoveryPercentile": 58.3999
   },
   "context": {
     "primaryProfile": "sports-career",

@@ -2,14 +2,23 @@
   "id": 603987,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Yeomisae Namdoli BL Jaeneungchung",
-  "mangabaka_title": "Yeomisae Namdoli BL Jaeneungchung",
+  "display_title": "Can even Yemisae Become a BL Talent Enthusiast?",
+  "mangabaka_title": "Yeomisae Namdori BL Jaeneungchung",
   "native_title": "여미새 남돌이 비엘 재능충",
   "romanized_title": "Yeomisae Namdol i BL Jaeneungchung",
   "titles": [
     {
       "language": "ko",
       "title": "여미새 남돌이 비엘 재능충",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Can even Yemisae Become a BL Talent Enthusiast?",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -20,9 +29,18 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeomisae Namdori BL Jaeneungchung",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/boygroup), [Lezhin](https://www.lezhin.com/ko/comic/yeomisae_namdol)\n\n##### Note: Jinju, the female idol character featured in the author's previous work [‘I Can Hardly Manage’](https://www.mangaupdates.com/series/rzxj2vh/i-can-hardly-manage), makes an appearance as an emcee.",
+  "description": "Jung Tae-Oh, a rookie male idol suspiciously obsessed with women. Leader Lee Ji-Eon steps forward to set Tae-Oh straight. They claim only Ji-Eon can resolve this scandal... but is that really just satisfying Tae-Oh's desires? A leader's tearful journey of managing a group to revive the useless eldest member!\n\n(Source: Lezhin, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi81LzUvOS84L2EvMi81L2MvZDBkNy80ZmY5L2IxMDgvMTkxZWM5ZDdhZWYz",
   "total_chapters": "7",
   "status": "releasing",
@@ -37,14 +55,14 @@
   },
   "first_seen_at": "2026-09-15T05:19:50.254Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-24T03:35:13.350Z",
+  "last_updated_at": "2026-09-25T02:49:28.993Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Baek-suk"
+    "Baek-Suk Kim"
   ],
   "artists": [
-    "Kim Baek-suk"
+    "Baek-Suk Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/603987",
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217157,
+      "rating": null,
+      "url": "https://anilist.co/manga/217157"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3sh9gft",
@@ -75,6 +97,7 @@
     2413,
     2398,
     890,
+    281,
     627,
     1571,
     46,
@@ -82,16 +105,53 @@
     180,
     16,
     31,
-    9
+    701,
+    27,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "27": "unweighted",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "68": "unweighted",
+    "93": "unweighted",
+    "180": "core",
+    "281": "incidental",
+    "428": "unweighted",
+    "627": "core",
+    "701": "incidental",
+    "787": "unweighted",
+    "890": "unweighted",
+    "1571": "unweighted",
+    "2397": "unweighted",
+    "2398": "unweighted",
+    "2413": "unweighted",
+    "2431": "unweighted",
+    "2449": "unweighted",
+    "2451": "unweighted",
+    "2545": "unweighted",
+    "2564": "unweighted",
+    "2587": "unweighted",
+    "2680": "unweighted",
+    "2891": "defining"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0527,
+    "popularityPercentile": 3.8852,
+    "fanFavouriteDiscoveryScore": 6.636,
+    "fanFavouriteDiscoveryPercentile": 3.6334
   }
 }
