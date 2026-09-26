@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Tracing Night Desires",
-  "mangabaka_title": "Tracing Night Desires",
+  "mangabaka_title": "Bame Geurineun Seo",
   "native_title": "밤에 그리는 서",
-  "romanized_title": null,
+  "romanized_title": "Bame Geurineun Seo",
   "titles": [
     {
       "language": "ko",
       "title": "밤에 그리는 서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bame Geurineun Seo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,21 +48,21 @@
     }
   ],
   "description": "Five years ago, when unidentified assassins tried to capture Seoun, her disciple Namgil claimed to be 'Seoun' and was dragged away in her stead. One day, Namgil returns as the lord of an island where Seoun resides. Summoning his master to his quarters, he pulls her close and aggressively attempts intimacy. As their lips part, he whispers, 'Master, why have you grown even more beautiful?' \n\nMeanwhile, the sound of groaning nearby heightens the tension of their reunion...\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/night_seo)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MzUwLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzIzMC1wOFNaOEY1TndEbWwuanBn",
   "total_chapters": "1",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-21",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-19T05:03:46.247Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-24T22:35:23.080Z",
+  "last_updated_at": "2026-09-26T00:09:36.247Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217230,
+      "rating": null,
+      "url": "https://anilist.co/manga/217230"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "a3mb670",
@@ -76,18 +91,34 @@
   },
   "tag_ids": [
     43,
+    59,
+    36,
     46,
     41,
-    9
+    109,
+    9,
+    57
   ],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "109": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0799,
+    "popularityPercentile": 0.1797,
+    "fanFavouriteDiscoveryScore": 5.1611,
+    "fanFavouriteDiscoveryPercentile": 0.1797
   }
 }

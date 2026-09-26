@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "About Things That Haven't Occurred Yet",
-  "mangabaka_title": "About Things That Haven't Occurred Yet",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Ireonaji Aneun Geotdeure Gwanhayeo",
+  "native_title": "일어나지 않은 것들에 관하여",
+  "romanized_title": "Ireonaji Aneun Geotdeure Gwanhayeo",
   "titles": [
     {
       "language": "ko",
       "title": "일어나지 않은 것들에 관하여",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,28 +22,39 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ireonaji Aneun Geotdeure Gwanhayeo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
-  "cover": null,
+  "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70556421/), [Daum](https://webtoon.kakao.com/content/%EC%9D%BC%EC%96%B4%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EA%B2%83%EB%93%A4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/4974)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzMzNi1RTHUwVUpTSG1LTGMucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-25",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-25T05:24:06.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-24T19:06:11.732Z",
+  "last_updated_at": "2026-09-25T21:06:58.557Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Seo Sahee"
+    "Moon Si-Hyun",
+    "Seo Sahee",
+    "Team Jena"
   ],
   "artists": [
     "Air Trees"
@@ -52,7 +65,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217336,
+      "rating": null,
+      "url": "https://anilist.co/manga/217336"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mt2knur",
@@ -66,14 +83,22 @@
     31,
     9
   ],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "43": "defining"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0799,
+    "popularityPercentile": 0.0863,
+    "fanFavouriteDiscoveryScore": 5.1274,
+    "fanFavouriteDiscoveryPercentile": 0.0863
   }
 }

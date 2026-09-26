@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Joseon: Age of Ruin",
-  "mangabaka_title": "Legend of the Demon God in Joseon",
+  "mangabaka_title": "Joseon: Age of Ruin",
   "native_title": "조선귀신전",
   "romanized_title": "Jeon Ghost Story",
   "titles": [
     {
       "language": "ko",
       "title": "조선귀신전",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -24,14 +26,18 @@
     {
       "language": "en",
       "title": "Joseon: Age of Ruin",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Joseon Gwisinjeon",
-      "traits": [],
+      "title": "Joseongwisinjeon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,22 +49,22 @@
       "note": null
     }
   ],
-  "description": "An era where destruction ran rampant... Joseon.. the age of ruin. \n\n\n**Original Webtoon:**   \n[Toomics](https://www.toomics.com/webtoon/episode/toon/8611), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14215383), [Lezhin](https://www.lezhin.com/ko/comic/joseon_gwisinjeon), [Ridibooks](https://ridibooks.com/books/5601002047) \n\n\n**Official Translations:**  \n[English](https://toomics.com/en/webtoon/episode/toon/8611)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2xlZ2VuZC1vZi10aGUtZGVtb24tZ29kLWluLWpvc2Vvbi0xLndlYnA_dD0xNzgxMTE0ODk4",
+  "description": "An era where destruction ran rampant... Joseon.. the age of ruin.\n\n(Source: Toomics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzMyOC1YUTNVem80TXhZNkguanBn",
   "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-06-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-11T05:22:26.965Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-25T01:38:33.076Z",
+  "last_updated_at": "2026-09-25T13:45:01.423Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217328,
+      "rating": null,
+      "url": "https://anilist.co/manga/217328"
+    },
     "animeplanet": {
       "id": "legend-of-the-demon-god-in-joseon",
       "rating": null,
@@ -87,22 +97,37 @@
   },
   "tag_ids": [
     38,
+    58,
     36,
     22,
+    39,
     93,
     57,
     428,
     7332
   ],
+  "tag_weights": {
+    "22": "defining",
+    "36": "defining",
+    "38": "defining",
+    "39": "unweighted",
+    "57": "unweighted",
+    "58": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0799,
+    "popularityPercentile": 0.0863,
+    "fanFavouriteDiscoveryScore": 5.1274,
+    "fanFavouriteDiscoveryPercentile": 0.0863
   },
   "context": {
     "primaryProfile": "horror-survival",

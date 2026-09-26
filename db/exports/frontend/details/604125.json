@@ -2,14 +2,32 @@
   "id": 604125,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Sipilwoleui Rendezvous",
-  "mangabaka_title": "Sipilwoleui Rendezvous",
+  "display_title": "November Rendezvous",
+  "mangabaka_title": "11-worui Rendezvous",
   "native_title": "11월의 랑데부",
-  "romanized_title": "Sipilwoleui Rendezvous",
+  "romanized_title": "11-worui Rendezvous",
   "titles": [
     {
       "language": "ko",
       "title": "11월의 랑데부",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "11-worui Rendezvous",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "November Rendezvous",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -18,26 +36,26 @@
       "language": "ko-Latn",
       "title": "Sipilwoleui Rendezvous",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/november)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MDc0LmpwZw",
+  "description": "It’s been a year since his divorce, and 32-year-old lawyer Seong Jae-Min has been living only for his work. One day, while exhausted from his job and the aftermath of his divorce, he receives a request to look after Seo-Ha, someone he briefly knew as a child, for a month. Seo-Ha, whom he hadn’t seen in 12 years, had grown into a full-fledged adult, a far cry from his childhood memories, and as he spends time with her, Jae-Min gradually regains his peace of mind. However, just as their month-long living arrangement seems to be going smoothly, an unexpected incident unfolds before them...\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzMxNi1CVkt2WHFVQ0dhZTUucG5n",
   "total_chapters": "11",
-  "status": "completed",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-01",
     "end_date": null,
     "start_date_is_estimated": true,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-16T05:15:46.329Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-23T17:43:24.982Z",
+  "last_updated_at": "2026-09-26T04:07:32.442Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217316,
+      "rating": null,
+      "url": "https://anilist.co/manga/217316"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "hsmkmdc",
@@ -61,16 +83,39 @@
     }
   },
   "tag_ids": [
-    16
+    158,
+    106,
+    180,
+    16,
+    228,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "106": "incidental",
+    "158": "incidental",
+    "180": "incidental",
+    "228": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.0799,
+    "popularityPercentile": 0.3882,
+    "fanFavouriteDiscoveryScore": 5.2367,
+    "fanFavouriteDiscoveryPercentile": 0.381
   }
 }
