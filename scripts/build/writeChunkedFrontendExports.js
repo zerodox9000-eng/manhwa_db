@@ -159,14 +159,27 @@ function writeChunkedFrontendExports({
   history,
   weeklyHistory,
   recommendations,
+  updates,
   generatedAt = new Date().toISOString(),
 }) {
+  if (
+    !updates ||
+    typeof updates !== "object" ||
+    Array.isArray(updates) ||
+    updates.schemaVersion !== 1 ||
+    !Array.isArray(updates.popularity) ||
+    !Array.isArray(updates.statuses) ||
+    !Array.isArray(updates.chapters)
+  ) {
+    throw new Error("A valid Updates export is required for the chunked frontend manifest.");
+  }
   const datasets = [
     prepareDataset("catalog", "array", catalog),
     prepareDataset("tags", "object", tags),
     ...(history ? [prepareDataset("history", "object", history)] : []),
     prepareDataset("weeklyHistory", "object", weeklyHistory),
     prepareDataset("recommendations", "array", recommendations),
+    prepareDataset("updates", "object", updates),
   ];
   const contentHash = sha256(
     Buffer.from(

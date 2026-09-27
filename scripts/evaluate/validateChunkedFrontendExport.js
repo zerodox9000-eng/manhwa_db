@@ -88,6 +88,7 @@ function main() {
     ...(fullHistory ? { history: fullHistory } : {}),
     weeklyHistory: compactWeeklyHistory(activeHistory),
     recommendations: readLegacy("recommendations/features.json"),
+    updates: readLegacy("stats/updates.json"),
   };
 
   for (const [datasetName, expectedValue] of Object.entries(expected)) {

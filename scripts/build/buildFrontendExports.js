@@ -1245,6 +1245,9 @@ for (
     titles:
       entry.titles,
 
+    description:
+      entry.description || null,
+
     cover:
       entry.cover,
 
@@ -1411,7 +1414,7 @@ if (PUBLISH_FULL_HISTORY) {
   fs.rmSync(path.join(EXPORT_DIR, "stats/history.json.gz"), { force: true });
 }
 
-writeUpdatesExport({
+const updatesExport = writeUpdatesExport({
   exportDir: EXPORT_DIR,
   catalog: discovery,
   history: historyMap,
@@ -1497,6 +1500,7 @@ writeChunkedFrontendExports({
   history: PUBLISH_FULL_HISTORY ? historyMap : null,
   weeklyHistory: weeklyHistoryMap,
   recommendations: recommendationFeatures,
+  updates: updatesExport,
   generatedAt: latestCache.snapshotAt || new Date().toISOString(),
 });
 
