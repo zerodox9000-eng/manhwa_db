@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Get Out of My Romance Fantasy",
-  "mangabaka_title": "Get Out of My Romance Fantasy",
+  "mangabaka_title": "Nae Rofan-eseo Kkeojyeo",
   "native_title": "내 로판에서 꺼져",
-  "romanized_title": null,
+  "romanized_title": "Nae Rofan-eseo Kkeojyeo",
   "titles": [
     {
       "language": "ko",
       "title": "내 로판에서 꺼져",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Nae Rofan-eseo Kkeojyeo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Stay Out of My Rofan",
       "traits": [],
@@ -29,29 +40,29 @@
       "note": null
     }
   ],
-  "description": "A world trapped in a time loop that resets every year. \n\nNo matter what happens—whether you get married or become rich—everything returns to the way it was after one year. \n\nAileen, who has been reincarnated into a romance-fantasy novel, seeks out the original heroine, Delia, in an attempt to break the 100th repetition of the time loop. Ever since possessing Aileen's body, there has always been one thing she couldn't understand: how could the perfect heroine, Delia, have suddenly become a shut-in? Believing that the changed Delia is the cause of the time loop, Aileen decides to make her marry the male lead, Bennett, just as in the original story. But then she discovers something completely unexpected... Bennett has been possessed by Aileen's ex-boyfriend?!\n\n Will Aileen manage to get the two of them married and finally escape the endless time loop?\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70271045/), [Daum](https://webtoon.kakao.com/content/%EB%82%B4-%EB%A1%9C%ED%8C%90%EC%97%90%EC%84%9C-%EA%BA%BC%EC%A0%B8/4955)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2NTE2LnBuZw",
+  "description": "A world where time loops every year.\n\nWhether she gets married or becomes rich, after a year, everything resets. Aileen, who has possessed the body of a romance novel character, sets out to find the original female lead, Delia, in order to stop the 100th time loop. Ever since she was possessed, Aileen had always wondered about one thing: why Delia, the “perfect heroine,” had become a hikikomori. Believing that the changed Delia is the cause of the time loop, Aileen tries to marry her off to the male lead, Bennett, just like in the original story...\n\nBut it turns out Bennett is actually “Aileen’s ex-boyfriend” who has been possessed? Will Aileen be able to marry the two of them off and break free from the time loop?\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzA3Mi1RdmtTeEl5Mlc0dW8uanBn",
   "total_chapters": "21",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-27T03:45:42.901Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-25T18:41:57.373Z",
+  "last_updated_at": "2026-09-26T18:07:13.794Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Mujirong"
   ],
   "artists": [
-    "Hwa Geon"
+    "Wagon"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601183",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217072,
+      "rating": 60,
+      "url": "https://anilist.co/manga/217072"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "hzdc62s",
@@ -69,17 +84,40 @@
   },
   "tag_ids": [
     40,
+    59,
+    525,
+    108,
     36,
-    9
+    1,
+    6,
+    9,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "1": "unweighted",
+    "6": "defining",
+    "9": "defining",
+    "36": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "525": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 18,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.1,
+    "popularityPercentile": 10.8916,
+    "fanFavouriteDiscoveryScore": 10.2353,
+    "fanFavouriteDiscoveryPercentile": 10.0941
   }
 }
