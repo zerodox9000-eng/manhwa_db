@@ -14,6 +14,7 @@ const { writeUpdatesExport } = require("./buildUpdatesExport");
 const { selectCanonicalSeries } = require("./selectCanonicalSeries");
 const { firstSeenDate, updateFirstSeenState } = require("../history/firstSeenState");
 const { updatePopularityMilestoneState } = require("../history/popularityMilestoneState");
+const { chapterIncreaseSortDates } = require("../snapshots/snapshotStatuses");
 
 const SERIES_DIR =
   path.resolve(
@@ -65,6 +66,7 @@ const CONTEXT_OVERRIDES =
 
 const POPULARITY_STATE_PATH = path.resolve(__dirname, "../../db/state/popularity-milestones.json");
 const FIRST_SEEN_STATE_PATH = path.resolve(__dirname, "../../db/state/anilist-first-seen.json");
+const STATUS_HISTORY_PATH = path.resolve(__dirname, "../../db/state/status-history.json");
 const PUBLISH_FULL_HISTORY =
   process.env.FRONTEND_PUBLISH_FULL_HISTORY === "1" &&
   process.env.FRONTEND_WEEKLY_ONLY !== "1";
@@ -1209,6 +1211,10 @@ const existingPopularityState = fs.existsSync(POPULARITY_STATE_PATH)
 const existingFirstSeenState = fs.existsSync(FIRST_SEEN_STATE_PATH)
   ? readJson(FIRST_SEEN_STATE_PATH)
   : null;
+const statusHistoryState = fs.existsSync(STATUS_HISTORY_PATH)
+  ? readJson(STATUS_HISTORY_PATH)
+  : null;
+const recentChapterIncreases = chapterIncreaseSortDates(statusHistoryState);
 if ((!existingPopularityState || !existingFirstSeenState) && snapshotFiles.length <= 14) {
   throw new Error("History state must be bootstrapped before pruning snapshots to the 14-day buffer.");
 }
@@ -1229,6 +1235,10 @@ for (
   discovery.push({
 
     id: entry.id,
+
+    ...(typeof recentChapterIncreases[entry.id] === "string"
+      ? { last_chapter_increase_date: recentChapterIncreases[entry.id] }
+      : {}),
 
     display_title:
       entry.display_title,

@@ -54,8 +54,18 @@ function currentCatalogSnapshot() {
   return catalogSnapshotFromFiles((file) => fs.readFileSync(file, "utf8"), files);
 }
 
-function applySnapshot(state, snapshot, date) {
+function chapterIncreaseSortTrackingStart(date) {
+  const start = new Date(`${date}T00:00:00.000Z`);
+  if (!Number.isFinite(start.getTime())) return date;
+  start.setUTCDate(start.getUTCDate() - 6);
+  return start.toISOString().slice(0, 10);
+}
+
+function applySnapshot(state, snapshot, date, { trackChapterIncreaseSort = true } = {}) {
   const { statuses, chapters } = snapshot;
+  if (trackChapterIncreaseSort && !state.chapterIncreaseSortTrackingSince) {
+    state.chapterIncreaseSortTrackingSince = chapterIncreaseSortTrackingStart(date);
+  }
   for (const [id, next] of Object.entries(statuses)) {
     const previous = state.currentStatuses[id] ?? null;
     if (previous && previous !== next) {
@@ -81,6 +91,24 @@ function applySnapshot(state, snapshot, date) {
     state.currentChapters[id] = next;
   }
   state.lastSnapshotDate = date;
+}
+
+function chapterIncreaseSortDates(state) {
+  const trackingSince = state?.chapterIncreaseSortTrackingSince;
+  if (typeof trackingSince !== "string") return {};
+
+  const dates = {};
+  for (const [id, changes] of Object.entries(state.chapterChanges ?? {})) {
+    if (!Array.isArray(changes)) continue;
+    for (let index = changes.length - 1; index >= 0; index -= 1) {
+      const date = changes[index]?.date;
+      if (typeof date !== "string") continue;
+      if (date < trackingSince) break;
+      dates[id] = date;
+      break;
+    }
+  }
+  return dates;
 }
 
 function gitSnapshots() {
@@ -124,6 +152,7 @@ function emptyState() {
     statusChanges: {},
     currentChapters: {},
     chapterChanges: {},
+    chapterIncreaseSortTrackingSince: null,
   };
 }
 
@@ -137,9 +166,13 @@ function writeState(state) {
 
 function rebuild() {
   const state = emptyState();
+  if (fs.existsSync(STATE_PATH)) {
+    const previousState = JSON.parse(fs.readFileSync(STATE_PATH, "utf8"));
+    state.chapterIncreaseSortTrackingSince = previousState.chapterIncreaseSortTrackingSince ?? null;
+  }
   const snapshots = gitSnapshots();
   snapshots.forEach(({ date, hash }, index) => {
-    applySnapshot(state, catalogSnapshotAtCommit(hash), date);
+    applySnapshot(state, catalogSnapshotAtCommit(hash), date, { trackChapterIncreaseSort: false });
     console.log(`Status history ${index + 1}/${snapshots.length}: ${date}`);
   });
   const today = new Date().toISOString().slice(0, 10);
@@ -160,4 +193,10 @@ if (require.main === module) {
   else snapshot();
 }
 
-module.exports = { applySnapshot, catalogSnapshotFromFiles, normalizeChapterCount, normalizeStatus };
+module.exports = {
+  applySnapshot,
+  catalogSnapshotFromFiles,
+  chapterIncreaseSortDates,
+  normalizeChapterCount,
+  normalizeStatus,
+};
