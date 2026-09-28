@@ -27,6 +27,7 @@ Owns backend data files and generated frontend exports.
 - Processed and frontend series links use `read_en_all` for all unique official English web-platform URLs and retain the first URL as `read_en` for backward compatibility.
 - Compact frontend catalogue records retain the processed MangaBaka `type` so consumers can distinguish `oel` from manhwa without querying MangaBaka again.
 - Runtime catalogue chunks also include each processed description when available, allowing the PWA to show the default detail-page description from its initial offline download.
+- Runtime catalogue and per-title details include per-series `spoiler_tag_ids`, a subset of `tag_ids` copied from processed `tags_v2[].is_spoiler`. This metadata affects only the detail tag display, not catalogue eligibility.
 - Runtime catalogue records optionally include `last_chapter_increase_date`, derived from the existing chapter-change ledger after `chapterIncreaseSortTrackingSince`. This is recency-sort metadata for future observations only; entries without a post-rollout increase omit it.
 - Active chunk manifests publish compact `weeklyHistory` and omit full `history`. The public archive preserves every raw daily snapshot for recovery without entering normal frontend downloads. Recommendation generation is suspended; recommendation paths contain an empty compatibility dataset, and runtime catalogue chunks omit recommendation-only `context`. Multilingual `titles` remain in the runtime catalogue because Global Search consumes them.
 

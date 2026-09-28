@@ -465,6 +465,7 @@ for (const file of tagFiles) {
 
     const ids = [];
     const weights = {};
+    const spoilerIds = [];
 
     for (
       const tag of
@@ -472,6 +473,7 @@ for (const file of tagFiles) {
     ) {
 
       ids.push(tag.id);
+      if (tag.is_spoiler === true && Number.isSafeInteger(tag.id)) spoilerIds.push(tag.id);
 
       if (Number.isSafeInteger(tag.id) && typeof tag.weight === "string" && tag.weight.trim()) {
         weights[String(tag.id)] = tag.weight.trim();
@@ -502,6 +504,7 @@ for (const file of tagFiles) {
     tagRowsByKey.set(`${sourceKey}:${entry.id}`, {
       ids,
       weights,
+      spoilerIds,
       sourceFile: file,
     });
   }
@@ -556,6 +559,7 @@ for (const row of canonicalSeriesRows) {
     const tagRecord = tagRowsByKey.get(`${sourceKey}:${entry.id}`);
     const tagIds = tagRecord?.ids || [];
     const tagWeights = tagRecord?.weights || {};
+    const spoilerTagIds = tagRecord?.spoilerIds || [];
 
     const displayTitle = applyTitleDisplayOverride(entry, titleDisplayOverrides);
 
@@ -642,6 +646,9 @@ for (const row of canonicalSeriesRows) {
 
       tag_ids:
         tagIds,
+
+      spoiler_tag_ids:
+        spoilerTagIds,
 
       ...(entry.source?.anilist?.id != null && Object.keys(tagWeights).length > 0
         ? { tag_weights: tagWeights }
@@ -1308,6 +1315,9 @@ for (
 
     tag_ids:
       entry.tag_ids,
+
+    spoiler_tag_ids:
+      entry.spoiler_tag_ids,
 
     ...(entry.source?.anilist?.id != null && Object.keys(entry.tag_weights || {}).length > 0
       ? { tag_weights: entry.tag_weights }
