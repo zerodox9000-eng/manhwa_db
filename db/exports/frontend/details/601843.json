@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Retired Killer Wants to Heal",
-  "mangabaka_title": "The Retired Killer Wants to Heal",
-  "native_title": "引退した殺し屋は癒やされたい",
-  "romanized_title": null,
+  "mangabaka_title": "Euntoehan Killer-neun Healing-hago Sipda",
+  "native_title": "은퇴한 킬러는 힐링하고 싶다",
+  "romanized_title": "Euntoehan Killer-neun Healing-hago Sipda",
   "titles": [
     {
       "language": "ko",
       "title": "은퇴한 킬러는 힐링하고 싶다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,6 +27,15 @@
       "language": "tr",
       "title": "Emekli Suikastçı Sakin Bir Hayat İstiyor",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Euntoehan Killer-neun Healing-hago Sipda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -78,29 +89,29 @@
       "note": null
     }
   ],
-  "description": "Yoo Ji-an, codename “Saber,” is an S-rank government assassin who has completed over 300 missions. After 20 years in the business, he finally retires to pursue a peaceful life. His first goal is simple: make money legally without killing anyone. But just as he begins his ordinary new life, mysterious incidents and a suspicious woman keep getting in his way. Can the legendary S-rank killer finally find happiness without returning to his old ways?\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70268713/), [Daum](https://webtoon.kakao.com/content/%EC%9D%80%ED%87%B4%ED%95%9C-%ED%82%AC%EB%9F%AC%EB%8A%94-%ED%9E%90%EB%A7%81%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4/4968)\n\n**Official Translations:**   \n[Japanese](https://piccoma.com/web/product/204732)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3MDg0LnBuZw",
+  "description": "Yu Ji-An, codenamed \\[Sev\\], an S-class agent of “Lest,” a top-secret government-run assassin organization. As the youngest agent to successfully complete 300 missions, he finally achieves his long-awaited retirement. Ji-An is finally able to carry out the modest “healing bucket list” he has been preparing for 20 years. His first item on the healing list after retirement: Earn money through legitimate means without killing anyone.\n\n *“Boss, I can start working at a convenience store right away. I’m the kind of person who always completes the tasks assigned to me.”*\n\nHowever, contrary to his desire to live quietly while fulfilling this utterly ordinary dream, unpredictable incidents and a suspicious woman keep getting in his way. An assassin’s second life, fraught with hardship and adversity. Will S-class killer Yu Ji-An be able to achieve ordinary happiness without getting his hands dirty?\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzM5OS1yOEhoQ0F3czNqTG4uanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-03T02:48:04.178Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-25T20:36:45.704Z",
+  "last_updated_at": "2026-09-28T01:17:09.308Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Nasty Cat"
+    "Yeong-Hun Go"
   ],
   "artists": [
-    "Nasty Cat"
+    "Yeong-Hun Go"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601843",
@@ -108,7 +119,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217399,
+      "rating": null,
+      "url": "https://anilist.co/manga/217399"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "tbh0zho",
@@ -118,16 +133,30 @@
   },
   "tag_ids": [
     38,
-    39
+    58,
+    39,
+    93,
+    57,
+    428
   ],
+  "tag_weights": {
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.1077,
+    "popularityPercentile": 0.6822,
+    "fanFavouriteDiscoveryScore": 5.3496,
+    "fanFavouriteDiscoveryPercentile": 0.6463
   }
 }

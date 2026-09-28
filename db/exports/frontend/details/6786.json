@@ -49,7 +49,9 @@
     {
       "language": "de",
       "title": "Ein Kind wie ich",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -70,18 +72,18 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "That Kid Who Resembles Me",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "That Kid Who Resembles Me",
       "traits": [
         "native"
       ],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "That Kid Who Resembles Me",
-      "traits": [],
       "is_primary": false,
       "note": null
     },
@@ -94,8 +96,10 @@
     },
     {
       "language": "es",
-      "title": "Una Niña Parecida a Mí",
-      "traits": [],
+      "title": "Una niña parecida a mí",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -143,7 +147,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.821Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-27T00:55:58.566Z",
+  "last_updated_at": "2026-09-27T15:26:41.645Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -298,16 +302,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1664,
+    "popularity": 1663,
     "favourites": 61,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 3.6659,
-    "fanRatioPercentile": 93.3041,
-    "popularityPercentile": 86.7447,
-    "fanFavouriteDiscoveryScore": 92.9471,
-    "fanFavouriteDiscoveryPercentile": 96.1204
+    "fanFavouriteRaw": 3.6681,
+    "fanRatioPercentile": 93.3501,
+    "popularityPercentile": 86.7361,
+    "fanFavouriteDiscoveryScore": 92.9927,
+    "fanFavouriteDiscoveryPercentile": 96.1364
   },
   "context": {
     "primaryProfile": "korean-corporate-regression",

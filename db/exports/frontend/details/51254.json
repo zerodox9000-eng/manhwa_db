@@ -26,8 +26,10 @@
     {
       "language": "es",
       "title": "El contrato matrimonial de mamá",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -64,7 +66,7 @@
       "language": "es",
       "title": "Mi madre se casó por contrato",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -171,7 +173,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.172Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-27T01:52:26.757Z",
+  "last_updated_at": "2026-09-27T15:28:05.292Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -337,16 +339,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 7800,
+    "popularity": 7812,
     "favourites": 378,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 4.8462,
-    "fanRatioPercentile": 96.8532,
-    "popularityPercentile": 97.2987,
-    "fanFavouriteDiscoveryScore": 96.6991,
-    "fanFavouriteDiscoveryPercentile": 98.5128
+    "fanFavouriteRaw": 4.8387,
+    "fanRatioPercentile": 96.8618,
+    "popularityPercentile": 97.2998,
+    "fanFavouriteDiscoveryScore": 96.7076,
+    "fanFavouriteDiscoveryPercentile": 98.5422
   },
   "context": {
     "primaryProfile": "business-career-regression",
