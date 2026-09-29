@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Da Capo for a Musical Genius",
-  "mangabaka_title": "Da Capo for a Musical Genius",
+  "mangabaka_title": "Eumakcheonjaereul Wihan Da Capo",
   "native_title": "음악천재를 위한 다 카포",
-  "romanized_title": null,
+  "romanized_title": "Eumakcheonjaereul Wihan Da Capo",
   "titles": [
     {
       "language": "ko",
       "title": "음악천재를 위한 다 카포",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,33 +29,49 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Eumakcheonjaereul Wihan Da Capo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Return of the Musical Genius",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "The pianist who won the Van Cliburn Competition at the youngest age, 'Seon-yul'.\n\nThat night, while returning home after a successful concert, he lost his family and both hands in a traffic accident.\n\nAfter spending over 10 years as a wreck, Seonyul wakes up in the body of a 17-year-old boy due to a certain incident.\n\nThe protagonist possessing the body of 'Jeong Seon-yul', a troublemaker looked at with contempt by everyone.\n\nHe continues his second musical life at his alma mater.\n\n[Original Novel](https://series.naver.com/novel/detail.series?productNo=10166377)\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854065), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14539850)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2RhLWNhcG8tZm9yLWEtbXVzaWNhbC1nZW5pdXMtMS53ZWJwP3Q9MTc4NzUwNDc1MQ",
+  "description": "Seon-Yul, the pianist who won the Van Cliburn Competition at the youngest age ever. That night, while returning home after a successful concert, he lost his family and both hands in a car accident. After spending more than a decade as a recluse, Seon-Yul awakens in the body of a 17-year-old boy following a certain incident. The protagonist finds himself possessed by the body of Jeong Seon-Yul, a troubled teenager who is looked down upon by everyone. He begins his second musical journey at his alma mater.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjk5NC0zRXdBOVROaHh4TG4uanBn",
   "total_chapters": "14",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-27T19:46:18.514Z",
+  "last_updated_at": "2026-09-28T20:22:51.507Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Deupo",
-    "Sikmok",
-    "Yang Galbi"
+    "Gal-Bi Yang",
+    "Singmok"
   ],
   "artists": [
-    "Haejun"
+    "Aejun"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600870",
@@ -61,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216994,
+      "rating": null,
+      "url": "https://anilist.co/manga/216994"
+    },
     "animeplanet": {
       "id": "da-capo-for-a-musical-genius",
       "rating": null,
@@ -75,10 +97,15 @@
   },
   "tag_ids": [
     38,
+    58,
     74,
     107,
+    126,
     36,
+    117,
     31,
+    27,
+    739,
     18,
     42,
     30,
@@ -89,14 +116,36 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "5": "defining",
+    "18": "defining",
+    "27": "defining",
+    "30": "defining",
+    "31": "defining",
+    "36": "defining",
+    "38": "defining",
+    "42": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "74": "unweighted",
+    "93": "unweighted",
+    "107": "incidental",
+    "117": "incidental",
+    "126": "incidental",
+    "428": "unweighted",
+    "739": "incidental",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 22,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2095,
+    "popularityPercentile": 14.0244,
+    "fanFavouriteDiscoveryScore": 12.1758,
+    "fanFavouriteDiscoveryPercentile": 12.8623
   }
 }

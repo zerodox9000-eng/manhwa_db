@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I'm the Only Granddaughter of the Strongest Duke",
-  "mangabaka_title": "I'm the Only Granddaughter of the Strongest Duke",
+  "mangabaka_title": "Choegangja Gongjangnimui Hanappunin Sonnyeottarimnida",
   "native_title": "최강자 공작님의 하나뿐인 손녀딸입니다",
-  "romanized_title": null,
+  "romanized_title": "Choegangja Gongjangnimui Hanappunin Sonnyeottarimnida",
   "titles": [
     {
       "language": "ko",
       "title": "최강자 공작님의 하나뿐인 손녀딸입니다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Choegangja Gongjangnimui Hanappunin Sonnyeottarimnida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,26 +48,26 @@
     }
   ],
   "description": "\"Lord, please let me righteously sabotage my dad’s business again today. Because that’s the only way to keep him from dying.\"\n\nA weaponsmith who works himself to death, shaving away at his own life to forge weapons for the Hero’s party. That foolish man is my father. The moment I learned what the future held, I decided to take drastic measures to save him. And that meant sabotaging his business! \n\n“Oh nooo, how can such a magnificent sword fail to cut even one soft little potato?!”    \n\n“What? This time it can’t even slice through ham!”   \n\n“There’s no waaay a sword made by Mr. Royz could be this terriiible!” \n\nThe sabotage was a complete success. But I couldn’t stop there. So when the heroes came looking for my father, I politely told them, “Neil Royz? I don’t know anyone by that name. I live only with my mom.” \n\nSorry, Dad. \n\nMy plan worked perfectly. Not a single customer came to my father’s weapon shop, and the heroes stopped asking him to forge swords for them. I thought all that was left was for Dad and me to live happily together… \n\nBut then— \n\n“Little one, how old are you turning this year?” \n\nOut of nowhere, the most powerful duke in the Empire claims that I’m his granddaughter. What on earth is going on? What is happening to me?\n\n**Original Webtoon:**   \n[Bomtoon](https://www.bomtoon.com/detail/only_granddaughter), [Lezhin](https://www.lezhin.com/ko/comic/duke_granddaughter)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ltLXRoZS1vbmx5LWdyYW5kZGF1Z2h0ZXItb2YtdGhlLXN0cm9uZ2VzdC1kdWtlLTEud2VicD90PTE3ODkwOTI4NTY",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzQ5OC1GRm9Pd2FQajV1SWcuanBn",
   "total_chapters": "15",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-10T05:14:05.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-27T19:00:14.824Z",
+  "last_updated_at": "2026-09-29T04:06:09.361Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "KIM Norang",
-    "Mina (미나)"
+    "Mi-Na",
+    "No-Rang Kim"
   ],
   "artists": [
     "Kaejin"
@@ -67,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217498,
+      "rating": null,
+      "url": "https://anilist.co/manga/217498"
+    },
     "animeplanet": {
       "id": "im-the-only-granddaughter-of-the-strongest-duke",
       "rating": null,
@@ -81,24 +96,45 @@
   },
   "tag_ids": [
     40,
+    59,
     74,
     36,
     37,
     6,
+    742,
+    9,
+    282,
     93,
     57,
     428,
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "unweighted",
+    "36": "defining",
+    "37": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "282": "unweighted",
+    "428": "unweighted",
+    "742": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2095,
+    "popularityPercentile": 0.2224,
+    "fanFavouriteDiscoveryScore": 5.1974,
+    "fanFavouriteDiscoveryPercentile": 0.2224
   }
 }

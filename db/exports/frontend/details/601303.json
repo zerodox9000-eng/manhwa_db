@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Royal Marriage Tale",
-  "mangabaka_title": "The Royal Marriage Tale",
-  "native_title": "蛇婚談",
-  "romanized_title": null,
+  "mangabaka_title": "Sahondam",
+  "native_title": "사혼담",
+  "romanized_title": "Sahondam",
   "titles": [
     {
       "language": "ko",
       "title": "사혼담",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sahondam",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,21 +41,21 @@
     }
   ],
   "description": "Soyeong, an illegitimate princess who has spent her life being mistreated in the imperial palace because of her birth, suffers from a chronic illness. Led by her older brother, the Third Prince, she is practically forced into a marriage with the Seo family. But her married life is troubled from the very beginning. Her husband, Seo Jin, completely ignores her, leaving Soyeong to endure the cold and lonely mansion on her own. Then, one day, he suddenly changes. His once-frigid gaze becomes gentle, and the hands that used to pull away from her begin to seek her out with an almost obsessive persistence. \n\n“Don’t be afraid, my lady. I am your husband, after all.” \n\nSuspicious of this unfamiliar transformation, Soyeong begins searching for the truth. As she investigates, she finds herself drawn deeper and deeper into the hidden secrets surrounding her husband and the Seo family...\n\n[Original Webtoon](https://www.bomtoon.com/detail/_sahondam)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1yb3lhbC1tYXJyaWFnZS10YWxlLTEud2VicD90PTE3ODc4ODQ3MTA",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzQ5Ny1DZU9wRThMSjNwbTQucG5n",
   "total_chapters": "9",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-28T03:06:32.257Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-27T21:37:46.988Z",
+  "last_updated_at": "2026-09-29T04:13:21.861Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217497,
+      "rating": null,
+      "url": "https://anilist.co/manga/217497"
+    },
     "animeplanet": {
       "id": "the-royal-marriage-tale",
       "rating": null,
@@ -73,6 +88,8 @@
   },
   "tag_ids": [
     43,
+    108,
+    36,
     46,
     41,
     9,
@@ -84,14 +101,30 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "unweighted",
+    "41": "defining",
+    "43": "defining",
+    "45": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "128": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2095,
+    "popularityPercentile": 0.2224,
+    "fanFavouriteDiscoveryScore": 5.1974,
+    "fanFavouriteDiscoveryPercentile": 0.2224
   }
 }

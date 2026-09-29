@@ -2,8 +2,8 @@
   "id": 602195,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Demon King's Friend",
-  "mangabaka_title": "Mawangui Chingu",
+  "display_title": "Mawang-ui Chin-gu",
+  "mangabaka_title": "Friend of the Demon King",
   "native_title": "마왕의 친구",
   "romanized_title": "Mawangui Chingu",
   "titles": [
@@ -24,6 +24,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Mawang-ui Chin-gu",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Mawangui Chingu",
       "traits": [
@@ -36,7 +43,7 @@
       "language": "en",
       "title": "The Demon King's Friend",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -55,7 +62,7 @@
   },
   "first_seen_at": "2026-09-07T18:21:24.774Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-28T00:46:17.543Z",
+  "last_updated_at": "2026-09-28T19:26:01.042Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -87,6 +94,8 @@
     36,
     160,
     39,
+    37,
+    236,
     93,
     57,
     428,
@@ -95,24 +104,26 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "36": "defining",
+    "37": "unweighted",
     "38": "defining",
     "39": "defining",
     "57": "unweighted",
     "93": "unweighted",
     "121": "incidental",
     "160": "incidental",
+    "236": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 408,
+    "popularity": 429,
     "favourites": 5,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2255,
-    "fanRatioPercentile": 53.2711,
-    "popularityPercentile": 64.5099,
-    "fanFavouriteDiscoveryScore": 51.9973,
-    "fanFavouriteDiscoveryPercentile": 59.921
+    "fanFavouriteRaw": 1.1655,
+    "fanRatioPercentile": 51.5567,
+    "popularityPercentile": 65.4519,
+    "fanFavouriteDiscoveryScore": 50.4149,
+    "fanFavouriteDiscoveryPercentile": 58.4648
   }
 }

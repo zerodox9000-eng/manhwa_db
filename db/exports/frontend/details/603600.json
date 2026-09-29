@@ -104,7 +104,7 @@
   },
   "first_seen_at": "2026-09-13T05:21:39.137Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-28T00:28:27.767Z",
+  "last_updated_at": "2026-09-29T00:30:18.020Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -122,7 +122,7 @@
   "source": {
     "anilist": {
       "id": 216758,
-      "rating": 76,
+      "rating": 77,
       "url": "https://anilist.co/manga/216758"
     },
     "animeplanet": null,
@@ -133,9 +133,11 @@
     }
   },
   "tag_ids": [
+    8,
     36,
     1,
     39,
+    31,
     93,
     57,
     428
@@ -143,6 +145,8 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "1": "defining",
+    "8": "defining",
+    "31": "defining",
     "36": "defining",
     "39": "defining",
     "57": "unweighted",
@@ -150,15 +154,15 @@
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 267,
+    "popularity": 278,
     "favourites": 4,
-    "meanScore": 76
+    "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 1.4981,
-    "fanRatioPercentile": 61.8097,
-    "popularityPercentile": 56.4955,
-    "fanFavouriteDiscoveryScore": 58.9915,
-    "fanFavouriteDiscoveryPercentile": 66.772
+    "fanFavouriteRaw": 1.4388,
+    "fanRatioPercentile": 59.9641,
+    "popularityPercentile": 57.3099,
+    "fanFavouriteDiscoveryScore": 57.4018,
+    "fanFavouriteDiscoveryPercentile": 65.2009
   }
 }
