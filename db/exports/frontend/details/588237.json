@@ -2,8 +2,8 @@
   "id": 588237,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Sunbae, Is This Really Research?",
-  "mangabaka_title": "Seonbae, Igeo Yeongu Majayo?",
+  "display_title": "Peer Review",
+  "mangabaka_title": "Peer Review",
   "native_title": "선배, 이거 연구 맞아요?",
   "romanized_title": "Seonbae, Igeo Yeongu Majayo?",
   "titles": [
@@ -12,6 +12,15 @@
       "title": "선배, 이거 연구 맞아요?",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Peer Review",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -36,7 +45,7 @@
       "language": "en",
       "title": "Sunbae, Is This Really Research?",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -45,7 +54,7 @@
   "total_chapters": "10",
   "status": "releasing",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-05-15",
@@ -55,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-28T21:59:10.185Z",
+  "last_updated_at": "2026-09-29T22:00:22.331Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -128,10 +137,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2095,
-    "popularityPercentile": 19.7848,
-    "fanFavouriteDiscoveryScore": 15.9603,
-    "fanFavouriteDiscoveryPercentile": 17.5825
+    "fanRatioPercentile": 32.2389,
+    "popularityPercentile": 19.7577,
+    "fanFavouriteDiscoveryScore": 15.9567,
+    "fanFavouriteDiscoveryPercentile": 17.5712
   },
   "context": {
     "primaryProfile": "romance-core",

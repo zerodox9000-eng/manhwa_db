@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Hearty Confession",
-  "mangabaka_title": "A Hearty Confession",
+  "mangabaka_title": "Jjinhan Gobaek",
   "native_title": "찐한 고백",
-  "romanized_title": null,
+  "romanized_title": "Jjinhan Gobaek",
   "titles": [
     {
       "language": "ko",
@@ -24,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Jjinhan Gobaek",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ru",
       "title": "Искреннее признание",
       "traits": [],
@@ -38,7 +47,7 @@
       "note": null
     }
   ],
-  "description": "My scary superior who made me quake in fear during my rookie employee days is back. But let's not be scared. Now it's team leader versus team leader! But... where did the tiger go? And why is there a fox here? You... Are you really the person I once knew?! My former superior, Baek Seonho, came back after making a one-eighty. A heart-thumping office romance with him begins with an intense entangling!\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=812660), [Naver Series](https://series.naver.com/comic/detail.series?productNo=9922565)\n\n**Official Translations:**  \n[Japanese](https://manga.line.me/product/periodic?id=Z0003221)",
+  "description": "My scary superior who made me quake in fear during my rookie employee days is back. But let's not be scared. Now it's team leader versus team leader! But... where did the tiger go? And why is there a fox here? You... Are you really the person I once knew?! My former superior, Baek Seonho, came back after making a one-eighty. A heart-thumping office romance with him begins with an intense entangling!",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8xL2MvZS82LzUvMi9lL2UvODg1My80NmUzLzkxYjcvN2Q3MTU3YThiM2I3",
   "total_chapters": "88",
   "status": "completed",
@@ -53,15 +62,14 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.151Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-29T00:01:06.128Z",
+  "last_updated_at": "2026-09-29T18:46:43.572Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "JIP",
     "Rose Bean"
   ],
   "artists": [
-    "Uiryeong"
+    "Ui-Ryeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/67749",
@@ -69,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217529,
+      "rating": null,
+      "url": "https://anilist.co/manga/217529"
+    },
     "animeplanet": {
       "id": "a-hearty-confession",
       "rating": 78,
@@ -102,15 +114,37 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "159": "unweighted",
+    "248": "unweighted",
+    "286": "core",
+    "428": "unweighted",
+    "595": "core",
+    "776": "unweighted",
+    "1205": "unweighted",
+    "1816": "unweighted",
+    "1817": "core",
+    "2119": "core",
+    "2973": "core",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2389,
+    "popularityPercentile": 0.2437,
+    "fanFavouriteDiscoveryScore": 5.2099,
+    "fanFavouriteDiscoveryPercentile": 0.2437
   },
   "context": {
     "primaryProfile": "business-career-regression",

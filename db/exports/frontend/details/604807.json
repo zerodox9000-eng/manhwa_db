@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Think I've Poked a Sleeping Bear",
-  "mangabaka_title": "I Think I've Poked a Sleeping Bear",
+  "mangabaka_title": "Sajaui Koteoreul Geondeurin Geon Gatayo",
   "native_title": "사자의 코털을 건드린 것 같아요",
-  "romanized_title": null,
+  "romanized_title": "Sajaui Koteoreul Geondeurin Geon Gatayo",
   "titles": [
     {
       "language": "ko",
       "title": "사자의 코털을 건드린 것 같아요",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,7 +25,7 @@
     },
     {
       "language": "en",
-      "title": "I Think I Pissed Off the Lion",
+      "title": "I Think I Pissed off the Lion",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -37,7 +39,7 @@
     },
     {
       "language": "en",
-      "title": "I Think I've Touched the Lion's Whiskers",
+      "title": "I Think I've Touched The Lion's Whiskers",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -62,32 +64,41 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sajaui Koteoreul Geondeurin Geon Gatayo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "I've been in love with my first love for two years, and now he's marrying my best friend?\n\nTo hide my feelings, I lied and confessed to liking my boss... and he overheard me?!\n\nNow, deeply touched, my boss has decided to call off his engagement and marry me?!\n\nCan I possibly dodge the relentless charge of this runaway straight-shooter caught up in misunderstandings and delusions?!?\n\nLooks like I... really poked a sleeping bear!\n\n**Original Novel:**    \n[Chapters](https://series.naver.com/novel/detail.series?productNo=12992292), [Volumes](https://series.naver.com/novel/detail.series?productNo=13957647) \n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854832), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14708854)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4ODQ5LnBuZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzUzMy1LTmIyM2xOcUVLUUYuanBn",
+  "total_chapters": "5",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-24T05:21:57.703Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-28T17:15:46.670Z",
+  "last_updated_at": "2026-09-29T21:06:14.934Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Haehwa",
-    "Ikamnu"
+    "Kkamnu Lee"
   ],
   "artists": [
-    "Pony"
+    "Mangaji"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604807",
@@ -95,7 +106,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217533,
+      "rating": null,
+      "url": "https://anilist.co/manga/217533"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "tn88s1r",
@@ -105,18 +120,27 @@
   },
   "tag_ids": [
     43,
+    36,
     6,
     9
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "36": "unweighted",
+    "43": "defining"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2389,
+    "popularityPercentile": 0.2437,
+    "fanFavouriteDiscoveryScore": 5.2099,
+    "fanFavouriteDiscoveryPercentile": 0.2437
   }
 }

@@ -89,13 +89,6 @@
       "note": null
     },
     {
-      "language": "fr",
-      "title": "The Villainess Lives Again",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "en",
       "title": "The Villainess Lives Again",
       "traits": [
@@ -105,10 +98,10 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "The Villainess Lives Twice",
+      "language": "fr",
+      "title": "The Villainess Lives Again",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -116,6 +109,13 @@
       "title": "The Villainess Lives Twice",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Villainess Lives Twice",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -225,7 +225,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-28T19:42:20.954Z",
+  "last_updated_at": "2026-09-29T19:42:32.590Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -323,6 +323,7 @@
     1099,
     1097,
     578,
+    2814,
     106,
     649,
     2985,
@@ -465,6 +466,7 @@
     "2439": "defining",
     "2462": "recurrent",
     "2576": "unweighted",
+    "2814": "defining",
     "2967": "incidental",
     "2985": "core",
     "2993": "defining",
@@ -489,16 +491,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 14766,
+    "popularity": 14782,
     "favourites": 345,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 2.3364,
-    "fanRatioPercentile": 80.8393,
-    "popularityPercentile": 98.8881,
-    "fanFavouriteDiscoveryScore": 80.7266,
-    "fanFavouriteDiscoveryPercentile": 87.3242
+    "fanFavouriteRaw": 2.3339,
+    "fanRatioPercentile": 80.9449,
+    "popularityPercentile": 98.8888,
+    "fanFavouriteDiscoveryScore": 80.832,
+    "fanFavouriteDiscoveryPercentile": 87.4471
   },
   "context": {
     "primaryProfile": "business-career-regression",

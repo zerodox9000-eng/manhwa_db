@@ -2,8 +2,8 @@
   "id": 604495,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Harmful Yet Excellent Price",
-  "mangabaka_title": "Haeropgodo Junsuhan Daega",
+  "display_title": "A Handsome Prince",
+  "mangabaka_title": "A Handsome Prince",
   "native_title": "해롭고도 준수한 대가",
   "romanized_title": "Haeropgodo Junsuhan Daega",
   "titles": [
@@ -18,9 +18,25 @@
     },
     {
       "language": "en",
+      "title": "A Handsome Price",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "A Handsome Prince",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "A Harmful Yet Excellent Price",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -45,7 +61,7 @@
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-09-11",
@@ -55,7 +71,7 @@
   },
   "first_seen_at": "2026-09-20T05:23:16.416Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-29T04:46:10.525Z",
+  "last_updated_at": "2026-09-30T04:22:31.315Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -97,27 +113,27 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "6": "unweighted",
-    "9": "unweighted",
+    "6": "defining",
+    "9": "defining",
     "16": "defining",
     "31": "defining",
     "46": "defining",
     "57": "unweighted",
     "93": "unweighted",
-    "180": "unweighted",
-    "280": "unweighted",
+    "180": "incidental",
+    "280": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2095,
-    "popularityPercentile": 0.2224,
-    "fanFavouriteDiscoveryScore": 5.1974,
-    "fanFavouriteDiscoveryPercentile": 0.2224
+    "fanRatioPercentile": 32.2389,
+    "popularityPercentile": 0.466,
+    "fanFavouriteDiscoveryScore": 5.2913,
+    "fanFavouriteDiscoveryPercentile": 0.4588
   }
 }

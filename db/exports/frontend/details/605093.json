@@ -2,16 +2,34 @@
   "id": 605093,
   "state": "active",
   "type": "manhwa",
-  "display_title": "There Is No Sejong in My Joseon",
-  "mangabaka_title": "There Is No Sejong in My Joseon",
+  "display_title": "There is No Sejong in My Joseon",
+  "mangabaka_title": "Nae Joseone Sejongeun Eopda",
   "native_title": "내 조선에 세종은 없다",
-  "romanized_title": null,
+  "romanized_title": "Nae Joseone Sejongeun Eopda",
   "titles": [
     {
       "language": "ko",
       "title": "내 조선에 세종은 없다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nae Joseone Sejongeun Eopda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "There Is No Great King in My Kingdom",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -23,36 +41,36 @@
     },
     {
       "language": "en",
-      "title": "There Is No Sejong in My Joseon",
+      "title": "There is No Sejong in My Joseon",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "I opened my eyes to find myself in the Joseon Dynasty, reborn as Prince Yangnyeong, the eldest son of King Taejong. Destined to be deposed as crown prince, the throne was meant for my younger brother Chungnyeong, who would later become King Sejong. But I am a transmigrator. Using my future knowledge, I will build the Joseon that Sejong was supposed to create—first! \n\n\"I'm sorry, Chungnyeong. There is no Sejong in my Joseon.\"\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854524), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14661716)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5MTQzLmpwZw",
+  "description": "I opened my eyes to find myself in Joseon, reincarnated as Grand Prince Yangnyeong, the eldest son of King Taejong. His fate is to be deposed as Crown Prince, while the throne is destined for his younger brother Chungnyeong, who will later become King Sejong. But I am a reincarnator. Armed with knowledge of the future, I will build the Joseon that Sejong was destined to create—before he ever can. \n\n *“I'm sorry, Chungnyeong. There is no Sejong in my Joseon.”* \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzUzMi1ZMmlzNTJHeEw4WEsuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-27T05:46:14.067Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-28T20:10:31.670Z",
+  "last_updated_at": "2026-09-29T20:11:27.629Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Fitkong",
-    "Lee Jaeheon"
+    "Jae-Heon Lee",
+    "Pitkong"
   ],
   "artists": [
-    "Hong Kiwoo"
+    "Ki-Woo Hong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605093",
@@ -60,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217532,
+      "rating": null,
+      "url": "https://anilist.co/manga/217532"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "savvtjj",
@@ -71,18 +93,36 @@
   "tag_ids": [
     38,
     36,
+    6,
     31,
-    45
+    7,
+    45,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "7": "defining",
+    "31": "defining",
+    "36": "defining",
+    "38": "defining",
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2389,
+    "popularityPercentile": 0.2437,
+    "fanFavouriteDiscoveryScore": 5.2099,
+    "fanFavouriteDiscoveryPercentile": 0.2437
   }
 }

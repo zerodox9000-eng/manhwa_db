@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Relationship Users Manual",
-  "mangabaka_title": "Relationship Users Manual",
+  "mangabaka_title": "Gwangyesayongseolmyeongseo",
   "native_title": "관계사용설명서",
-  "romanized_title": null,
+  "romanized_title": "Gwangyesayongseolmyeongseo",
   "titles": [
     {
       "language": "ko",
       "title": "관계사용설명서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gwangyesayongseolmyeongseo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,22 +40,22 @@
       "note": null
     }
   ],
-  "description": "Hyewon and Seohee, old lovers, thought there was no problem in their relationship, but Seo-hee made an embarrassing request one day “Hye-won, can you please spank me?”.\n\n**Original Webtoon:**   \n[Aladin Tobe](https://tobe.aladin.co.kr/s/579), [Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399995847), [Ridibooks](https://ridibooks.com/books/6121000584)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3NTA2LmpwZw",
+  "description": "*Note: Originally self-published on the author's Aladin account. Published by Ridibooks on 2026-09-06.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzM4OS1CMDRwdG9rdm05aGguanBn",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
-  "year": 2022,
+  "year": 2023,
   "published": {
-    "start_date": "2022-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-01-11",
+    "end_date": "2023-03-15",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
-  "first_seen_at": "2026-06-10T15:45:01.176Z",
-  "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-12T07:49:49.029Z",
+  "first_seen_at": "2026-09-30T05:56:36.926Z",
+  "first_seen_at_is_trusted": true,
+  "last_updated_at": "2026-09-29T09:06:12.553Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217389,
+      "rating": 71,
+      "url": "https://anilist.co/manga/217389"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "h5ijbcu",
@@ -71,19 +86,36 @@
     15,
     41,
     6,
+    31,
     33,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "15": "defining",
+    "31": "unweighted",
+    "33": "defining",
+    "41": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2389,
+    "popularityPercentile": 4.753,
+    "fanFavouriteDiscoveryScore": 7.0654,
+    "fanFavouriteDiscoveryPercentile": 4.4734
   },
   "context": {
     "primaryProfile": "romance-core",
