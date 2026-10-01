@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-09-26T05:28:44.618Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-29T16:48:20.628Z",
+  "last_updated_at": "2026-09-30T22:06:24.106Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,13 +80,17 @@
   "source": {
     "anilist": {
       "id": 217324,
-      "rating": 72,
+      "rating": 73,
       "url": "https://anilist.co/manga/217324"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-hero-cannot-rest",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/the-hero-cannot-rest"
+    },
     "mangaupdates": {
       "id": "afk15hu",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/afk15hu"
     }
   },
@@ -99,7 +103,8 @@
     6,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -111,18 +116,19 @@
     "57": "unweighted",
     "58": "incidental",
     "93": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 453,
+    "popularity": 518,
     "favourites": 2,
-    "meanScore": 72
+    "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 0.4415,
-    "fanRatioPercentile": 34.1673,
-    "popularityPercentile": 66.4779,
-    "fanFavouriteDiscoveryScore": 33.4714,
-    "fanFavouriteDiscoveryPercentile": 36.3467
+    "fanFavouriteRaw": 0.3861,
+    "fanRatioPercentile": 33.5889,
+    "popularityPercentile": 68.7827,
+    "fanFavouriteDiscoveryScore": 33.0222,
+    "fanFavouriteDiscoveryPercentile": 35.81
   }
 }

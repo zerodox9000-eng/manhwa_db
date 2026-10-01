@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-09-20T05:23:16.416Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-29T17:12:49.175Z",
+  "last_updated_at": "2026-10-01T05:06:27.793Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,7 +68,11 @@
       "rating": 85,
       "url": "https://anilist.co/manga/217130"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "in-deep-blue",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/in-deep-blue"
+    },
     "mangaupdates": {
       "id": "eod3kjd",
       "rating": 64,
@@ -87,7 +91,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -102,7 +107,8 @@
     "428": "unweighted",
     "1378": "core",
     "1387": "core",
-    "1483": "core"
+    "1483": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 30,
@@ -111,9 +117,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2389,
-    "popularityPercentile": 18.2665,
-    "fanFavouriteDiscoveryScore": 14.9572,
-    "fanFavouriteDiscoveryPercentile": 16.4098
+    "fanRatioPercentile": 32.2992,
+    "popularityPercentile": 18.2346,
+    "fanFavouriteDiscoveryScore": 14.9638,
+    "fanFavouriteDiscoveryPercentile": 16.4434
   }
 }

@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-07-24T04:08:24.058Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-30T03:22:18.047Z",
+  "last_updated_at": "2026-10-01T04:46:27.840Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -82,7 +82,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214431"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "surviving-as-the-assassinated-crown-prince",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/surviving-as-the-assassinated-crown-prince"
+    },
     "mangaupdates": {
       "id": "89gt5yu",
       "rating": null,
@@ -92,25 +96,31 @@
   "tag_ids": [
     167,
     43,
+    74,
     108,
     46,
     41,
+    31,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
+    "31": "unweighted",
     "41": "defining",
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "167": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 15,
@@ -119,10 +129,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2389,
-    "popularityPercentile": 9.2623,
-    "fanFavouriteDiscoveryScore": 9.3531,
-    "fanFavouriteDiscoveryPercentile": 8.6601
+    "fanRatioPercentile": 32.2992,
+    "popularityPercentile": 9.2355,
+    "fanFavouriteDiscoveryScore": 9.3558,
+    "fanFavouriteDiscoveryPercentile": 8.6766
   },
   "context": {
     "primaryProfile": "euro-fantasy",

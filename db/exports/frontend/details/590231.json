@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-12T05:27:33.596Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-29T23:58:48.262Z",
+  "last_updated_at": "2026-10-01T04:06:27.124Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -88,14 +88,19 @@
       "rating": 61,
       "url": "https://anilist.co/manga/213224"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-leashed",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-leashed"
+    },
     "mangaupdates": {
       "id": "pgrrz9t",
-      "rating": 63,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/pgrrz9t"
     }
   },
   "tag_ids": [
+    274,
     58,
     36,
     22,
@@ -107,7 +112,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -122,19 +128,21 @@
     "58": "defining",
     "93": "unweighted",
     "180": "defining",
-    "428": "unweighted"
+    "274": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 157,
+    "popularity": 159,
     "favourites": 1,
     "meanScore": 61
   },
   "analytics": {
-    "fanFavouriteRaw": 0.6369,
-    "fanRatioPercentile": 37.4005,
-    "popularityPercentile": 46.4406,
-    "fanFavouriteDiscoveryScore": 33.6812,
-    "fanFavouriteDiscoveryPercentile": 36.7768
+    "fanFavouriteRaw": 0.6289,
+    "fanRatioPercentile": 37.4006,
+    "popularityPercentile": 46.6576,
+    "fanFavouriteDiscoveryScore": 33.7413,
+    "fanFavouriteDiscoveryPercentile": 36.7701
   },
   "context": {
     "primaryProfile": "modern-korea",

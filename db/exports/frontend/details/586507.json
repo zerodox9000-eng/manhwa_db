@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-29T23:06:36.299Z",
+  "last_updated_at": "2026-09-30T23:16:24.879Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -86,7 +86,11 @@
       "rating": 64,
       "url": "https://anilist.co/manga/211930"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-black-steed",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-black-steed"
+    },
     "mangaupdates": {
       "id": "esg0ayj",
       "rating": 63,
@@ -111,7 +115,8 @@
     45,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -132,7 +137,8 @@
     "1395": "recurrent",
     "1947": "recurrent",
     "1991": "recurrent",
-    "3833": "core"
+    "3833": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 134,
@@ -141,10 +147,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.4925,
-    "fanRatioPercentile": 61.8109,
-    "popularityPercentile": 43.6949,
-    "fanFavouriteDiscoveryScore": 54.2762,
-    "fanFavouriteDiscoveryPercentile": 62.155
+    "fanRatioPercentile": 62.1337,
+    "popularityPercentile": 43.6627,
+    "fanFavouriteDiscoveryScore": 54.5418,
+    "fanFavouriteDiscoveryPercentile": 62.3701
   },
   "context": {
     "primaryProfile": "euro-fantasy",

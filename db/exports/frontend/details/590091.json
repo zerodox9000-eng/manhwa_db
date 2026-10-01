@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-17T05:37:15.850Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-30T03:22:56.687Z",
+  "last_updated_at": "2026-10-01T05:46:24.544Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -75,7 +75,11 @@
       "rating": 100,
       "url": "https://anilist.co/manga/215804"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sicario",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/sicario"
+    },
     "mangaupdates": {
       "id": "1w80wyw",
       "rating": null,
@@ -89,7 +93,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -99,19 +104,20 @@
     "57": "unweighted",
     "58": "incidental",
     "93": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 47,
+    "popularity": 48,
     "favourites": null,
     "meanScore": 100
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2389,
-    "popularityPercentile": 25.1774,
-    "fanFavouriteDiscoveryScore": 19.5439,
-    "fanFavouriteDiscoveryPercentile": 21.7793
+    "fanRatioPercentile": 32.2992,
+    "popularityPercentile": 25.5069,
+    "fanFavouriteDiscoveryScore": 19.7915,
+    "fanFavouriteDiscoveryPercentile": 22.0105
   },
   "context": {
     "primaryProfile": "horror-survival",

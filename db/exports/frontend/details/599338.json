@@ -41,7 +41,7 @@
   },
   "first_seen_at": "2026-08-09T02:46:03.863Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-29T02:38:01.428Z",
+  "last_updated_at": "2026-10-01T02:46:56.262Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -61,7 +61,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214721"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "blue-paradox",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/blue-paradox"
+    },
     "mangaupdates": {
       "id": "cd7ybyv",
       "rating": 62,
@@ -77,7 +81,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -89,7 +94,8 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "defining",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 32,
@@ -98,9 +104,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2389,
-    "popularityPercentile": 19.2272,
-    "fanFavouriteDiscoveryScore": 15.6006,
-    "fanFavouriteDiscoveryPercentile": 17.184
+    "fanRatioPercentile": 32.2992,
+    "popularityPercentile": 19.209,
+    "fanFavouriteDiscoveryScore": 15.6175,
+    "fanFavouriteDiscoveryPercentile": 17.2172
   }
 }

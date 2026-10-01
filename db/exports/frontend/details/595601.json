@@ -50,7 +50,7 @@
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-29T19:22:19.481Z",
+  "last_updated_at": "2026-10-01T03:06:26.557Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -72,7 +72,11 @@
       "rating": 49,
       "url": "https://anilist.co/manga/214083"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "android-with-benefits",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/android-with-benefits"
+    },
     "mangaupdates": {
       "id": "zcdoyxw",
       "rating": 60,
@@ -95,6 +99,7 @@
     41,
     632,
     547,
+    689,
     318,
     180,
     16,
@@ -111,7 +116,8 @@
     93,
     1167,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -131,6 +137,7 @@
     "547": "unweighted",
     "632": "unweighted",
     "647": "unweighted",
+    "689": "unweighted",
     "695": "unweighted",
     "850": "unweighted",
     "875": "unweighted",
@@ -146,19 +153,20 @@
     "2058": "unweighted",
     "2449": "unweighted",
     "2458": "unweighted",
-    "2582": "unweighted"
+    "2582": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 47,
+    "popularity": 48,
     "favourites": null,
     "meanScore": 49
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2389,
-    "popularityPercentile": 25.1774,
-    "fanFavouriteDiscoveryScore": 19.5439,
-    "fanFavouriteDiscoveryPercentile": 21.7793
+    "fanRatioPercentile": 32.2992,
+    "popularityPercentile": 25.5069,
+    "fanFavouriteDiscoveryScore": 19.7915,
+    "fanFavouriteDiscoveryPercentile": 22.0105
   },
   "context": {
     "primaryProfile": "romance-core",

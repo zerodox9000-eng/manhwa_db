@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-30T04:18:38.281Z",
+  "last_updated_at": "2026-10-01T04:19:41.239Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -93,10 +93,14 @@
       "rating": 70,
       "url": "https://anilist.co/manga/199568"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-shadow-monster-and-groom",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-shadow-monster-and-groom"
+    },
     "mangaupdates": {
       "id": "yc67w0u",
-      "rating": 65,
+      "rating": 66,
       "url": "https://www.mangaupdates.com/series/yc67w0u"
     }
   },
@@ -109,7 +113,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -121,19 +126,20 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 34,
+    "popularity": 35,
     "favourites": null,
     "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2389,
-    "popularityPercentile": 20.281,
-    "fanFavouriteDiscoveryScore": 16.3082,
-    "fanFavouriteDiscoveryPercentile": 17.9583
+    "fanRatioPercentile": 32.2992,
+    "popularityPercentile": 20.7924,
+    "fanFavouriteDiscoveryScore": 16.6826,
+    "fanFavouriteDiscoveryPercentile": 18.4209
   },
   "context": {
     "primaryProfile": "romance-core",

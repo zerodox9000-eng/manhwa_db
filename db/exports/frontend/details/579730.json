@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-30T00:46:39.103Z",
+  "last_updated_at": "2026-10-01T00:29:28.679Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -129,7 +129,11 @@
       "rating": 65,
       "url": "https://anilist.co/manga/208489"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-unholy-house-fairy",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/my-unholy-house-fairy"
+    },
     "mangaupdates": {
       "id": "ehum8d3",
       "rating": 66,
@@ -138,6 +142,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
@@ -145,7 +150,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -154,10 +160,12 @@
     "43": "defining",
     "46": "unweighted",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "228": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 117,
@@ -166,10 +174,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.8547,
-    "fanRatioPercentile": 42.7486,
-    "popularityPercentile": 41.1212,
-    "fanFavouriteDiscoveryScore": 36.4741,
-    "fanFavouriteDiscoveryPercentile": 40.3685
+    "fanRatioPercentile": 42.9534,
+    "popularityPercentile": 41.0833,
+    "fanFavouriteDiscoveryScore": 36.6318,
+    "fanFavouriteDiscoveryPercentile": 40.4958
   },
   "context": {
     "primaryProfile": "modern-korea",

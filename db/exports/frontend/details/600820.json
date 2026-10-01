@@ -3,20 +3,38 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Basement Wizard's Noisy Practice Time",
-  "mangabaka_title": "The Basement Wizard's Noisy Practice Time",
+  "mangabaka_title": "Jihasil Mabeopsaui Yoranhan Silseum Sigan",
   "native_title": "지하실 마법사의 요란한 실습 시간",
-  "romanized_title": null,
+  "romanized_title": "Jihasil Mabeopsaui Yoranhan Silseum Sigan",
   "titles": [
     {
       "language": "ko",
-      "title": "지하실 마법사의 요란한 실습시간",
-      "traits": [],
+      "title": "지하실 마법사의 요란한 실습 시간",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jihasil Mabeopsaui Yoranhan Silseum Sigan",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "The Basement Wizard's Chaotic Practical Lesson",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Basement Wizard's Noisy Practical Class",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -30,29 +48,29 @@
     }
   ],
   "description": "After the massacre of wizards, Jaina remains the last wizard in the world. Imprisoned in a dungeon for over a decade. Then one day, a suspicious book she accidentally gets her hands on leads her into a new world. Inside lies a world of performance and pleasure that Jaina never knew. Driven by an uncontrollable curiosity, Jaina finally makes up her mind. \n\n'Alright. I'm going to find my own XX.'\n\nHowever, right as she finishes her resolve, miraculously, a man appears in the dungeon. Ronius Extion, the Captain of the Knights. Having found the perfect 'XX', Jaina boldly grabs Ronius's XX right in front of his subordinates... \n\n\"Your body is mine from now on.\" \n\nThe iron-blooded knight marked by the last wizard. Will Ronius survive her clutches?\n\n**Original Webtoon:**  \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14597752), [Bomtoon](https://www.bomtoon.com/detail/magepractice), [Lezhin](https://www.lezhin.com/ko/comic/basement_wizard)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MjI1LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzYwNS1nYndiUlVPTHVrYW4uanBn",
   "total_chapters": "17",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-21",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-29T11:29:21.124Z",
+  "last_updated_at": "2026-10-01T04:16:57.362Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "CHA Geukma",
+    "Geuk-Ma Ja",
     "Yunnait"
   ],
   "artists": [
-    "Sari (사리)"
+    "Sari"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600820",
@@ -60,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217605,
+      "rating": null,
+      "url": "https://anilist.co/manga/217605"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "zvlz67f",
@@ -70,20 +92,41 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
+    280,
+    398,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "280": "unweighted",
+    "398": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.2992,
+    "popularityPercentile": 0.2293,
+    "fanFavouriteDiscoveryScore": 5.2143,
+    "fanFavouriteDiscoveryPercentile": 0.2293
   }
 }
