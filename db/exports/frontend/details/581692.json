@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T00:31:28.836Z",
+  "last_updated_at": "2026-10-01T16:40:00.570Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,10 +79,14 @@
       "rating": 60,
       "url": "https://anilist.co/manga/209200"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "fallback-room",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/fallback-room"
+    },
     "mangaupdates": {
       "id": "2rm6in3",
-      "rating": 61,
+      "rating": 60,
       "url": "https://www.mangaupdates.com/series/2rm6in3"
     }
   },
@@ -102,7 +106,8 @@
     45,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -121,7 +126,8 @@
     "336": "incidental",
     "428": "unweighted",
     "984": "core",
-    "3046": "core"
+    "3046": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 32,
@@ -130,10 +136,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 19.209,
-    "fanFavouriteDiscoveryScore": 15.6175,
-    "fanFavouriteDiscoveryPercentile": 17.2172
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 19.1421,
+    "fanFavouriteDiscoveryScore": 15.5751,
+    "fanFavouriteDiscoveryPercentile": 17.1871
   },
   "context": {
     "primaryProfile": "regression-return",

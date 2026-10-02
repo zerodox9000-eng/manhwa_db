@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-09-23T05:10:48.924Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-30T16:41:22.191Z",
+  "last_updated_at": "2026-10-01T22:12:52.762Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -83,7 +83,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/216933"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-academys-weapon-replicator",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/the-academys-weapon-replicator"
+    },
     "mangaupdates": {
       "id": "2dhyl9m",
       "rating": 62,
@@ -93,15 +97,18 @@
   "tag_ids": [
     38,
     58,
+    74,
     107,
     36,
+    94,
     39,
     31,
     42,
     267,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -112,21 +119,24 @@
     "42": "defining",
     "57": "unweighted",
     "58": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
+    "94": "unweighted",
     "107": "unweighted",
     "267": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 490,
+    "popularity": 614,
     "favourites": 3,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 0.6122,
-    "fanRatioPercentile": 37.0567,
-    "popularityPercentile": 67.7939,
-    "fanFavouriteDiscoveryScore": 36.3788,
-    "fanFavouriteDiscoveryPercentile": 40.1734
+    "fanFavouriteRaw": 0.4886,
+    "fanRatioPercentile": 34.9184,
+    "popularityPercentile": 71.9708,
+    "fanFavouriteDiscoveryScore": 34.465,
+    "fanFavouriteDiscoveryPercentile": 37.7542
   }
 }

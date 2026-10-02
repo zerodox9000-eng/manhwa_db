@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-29T01:47:12.218Z",
+  "last_updated_at": "2026-10-01T14:08:00.363Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -98,7 +98,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/204243"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "peach-in-my-mouth",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/peach-in-my-mouth"
+    },
     "mangaupdates": {
       "id": "rsrhnrg",
       "rating": null,
@@ -106,14 +110,18 @@
     }
   },
   "tag_ids": [
+    74,
+    106,
     46,
     41,
     180,
     16,
+    241,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -122,9 +130,13 @@
     "41": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
+    "106": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "241": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 13,
@@ -133,10 +145,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 7.8312,
-    "fanFavouriteDiscoveryScore": 8.5976,
-    "fanFavouriteDiscoveryPercentile": 7.3655
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 7.8344,
+    "fanFavouriteDiscoveryScore": 8.6007,
+    "fanFavouriteDiscoveryPercentile": 7.3761
   },
   "context": {
     "primaryProfile": "romance-core",

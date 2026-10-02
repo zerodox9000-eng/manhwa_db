@@ -3,13 +3,22 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Flying in the Darkness",
-  "mangabaka_title": "Flying in the Darkness",
+  "mangabaka_title": "Eodumsogeul Naraseo",
   "native_title": "어둠속을 날아서",
-  "romanized_title": null,
+  "romanized_title": "Eodumsogeul Naraseo",
   "titles": [
     {
       "language": "ko",
       "title": "어둠속을 날아서",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Eodumsogeul Naraseo",
       "traits": [
         "native"
       ],
@@ -25,28 +34,28 @@
     }
   ],
   "description": "A deceased man convinces a Grim Reaper girl to send him back by promising to do good deeds.\n\n[Original Webtoon](https://www.foxtoon.com/comic/darkFry)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ZseWluZy1pbi10aGUtZGFya25lc3MtMS5qcGc_dD0xNjI1OTE0ODY5",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzYzNi1HbEt3ODVoUzBiOVMuanBn",
   "total_chapters": "23",
-  "status": "completed",
+  "status": "cancelled",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2014,
   "published": {
-    "start_date": "2014-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2014-12-08",
+    "end_date": "2016-04-26",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:37:33.830Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T05:52:51.369Z",
+  "last_updated_at": "2026-10-02T03:36:32.920Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "HU Rijjyu"
+    "Hurijjyu"
   ],
   "artists": [
-    "HU Rijjyu"
+    "Hurijjyu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/24570",
@@ -54,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217636,
+      "rating": null,
+      "url": "https://anilist.co/manga/217636"
+    },
     "animeplanet": {
       "id": "flying-in-the-darkness",
       "rating": null,
@@ -67,23 +80,39 @@
     }
   },
   "tag_ids": [
+    36,
     22,
+    39,
     6,
+    31,
     93,
     57,
     428,
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "22": "defining",
+    "31": "unweighted",
+    "36": "unweighted",
+    "39": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 0.2148,
+    "fanFavouriteDiscoveryScore": 5.2099,
+    "fanFavouriteDiscoveryPercentile": 0.2148
   },
   "context": {
     "primaryProfile": "modern-korea",

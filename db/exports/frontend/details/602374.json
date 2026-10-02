@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-09-10T05:14:05.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T03:53:29.133Z",
+  "last_updated_at": "2026-10-02T03:54:34.690Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -83,7 +83,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/217499"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "imprisoned-pregnancy-education",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/imprisoned-pregnancy-education"
+    },
     "mangaupdates": {
       "id": "nxfmpx7",
       "rating": null,
@@ -98,7 +102,10 @@
     41,
     31,
     9,
-    57
+    93,
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -109,18 +116,21 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
-    "108": "unweighted"
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 0.2293,
-    "fanFavouriteDiscoveryScore": 5.2143,
-    "fanFavouriteDiscoveryPercentile": 0.2293
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 0.4512,
+    "fanFavouriteDiscoveryScore": 5.2966,
+    "fanFavouriteDiscoveryPercentile": 0.444
   }
 }

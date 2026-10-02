@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-09-16T05:15:46.329Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T03:50:00.018Z",
+  "last_updated_at": "2026-10-02T03:50:32.911Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,7 +68,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/216881"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "touch-and-cash",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/touch-and-cash"
+    },
     "mangaupdates": {
       "id": "e4qobj2",
       "rating": null,
@@ -83,7 +87,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -94,18 +99,19 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 23,
+    "popularity": 29,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 14.5662,
-    "fanFavouriteDiscoveryScore": 12.5544,
-    "fanFavouriteDiscoveryPercentile": 13.3983
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 17.7814,
+    "fanFavouriteDiscoveryScore": 14.6634,
+    "fanFavouriteDiscoveryPercentile": 16.1129
   }
 }

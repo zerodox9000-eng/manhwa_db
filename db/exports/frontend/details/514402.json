@@ -162,7 +162,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T02:02:48.206Z",
+  "last_updated_at": "2026-10-02T00:14:23.342Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -176,7 +176,8 @@
     "mangabaka": "https://mangabaka.org/514402",
     "read_en": "https://manta.net/en/series/when-your-uptight-boss-gets-riled-up-full-ver?seriesId=5328",
     "read_en_all": [
-      "https://manta.net/en/series/when-your-uptight-boss-gets-riled-up-full-ver?seriesId=5328"
+      "https://manta.net/en/series/when-your-uptight-boss-gets-riled-up-full-ver?seriesId=5328",
+      "https://tapas.io/series/when-your-uptight-boss-gets-riled-up-mature/info"
     ]
   },
   "source": {
@@ -185,7 +186,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/203179"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "when-your-uptight-boss-gets-riled-up",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/when-your-uptight-boss-gets-riled-up"
+    },
     "mangaupdates": {
       "id": "3l15ib8",
       "rating": 62,
@@ -194,14 +199,18 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
+    576,
     46,
     41,
     31,
+    241,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -211,9 +220,13 @@
     "43": "defining",
     "46": "unweighted",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "241": "unweighted",
+    "428": "unweighted",
+    "576": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 31,
@@ -222,10 +235,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 6.4516,
-    "fanRatioPercentile": 98.7175,
-    "popularityPercentile": 18.7075,
-    "fanFavouriteDiscoveryScore": 46.7031,
-    "fanFavouriteDiscoveryPercentile": 54.4315
+    "fanRatioPercentile": 98.7325,
+    "popularityPercentile": 18.6766,
+    "fanFavouriteDiscoveryScore": 46.6468,
+    "fanFavouriteDiscoveryPercentile": 54.4042
   },
   "context": {
     "primaryProfile": "romance-core",

@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-09-22T05:26:20.707Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T03:16:26.778Z",
+  "last_updated_at": "2026-10-02T03:13:02.928Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -82,7 +82,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/217603"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-discovered-my-childhood-friends-secret-preference",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/i-discovered-my-childhood-friends-secret-preference"
+    },
     "mangaupdates": {
       "id": "j7uckhv",
       "rating": 64,
@@ -111,11 +115,12 @@
     1004,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "9": "unweighted",
+    "9": "defining",
     "16": "defining",
     "31": "defining",
     "46": "defining",
@@ -136,18 +141,19 @@
     "4049": "unweighted",
     "4107": "unweighted",
     "4499": "unweighted",
-    "4816": "unweighted"
+    "4816": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 0.2293,
-    "fanFavouriteDiscoveryScore": 5.2143,
-    "fanFavouriteDiscoveryPercentile": 0.2293
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 0.2148,
+    "fanFavouriteDiscoveryScore": 5.2099,
+    "fanFavouriteDiscoveryPercentile": 0.2148
   }
 }

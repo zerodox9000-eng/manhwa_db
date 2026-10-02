@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-07-09T04:46:13.898Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-30T16:29:21.249Z",
+  "last_updated_at": "2026-10-01T16:44:11.561Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,7 +68,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/214493"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "synaptic-error",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/synaptic-error"
+    },
     "mangaupdates": {
       "id": "75r9v79",
       "rating": null,
@@ -87,7 +91,8 @@
     32,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -102,7 +107,8 @@
     "93": "unweighted",
     "428": "unweighted",
     "630": "unweighted",
-    "707": "incidental"
+    "707": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 26,
@@ -111,10 +117,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 16.3144,
-    "fanFavouriteDiscoveryScore": 13.6889,
-    "fanFavouriteDiscoveryPercentile": 14.8958
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 16.2203,
+    "fanFavouriteDiscoveryScore": 13.6293,
+    "fanFavouriteDiscoveryPercentile": 14.831
   },
   "context": {
     "primaryProfile": "modern-korea",

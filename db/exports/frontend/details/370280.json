@@ -141,7 +141,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-29T13:33:49.671Z",
+  "last_updated_at": "2026-10-01T14:05:56.952Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -164,7 +164,11 @@
       "rating": 80,
       "url": "https://anilist.co/manga/197991"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-lady-gives-white-rice-only-to-me",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-lady-gives-white-rice-only-to-me"
+    },
     "mangaupdates": {
       "id": "41l3u1y",
       "rating": null,
@@ -173,6 +177,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
@@ -182,7 +187,10 @@
     31,
     9,
     45,
-    57
+    93,
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -193,10 +201,14 @@
     "45": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
     "108": "unweighted",
     "161": "incidental",
     "171": "incidental",
-    "370": "incidental"
+    "370": "incidental",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 26,
@@ -205,10 +217,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 16.3144,
-    "fanFavouriteDiscoveryScore": 13.6889,
-    "fanFavouriteDiscoveryPercentile": 14.8958
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 16.2203,
+    "fanFavouriteDiscoveryScore": 13.6293,
+    "fanFavouriteDiscoveryPercentile": 14.831
   },
   "context": {
     "primaryProfile": "romance-core",

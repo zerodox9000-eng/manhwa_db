@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T04:16:07.638Z",
+  "last_updated_at": "2026-10-02T04:14:17.957Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -76,10 +76,14 @@
   "source": {
     "anilist": {
       "id": 212661,
-      "rating": 65,
+      "rating": 66,
       "url": "https://anilist.co/manga/212661"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "you-call-this-a-sponsor",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/you-call-this-a-sponsor"
+    },
     "mangaupdates": {
       "id": "2wp54r2",
       "rating": 65,
@@ -102,7 +106,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -121,19 +126,20 @@
     "376": "incidental",
     "428": "unweighted",
     "3725": "core",
-    "4282": "core"
+    "4282": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 25,
+    "popularity": 26,
     "favourites": null,
-    "meanScore": 65
+    "meanScore": 66
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 15.7842,
-    "fanFavouriteDiscoveryScore": 13.3416,
-    "fanFavouriteDiscoveryPercentile": 14.43
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 16.2203,
+    "fanFavouriteDiscoveryScore": 13.6293,
+    "fanFavouriteDiscoveryPercentile": 14.831
   },
   "context": {
     "primaryProfile": "showbiz-career",

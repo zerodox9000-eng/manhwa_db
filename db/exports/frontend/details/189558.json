@@ -141,7 +141,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T00:18:33.537Z",
+  "last_updated_at": "2026-10-02T00:19:46.663Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -166,7 +166,11 @@
       "rating": 73,
       "url": "https://anilist.co/manga/191359"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "haunted-desire",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/haunted-desire"
+    },
     "mangaupdates": {
       "id": "txh9zy9",
       "rating": null,
@@ -175,6 +179,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     22,
     46,
@@ -186,7 +191,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -198,23 +204,25 @@
     "44": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "228": "incidental",
     "229": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 100,
+    "popularity": 101,
     "favourites": 1,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 1,
-    "fanRatioPercentile": 47.2021,
-    "popularityPercentile": 38.2819,
-    "fanFavouriteDiscoveryScore": 38.7554,
-    "fanFavouriteDiscoveryPercentile": 43.0107
+    "fanFavouriteRaw": 0.9901,
+    "fanRatioPercentile": 46.892,
+    "popularityPercentile": 38.4632,
+    "fanFavouriteDiscoveryScore": 38.6044,
+    "fanFavouriteDiscoveryPercentile": 42.7456
   },
   "context": {
     "primaryProfile": "horror-survival",

@@ -2,7 +2,7 @@
   "id": 601614,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Somehow, With My Brother's Friend",
+  "display_title": "How I Ended up With My Oppa's Friend",
   "mangabaka_title": "Eojjeoda Oppa Chinguwa",
   "native_title": "어쩌다 오빠 친구와",
   "romanized_title": "Eojjeoda Oppa Chinguwa",
@@ -40,10 +40,10 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "How I Ended up With My Oppa's Friend",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -57,7 +57,7 @@
       "language": "en",
       "title": "Somehow, With My Brother's Friend",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-09-01T02:54:38.960Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-28T21:20:10.032Z",
+  "last_updated_at": "2026-10-01T13:36:36.340Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -98,7 +98,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/216239"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "how-i-ended-up-with-my-oppas-friend",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/how-i-ended-up-with-my-oppas-friend"
+    },
     "mangaupdates": {
       "id": "zf1g2iv",
       "rating": 64,
@@ -107,24 +111,30 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
+    31,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
+    "31": "unweighted",
     "41": "defining",
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 9,
@@ -133,9 +143,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 4.7646,
-    "fanFavouriteDiscoveryScore": 7.084,
-    "fanFavouriteDiscoveryPercentile": 4.4924
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 4.7766,
+    "fanFavouriteDiscoveryScore": 7.0906,
+    "fanFavouriteDiscoveryPercentile": 4.5116
   }
 }

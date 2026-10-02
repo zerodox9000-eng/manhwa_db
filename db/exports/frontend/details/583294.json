@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T00:25:35.054Z",
+  "last_updated_at": "2026-10-02T00:25:51.801Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -87,7 +87,11 @@
       "rating": 76,
       "url": "https://anilist.co/manga/210565"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "sonnet-of-the-dawn",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/sonnet-of-the-dawn"
+    },
     "mangaupdates": {
       "id": "j2c4wk7",
       "rating": 61,
@@ -96,13 +100,15 @@
   },
   "tag_ids": [
     40,
+    74,
     108,
     36,
     31,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -111,9 +117,11 @@
     "36": "defining",
     "40": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 167,
@@ -122,10 +130,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.2992,
-    "popularityPercentile": 47.6177,
-    "fanFavouriteDiscoveryScore": 29.3599,
-    "fanFavouriteDiscoveryPercentile": 31.6615
+    "fanRatioPercentile": 32.3045,
+    "popularityPercentile": 47.5652,
+    "fanFavouriteDiscoveryScore": 29.353,
+    "fanFavouriteDiscoveryPercentile": 31.6528
   },
   "context": {
     "primaryProfile": "euro-fantasy",
