@@ -4,13 +4,15 @@
   "type": "manhwa",
   "display_title": "IF I",
   "mangabaka_title": "Dokgo Flower",
-  "native_title": "復讐の毒鼓 -Flower-",
+  "native_title": "독고 플라워",
   "romanized_title": "Dockgo Flower",
   "titles": [
     {
       "language": "ko",
       "title": "독고 플라워",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -24,7 +26,9 @@
     {
       "language": "ko-Latn",
       "title": "Dokgo Flower",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -58,28 +62,28 @@
     }
   ],
   "description": "[Original Webtoon](https://toomics.com/uplmscg/episode/toon/2532)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzM1MTI3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzY1OS0yQkhRekRBSHExT0YuanBn",
   "total_chapters": "67",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
-  "year": 2016,
+  "year": 2014,
   "published": {
-    "start_date": "2016-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2014-10-14",
+    "end_date": "2015-01-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": true
   },
-  "first_seen_at": "2026-06-10T15:38:39.045Z",
-  "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-09-30T07:49:21.187Z",
+  "first_seen_at": "2026-10-03T05:36:12.647Z",
+  "first_seen_at_is_trusted": true,
+  "last_updated_at": "2026-10-02T21:39:11.417Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Un"
   ],
   "artists": [
-    "HONG Solmin"
+    "Sol-Min Hong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/92766",
@@ -87,7 +91,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217659,
+      "rating": null,
+      "url": "https://anilist.co/manga/217659"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "f8pthlr",
@@ -98,18 +106,31 @@
   "tag_ids": [
     107,
     39,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "39": "defining",
+    "42": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.3702,
+    "popularityPercentile": 0.2932,
+    "fanFavouriteDiscoveryScore": 5.2492,
+    "fanFavouriteDiscoveryPercentile": 0.2932
   },
   "context": {
     "primaryProfile": "modern-korea",

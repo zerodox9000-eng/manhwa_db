@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-09-27T05:46:14.064Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T22:47:47.773Z",
+  "last_updated_at": "2026-10-02T23:01:26.547Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,46 +80,56 @@
       "rating": null,
       "url": "https://anilist.co/manga/217429"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-principal-wife",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-principal-wife"
+    },
     "mangaupdates": {
       "id": "bbgekud",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/bbgekud"
     }
   },
   "tag_ids": [
     43,
+    74,
     46,
     15,
     41,
     109,
+    31,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
     "15": "defining",
+    "31": "unweighted",
     "41": "defining",
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 5,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.3045,
-    "popularityPercentile": 1.8404,
-    "fanFavouriteDiscoveryScore": 5.8294,
-    "fanFavouriteDiscoveryPercentile": 1.733
+    "fanRatioPercentile": 32.3702,
+    "popularityPercentile": 3.3257,
+    "fanFavouriteDiscoveryScore": 6.4573,
+    "fanFavouriteDiscoveryPercentile": 3.1183
   }
 }

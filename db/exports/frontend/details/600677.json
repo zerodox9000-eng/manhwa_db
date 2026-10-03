@@ -5,19 +5,32 @@
   "display_title": "My Maid Tastes So Sweet",
   "mangabaka_title": "My Maid Tastes So Sweet",
   "native_title": "주인님의 달콤한 메이드",
-  "romanized_title": null,
+  "romanized_title": "Juinnimui Dalkomhan Maid",
   "titles": [
     {
       "language": "ko",
       "title": "주인님의 달콤한 메이드",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Juinnimui Dalkomhan Maid",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "My Maid Tastes So Sweet",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,30 +42,29 @@
       "note": null
     }
   ],
-  "description": "Emilia is a clumsy maid who isn't very good at her job, but her employer, Count Ciaran Sharnach, is nothing but kind to her. Feeling grateful, Emilia wants to do everything she can for Ciaran and tries to dust a shelf that's high up. But to her horror, she stumbles and lands right on Ciaran's face! Although she expects to get fired, Emilia soon learns that Ciaran wants her to sit on his face again, very badly. In fact, her master just might be addicted to the sweet taste of her pleasure...\n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14598841), [Ridibooks](https://ridibooks.com/books/1561018703) \n\n**Official Translations:**    \n[English](https://www.tappytoon.com/en/book/my-maid-tastes-so-sweet-m)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MTI4LmpwZw",
+  "description": "Emilia is a clumsy maid who isn't very good at her job, but her employer, Count Ciaran Sharnach, is nothing but kind to her. Feeling grateful, Emilia wants to do everything she can for Ciaran and tries to dust a shelf that's high up. But to her horror, she stumbles and lands right on Ciaran's face! Although she expects to get fired, Emilia soon learns that Ciaran wants her to sit on his face again, very badly. In fact, her master just might be addicted to the sweet taste of her pleasure...\n\n(Source: Tappytoon)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzY5Ni00Z3YwZVRxSzE5Q3QuanBn",
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-20",
+    "end_date": "2026-08-20",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-21T02:18:47.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T23:13:51.985Z",
+  "last_updated_at": "2026-10-03T04:36:05.152Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Bomgeulim",
-    "Budd1e"
+    "Beodeul"
   ],
   "artists": [
-    "Dongly"
+    "Dongni"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600677",
@@ -60,7 +72,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217696,
+      "rating": null,
+      "url": "https://anilist.co/manga/217696"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "rtb9tyg",
@@ -76,6 +92,8 @@
     2001,
     874,
     4128,
+    116,
+    108,
     406,
     36,
     5634,
@@ -88,17 +106,47 @@
     127,
     1126,
     1128,
-    57
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "116": "unweighted",
+    "127": "core",
+    "171": "core",
+    "372": "core",
+    "406": "core",
+    "428": "unweighted",
+    "556": "core",
+    "874": "core",
+    "1126": "core",
+    "1128": "unweighted",
+    "2001": "core",
+    "2156": "core",
+    "2177": "core",
+    "4128": "core",
+    "5634": "core"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.3702,
+    "popularityPercentile": 0.2932,
+    "fanFavouriteDiscoveryScore": 5.2492,
+    "fanFavouriteDiscoveryPercentile": 0.2932
   }
 }

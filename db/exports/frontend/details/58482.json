@@ -4,8 +4,8 @@
   "type": "manhwa",
   "display_title": "Colosseum",
   "mangabaka_title": "Colosseum",
-  "native_title": "コロセウム",
-  "romanized_title": null,
+  "native_title": "콜로세움",
+  "romanized_title": "Colosseum",
   "titles": [
     {
       "language": "ko",
@@ -19,7 +19,18 @@
     {
       "language": "en",
       "title": "Colosseum",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Colosseum",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -38,29 +49,29 @@
       "note": null
     }
   ],
-  "description": "Club Colosseum is a place where criminals who are not properly punished by the law are kidnapped and disciplined thoroughly. However, one of the criminals who was brought in seems slightly different than the others. He escapes the Colosseum and starts a counter-attack on it. Said criminal is Jihoon Ryu, a university student who loves cover and concealment, and someone who has been deemed a criminal for reasons unknown. Follow the action filled revenge story of Jihoon, who turns out to have been a member of the Special Forces in the past!\n\n**Original Webtoon:**  \n[Daum](https://webtoon.kakao.com/content/%EC%BD%9C%EB%A1%9C%EC%84%B8%EC%9B%80/1837), [KakaoPage](https://page.kakao.com/content/53952394)\n\n**Official Translations:**  \n[English](https://lalatoon.com/en/webtoon/episode/toon/7099), [Japanese](https://jp.piccoma.com/web/product/71334), [T.Chinese](https://tw.kakaowebtoon.com/content/%E7%8A%AF%E7%BD%AA%E7%AB%B6%E6%8A%80%E5%A0%B4/727)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2NvbG9zc2V1bS0xLndlYnA_dD0xNzI4MjY1MjY5",
-  "total_chapters": "80",
+  "description": "Club Colosseum is a place where criminals who are not properly punished by the law are kidnapped and disciplined thoroughly. Follow the action filled revenge story of Jihoon, who turns out to have been a member of the Special Forces in the past!\n\n(Source: Lalatoon)\n\n*Note: Includes one extra chapter.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzY1Ny0yYXBraGIyREtsZmMuanBn",
+  "total_chapters": "81",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2019,
   "published": {
-    "start_date": "2019-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2019-12-04",
+    "end_date": "2021-06-08",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:41:08.379Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T04:20:37.919Z",
+  "last_updated_at": "2026-10-02T13:46:32.345Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Meen"
   ],
   "artists": [
-    "KEUNBIT"
+    "Keun-Bit Han"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/58482",
@@ -68,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217657,
+      "rating": null,
+      "url": "https://anilist.co/manga/217657"
+    },
     "animeplanet": {
       "id": "colosseum",
       "rating": null,
@@ -92,15 +107,28 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "8": "defining",
+    "31": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "227": "unweighted",
+    "288": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.3702,
+    "popularityPercentile": 0.2932,
+    "fanFavouriteDiscoveryScore": 5.2492,
+    "fanFavouriteDiscoveryPercentile": 0.2932
   },
   "context": {
     "primaryProfile": "modern-korea",

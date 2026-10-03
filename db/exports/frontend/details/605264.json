@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Girl Clumsy With Her Words",
-  "mangabaka_title": "A Girl Clumsy With Her Words",
+  "mangabaka_title": "Pyohyeoni Seotun Yeojaae",
   "native_title": "표현이 서툰 여자애",
-  "romanized_title": null,
+  "romanized_title": "Pyohyeoni Seotun Yeojaae",
   "titles": [
     {
       "language": "ko",
       "title": "표현이 서툰 여자애",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,6 +20,15 @@
       "language": "en",
       "title": "A Girl Clumsy With Her Words",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Pyohyeoni Seotun Yeojaae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,25 +41,26 @@
     }
   ],
   "description": "Lee Harin, a transfer student, has an appearance and aura that makes it difficult for anyone to approach her. Choi Dochan, who loves games but is terrible at them despite not having played for long, shows interest in Harin, who is exceptionally skilled. Though she seemed colder than anyone, she was actually just bad at expressing herself. In truth, she already liked Dochan... This is a school romantic comedy about her journey to become better at expressing her feelings.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855294), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14766573)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5MzI4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzUxNC1RTUVzTmVHdnZJN2IuanBn",
   "total_chapters": "5",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-29T06:10:44.365Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-02T01:02:09.750Z",
+  "last_updated_at": "2026-10-03T01:16:33.328Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "pulpit"
+    "Gangdan",
+    "Gegegek"
   ],
   "artists": [
     "Gegegek"
@@ -59,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217514,
+      "rating": 65,
+      "url": "https://anilist.co/manga/217514"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "gw6toru",
@@ -74,14 +90,22 @@
     42
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "42": "defining",
+    "107": "unweighted"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 43,
+    "favourites": 1,
+    "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 2.3256,
+    "fanRatioPercentile": 81.1829,
+    "popularityPercentile": 23.7806,
+    "fanFavouriteDiscoveryScore": 46.9332,
+    "fanFavouriteDiscoveryPercentile": 55.0708
   }
 }

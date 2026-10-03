@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-09-19T05:03:46.247Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T16:57:48.679Z",
+  "last_updated_at": "2026-10-02T22:04:31.721Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -93,10 +93,14 @@
   "source": {
     "anilist": {
       "id": 217230,
-      "rating": null,
+      "rating": 70,
       "url": "https://anilist.co/manga/217230"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "tracing-night-desires",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/tracing-night-desires"
+    },
     "mangaupdates": {
       "id": "a3mb670",
       "rating": null,
@@ -111,7 +115,10 @@
     41,
     109,
     9,
-    57
+    93,
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -122,18 +129,21 @@
     "46": "defining",
     "57": "unweighted",
     "59": "incidental",
-    "109": "incidental"
+    "93": "unweighted",
+    "109": "incidental",
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 13,
+    "popularity": 19,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.3045,
-    "popularityPercentile": 7.8344,
-    "fanFavouriteDiscoveryScore": 8.6007,
-    "fanFavouriteDiscoveryPercentile": 7.3761
+    "fanRatioPercentile": 32.3702,
+    "popularityPercentile": 12.1799,
+    "fanFavouriteDiscoveryScore": 11.0904,
+    "fanFavouriteDiscoveryPercentile": 11.3145
   }
 }
