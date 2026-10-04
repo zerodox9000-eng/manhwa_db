@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Conditions for a Perfect Housekeeping",
-  "mangabaka_title": "Conditions for a Perfect Housekeeping",
+  "mangabaka_title": "Wanbyeokan Sallimui Jogeon",
   "native_title": "완벽한 살림의 조건",
-  "romanized_title": null,
+  "romanized_title": "Wanbyeokan Sallimui Jogeon",
   "titles": [
     {
       "language": "ko",
       "title": "완벽한 살림의 조건",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -57,6 +59,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Wanbyeokan Sallimui Jogeon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ru",
       "title": "Условия для идеального семейного быта",
       "traits": [],
@@ -64,29 +75,29 @@
       "note": null
     }
   ],
-  "description": "One day, the ill-fated woman Seo Ye-won draws a fortune cookie that promises to grant any wish.\nAs I look around the messy house, I make a wish as if joking\n\n\"Someone please do the housework for me instead! (Condition: a handsome person who does a good night shift lol)\"\n\nBut this... Does it work?\n\n[**Original Webtoon**](https://ridibooks.com/books/6365000001)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2NvbmRpdGlvbnMtZm9yLWEtcGVyZmVjdC1ob3VzZWtlZXBpbmctMS53ZWJwP3Q9MTc4OTkyMjE0OA",
+  "description": "One day, the ill-fated woman Seo Ye-won draws a fortune cookie that promises to grant any wish. As I look around the messy house, I make a wish as if joking \n\n\"Someone please do the housework for me instead! (Condition: a handsome person who does a good night shift lol)\" \n\nBut this... Does it work?",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzcxOC0zUUlnS1VTS1h2TzMuanBn",
   "total_chapters": "7",
   "status": "completed",
-  "content_rating": "erotica",
+  "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-11",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-07T18:21:24.774Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-03T01:11:52.224Z",
+  "last_updated_at": "2026-10-04T01:12:54.373Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Myung"
+    "Myeong"
   ],
   "artists": [
-    "Myung"
+    "Myeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602193",
@@ -94,7 +105,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217718,
+      "rating": null,
+      "url": "https://anilist.co/manga/217718"
+    },
     "animeplanet": {
       "id": "conditions-for-a-perfect-housekeeping",
       "rating": null,
@@ -108,22 +123,39 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
+    10,
     41,
+    9,
     93,
     57,
     428,
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "10": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 0.2786,
+    "fanFavouriteDiscoveryScore": 5.2494,
+    "fanFavouriteDiscoveryPercentile": 0.2786
   }
 }

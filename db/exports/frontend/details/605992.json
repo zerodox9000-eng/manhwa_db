@@ -2,7 +2,7 @@
   "id": 605992,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Copying Skills with Affinity!",
+  "display_title": "Copy Skills With Affinity!",
   "mangabaka_title": "Hogamdoro Skill Boksa!",
   "native_title": "호감도로 스킬 복사!",
   "romanized_title": "Hogamdoro Skill Boksa!",
@@ -17,8 +17,29 @@
       "note": null
     },
     {
+      "language": "id",
+      "title": "Copas Skill Pakai Afinitas!",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Copying Skills with Affinity!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Copy Skills With Affinity!",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Dùng Độ Hảo Cảm Để Sao Chép Kỹ Năng",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -29,6 +50,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "ก๊อปปี้สกิลด้วยค่าความชอบ!",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
@@ -48,7 +76,7 @@
   },
   "first_seen_at": "2026-10-03T05:46:39.935Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-02T14:11:34.633Z",
+  "last_updated_at": "2026-10-04T01:37:09.341Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,13 +94,18 @@
   "source": {
     "anilist": {
       "id": 217660,
-      "rating": null,
+      "rating": 75,
       "url": "https://anilist.co/manga/217660"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "nffmjfg",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/nffmjfg"
+    }
   },
   "tag_ids": [
+    8,
     59,
     58,
     163,
@@ -84,25 +117,26 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "36": "unweighted",
-    "39": "unweighted",
+    "8": "unweighted",
+    "36": "defining",
+    "39": "defining",
     "57": "unweighted",
-    "58": "unweighted",
+    "58": "incidental",
     "59": "unweighted",
     "93": "unweighted",
-    "163": "unweighted",
+    "163": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 172,
+    "favourites": 2,
+    "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.3702,
-    "popularityPercentile": 0.2932,
-    "fanFavouriteDiscoveryScore": 5.2492,
-    "fanFavouriteDiscoveryPercentile": 0.2932
+    "fanFavouriteRaw": 1.1628,
+    "fanRatioPercentile": 52.0463,
+    "popularityPercentile": 48.1608,
+    "fanFavouriteDiscoveryScore": 47.5013,
+    "fanFavouriteDiscoveryPercentile": 55.946
   }
 }

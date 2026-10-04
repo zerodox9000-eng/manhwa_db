@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Do Not Harass Your Boss",
-  "mangabaka_title": "Do Not Harass Your Boss",
+  "mangabaka_title": "Sangsareul Huironghaji Mal Geot",
   "native_title": "상사를 희롱하지 말 것",
-  "romanized_title": null,
+  "romanized_title": "Sangsareul Huironghaji Mal Geot",
   "titles": [
     {
       "language": "ko",
       "title": "상사를 희롱하지 말 것",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -41,28 +43,38 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sangsareul Huironghaji Mal Geot",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Hyoyeon, a company slave and salary worker, lived a monotonous, rat-race life. Her only joy in life was lying down on weekends and reading novels. That day, as usual, at work, she recalled the web novel she had read the previous night and screamed inwardly. 'I want to have sex too!!!!' She didn't know then what kind of results that vulgar fantasy would bring...     \n\n\"I just said 'se-sex' in my mind...\"    \n \n\"Seriously. You're quite something.\"   \n \n\"D-Did you hear that?\"    \n\n\"Ms. Son Hyoyeon. Your brain is absolute trash, isn't it?\"\n\n[Original Webtoon](https://series.naver.com/comic/detail.series?productNo=13880492)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTE5NDUxLmpwZw",
+  "description": "Hyoyeon, a company slave and salary worker, lived a monotonous, rat-race life. Her only joy in life was lying down on weekends and reading novels. That day, as usual, at work, she recalled the web novel she had read the previous night and screamed inwardly. 'I want to have sex too!!!!' She didn't know then what kind of results that vulgar fantasy would bring... \n\n *\"I just said 'se-sex' in my mind...\"\n\"Seriously. You're quite something.\"\n\"D-Did you hear that?\"\n\"Ms. Son Hyoyeon. Your brain is absolute trash, isn't it?\"*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNzcxOS00MUNhcE9IQ3lLeDAuanBn",
   "total_chapters": "20",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-03-13",
+    "end_date": "2026-05-23",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-02T10:29:59.140Z",
+  "last_updated_at": "2026-10-03T20:06:47.637Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Junpil"
+    "Junpil",
+    "Obok"
   ],
   "artists": [
     "Obok"
@@ -73,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217719,
+      "rating": null,
+      "url": "https://anilist.co/manga/217719"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "q35ach0",
@@ -83,20 +99,38 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 0.2786,
+    "fanFavouriteDiscoveryScore": 5.2494,
+    "fanFavouriteDiscoveryPercentile": 0.2786
   },
   "context": {
     "primaryProfile": "corporate-workplace",

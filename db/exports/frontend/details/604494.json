@@ -5,43 +5,63 @@
   "display_title": "Venn Diagram",
   "mangabaka_title": "Venn Diagram",
   "native_title": "벤 다이어그램",
-  "romanized_title": null,
+  "romanized_title": "Venn Diagram",
   "titles": [
     {
       "language": "ko",
       "title": "벤 다이어그램",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "벤 다이어그램(Venn Diagram)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Venn Diagram",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Venn Diagram",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Regressing to her father’s funeral two years before her own death, Heejin has no memory of the years in between. When her half-brother’s best friend, Pilju arrives offering unexplained kindness, she decides to use his infatuation to uncover the truth of her past and prevent her future death.\n\n[Original Webtoon](https://ridibooks.com/books/6342000001) \n\n**Official English:**    \n[R19](https://manta.net/en/series/venn-diagram-full-ver?seriesId=6058), [R15](https://manta.net/en/series/venn-diagram?seriesId=6059)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5MTI0LmpwZw",
+  "description": "Regressing to her father’s funeral two years before her own death, Hee-Jin has no memory of the years in between. When her half-brother’s best friend, Pil-Ju arrives offering unexplained kindness, she decides to use his infatuation to uncover the truth of her past and prevent her future death.\n\n(Source: Manta)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc0OC0xUVJSMlRCNlVadWguanBn",
   "total_chapters": "20",
-  "status": "completed",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-23",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-20T05:23:16.414Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T16:55:09.317Z",
+  "last_updated_at": "2026-10-04T04:36:22.067Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Andante"
+    "Dante An"
   ],
   "artists": [
     "Mugogisoguk"
@@ -52,7 +72,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217748,
+      "rating": null,
+      "url": "https://anilist.co/manga/217748"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "g0um7nn",
@@ -62,21 +86,45 @@
   },
   "tag_ids": [
     43,
+    59,
+    748,
+    283,
+    108,
     36,
     46,
     31,
     32,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "32": "defining",
+    "36": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "283": "unweighted",
+    "428": "unweighted",
+    "748": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 0.2786,
+    "fanFavouriteDiscoveryScore": 5.2494,
+    "fanFavouriteDiscoveryPercentile": 0.2786
   }
 }

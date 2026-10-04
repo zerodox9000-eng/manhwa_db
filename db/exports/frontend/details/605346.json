@@ -2,7 +2,7 @@
   "id": 605346,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Dragon Girlfriend Has Returned",
+  "display_title": "My Girlfriend Returned as a Dragon",
   "mangabaka_title": "Dragon Yeochini Gwihwanhaetda",
   "native_title": "드래곤 여친이 귀환했다",
   "romanized_title": "Dragon Yeochini Gwihwanhaetda",
@@ -36,7 +36,7 @@
       "language": "en",
       "title": "My Girlfriend Returned as a Dragon",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -50,7 +50,7 @@
       "language": "en",
       "title": "The Dragon Girlfriend Has Returned",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-09-30T06:00:01.377Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-03T01:08:53.315Z",
+  "last_updated_at": "2026-10-04T01:09:41.084Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -137,7 +137,9 @@
     428,
     7332
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    315
+  ],
   "tag_weights": {
     "6": "defining",
     "7": "defining",
@@ -154,7 +156,7 @@
     "126": "unweighted",
     "241": "unweighted",
     "261": "unweighted",
-    "315": "unweighted",
+    "315": "incidental",
     "317": "incidental",
     "428": "unweighted",
     "634": "unweighted",
@@ -175,15 +177,15 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 535,
+    "popularity": 576,
     "favourites": 6,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1215,
-    "fanRatioPercentile": 50.9298,
-    "popularityPercentile": 69.3964,
-    "fanFavouriteDiscoveryScore": 50.1127,
-    "fanFavouriteDiscoveryPercentile": 58.2177
+    "fanFavouriteRaw": 1.0417,
+    "fanRatioPercentile": 48.5465,
+    "popularityPercentile": 70.8021,
+    "fanFavouriteDiscoveryScore": 47.8526,
+    "fanFavouriteDiscoveryPercentile": 56.2388
   }
 }

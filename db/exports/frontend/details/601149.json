@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-08-27T03:45:42.901Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-02T21:19:32.905Z",
+  "last_updated_at": "2026-10-03T21:20:20.926Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,7 +80,7 @@
   "source": {
     "anilist": {
       "id": 215941,
-      "rating": 85,
+      "rating": 75,
       "url": "https://anilist.co/manga/215941"
     },
     "animeplanet": {
@@ -90,16 +90,21 @@
     },
     "mangaupdates": {
       "id": "dde7lvs",
-      "rating": 59,
+      "rating": 60,
       "url": "https://www.mangaupdates.com/series/dde7lvs"
     }
   },
   "tag_ids": [
+    2103,
     43,
     123,
+    2303,
+    500,
     20,
     164,
+    575,
     36,
+    642,
     46,
     14,
     10,
@@ -111,6 +116,7 @@
     370,
     171,
     369,
+    3745,
     340,
     475,
     626,
@@ -142,21 +148,27 @@
     "369": "incidental",
     "370": "incidental",
     "428": "unweighted",
-    "475": "incidental",
-    "626": "incidental",
+    "475": "core",
+    "500": "core",
+    "575": "core",
+    "626": "core",
+    "642": "unweighted",
     "731": "incidental",
+    "2103": "core",
+    "2303": "core",
+    "3745": "core",
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 60,
+    "popularity": 69,
     "favourites": null,
-    "meanScore": 85
+    "meanScore": 75
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.3702,
-    "popularityPercentile": 29.4235,
-    "fanFavouriteDiscoveryScore": 22.2325,
-    "fanFavouriteDiscoveryPercentile": 24.6174
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 31.9334,
+    "fanFavouriteDiscoveryScore": 23.6544,
+    "fanFavouriteDiscoveryPercentile": 26.0267
   }
 }

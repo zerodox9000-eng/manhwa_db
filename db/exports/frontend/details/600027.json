@@ -2,20 +2,31 @@
   "id": 600027,
   "state": "active",
   "type": "manhwa",
-  "display_title": "He's My Mom's Friend's Son, But…",
-  "mangabaka_title": "He's My Mom's Friend's Son",
+  "display_title": "He's My Mom's Friend's Son",
+  "mangabaka_title": "Eomma Chingu Adeurinde",
   "native_title": "엄마 친구 아들인데",
-  "romanized_title": "He's My Mom's Friend's Son",
+  "romanized_title": "Eomma Chingu Adeurinde",
   "titles": [
     {
       "language": "ko",
       "title": "엄마 친구 아들인데",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
+      "title": "Eomma Chingu Adeurinde",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "He's My Mom's Friend's Son",
       "traits": [],
       "is_primary": true,
@@ -25,34 +36,34 @@
       "language": "en",
       "title": "He's My Mom's Friend's Son, But…",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "“Why are you so nervous? You’re the one who asked me to show you.” \n\nLooks, personality, wealth. Kang Seungmok is the perfect man with all three. The famous “son of Mom’s friend”—and her roommate. \n\nAnd also… Yoo Jimin’s first love and the most embarrassing chapter of her past. She thought she had forgotten everything. That those feelings were nothing more than a thing of the past. That she had no interest anymore in a dense, unfeeling man who still saw her as nothing but a little kid. Yes. She was certain that was how she felt… \n\n“Keep your eyes wide open and watch, Yoo Jimin. I’ll show you properly.” \n\nBut then, of all things, from the moment she saw that… everything changed!\n\n**Original Webtoon:**   \nR19: [Naver Series](https://series.naver.com/comic/detail.series?productNo=14526556), [Ridibooks](https://ridibooks.com/books/5285002845)    \nR15: [Naver Series](https://series.naver.com/comic/detail.series?productNo=14526592), [Ridibooks](https://ridibooks.com/books/5285002844)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2hlcy1teS1tb21zLWZyaWVuZHMtc29uLTEud2VicD90PTE3ODY3MTY5NzM",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxNzc1NC1sUDVMTUNwclcxQzYuanBn",
   "total_chapters": "10",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-15T02:07:30.747Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T16:49:53.898Z",
+  "last_updated_at": "2026-10-04T06:06:16.763Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hwang Hanyoung",
-    "Somin"
+    "Han-Yeong Hwang",
+    "So-Min"
   ],
   "artists": [
-    "Hacol",
+    "Hakol",
     "Metatoon"
   ],
   "links": {
@@ -61,7 +72,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217754,
+      "rating": null,
+      "url": "https://anilist.co/manga/217754"
+    },
     "animeplanet": {
       "id": "hes-my-moms-friends-son",
       "rating": null,
@@ -76,6 +91,7 @@
   "tag_ids": [
     43,
     74,
+    108,
     46,
     41,
     9,
@@ -85,14 +101,28 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 0.2786,
+    "fanFavouriteDiscoveryScore": 5.2494,
+    "fanFavouriteDiscoveryPercentile": 0.2786
   }
 }

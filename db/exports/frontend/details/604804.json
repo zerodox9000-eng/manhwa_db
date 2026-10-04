@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Don't Agree to Contracts Rashly",
-  "mangabaka_title": "Don't Agree to Contracts Rashly",
+  "mangabaka_title": "Gyeyage Hamburo Donguihaji Mal Geot",
   "native_title": "계약에 함부로 동의하지 말 것",
-  "romanized_title": null,
+  "romanized_title": "Gyeyage Hamburo Donguihaji Mal Geot",
   "titles": [
     {
       "language": "ko",
       "title": "계약에 함부로 동의하지 말 것",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Gyeyage Hamburo Donguihaji Mal Geot",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Never Carelessly Agree to a Contract",
       "traits": [],
@@ -44,29 +55,29 @@
     }
   ],
   "description": "Hanna, an ordinary office worker, falls into a devil's scheme and ends up signing an unfair contract. And the contents of the contract involve crossing dimensions to harvest men's life force?!\n\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/840081571)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2RvbnQtYWdyZWUtdG8tY29udHJhY3RzLXJhc2hseS0xLndlYnA_dD0xNzkwMjY4MjU5",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc0Ny1paE4yVnN0TEFKdVYuanBn",
   "total_chapters": "13",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-23",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-24T05:21:57.703Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-02T17:59:40.997Z",
+  "last_updated_at": "2026-10-04T04:36:22.475Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hyesan",
-    "On Yeol"
+    "Hye-San",
+    "Onyeol"
   ],
   "artists": [
-    "Hae Won"
+    "Hae-Won"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604804",
@@ -74,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217747,
+      "rating": null,
+      "url": "https://anilist.co/manga/217747"
+    },
     "animeplanet": {
       "id": "dont-agree-to-contracts-rashly",
       "rating": null,
@@ -88,8 +103,11 @@
   },
   "tag_ids": [
     43,
+    59,
     74,
     20,
+    164,
+    108,
     36,
     41,
     9,
@@ -99,14 +117,31 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "20": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "164": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 0.2786,
+    "fanFavouriteDiscoveryScore": 5.2494,
+    "fanFavouriteDiscoveryPercentile": 0.2786
   }
 }

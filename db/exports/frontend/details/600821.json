@@ -3,27 +3,36 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Clicked on a Suspicious App and My First Love Appeared",
-  "mangabaka_title": "I Clicked on a Suspicious App and My First Love Appeared",
-  "native_title": "[계략 단편선] 수상한 어플을 클릭했더니 첫사랑이 나왔다",
-  "romanized_title": null,
+  "mangabaka_title": "Susanghan Eopeureul Keullikaetdeoni Cheotsarangi Nawatda",
+  "native_title": "수상한 어플을 클릭했더니 첫사랑이 나왔다",
+  "romanized_title": "[Gyeryak Danpyeonseon] Susanghan Eopeureul Keullikaetdeoni Cheotsarangi Nawatda",
   "titles": [
     {
       "language": "ko",
       "title": "수상한 어플을 클릭했더니 첫사랑이 나왔다",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계략 단편선] 수상한 어플을 클릭했더니 첫사랑이 나왔다",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Clicking a Suspicious App Brought Out My First Love",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeryak Danpyeonseon] Susanghan Eopeureul Keullikaetdeoni Cheotsarangi Nawatda",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -41,32 +50,41 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Susanghan Eopeureul Keullikaetdeoni Cheotsarangi Nawatda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "We will tell you the juicy 'rice cake' (compatibility/sexual) chemistry between you and your partner ♡ Yujeong discovers a suspicious app installed on her phone. Wait a minute. Looking closely, it's about juicy sexual chemistry? After pondering, Yujeong fills in her unrequited love team leader's information and sexual fantasies, then presses the send button. Wait a second? Usually, information like this should have a 'Confirm' button, but a 'Send' button that delivers information feels a bit awkward. “No way? Wait, cancel, cancel!” ……Should I just resign? She ended up sending a sexual harassment text to her cold-blooded development team leader. \\*\\*Original Webtoon:\\*\\* \\[Naver Series\\](https://series.naver.com/comic/detail.series?productNo=14526977), \\[Ridibooks\\](https://ridibooks.com/books/5285002830)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2MjIzLmpwZw",
+  "description": "*Note: Part of Metatoon's Gyeryak Danpyeonseon (계략 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc1MS1ZcDV1Y013OEhGT3cucG5n",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-22",
+    "end_date": "2026-08-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-23T02:20:28.507Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-24T17:00:47.028Z",
+  "last_updated_at": "2026-10-04T05:36:22.681Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hamji",
-    "Hodragon"
+    "Haemji",
+    "Hodeuraegon"
   ],
   "artists": [
-    "Jinjeonghae",
+    "Jeong-Hae Jin",
     "Metatoon"
   ],
   "links": {
@@ -75,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217751,
+      "rating": null,
+      "url": "https://anilist.co/manga/217751"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "dlpvp1z",
@@ -85,19 +107,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 0.2786,
+    "fanFavouriteDiscoveryScore": 5.2494,
+    "fanFavouriteDiscoveryPercentile": 0.2786
   }
 }

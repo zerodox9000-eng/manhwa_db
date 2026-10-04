@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Single, Too?",
-  "mangabaka_title": "Single, Too?",
-  "native_title": "[순애 단편선] 너도 솔로?",
-  "romanized_title": null,
+  "mangabaka_title": "Neodo Solo?",
+  "native_title": "너도 솔로?",
+  "romanized_title": "Neodo Solo?",
   "titles": [
     {
       "language": "ko",
       "title": "너도 솔로?",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[순애 단편선] 너도 솔로?",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,10 +31,26 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Neodo Solo?",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Single, Too?",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Sunae Danpyeonseon] Neodo Sollo?",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -57,31 +75,31 @@
       "note": null
     }
   ],
-  "description": "'Ah, this dream again.'\n\nA dream where she gets thoroughly devoured by Dogeon, her first and last boyfriend who broke up with her 7 years ago.\n\nOn days she has this dream, her luck is terrible all day long.   \nBut she never expected it to be this terrible...\n\nHer roommate Juhee left a text message saying she's going on an overseas trip.   \nTo summarize: Juhee signed Sehyun up as a cast member for a dating reality show called 'With You,' and if she doesn't participate, the penalty is 10 million won. And the filming starts today!\n\nArriving at the set against her will.   \nAmong the many contestants, a familiar yet unfamiliar silhouette loomed larger in Sehyun's view.   \nShim Dogeon, why on earth are you here?!\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5285002882)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3NpbmdsZS10b28tMS53ZWJwP3Q9MTc4OTk1MTg2Ng",
+  "description": "*Note: Part of Metatoon's Sunae Danpyeonseon (순애 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc1Mi0wUWRDNFRDZkFIYkcucG5n",
   "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-20",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-21T05:27:58.997Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-02T23:55:48.322Z",
+  "last_updated_at": "2026-10-04T05:36:22.825Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "minji",
-    "Red Greeta"
+    "Redgrita"
   ],
   "artists": [
-    "Lika",
-    "Metatoon"
+    "Metatoon",
+    "Rika"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604596",
@@ -89,7 +107,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217752,
+      "rating": null,
+      "url": "https://anilist.co/manga/217752"
+    },
     "animeplanet": {
       "id": "single-too",
       "rating": null,
@@ -104,6 +126,7 @@
   "tag_ids": [
     43,
     74,
+    108,
     46,
     41,
     9,
@@ -113,14 +136,28 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4048,
+    "popularityPercentile": 0.2786,
+    "fanFavouriteDiscoveryScore": 5.2494,
+    "fanFavouriteDiscoveryPercentile": 0.2786
   }
 }
