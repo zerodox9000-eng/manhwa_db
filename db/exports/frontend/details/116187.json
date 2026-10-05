@@ -92,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.823Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-03T23:25:02.464Z",
+  "last_updated_at": "2026-10-04T23:25:29.205Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -152,7 +152,9 @@
     428,
     7332
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    326
+  ],
   "tag_weights": {
     "6": "defining",
     "9": "defining",
@@ -167,7 +169,7 @@
     "125": "incidental",
     "226": "incidental",
     "257": "core",
-    "326": "unweighted",
+    "326": "incidental",
     "416": "incidental",
     "428": "unweighted",
     "567": "core",
@@ -177,20 +179,20 @@
     "1299": "core",
     "1397": "core",
     "2896": "core",
-    "4105": "unweighted",
+    "4105": "incidental",
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 343,
+    "popularity": 347,
     "favourites": 1,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 0.2915,
-    "fanRatioPercentile": 32.9048,
-    "popularityPercentile": 61.1742,
-    "fanFavouriteDiscoveryScore": 31.8737,
-    "fanFavouriteDiscoveryPercentile": 33.2191
+    "fanFavouriteRaw": 0.2882,
+    "fanRatioPercentile": 32.9124,
+    "popularityPercentile": 61.3442,
+    "fanFavouriteDiscoveryScore": 31.8951,
+    "fanFavouriteDiscoveryPercentile": 33.3476
   },
   "context": {
     "primaryProfile": "modern-korea",

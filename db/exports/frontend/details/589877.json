@@ -2,8 +2,8 @@
   "id": 589877,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Young Wife and Misdeeds",
-  "mangabaka_title": "Eorin Anaewa Nappeun Jit",
+  "display_title": "Forbidden Games with My Wife",
+  "mangabaka_title": "Forbidden Games with My Wife",
   "native_title": "어린 아내와 나쁜 짓",
   "romanized_title": "Eorin Anaewa Nappeun Jit",
   "titles": [
@@ -27,7 +27,7 @@
       "language": "en",
       "title": "A Young Wife and Misdeeds",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -41,9 +41,11 @@
     },
     {
       "language": "en",
-      "title": "Forbidden Games With My Wife",
-      "traits": [],
-      "is_primary": false,
+      "title": "Forbidden Games with My Wife",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -105,7 +107,7 @@
       "note": null
     }
   ],
-  "description": "The man who saved me from the edge of despair, Do-Geon Beom. Unlike back then when he rejected my confession, calling me a little lady who needed to be protected... this man is way too good at playing the husband. By day he's the reliable protector of the world, but by night he becomes obsessed like a beast and won't let me go...\n\n**Original Novel:**     \n[Chapters](https://series.naver.com/novel/detail.series?productNo=11852343), [Volumes](https://series.naver.com/novel/detail.series?productNo=12637234) \n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=851385), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14245757)\n\n**Official Translations:**   \n[English (Censored)](https://www.webtoons.com/en/romance/forbidden-games-with-my-wife/list?title_no=11383), [French](https://www.webtoons.com/fr/romance/naughty-things-with-my-young-wife/list?title_no=11084), [Spanish](https://www.webtoons.com/es/romance/travesuras-con-mi-pequena-dama/list?title_no=11208), [Thai](https://www.webtoons.com/th/romance/naughty-things-with-my-young-wife/list?title_no=11008), [T.Chinese](https://www.webtoons.com/zh-hant/romance-m/forbidden-games-with-my-wife/list?title_no=10981)",
+  "description": "The man who saved me from the edge of despair, Do-Geon Beom. Unlike back then when he rejected my confession, calling me a little lady who needed to be protected... this man is way too good at playing the husband. By day he's the reliable protector of the world, but by night he becomes obsessed like a beast and won't let me go...\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMjk5OS0zQ1ljT081Mko1ZDYuanBn",
   "total_chapters": "25",
   "status": "releasing",
@@ -120,7 +122,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-04T06:02:00.357Z",
+  "last_updated_at": "2026-10-05T06:04:48.420Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -133,8 +135,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/589877",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=11383",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=11383"
+    ]
   },
   "source": {
     "anilist": {
@@ -142,7 +146,11 @@
       "rating": 69,
       "url": "https://anilist.co/manga/212999"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-young-wife-and-bad-deeds",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-young-wife-and-bad-deeds"
+    },
     "mangaupdates": {
       "id": "dearl5e",
       "rating": 66,
@@ -151,6 +159,7 @@
   },
   "tag_ids": [
     43,
+    74,
     106,
     108,
     46,
@@ -160,7 +169,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -169,24 +179,26 @@
     "15": "defining",
     "31": "defining",
     "43": "defining",
-    "46": "unweighted",
+    "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "106": "incidental",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 164,
+    "popularity": 172,
     "favourites": null,
     "meanScore": 69
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.4048,
-    "popularityPercentile": 47.2109,
-    "fanFavouriteDiscoveryScore": 29.3638,
-    "fanFavouriteDiscoveryPercentile": 31.6692
+    "fanRatioPercentile": 32.4272,
+    "popularityPercentile": 48.1093,
+    "fanFavouriteDiscoveryScore": 29.5844,
+    "fanFavouriteDiscoveryPercentile": 31.835
   },
   "context": {
     "primaryProfile": "modern-korea",

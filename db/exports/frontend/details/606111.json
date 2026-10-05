@@ -2,7 +2,7 @@
   "id": 606111,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Jeokgwi",
+  "display_title": "Red Demon",
   "mangabaka_title": "Jeokgwi",
   "native_title": "적귀",
   "romanized_title": "Jeokgwi",
@@ -24,9 +24,23 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Red Demon",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "赤鬼",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855665), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14812060)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzcyNC1wZXVpaUJzaFo4aGguanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +55,7 @@
   },
   "first_seen_at": "2026-10-04T06:22:19.094Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-03T22:36:49.500Z",
+  "last_updated_at": "2026-10-04T22:37:29.838Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,12 +76,18 @@
       "url": "https://anilist.co/manga/217724"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "w5wxy63",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/w5wxy63"
+    }
   },
   "tag_ids": [
     351,
     392,
+    8,
     58,
+    15,
     39,
     31,
     93,
@@ -76,25 +96,27 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "31": "unweighted",
-    "39": "unweighted",
+    "8": "defining",
+    "15": "defining",
+    "31": "defining",
+    "39": "defining",
     "57": "unweighted",
-    "58": "unweighted",
+    "58": "incidental",
     "93": "unweighted",
-    "351": "unweighted",
-    "392": "unweighted",
+    "351": "incidental",
+    "392": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.4048,
-    "popularityPercentile": 0.2786,
-    "fanFavouriteDiscoveryScore": 5.2494,
-    "fanFavouriteDiscoveryPercentile": 0.2786
+    "fanRatioPercentile": 32.4272,
+    "popularityPercentile": 0.5351,
+    "fanFavouriteDiscoveryScore": 5.3479,
+    "fanFavouriteDiscoveryPercentile": 0.528
   }
 }

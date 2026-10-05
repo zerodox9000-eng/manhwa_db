@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Good Succubus",
-  "mangabaka_title": "Good Succubus",
+  "mangabaka_title": "Joso Succubus",
   "native_title": "좋소 서큐버스",
-  "romanized_title": null,
+  "romanized_title": "Joso Succubus",
   "titles": [
     {
       "language": "ko",
       "title": "좋소 서큐버스",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,24 +22,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Joso Succubus",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9124)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5NDcxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzYxNi0xbmZjckR3ZVN5bEMuanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "erotica",
+  "status": "releasing",
+  "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-02T06:10:43.087Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-02T17:00:35.537Z",
+  "last_updated_at": "2026-10-04T09:06:48.906Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217616,
+      "rating": null,
+      "url": "https://anilist.co/manga/217616"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "get5e2g",
@@ -62,19 +77,45 @@
   },
   "tag_ids": [
     8,
+    58,
+    36,
     22,
     46,
-    31
+    10,
+    109,
+    502,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "8": "defining",
+    "9": "unweighted",
+    "10": "unweighted",
+    "22": "defining",
+    "31": "defining",
+    "36": "unweighted",
+    "46": "defining",
+    "57": "unweighted",
+    "58": "unweighted",
+    "93": "unweighted",
+    "109": "unweighted",
+    "428": "unweighted",
+    "502": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 10,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4272,
+    "popularityPercentile": 5.6935,
+    "fanFavouriteDiscoveryScore": 7.5511,
+    "fanFavouriteDiscoveryPercentile": 5.401
   }
 }

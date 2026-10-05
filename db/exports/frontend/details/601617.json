@@ -2,23 +2,36 @@
   "id": 601617,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Portrait of Pride",
-  "mangabaka_title": "The Portrait of Pride",
+  "display_title": "A Portrait of Pride",
+  "mangabaka_title": "A Portrait of Pride",
   "native_title": "교만의 초상",
-  "romanized_title": null,
+  "romanized_title": "Gyomanui Chosang",
   "titles": [
     {
       "language": "ko",
       "title": "교만의 초상",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "A Portrait of Pride",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gyomanui Chosang",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -32,33 +45,34 @@
       "language": "en",
       "title": "The Portrait of Pride",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Diana, a blind maid with a carefully guarded past, is forced by Prince Eisen to spy on the Crown Prince. She expects to find a sickly recluse who spends his days painting in solitude, but the man she encounters is nothing like the rumors. Will she survive the dangers awaiting her in his palace?\n\n**Original Novel:**    \nR19: [Chapters](https://ridibooks.com/books/4863000241), [Volumes](https://ridibooks.com/books/4863000648)  \nR15: [Chapters](https://ridibooks.com/books/4863000242) \n\n**Original Webtoon:**    \nR19: [RIDI](https://ridibooks.com/books/6360000001)     \nR15: [RIDI](https://ridibooks.com/books/6360000002) \n\n**Official Translations:**  \nR19: [English](https://manta.net/en/series/a-portrait-of-pride-full-ver?seriesId=5617)   \nR15: [English](https://manta.net/en/series/a-portrait-of-pride?seriesId=5669)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5NDY0LmpwZw",
-  "total_chapters": "13",
-  "status": "unknown",
-  "content_rating": "safe",
+  "description": "Diana, a blind maid with a carefully guarded past, is forced by Prince Eisen to spy on the Crown Prince. She expects to find a sickly recluse who spends his days painting in solitude, but the man she encounters is nothing like the rumors. Will she survive the dangers awaiting her in his palace?\n\n(Source: Manta)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzgyNS1DcjVyUjBheHR2UUEucG5n",
+  "total_chapters": "15",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-03",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-01T02:54:38.960Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-04T05:16:23.609Z",
+  "last_updated_at": "2026-10-05T04:36:16.215Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Dalseul"
+    "Dalseul",
+    "Hot Fudge Comics"
   ],
   "artists": [
-    "Hot Fuzzy Comics"
+    "Hot Fudge Comics"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601617",
@@ -66,7 +80,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217825,
+      "rating": null,
+      "url": "https://anilist.co/manga/217825"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "cmckiav",
@@ -76,20 +94,53 @@
   },
   "tag_ids": [
     43,
+    116,
+    108,
+    406,
+    36,
+    14,
     15,
+    41,
     31,
+    416,
     32,
-    9
+    9,
+    45,
+    19,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "14": "unweighted",
+    "15": "defining",
+    "19": "unweighted",
+    "31": "defining",
+    "32": "defining",
+    "36": "unweighted",
+    "41": "defining",
+    "43": "defining",
+    "45": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "116": "unweighted",
+    "406": "unweighted",
+    "416": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4272,
+    "popularityPercentile": 0.3139,
+    "fanFavouriteDiscoveryScore": 5.2661,
+    "fanFavouriteDiscoveryPercentile": 0.3139
   }
 }

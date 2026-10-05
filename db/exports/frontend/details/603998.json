@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Sweet Savior",
-  "mangabaka_title": "Sweet Savior",
+  "mangabaka_title": "Da Hae Juneun Oppa",
   "native_title": "다 해 주는 오빠",
-  "romanized_title": null,
+  "romanized_title": "Da Hae Juneun Oppa",
   "titles": [
     {
       "language": "ko",
       "title": "다 해 주는 오빠",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Da Hae Juneun Oppa",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,30 +33,30 @@
       "note": null
     }
   ],
-  "description": null,
-  "cover": null,
+  "description": "**Original Novel:**   \n[Chapters](https://series.naver.com/novel/detail.series?productNo=11499225), [Volumes](https://series.naver.com/novel/detail.series?productNo=13275476) \n\n**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855385), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14767033)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc0MC1oY1libHIxUW9adUIuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-03",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-15T05:19:50.254Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-18T16:49:37.175Z",
+  "last_updated_at": "2026-10-05T03:37:19.383Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Ra-Nyong",
-    "Yoo Latte"
+    "Yulatte"
   ],
   "artists": [
-    "OSSION"
+    "O-Syeon"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/603998",
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217740,
+      "rating": null,
+      "url": "https://anilist.co/manga/217740"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "h9nsgfl",
@@ -63,18 +78,33 @@
   },
   "tag_ids": [
     43,
+    108,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4272,
+    "popularityPercentile": 0.5351,
+    "fanFavouriteDiscoveryScore": 5.3479,
+    "fanFavouriteDiscoveryPercentile": 0.528
   }
 }

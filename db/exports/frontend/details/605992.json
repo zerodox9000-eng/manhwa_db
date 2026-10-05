@@ -2,7 +2,7 @@
   "id": 605992,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Copy Skills With Affinity!",
+  "display_title": "Copying Skills with Affinity!",
   "mangabaka_title": "Hogamdoro Skill Boksa!",
   "native_title": "호감도로 스킬 복사!",
   "romanized_title": "Hogamdoro Skill Boksa!",
@@ -27,6 +27,13 @@
       "language": "en",
       "title": "Copying Skills with Affinity!",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Copy Skills via Favorability!",
+      "traits": [],
       "is_primary": false,
       "note": null
     },
@@ -34,7 +41,7 @@
       "language": "en",
       "title": "Copy Skills With Affinity!",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -76,7 +83,7 @@
   },
   "first_seen_at": "2026-10-03T05:46:39.935Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-04T01:37:09.341Z",
+  "last_updated_at": "2026-10-04T17:06:58.033Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -100,7 +107,7 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "nffmjfg",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/nffmjfg"
     }
   },
@@ -108,17 +115,27 @@
     8,
     59,
     58,
+    20,
     163,
     36,
+    22,
     39,
+    37,
+    6,
+    9,
     93,
     57,
     428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "8": "unweighted",
+    "6": "unweighted",
+    "8": "defining",
+    "9": "unweighted",
+    "20": "unweighted",
+    "22": "unweighted",
     "36": "defining",
+    "37": "unweighted",
     "39": "defining",
     "57": "unweighted",
     "58": "incidental",
@@ -128,15 +145,15 @@
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 172,
-    "favourites": 2,
+    "popularity": 372,
+    "favourites": 4,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 1.1628,
-    "fanRatioPercentile": 52.0463,
-    "popularityPercentile": 48.1608,
-    "fanFavouriteDiscoveryScore": 47.5013,
-    "fanFavouriteDiscoveryPercentile": 55.946
+    "fanFavouriteRaw": 1.0753,
+    "fanRatioPercentile": 49.7003,
+    "popularityPercentile": 62.7997,
+    "fanFavouriteDiscoveryScore": 48.3349,
+    "fanFavouriteDiscoveryPercentile": 56.6281
   }
 }
