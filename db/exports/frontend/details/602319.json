@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Arrogant Husband's Boredom",
-  "mangabaka_title": "The Arrogant Husband's Boredom",
+  "mangabaka_title": "Omanhan Nampyeonui Gwontae",
   "native_title": "오만한 남편의 권태",
-  "romanized_title": null,
+  "romanized_title": "Omanhan Nampyeonui Gwontae",
   "titles": [
     {
       "language": "ko",
       "title": "오만한 남편의 권태",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Omanhan Nampyeonui Gwontae",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,30 +34,28 @@
     }
   ],
   "description": "“You don’t love me anymore.” \n\nThat was the conclusion Hyeon Ijun, Lee Sehui’s husband, had reached. He had kept his eyes on Sehui from the very moment she was born, and although he had claimed so much of her as his—including many of her firsts—he was never truly satisfied. \n\n“Darling, s-stop. The children are here……” \n\nBoredom. That was how Ijun chose to define what he was feeling. After all, there was no reason someone like him could possibly be starved for something as trivial as affection. \n\nTherefore, this had to be what people commonly called the seven-year itch—the inevitable weariness that settled into a marriage. And so, hoping to restore their relationship and return to the days when Sehui had been desperate for his attention, Ijun decided to take a step away from her. Without realizing what consequences that decision would bring.\n\n**Original Webtoon:**    \nR19: [KakaoPage](https://page.kakao.com/content/70438349), [Daum](https://webtoon.kakao.com/content/%EC%98%A4%EB%A7%8C%ED%95%9C-%EB%82%A8%ED%8E%B8%EC%9D%98-%EA%B6%8C%ED%83%9C-19%EC%84%B8-%EC%99%84%EC%A0%84%ED%8C%90/4976)  \nR15: [KakaoPage](https://page.kakao.com/content/70438328)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1hcnJvZ2FudC1odXNiYW5kcy1ib3JlZG9tLTEud2VicD90PTE3OTA3MTc4MTQ",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzg2MS1KUm1hSnpCTlExNGwuanBn",
   "total_chapters": "24",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-09T05:10:57.373Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-04T16:13:49.125Z",
+  "last_updated_at": "2026-10-06T06:06:07.750Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Sharon",
-    "Lee Wan",
-    "Wandu"
+    "Iwan",
+    "Syaron Kim"
   ],
   "artists": [
-    "Metatoon",
     "Muneoppang"
   ],
   "links": {
@@ -55,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217861,
+      "rating": null,
+      "url": "https://anilist.co/manga/217861"
+    },
     "animeplanet": {
       "id": "the-arrogant-husbands-boredom",
       "rating": null,
@@ -70,6 +83,7 @@
   "tag_ids": [
     43,
     74,
+    108,
     46,
     41,
     31,
@@ -80,14 +94,29 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4873,
+    "popularityPercentile": 0.1497,
+    "fanFavouriteDiscoveryScore": 5.2156,
+    "fanFavouriteDiscoveryPercentile": 0.1497
   }
 }

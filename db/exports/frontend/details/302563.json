@@ -2,15 +2,26 @@
   "id": 302563,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Field Mouse",
-  "mangabaka_title": "The Rat Trap",
+  "display_title": "Mousetrap (Ludovico)",
+  "mangabaka_title": "Deuljwi",
   "native_title": "들쥐",
-  "romanized_title": "The Rat Trap",
+  "romanized_title": "Deuljwi",
   "titles": [
     {
       "language": "ko",
       "title": "들쥐",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Deuljwi",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,40 +29,40 @@
       "language": "en",
       "title": "Field Mouse",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Mousetrap (Ludovico)",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "The Rat Trap",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "I saw you yesterday!\" How could anyone have seen me when I've never stepped foot outside of my house in ten years?!\n\nA recluse who's isolated himself from the outside world due some past trauma has been getting from calls from friends claim they have met him even though he never left left his home to see them.\n\n**Original Webtoon:**  \n[Daum](https://webtoon.kakao.com/content/%EB%93%A4%EC%A5%90/1345), [KakaoPage](https://page.kakao.com/content/61239544)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1yYXQtdHJhcC0xLmpwZz90PTE2MjU5MTczNTU",
-  "total_chapters": "23",
+  "description": "*Note: Includes one extra chapter.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzg1My1Cb0t4SFBCR1hycXIuanBn",
+  "total_chapters": "93",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2017,
   "published": {
-    "start_date": "2017-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2017-02-15",
+    "end_date": "2020-04-02",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:39:19.583Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T06:43:52.929Z",
+  "last_updated_at": "2026-10-06T05:36:07.410Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217853,
+      "rating": null,
+      "url": "https://anilist.co/manga/217853"
+    },
     "animeplanet": {
       "id": "the-rat-trap",
       "rating": null,
@@ -82,6 +97,7 @@
     8,
     22,
     31,
+    44,
     32,
     19,
     93,
@@ -90,15 +106,29 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "8": "defining",
+    "19": "defining",
+    "22": "defining",
+    "31": "defining",
+    "32": "defining",
+    "44": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4873,
+    "popularityPercentile": 0.1497,
+    "fanFavouriteDiscoveryScore": 5.2156,
+    "fanFavouriteDiscoveryPercentile": 0.1497
   },
   "context": {
     "primaryProfile": "modern-korea",

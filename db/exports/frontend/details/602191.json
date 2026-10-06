@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Hunger",
-  "mangabaka_title": "Hunger",
+  "mangabaka_title": "Heogi",
   "native_title": "허기",
-  "romanized_title": null,
+  "romanized_title": "Heogi",
   "titles": [
     {
       "language": "ko",
       "title": "허기",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Heogi",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,21 +34,21 @@
     }
   ],
   "description": "The man appeared a few days after the loan sharks had come and gone. They said that if you failed to repay your debt, they would chase you down until they could rip your guts out. And yet the man who had taken over my space as if it belonged to him acted completely at ease. “You look exactly the same. Like you were copied straight out of a machine.” I had no idea what he was talking about. He looked suspicious and dangerous, but all I could do was glare at him sharply. “Don’t worry. You won’t be able to pay that money back anyway. So just open your mouth.” Perhaps he found it amusing that his presence had made me too uncomfortable to wash or even eat, because he smiled as he held out some food to me. After several exhausting days, fatigue and hunger hit me all at once. “You should eat something too.” “I’m going to eat something else. Have you ever slept with a man?” The man revealed his desire without the slightest hesitation. That smile looked far too innocent for someone who could say something like that. I hated to admit it, but he looked unbelievably kind. “Because you’re pretty. Because you’re so damn pretty.” With a hand burning with heat, the man gently stroked my face. The temperature inside the room, already thick with the humidity of monsoon season, began to rise in an instant. The summer I was twenty-three, filled with an emptiness that felt as though it could never be satisfied. That was how the rainy season began.\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/297092504)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MzE3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc2NS1pVVVDV0pwc1FBNEkuanBn",
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-14",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-07T18:21:24.774Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-03T19:30:27.494Z",
+  "last_updated_at": "2026-10-05T19:31:27.194Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -45,7 +56,7 @@
     "YAVA"
   ],
   "artists": [
-    "Sung Yeon"
+    "Yeon Seong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602191",
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217765,
+      "rating": null,
+      "url": "https://anilist.co/manga/217765"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "u0sit9s",
@@ -63,19 +78,35 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4873,
+    "popularityPercentile": 0.7913,
+    "fanFavouriteDiscoveryScore": 5.454,
+    "fanFavouriteDiscoveryPercentile": 0.7557
   }
 }

@@ -3,22 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Perfect Northern Grand Duke's Secret Feelings",
-  "mangabaka_title": "The Perfect Northern Grand Duke's Secret Feelings",
-  "native_title": "[능욕 단편선] 완벽한 북부 대공의 가슴속 사정",
-  "romanized_title": null,
+  "mangabaka_title": "Wanbyeokan Bukbu Daegongui Gaseumsong Sajeong",
+  "native_title": "완벽한 북부 대공의 가슴속 사정",
+  "romanized_title": "[Neungyong Danpyeonseon] Wanbyeokan Bukbu Daegongui Gaseumsong Sajeong",
   "titles": [
     {
       "language": "ko",
       "title": "완벽한 북부 대공의 가슴속 사정",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[능욕 단편선] 완벽한 북부 대공의 가슴속 사정",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Neungyong Danpyeonseon] Wanbyeokan Bukbu Daegongui Gaseumsong Sajeong",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -34,33 +43,42 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wanbyeokan Bukbu Daegongui Gaseumsong Sajeong",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Grand Duke Calix Winter is admired by everyone for his firm, flawless physique. But he has a secret he can’t tell anyone. \n\n“If they’re called nipples, shouldn’t they at least stick out a little? Or, at the very least, be flat?” \n\nThat’s right—he has inverted nipples. No matter how hard he works out, all he gets is a bigger chest. Exercise alone can’t make his inward nipples come out. \n\n“Don’t worry, Your Grace! I’ll make sure to fix your complex.” \n\nThen Emilia, a maid who accidentally discovers Calix’s secret, steps in.\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5285002897)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5Mjg4LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*Note: Part of Metatoon's Neungyong Danpyeonseon (능욕 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc0Ni1QSk8wUkpTRm9LejAucG5n",
+  "total_chapters": "5",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-27",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-29T06:10:44.365Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-04T17:32:23.977Z",
+  "last_updated_at": "2026-10-05T17:36:29.012Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Mogege",
-    "Son Pichi"
+    "Sonpichi"
   ],
   "artists": [
     "Metatoon",
-    "Taco (타코)"
+    "Tako"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605257",
@@ -68,7 +86,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217746,
+      "rating": null,
+      "url": "https://anilist.co/manga/217746"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1gl24hc",
@@ -78,20 +100,41 @@
   },
   "tag_ids": [
     43,
+    116,
+    108,
+    406,
     36,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "116": "incidental",
+    "406": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4873,
+    "popularityPercentile": 1.3118,
+    "fanFavouriteDiscoveryScore": 5.6537,
+    "fanFavouriteDiscoveryPercentile": 1.2476
   }
 }

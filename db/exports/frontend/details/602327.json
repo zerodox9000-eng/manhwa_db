@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Delicious Snake",
-  "mangabaka_title": "Delicious Snake",
+  "mangabaka_title": "Man Joeun Baem",
   "native_title": "맛 좋은 뱀",
-  "romanized_title": null,
+  "romanized_title": "Man Joeun Baem",
   "titles": [
     {
       "language": "ko",
       "title": "맛 좋은 뱀",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,6 +27,15 @@
       "language": "en",
       "title": "Delicious Snake",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Man Joeun Baem",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -51,21 +62,21 @@
     }
   ],
   "description": "“I’ll fuck you plenty from now on.”\n\nMyo Yeonho, a rabbit beastman, has been desperately searching for someone with his ideal “equipment.” After spectacularly failing to buy an extra-large, thick and mighty goblin club, and while sulking because his friends kept teasing him for being a premature ejaculator, Yeonho hears about a new student named Sa Jeonghyeok, a snake beastman. The freshman is incredibly handsome, and according to the rumors, because he’s a snake beastman, he has two “things” down there—and plenty of stamina to match…. Will this shameless rabbit succeed in his plan to devour the snake?\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/2336017171), [MrBlue](https://www.mrblue.com/novel/E000107663), [Bookcube](https://www.bookcube.com/detail.asp?series_num=923017306), [Naver Series](https://series.naver.com/novel/detail.series?productNo=10646622)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/SnakeforYou)\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/297092229)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3NDc5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjc3MS1jSGpiRlYwZGVNSzcuanBn",
   "total_chapters": "10",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-09T05:10:57.373Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-05T00:14:41.734Z",
+  "last_updated_at": "2026-10-05T10:06:20.047Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,7 +84,7 @@
     "Sumki"
   ],
   "artists": [
-    "Atty"
+    "Atti"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602327",
@@ -81,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216771,
+      "rating": null,
+      "url": "https://anilist.co/manga/216771"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "sryabep",
@@ -90,18 +105,36 @@
     }
   },
   "tag_ids": [
+    279,
     46,
-    16
+    180,
+    16,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "279": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 16,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4873,
+    "popularityPercentile": 10.1376,
+    "fanFavouriteDiscoveryScore": 9.9206,
+    "fanFavouriteDiscoveryPercentile": 9.5031
   }
 }

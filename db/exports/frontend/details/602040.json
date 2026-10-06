@@ -2,15 +2,17 @@
   "id": 602040,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Unlimited Bacteria Magician",
-  "mangabaka_title": "Unlimited Bacteria Magician",
+  "display_title": "The Unlimited Bacteriomancer",
+  "mangabaka_title": "The Unlimited Bacteriomancer",
   "native_title": "무제한의 세균술사",
   "romanized_title": "Mujehanui Segyunsulsa",
   "titles": [
     {
       "language": "ko",
       "title": "무제한의 세균술사",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -39,14 +41,14 @@
       "language": "en",
       "title": "The Unlimited Bacteriomancer",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Unlimited Bacteria Magician",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -72,21 +74,21 @@
     }
   ],
   "description": "In a world where awakening makes anyone a hero, one \"trash-tier\" Necromancer commands a microscopic undead army that will bring the world to its knees.\n\n**Original Novel:**    \n[Munpia](https://www.munpia.com/novel/detail/412486), [Naver Series](https://series.naver.com/novel/detail.series?productNo=11511993), [KakaoPage](https://page.kakao.com/content/67558681/), [Ridibooks](https://ridibooks.com/books/425554025), [MrBlue](https://www.mrblue.com/novel/E000150680), [BookCube](https://www.bookcube.com/novel/detail.asp?serial_num=sg4941), [Joara](https://www.joara.com/book/1832186), Novelpia, [Onestory](https://onestory.co.kr/detail/H048401860), [Nate](https://toonnbook.nate.com/detail/H048401860), [Mootoon](https://www.mootoon.co.kr/nov/nov_list.mg?tcode=npgu), Fanmurim, Hibook, [KyoboBook](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012079652) \n\n**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854294), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14539733)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3MTc3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8zLzM1MDczN2wuanBn",
   "total_chapters": "14",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-04",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-05T02:49:36.776Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-03T16:52:10.930Z",
+  "last_updated_at": "2026-10-06T03:30:59.791Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -112,7 +114,8 @@
   },
   "tag_ids": [
     38,
-    36
+    36,
+    261
   ],
   "spoiler_tag_ids": [],
   "stats": {

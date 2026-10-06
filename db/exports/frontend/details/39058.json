@@ -33,7 +33,18 @@
     {
       "language": "es-la",
       "title": "El nuevo empleado",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "El nuevo empleado",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -162,7 +173,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-05T00:04:41.217Z",
+  "last_updated_at": "2026-10-05T20:24:13.527Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -363,10 +374,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 3.1455,
-    "fanRatioPercentile": 90.6321,
-    "popularityPercentile": 94.599,
-    "fanFavouriteDiscoveryScore": 90.4516,
-    "fanFavouriteDiscoveryPercentile": 94.5634
+    "fanRatioPercentile": 90.6823,
+    "popularityPercentile": 94.5961,
+    "fanFavouriteDiscoveryScore": 90.5016,
+    "fanFavouriteDiscoveryPercentile": 94.6104
   },
   "context": {
     "primaryProfile": "business-career-regression",
