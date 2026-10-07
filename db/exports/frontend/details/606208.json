@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "12 Nights",
-  "mangabaka_title": "12 Nights",
+  "mangabaka_title": "12-beonui Bam",
   "native_title": "12번의 밤",
-  "romanized_title": "Twelve Nights (Ppungppa)",
+  "romanized_title": "12-beonui Bam",
   "titles": [
     {
       "language": "ko",
@@ -17,7 +17,18 @@
     {
       "language": "ko",
       "title": "12번의 밤",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "12-beonui Bam",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,33 +48,40 @@
     },
     {
       "language": "ko-Latn",
+      "title": "[Gyeyak Danpyeonseon] 12-beonui Bam",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Twelve Nights (Ppungppa)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "\"Does being influenced by gods... also include the physical body?\"\n\nDayoung, who has been suffering from sleep paralysis for months, visits a renowned fortune teller.  \nHowever, the shaman chases her away and hands her a strange business card.  \n[Exorcism Specialists! 24/7 Available, Friendly/Consultation]\n\nSuspicious, but desperate enough to grasp at straws, Dayoung heads to the address on the business card.   \nContrary to her expectations, in a shiny, newly built office building, there is a young and dashing man who shatters her expectations once again.\n\nShin Beomo, who introduces himself as an exorcist, offers to get rid of the evil spirit attached to Dayoung, but the cost is steep.  \nSeeing Dayoung hesitate, Beomo offers her a live-in housekeeper position.   \nLiving with Beomo, Dayoung soon discovers his secret...\n\n**Original Webtoon:**   \n[RIDI](https://ridibooks.com/books/5285002931)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5Njg4LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "*Note: Part of Metatoon's Gyeyak Danpyeonseon (계약 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzg5Ni16ZFNNZ2JZaXpQdXguanBn",
+  "total_chapters": "6",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-05T06:13:32.669Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-05T15:04:13.965Z",
+  "last_updated_at": "2026-10-06T23:36:18.335Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hanbal",
-    "Lita"
+    "Bal Han",
+    "Rita"
   ],
   "artists": [
     "Metatoon",
@@ -75,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217896,
+      "rating": null,
+      "url": "https://anilist.co/manga/217896"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "whsmu2l",
@@ -85,21 +107,35 @@
   },
   "tag_ids": [
     43,
+    108,
     22,
     46,
     41,
     31,
-    9
+    9,
+    57
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "22": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "108": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6708,
+    "popularityPercentile": 0.1852,
+    "fanFavouriteDiscoveryScore": 5.2581,
+    "fanFavouriteDiscoveryPercentile": 0.1852
   }
 }

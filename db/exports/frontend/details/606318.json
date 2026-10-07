@@ -2,10 +2,10 @@
   "id": 606318,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Howling Plague",
-  "mangabaka_title": "Howling",
+  "display_title": "Howlring",
+  "mangabaka_title": "Howlring",
   "native_title": "하울링",
-  "romanized_title": "Howling",
+  "romanized_title": "Howlring",
   "titles": [
     {
       "language": "ko",
@@ -17,8 +17,15 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Howling (WANKE)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
-      "title": "Howling",
+      "title": "Howlring",
       "traits": [
         "native"
       ],
@@ -29,20 +36,20 @@
       "language": "en",
       "title": "Howlring",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "The Howling Plague",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon :**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=854794)",
+  "description": "Seoul has been devastated by the Howling Plague, a mysterious disease that transforms humans into monstrous beasts. Amid the chaos lives Rir, an unusually perceptive boy struggling to survive while caring for his sick younger sibling—the only family he has left. But when a mysterious incident erupts at the hospital, Rir's desperate attempt to protect his sibling changes him forever. He awakens caught somewhere between human and beast, forced to confront the very plague that has destroyed their world. With everything he has left, Rir makes a promise: \"I'll bring you back. No matter what. Even if I have to become a beast myself.\"\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzgzMy1oRjhURTZGTEt0c0cuanBn",
-  "total_chapters": null,
+  "total_chapters": "7",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -55,7 +62,7 @@
   },
   "first_seen_at": "2026-10-06T06:53:14.364Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-06T03:31:26.598Z",
+  "last_updated_at": "2026-10-06T20:04:15.395Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -72,39 +79,47 @@
   "source": {
     "anilist": {
       "id": 217833,
-      "rating": null,
+      "rating": 70,
       "url": "https://anilist.co/manga/217833"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "xd4pucl",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/xd4pucl"
     }
   },
   "tag_ids": [
     38,
+    58,
     36,
     261,
-    39
+    39,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "36": "unweighted",
-    "38": "unweighted",
-    "39": "unweighted",
-    "261": "unweighted"
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "93": "unweighted",
+    "261": "incidental",
+    "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 35,
+    "favourites": 1,
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.4873,
-    "popularityPercentile": 0.1497,
-    "fanFavouriteDiscoveryScore": 5.2156,
-    "fanFavouriteDiscoveryPercentile": 0.1497
+    "fanFavouriteRaw": 2.8571,
+    "fanRatioPercentile": 88.3308,
+    "popularityPercentile": 20.7808,
+    "fanFavouriteDiscoveryScore": 45.6017,
+    "fanFavouriteDiscoveryPercentile": 52.0909
   }
 }

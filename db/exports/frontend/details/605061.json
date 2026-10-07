@@ -2,7 +2,7 @@
   "id": 605061,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Is This Kind of Boyfriend Not Your Type?",
+  "display_title": "Is A Boyfriend Like This Not Your Type?",
   "mangabaka_title": "Ireon Namchineun Byeolloingayo?",
   "native_title": "이런 남친은 별로인가요?",
   "romanized_title": "Ireon Namchineun Byeolloingayo?",
@@ -29,14 +29,14 @@
       "language": "en",
       "title": "Is A Boyfriend Like This Not Your Type?",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Is This Kind of Boyfriend Not Your Type?",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-09-27T05:46:14.067Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-05T15:12:48.232Z",
+  "last_updated_at": "2026-10-06T19:16:15.267Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -76,10 +76,18 @@
       "url": "https://anilist.co/manga/214910"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "jy51kn1",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/jy51kn1"
+    }
   },
   "tag_ids": [
+    46,
+    15,
+    41,
     180,
+    16,
     9,
     7,
     93,
@@ -90,21 +98,25 @@
   "tag_weights": {
     "7": "defining",
     "9": "defining",
+    "15": "unweighted",
+    "16": "unweighted",
+    "41": "unweighted",
+    "46": "unweighted",
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 28,
+    "popularity": 29,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.4873,
-    "popularityPercentile": 17.3736,
-    "fanFavouriteDiscoveryScore": 14.4732,
-    "fanFavouriteDiscoveryPercentile": 15.8195
+    "fanRatioPercentile": 32.6708,
+    "popularityPercentile": 17.7887,
+    "fanFavouriteDiscoveryScore": 14.8345,
+    "fanFavouriteDiscoveryPercentile": 16.1146
   }
 }
