@@ -4,10 +4,195 @@
   "selection": {
     "country_of_origin": "KR",
     "release_year_before_or_equal": 2013,
-    "anilist_popularity_greater_than": 1000,
-    "expected_count": 93,
+    "expected_count": 153,
     "anilist_is_adult": false,
-    "discovered_at": "2026-09-17T04:18:44.398Z"
+    "discovered_at": "2026-09-17T04:18:44.398Z",
+    "groups": [
+      {
+        "name": "initial-popular",
+        "count": 93,
+        "anilist_popularity_greater_than": 1000,
+        "discovered_at": "2026-09-17T04:18:44.398Z",
+        "anilist_ids": [
+          85143,
+          85141,
+          86099,
+          38586,
+          59983,
+          75275,
+          52651,
+          85155,
+          60079,
+          85208,
+          84897,
+          67705,
+          87027,
+          97871,
+          80027,
+          72579,
+          35113,
+          85653,
+          55322,
+          70345,
+          31121,
+          85173,
+          100943,
+          65171,
+          100942,
+          85430,
+          85286,
+          33194,
+          31076,
+          40685,
+          40249,
+          71723,
+          70253,
+          31268,
+          87185,
+          40376,
+          87182,
+          35767,
+          46166,
+          106966,
+          80003,
+          85268,
+          97412,
+          46791,
+          86112,
+          75771,
+          31033,
+          71805,
+          30486,
+          30595,
+          30278,
+          63181,
+          100967,
+          65459,
+          60457,
+          77072,
+          85142,
+          87303,
+          31827,
+          30551,
+          85174,
+          30580,
+          126348,
+          39541,
+          85614,
+          69969,
+          34344,
+          85256,
+          85211,
+          31079,
+          53217,
+          85267,
+          85496,
+          71961,
+          57629,
+          84925,
+          66083,
+          30377,
+          100567,
+          71237,
+          128360,
+          30700,
+          33368,
+          34624,
+          56370,
+          85144,
+          72905,
+          61449,
+          31402,
+          44545,
+          65255,
+          71577,
+          30553
+        ]
+      },
+      {
+        "name": "2009-2013-favourites",
+        "count": 60,
+        "release_year_from": 2009,
+        "release_year_to": 2013,
+        "anilist_popularity_less_than": 1000,
+        "anilist_excluded_tags": [
+          "Yuri",
+          "Boys' Love"
+        ],
+        "sort": "FAVOURITES_DESC",
+        "excluded_anilist_ids": [
+          50813,
+          128312
+        ],
+        "exclusion_reasons": {
+          "50813": "User excluded Jack the Ripper: Hell Blade because of its estimated start date.",
+          "128312": "MangaBaka classifies Bad Boss as pornographic; user requested the next eligible result instead."
+        },
+        "discovered_at": "2026-10-07T11:33:31.738Z",
+        "anilist_ids": [
+          97742,
+          112395,
+          85912,
+          98001,
+          65585,
+          82425,
+          85205,
+          85172,
+          97680,
+          106236,
+          47851,
+          42633,
+          70235,
+          85290,
+          85497,
+          86075,
+          97711,
+          86246,
+          85206,
+          85253,
+          85620,
+          99386,
+          133170,
+          49984,
+          73975,
+          86548,
+          85146,
+          85431,
+          98717,
+          130486,
+          85490,
+          86048,
+          86247,
+          86506,
+          97759,
+          99590,
+          99611,
+          116732,
+          84735,
+          85239,
+          71925,
+          84775,
+          85170,
+          85841,
+          97804,
+          109221,
+          160446,
+          174719,
+          49932,
+          85147,
+          85240,
+          86505,
+          87081,
+          93065,
+          93631,
+          99237,
+          132266,
+          136241,
+          63281,
+          85569
+        ]
+      }
+    ]
   },
   "titles": [
     {
@@ -659,6 +844,486 @@
       "title": "Threads of Time",
       "release_year": 1999,
       "popularity": 1034,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 97742,
+      "title": "Kids Are All Right",
+      "release_year": 2013,
+      "popularity": 774,
+      "favourites": 35,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 112395,
+      "title": "100 Days in Europe",
+      "release_year": 2013,
+      "popularity": 299,
+      "favourites": 24,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85912,
+      "title": "Magical 12th Graders",
+      "release_year": 2013,
+      "popularity": 568,
+      "favourites": 22,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 98001,
+      "title": "Friday: Forbidden Tales",
+      "release_year": 2012,
+      "popularity": 565,
+      "favourites": 19,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 65585,
+      "title": "FAMILY MAN",
+      "release_year": 2009,
+      "popularity": 715,
+      "favourites": 18,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 82425,
+      "title": "Aideur-Ui Kwon Seonsaengnim",
+      "release_year": 2012,
+      "popularity": 858,
+      "favourites": 18,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85205,
+      "title": "Wake Up Deadman",
+      "release_year": 2010,
+      "popularity": 694,
+      "favourites": 18,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85172,
+      "title": "Green Boy: Shouting to You",
+      "release_year": 2010,
+      "popularity": 534,
+      "favourites": 16,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 97680,
+      "title": "Tong",
+      "release_year": 2013,
+      "popularity": 717,
+      "favourites": 16,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 106236,
+      "title": "Free Draw",
+      "release_year": 2013,
+      "popularity": 619,
+      "favourites": 16,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 47851,
+      "title": "Teen Spirit",
+      "release_year": 2009,
+      "popularity": 825,
+      "favourites": 15,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 42633,
+      "title": "Savage Garden",
+      "release_year": 2009,
+      "popularity": 947,
+      "favourites": 14,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 70235,
+      "title": "A Tale of Felluah",
+      "release_year": 2012,
+      "popularity": 376,
+      "favourites": 14,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85290,
+      "title": "Melo Holic",
+      "release_year": 2011,
+      "popularity": 752,
+      "favourites": 14,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85497,
+      "title": "Smile Brush",
+      "release_year": 2010,
+      "popularity": 442,
+      "favourites": 14,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 86075,
+      "title": "Smile Brush: My Old Pictures",
+      "release_year": 2010,
+      "popularity": 358,
+      "favourites": 13,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 97711,
+      "title": "Denma",
+      "release_year": 2010,
+      "popularity": 280,
+      "favourites": 13,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 86246,
+      "title": "Gepetto",
+      "release_year": 2012,
+      "popularity": 582,
+      "favourites": 12,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85206,
+      "title": "Special Martial Arts Extreme Hell Private High School",
+      "release_year": 2011,
+      "popularity": 859,
+      "favourites": 11,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85253,
+      "title": "Cheonnyeongumiho",
+      "release_year": 2011,
+      "popularity": 421,
+      "favourites": 11,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85620,
+      "title": "Aisopos",
+      "release_year": 2013,
+      "popularity": 594,
+      "favourites": 11,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 99386,
+      "title": "Bone and Flesh",
+      "release_year": 2013,
+      "popularity": 297,
+      "favourites": 11,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 133170,
+      "title": "The Girl Who Sees Smells",
+      "release_year": 2013,
+      "popularity": 251,
+      "favourites": 11,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 49984,
+      "title": "My Boyfriend is a Vampire",
+      "release_year": 2010,
+      "popularity": 671,
+      "favourites": 10,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 73975,
+      "title": "My Kitty and Old Dog",
+      "release_year": 2011,
+      "popularity": 853,
+      "favourites": 10,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 86548,
+      "title": "My Beautiful World",
+      "release_year": 2013,
+      "popularity": 905,
+      "favourites": 10,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85146,
+      "title": "Killer Stall",
+      "release_year": 2012,
+      "popularity": 351,
+      "favourites": 9,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85431,
+      "title": "Pinocchio",
+      "release_year": 2011,
+      "popularity": 669,
+      "favourites": 9,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 98717,
+      "title": "The Vault of Horror: A Collection of Nightmares",
+      "release_year": 2011,
+      "popularity": 645,
+      "favourites": 8,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 130486,
+      "title": "A Compendium of Ghosts",
+      "release_year": 2013,
+      "popularity": 341,
+      "favourites": 8,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85490,
+      "title": "Dangsinman Molla!",
+      "release_year": 2012,
+      "popularity": 418,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 86048,
+      "title": "Reveries of the Moonlight",
+      "release_year": 2013,
+      "popularity": 630,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 86247,
+      "title": "Sinryeong",
+      "release_year": 2012,
+      "popularity": 402,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 86506,
+      "title": "Cheonyeon Letbyol",
+      "release_year": 2012,
+      "popularity": 332,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 97759,
+      "title": "New Normal: Class 8",
+      "release_year": 2013,
+      "popularity": 345,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 99590,
+      "title": "Gureumeul Nubineun Sonyeo",
+      "release_year": 2009,
+      "popularity": 356,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 99611,
+      "title": "Cat and Dog",
+      "release_year": 2013,
+      "popularity": 404,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 116732,
+      "title": "Eoseowa",
+      "release_year": 2010,
+      "popularity": 112,
+      "favourites": 7,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 84735,
+      "title": "Match Made In Heaven",
+      "release_year": 2011,
+      "popularity": 491,
+      "favourites": 6,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85239,
+      "title": "Choegangjeonseol Kang Hae-Hyo",
+      "release_year": 2013,
+      "popularity": 534,
+      "favourites": 6,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 71925,
+      "title": "Jisang Choeagui Sonyeon",
+      "release_year": 2011,
+      "popularity": 888,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 84775,
+      "title": "Yongbyeong Maluhan",
+      "release_year": 2012,
+      "popularity": 676,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85170,
+      "title": "Yongisanda",
+      "release_year": 2013,
+      "popularity": 302,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85841,
+      "title": "Wonted",
+      "release_year": 2011,
+      "popularity": 346,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 97804,
+      "title": "Gaussian Blur",
+      "release_year": 2012,
+      "popularity": 191,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 109221,
+      "title": "Thirsty Thirty",
+      "release_year": 2013,
+      "popularity": 407,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 160446,
+      "title": "Clean with Passion for Now",
+      "release_year": 2013,
+      "popularity": 163,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 174719,
+      "title": "A Killer Paradox",
+      "release_year": 2010,
+      "popularity": 169,
+      "favourites": 5,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 49932,
+      "title": "Doll Song",
+      "release_year": 2010,
+      "popularity": 446,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85147,
+      "title": "Ulineun Uyeonhi Geuligo",
+      "release_year": 2011,
+      "popularity": 274,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85240,
+      "title": "Living with One Leg",
+      "release_year": 2012,
+      "popularity": 340,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 86505,
+      "title": "Twelve Nights",
+      "release_year": 2012,
+      "popularity": 245,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 87081,
+      "title": "Cursor",
+      "release_year": 2013,
+      "popularity": 243,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 93065,
+      "title": "Vampire of the East",
+      "release_year": 2012,
+      "popularity": 430,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 93631,
+      "title": "Milkyway Hitchhiking",
+      "release_year": 2011,
+      "popularity": 220,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 99237,
+      "title": "Romantic Marbling",
+      "release_year": 2013,
+      "popularity": 272,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 132266,
+      "title": "Bad Friends",
+      "release_year": 2012,
+      "popularity": 490,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 136241,
+      "title": "Forest of Humans",
+      "release_year": 2012,
+      "popularity": 355,
+      "favourites": 4,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 63281,
+      "title": "A Bias Girl",
+      "release_year": 2011,
+      "popularity": 472,
+      "favourites": 3,
+      "country_of_origin": "KR"
+    },
+    {
+      "anilist_id": 85569,
+      "title": "Give to the Heart",
+      "release_year": 2013,
+      "popularity": 149,
+      "favourites": 3,
       "country_of_origin": "KR"
     }
   ]
