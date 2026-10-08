@@ -4,20 +4,33 @@
   "type": "manhwa",
   "display_title": "Foretold",
   "mangabaka_title": "Foretold",
-  "native_title": "最後の予言",
-  "romanized_title": null,
+  "native_title": "마지막 예언",
+  "romanized_title": "Majimang Yeeon",
   "titles": [
     {
       "language": "ko",
       "title": "마지막 예언",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Foretold",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Majimang Yeeon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,25 +43,25 @@
     }
   ],
   "description": "**Original Webtoon:**  \nLezhin/Bomtoon\n\n**Official Translations:**  \nEnglish, Spanish, French, German, T.Chinese, Thai, Japanese\n\n##### Note: This series is a global release, meaning all official translations come out on the same day as the original Korean.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5MjQyLnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzU1MS1sR3NmQ0ZWQ1B6YXEuanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-28T05:54:14.143Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-07T02:07:06.325Z",
+  "last_updated_at": "2026-10-08T02:08:02.794Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Anco (안코)"
+    "Anco"
   ],
   "artists": [
     "Mongya"
@@ -59,7 +72,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217551,
+      "rating": null,
+      "url": "https://anilist.co/manga/217551"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "513dav7",
@@ -68,17 +85,24 @@
     }
   },
   "tag_ids": [
+    180,
     16
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "180": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 8,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6247,
+    "popularityPercentile": 4.1029,
+    "fanFavouriteDiscoveryScore": 6.8521,
+    "fanFavouriteDiscoveryPercentile": 3.8549
   }
 }

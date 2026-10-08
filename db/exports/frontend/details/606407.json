@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "How a Cyberpunk Fixer Lives",
-  "mangabaka_title": "How a Cyberpunk Fixer Lives",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Cyberpunk-ui Haegyeolsaga Saneun Beop",
+  "native_title": "사이버펑크의 해결사가 사는 법",
+  "romanized_title": "Cyberpunk-ui Haegyeolsaga Saneun Beop",
   "titles": [
     {
       "language": "ko",
       "title": "사이버펑크의 해결사가 사는 법",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Cyberpunk-ui Haegyeolsaga Saneun Beop",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,27 +33,27 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon :**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855686), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14813814)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODQ2LnBuZw",
+  "description": "Leonard Walker, formerly of the anti-cyborg unit 'Hexagon,' now lives as a fixer in A-077 City, one of the cities inhabited by cyborgs.\n\nIn a city rife with gunfire between gangs and public security, he takes on any assignment as long as he is paid, but stubbornly refuses to accept any request that involves killing people-a stance completely out of step with his past. Then, a request comes in from a revolutionary calling for liberation from corporations.\n\n**Original Novel:**      \n[Chapters](https://series.naver.com/novel/detail.series?productNo=8905653), [Volumes](https://series.naver.com/novel/detail.series?productNo=9394361) \n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855686), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14813814)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzg3NS1oZkcyb214TWxHc3UuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-06",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-07T06:29:16.946Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-06T19:06:24.345Z",
+  "last_updated_at": "2026-10-07T19:46:32.939Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "flank",
-    "woodcutter"
+    "Mukkun Na",
+    "Pyeongon"
   ],
   "artists": [
     "JUN2"
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217875,
+      "rating": null,
+      "url": "https://anilist.co/manga/217875"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "vjfxqgl",
@@ -63,18 +78,35 @@
   },
   "tag_ids": [
     8,
+    58,
+    390,
     1,
-    39
+    39,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "1": "defining",
+    "8": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "unweighted",
+    "93": "unweighted",
+    "390": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6247,
+    "popularityPercentile": 2.7353,
+    "fanFavouriteDiscoveryScore": 6.2555,
+    "fanFavouriteDiscoveryPercentile": 2.551
   }
 }

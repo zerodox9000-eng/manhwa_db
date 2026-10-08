@@ -2,15 +2,17 @@
   "id": 603861,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Mr. Kim Strikes It Rich With Auto-Hunting",
-  "mangabaka_title": "Mr. Kim Strikes It Rich With Auto-Hunting",
+  "display_title": "Mr. Kim Strikes It Rich with Auto-Hunting",
+  "mangabaka_title": "Nogada Kim-ssi, Jadongsanyangeuro Kkul Ppamnida",
   "native_title": "노가다 김씨, 자동사냥으로 꿀 빱니다",
   "romanized_title": "Mr. Kim Is Living the Good Life with Auto-Hunting",
   "titles": [
     {
       "language": "ko",
       "title": "노가다 김씨, 자동사냥으로 꿀 빱니다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,29 +31,38 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Mr. Kim Strikes It Rich With Auto-Hunting",
+      "language": "en",
+      "title": "Mr. Kim Strikes It Rich with Auto-Hunting",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nogada Kim-ssi, Jadongsanyangeuro Kkul Ppamnida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Say goodbye to the dangerous life of a hunter. The age of auto-hunting is here. Let’s shout it again today: Safety! Great! Great! Great!\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70511208/), [Daum](https://webtoon.kakao.com/content/%EB%85%B8%EA%B0%80%EB%8B%A4-%EA%B9%80%EC%94%A8-%EC%9E%90%EB%8F%99%EC%82%AC%EB%83%A5%EC%9C%BC%EB%A1%9C-%EA%BF%80-%EB%B9%B1%EB%8B%88%EB%8B%A4/4983)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MDE2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzk5Mi1VRUJ3UmZMYjM4NWcuanBn",
   "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-13",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-14T05:28:22.097Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-05T17:37:39.930Z",
+  "last_updated_at": "2026-10-08T05:36:38.905Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,7 @@
     "Wonha"
   ],
   "artists": [
-    "Nakwang"
+    "Nagwang"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/603861",
@@ -67,11 +78,15 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217992,
+      "rating": null,
+      "url": "https://anilist.co/manga/217992"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "lc6g6iz",
-      "rating": 64,
+      "rating": 65,
       "url": "https://www.mangaupdates.com/series/lc6g6iz"
     }
   },
@@ -81,14 +96,21 @@
     6
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "36": "defining",
+    "38": "defining"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6247,
+    "popularityPercentile": 0.2338,
+    "fanFavouriteDiscoveryScore": 5.2686,
+    "fanFavouriteDiscoveryPercentile": 0.2338
   }
 }
