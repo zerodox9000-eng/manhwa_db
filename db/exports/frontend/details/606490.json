@@ -2,7 +2,7 @@
   "id": 606490,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Picking up a Grimoire and Becoming a Wizard",
+  "display_title": "Pick Up a Grimoire, Become a Mage",
   "mangabaka_title": "Madoseoreul Jupda Mabeopsaga Doeda",
   "native_title": "마도서를 줍다 마법사가 되다",
   "romanized_title": "Madoseoreul Jupda Mabeopsaga Doeda",
@@ -43,7 +43,7 @@
       "language": "en",
       "title": "Picking up a Grimoire and Becoming a Wizard",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -57,7 +57,7 @@
       "language": "en",
       "title": "Pick Up a Grimoire, Become a Mage",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-10-08T06:40:20.299Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-08T00:41:39.183Z",
+  "last_updated_at": "2026-10-08T19:06:23.048Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -101,7 +101,7 @@
   "source": {
     "anilist": {
       "id": 217943,
-      "rating": null,
+      "rating": 75,
       "url": "https://anilist.co/manga/217943"
     },
     "animeplanet": null,
@@ -115,6 +115,7 @@
     8,
     58,
     36,
+    252,
     39,
     93,
     57,
@@ -122,24 +123,25 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "8": "unweighted",
+    "8": "defining",
     "36": "defining",
-    "39": "unweighted",
+    "39": "defining",
     "57": "unweighted",
     "58": "incidental",
     "93": "unweighted",
+    "252": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 74,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 75
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6247,
-    "popularityPercentile": 0.2338,
-    "fanFavouriteDiscoveryScore": 5.2686,
-    "fanFavouriteDiscoveryPercentile": 0.2338
+    "fanRatioPercentile": 32.6463,
+    "popularityPercentile": 32.9721,
+    "fanFavouriteDiscoveryScore": 24.3765,
+    "fanFavouriteDiscoveryPercentile": 26.6256
   }
 }

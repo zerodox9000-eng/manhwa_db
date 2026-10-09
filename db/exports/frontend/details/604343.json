@@ -2,22 +2,40 @@
   "id": 604343,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Gaemi Ji-ok",
-  "mangabaka_title": "Gaemi Ji-ok",
-  "native_title": "[관계중독 단편선] 개미지옥",
-  "romanized_title": "Gaemi Ji-ok",
+  "display_title": "Ant Hell",
+  "mangabaka_title": "Gaemijiok",
+  "native_title": "개미지옥",
+  "romanized_title": "Gaemijiok",
   "titles": [
     {
       "language": "ko",
+      "title": "개미지옥",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko",
       "title": "[관계중독 단편선] 개미지옥",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Ant Hell",
       "traits": [],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Gaemi Ji-ok",
-      "traits": [],
+      "title": "Gaemijiok",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,31 +45,38 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gwangyejungdong Danpyeonseon] Gaemijiok",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
   "description": "I was adopted to become the twins’ omega. *“It’s time to have our child now, hyung.”*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/antlion_pit)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MzM1LnBuZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzk4Mi13eXhDOGNhQTV3MGYucG5n",
+  "total_chapters": "6",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-08",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-09-18T05:11:19.026Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-07T07:09:55.924Z",
+  "last_updated_at": "2026-10-08T07:36:40.107Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "yeondoup"
+    "Yeondeop"
   ],
   "artists": [
-    "yeondoup"
+    "Yeondeop"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604343",
@@ -59,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217982,
+      "rating": null,
+      "url": "https://anilist.co/manga/217982"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "cg60ow3",
@@ -68,18 +97,38 @@
     }
   },
   "tag_ids": [
+    118,
     41,
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "118": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6463,
+    "popularityPercentile": 0.4321,
+    "fanFavouriteDiscoveryScore": 5.3455,
+    "fanFavouriteDiscoveryPercentile": 0.425
   }
 }

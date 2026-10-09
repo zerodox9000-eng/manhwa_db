@@ -2,10 +2,10 @@
   "id": 7459,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Can Do It",
-  "mangabaka_title": "I Can Do It",
+  "display_title": "Nan Hal Su Isseo",
+  "mangabaka_title": "Nan Hal Su Isseo",
   "native_title": "난 할 수 있어",
-  "romanized_title": null,
+  "romanized_title": "Nan Hal Su Isseo",
   "titles": [
     {
       "language": "ko",
@@ -20,14 +20,23 @@
       "language": "en",
       "title": "I Can Do It",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Nan Hal Su Isseo",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nan Hal Su Isseo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -38,7 +47,7 @@
       "note": null
     }
   ],
-  "description": "Assistant manager Cho Daechan who worked as a office worker for ten years died in vain from being overworked at a young age, because he could not endure the abuse of power of his evil boss. He thought it was all over... He opened his eyes again as a 18 years old high school student. A miraculous opportunity that will never happen again. “In this life, I will grit my teeth and live my life! I will clear up my life of being trampled on and succeed  as if I am showing off. You don't think I can do it? No, I can do it!”\n\n**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/62536161), [Daum](https://webtoon.kakao.com/content/%EB%82%9C-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4/3677), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14564069)",
+  "description": "Assistant manager Cho Daechan who worked as a office worker for ten years died in vain from being overworked at a young age, because he could not endure the abuse of power of his evil boss. He thought it was all over... He opened his eyes again as a 18 years old high school student. A miraculous opportunity that will never happen again. \"In this life, I will grit my teeth and live my life! I will clear up my life of being trampled on and succeed as if I am showing off. You don't think I can do it? No, I can do it!\"\n\n(Source: KakaoPage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzAvNy9lL2MvYy85L2IvNWQ1Yi80ZmE5L2E1YTMvMTIwYzMyYzFhYWI2",
   "total_chapters": "80",
   "status": "completed",
@@ -53,15 +62,15 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.151Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-06T23:44:38.083Z",
+  "last_updated_at": "2026-10-08T22:36:24.083Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Hyunbin",
-    "Lee Eutteum"
+    "Eutteum Lee",
+    "Hyeon-Bin Kim"
   ],
   "artists": [
-    "Kim Kun"
+    "Kimkun"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/7459",
@@ -69,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218024,
+      "rating": null,
+      "url": "https://anilist.co/manga/218024"
+    },
     "animeplanet": {
       "id": "i-can-do-it",
       "rating": 74,
@@ -85,6 +98,8 @@
     248,
     38,
     159,
+    58,
+    311,
     249,
     1,
     31,
@@ -94,15 +109,31 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "1": "unweighted",
+    "31": "defining",
+    "38": "defining",
+    "57": "unweighted",
+    "58": "unweighted",
+    "93": "unweighted",
+    "159": "unweighted",
+    "248": "unweighted",
+    "249": "unweighted",
+    "311": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6463,
+    "popularityPercentile": 0.1771,
+    "fanFavouriteDiscoveryScore": 5.2512,
+    "fanFavouriteDiscoveryPercentile": 0.1771
   },
   "context": {
     "primaryProfile": "sci-fi-business-regression",

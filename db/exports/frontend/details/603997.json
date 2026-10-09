@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Ever After (Carbo)",
-  "mangabaka_title": "Ever After (Carbo)",
+  "mangabaka_title": "Ever After",
   "native_title": "에버 애프터",
-  "romanized_title": null,
+  "romanized_title": "Ever After",
   "titles": [
     {
       "language": "ko",
       "title": "에버 애프터",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,6 +24,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Ever After",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Ever After (Carbo)",
       "traits": [],
@@ -30,26 +41,26 @@
     }
   ],
   "description": "Two men and women trapped in the past,\nIn deep love\nThe secret of that day is revealed\n\n\nBulls Group 3 ‘Ryu Ji-seung’, who was featured in the media for his assault case and was photographed as the group's troublemaker\nHe meets ‘Yeon Si-eun’, who looks exactly like the child who died a long time ago, on Jiri Mountain, where he left to gather his body and mind.\n\nC Department Store is assigned, not knowing whether it is demotion or mission.\nJi-seung meets Si-eun again at the new employee training center and feels an inexplicable and intense attraction.\n\n“The assistant manager seems like a person from a different world than me. I am.. It's nothing.”\nEven though the favor given by the man who lives on the clouds is burdensome,\nSi-eun is helplessly shaken by Ji-seung, who approaches her recklessly.\n\nRyu Ji-seung, a man with an unhealed past\nYeon Si-eun, a woman with a past she can't remember\n\nAs the love between the two deepens, the secret of a tragic incident that occurred in the C Group about 20 years ago is revealed...\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/70621008/), [Daum](https://webtoon.kakao.com/content/%EC%97%90%EB%B2%84-%EC%95%A0%ED%94%84%ED%84%B0-Ever-After/4985)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4Mjc4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzk5OS1LQVZQVnhmNG1YUFQuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-15T05:19:50.254Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-06T19:34:47.636Z",
+  "last_updated_at": "2026-10-08T06:36:09.408Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Carbo",
-    "Lala Sister"
+    "Hyo-Won Do",
+    "Lala Sisters"
   ],
   "artists": [
     "Yune"
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217999,
+      "rating": null,
+      "url": "https://anilist.co/manga/217999"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mcdhxnt",
@@ -70,19 +85,35 @@
   },
   "tag_ids": [
     43,
+    108,
     31,
     32,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "32": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6463,
+    "popularityPercentile": 0.4321,
+    "fanFavouriteDiscoveryScore": 5.3455,
+    "fanFavouriteDiscoveryPercentile": 0.425
   }
 }
