@@ -54,10 +54,12 @@
       "note": null
     },
     {
-      "language": "fr",
+      "language": "ko-Latn",
       "title": "The Last Adventurer",
-      "traits": [],
-      "is_primary": true,
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
       "note": null
     },
     {
@@ -70,12 +72,10 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "fr",
       "title": "The Last Adventurer",
-      "traits": [
-        "native"
-      ],
-      "is_primary": false,
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
@@ -112,6 +112,13 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "zh-Hant",
+      "title": "最後的冒險家",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "In the Era of Adventure kickstarted by the spawning of Gates, marked by absolute hopelessness, destitute, desperation, and despair, everyone had given up their hope and lost their courage to continue fighting - except one adventurer that refused to go down until his last breath. \"You are the only one left, Last Adventurer Elpam.\" As the history of adventurers was forced to come to an end, the Last Adventurer returned to where this story all began.\n\n(Source: WEBTOON)",
@@ -129,7 +136,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.821Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-08T02:42:58.872Z",
+  "last_updated_at": "2026-10-09T06:24:36.482Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -253,16 +260,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 12322,
+    "popularity": 12334,
     "favourites": 235,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 1.9072,
-    "fanRatioPercentile": 73.3036,
-    "popularityPercentile": 98.4984,
-    "fanFavouriteDiscoveryScore": 73.198,
-    "fanFavouriteDiscoveryPercentile": 80.6276
+    "fanFavouriteRaw": 1.9053,
+    "fanRatioPercentile": 73.3041,
+    "popularityPercentile": 98.4988,
+    "fanFavouriteDiscoveryScore": 73.1985,
+    "fanFavouriteDiscoveryPercentile": 80.6047
   },
   "context": {
     "primaryProfile": "business-career-regression",

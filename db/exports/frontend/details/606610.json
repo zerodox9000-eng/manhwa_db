@@ -3,15 +3,33 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Until Death Do Us Part (Kim Su-Ji)",
-  "mangabaka_title": "Until Death Do Us Part (Kim Su-Ji)",
+  "mangabaka_title": "Jugeumi Urireul Galla Noeul Ttaekkaji",
   "native_title": "죽음이 우리를 갈라 놓을 때까지",
-  "romanized_title": null,
+  "romanized_title": "Jugeumi Urireul Galla Noeul Ttaekkaji",
   "titles": [
     {
       "language": "ko",
       "title": "죽음이 우리를 갈라 놓을 때까지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jugeumi Urireul Galla Noeul Ttaekkaji",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Till Death Do Us Part",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,29 +47,29 @@
       "note": null
     }
   ],
-  "description": null,
-  "cover": null,
-  "total_chapters": "1",
-  "status": "unknown",
+  "description": "Thirty-two espers with bombs implanted in their heads. Divided into two teams, they are forced to play a high-stakes game of human chess where their lives hang in the balance. If they fail to locate and eliminate the enemy \"King\" before time runs out, everyone will be wiped out. The team that succeeds in killing the opposing King before the time limit survives, while the team that loses their King will have their bombs detonated, meeting certain death. Driven into a corner, they must utilize their unique skills to find a way to assassinate the rival King. Boys and girls forced to drive one another toward death just to survive... Their desperate, brutal struggle begins.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODAxMy05VDVWT1dOVkRBbDYuanBn",
+  "total_chapters": "4",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-09T00:42:11.880Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-08T16:47:27.385Z",
+  "last_updated_at": "2026-10-10T00:36:11.705Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Su-Ji"
+    "Su-Ji Kim"
   ],
   "artists": [
-    "Jeon Gu"
+    "Jjeongu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606610",
@@ -59,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218013,
+      "rating": null,
+      "url": "https://anilist.co/manga/218013"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "aehyunn",
@@ -67,16 +89,27 @@
       "url": "https://www.mangaupdates.com/series/aehyunn"
     }
   },
-  "tag_ids": [],
+  "tag_ids": [
+    1,
+    22,
+    39
+  ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "1": "defining",
+    "22": "defining",
+    "39": "defining"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 8,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6441,
+    "popularityPercentile": 4.0433,
+    "fanFavouriteDiscoveryScore": 6.8293,
+    "fanFavouriteDiscoveryPercentile": 3.7955
   }
 }

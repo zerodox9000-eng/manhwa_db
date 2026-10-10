@@ -35,13 +35,6 @@
       "note": null
     },
     {
-      "language": "zh-Hant",
-      "title": "最後的預言",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "ja",
       "title": "灰は風に舞いて",
       "traits": [],
@@ -52,7 +45,7 @@
       "language": "zh-Hant",
       "title": "風起灰揚",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -71,7 +64,7 @@
   },
   "first_seen_at": "2026-09-28T05:54:14.143Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-08T15:09:09.553Z",
+  "last_updated_at": "2026-10-09T15:09:54.514Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -101,7 +94,9 @@
     }
   },
   "tag_ids": [
+    732,
     36,
+    547,
     180,
     16,
     31,
@@ -123,7 +118,9 @@
     "93": "unweighted",
     "128": "incidental",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "547": "unweighted",
+    "732": "unweighted"
   },
   "stats": {
     "popularity": 25,
@@ -132,9 +129,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6463,
-    "popularityPercentile": 15.7884,
-    "fanFavouriteDiscoveryScore": 13.4877,
-    "fanFavouriteDiscoveryPercentile": 14.4071
+    "fanRatioPercentile": 32.6441,
+    "popularityPercentile": 15.7697,
+    "fanFavouriteDiscoveryScore": 13.4745,
+    "fanFavouriteDiscoveryPercentile": 14.3889
   }
 }

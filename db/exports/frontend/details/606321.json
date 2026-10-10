@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Crazy Villain Regains His Sanity",
-  "mangabaka_title": "The Crazy Villain Regains His Sanity",
+  "mangabaka_title": "Michin Billeoni Jeongsineul Doechajeum",
   "native_title": "미친 빌런이 정신을 되찾음",
-  "romanized_title": null,
+  "romanized_title": "Michin Billeoni Jeongsineul Doechajeum",
   "titles": [
     {
       "language": "ko",
       "title": "미친 빌런이 정신을 되찾음",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Michin Billeoni Jeongsineul Doechajeum",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,39 +33,46 @@
       "note": null
     }
   ],
-  "description": "The protagonist, Choi Joon-ho, who had lived his life as a ruthless villain, indulging in power and bloodshed, one day returned to the past when he was an unemployed shut-in. He decided to turn his life around and use his strength for good, facing various challenges and obstacles along the way",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5Nzg4LmpwZw",
-  "total_chapters": "18",
-  "status": "unknown",
+  "description": "The protagonist, Choi Joon-ho, who had lived his life as a ruthless villain, indulging in power and bloodshed, one day returned to the past when he was an unemployed shut-in. He decided to turn his life around and use his strength for good, facing various challenges and obstacles along the way.\n\n[Original Webtoon](https://page.kakao.com/content/70776768)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODA0MS1HSHNnOWVhVFptRUIuanBn",
+  "total_chapters": "20",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-08T20:15:25.227Z",
+  "last_updated_at": "2026-10-09T17:16:23.061Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "김현우"
+    "Hyeon-Woo Kim",
+    "Next Level Studio"
   ],
-  "artists": [],
+  "artists": [
+    "Next Level Studio"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/606321",
     "read_en": null,
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218041,
+      "rating": null,
+      "url": "https://anilist.co/manga/218041"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ewa6rox",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/ewa6rox"
     }
   },
@@ -67,14 +85,24 @@
     18
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "8": "defining",
+    "18": "defining",
+    "31": "defining",
+    "36": "defining",
+    "39": "defining"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6441,
+    "popularityPercentile": 0.1558,
+    "fanFavouriteDiscoveryScore": 5.243,
+    "fanFavouriteDiscoveryPercentile": 0.1558
   }
 }

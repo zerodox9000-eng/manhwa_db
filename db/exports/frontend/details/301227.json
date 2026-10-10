@@ -4,8 +4,8 @@
   "type": "manhwa",
   "display_title": "This Can't Be",
   "mangabaka_title": "This Can't Be",
-  "native_title": "우리에게 그런거는 있을 수가 없어",
-  "romanized_title": null,
+  "native_title": "있을 수가 없어",
+  "romanized_title": "Isseul Suga Eopseo",
   "titles": [
     {
       "language": "ko",
@@ -17,14 +17,27 @@
     {
       "language": "ko",
       "title": "있을 수가 없어",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Isseul Suga Eopseo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "This Can't Be",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,29 +49,29 @@
       "note": null
     }
   ],
-  "description": "Is romance truly not possible for these people? A comical, scary, and supernatural romance story!\n\n**Original Webtoon:**  \n[Toomics (Expired)](https://www.toomics.com/webtoon/episode/toon/4742), [Naver Series](https://series.naver.com/comic/detail.series?productNo=9487354)\n\n**Official Translations:**  \n[English (Expired)](https://global.toomics.com/en/webtoon/episode/toon/4742)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoaXMtY2FudC1iZS0xLmpwZz90PTE2MjU5MjMzMTI",
+  "description": "Is romance truly not possible for these people? A comical, scary, and supernatural romance story! \n\n(Source: Toomics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxODA2MC14emcxaE5OUURCRkguanBn",
   "total_chapters": "65",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2017,
   "published": {
-    "start_date": "2017-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2017-09-13",
+    "end_date": "2018-10-31",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:39:19.583Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T01:05:41.796Z",
+  "last_updated_at": "2026-10-09T20:46:25.678Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Olso"
   ],
   "artists": [
-    "HAE (II)"
+    "Hae"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/301227",
@@ -66,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218060,
+      "rating": null,
+      "url": "https://anilist.co/manga/218060"
+    },
     "animeplanet": {
       "id": "this-cant-be",
       "rating": null,
@@ -93,15 +110,31 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "22": "defining",
+    "31": "defining",
+    "42": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "229": "unweighted",
+    "257": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6441,
+    "popularityPercentile": 0.1558,
+    "fanFavouriteDiscoveryScore": 5.243,
+    "fanFavouriteDiscoveryPercentile": 0.1558
   },
   "context": {
     "primaryProfile": "horror-survival",
