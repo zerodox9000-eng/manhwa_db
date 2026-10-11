@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Women Who Loved Me",
-  "mangabaka_title": "The Women Who Loved Me",
+  "mangabaka_title": "Nareul Saranghan Yeojadeul",
   "native_title": "나를 사랑한 여자들",
-  "romanized_title": null,
+  "romanized_title": "Nareul Saranghan Yeojadeul",
   "titles": [
     {
       "language": "ko",
       "title": "나를 사랑한 여자들",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nareul Saranghan Yeojadeul",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "A destiny where I'm only popular with girls?\" Hangyeol, who has a boyish appearance, has always been uniquely popular among girls. Believing she had always accommodated others because she hated conflict, Hangyeol realizes through her best friend's backstabbing that her 'easygoing nature' was actually 'frustrating.' After failing miserably in her attempt to become an 'ordinary girl' upon entering college, she accidentally joins a film club where she starts getting tangled up with 'strange' women who each harbor their own flaws. Caught somewhere between an emotional dumping ground and a pillar of support for them, this is Hangyeol's coming-of-age story as she gets tossed around and finds her true self.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855718), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14824030)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMDM3LmpwZw",
+  "description": "*“A personality that’s only popular with girls?”*\n\nHan-Gyeol, with her boyish looks, was particularly popular with other girls. Han-Gyeol, who thought she had always gone along with others to avoid conflict, realizes through her best friend’s gossip that her “even-tempered” nature was actually “frustrating.” After entering college, she tries to become an “ordinary girl” but fails spectacularly. She then ends up joining a film club by chance, where she begins to get entangled with a group of “strange” girls, each harboring their own insecurities. Caught between serving as their emotional dumping ground and their emotional pillar, Han-Gyeol is tossed back and forth—this is the coming-of-age story of her journey to find her true self.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODA4Ni1icUdCYUJHTFNXRzQuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-08",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-09T00:42:11.880Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-09T16:44:45.117Z",
+  "last_updated_at": "2026-10-10T16:47:35.020Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yag"
+    "Hang"
   ],
   "artists": [
-    "Yag"
+    "Hang"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606609",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218086,
+      "rating": null,
+      "url": "https://anilist.co/manga/218086"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "0ca29n9",
@@ -61,18 +76,42 @@
     }
   },
   "tag_ids": [
+    387,
+    59,
+    257,
+    356,
+    108,
+    117,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "93": "unweighted",
+    "108": "unweighted",
+    "117": "incidental",
+    "257": "incidental",
+    "356": "incidental",
+    "387": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6159,
+    "popularityPercentile": 1.2035,
+    "fanFavouriteDiscoveryScore": 5.6339,
+    "fanFavouriteDiscoveryPercentile": 1.1398
   }
 }

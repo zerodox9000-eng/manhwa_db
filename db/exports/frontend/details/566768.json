@@ -2,7 +2,7 @@
   "id": 566768,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Player of the Fallen Noble Family",
+  "display_title": "The Player of the Fallen Noble Family",
   "mangabaka_title": "Mollakan Myeonggaui Player",
   "native_title": "몰락한 명가의 플레이어",
   "romanized_title": "Mollakan Myeonggaui Player",
@@ -29,7 +29,7 @@
       "language": "en",
       "title": "Player of the Fallen Noble Family",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -51,6 +51,13 @@
       "title": "The Player of the Fallen Family",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Player of the Fallen Noble Family",
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
@@ -83,11 +90,11 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-09T23:44:17.435Z",
+  "last_updated_at": "2026-10-10T23:45:52.338Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Bin-Ji Ga",
+    "Gabinji",
     "Jae-Ho Yun"
   ],
   "artists": [
@@ -101,7 +108,7 @@
   "source": {
     "anilist": {
       "id": 202580,
-      "rating": 65,
+      "rating": 64,
       "url": "https://anilist.co/manga/202580"
     },
     "animeplanet": {
@@ -122,8 +129,10 @@
     748,
     1064,
     394,
+    249,
     36,
     4166,
+    1,
     22,
     39,
     31,
@@ -135,6 +144,7 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "1": "unweighted",
     "22": "defining",
     "31": "defining",
     "36": "defining",
@@ -144,6 +154,7 @@
     "58": "defining",
     "74": "unweighted",
     "93": "unweighted",
+    "249": "unweighted",
     "394": "core",
     "428": "unweighted",
     "528": "defining",
@@ -153,16 +164,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1386,
+    "popularity": 1390,
     "favourites": 15,
-    "meanScore": 65
+    "meanScore": 64
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0823,
-    "fanRatioPercentile": 50.4957,
-    "popularityPercentile": 84.5135,
-    "fanFavouriteDiscoveryScore": 50.2632,
-    "fanFavouriteDiscoveryPercentile": 58.3699
+    "fanFavouriteRaw": 1.0791,
+    "fanRatioPercentile": 50.3363,
+    "popularityPercentile": 84.5593,
+    "fanFavouriteDiscoveryScore": 50.1054,
+    "fanFavouriteDiscoveryPercentile": 58.1876
   },
   "context": {
     "primaryProfile": "business-career-regression",

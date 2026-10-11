@@ -2,7 +2,7 @@
   "id": 606610,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Until Death Do Us Part (Kim Su-Ji)",
+  "display_title": "Till Death Do Us Part",
   "mangabaka_title": "Jugeumi Urireul Galla Noeul Ttaekkaji",
   "native_title": "죽음이 우리를 갈라 놓을 때까지",
   "romanized_title": "Jugeumi Urireul Galla Noeul Ttaekkaji",
@@ -29,7 +29,7 @@
       "language": "en",
       "title": "Till Death Do Us Part",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,7 +43,7 @@
       "language": "en",
       "title": "Until Death Do Us Part (Kim Su-Ji)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-10-09T00:42:11.880Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-10T00:36:11.705Z",
+  "last_updated_at": "2026-10-11T00:17:13.390Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,7 +79,7 @@
   "source": {
     "anilist": {
       "id": 218013,
-      "rating": null,
+      "rating": 90,
       "url": "https://anilist.co/manga/218013"
     },
     "animeplanet": null,
@@ -90,26 +90,40 @@
     }
   },
   "tag_ids": [
+    521,
+    456,
+    520,
     1,
     22,
-    39
+    39,
+    26,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
     "1": "defining",
     "22": "defining",
-    "39": "defining"
+    "26": "unweighted",
+    "39": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "456": "unweighted",
+    "520": "incidental",
+    "521": "unweighted"
   },
   "stats": {
-    "popularity": 8,
+    "popularity": 11,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 90
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6441,
-    "popularityPercentile": 4.0433,
-    "fanFavouriteDiscoveryScore": 6.8293,
-    "fanFavouriteDiscoveryPercentile": 3.7955
+    "fanRatioPercentile": 32.6159,
+    "popularityPercentile": 6.4708,
+    "fanFavouriteDiscoveryScore": 7.979,
+    "fanFavouriteDiscoveryPercentile": 6.0814
   }
 }

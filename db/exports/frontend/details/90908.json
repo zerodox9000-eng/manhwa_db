@@ -113,7 +113,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.187Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-09T01:21:43.843Z",
+  "last_updated_at": "2026-10-10T01:22:30.546Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -174,14 +174,16 @@
     428,
     7332
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    33
+  ],
   "tag_weights": {
     "8": "defining",
     "9": "defining",
     "10": "defining",
     "20": "defining",
     "31": "defining",
-    "33": "unweighted",
+    "33": "incidental",
     "46": "defining",
     "57": "unweighted",
     "58": "defining",
@@ -198,7 +200,7 @@
     "382": "core",
     "404": "unweighted",
     "428": "unweighted",
-    "510": "unweighted",
+    "510": "incidental",
     "585": "incidental",
     "597": "unweighted",
     "7332": "unweighted"
@@ -210,10 +212,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.6536,
-    "fanRatioPercentile": 38.6064,
-    "popularityPercentile": 45.6026,
-    "fanFavouriteDiscoveryScore": 34.5188,
-    "fanFavouriteDiscoveryPercentile": 37.6859
+    "fanRatioPercentile": 38.6265,
+    "popularityPercentile": 45.6,
+    "fanFavouriteDiscoveryScore": 34.536,
+    "fanFavouriteDiscoveryPercentile": 37.777
   },
   "context": {
     "primaryProfile": "romance-core",
