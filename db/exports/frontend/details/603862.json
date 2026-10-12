@@ -2,15 +2,26 @@
   "id": 603862,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Ungrateful Child Who Will Kill Me Is Seducing Me",
-  "mangabaka_title": "The Unfilial Heir Who Tries to Kill Me Tempts Me",
+  "display_title": "The Unfilial Son Who Will Kill Me Is Seducing Me",
+  "mangabaka_title": "Nareul Jugil Bulhyojaga Yuhokanda",
   "native_title": "나를 죽일 불효자가 유혹한다",
-  "romanized_title": "The Unfilial Heir Who Tries to Kill Me Tempts Me",
+  "romanized_title": "Nareul Jugil Bulhyojaga Yuhokanda",
   "titles": [
     {
       "language": "ko",
       "title": "나를 죽일 불효자가 유혹한다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nareul Jugil Bulhyojaga Yuhokanda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,40 +29,40 @@
       "language": "ko-Latn",
       "title": "The Unfilial Heir Who Tries to Kill Me Tempts Me",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "The Unfilial Son Who Will Kill Me Is Seducing Me",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "The Ungrateful Child Who Will Kill Me Is Seducing Me",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "Charlotte wakes up one day to find herself transmigrated into a novel she wrote herself. But she had already brainwashed the male protagonist right before!   \nTo avoid her destined death and find a way back to her original world, Charlotte voluntarily exiles herself to the Lucenia Grand Duchy, known as the Black Magician's Grave.\n\n\"Hello, witch. Welcome to the grave.\"\n\nThere, she meets Grand Duke Caius Lucenia, a black magician hater who is known in the novel as the ultimate ungrateful child...?\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70627306/), [Daum](https://webtoon.kakao.com/content/%EB%82%98%EB%A5%BC-%EC%A3%BD%EC%9D%BC-%EB%B6%88%ED%9A%A8%EC%9E%90%EA%B0%80-%EC%9C%A0%ED%98%B9%ED%95%9C%EB%8B%A4/4984?tab=episode)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3ODU0LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzk5MS1XZjgxT2JFOFBkSjkuanBn",
   "total_chapters": "21",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-13",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-14T05:28:22.097Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-08T18:11:31.021Z",
+  "last_updated_at": "2026-10-11T18:16:23.891Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -67,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217991,
+      "rating": 70,
+      "url": "https://anilist.co/manga/217991"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "o967oxe",
@@ -77,18 +92,33 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6116,
+    "popularityPercentile": 4.7761,
+    "fanFavouriteDiscoveryScore": 7.1578,
+    "fanFavouriteDiscoveryPercentile": 4.493
   }
 }

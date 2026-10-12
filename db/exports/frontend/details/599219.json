@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Art Series",
-  "mangabaka_title": "Art Series",
+  "mangabaka_title": "Misul Yeonjak",
   "native_title": "미술 연작",
-  "romanized_title": null,
+  "romanized_title": "Misul Yeonjak",
   "titles": [
     {
       "language": "ko",
       "title": "미술 연작",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,28 +22,37 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Misul Yeonjak",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Two painters who differ in every way : their era, circumstances, and everything else. Each of them faces obstacles while painting, and they must overcome them to complete their works. For that would be their sole duty and their sublime joy.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853280), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14532606)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2FydC1zZXJpZXMtMS53ZWJwP3Q9MTc4NjExOTM2Ng",
+  "description": "The story of two painters from different eras and circumstances begins. \n\nEach of them faces obstacles while painting their own works, and must overcome them to complete their paintings. For that is their sole duty and their greatest joy.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDc3OS0zdlNXYXpuVjVsZ0IuanBn",
   "total_chapters": "10",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-06",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-07T03:38:29.274Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-10T03:40:03.969Z",
+  "last_updated_at": "2026-10-11T09:16:12.487Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Seol"
+    "Seori"
   ],
   "artists": [
     "Geumha"
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214779,
+      "rating": null,
+      "url": "https://anilist.co/manga/214779"
+    },
     "animeplanet": {
       "id": "art-series",
       "rating": null,
@@ -72,14 +87,23 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 17,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6116,
+    "popularityPercentile": 10.9106,
+    "fanFavouriteDiscoveryScore": 10.4097,
+    "fanFavouriteDiscoveryPercentile": 10.1535
   }
 }

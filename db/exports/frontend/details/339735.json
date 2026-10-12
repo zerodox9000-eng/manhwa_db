@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Take It Just Once",
-  "mangabaka_title": "Take It Just Once",
-  "native_title": "君が欲するままに",
-  "romanized_title": null,
+  "mangabaka_title": "Hanbeon Gajyeo Bwayo",
+  "native_title": "한번 가져 봐요",
+  "romanized_title": "Hanbeon Gajyeo Bwayo",
   "titles": [
     {
       "language": "ko",
       "title": "한번 가져 봐요",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hanbeon Gajyeo Bwayo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +47,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Take Me Once",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "君が欲するままに",
       "traits": [],
@@ -43,30 +61,30 @@
       "note": null
     }
   ],
-  "description": "A ray of light appeared for a woman who had been living in hell.\n\n“If you’re lost, reach out.”\n\nThe man who had been her only savior in her dark life, Ahn Joo-Hyuk. It was natural for her to have feelings for him. And she confessed to the man who had left Korea and said he would never return. That she wanted to have him once. And she thought she would never see him again. But…\n\n“You were lost, and I held your hand.”\n\n“So from now on, just follow me.”\n\n─ A warm hand that firmly held onto her precarious life. \nA spring breeze seeped into the woman’s world, which had been winter.\n\n**Original Webtoon:**  \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=12615633)\n\n**Official Translations:**   \n[Japanese](https://manga.line.me/product/periodic?id=Z0004125)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3Rha2UtaXQtanVzdC1vbmNlLTEud2VicD90PTE3NDc5MzUzNzM",
+  "description": "Seven years ago, standard words of confession were replaced with an awkward, child-like declaration: \"I want to have you at least once.\" Nayeon had believed she would never see Juhyeok again after that moment. However, when fate brings them back together, Juhyeok remembers every single detail of her past declaration. Confronting her with the same quiet, suffocating intensity as before, he leaves her with a dangerous invitation: \"Then try and have me.\"",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODEyMS13OFFwS1M1T0Rxb0EuanBn",
   "total_chapters": "50",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2025-05-22",
+    "end_date": "2026-01-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-05T12:55:50.923Z",
+  "last_updated_at": "2026-10-11T02:06:13.477Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "CblossomA",
-    "Yu Min"
+    "Beotkkotgeurigo",
+    "Yumin"
   ],
   "artists": [
-    "Hu Yeong"
+    "Yeong Hu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/339735",
@@ -74,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218121,
+      "rating": null,
+      "url": "https://anilist.co/manga/218121"
+    },
     "animeplanet": {
       "id": "take-it-just-once",
       "rating": null,
@@ -89,6 +111,7 @@
   "tag_ids": [
     43,
     74,
+    108,
     31,
     9,
     93,
@@ -97,15 +120,28 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6116,
+    "popularityPercentile": 0.1486,
+    "fanFavouriteDiscoveryScore": 5.2352,
+    "fanFavouriteDiscoveryPercentile": 0.1486
   },
   "context": {
     "primaryProfile": "modern-korea",

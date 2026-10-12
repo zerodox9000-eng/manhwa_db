@@ -2,7 +2,7 @@
   "id": 606194,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Random Choemyeon Sesang",
+  "display_title": "Random Hypnosis World",
   "mangabaka_title": "Random Choemyeon Sesang",
   "native_title": "랜덤 최면 세상",
   "romanized_title": "Random Choemyeon Sesang",
@@ -24,9 +24,23 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Random Hypnosis World",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Random Hypno World",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "One day, without warning, a mysterious hypnosis begins targeting random groups of people. Targets, locations, and situations are completely unpredictable! The moment reason is paralyzed and repressed instincts awaken, the secret everyday lives of ordinary people crumble. A thrilling and steamy relay of deviance featuring new characters in every episode.\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/random_hypno_world)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzc3Ni1WYXRyTmFTOVJwTWUuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +55,7 @@
   },
   "first_seen_at": "2026-10-05T06:13:32.669Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-10T14:56:14.427Z",
+  "last_updated_at": "2026-10-11T20:01:24.166Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -58,39 +72,53 @@
   "source": {
     "anilist": {
       "id": 217776,
-      "rating": null,
+      "rating": 70,
       "url": "https://anilist.co/manga/217776"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "e6wfxtx",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/e6wfxtx"
+    }
   },
   "tag_ids": [
+    8,
+    46,
     10,
+    15,
+    41,
     109,
     31,
+    18,
     93,
     57,
     428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "8": "unweighted",
     "10": "defining",
-    "31": "unweighted",
+    "15": "unweighted",
+    "18": "unweighted",
+    "31": "defining",
+    "41": "unweighted",
+    "46": "unweighted",
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 13,
+    "popularity": 15,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6159,
-    "popularityPercentile": 7.8796,
-    "fanFavouriteDiscoveryScore": 8.7076,
-    "fanFavouriteDiscoveryPercentile": 7.3912
+    "fanRatioPercentile": 32.6116,
+    "popularityPercentile": 9.2832,
+    "fanFavouriteDiscoveryScore": 9.473,
+    "fanFavouriteDiscoveryPercentile": 8.696
   }
 }

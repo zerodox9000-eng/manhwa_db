@@ -3,10 +3,19 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Tiresome Xs",
-  "mangabaka_title": "Tiresome Xs",
+  "mangabaka_title": "Jigyeoun X-deul",
   "native_title": "지겨운 X들",
-  "romanized_title": null,
+  "romanized_title": "Jigyeoun X-deul",
   "titles": [
+    {
+      "language": "ko-Latn",
+      "title": "Jigyeoun X-deul",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
     {
       "language": "en",
       "title": "Tiresome Xs",
@@ -17,34 +26,36 @@
     {
       "language": "ko",
       "title": "지겨운 X들",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/70667654), [Daum](https://webtoon.kakao.com/content/%EC%A7%80%EA%B2%A8%EC%9A%B4-X%EB%93%A4/4980)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4MzEwLmpwZw",
+  "description": "A stable, mature adult relationship, a real romance, and love. For Seong-Jun, a gay man who seems to attract total losers like a magnet, these are things that seem out of reach, yet are like fantasies he desires more than anyone else. He vows that this relationship will definitely be a success, but before he knows it, he’s been dumped for the millionth time (?) without even knowing why. Then one day, he goes on a date with Yong-Hyeon, his dream guy, and after two months of enjoying a flirty, casual relationship, Seong-Jun hears something shocking from Yong-Hyeon. Will Seong-Jun be able to succeed in the “romance” he’s always dreamed of in the cutthroat gay community?\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODEzOC1OdGs0SGR6UHhXbDIuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-18T05:11:19.026Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-21T22:58:13.851Z",
+  "last_updated_at": "2026-10-11T09:06:12.762Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Nuruk"
+    "Nuruk Kim"
   ],
   "artists": [
-    "Kim Nuruk"
+    "Nuruk Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604317",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218138,
+      "rating": null,
+      "url": "https://anilist.co/manga/218138"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "9oagxok",
@@ -62,18 +77,35 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6116,
+    "popularityPercentile": 0.1486,
+    "fanFavouriteDiscoveryScore": 5.2352,
+    "fanFavouriteDiscoveryPercentile": 0.1486
   }
 }

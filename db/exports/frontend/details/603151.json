@@ -3,45 +3,78 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Resurrected Saintess",
-  "mangabaka_title": "Resurrected Saintess",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Buhwalseongnyeo",
+  "native_title": "부활성녀",
+  "romanized_title": "Buhwalseongnyeo",
   "titles": [
+    {
+      "language": "ko",
+      "title": "부활성녀",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Buhwalseongnyeo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
     {
       "language": "en",
       "title": "Resurrected Saintess",
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Resurrected Saintess",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3Jlc3VycmVjdGVkLXNhaW50ZXNzLTEud2VicD90PTE3ODUxNDExMzU",
+  "description": "The Kingdom of Francella has been ravaged by decades of war. One day, Jeanne d’Arc, who lives in the rural village of Dongremie, loses her life in the chaos when the village is raided by unknown marauders. When Jeanne comes to, she finds herself back on the morning before the incident. On her finger is a strange ring that glows blue. Now possessing the power to turn back time and return to the past, Jeanne sets out for the capital, Chinon, where the Crown Prince resides, in order to be recognized as the saint who will save Francella. Will Jeanne be able to stand up to the group in black cloaks and become the true “Saint”?\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDY2MC1UcGFhazdNZUNBa2suanBn",
   "total_chapters": "19",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-13T05:21:39.137Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-01T14:17:42.915Z",
+  "last_updated_at": "2026-10-11T09:36:42.703Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
-  "authors": [],
-  "artists": [],
+  "authors": [
+    "Sariaeng"
+  ],
+  "artists": [
+    "Mir"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/603151",
     "read_en": null,
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214660,
+      "rating": null,
+      "url": "https://anilist.co/manga/214660"
+    },
     "animeplanet": {
       "id": "resurrected-saintess",
       "rating": null,
@@ -50,22 +83,36 @@
     "mangaupdates": null
   },
   "tag_ids": [
+    59,
     36,
     39,
+    45,
     93,
     57,
     428,
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "36": "defining",
+    "39": "defining",
+    "45": "unweighted",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 29,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6116,
+    "popularityPercentile": 17.5971,
+    "fanFavouriteDiscoveryScore": 14.6787,
+    "fanFavouriteDiscoveryPercentile": 15.9626
   }
 }
