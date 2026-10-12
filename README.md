@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/assets/aeon-round.png" width="160" alt="Aeon">
+  <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-social-preview.jpg" width="640" alt="Aeon with manhwa covers">
 </p>
 
 <h1 align="center">Aeon Catalogue</h1>
@@ -14,6 +14,10 @@
   <a href="https://www.reddit.com/u/ZERO_DOX/"><img src="https://img.shields.io/badge/Creator-ZERO__DOX-20232a?style=flat-square&logo=reddit&logoColor=white" alt="Creator profile"></a>
 </p>
 
+<p align="center"><strong>App link:</strong> <a href="https://zerodox9000-eng.github.io/Manhwa_pwa/">https://zerodox9000-eng.github.io/Manhwa_pwa/</a></p>
+
+<p align="center"><a href="https://github.com/zerodox9000-eng/Manhwa_pwa">Frontend repository</a> · <a href="https://github.com/zerodox9000-eng/Manhwa_pwa/wiki">User guide</a></p>
+
 ## About
 
 This repository collects, normalizes, validates, and publishes the data used by the [Aeon manhwa discovery app](https://github.com/zerodox9000-eng/Manhwa_pwa).
@@ -27,8 +31,24 @@ It provides:
 - Compact frontend releases prepared for Aeon's search, feeds, and title pages.
 
 <p align="center">
-  <img src="./docs/assets/aeon-home.jpg" width="360" alt="Aeon using the catalogue on Home">
+  <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-home-discover-top-1.jpg" width="360" alt="Aeon Home showing the Discover Top 1% feed">
 </p>
+
+## Screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-library.jpg" width="360" alt="Aeon feed library"><br>Feeds</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-search.jpg" width="360" alt="Aeon catalogue search"><br>Search</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-details.jpg" width="300" alt="Aeon title details"><br>Title details</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-settings-2026-09.jpg" width="360" alt="Aeon settings"><br>Settings</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-updates-popularity.jpg" width="320" alt="Aeon popularity milestones"><br>Popularity Milestones</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-updates-status.jpg" width="320" alt="Aeon status changes"><br>Status Changes</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-updates-chapters.jpg" width="320" alt="Aeon chapter updates"><br>Chapter Updates</p>
 
 ## Updates
 
