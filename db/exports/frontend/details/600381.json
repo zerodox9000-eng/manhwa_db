@@ -17,19 +17,19 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Gongjak Yeongaeui Eunmilhan Gido",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Gongjak Yeongaeui Eunmilhan Gido",
       "traits": [
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Gongjak Yeongaeui Eunmilhan Gido",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-08-18T02:07:47.928Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-10T02:34:35.714Z",
+  "last_updated_at": "2026-10-12T01:16:15.149Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -126,7 +126,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/215600"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-duchess-secret-prayer",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-duchess-secret-prayer"
+    },
     "mangaupdates": {
       "id": "s6we2t7",
       "rating": 61,
@@ -143,7 +147,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -156,18 +161,19 @@
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 15,
+    "popularity": 26,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6116,
-    "popularityPercentile": 9.2832,
-    "fanFavouriteDiscoveryScore": 9.473,
-    "fanFavouriteDiscoveryPercentile": 8.696
+    "fanRatioPercentile": 32.5669,
+    "popularityPercentile": 16.1596,
+    "fanFavouriteDiscoveryScore": 13.6998,
+    "fanFavouriteDiscoveryPercentile": 14.7092
   }
 }
