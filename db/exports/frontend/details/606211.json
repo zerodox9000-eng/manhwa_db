@@ -5,48 +5,50 @@
   "display_title": "Anteros",
   "mangabaka_title": "Anteros",
   "native_title": "안테로스",
-  "romanized_title": null,
+  "romanized_title": "Anteros",
   "titles": [
     {
       "language": "ko",
       "title": "안테로스",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Anteros",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000081351)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5NzEyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODMwMy1CWGg3cUt2c2oxTXYuanBn",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-04",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-05T06:13:32.669Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-12T16:07:30.667Z",
+  "last_updated_at": "2026-10-13T23:16:21.407Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kimxion",
-    "Team Moongcheese"
+    "Team Mungchiz"
   ],
   "artists": [
-    "Team Moongcheese",
-    "Yumsoda"
+    "Team Mungchiz"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606211",
@@ -54,7 +56,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218303,
+      "rating": null,
+      "url": "https://anilist.co/manga/218303"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "5znw7zb",
@@ -64,18 +70,35 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6002,
+    "popularityPercentile": 0.1556,
+    "fanFavouriteDiscoveryScore": 5.2359,
+    "fanFavouriteDiscoveryPercentile": 0.1556
   }
 }

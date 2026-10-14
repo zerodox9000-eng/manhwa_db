@@ -19,7 +19,9 @@
     {
       "language": "en",
       "title": "A Handsome Price",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -71,7 +73,7 @@
   },
   "first_seen_at": "2026-09-20T05:23:16.416Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-12T17:42:39.455Z",
+  "last_updated_at": "2026-10-13T17:43:34.696Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -100,8 +102,10 @@
     }
   },
   "tag_ids": [
+    248,
     280,
     46,
+    14,
     180,
     16,
     6,
@@ -115,12 +119,14 @@
   "tag_weights": {
     "6": "defining",
     "9": "defining",
+    "14": "unweighted",
     "16": "defining",
     "31": "defining",
     "46": "defining",
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
+    "248": "unweighted",
     "280": "incidental",
     "428": "unweighted"
   },
@@ -131,9 +137,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5669,
-    "popularityPercentile": 7.0327,
-    "fanFavouriteDiscoveryScore": 8.2521,
-    "fanFavouriteDiscoveryPercentile": 6.6436
+    "fanRatioPercentile": 32.6002,
+    "popularityPercentile": 7.0221,
+    "fanFavouriteDiscoveryScore": 8.2552,
+    "fanFavouriteDiscoveryPercentile": 6.6332
   }
 }

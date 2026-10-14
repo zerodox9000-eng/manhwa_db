@@ -2,15 +2,17 @@
   "id": 583654,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Monthly Noir: Ring",
-  "mangabaka_title": "Monthly Noir: Ring",
+  "display_title": "Wolgan Noir: Banji",
+  "mangabaka_title": "Wolgan Noir: Banji",
   "native_title": "월간 느와르: 반지",
   "romanized_title": "Monthly Noir: Ring",
   "titles": [
     {
       "language": "ko",
       "title": "월간 느와르: 반지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,29 +22,38 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wolgan Noir: Banji",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "By chance, Choi Yoonjae comes into possession of Kang Seongho hyung’s wedding ring. Returning it would have been the end of the matter.\n\nBut on a sudden impulse, Yoonjae hides the ring - and finds himself confronting a darkness under Seongho’s watchful eyes that must never be revealed.\n\nIs it loyalty, obsession… or a desire he hasn’t even admitted to himself? What awaits at the end of this dangerous relationship?\n\n---\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/1483016953), [MrBlue](https://www.mrblue.com/novel/peoplestory0358)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/M_ring5)\n\n**Original Webtoon:**   \n[Bomtoon](https://www.bomtoon.com/detail/Noirring), [Lezhin](https://www.lezhin.com/ko/comic/noir_ring), [MrBlue](https://www.mrblue.com/webtoon/wt_000078138), [Ridibooks](https://ridibooks.com/books/3543003641)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTIzNDU1LmpwZw",
+  "description": "Kang Seong-Ho’s wedding ring, which had fallen into his hands by chance. It would have been over if he had simply returned it. But on a sudden impulse, Choi Yun-Jae hides the ring’s whereabouts and finds himself confronting a darkness he must never let his older brother see. Is it loyalty, or obsession? Or perhaps a desire he cannot even admit to himself? \n\nWhat exactly awaits at the end of this dangerous relationship?\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMDA3OS1NNWFaSVdSbFZJclgucG5n",
   "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-03-27",
+    "end_date": "2026-03-27",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-10T04:56:56.737Z",
+  "last_updated_at": "2026-10-13T22:16:20.862Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gamjadog",
-    "Han Sujae"
+    "Gamjadok",
+    "Su-Jae Han"
   ],
   "artists": [
     "Gunguma"
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 210079,
+      "rating": null,
+      "url": "https://anilist.co/manga/210079"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "buouy06",
@@ -65,20 +80,38 @@
     43,
     46,
     41,
+    180,
     16,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "unweighted",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6002,
+    "popularityPercentile": 2.5316,
+    "fanFavouriteDiscoveryScore": 6.1656,
+    "fanFavouriteDiscoveryPercentile": 2.3478
   },
   "context": {
     "primaryProfile": "modern-korea",
