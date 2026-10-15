@@ -4,13 +4,15 @@
   "type": "manhwa",
   "display_title": "Upon My Sword",
   "mangabaka_title": "Upon My Sword",
-  "native_title": "騎士団長としての務め",
-  "romanized_title": null,
+  "native_title": "기사단장의 의무",
+  "romanized_title": "Gisadanjangui Uimu",
   "titles": [
     {
       "language": "ko",
       "title": "기사단장의 의무",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,6 +20,15 @@
       "language": "de",
       "title": "Bei meinem Schwert",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gisadanjangui Uimu",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -31,7 +42,9 @@
     {
       "language": "en",
       "title": "Upon My Sword",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,33 +56,33 @@
       "note": null
     },
     {
-      "language": "ja",
+      "language": "zh-Hant",
       "title": "騎士團長的職責",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "Slaying the infamous monster Hilkiya was supposed to be a triumph. Instead, it leaves the proud commander of the Order of Floress, Leo, bound by a cruel curse: a body consumed by an insatiable hunger that only the touch of another can soothe. Sheer willpower should be enough to overcome it, but mind and body are no longer aligned. As primal instinct takes over, the ultimate warrior is left hopelessly craving someone to surrender to every single night.\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/dutyofaleader), [Lezhin](https://www.lezhin.com/ko/comic/knight_duty)\n\n**Official Translations:**  \n[English](https://www.lezhinus.com/en/comic/uponmysword), [T.Chinese](https://www.bomtoon.tw/detail/dutyofaleader), [French](https://www.lezhinfr.com/detail/bt_11113471), [German](https://www.lezhinde.com/detail/dbd_00557), [Japanese](https://www.beltoon.jp/detail/knights_duty), [Thai](https://www.lezhinth.com/detail/upon_my_sword)\n\n##### Note: This series is a global release, meaning all official translations come out on the same day as the original Korean.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3Vwb24tbXktc3dvcmQtMS53ZWJwP3Q9MTc4NjQ5MjI0Nw",
+  "description": "Slaying the infamous monster Hilkiya was supposed to be a triumph. Instead, it leaves the proud commander of the Order of Floress, Leo, bound by a cruel curse: a body consumed by an insatiable hunger that only the touch of another can soothe. Sheer willpower should be enough to overcome it, but mind and body are no longer aligned. As primal instinct takes over, the ultimate warrior is left hopelessly craving someone to surrender to every single night.\n\n(Source: Lezhin US)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDYwMi1BWm9IR0pZV2RzbVIucG5n",
   "total_chapters": "28",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-31",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-30T03:55:02.286Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-13T05:32:28.344Z",
+  "last_updated_at": "2026-10-14T09:07:17.450Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Chmun"
+    "Keumung"
   ],
   "artists": [
     "Daljji"
@@ -80,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214602,
+      "rating": 16,
+      "url": "https://anilist.co/manga/214602"
+    },
     "animeplanet": {
       "id": "upon-my-sword",
       "rating": null,
@@ -93,26 +110,53 @@
     }
   },
   "tag_ids": [
+    756,
     36,
+    22,
     46,
     41,
+    380,
+    161,
+    169,
+    414,
     180,
     16,
     93,
     57,
     428,
-    7332
+    7332,
+    121
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "22": "defining",
+    "36": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "121": "incidental",
+    "161": "incidental",
+    "169": "unweighted",
+    "180": "defining",
+    "380": "unweighted",
+    "414": "incidental",
+    "428": "unweighted",
+    "756": "incidental",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 46,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 16
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.3837,
+    "popularityPercentile": 24.4663,
+    "fanFavouriteDiscoveryScore": 19.1708,
+    "fanFavouriteDiscoveryPercentile": 21.3134
   },
   "context": {
     "primaryProfile": "modern-korea",

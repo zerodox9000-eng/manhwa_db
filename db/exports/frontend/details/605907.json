@@ -2,8 +2,8 @@
   "id": 605907,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Good Succubus",
-  "mangabaka_title": "Joso Succubus",
+  "display_title": "Operation Seduction",
+  "mangabaka_title": "Operation Seduction",
   "native_title": "좋소 서큐버스",
   "romanized_title": "Joso Succubus",
   "titles": [
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Good Succubus",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -31,6 +31,15 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Operation Seduction",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9124)",
@@ -38,7 +47,7 @@
   "total_chapters": null,
   "status": "releasing",
   "content_rating": "pornographic",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-09-29",
@@ -48,7 +57,7 @@
   },
   "first_seen_at": "2026-10-02T06:10:43.087Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-13T17:46:02.915Z",
+  "last_updated_at": "2026-10-14T09:07:17.462Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,8 +68,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605907",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://global.toomics.com/en/webtoon/episode/toon/9124",
+    "read_en_all": [
+      "https://global.toomics.com/en/webtoon/episode/toon/9124"
+    ]
   },
   "source": {
     "anilist": {
@@ -107,15 +118,15 @@
     "502": "incidental"
   },
   "stats": {
-    "popularity": 18,
+    "popularity": 20,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6002,
-    "popularityPercentile": 11.357,
-    "fanFavouriteDiscoveryScore": 10.6713,
-    "fanFavouriteDiscoveryPercentile": 10.5297
+    "fanRatioPercentile": 32.3837,
+    "popularityPercentile": 12.7103,
+    "fanFavouriteDiscoveryScore": 11.4196,
+    "fanFavouriteDiscoveryPercentile": 11.7418
   }
 }

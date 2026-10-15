@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Transparent Lie",
-  "mangabaka_title": "Transparent Lie",
+  "mangabaka_title": "Tumyeonghan Geojinmal",
   "native_title": "투명한 거짓말",
-  "romanized_title": "Tumyeonghan Geojitmal",
+  "romanized_title": "Tumyeonghan Geojinmal",
   "titles": [
     {
       "language": "ko",
       "title": "투명한 거짓말",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "2023 포스타입 앤솔로지 | 여름",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -23,35 +32,44 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Tumyeonghan Geojinmal",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Tumyeonghan Geojitmal",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "The Invisible Stone has a long-standing legend. People used to believe that giving them these stoned ornaments and that true love would be achieved without lies.\n\nSource: [Bomtoon](https://www.bomtoon.com/detail/transparent_lie), Translated",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMzNjkwLmpwZw",
+  "description": "There is a long-standing legend surrounding the \"transparent stone.\" People believed that if one confessed their love while presenting an ornament made of this stone, a sincere and honest love would come to fruition. \n\n(Source: Bomtoon, translated)\n\n*Note:\n\\- Originally self-published on the author's Postype. Published on Bomtoon on 2024-07-10.\n\\- Part of the 2023 Postype Summer Anthology (2023 포스타입 앤솔로지 | 여름).*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODMwNy1MZEs0UGJ3YU50OGUucG5n",
   "total_chapters": "2",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-07-26",
+    "end_date": "2023-07-26",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-26T04:17:17.516Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-14T11:35:45.480Z",
+  "last_updated_at": "2026-10-14T02:59:49.513Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hwan-rak"
+    "Gaerak"
   ],
   "artists": [
-    "Hwan-rak"
+    "Gaerak"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598358",
@@ -59,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218307,
+      "rating": null,
+      "url": "https://anilist.co/manga/218307"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "n64faei",
@@ -70,18 +92,31 @@
   "tag_ids": [
     31,
     33,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "33": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.3837,
+    "popularityPercentile": 1.7885,
+    "fanFavouriteDiscoveryScore": 5.823,
+    "fanFavouriteDiscoveryPercentile": 1.6825
   },
   "context": {
     "primaryProfile": "romance-core",

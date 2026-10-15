@@ -4,13 +4,22 @@
   "type": "manhwa",
   "display_title": "Special Yellow Day",
   "mangabaka_title": "Special Yellow Day",
-  "native_title": "[썸인썸머] 스페셜 옐로우데이",
+  "native_title": "스페셜 옐로우데이",
   "romanized_title": "Special Yellow Day",
   "titles": [
     {
       "language": "ko",
       "title": "스페셜 엘로우데이",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "스페셜 옐로우데이",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -31,34 +40,36 @@
     {
       "language": "ko-Latn",
       "title": "Special Yellow Day",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/comic/ep_list/snsqntlrp), [Kakao](https://page.kakao.com/home/detail?seriesId=53696437), [Mrblue](https://www.mrblue.com/webtoon/wt_yellow_wz)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3NwZWNpYWwteWVsbG93LWRheS0xLndlYnA_dD0xNzc2Mzg5MDM5",
+  "description": "There is a day when even the smallest things are tangled up and messed up. But was it to meet a precious relationship? The story of a summer day that can happen to anyone and is more precious. \n\n(Source: Bomtoon, translated) \n\n*Note: Part of Kidari Entertainment's \"Yeoreumdanpyeonseon: Some in Summer (~키다리이엔티 여름단편선~ 썸인썸머, Kidari Entertainment Summer Short Story Collection: Some in Summer)\"*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODMwOC1wbU1wSTBDWnFsUGMuanBn",
   "total_chapters": "4",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2018,
   "published": {
-    "start_date": "2018-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2018-09-19",
+    "end_date": "2018-09-19",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:40:09.236Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T14:11:26.077Z",
+  "last_updated_at": "2026-10-14T01:06:12.842Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Myeong (명)"
+    "Myeong"
   ],
   "artists": [
-    "Myeong (명)"
+    "Myeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/107364",
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218308,
+      "rating": null,
+      "url": "https://anilist.co/manga/218308"
+    },
     "animeplanet": {
       "id": "special-yellow-day",
       "rating": null,
@@ -80,6 +95,7 @@
   },
   "tag_ids": [
     37,
+    31,
     4,
     47,
     9,
@@ -89,15 +105,28 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "4": "unweighted",
+    "9": "defining",
+    "31": "unweighted",
+    "37": "defining",
+    "47": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.3837,
+    "popularityPercentile": 2.5166,
+    "fanFavouriteDiscoveryScore": 6.1184,
+    "fanFavouriteDiscoveryPercentile": 2.3328
   },
   "context": {
     "primaryProfile": "modern-korea",

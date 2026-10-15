@@ -2,7 +2,7 @@
   "id": 607106,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Jigeuki Pyeongbeomhan",
+  "display_title": "Extremely Ordinary",
   "mangabaka_title": "Jigeuki Pyeongbeomhan",
   "native_title": "지극히 평범한",
   "romanized_title": "Jigeuki Pyeongbeomhan",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Extremely Ordinary",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -28,7 +35,7 @@
   ],
   "description": "Four people living through the harsh realities of poverty and disability. Unable to tend to each other's pain, their love turns into sacrifice, and that sacrifice curdles into resentment. This is the story of a family that dreams of an ordinary tomorrow, even as they wound one another.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODI3NS1MVldiYjdwTjlTWlcuanBn",
-  "total_chapters": null,
+  "total_chapters": "7",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -41,7 +48,7 @@
   },
   "first_seen_at": "2026-10-14T00:42:11.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-13T13:31:11.412Z",
+  "last_updated_at": "2026-10-14T16:59:10.936Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,25 +69,35 @@
       "url": "https://anilist.co/manga/218275"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "gl0pco9",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/gl0pco9"
+    }
   },
   "tag_ids": [
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "31": "unweighted"
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6002,
-    "popularityPercentile": 0.1556,
-    "fanFavouriteDiscoveryScore": 5.2359,
-    "fanFavouriteDiscoveryPercentile": 0.1556
+    "fanRatioPercentile": 32.3837,
+    "popularityPercentile": 0.6928,
+    "fanFavouriteDiscoveryScore": 5.3995,
+    "fanFavouriteDiscoveryPercentile": 0.6574
   }
 }
