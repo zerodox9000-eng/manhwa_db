@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Immortal Knight and the Demon King's Woman",
-  "mangabaka_title": "The Immortal Knight and the Demon King's Woman",
+  "mangabaka_title": "Bulmyeorui Gisawa Mawangui Yeoja",
   "native_title": "불멸의 기사와 마왕의 여자",
-  "romanized_title": null,
+  "romanized_title": "Bulmyeorui Gisawa Mawangui Yeoja",
   "titles": [
     {
       "language": "ko",
       "title": "불멸의 기사와 마왕의 여자",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bulmyeorui Gisawa Mawangui Yeoja",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -58,28 +69,28 @@
     }
   ],
   "description": "“Choose the strongest man in the world and bring him to me as an offering.” \n\nUnder the Demon King’s command, I set out across a desolate land. Just as I was about to fall into the clutches of a monster, the one who came to my rescue was none other than a wandering knight. \n\n“What are you? The Demon King’s succubus?” \n\nThe cold tip of his blade should have been pressed against my throat. And yet, this immortal knight—said to walk through hell itself for the chance to pierce the Demon King’s heart— Why was his gaze so blindly fixed on me? A succubus seeking to offer the knight to the Demon King, and an immortal knight who willingly allows himself to become her prey. Thus begins the strange and perilous journey of two beings who were never meant to touch. Neither of them knowing that, for them, love can only end in tragedy.\n\n[Original Webtoon](https://ridibooks.com/books/6367000002)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODc4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQxNC10VVZIandUZHFucFIuanBn",
   "total_chapters": "14",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-10",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-07T06:29:16.946Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-14T04:20:05.006Z",
+  "last_updated_at": "2026-10-15T22:46:06.394Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jang Gu"
+    "Janggu"
   ],
   "artists": [
-    "Jang Gu"
+    "Janggu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606436",
@@ -87,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218414,
+      "rating": null,
+      "url": "https://anilist.co/manga/218414"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "kwqwpyn",
@@ -97,20 +112,37 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     15,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "36": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4294,
+    "popularityPercentile": 0.2048,
+    "fanFavouriteDiscoveryScore": 5.2264,
+    "fanFavouriteDiscoveryPercentile": 0.2048
   }
 }

@@ -2,7 +2,7 @@
   "id": 607107,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Jusiktopia",
+  "display_title": "Stocktopia",
   "mangabaka_title": "Jusiktopia",
   "native_title": "주식토피아",
   "romanized_title": "Jusiktopia",
@@ -24,9 +24,23 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Stocktopia",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "unknown",
+      "title": "ZTOCK-PΙΑ",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856109), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14853318)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODI3Ni1MT1U1NVhmS2FyUHEuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +55,7 @@
   },
   "first_seen_at": "2026-10-14T00:42:11.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-14T13:36:40.314Z",
+  "last_updated_at": "2026-10-15T17:02:40.016Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,10 +76,16 @@
       "url": "https://anilist.co/manga/218276"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "o4dozni",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/o4dozni"
+    }
   },
   "tag_ids": [
+    8,
     6,
+    31,
     93,
     57,
     428
@@ -73,6 +93,8 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "6": "defining",
+    "8": "unweighted",
+    "31": "unweighted",
     "57": "unweighted",
     "93": "unweighted",
     "428": "unweighted"
@@ -84,9 +106,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.3837,
-    "popularityPercentile": 0.1485,
-    "fanFavouriteDiscoveryScore": 5.1985,
-    "fanFavouriteDiscoveryPercentile": 0.1485
+    "fanRatioPercentile": 32.4294,
+    "popularityPercentile": 0.2048,
+    "fanFavouriteDiscoveryScore": 5.2264,
+    "fanFavouriteDiscoveryPercentile": 0.2048
   }
 }

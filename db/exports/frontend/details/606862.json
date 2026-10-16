@@ -3,27 +3,36 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Do Not Water",
-  "mangabaka_title": "Do Not Water",
-  "native_title": "[CC 단편선] 물을 주지 마시오",
-  "romanized_title": null,
+  "mangabaka_title": "Mureul Juji Masio",
+  "native_title": "물을 주지 마시오",
+  "romanized_title": "[CC Danpyeonseon] Mureul Juji Masio",
   "titles": [
     {
       "language": "ko",
       "title": "물을 주지 마시오",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[CC 단편선] 물을 주지 마시오",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "[CC Anthology] Do Not Water",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[CC Danpyeonseon] Mureul Juji Masio",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -50,6 +59,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Mureul Juji Masio",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "No Watering Allowed",
       "traits": [],
@@ -64,29 +82,29 @@
       "note": null
     }
   ],
-  "description": "Yoon Seori, an alien biology graduate student, takes on a suspicious alien plant that no one has been able to properly study as her graduation thesis topic. However, for some reason, this plant reacts exceptionally strongly to specific bodily fluids and physical contact?!\n\nBae Jiwoo, a classmate who has secretly had a crush on Seori, volunteers as her lab assistant. The risqué experiments started for the sake of research become increasingly daring with each repetition, and even Seori's once cold and indifferent heart begins to change.\n\n\"This is strictly an experiment.\"\n\nTentacles keep running wild, and the experiment spirals further and further out of expected bounds... Can Seori safely finish her experiment and get her master's degree?\n\nA suspicious scientific romance starting in the laboratory.\n\nA love tougher and more persistent than tentacles begins to sprout!\n\n[Original Webtoon](https://ridibooks.com/books/1632013950)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMjI4LmpwZw",
+  "description": "*Note: Part of Restoon's CC Danpyeonseon (CC 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQxNS1qY1o4Z0FJRVF1ZmMuanBn",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-11",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-14T04:58:00.297Z",
+  "last_updated_at": "2026-10-15T23:16:37.083Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Prehistoric Wild Boar"
+    "Seonsametdwaeji"
   ],
   "artists": [
-    "Prehistoric Wild Boar"
+    "Seonsametdwaeji"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606862",
@@ -94,7 +112,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218415,
+      "rating": null,
+      "url": "https://anilist.co/manga/218415"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4qcn6ii",
@@ -104,20 +126,37 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4294,
+    "popularityPercentile": 0.2048,
+    "fanFavouriteDiscoveryScore": 5.2264,
+    "fanFavouriteDiscoveryPercentile": 0.2048
   }
 }

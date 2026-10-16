@@ -2,7 +2,7 @@
   "id": 604871,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Error D Echo",
+  "display_title": "Error: The Echo",
   "mangabaka_title": "Error The Echo",
   "native_title": "에러 디 에코",
   "romanized_title": "Error The Echo",
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Error D Echo",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,6 +29,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Error: The Echo",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-09-25T05:24:06.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-14T18:10:12.358Z",
+  "last_updated_at": "2026-10-15T18:10:25.755Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -76,8 +83,10 @@
     }
   },
   "tag_ids": [
+    521,
     38,
     58,
+    456,
     265,
     36,
     1,
@@ -85,6 +94,7 @@
     44,
     32,
     19,
+    26,
     93,
     57,
     428
@@ -94,6 +104,7 @@
     "1": "defining",
     "19": "defining",
     "22": "defining",
+    "26": "unweighted",
     "32": "defining",
     "36": "defining",
     "38": "defining",
@@ -102,18 +113,20 @@
     "58": "incidental",
     "93": "unweighted",
     "265": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "456": "unweighted",
+    "521": "unweighted"
   },
   "stats": {
-    "popularity": 482,
+    "popularity": 498,
     "favourites": 5,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0373,
-    "fanRatioPercentile": 48.7841,
-    "popularityPercentile": 67.2911,
-    "fanFavouriteDiscoveryScore": 47.8543,
-    "fanFavouriteDiscoveryPercentile": 56.1643
+    "fanFavouriteRaw": 1.004,
+    "fanRatioPercentile": 47.8249,
+    "popularityPercentile": 67.846,
+    "fanFavouriteDiscoveryScore": 46.9538,
+    "fanFavouriteDiscoveryPercentile": 55.3884
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Sewer Rats",
-  "mangabaka_title": "Sewer Rats",
+  "mangabaka_title": "Sigungjwideul",
   "native_title": "시궁쥐들",
-  "romanized_title": null,
+  "romanized_title": "Sigungjwideul",
   "titles": [
     {
       "language": "ko",
       "title": "시궁쥐들",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Sigungjwideul",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Gutter Rats",
       "traits": [],
@@ -51,29 +62,29 @@
     }
   ],
   "description": "Sim Hyeong-nam, a former maid at a grand mansion in Pyeongchang-dong, lived as a plaything for the mansion's owner, Chairman Park Shin-eok. Following a certain incident, she abruptly finds herself in an uneasy cohabitation with Choi Eun-hyeong, Shin-eok's right-hand man.\n\nUnfunny jokes and vulgar habits. To Hyeong-nam, Eun-hyeong was nothing more than a thug she despised.\n\nThat day was no different. Amidst the low-class, crude jokes typical of thugs, Hyeong-nam half-lost her mind and slashed her wrist. However, she was caught by a furious Choi Eun-hyeong, subjected to a torrent of curses, and had her life saved.\n\nEun-hyeong tended to her wounds, forced her to drink until she collapsed, and even took her to Namsan to buy her pork cutlets. He cut the meat for her while fuming with anger the entire time.\n\n\"Even bastards worse off than you are living. They cling to life tooth and nail.\"\n\nWhy on earth is this man so angry? As if I had done something unforgivable.\n\n**Original Webtoon:**    \nR19: [Ridibooks](https://ridibooks.com/books/3776003991)  \nR15: [Ridibooks](https://ridibooks.com/books/3776003992)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMjM1LnBuZw",
-  "total_chapters": "14",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQxNi1MdlYyaE05T3lqQ1gucG5n",
+  "total_chapters": "15",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-14T05:31:16.815Z",
+  "last_updated_at": "2026-10-15T23:16:37.273Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Chae Yeon-Sil",
-    "Tanji"
+    "TanG",
+    "Yeon-Sil Chae"
   ],
   "artists": [
-    "Name (II)"
+    "Name"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606891",
@@ -81,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218416,
+      "rating": null,
+      "url": "https://anilist.co/manga/218416"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "f96q8q8",
@@ -91,19 +106,35 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4294,
+    "popularityPercentile": 0.2048,
+    "fanFavouriteDiscoveryScore": 5.2264,
+    "fanFavouriteDiscoveryPercentile": 0.2048
   }
 }

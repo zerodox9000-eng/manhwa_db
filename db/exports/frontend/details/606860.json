@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Please Delete That Photo!",
-  "mangabaka_title": "Please Delete That Photo!",
+  "mangabaka_title": "Geu Sajineun Jebal Jiwojuseyo!",
   "native_title": "그 사진은 제발 지워주세요!",
-  "romanized_title": null,
+  "romanized_title": "Geu Sajineun Jebal Jiwojuseyo!",
   "titles": [
     {
       "language": "ko",
       "title": "그 사진은 제발 지워주세요!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geu Sajineun Jebal Jiwojuseyo!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,21 +34,21 @@
     }
   ],
   "description": "After finally getting another chance at his idol career, Dohyun finds himself in serious trouble when a stranger secretly takes a compromising photo of him. Even worse, the man knows exactly who he is and claims to be his fan.The stranger offers to delete the photo on one condition: Dohyun has to come to his house. With his career at risk, Dohyun reluctantly agrees. But the man he thought was simply an obsessive fan turns out to be hiding far more secrets than Dohyun expected.\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/5749000016), [Bomtoon](https://www.bomtoon.com/detail/redqbl000001)\n\n**Original Webtoon:**   \n[Bomtoon](https://www.bomtoon.com/detail/metatoon173), [Lezhin](https://www.lezhin.com/ko/comic/plz_delete_photo)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMjMxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODM3MS1rRUo5cElPc0xINW0uanBn",
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-11",
+    "end_date": "2026-10-11",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-13T15:09:12.300Z",
+  "last_updated_at": "2026-10-15T05:36:43.116Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -45,7 +56,6 @@
     "Hichae"
   ],
   "artists": [
-    "Metatoon",
     "Nyam7"
   ],
   "links": {
@@ -54,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218371,
+      "rating": null,
+      "url": "https://anilist.co/manga/218371"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ac9whb7",
@@ -64,20 +78,37 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
     6,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4294,
+    "popularityPercentile": 0.2048,
+    "fanFavouriteDiscoveryScore": 5.2264,
+    "fanFavouriteDiscoveryPercentile": 0.2048
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Stranded in the Backwoods",
-  "mangabaka_title": "Stranded in the Backwoods",
+  "mangabaka_title": "Kkangchon Pyoryugi",
   "native_title": "깡촌 표류기",
-  "romanized_title": null,
+  "romanized_title": "Kkangchon Pyoryugi",
   "titles": [
     {
       "language": "ko",
       "title": "깡촌 표류기",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,6 +31,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Kkangchon Pyoryugi",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Stranded in the Backwoods",
       "traits": [],
@@ -36,29 +47,29 @@
       "note": null
     }
   ],
-  "description": "Heejun fled to a secluded countryside with the money from the scammers who swindled him. He was told it was a rural village inhabited only by the elderly, but there is a young person here, and strangely enough, he ends up doing things that make him seem like a pervert in front of this guy?! Do you think I'll just end up being the only pervert? I'm going to expose every single thing about you, Seo Moon-chan, that you're the real pervert.\n\n[Original Webtoon](https://www.bomtoon.com/detail/kkang_chon)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5MzMzLmpwZw",
+  "description": "Hui-Jun fled to a quiet rural area with the money he’d swindled from the con artists who’d scammed him.\n\nI’d heard this was a rural village with nothing but old people, but there’s a young guy here, and for some reason, whenever I’m around him, I keep doing things that make me look like a pervert?! Do you think I’m the only one who’ll end up looking like a pervert? Actually, I’m going to expose every single one of your perverted secrets, Seo Mun-Chan.\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODM2NC1TUTY5Qjg2ZlpaZUUucG5n",
   "total_chapters": "8",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-29T06:10:44.365Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-14T01:47:50.683Z",
+  "last_updated_at": "2026-10-15T03:16:42.566Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Saewoo"
+    "Ssae-U"
   ],
   "artists": [
-    "Saewoo"
+    "Ssae-U"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605300",
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218364,
+      "rating": null,
+      "url": "https://anilist.co/manga/218364"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qvc0co1",
@@ -75,19 +90,38 @@
     }
   },
   "tag_ids": [
+    415,
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "415": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4294,
+    "popularityPercentile": 0.7698,
+    "fanFavouriteDiscoveryScore": 5.4361,
+    "fanFavouriteDiscoveryPercentile": 0.7345
   }
 }
