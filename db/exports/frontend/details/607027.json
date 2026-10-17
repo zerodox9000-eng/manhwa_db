@@ -10,38 +10,42 @@
     {
       "language": "ko",
       "title": "은천",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Euncheon",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "After his violent interrogation methods make headlines in the media, Detective Kwak Ho-jin is demoted to a rural backwater called Euncheon. From his very first day on the job, he receives a report that a dead body has been found in the reservoir. The person who first discovered the corpse is Jeong Ui-yeon, the village's hereditary shaman. As Ui-yeon falls under suspicion as the prime suspect, Ho-jin throws himself into the investigation, eager to crack the case and secure a quick transfer back to Seoul... But the more tangled he becomes with Ui-yeon, the stranger both the case and their relationship turn out to be. *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/euncheon)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMzI1LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQ2OS1QdGdDTVJmRVFSOXkucG5n",
   "total_chapters": "1",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-13T00:42:30.273Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-14T21:57:48.102Z",
+  "last_updated_at": "2026-10-16T23:06:14.226Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Seo Samsan"
+    "Seosamsan"
   ],
   "artists": [
     "E0"
@@ -52,7 +56,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218469,
+      "rating": null,
+      "url": "https://anilist.co/manga/218469"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "lkbk3pz",
@@ -61,19 +69,38 @@
     }
   },
   "tag_ids": [
+    22,
+    180,
     16,
     31,
-    32
+    32,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "22": "unweighted",
+    "31": "defining",
+    "32": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.482,
+    "popularityPercentile": 0.2187,
+    "fanFavouriteDiscoveryScore": 5.24,
+    "fanFavouriteDiscoveryPercentile": 0.2187
   }
 }

@@ -2,7 +2,7 @@
   "id": 607291,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Goedam Market",
+  "display_title": "Ghost Story Market",
   "mangabaka_title": "Goedam Market",
   "native_title": "괴담 마켓",
   "romanized_title": "Goedam Market",
@@ -17,6 +17,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Ghost Story Market",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Goedam Market",
       "traits": [
@@ -26,7 +33,7 @@
       "note": null
     }
   ],
-  "description": null,
+  "description": "Kim Min-Jae, who lost everything due to a rental scam and the betrayal of a trusted lover, discovers a door and key leading to the Ghost Story Market in the wall of the dilapidated villa he moved into. In this market of ghosts, where lifespan, emotions, memories, and even bodies are traded as price, he accumulates power and wealth by repeatedly playing games and making deals to survive. He then prepares the most perfect revenge against those who drove him to ruin.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855894), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14834143)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODM4OS1uZjNUZ2E2MGxITlUuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +48,7 @@
   },
   "first_seen_at": "2026-10-16T00:42:21.280Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-15T13:16:53.152Z",
+  "last_updated_at": "2026-10-16T16:48:08.440Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,35 +66,45 @@
   "source": {
     "anilist": {
       "id": 218389,
-      "rating": null,
+      "rating": 80,
       "url": "https://anilist.co/manga/218389"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "nnvd5ko",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/nnvd5ko"
+    }
   },
   "tag_ids": [
     36,
+    22,
     39,
+    44,
     32,
+    9,
     19
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "19": "unweighted",
-    "32": "unweighted",
-    "36": "unweighted",
-    "39": "unweighted"
+    "9": "defining",
+    "19": "defining",
+    "22": "defining",
+    "32": "defining",
+    "36": "defining",
+    "39": "defining",
+    "44": "defining"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 10,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 80
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.4294,
-    "popularityPercentile": 0.2048,
-    "fanFavouriteDiscoveryScore": 5.2264,
-    "fanFavouriteDiscoveryPercentile": 0.2048
+    "fanRatioPercentile": 32.482,
+    "popularityPercentile": 5.5806,
+    "fanFavouriteDiscoveryScore": 7.5095,
+    "fanFavouriteDiscoveryPercentile": 5.2843
   }
 }

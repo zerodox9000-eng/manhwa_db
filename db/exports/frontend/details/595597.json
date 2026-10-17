@@ -4,20 +4,33 @@
   "type": "manhwa",
   "display_title": "Oleander on the Moon",
   "mangabaka_title": "Oleander on the Moon",
-  "native_title": "Oleander on the Moon : オレアンダー・オン・ザ・ムーン",
-  "romanized_title": null,
+  "native_title": "올리앤더 온 더 문",
+  "romanized_title": "Oleander on the Moon",
   "titles": [
     {
       "language": "ko",
       "title": "올리앤더 온 더 문",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Oleander on the Moon",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Oleander on the Moon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,26 +49,26 @@
       "note": null
     }
   ],
-  "description": "Beneath the sacred hymns of the choir, Enoch couldn't tear his eyes away from Mattia, a boy as breathtaking as he was scandalous. Assigned to tame the school’s most infamous troublemaker through one-on-one sessions, Enoch quickly finds himself drowning in a magnetic bond he never saw coming. But then comes Mattia's sudden disappearance, leaving Enoch haunted by unanswered questions. When Mattia unexpectedly reappears years later on the arm of Enoch’s aunt, Enoch is forced to realize that hise once-sweetest temptation might just have returned as his most dangerous obsession. *(Source: Lezhin US)*\n\n[Official PV](https://www.youtube.com/watch?v=OtJYi8IXw_g)\n\n---\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/Oleander_on_the_Moon)\n\n**Official Translations:**  \n[English](https://www.lezhinus.com/en/comic/oleander), [Spanish](https://www.lezhin.es/detail/oleandar-en-la-luna), [French](https://www.lezhinfr.com/detail/bt_11113489), [German](https://www.lezhinde.com/detail/dbd_00569), [T.Chinese](https://www.bomtoon.tw/detail/Oleander_on_the_Moon), [Thai](https://www.lezhinth.com/detail/Oleander_Moon), [Japanese](https://www.beltoon.jp/detail/oleander_on_the_moon)\n\n##### Note: All official translations are uncensored, except for Japanese. This series is a global release, meaning all official translations come out on the same day as the original Korean.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNTEzLmpwZw",
+  "description": "Beneath the sacred hymns of the choir, Enoch couldn't tear his eyes away from Mattia, a boy as breathtaking as he was scandalous. Assigned to tame the school’s most infamous troublemaker through one-on-one sessions, Enoch quickly finds himself drowning in a magnetic bond he never saw coming. But then comes Mattia's sudden disappearance, leaving Enoch haunted by unanswered questions. When Mattia unexpectedly reappears years later on the arm of Enoch’s aunt, Enoch is forced to realize that hise once-sweetest temptation might just have returned as his most dangerous obsession. \n\n(Source: Lezhin US)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQyNi1TMEl0c3FFbzRNUG8ucG5n",
   "total_chapters": "1",
   "status": "releasing",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-10T05:14:05.366Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-15T17:27:30.715Z",
+  "last_updated_at": "2026-10-16T17:29:36.452Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lee Seon-ui"
+    "Seon-Ui Lee"
   ],
   "artists": [
     "Geumgi"
@@ -66,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218426,
+      "rating": null,
+      "url": "https://anilist.co/manga/218426"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "k5saqsm",
@@ -77,18 +94,36 @@
   "tag_ids": [
     46,
     15,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.482,
+    "popularityPercentile": 1.9049,
+    "fanFavouriteDiscoveryScore": 5.8872,
+    "fanFavouriteDiscoveryPercentile": 1.7991
   }
 }

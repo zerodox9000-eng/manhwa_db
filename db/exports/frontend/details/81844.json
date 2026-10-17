@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-15T02:51:45.362Z",
+  "last_updated_at": "2026-10-16T17:22:18.893Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -86,7 +86,11 @@
       "rating": 78,
       "url": "https://anilist.co/manga/195813"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-superheroes-of-class-f",
+      "rating": 82,
+      "url": "https://www.anime-planet.com/manga/the-superheroes-of-class-f"
+    },
     "mangaupdates": {
       "id": "cn7px4a",
       "rating": 66,
@@ -108,7 +112,10 @@
     31,
     42,
     236,
-    57
+    93,
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [
     1927,
@@ -122,6 +129,7 @@
     "39": "defining",
     "42": "defining",
     "57": "unweighted",
+    "93": "unweighted",
     "107": "defining",
     "175": "defining",
     "236": "defining",
@@ -129,19 +137,21 @@
     "362": "defining",
     "419": "incidental",
     "420": "defining",
-    "1927": "incidental"
+    "428": "unweighted",
+    "1927": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 259,
-    "favourites": 7,
+    "favourites": 8,
     "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 2.7027,
-    "fanRatioPercentile": 86.7514,
-    "popularityPercentile": 55.6215,
-    "fanFavouriteDiscoveryScore": 82.5117,
-    "fanFavouriteDiscoveryPercentile": 88.8559
+    "fanFavouriteRaw": 3.0888,
+    "fanRatioPercentile": 90.3203,
+    "popularityPercentile": 55.6089,
+    "fanFavouriteDiscoveryScore": 85.9018,
+    "fanFavouriteDiscoveryPercentile": 91.435
   },
   "context": {
     "primaryProfile": "school-life",

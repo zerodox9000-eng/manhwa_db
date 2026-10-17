@@ -49,7 +49,9 @@
     {
       "language": "es",
       "title": "La emperatriz abandonada",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -164,7 +166,7 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.582Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-15T23:23:37.065Z",
+  "last_updated_at": "2026-10-17T00:26:27.201Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -299,7 +301,7 @@
     "45": "defining",
     "57": "unweighted",
     "59": "defining",
-    "63": "defining",
+    "63": "core",
     "72": "defining",
     "74": "unweighted",
     "75": "defining",
@@ -350,9 +352,9 @@
     "2122": "defining",
     "2149": "recurrent",
     "2182": "recurrent",
-    "2434": "recurrent",
+    "2434": "defining",
     "2440": "defining",
-    "2473": "incidental",
+    "2473": "recurrent",
     "2499": "defining",
     "2519": "recurrent",
     "2523": "recurrent",
@@ -376,16 +378,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 9103,
+    "popularity": 9104,
     "favourites": 184,
     "meanScore": 61
   },
   "analytics": {
-    "fanFavouriteRaw": 2.0213,
-    "fanRatioPercentile": 75.8616,
-    "popularityPercentile": 97.7542,
-    "fanFavouriteDiscoveryScore": 75.7453,
-    "fanFavouriteDiscoveryPercentile": 82.8319
+    "fanFavouriteRaw": 2.0211,
+    "fanRatioPercentile": 75.8995,
+    "popularityPercentile": 97.7565,
+    "fanFavouriteDiscoveryScore": 75.7833,
+    "fanFavouriteDiscoveryPercentile": 82.8489
   },
   "context": {
     "primaryProfile": "business-career-regression",

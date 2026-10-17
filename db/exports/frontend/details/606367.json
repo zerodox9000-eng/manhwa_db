@@ -3,22 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "[Relationship Addiction Short Story Collection] Fugitive at a Dead End",
-  "mangabaka_title": "Makdareun Golmok-eui Domangja",
-  "native_title": "[관계중독 단편선] 막다른 골목의 도망자",
+  "mangabaka_title": "Makdareun Golmogui Domangja",
+  "native_title": "막다른 골목의 도망자",
   "romanized_title": "[Gwan-gye Joongdok Danpyeonseon] Makdareun Golmok-eui Domangja",
   "titles": [
     {
       "language": "ko",
       "title": "막다른 골목의 도망자",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 막다른 골목의 도망자",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Fugitive at a Dead End",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -30,9 +39,25 @@
     },
     {
       "language": "ko-Latn",
+      "title": "[Gwangyejungdong Danpyeonseon] Makdareun Golmogui Domangja",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Makdareun Golmogui Domangja",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Makdareun Golmok-eui Domangja",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -43,22 +68,22 @@
       "note": null
     }
   ],
-  "description": "Yoon Tae-seo chased dreams of living the high life, only to end up as a mediocre, bottom-tier thug. While trying to act tough, he somehow winds up spending the night with top celebrity Baek Yi-hyun. That one night changed everything. Forced to suppress his secret desires under the public spotlight, Yi-hyun uses their encounter as an excuse to relentlessly mess with Tae-seo, and refuses to let him go.\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/alley_fugitive)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODI5LmpwZw",
+  "description": "*Note: The second story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQ2OC16bGQyOTBIUUZjc2gucG5n",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-15T06:38:42.409Z",
+  "last_updated_at": "2026-10-16T23:06:13.811Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218468,
+      "rating": null,
+      "url": "https://anilist.co/manga/218468"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "89b074o",
@@ -93,21 +122,51 @@
     880,
     46,
     41,
+    180,
     16,
     6,
+    31,
     9,
     1004,
-    1167
+    93,
+    1167,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "16": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "285": "core",
+    "376": "unweighted",
+    "428": "unweighted",
+    "591": "core",
+    "878": "core",
+    "880": "core",
+    "1004": "core",
+    "1167": "unweighted",
+    "1378": "core",
+    "1387": "core",
+    "2030": "core",
+    "7046": "core"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.482,
+    "popularityPercentile": 0.2187,
+    "fanFavouriteDiscoveryScore": 5.24,
+    "fanFavouriteDiscoveryPercentile": 0.2187
   }
 }

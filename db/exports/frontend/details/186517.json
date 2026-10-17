@@ -2,7 +2,7 @@
   "id": 186517,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Wife Game",
+  "display_title": "Hunting the Bound",
   "mangabaka_title": "Yubunyeo Sanyangkkun",
   "native_title": "유부녀 사냥꾼",
   "romanized_title": "Yubunyeo Sanyangkkun",
@@ -26,8 +26,10 @@
     {
       "language": "en",
       "title": "Hunting the Bound",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -41,7 +43,7 @@
       "language": "en",
       "title": "The Wife Game",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -69,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-12T16:56:18.573Z",
+  "last_updated_at": "2026-10-16T18:46:10.007Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,8 +82,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/186517",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://global.toomics.com/en/webtoon/episode/toon/8586",
+    "read_en_all": [
+      "https://global.toomics.com/en/webtoon/episode/toon/8586"
+    ]
   },
   "source": {
     "anilist": {

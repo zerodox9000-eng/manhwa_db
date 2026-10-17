@@ -40,18 +40,18 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Crepuscule",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Crepuscule",
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Crepuscule",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -127,7 +127,7 @@
   },
   "first_seen_at": "2026-09-17T04:10:46.043Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-15T23:15:24.634Z",
+  "last_updated_at": "2026-10-16T23:16:28.747Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -232,7 +232,7 @@
     "172": "core",
     "227": "recurrent",
     "237": "core",
-    "242": "unweighted",
+    "242": "core",
     "250": "recurrent",
     "252": "core",
     "356": "unweighted",
@@ -264,20 +264,20 @@
     "2086": "incidental",
     "2988": "defining",
     "3727": "recurrent",
-    "5885": "core",
+    "5885": "unweighted",
     "7332": "unweighted",
     "7481": "unweighted"
   },
   "stats": {
-    "popularity": 2080,
+    "popularity": 2081,
     "favourites": 13,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 0.625,
-    "fanRatioPercentile": 37.5918,
-    "popularityPercentile": 89.0254,
-    "fanFavouriteDiscoveryScore": 37.4728,
-    "fanFavouriteDiscoveryPercentile": 41.4477
+    "fanFavouriteRaw": 0.6247,
+    "fanRatioPercentile": 37.5758,
+    "popularityPercentile": 89.0433,
+    "fanFavouriteDiscoveryScore": 37.4571,
+    "fanFavouriteDiscoveryPercentile": 41.3856
   }
 }

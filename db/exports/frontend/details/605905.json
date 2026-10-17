@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Evil Deeds",
-  "mangabaka_title": "Evil Deeds",
-  "native_title": "作恶",
+  "mangabaka_title": "Nappeun Jit",
+  "native_title": "나쁜 짓",
   "romanized_title": "Nabbeun Jit",
   "titles": [
     {
       "language": "ko",
       "title": "나쁜 짓",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -53,6 +55,15 @@
       "language": "ko-Latn",
       "title": "Nabbeun Jit",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nappeun Jit",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -72,29 +83,29 @@
     }
   ],
   "description": "*“Why are you doing such bad things to Dad...?”*  \n*“This is wrong. You can’t do this!”*\n\nDeeply scarred by a previous failed marriage, Seo Wooyoung was determined to protect the family he built with Min Taeyong at all costs. But the joy of finally being accepted as a father by Taeyong’s son, Min Sanha, is cut short. Following his husband's sudden death, Sanha begins to reveal not only his long-harbored lust for Wooyoung, but also the shocking truth behind “that night”...\n\n*“Because I love you, Dad.”*  \n*“Can I be Dad’s husband now?”*\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/1007089870), [MrBlue](https://www.mrblue.com/novel/E000116721)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/nabbeun), [MrBlue](https://www.mrblue.com/novel/E000116929)\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/_nabbeun)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODM0LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODM2Ni0wOVptZ2ZlSHBZaFcucG5n",
   "total_chapters": "4",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-02T06:10:43.087Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-15T17:49:43.739Z",
+  "last_updated_at": "2026-10-16T17:52:26.070Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "s-jak",
-    "Yuar"
+    "Aru Yu",
+    "Seujak"
   ],
   "artists": [
-    "Juhong (II)"
+    "Ju-Hong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605905",
@@ -102,7 +113,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218366,
+      "rating": null,
+      "url": "https://anilist.co/manga/218366"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7bbpumd",
@@ -111,23 +126,52 @@
     }
   },
   "tag_ids": [
+    106,
+    755,
     1719,
+    287,
     46,
     15,
     41,
+    103,
+    180,
     16,
     31,
-    18
+    18,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "16": "defining",
+    "18": "defining",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "103": "incidental",
+    "106": "incidental",
+    "180": "incidental",
+    "287": "unweighted",
+    "428": "unweighted",
+    "755": "incidental",
+    "1719": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.482,
+    "popularityPercentile": 1.9049,
+    "fanFavouriteDiscoveryScore": 5.8872,
+    "fanFavouriteDiscoveryPercentile": 1.7991
   }
 }

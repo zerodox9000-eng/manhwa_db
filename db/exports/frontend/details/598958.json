@@ -3,10 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "[BL Anthology] Warning: F*ck Alert",
-  "mangabaka_title": "[BL Anthology] Warning: F*ck Alert",
+  "mangabaka_title": "[BL Danpyeonseon] Sibaljuuibo",
   "native_title": "[BL 단편선] 시발주의보",
-  "romanized_title": null,
+  "romanized_title": "[BL Danpyeonseon] Sibaljuuibo",
   "titles": [
+    {
+      "language": "ko",
+      "title": "동거귀",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "악몽침전",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
     {
       "language": "ko",
       "title": "시발주의보",
@@ -16,8 +30,24 @@
     },
     {
       "language": "ko",
-      "title": "[BL 단편선] 시발주의보",
+      "title": "여운의 온도",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "판타지 여관의 야게임 치트코드",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "[BL 단편선] 시발주의보",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,6 +59,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "[BL Danpyeonseon] Sibaljuuibo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Shibal Warning",
       "traits": [],
@@ -36,35 +75,35 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Mcomics](https://www.mcomics.co.kr/webtoonComic/14763), [Ridibooks](https://ridibooks.com/books/845057180), [MrBlue](https://www.mrblue.com/webtoon/wt_000080367), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14524716), [MrBlue](https://www.mrblue.com/webtoon/wt_000081151), [BookCube](https://www.bookcube.com/toon/detail.asp?webtoon_num=260546), [KakaoPage](https://page.kakao.com/content/70057910)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0NjU4LmpwZw",
+  "description": "1. **Fantasy Yeogwanui Yageim Cheat Code** (판타지 여관의 야게임 치트코드)\n2. **Yeounui Ondo** (여운의 온도)\n3. **Angmongchimjeon** (악몽침전)\n4. **Donggeogwi** (동거귀)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDY1OC1wYmhrODFBdjdOUFIucG5n",
   "total_chapters": "12",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-08-02",
+    "end_date": "2026-08-02",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-03T12:44:30.331Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-12T21:07:20.080Z",
+  "last_updated_at": "2026-10-16T21:13:05.017Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "9ya",
-    "null",
+    "NULL",
     "SALMONITY",
-    "Seru (세루)"
+    "Seru"
   ],
   "artists": [
     "9ya",
-    "null",
+    "NULL",
     "SALMONITY",
-    "Seru (세루)"
+    "Seru"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598958",
@@ -72,7 +111,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 214658,
+      "rating": 55,
+      "url": "https://anilist.co/manga/214658"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6dpmsvt",
@@ -82,19 +125,39 @@
   },
   "tag_ids": [
     36,
+    22,
     46,
     41,
-    16
+    180,
+    16,
+    93,
+    113,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "22": "defining",
+    "36": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "113": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 11,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 55
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.482,
+    "popularityPercentile": 6.4061,
+    "fanFavouriteDiscoveryScore": 7.9139,
+    "fanFavouriteDiscoveryPercentile": 6.0463
   }
 }
