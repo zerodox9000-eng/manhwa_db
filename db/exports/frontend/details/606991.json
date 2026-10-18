@@ -2,22 +2,33 @@
   "id": 606991,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Track 0",
+  "display_title": "Track Zero",
   "mangabaka_title": "Track 0",
   "native_title": "트랙 제로",
-  "romanized_title": null,
+  "romanized_title": "Track 0",
   "titles": [
     {
       "language": "ko",
       "title": "트랙 제로",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Track 0",
+      "language": "ko",
+      "title": "트랙 제로 (Track 0)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Track 0",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,33 +36,33 @@
       "language": "en",
       "title": "Track Zero",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**  \nLezhin",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMzE4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQ3MC05V1NTcXpTTmR4UVIucG5n",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "upcoming",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-13T00:42:30.273Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-13T17:12:57.974Z",
+  "last_updated_at": "2026-10-17T22:57:08.999Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Noli"
+    "Nori"
   ],
   "artists": [
-    "Noli"
+    "Nori"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606991",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218470,
+      "rating": null,
+      "url": "https://anilist.co/manga/218470"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "rb5rbrh",
@@ -68,18 +83,32 @@
     }
   },
   "tag_ids": [
+    180,
     16,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4711,
+    "popularityPercentile": 0.1973,
+    "fanFavouriteDiscoveryScore": 5.2304,
+    "fanFavouriteDiscoveryPercentile": 0.1973
   }
 }

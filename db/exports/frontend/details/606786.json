@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Unrequited Love for N Years",
-  "mangabaka_title": "Unrequited Love for N Years",
+  "mangabaka_title": "N-nyeonjjae Oesarang",
   "native_title": "N년째 외사랑",
-  "romanized_title": null,
+  "romanized_title": "N-nyeonjjae Oesarang",
   "titles": [
     {
       "language": "en",
@@ -17,7 +17,18 @@
     {
       "language": "ko",
       "title": "N년째 외사랑",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "N-nyeonjjae Oesarang",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,29 +47,29 @@
       "note": null
     }
   ],
-  "description": "Jin Ha-ru has been secretly in love with Se-gye — someone she grew up with — for nine years. But Se-gye believes love is an emotion that doesn't last forever, and turns away from Ha-ru's feelings. Even so, Ha-ru can't give up on Se-gye. \n\nThen one day, Se-gye begins to face the feelings he has been trying so hard to ignore — and a change comes to their relationship.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855628), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14804635)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMTg1LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "Jin Ha-Ru has had a crush on Se-Gye, who has been by her side since childhood, for nine years now. However, Se-Gye believes that love is a fleeting emotion and turns a blind eye to Ha-Ru’s feelings. Despite this, Ha-Ru cannot bring herself to give up on Se-Gye. Then one day, Se-Gye begins to confront the feelings he has been trying so hard to ignore, and a change comes over their relationship.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODEwMi1PdDhkbGZoYkRGTWUuanBn",
+  "total_chapters": "5",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-10",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-11T00:42:22.531Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-16T21:41:43.561Z",
+  "last_updated_at": "2026-10-17T03:41:17.050Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "As (II)"
+    "As"
   ],
   "artists": [
-    "As (II)"
+    "As"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606786",
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218102,
+      "rating": 80,
+      "url": "https://anilist.co/manga/218102"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3ljbi03",
@@ -75,19 +90,38 @@
     }
   },
   "tag_ids": [
+    107,
+    108,
     31,
     9,
-    7
+    226,
+    7,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "7": "defining",
+    "9": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "incidental",
+    "108": "unweighted",
+    "226": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 16,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4711,
+    "popularityPercentile": 9.8323,
+    "fanFavouriteDiscoveryScore": 9.7412,
+    "fanFavouriteDiscoveryPercentile": 9.1979
   }
 }

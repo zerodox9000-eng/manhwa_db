@@ -3,13 +3,22 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Trash Lady Who Stole the Duke's First Night",
-  "mangabaka_title": "The Trash Lady Who Stole the Duke's First Night",
+  "mangabaka_title": "Gongjagui Cheonnalbameul Ppaeaseun Sseuregi Yeongae",
   "native_title": "공작의 첫날밤을 빼앗은 쓰레기 영애",
-  "romanized_title": null,
+  "romanized_title": "Gongjagui Cheonnalbameul Ppaeaseun Sseuregi Yeongae",
   "titles": [
     {
       "language": "ko",
       "title": "공작의 첫날밤을 빼앗은 쓰레기 영애",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gongjagui Cheonnalbameul Ppaeaseun Sseuregi Yeongae",
       "traits": [
         "native"
       ],
@@ -45,8 +54,8 @@
       "note": null
     }
   ],
-  "description": "Elio, a country count's daughter, gets caught up in her father's scheming plot to seduce a young duke.\n\nWithout even laying a finger on him, she overnight becomes a \"trashy young lady\" who allegedly assaulted the imperial princess's fiancé.\n\nHowever, instead of setting the record straight, the young duke fans the flames of the scandal. To help Elio escape her abusive father, he proposes a deal: pretend to be his fiancée for three months.\n\nThus begins their fake engagement. The only problem is that she keeps getting shaken, as if it were all real.\n\n**Original Novel:**   \n[Chapters](https://series.naver.com/novel/detail.series?productNo=10073069), [Volumes](https://series.naver.com/novel/detail.series?productNo=11346475) \n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855069), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14736623)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8yLzM1MTA1N2wuanBn",
+  "description": "Elio, the daughter of a country earl, finds herself caught up in her father’s scheme to seduce a young duke. Even though she never laid a finger on him, she suddenly becomes the “worthless young lady” who has ruined the princess’s fiancé’s reputation. But instead of clearing her name, the young duke actually stokes the flames of the scandal and proposes that Elio, who longs to escape her violent father, pretend to be his fiancé for three months. \n\nAnd so begins their fake engagement. The problem is that their feelings keep wavering as if they were real. \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQ3Ny03ekFtcHhMVUgzbHIuanBn",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "safe",
@@ -60,12 +69,12 @@
   },
   "first_seen_at": "2026-09-27T05:46:14.067Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-16T17:43:07.942Z",
+  "last_updated_at": "2026-10-17T03:36:16.472Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "ON",
-    "Shinnabom"
+    "Na-Bom Sin",
+    "ON"
   ],
   "artists": [
     "Yoki"
@@ -76,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218477,
+      "rating": null,
+      "url": "https://anilist.co/manga/218477"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "5h8wpya",
@@ -86,18 +99,39 @@
   },
   "tag_ids": [
     43,
+    108,
+    622,
     36,
-    9
+    6,
+    9,
+    424,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "unweighted",
+    "9": "defining",
+    "36": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "424": "unweighted",
+    "428": "unweighted",
+    "622": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4711,
+    "popularityPercentile": 0.4722,
+    "fanFavouriteDiscoveryScore": 5.3317,
+    "fanFavouriteDiscoveryPercentile": 0.4652
   }
 }

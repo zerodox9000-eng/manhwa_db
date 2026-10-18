@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Damn Necromancer",
-  "mangabaka_title": "Damn Necromancer",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Donjiral Necromancer",
+  "native_title": "돈지랄 네크로맨서",
+  "romanized_title": "Donjiral Necromancer",
   "titles": [
     {
       "language": "ko",
       "title": "돈지랄 네크로맨서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,37 +24,67 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Donjiral Necromancer",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Money-Wasting Necromancer",
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Money-Spending Necromancer",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Necromancer Who Spares No Expense",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Pay-to-Win Necromancer",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "[Original Novel](https://page.kakao.com/content/63729593)     \n[Original Webtoon](https://page.kakao.com/content/70842032)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNTc4LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "A virtual reality game that recreates the modern world of Hunters, Gate Hunter, and Kim Woojin, the undisputed number one player whom no one could surpass.\n\n*\"Player.\" Congratulations.\"\n\n\"You have surpassed our standards and demonstrated your potential.\"\n\nNotice: The final stage, Stage 6, has been unlocked!\n\n\"(Tip) Stage 6 is “Reality.” Remember, you only have one life.\"*\n\nThe moment the message appeared, Kim Woojin found himself inside the body of a chaebol heir in the game. It was a body with not even an ounce of talent for being a Hunter. The greatest wealth. The worst physique. 'In that case…' A summon’s strength has nothing to do with its master’s innate talent. And since he can equip his summons with gear, it’s the perfect way to put his overflowing wealth to use. The class capable of commanding the greatest number of summons is…\n\n*“Necromancer. Obviously.”*\n\nA Necromancer armed with the wealth of a chaebol is coming!\n\n*\"I'll show you what it means to spend money like there’s no tomorrow!\"*\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODQ0NC1hZmZiOERQckhSRFUuanBn",
+  "total_chapters": "20",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-16",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-17T00:42:21.317Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-16T16:36:18.130Z",
+  "last_updated_at": "2026-10-17T16:43:44.980Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Long Live The Keyboard",
-    "Seo Min-Seong"
+    "Keyboard Manse",
+    "Yeon-Bal Baek"
   ],
   "artists": [
-    "Baek Yeonbal"
+    "Min-Seong Seo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/607382",
@@ -60,28 +92,49 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218444,
+      "rating": null,
+      "url": "https://anilist.co/manga/218444"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ubappd0",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/ubappd0"
     }
   },
   "tag_ids": [
     38,
+    58,
     36,
-    39
+    39,
+    93,
+    57,
+    428,
+    528
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "93": "unweighted",
+    "428": "unweighted",
+    "528": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 83,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 68
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4711,
+    "popularityPercentile": 34.4657,
+    "fanFavouriteDiscoveryScore": 24.9864,
+    "fanFavouriteDiscoveryPercentile": 27.3612
   }
 }

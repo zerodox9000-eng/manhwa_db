@@ -3,22 +3,26 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Lucky Bitch",
-  "mangabaka_title": "Lucky Bitch",
+  "mangabaka_title": "Lucky Beach",
   "native_title": "럭키비치",
-  "romanized_title": null,
+  "romanized_title": "Lucky Beach",
   "titles": [
     {
       "language": "ko",
       "title": "럭키비치",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Lucky Beach",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -29,26 +33,25 @@
       "note": null
     }
   ],
-  "description": "\"Did you know? There's always a bigger b*tch above those who crawl.\"\n \nJeong-im, a girl raised in an underprivileged environment in a remote, suffocating seaside village, finally snaps under the relentless absurdity and boredom of her life. She steals her aunt's illicit pocket money—earned from running a decadent business—and flees to Seoul.\n\nDetermined to be reborn, she decides to spit in the face of societal standards, manipulating various men to satisfy her own primal desires as she navigates her new life...\n\n**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=852498), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14424733)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTMyNTU5LmpwZw",
+  "description": "*\"Did you know? There's always a bigger b\\*tch above those who crawl.\"* \n\nJeong-im, a girl raised in an underprivileged environment in a remote, suffocating seaside village, finally snaps under the relentless absurdity and boredom of her life. She steals her aunt's illicit pocket money—earned from running a decadent business—and flees to Seoul. \n\nDetermined to be reborn, she decides to spit in the face of societal standards, manipulating various men to satisfy her own primal desires as she navigates her new life...",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODUxMS1pMlF1cjdVcDI4dTcucG5n",
   "total_chapters": "27",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-07-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-07-17T04:01:47.704Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-12T07:14:55.394Z",
+  "last_updated_at": "2026-10-18T00:06:37.217Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "MAJOR",
     "Yaksu"
   ],
   "artists": [
@@ -60,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218511,
+      "rating": null,
+      "url": "https://anilist.co/manga/218511"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "hcdfzpu",
@@ -71,19 +78,35 @@
   "tag_ids": [
     43,
     8,
+    59,
     15,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "8": "unweighted",
+    "15": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.4711,
+    "popularityPercentile": 0.1973,
+    "fanFavouriteDiscoveryScore": 5.2304,
+    "fanFavouriteDiscoveryPercentile": 0.1973
   },
   "context": {
     "primaryProfile": "korean-corporate-regression",
