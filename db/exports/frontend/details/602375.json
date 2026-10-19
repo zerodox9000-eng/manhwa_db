@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Survival Instinct",
-  "mangabaka_title": "Survival Instinct",
+  "mangabaka_title": "Saengjonyok",
   "native_title": "생존욕",
-  "romanized_title": null,
+  "romanized_title": "Saengjonyok",
   "titles": [
     {
       "language": "ko",
       "title": "생존욕",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -19,6 +21,15 @@
       "title": "Instinct for Survival",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Saengjonyok",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -36,29 +47,30 @@
       "note": null
     }
   ],
-  "description": "Yoon Seoa, an ordinary city woman, finds herself stranded on a deserted island after a plane crash. In the middle of a vast ocean, where even the odds of survival seem slim, only one other survivor is waiting for her: Pyo Taejeong. With strikingly handsome features, an icy gaze, and overwhelming survival skills that remain unshaken even on a deserted island, Taejeong is unlike anyone Seoa has ever met. \n\n“Take everything off except your underwear.” \n\nCaught off guard by Taejeong’s blunt and relentless attitude, Seoa finds herself helplessly swept along by him... Will the two of them ever make it back home alive? \n\n[Original Webtoon](https://www.lezhin.com/ko/comic/survival_instinct)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM3NTkwLmpwZw",
+  "description": "Yoon Seoah is an ordinary city woman whose life is turned upside down when a plane crash leaves her stranded on a deserted island. With her survival hanging by a thread, the only person she can rely on is Pyo Taejeong, the other sole survivor. Blessed with almost unreal handsomeness and a chilling gaze, Taejeong possesses an overwhelming survival instinct that never falters, even in the harshest conditions.\n\n*“Take off everything except your underwear.”*\n\nBefore she knows it, Seoah finds herself being swept along by Taejeong’s bold and uncompromising ways. Stranded together with nowhere to run and no one else to depend on, will the two of them actually make it home alive?\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjYxOS1JWjFSVUZDczE5c1EuanBn",
   "total_chapters": "9",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-10",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-11T05:10:53.099Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-17T17:11:07.323Z",
+  "last_updated_at": "2026-10-18T17:15:44.281Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "LEE Nae Ri"
+    "Nae-Ri Lee",
+    "rcv"
   ],
   "artists": [
-    "Rcv"
+    "rcv"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602375",
@@ -66,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216619,
+      "rating": 85,
+      "url": "https://anilist.co/manga/216619"
+    },
     "animeplanet": {
       "id": "survival-instinct",
       "rating": null,
@@ -82,9 +98,11 @@
     43,
     74,
     615,
+    108,
     46,
     15,
     41,
+    109,
     31,
     9,
     93,
@@ -93,14 +111,32 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "109": "incidental",
+    "428": "unweighted",
+    "615": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 22,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 85
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5162,
+    "popularityPercentile": 13.7222,
+    "fanFavouriteDiscoveryScore": 12.0998,
+    "fanFavouriteDiscoveryPercentile": 12.6655
   }
 }

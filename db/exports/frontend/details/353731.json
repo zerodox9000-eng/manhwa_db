@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Will Disappear, Grand Duke",
-  "mangabaka_title": "I Will Disappear, Grand Duke",
-  "native_title": "我會從此消失，殿下",
+  "mangabaka_title": "Sarajyeodeurilgeyo, Daegong Jeonha",
+  "native_title": "사라져드릴게요, 대공 전하",
   "romanized_title": "Salajyeodeulilgeyo, Daegongjeonha",
   "titles": [
     {
       "language": "ko",
       "title": "사라져드릴게요, 대공 전하",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -53,6 +55,15 @@
       "language": "ko-Latn",
       "title": "Salajyeodeulilgeyo, Daegongjeonha",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sarajyeodeurilgeyo, Daegong Jeonha",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -85,7 +96,7 @@
       "note": null
     }
   ],
-  "description": "The dominator of the North who returned after conquering the war, Fernan Kaisar. \n\nA man perfect in every way, and the only person who remained a good memory in Yulia’s unhappy childhood. When she heard that he would become her husband, Yulia believed in the existence of God for the first time. \n\nHowever... \n\n\"Do as you wish if there’s something you want. Whether it’s remodeling the castle, buying jewels, or throwing parties, I don’t care. Just spare me scenes like this. I don’t want to run into you in the morning.\"\n\n[Original Novel](https://series.naver.com/novel/detail.series?productNo=6492700)\n\n**Original Webtoon:**     \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=839892), [Naver Series](https://series.naver.com/comic/detail.series?productNo=12691275)\n\n**Official Translations:**     \n[T.Chinese](https://www.webtoons.com/zh-hant/western-palace/goodbye-your-highness/list?title_no=8597), [French](https://www.webtoons.com/fr/romance/i-will-disappear-grand-duke/list?title_no=8785), [Indonesian](https://www.webtoons.com/id/romantic-fantasy/i-shall-disappear-grand-duke/list?title_no=9054), [Japanese](https://manga.line.me/product/periodic?id=Z0004072), [Thai](https://www.webtoons.com/th/romantic-fantasy/goodbye-your-highness/list?title_no=8753)",
+  "description": "The dominator of the North who returned after conquering the war, Fernan Kaisar. \n\nA man perfect in every way, and the only person who remained a good memory in Yulia’s unhappy childhood. When she heard that he would become her husband, Yulia believed in the existence of God for the first time. However... \n\n *\"Do as you wish if there’s something you want. Whether it’s remodeling the castle, buying jewels, or throwing parties, I don’t care. Just spare me scenes like this. I don’t want to run into you in the morning.\"*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2ktd2lsbC1kaXNhcHBlYXItZ3JhbmQtZHVrZS0xLndlYnA_dD0xNzU1NjYxNDI3",
   "total_chapters": "79",
   "status": "releasing",
@@ -93,18 +104,19 @@
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-06-12",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-15T16:41:47.696Z",
+  "last_updated_at": "2026-10-18T16:45:54.948Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gravepine"
+    "Cell",
+    "Podomaru"
   ],
   "artists": [
     "Cell"
@@ -115,7 +127,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218513,
+      "rating": null,
+      "url": "https://anilist.co/manga/218513"
+    },
     "animeplanet": {
       "id": "i-will-disappear-grand-duke",
       "rating": 74,
@@ -141,15 +157,30 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "127": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5162,
+    "popularityPercentile": 0.155,
+    "fanFavouriteDiscoveryScore": 5.2222,
+    "fanFavouriteDiscoveryPercentile": 0.155
   },
   "context": {
     "primaryProfile": "euro-fantasy",

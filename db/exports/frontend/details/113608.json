@@ -38,13 +38,6 @@
       "note": null
     },
     {
-      "language": "es",
-      "title": "La tienda de conveniencia peligrosa",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "pl",
       "title": "Niebezpieczny sklep osiedlowy",
       "traits": [],
@@ -62,14 +55,16 @@
     },
     {
       "language": "es",
-      "title": "Una tienda de conveniencia peligrosa",
-      "traits": [],
-      "is_primary": false,
+      "title": "The Dangerous Convenience Store",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
-      "language": "es",
-      "title": "Una tiendita peligrosa",
+      "language": "en",
+      "title": "Wiheomhan Pyeonuijeom",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -81,13 +76,6 @@
         "native"
       ],
       "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "Wiheomhan Pyeonuijeom",
-      "traits": [],
-      "is_primary": false,
       "note": null
     },
     {
@@ -148,7 +136,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.184Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-17T07:45:28.104Z",
+  "last_updated_at": "2026-10-18T22:12:16.766Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -394,16 +382,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 8392,
-    "favourites": 522,
+    "popularity": 8397,
+    "favourites": 521,
     "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 6.2202,
-    "fanRatioPercentile": 98.5763,
-    "popularityPercentile": 97.5613,
-    "fanFavouriteDiscoveryScore": 98.4228,
-    "fanFavouriteDiscoveryPercentile": 99.5207
+    "fanFavouriteRaw": 6.2046,
+    "fanRatioPercentile": 98.563,
+    "popularityPercentile": 97.5627,
+    "fanFavouriteDiscoveryScore": 98.4095,
+    "fanFavouriteDiscoveryPercentile": 99.521
   },
   "context": {
     "primaryProfile": "business-career-regression",

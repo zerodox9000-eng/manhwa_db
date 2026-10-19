@@ -25,9 +25,23 @@
     },
     {
       "language": "en",
+      "title": "First Class Seat To Hell",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "First-Class Seat to the Abyss",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "First Class to the Abyss",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -55,7 +69,7 @@
   },
   "first_seen_at": "2026-10-17T00:42:21.317Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-17T17:36:40.411Z",
+  "last_updated_at": "2026-10-18T17:36:43.858Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -83,12 +97,14 @@
     }
   },
   "tag_ids": [
+    231,
     46,
     10,
     234,
     41,
     109,
     31,
+    403,
     93,
     57,
     428
@@ -102,19 +118,21 @@
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "234": "incidental",
+    "231": "unweighted",
+    "234": "unweighted",
+    "403": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 45,
+    "popularity": 59,
     "favourites": null,
     "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.4711,
-    "popularityPercentile": 24.1119,
-    "fanFavouriteDiscoveryScore": 18.9903,
-    "fanFavouriteDiscoveryPercentile": 21.046
+    "fanRatioPercentile": 32.5162,
+    "popularityPercentile": 28.5926,
+    "fanFavouriteDiscoveryScore": 21.8423,
+    "fanFavouriteDiscoveryPercentile": 24.1476
   }
 }

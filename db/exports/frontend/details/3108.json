@@ -48,15 +48,10 @@
     },
     {
       "language": "es",
-      "title": "La emperatriz de volvio a casar",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "es",
       "title": "La emperatriz divorciada",
-      "traits": [],
+      "traits": [
+        "alternative"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -90,6 +85,15 @@
     },
     {
       "language": "en",
+      "title": "The Remarried Empress",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es",
       "title": "The Remarried Empress",
       "traits": [
         "official"
@@ -176,7 +180,7 @@
   },
   "first_seen_at": "2026-06-10T15:41:08.376Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-17T10:05:42.073Z",
+  "last_updated_at": "2026-10-18T22:17:46.884Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -401,16 +405,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 21071,
+    "popularity": 21087,
     "favourites": 1107,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 5.2537,
-    "fanRatioPercentile": 97.7305,
-    "popularityPercentile": 99.3657,
-    "fanFavouriteDiscoveryScore": 97.5995,
-    "fanFavouriteDiscoveryPercentile": 99.0485
+    "fanFavouriteRaw": 5.2497,
+    "fanRatioPercentile": 97.7388,
+    "popularityPercentile": 99.366,
+    "fanFavouriteDiscoveryScore": 97.6078,
+    "fanFavouriteDiscoveryPercentile": 99.0631
   },
   "context": {
     "primaryProfile": "business-career-regression",
