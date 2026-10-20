@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Time in the Rain",
-  "mangabaka_title": "Rainy Day Time",
-  "native_title": "雨の日の彼女の秘密",
-  "romanized_title": null,
+  "mangabaka_title": "Time in the Rain",
+  "native_title": "비오는 날의 시간",
+  "romanized_title": "Bioneun Narui Sigan",
   "titles": [
     {
       "language": "ko",
       "title": "비오는 날의 시간",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -19,6 +21,15 @@
       "title": "A Rain-Kissed Secret",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bioneun Narui Sigan",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -38,7 +49,9 @@
     {
       "language": "en",
       "title": "Time in the Rain",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -50,7 +63,7 @@
       "note": null
     }
   ],
-  "description": "Yeogyeong has it all: she’s the heiress to a wealthy family and the youngest executive ever appointed at a major Korean corporation.\n\nBut behind her picture-perfect life lies a secret she can never afford to reveal.\n\nWhenever it rains, her age changes.\n\nBorn with a mysterious syndrome passed down through generations, Yeogyeong has spent her entire life bound by strict limitations. Then, during a seemingly endless monsoon season, a mysterious man suddenly steps into her carefully controlled world...\n\nAnd for the first time, the life she’s worked so hard to protect begins to change.\n\n\n\n\n**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/61557256), [Daum](https://webtoon.kakao.com/content/%EB%B9%84%EC%98%A4%EB%8A%94-%EB%82%A0%EC%9D%98-%EC%8B%9C%EA%B0%84/3860)\n\n**Official Translations:**  \n[English](https://www.lezhinus.com/en/comic/timentherain), [Japanese](https://jp.piccoma.com/web/product/159259)",
+  "description": "Yeo-Gyeong has it all: she’s the heiress to a wealthy family and the youngest executive ever appointed at a major Korean corporation. But behind her picture-perfect life lies a secret she can never afford to reveal. Whenever it rains, her age changes. Born with a mysterious syndrome passed down through generations, Yeo-Gyeong has spent her entire life bound by strict limitations. Then, during a seemingly endless monsoon season, a mysterious man suddenly steps into her carefully controlled world... \n\nAnd for the first time, the life she’s worked so hard to protect begins to change. \n\n(Source: Lezhin US)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3JhaW55LWRheS10aW1lLTEud2VicD90PTE2ODc5MDI2MzU",
   "total_chapters": "55",
   "status": "completed",
@@ -58,14 +71,14 @@
   "is_licensed": true,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-06-27",
+    "end_date": "2024-02-21",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-16T07:12:35.720Z",
+  "last_updated_at": "2026-10-19T07:33:21.469Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218563,
+      "rating": null,
+      "url": "https://anilist.co/manga/218563"
+    },
     "animeplanet": {
       "id": "rainy-day-time",
       "rating": null,
@@ -102,15 +119,26 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5331,
+    "popularityPercentile": 0.4224,
+    "fanFavouriteDiscoveryScore": 5.3234,
+    "fanFavouriteDiscoveryPercentile": 0.4154
   },
   "context": {
     "primaryProfile": "business-career",

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Lifelong Wish Is Scorched Rice",
-  "mangabaka_title": "My Lifelong Wish Is Scorched Rice",
+  "mangabaka_title": "Pyeongsaengsowoni Nurungji",
   "native_title": "평생소원이 누룽지",
   "romanized_title": "Pyeongsaeng Sowoni Nureungji",
   "titles": [
     {
       "language": "ko",
       "title": "평생소원이 누룽지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,31 +27,40 @@
       "language": "ko-Latn",
       "title": "Pyeongsaeng Sowoni Nureungji",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Pyeongsaengsowoni Nurungji",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "I made up my mind: confess to my long-time crush, then finally give up on him. Right after I lose weight, that is! Of all things, why did Lee Su-ho’s ideal type have to be “someone slender and pretty”? At last, just 5 kg left until my target weight.\n\n*“Kang Ji-goo... you’re doing **what**?”*\n\n...Except his reaction is completely unhinged.\n\n*“Kang Ji-goo, don’t push it. If things go sideways, I’m personally hunting down whatever gay bastard this is.”  \n“Lee Su-ho, I think you’ve lost your mind a little.”  \n“Just a little? You really think I’ve only lost it **a little**?”*\n\nWill Kang Ji-goo ever manage to confess to Lee Su-ho, a borderline germaphobe who detests gay guys? *(Source: RIDI, translated)*\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/2057304796), [MrBlue](https://www.mrblue.com/novel/E000164751), [Bookcube](https://www.bookcube.com/detail.asp?series_num=926035618), [Naver Series](https://series.naver.com/novel/detail.series?productNo=14338298)  \nChapters: [MrBlue](https://www.mrblue.com/novel/E000164522), [Bookcube](https://www.bookcube.com/novel/detail.asp?serial_num=sg7870), [Naver Series](https://series.naver.com/novel/detail.series?productNo=14337923), [KakaoPage](https://page.kakao.com/content/69872632/), [Joara](https://www.joara.com/book/1878955)\n\n**Original Webtoon:**   \nR19: [RIDI](https://ridibooks.com/books/2057341713)   \nR15: [RIDI](https://ridibooks.com/books/2057341714)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNDU5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODYxNS1la3dkQmpISGJjMHYucG5n",
   "total_chapters": "8",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-13",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-15T00:42:09.320Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-18T17:13:59.212Z",
+  "last_updated_at": "2026-10-19T23:06:20.711Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Hwiswae",
-    "Sipmunchil"
+    "Simmunchil"
   ],
   "artists": [
     "Damyo"
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218615,
+      "rating": null,
+      "url": "https://anilist.co/manga/218615"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "otij73a",
@@ -71,19 +86,36 @@
   "tag_ids": [
     46,
     41,
+    180,
     16,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "41": "unweighted",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5331,
+    "popularityPercentile": 0.169,
+    "fanFavouriteDiscoveryScore": 5.23,
+    "fanFavouriteDiscoveryPercentile": 0.169
   }
 }

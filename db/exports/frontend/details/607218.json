@@ -2,15 +2,17 @@
   "id": 607218,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Game-gwa Sarang-eui Sanggwan Gwan-gye",
-  "mangabaka_title": "Game-gwa Sarang-eui Sanggwan Gwan-gye",
+  "display_title": "The Correlation Between Games and Love",
+  "mangabaka_title": "Game-gwa Sarangui Sanggwangwangye",
   "native_title": "게임과 사랑의 상관관계",
   "romanized_title": "Game-gwa Sarang-eui Sanggwan Gwan-gye",
   "titles": [
     {
       "language": "ko",
       "title": "게임과 사랑의 상관관계",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,26 +20,42 @@
       "language": "ko-Latn",
       "title": "Game-gwa Sarang-eui Sanggwan Gwan-gye",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Game-gwa Sarangui Sanggwangwangye",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Correlation Between Games and Love",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Moon Hee-yeon. You, who cared about nothing but gaming, who was always blunt and expressionless... I loved the sides of yourself that you showed only to me.\n\nI was your only friend, and you were a kid who listened to whatever I said without question. I relished the satisfaction of having you all to myself.\n\n*“If you were a girl, I would’ve dated you in a heartbeat…”*  \nThat single line changed everything between us.\n\nA kiss sparked in a fit of adolescent temper.  \nThen, goodbye.  \nAnd a reunion, two years later.\n\n*“Moon Hee-yeon, you who only ever cared about games… do you still remember me?”* *(Source: RIDI, translated)*\n\n[Character Profiles](https://misc.ridibooks.com/desc.intro/6381000003)\n\n---\n\n**Original Manhwa:**  \nR19: [Volume](https://ridibooks.com/books/6381000001), [Chapters](https://ridibooks.com/books/6381000003)  \nR15: [Volume](https://ridibooks.com/books/6381000002), [Chapters](https://ridibooks.com/books/6381000005)\n\n##### Note: Only the side story is R19. The R15 version does not have the side story.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNDY3LmpwZw",
-  "total_chapters": "10",
+  "description": "*Note: Includes two extra chapters.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODYxMi1XMW5sd2JaN2hKQnUuanBn",
+  "total_chapters": "13",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-15",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-15T00:42:09.320Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-18T17:13:56.349Z",
+  "last_updated_at": "2026-10-19T23:16:20.770Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218612,
+      "rating": null,
+      "url": "https://anilist.co/manga/218612"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "91d5tlw",
@@ -61,18 +83,28 @@
     }
   },
   "tag_ids": [
+    180,
     16,
+    31,
     9
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "180": "incidental"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5331,
+    "popularityPercentile": 0.169,
+    "fanFavouriteDiscoveryScore": 5.23,
+    "fanFavouriteDiscoveryPercentile": 0.169
   }
 }

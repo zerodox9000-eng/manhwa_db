@@ -2,7 +2,7 @@
   "id": 605422,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Thanks for the Wonderful Stay, Boss",
+  "display_title": "Boss, Thanks for the Stay",
   "mangabaka_title": "Sajangnim, Jal Mukgogamnida",
   "native_title": "사장님, 잘 묵고갑니다",
   "romanized_title": "Sajangnim, Jal Mukgogamnida",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Boss, Thanks for the Stay",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -29,7 +36,7 @@
       "language": "en",
       "title": "Thanks for the Wonderful Stay, Boss",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-10-01T06:32:37.624Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-18T13:41:09.204Z",
+  "last_updated_at": "2026-10-19T16:36:12.663Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -65,15 +72,24 @@
   "source": {
     "anilist": {
       "id": 217579,
-      "rating": null,
+      "rating": 56,
       "url": "https://anilist.co/manga/217579"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "4nv6dzk",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/4nv6dzk"
+    }
   },
   "tag_ids": [
+    8,
+    20,
+    46,
     10,
+    41,
     109,
+    31,
     9,
     93,
     57,
@@ -81,23 +97,28 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "9": "unweighted",
+    "8": "unweighted",
+    "9": "defining",
     "10": "defining",
+    "20": "unweighted",
+    "31": "unweighted",
+    "41": "unweighted",
+    "46": "unweighted",
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 24,
+    "popularity": 45,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 56
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5162,
-    "popularityPercentile": 14.9197,
-    "fanFavouriteDiscoveryScore": 12.8671,
-    "fanFavouriteDiscoveryPercentile": 13.687
+    "fanRatioPercentile": 32.5331,
+    "popularityPercentile": 24.0988,
+    "fanFavouriteDiscoveryScore": 19.0179,
+    "fanFavouriteDiscoveryPercentile": 21.0715
   }
 }
