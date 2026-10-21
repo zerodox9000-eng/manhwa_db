@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Counterfire Marriage",
-  "mangabaka_title": "Counterfire Marriage",
+  "mangabaka_title": "Matbulgyeolhon",
   "native_title": "맞불결혼",
-  "romanized_title": null,
+  "romanized_title": "Matbulgyeolhon",
   "titles": [
     {
       "language": "ko",
       "title": "맞불결혼",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Matbulgyeolhon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Revenge Marriage (Hosoya)",
       "traits": [],
@@ -43,30 +54,30 @@
       "note": null
     }
   ],
-  "description": "While I was lying in a coma from a hit-and-run, my boyfriend and best friend betrayed me. The worst part? The driver who killed my father was her father. Driven by rage, I make a deal with the devil: use a powerful man madly in love with me to burn their lives to the ground. But I never expected he would be the one to completely consume me. A fiery tale of a woman obsessed with revenge—and the man obsessed with her.\n\n[Original Novel](https://series.naver.com/novel/detail.series?productNo=13107192) \n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855152), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14757261)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5MzExLmpwZw",
+  "description": "My boyfriend and my best friend fell for each other while I was in a coma after a hit-and-run accident. To make matters worse, the moment I found out that the hit-and-run driver who killed my father was my best friend’s father. I made up my mind. I would use the affection of a man who was head over heels for me to exact my revenge. Little did I know I’d end up being manipulated by him to this extent. A fiery tale of wedding preparations involving a woman obsessed with revenge and a man obsessed with her. \n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODY3Ni1EeDZtRFRVSTBpaXguanBn",
   "total_chapters": "8",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-29T06:10:44.365Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-19T20:06:44.161Z",
+  "last_updated_at": "2026-10-20T22:36:22.941Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "LICO",
-    "Plada"
+    "Dandu",
+    "Peurada"
   ],
   "artists": [
-    "Hosoya"
+    "So-Ya Ho"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605243",
@@ -74,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218676,
+      "rating": null,
+      "url": "https://anilist.co/manga/218676"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qcfur1l",
@@ -84,18 +99,37 @@
   },
   "tag_ids": [
     43,
+    158,
+    108,
     31,
-    9
+    9,
+    227,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "158": "unweighted",
+    "227": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5452,
+    "popularityPercentile": 0.183,
+    "fanFavouriteDiscoveryScore": 5.2371,
+    "fanFavouriteDiscoveryPercentile": 0.183
   }
 }

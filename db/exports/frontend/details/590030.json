@@ -2,8 +2,8 @@
   "id": 590030,
   "state": "active",
   "type": "manhwa",
-  "display_title": "My Wife Waited in the Wheat Fields",
-  "mangabaka_title": "Buineun Milbateseo Gidaryeotda",
+  "display_title": "Waiting in the Wheat Field",
+  "mangabaka_title": "Waiting in the Wheat Field",
   "native_title": "부인은 밀밭에서 기다렸다",
   "romanized_title": "Buineun Milbateseo Gidaryeotda",
   "titles": [
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fr",
+      "title": "Attends-moi dans les blés",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -50,7 +57,7 @@
       "language": "en",
       "title": "My Wife Waited in the Wheat Fields",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -68,6 +75,22 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Waiting in the Wheat Field",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "คำสัญญาในทุ่งข้าวสาลี",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh-Hant",
       "title": "在麥田守候的夫人",
       "traits": [],
@@ -75,12 +98,12 @@
       "note": null
     }
   ],
-  "description": "It was a political marriage. So, on his wedding night, he ran away. He lived for ten years under a new name, but upon hearing of his father’s death, he returned home. There, he found his wife, whom he had seen only once and assumed had already left, still there. She was as beautiful as ever.\n\n(Source: Naver, translated)",
+  "description": "He had fled from his marriage of convenience on their wedding night. For ten years, he lived under a new name, leaving his old life behind. But when news of his father’s death brought him home, he found someone he never expected to see again. His wife. The woman he had met only once, ten years ago. The woman he had assumed would have long since left. Yet she was still there, waiting for him. And she was just as beautiful as he remembered.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iL2EvMi8yL2EvZi8xL2IvMGQ2NS80NzMzLzllMDEvZWIxOTIwNmUzY2Mx",
   "total_chapters": "33",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-05-22",
@@ -90,7 +113,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-19T05:54:44.691Z",
+  "last_updated_at": "2026-10-20T04:25:31.454Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -102,8 +125,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/590030",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/-/-/-/list?title_no=11354",
+    "read_en_all": [
+      "https://www.webtoons.com/-/-/-/list?title_no=11354"
+    ]
   },
   "source": {
     "anilist": {
@@ -202,16 +227,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1285,
+    "popularity": 1303,
     "favourites": 11,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 0.856,
-    "fanRatioPercentile": 43.6638,
-    "popularityPercentile": 83.4272,
-    "fanFavouriteDiscoveryScore": 43.4438,
-    "fanFavouriteDiscoveryPercentile": 48.9017
+    "fanFavouriteRaw": 0.8442,
+    "fanRatioPercentile": 43.3467,
+    "popularityPercentile": 83.5902,
+    "fanFavouriteDiscoveryScore": 43.1312,
+    "fanFavouriteDiscoveryPercentile": 48.4343
   },
   "context": {
     "primaryProfile": "euro-fantasy",

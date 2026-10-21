@@ -52,7 +52,7 @@
     },
     {
       "language": "en",
-      "title": "Harmful yet Decent Price",
+      "title": "Harmful Yet Decent Price",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -73,7 +73,7 @@
   },
   "first_seen_at": "2026-09-20T05:23:16.416Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-19T18:05:01.914Z",
+  "last_updated_at": "2026-10-20T18:06:00.816Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +94,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/217501"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "a-harmful-yet-excellent-price",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/a-harmful-yet-excellent-price"
+    },
     "mangaupdates": {
       "id": "mmdchfq",
       "rating": 66,
@@ -113,7 +117,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -128,18 +133,19 @@
     "180": "incidental",
     "248": "unweighted",
     "280": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 12,
+    "popularity": 13,
     "favourites": null,
-    "meanScore": 67
+    "meanScore": 78
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5331,
-    "popularityPercentile": 7.0403,
-    "fanFavouriteDiscoveryScore": 8.2475,
-    "fanFavouriteDiscoveryPercentile": 6.6671
+    "fanRatioPercentile": 32.5452,
+    "popularityPercentile": 7.9234,
+    "fanFavouriteDiscoveryScore": 8.712,
+    "fanFavouriteDiscoveryPercentile": 7.466
   }
 }

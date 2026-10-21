@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Dawn Labor Agency",
-  "mangabaka_title": "Dawn Labor Agency",
+  "mangabaka_title": "Saebyeogillyeok",
   "native_title": "새벽인력",
-  "romanized_title": null,
+  "romanized_title": "Saebyeogillyeok",
   "titles": [
     {
       "language": "ko",
       "title": "새벽인력",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,31 +29,40 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Saebyeogillyeok",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Cha Yu-hwan, a mid-30s young man barely surviving day by day after giving up on his dreams. Seeking a livelihood, he visits a labor agency where he greets the dawn alongside unfamiliar people. Between the harsh construction sites and his own clumsiness, Yu-hwan slowly learns how to live again.\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=853096), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14507649)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5NDY3LmpwZw",
+  "description": "Cha Yu-Hwan, a man in his mid-thirties, was just getting by day by day, having given up on his dreams. At the temp agency he turned to for work, he greets the dawn alongside strangers. Caught between the harsh realities of the job site and his own inexperience, Yu-Hwan gradually learns how to live again.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODY3Ny1iYXdRMWRkS0ZVSW8uanBn",
   "total_chapters": "5",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-02T06:10:43.087Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-08T17:35:14.587Z",
+  "last_updated_at": "2026-10-20T22:46:23.074Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Joo-Hyun"
+    "Ju-Hyeon Kim"
   ],
   "artists": [
-    "Kim Joo-Hyun"
+    "Ju-Hyeon Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605909",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218677,
+      "rating": null,
+      "url": "https://anilist.co/manga/218677"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1257vcd",
@@ -68,19 +83,34 @@
     }
   },
   "tag_ids": [
+    248,
     8,
     31,
-    7
+    7,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "7": "defining",
+    "8": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "248": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5452,
+    "popularityPercentile": 0.183,
+    "fanFavouriteDiscoveryScore": 5.2371,
+    "fanFavouriteDiscoveryPercentile": 0.183
   }
 }

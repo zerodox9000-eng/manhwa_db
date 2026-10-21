@@ -5,7 +5,7 @@
   "display_title": "The Golden Forest",
   "mangabaka_title": "The Golden Forest",
   "native_title": "황금숲",
-  "romanized_title": "Golden Forest (YUN Sori)",
+  "romanized_title": "Hwanggeumsup",
   "titles": [
     {
       "language": "ko",
@@ -20,7 +20,7 @@
       "language": "de",
       "title": "Der goldene Wald",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -33,20 +33,6 @@
     {
       "language": "en",
       "title": "Golden Forest",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Golden Forest (YUN Sori)",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "Hwanggeumsup",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -77,10 +63,12 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Золотой лес",
-      "traits": [],
-      "is_primary": false,
+      "language": "de",
+      "title": "The Golden Forest",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -134,7 +122,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-19T11:34:29.877Z",
+  "last_updated_at": "2026-10-20T03:40:29.144Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -239,16 +227,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1506,
+    "popularity": 1509,
     "favourites": 46,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 3.0544,
-    "fanRatioPercentile": 90.1366,
-    "popularityPercentile": 85.5322,
-    "fanFavouriteDiscoveryScore": 89.7552,
-    "fanFavouriteDiscoveryPercentile": 94.0228
+    "fanFavouriteRaw": 3.0484,
+    "fanRatioPercentile": 90.057,
+    "popularityPercentile": 85.5534,
+    "fanFavouriteDiscoveryScore": 89.6766,
+    "fanFavouriteDiscoveryPercentile": 94.0046
   },
   "context": {
     "primaryProfile": "romance-core",
