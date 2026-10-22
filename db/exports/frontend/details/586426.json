@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Pale Blue Eyes",
-  "mangabaka_title": "Pale Blue Eyes (Lico)",
-  "native_title": "ペール・ブルー・アイズ",
+  "mangabaka_title": "Pale Blue Eyes",
+  "native_title": "페일 블루 아이즈",
   "romanized_title": "Pale Blue Eyes",
   "titles": [
     {
       "language": "ko",
       "title": "페일 블루 아이즈",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -54,7 +56,7 @@
       "note": null
     }
   ],
-  "description": "Ju-Eun escaped from Korea to London―to find herself entrapped in the blue eyes of a particular singer. In her third year of being in London, she met and fell for Eden―a tall, blond, tattooed, gorgeous, and gifted musician in a punk band―a dangerously alluring man accepting of all and wanted by all. And with that, Ju-Eun's once-plain life in London takes a drastic turn. She is willing to love just Eden, but will Eden come to love only Ju-Eun?\n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=849898), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14051143)\n\n**Official Translations:**     \n[French](https://www.webtoons.com/fr/romance/pale-blue-eyes/list?title_no=10637), [Thai](https://www.webtoons.com/th/romance/pale-blue-eyes/list?title_no=10734), [Japanese](https://manga.line.me/title/Z0004441)",
+  "description": "Ju-Eun escaped from Korea to London―to find herself entrapped in the blue eyes of a particular singer. In her third year of being in London, she met and fell for Eden―a tall, blond, tattooed, gorgeous, and gifted musician in a punk band―a dangerously alluring man accepting of all and wanted by all. And with that, Ju-Eun's once-plain life in London takes a drastic turn. She is willing to love just Eden, but will Eden come to love only Ju-Eun?",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9hLzcvOS9hLzEvOS80L2YvNDFlNS80ZGIwL2IyNWUvMjk0YzdmNDk4ZmE1",
   "total_chapters": "28",
   "status": "releasing",
@@ -69,15 +71,15 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-20T17:15:22.451Z",
+  "last_updated_at": "2026-10-21T17:19:13.173Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lico",
-    "Piececake"
+    "Chae-Ryeon Sim",
+    "Suk-Hye Pi"
   ],
   "artists": [
-    "There Sugar Level"
+    "Dangdo Sam-Sip"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/586426",
@@ -85,7 +87,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218628,
+      "rating": null,
+      "url": "https://anilist.co/manga/218628"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "e17wi1b",
@@ -101,6 +107,7 @@
     2441,
     2438,
     2413,
+    108,
     46,
     15,
     31,
@@ -110,15 +117,34 @@
     428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "2356": "core",
+    "2413": "core",
+    "2438": "core",
+    "2441": "core",
+    "2473": "core",
+    "2533": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5153,
+    "popularityPercentile": 1.2446,
+    "fanFavouriteDiscoveryScore": 5.6324,
+    "fanFavouriteDiscoveryPercentile": 1.1814
   },
   "context": {
     "primaryProfile": "modern-korea",

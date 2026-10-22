@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Shadow Fell for Me",
-  "mangabaka_title": "The Shadow Fell for Me",
-  "native_title": "[발푸르기스 단편선] 그림자가 내게 반했다",
-  "romanized_title": null,
+  "mangabaka_title": "Geurimjaga Naege Banhaetda",
+  "native_title": "그림자가 내게 반했다",
+  "romanized_title": "Geurimjaga Naege Banhaetda",
   "titles": [
     {
       "language": "ko",
       "title": "그림자가 내게 반했다",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[발푸르기스 단편선] 그림자가 내게 반했다",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -33,6 +35,15 @@
       "title": "A Shadow Fell in Love with Me",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geurimjaga Naege Banhaetda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -62,29 +73,36 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Walpurgis Danpyeonseon] Geurimjaga Naege Banhaetda",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "Knock, knock—\n\n\"You're here?\"\n\nMy friend only visits me in the middle of the night, when everyone else is fast asleep. Every time he leaves, there's always a piece of candy waiting for me.\n\n'Why won't he ever show himself to me?'\n\nAs my growing curiosity slowly turns into disappointment, I finally gather the courage to try something daring. I'll pretend to be in danger so I can finally meet him face-to-face!   \n\nBut what appears before my eyes is...   \n\n\"A shadow?\"\n\nAs if discovering that my longtime friend is actually a shadow isn't shocking enough, Duke Verlite, renowned throughout the empire for his handsome looks, suddenly comes looking for me.\n\n\"So it's you. The thief who stole my shadow.\"\n\nAnd he looks absolutely furious.\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/1632014070)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNDg5LmpwZw",
+  "description": "*Note: Part of Restoon's Walpurgis Danpyeonseon (발푸르기스 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODY4Ny14czBoOWNWZEdhSmguanBn",
   "total_chapters": "12",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-14",
+    "end_date": "2026-10-14",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-20T15:31:59.029Z",
+  "last_updated_at": "2026-10-21T15:35:31.744Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Burning Tomato",
-    "Bushmill"
+    "Seu-Mil Bae"
   ],
   "artists": [
     "Derby"
@@ -95,7 +113,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218687,
+      "rating": null,
+      "url": "https://anilist.co/manga/218687"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ibvq4sb",
@@ -105,20 +127,37 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     22,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "22": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5153,
+    "popularityPercentile": 0.1828,
+    "fanFavouriteDiscoveryScore": 5.2322,
+    "fanFavouriteDiscoveryPercentile": 0.1828
   }
 }

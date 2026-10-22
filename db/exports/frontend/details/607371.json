@@ -2,7 +2,7 @@
   "id": 607371,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Boyfriend Swap",
+  "display_title": "Switch Boyfriend",
   "mangabaka_title": "Switch boyfriend",
   "native_title": "스위치 보이프렌드",
   "romanized_title": "Switch boyfriend",
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Boyfriend Swap",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -31,11 +31,27 @@
       "note": null
     },
     {
+      "language": "ko",
+      "title": "스위치 보이프렌드 (Switch boyfriend)",
+      "traits": [
+        "native"
+      ],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Switch boyfriend",
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Switch Boyfriend",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -69,7 +85,7 @@
   },
   "first_seen_at": "2026-10-17T00:42:21.317Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-20T18:16:15.802Z",
+  "last_updated_at": "2026-10-22T03:34:13.055Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -99,6 +115,7 @@
   "tag_ids": [
     43,
     46,
+    14,
     10,
     15,
     41,
@@ -113,6 +130,7 @@
   "tag_weights": {
     "9": "defining",
     "10": "unweighted",
+    "14": "unweighted",
     "15": "defining",
     "31": "defining",
     "41": "defining",
@@ -124,15 +142,15 @@
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 6,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5452,
-    "popularityPercentile": 2.6177,
-    "fanFavouriteDiscoveryScore": 6.191,
-    "fanFavouriteDiscoveryPercentile": 2.4347
+    "fanRatioPercentile": 32.5153,
+    "popularityPercentile": 3.2768,
+    "fanFavouriteDiscoveryScore": 6.4652,
+    "fanFavouriteDiscoveryPercentile": 3.08
   }
 }

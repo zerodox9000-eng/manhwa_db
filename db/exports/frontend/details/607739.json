@@ -2,7 +2,7 @@
   "id": 607739,
   "state": "active",
   "type": "manhwa",
-  "display_title": "I Namjaneun Suriga Pillyohamnida",
+  "display_title": "This Man Needs Repairs",
   "mangabaka_title": "I Namjaneun Suriga Pillyohamnida",
   "native_title": "이 남자는 수리가 필요합니다",
   "romanized_title": "I Namjaneun Suriga Pillyohamnida",
@@ -24,9 +24,30 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "This Man Needs Fixing",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "This Man Needs Repair",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "This Man Needs Repairs",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856241), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14878461)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODY0NS1UaFRlSFRWZWxMekUuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +62,7 @@
   },
   "first_seen_at": "2026-10-21T00:42:08.785Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-20T13:21:08.802Z",
+  "last_updated_at": "2026-10-22T03:32:56.186Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,9 +83,14 @@
       "url": "https://anilist.co/manga/218645"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "cybolq0",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/cybolq0"
+    }
   },
   "tag_ids": [
+    43,
     59,
     108,
     1,
@@ -77,26 +103,27 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "1": "unweighted",
-    "6": "unweighted",
-    "9": "unweighted",
+    "1": "defining",
+    "6": "defining",
+    "9": "defining",
+    "43": "defining",
     "57": "unweighted",
-    "59": "unweighted",
+    "59": "incidental",
     "93": "unweighted",
     "108": "unweighted",
-    "318": "unweighted",
+    "318": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5452,
-    "popularityPercentile": 0.183,
-    "fanFavouriteDiscoveryScore": 5.2371,
-    "fanFavouriteDiscoveryPercentile": 0.183
+    "fanRatioPercentile": 32.5153,
+    "popularityPercentile": 3.2768,
+    "fanFavouriteDiscoveryScore": 6.4652,
+    "fanFavouriteDiscoveryPercentile": 3.08
   }
 }

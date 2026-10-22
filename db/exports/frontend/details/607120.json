@@ -2,11 +2,18 @@
   "id": 607120,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Nerd X Nerd",
+  "display_title": "[Scheming Anthology] Nerd X Nerd",
   "mangabaka_title": "Nerd X Nerd",
-  "native_title": "[계략 단편선] 너드X너드",
-  "romanized_title": null,
+  "native_title": "너드X너드",
+  "romanized_title": "[Gyeryak Danpyeonseon] Nerd X Nerd",
   "titles": [
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeryak Danpyeonseon] Nerd X Nerd",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
     {
       "language": "en",
       "title": "My Secret Nerd Crush",
@@ -29,9 +36,11 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Nerd X Nerd",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -39,7 +48,7 @@
       "language": "en",
       "title": "[Scheming Anthology] Nerd X Nerd",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -52,43 +61,45 @@
     {
       "language": "ko",
       "title": "너드X너드",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계략 단편선] 너드X너드",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "“Wait… you were a pervert?”\n\nYoon Se-young, the top student in the Business Administration Department, has a secret. She secretly watches Han I-gyeol, the most popular guy on campus—and keeps detailed notes about him.\n\nThen one day, her observation journal ends up in the hands of the very person she’s been watching.\n\n“Today, Han I-gyeol played basketball. It’s already that big when he’s not even hard…”\n\n“I-I’m sorry! I’m really sorry!”\n\nAs the words rang out clearly through the hallway, Se-young’s face went deathly pale.\n\n“You can’t just say you’re sorry and expect that to be enough. Not when you’ve been having perverted thoughts like this every day. Am I wrong?”\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5285002960)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMzg2LnBuZw",
+  "description": "*Note: Part of Metatoon's Gyeryak Danpyeonseon (계략 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODY4NS1Bd0ZGS1JONXl0SHQucG5n",
   "total_chapters": "4",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-13",
+    "end_date": "2026-10-13",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-14T00:42:11.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-20T22:04:00.388Z",
+  "last_updated_at": "2026-10-21T22:07:23.415Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Mogege",
-    "Tarak Gamja"
+    "Tarakgamja"
   ],
   "artists": [
-    "Metatoon",
-    "Veo"
+    "Beo",
+    "Metatoon"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/607120",
@@ -96,7 +107,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218685,
+      "rating": null,
+      "url": "https://anilist.co/manga/218685"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "nydv2j0",
@@ -106,18 +121,33 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5153,
+    "popularityPercentile": 0.1828,
+    "fanFavouriteDiscoveryScore": 5.2322,
+    "fanFavouriteDiscoveryPercentile": 0.1828
   }
 }

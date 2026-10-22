@@ -2,7 +2,7 @@
   "id": 607645,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Monster's Live Streaming",
+  "display_title": "Monster Streaming Star",
   "mangabaka_title": "Monster-ui Inbang Star",
   "native_title": "몬스터의 인방스타",
   "romanized_title": "Monster-ui Inbang Star",
@@ -18,14 +18,28 @@
     },
     {
       "language": "en",
-      "title": "Monster's Live Streaming",
+      "title": "Monster Livestream Star",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
-      "title": "Monster’s Streamer Star",
+      "title": "Monster's Live Streaming",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Monster's Streamer Star",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Monster's Streaming Star",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -34,7 +48,7 @@
       "language": "en",
       "title": "Monster Streaming Star",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -48,9 +62,16 @@
     },
     {
       "language": "en",
-      "title": "The Slime’s Livestream Star",
+      "title": "The Slime's Livestream Star",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "สตรีมเมอร์ดาวรุ่งแห่งโลกมอนสเตอร์",
+      "traits": [],
+      "is_primary": true,
       "note": null
     }
   ],
@@ -69,7 +90,7 @@
   },
   "first_seen_at": "2026-10-20T00:42:14.924Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-20T14:32:08.780Z",
+  "last_updated_at": "2026-10-22T03:33:16.955Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -87,39 +108,49 @@
   "source": {
     "anilist": {
       "id": 218581,
-      "rating": 87,
+      "rating": 73,
       "url": "https://anilist.co/manga/218581"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "nytsoms",
-      "rating": null,
+      "rating": 66,
       "url": "https://www.mangaupdates.com/series/nytsoms"
     }
   },
   "tag_ids": [
+    38,
     36,
+    39,
+    37,
+    6,
+    31,
     93,
     57,
     428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "6": "defining",
+    "31": "defining",
     "36": "defining",
+    "37": "defining",
+    "38": "defining",
+    "39": "defining",
     "57": "unweighted",
     "93": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 50,
-    "favourites": null,
-    "meanScore": 87
+    "popularity": 138,
+    "favourites": 1,
+    "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5452,
-    "popularityPercentile": 25.7617,
-    "fanFavouriteDiscoveryScore": 20.1058,
-    "fanFavouriteDiscoveryPercentile": 22.2222
+    "fanFavouriteRaw": 0.7246,
+    "fanRatioPercentile": 39.9902,
+    "popularityPercentile": 43.6819,
+    "fanFavouriteDiscoveryScore": 35.1108,
+    "fanFavouriteDiscoveryPercentile": 38.5275
   }
 }

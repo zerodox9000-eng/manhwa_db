@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I'll Dream of You",
-  "mangabaka_title": "I'll Dream of You",
-  "native_title": "[과다분출 단편선] 네 꿈을 꿀게",
-  "romanized_title": null,
+  "mangabaka_title": "Ne Kkumeul Kkulge",
+  "native_title": "네 꿈을 꿀게",
+  "romanized_title": "[Gwadabunchul Danpyeonseon] Ne Kkumeul Kkulge",
   "titles": [
     {
       "language": "ko",
       "title": "네 꿈을 꿀게",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[과다분출 단편선] 네 꿈을 꿀게",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,36 +31,52 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "[Gwadabunchul Danpyeonseon] Ne Kkumeul Kkulge",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "I'll Dream of You",
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ne Kkumeul Kkulge",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Hanna has lived under the watchful eye of a conservative family, unable to even properly speak to her childhood friend and unrequited crush, Woojin. \n\nOne day, a succubus with the exact same face as Woojin coincidentally appears in Hanna's dreams. Every night, she begins pouring out the feelings and desires she could never voice in reality. As the nights repeat, Hanna sinks deeper into sweet pleasure, and the boundary between dream and reality begins to blur... \n\nIf reality is worse than a dream, is there really any reason to wake up?\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/4895004136)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwMzg1LnBuZw",
+  "description": "*Note: Part of Crack Entertainment's Gwadabunchul Danpyeonseon (과다분출 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODY4NC1VUmw1QXc3dnl6RmwuanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-13",
+    "end_date": "2026-10-13",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-14T00:42:11.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-20T16:47:07.993Z",
+  "last_updated_at": "2026-10-21T16:49:37.482Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Cha (챠)"
+    "Chya"
   ],
   "artists": [
-    "Cha (챠)"
+    "Chya"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/607122",
@@ -66,29 +84,49 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218684,
+      "rating": null,
+      "url": "https://anilist.co/manga/218684"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wifa4db",
-      "rating": null,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/wifa4db"
     }
   },
   "tag_ids": [
     43,
+    108,
     22,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "22": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5153,
+    "popularityPercentile": 0.1828,
+    "fanFavouriteDiscoveryScore": 5.2322,
+    "fanFavouriteDiscoveryPercentile": 0.1828
   }
 }

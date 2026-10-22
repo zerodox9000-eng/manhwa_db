@@ -2,15 +2,26 @@
   "id": 606214,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Mad Young Master's Daily Life Is a Scheme",
-  "mangabaka_title": "The Mad Young Master's Daily Life Is a Scheme",
+  "display_title": "The Crazy Young Master's Daily Life Is a Scheme",
+  "mangabaka_title": "Michin Doryeonnimeun Ilsangi Gyeryak",
   "native_title": "미친 도련님은 일상이 계략",
-  "romanized_title": null,
+  "romanized_title": "Michin Doryeonnimeun Ilsangi Gyeryak",
   "titles": [
     {
       "language": "ko",
       "title": "미친 도련님은 일상이 계략",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Michin Doryeonnimeun Ilsangi Gyeryak",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,7 +36,7 @@
       "language": "en",
       "title": "The Crazy Young Master's Daily Life Is a Scheme",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -46,34 +57,34 @@
       "language": "en",
       "title": "The Mad Young Master's Daily Life Is a Scheme",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Joo-jung was enjoying a peaceful life at work until a troublesome man named Joo-shin suddenly appeared! As an intern, Joo-shin causes trouble at every turn and constantly picks fights with Joo-jung over the smallest things...\n\nAs his mentor, Joo-jung tries her best to be nice to Joo-shin in order to turn him into a competent employee who can actually pull his own weight.\n\nBut then...\n\n“Manager, why did you change your number?”\n\n**Original Novel:**    \n[Chapters](https://series.naver.com/novel/detail.series?productNo=10830655), [Volumes](https://series.naver.com/novel/detail.series?productNo=12547111) \n\n**Original Webtoon:**   \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=855298), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14766848)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5NzE0LmpwZw",
+  "description": "Woojung was enjoying a peaceful life at work until a troublesome man named Jooshin suddenly appeared! As an intern, Jooshin causes trouble at every turn and constantly picks fights with Woojung over the smallest things... As his mentor, Woojung tries her best to be nice in order to turn him into a competent employee who can actually pull his own weight. But then...\n\n*\"Manager, why did you change your number?\"*\n\nWhat does it mean?\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODY5Mi1TUGltaHZIazY4UTkuanBn",
   "total_chapters": "5",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-04",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-05T06:13:32.669Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-19T16:48:47.672Z",
+  "last_updated_at": "2026-10-21T16:51:32.126Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Baejo",
-    "Gangchun"
+    "Chun Kang"
   ],
   "artists": [
-    "Lise"
+    "Rise"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606214",
@@ -81,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218692,
+      "rating": null,
+      "url": "https://anilist.co/manga/218692"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8bp2o6o",
@@ -90,19 +105,34 @@
     }
   },
   "tag_ids": [
+    248,
     43,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "248": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5153,
+    "popularityPercentile": 0.1828,
+    "fanFavouriteDiscoveryScore": 5.2322,
+    "fanFavouriteDiscoveryPercentile": 0.1828
   }
 }
