@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "An Ode to Your Survival",
-  "mangabaka_title": "An Ode to Your Survival",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Saranameun Neoreul Chanmihamyeo",
+  "native_title": "살아남은 너를 찬미하며",
+  "romanized_title": "Saranameun Neoreul Chanmihamyeo",
   "titles": [
     {
       "language": "ko",
-      "title": "살아남은 너를 찬미하며.",
-      "traits": [],
+      "title": "살아남은 너를 찬미하며",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,35 +22,81 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "es",
+      "title": "A ti, que lograste sobrevivir",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "In Honor of Your Survival",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "In Honor of You Who Survived",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Salute for Laurel",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Saranameun Neoreul Chanmihamyeo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwOTQ0LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "For the lowly maid Lucien, life was a daily battle just to survive. But everything changes when she meets a mysterious man in the confessional. Behind the indifferent face of a holy priest lie cold, elegant green eyes—and a dangerous man who wears a different identity every time they meet. \n\nAs Lucien finds herself falling deeper into his web, she experiences a forbidden desire for the very first time: *she actually wants to live.* \n\nAnd as their worlds collide, that spark ignites into an uncontrollable, consuming flame called **LOVE**.\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856184)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODcwMS1IQUNRVVFhdW9PVjMuanBn",
+  "total_chapters": "6",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-21",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-22T04:19:40.533Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-21T17:10:27.301Z",
+  "last_updated_at": "2026-10-22T21:37:05.958Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
-  "authors": [],
-  "artists": [],
+  "authors": [
+    "Hwa-Eum",
+    "Ji-Hye U"
+  ],
+  "artists": [
+    "Hwa-Eum"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/607844",
     "read_en": null,
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218701,
+      "rating": null,
+      "url": "https://anilist.co/manga/218701"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4f2kxa2",
@@ -58,18 +106,35 @@
   },
   "tag_ids": [
     43,
+    59,
+    36,
     18,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "18": "defining",
+    "36": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.614,
+    "popularityPercentile": 0.1757,
+    "fanFavouriteDiscoveryScore": 5.2455,
+    "fanFavouriteDiscoveryPercentile": 0.1757
   }
 }
