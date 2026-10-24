@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Red Dragon Emperor",
-  "mangabaka_title": "Red Dragon Emperor",
-  "native_title": "赤龍武帝",
-  "romanized_title": null,
+  "mangabaka_title": "Jeongnyongmuje",
+  "native_title": "적룡무제",
+  "romanized_title": "Jeongnyongmuje",
   "titles": [
     {
       "language": "ko",
       "title": "적룡무제",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jeongnyongmuje",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -19,6 +30,13 @@
       "title": "Red Dragon Emperor",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Red Dragon Martial Emperor",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -36,30 +54,30 @@
       "note": null
     }
   ],
-  "description": "The Crimson Dragon Martial Emperor, Lee Hwan, was the Absolute Supreme of the Martial World—the undisputed Martial Emperor who unified it with overwhelming power. Having lived out his natural lifespan, he closed his eyes to enter his eternal rest.\n\nBut when he opens them again, he finds himself reincarnated in the body of an abandoned Fourth Prince.\n\nTo make matters worse, he discovers that Daeya Castle—his home and his everything—has been utterly annihilated and completely erased from the pages of history.\n\n\"I just have to put things back the way they were.\"\n\nVowing to reclaim everything he lost, the era of the Martial Emperor who will once again reign supreme over the world begins!\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/70277593/), [Daum](https://webtoon.kakao.com/content/%EC%A0%81%EB%A3%A1%EB%AC%B4%EC%A0%9C/4996)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3JlZC1kcmFnb24tZW1wZXJvci0xLndlYnA_dD0xNzkwMjY3MzU1",
+  "description": "Lee Hwan was once the Absolute Supreme of the Martial World, the undisputed Martial Emperor who unified the martial world through overwhelming power. After reaching the end of his natural lifespan, he awakens in the body of an abandoned Fourth Prince. Even more shocking, his former home, Daeya Castle, has been completely erased from history. Determined to reclaim everything he lost, the Martial Emperor begins his reign once again in a world that has forgotten him.",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODc0Ni1VMDZOT3lLeWZaSnUuanBn",
   "total_chapters": "21",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-25T05:24:06.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-22T18:34:24.315Z",
+  "last_updated_at": "2026-10-23T17:47:02.759Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Big Bird",
-    "Cheonbong"
+    "Cheon-Bong"
   ],
   "artists": [
-    "Baek Ji-woon"
+    "Ji-Wun Baek"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604870",
@@ -67,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218746,
+      "rating": null,
+      "url": "https://anilist.co/manga/218746"
+    },
     "animeplanet": {
       "id": "red-dragon-emperor",
       "rating": null,
@@ -81,9 +103,11 @@
   },
   "tag_ids": [
     38,
+    58,
     74,
     36,
     39,
+    37,
     29,
     93,
     57,
@@ -91,14 +115,29 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "29": "defining",
+    "36": "defining",
+    "37": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "74": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5559,
+    "popularityPercentile": 0.1897,
+    "fanFavouriteDiscoveryScore": 5.2413,
+    "fanFavouriteDiscoveryPercentile": 0.1827
   }
 }

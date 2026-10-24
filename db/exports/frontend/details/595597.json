@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-09-10T05:14:05.366Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-22T17:53:52.988Z",
+  "last_updated_at": "2026-10-23T17:56:18.517Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -87,11 +87,12 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "k5saqsm",
-      "rating": 64,
+      "rating": 65,
       "url": "https://www.mangaupdates.com/series/k5saqsm"
     }
   },
   "tag_ids": [
+    515,
     158,
     1106,
     842,
@@ -100,6 +101,8 @@
     46,
     14,
     15,
+    99,
+    511,
     180,
     16,
     31,
@@ -120,26 +123,29 @@
     "46": "defining",
     "57": "unweighted",
     "93": "unweighted",
+    "99": "incidental",
     "158": "incidental",
     "180": "defining",
-    "280": "unweighted",
+    "280": "core",
     "428": "unweighted",
     "498": "defining",
-    "842": "unweighted",
-    "984": "unweighted",
-    "1106": "unweighted",
-    "4520": "unweighted"
+    "511": "incidental",
+    "515": "incidental",
+    "842": "core",
+    "984": "core",
+    "1106": "core",
+    "4520": "core"
   },
   "stats": {
-    "popularity": 30,
+    "popularity": 38,
     "favourites": null,
     "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.614,
-    "popularityPercentile": 18.0642,
-    "fanFavouriteDiscoveryScore": 14.9946,
-    "fanFavouriteDiscoveryPercentile": 16.3351
+    "fanRatioPercentile": 32.5559,
+    "popularityPercentile": 21.6664,
+    "fanFavouriteDiscoveryScore": 17.4064,
+    "fanFavouriteDiscoveryPercentile": 19.053
   }
 }
