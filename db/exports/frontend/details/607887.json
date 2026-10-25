@@ -2,14 +2,23 @@
   "id": 607887,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Pilyo Choongboon Jogeon",
-  "mangabaka_title": "Pilyo Choongboon Jogeon",
+  "display_title": "Necessary and Sufficient Conditions",
+  "mangabaka_title": "Piryochungbunjogeon",
   "native_title": "필요충분조건",
   "romanized_title": "Pilyo Choongboon Jogeon",
   "titles": [
     {
       "language": "ko",
       "title": "필요충분조건",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Necessary and Sufficient Conditions",
       "traits": [],
       "is_primary": true,
       "note": null
@@ -18,26 +27,35 @@
       "language": "ko-Latn",
       "title": "Pilyo Choongboon Jogeon",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Piryochungbunjogeon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "One day, struggling under the crushing weight of private loan debts and his father's hospital bills, Yeonwoo receives a single favor from an older brother figure whom he considers his savior. It is to take charge of the pheromone treatment for the dominant alpha, Kwon Tae-joo.\n\n*“...Could we add one more clause to the contract?”\n“Go ahead and tell me.”  \n“...Party A shall not make any sexual contact whatsoever with Party B.”*\n\nThus begins a one-month cohabitation. Contrary to the worry that it would be uncomfortable, Kwon Tae-joo turns out to be only sweet and mature.\n\nEven though he is supposed to return to his place once the contract period ends, Yeonwoo finds himself growing accustomed to the dreamlike comfort gifted by him. And as the pheromone treatments repeat, a strange current begins to stir... *(Source: RIDI, translated)*\n\n**Original Novel:**  \nVolumes: [RIDI](https://ridibooks.com/books/3302009319), [Bomtoon](https://www.bomtoon.com/detail/tenbook611), [MrBlue](https://www.mrblue.com/novel/E000113611), [Bookcube](https://www.bookcube.com/detail.asp?series_num=923029959)  \nChapters: [Bomtoon](https://www.bomtoon.com/detail/tenbook92), [MrBlue](https://www.mrblue.com/novel/E000117311), [KakaoPage](https://page.kakao.com/content/70091863/), [Joara](https://www.joara.com/book/1715777)\n\n**Original Webtoon:**  \n[R19](https://ridibooks.com/books/3093004261), [R15](https://ridibooks.com/books/3093004262)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwOTk2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODc3My1EVkQ5OXBzbU1ENEoucG5n",
   "total_chapters": "1",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-23T00:42:29.705Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-23T16:28:24.889Z",
+  "last_updated_at": "2026-10-24T16:31:00.535Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218773,
+      "rating": null,
+      "url": "https://anilist.co/manga/218773"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ycsiuwl",
@@ -61,19 +83,36 @@
     }
   },
   "tag_ids": [
+    118,
+    180,
     16,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "118": "incidental",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.507,
+    "popularityPercentile": 0.4213,
+    "fanFavouriteDiscoveryScore": 5.3187,
+    "fanFavouriteDiscoveryPercentile": 0.4073
   }
 }

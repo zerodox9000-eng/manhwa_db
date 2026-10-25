@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.821Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-23T22:19:29.905Z",
+  "last_updated_at": "2026-10-24T16:53:08.023Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -149,6 +149,7 @@
     3034,
     647,
     3525,
+    311,
     341,
     108,
     36,
@@ -157,6 +158,7 @@
     3197,
     31,
     1816,
+    1084,
     9,
     127,
     128,
@@ -166,7 +168,10 @@
     7332,
     121
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    311,
+    1084
+  ],
   "tag_weights": {
     "6": "defining",
     "9": "defining",
@@ -182,11 +187,13 @@
     "121": "core",
     "127": "defining",
     "128": "core",
+    "311": "defining",
     "341": "incidental",
     "417": "defining",
     "428": "unweighted",
     "549": "core",
     "647": "core",
+    "1084": "incidental",
     "1816": "unweighted",
     "1818": "core",
     "3034": "core",
@@ -195,16 +202,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1872,
+    "popularity": 1880,
     "favourites": 35,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 1.8697,
-    "fanRatioPercentile": 72.8608,
-    "popularityPercentile": 87.9163,
-    "fanFavouriteDiscoveryScore": 72.6078,
-    "fanFavouriteDiscoveryPercentile": 80.1321
+    "fanFavouriteRaw": 1.8617,
+    "fanRatioPercentile": 72.7809,
+    "popularityPercentile": 87.9635,
+    "fanFavouriteDiscoveryScore": 72.5292,
+    "fanFavouriteDiscoveryPercentile": 80.0702
   },
   "context": {
     "primaryProfile": "euro-fantasy",
