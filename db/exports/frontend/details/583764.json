@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "For the Goddesses: For Psyche",
-  "mangabaka_title": "For the Goddesses: For Psyche",
+  "mangabaka_title": "Yeosindeureul Wihayeo: Psyche-reul Wihayeo",
   "native_title": "여신들을 위하여 : 프시케를 위하여",
-  "romanized_title": null,
+  "romanized_title": "Yeosindeureul Wihayeo: Psyche-reul Wihayeo",
   "titles": [
     {
       "language": "ko",
@@ -17,7 +17,9 @@
     {
       "language": "ko",
       "title": "여신들을 위하여 : 프시케를 위하여",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -34,24 +36,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeosindeureul Wihayeo: Psyche-reul Wihayeo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "“Even if one were to gaze upon the Goddess of Beauty herself, she could not match this.”\n\nPrincess Psyche, the third royal daughter of a prosperous kingdom, is famed far and wide for her matchless, mortal beauty. Yet that very perfection sparks the dangerous envy of Aphrodite, the Goddess of Love herself. Outraged by a mortal usurping her praise, Aphrodite commands her son, Eros, to strike the princess with a golden arrow and force her into a cursed, humiliating fate.\n\nHowever, divine intervention goes awry: the legendary golden arrow inadvertently pierces both Psyche and Eros.\nBound by an all-consuming passion and forced to hide from Aphrodite’s vengeful gaze, the two lovers can only meet under the cover of absolute darkness. But as their midnight encounters grow more intense, so too does a creeping seed of doubt. Psyche aches to cast light upon the mysterious face of her lover, while Eros desperately craves an untainted, absolute devotion free of suspicion. \n\nIn a web of divine jealousy, hidden identities, and unspoken fears, can a love forged in total darkness ever endure the light?\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/2236000377?_rdt_sid=BookDetailHomeAuthorProfile&_rdt_idx=2), [Kakao](https://page.kakao.com/content/67975634)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNzMzLnBuZw",
-  "total_chapters": "3",
+  "description": "Princess Psyche's matchless beauty provokes Aphrodite's envy, leading to a botched curse involving Eros where both are pierced by the golden arrow. Meeting secretly in the dark, Psyche desires to see her lover's face while Eros seeks unquestioned devotion.",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODgwNi1CR2QyR3hRdDhSamUuanBn",
+  "total_chapters": "4",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-14T05:28:22.096Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-24T07:13:22.776Z",
+  "last_updated_at": "2026-10-25T07:17:51.651Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218806,
+      "rating": null,
+      "url": "https://anilist.co/manga/218806"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mfuwait",
@@ -82,14 +97,23 @@
     45
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "22": "defining",
+    "36": "defining",
+    "43": "defining",
+    "45": "defining"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
+    "popularity": 7,
+    "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 14.2857,
+    "fanRatioPercentile": 99.7824,
+    "popularityPercentile": 3.2704,
+    "fanFavouriteDiscoveryScore": 19.8316,
+    "fanFavouriteDiscoveryPercentile": 21.7068
   }
 }

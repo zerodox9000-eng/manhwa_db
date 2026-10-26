@@ -2,7 +2,7 @@
   "id": 608049,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Genius Knight of a Fallen Race",
+  "display_title": "The Genius Knight of the Fallen People",
   "mangabaka_title": "Mollangminjogui Cheonjae Gisa",
   "native_title": "몰락민족의 천재 기사",
   "romanized_title": "Mollangminjogui Cheonjae Gisa",
@@ -29,13 +29,20 @@
       "language": "en",
       "title": "The Genius Knight of a Fallen Race",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Genius Knight of the Fallen People",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Born as an Altoin, a race of people known as the “Demon Race,” Shan was treated like a slave by the villagers. However, when he massacres a group of mysterious mercenaries who attack his village, he awakens to his true talent. Through a man named Roden, whom he happens to meet, Shan learns that even Altoins can become knights. Finally freed from oppression, the boy experiences freedom for the first time, and sets his sights on a future beyond mere freedom... a future as a knight.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODc4NC0zSU00MDUwYU81eXouanBn",
-  "total_chapters": null,
+  "total_chapters": "6",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-10-25T00:42:04.330Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-24T14:56:56.311Z",
+  "last_updated_at": "2026-10-25T07:06:25.660Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -70,27 +77,41 @@
       "url": "https://anilist.co/manga/218784"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "zmrai3s",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/zmrai3s"
+    }
   },
   "tag_ids": [
+    38,
+    58,
     36,
-    39
+    39,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "36": "unweighted",
-    "39": "unweighted"
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "incidental",
+    "93": "unweighted",
+    "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 98,
+    "favourites": 1,
+    "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.507,
-    "popularityPercentile": 0.1404,
-    "fanFavouriteDiscoveryScore": 5.2154,
-    "fanFavouriteDiscoveryPercentile": 0.1334
+    "fanFavouriteRaw": 1.0204,
+    "fanRatioPercentile": 48.9157,
+    "popularityPercentile": 37.4833,
+    "fanFavouriteDiscoveryScore": 39.6738,
+    "fanFavouriteDiscoveryPercentile": 44.2417
   }
 }

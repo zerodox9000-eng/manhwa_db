@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Belle's Lily",
-  "mangabaka_title": "Bell-eui Baek-hab",
+  "mangabaka_title": "Bell-ui Baekap",
   "native_title": "벨의 백합",
   "romanized_title": "Bell-eui Baek-hab",
   "titles": [
     {
       "language": "ko",
       "title": "벨의 백합",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,11 +27,20 @@
       "language": "ko-Latn",
       "title": "Bell-eui Baek-hab",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bell-ui Baekap",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Blessed with a breathtaking face but cursed by low birth, Bell lives as a courtesan at the beck and call of high society.\n\nHaving witnessed the grotesque desires of countless noblemen, Bell grows intrigued by Count Enoch Benedict, a man who appears utterly flawless.\n\nWhen Bell realizes Enoch is secretly harboring depravities filthier than anyone else, he resolves to trample the count beneath his feet. Exactly as Enoch desires.\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/BELLES_LILY)",
+  "description": "Bell, though beautiful, lives as a “courtesan” for the nobility due to his lowly status. Having witnessed the vile desires of countless nobles, Bell becomes curious about the impeccably perfect Earl Enoch Benedict. Realizing that Enoch, of all people, is hiding the most vulgar desires, Bell resolves to thoroughly trample him underfoot—just as he wishes.\n\n(Source: Bomtoon, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8wLzgvMi8wLzcvYy80LzcvMjViMS80ZGU4Lzg5ZWQvZDAzOGI3NmZhM2I2",
   "total_chapters": "6",
   "status": "releasing",
@@ -44,14 +55,14 @@
   },
   "first_seen_at": "2026-10-13T00:42:30.273Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-24T15:33:27.018Z",
+  "last_updated_at": "2026-10-25T22:19:07.055Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "K-FireTinkerBL"
+    "Gugsan Fire Tinker BL"
   ],
   "artists": [
-    "Oiipuding"
+    "Oi Pudding"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606993",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218856,
+      "rating": null,
+      "url": "https://anilist.co/manga/218856"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "j68o2c6",
@@ -68,19 +83,38 @@
     }
   },
   "tag_ids": [
+    36,
     41,
+    180,
     16,
-    127
+    9,
+    127,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "36": "unweighted",
+    "41": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "127": "core",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5216,
+    "popularityPercentile": 0.1755,
+    "fanFavouriteDiscoveryScore": 5.2305,
+    "fanFavouriteDiscoveryPercentile": 0.1684
   }
 }

@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Will Become the Ex-Wife of the Beast",
-  "mangabaka_title": "I Will Become the Ex-Wife of the Beast",
+  "mangabaka_title": "Yasuui Jeonbuini Doegetseumnida",
   "native_title": "야수의 전부인이 되겠습니다",
-  "romanized_title": null,
+  "romanized_title": "Yasuui Jeonbuini Doegetseumnida",
   "titles": [
     {
       "language": "ko",
@@ -27,6 +27,15 @@
       "language": "en",
       "title": "I Will Become the Ex-Wife of the Beast",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yasuui Jeonbuini Doegetseumnida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -53,7 +62,7 @@
   },
   "first_seen_at": "2026-10-24T00:42:12.049Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-24T16:15:08.661Z",
+  "last_updated_at": "2026-10-25T21:46:19.234Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -61,7 +70,7 @@
     "Chokam"
   ],
   "artists": [
-    "Myeyong"
+    "Myeong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/607969",
@@ -69,11 +78,15 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218851,
+      "rating": null,
+      "url": "https://anilist.co/manga/218851"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ynl3o55",
-      "rating": 62,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/ynl3o55"
     }
   },
@@ -86,14 +99,24 @@
     9
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "43": "defining",
+    "74": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5216,
+    "popularityPercentile": 0.1755,
+    "fanFavouriteDiscoveryScore": 5.2305,
+    "fanFavouriteDiscoveryPercentile": 0.1684
   }
 }

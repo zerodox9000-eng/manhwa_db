@@ -2,7 +2,7 @@
   "id": 608050,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Du Eolgurui Dal",
+  "display_title": "The Moon With Two Faces",
   "mangabaka_title": "Du Eolgurui Dal",
   "native_title": "두 얼굴의 달",
   "romanized_title": "Du Eolgurui Dal",
@@ -24,11 +24,32 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Moon With Two Faces",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Two-Faced Moon",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Two-Faced Moon",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856400), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14539634)\n\nBoreum has always lived walking on eggshells around people, traumatized by a stalking incident during her middle school years. Unlike herself, Boreum deeply envies her childhood friend Eve, who lives a glamorous and confident life, and she longs to change and become just like Eve. Then one day, her second personality, Choseung, awakens and completely turns Boreum's ordinary daily life upside down... Will Boreum truly be able to change like Eve?",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODc4Ni1uNXZBTWpaVHl0QTYuanBn",
-  "total_chapters": null,
+  "total_chapters": "3",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -41,7 +62,7 @@
   },
   "first_seen_at": "2026-10-25T00:42:04.330Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-24T15:06:26.985Z",
+  "last_updated_at": "2026-10-25T22:46:27.023Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,31 +83,45 @@
       "url": "https://anilist.co/manga/218786"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "0yjkvlm",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/0yjkvlm"
+    }
   },
   "tag_ids": [
+    43,
+    15,
     31,
+    32,
+    18,
+    9,
     93,
     57,
     428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "31": "unweighted",
+    "9": "defining",
+    "15": "defining",
+    "18": "defining",
+    "31": "defining",
+    "32": "defining",
+    "43": "defining",
     "57": "unweighted",
     "93": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.507,
-    "popularityPercentile": 0.1404,
-    "fanFavouriteDiscoveryScore": 5.2154,
-    "fanFavouriteDiscoveryPercentile": 0.1334
+    "fanRatioPercentile": 32.5216,
+    "popularityPercentile": 0.4211,
+    "fanFavouriteDiscoveryScore": 5.321,
+    "fanFavouriteDiscoveryPercentile": 0.407
   }
 }

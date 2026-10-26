@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I'll Quit as the Empress",
-  "mangabaka_title": "I'll Quit as the Empress",
+  "mangabaka_title": "Hwanghureul Geumandugetseumnida",
   "native_title": "황후를 그만두겠습니다",
-  "romanized_title": null,
+  "romanized_title": "Hwanghureul Geumandugetseumnida",
   "titles": [
     {
       "language": "ko",
       "title": "황후를 그만두겠습니다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hwanghureul Geumandugetseumnida",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -57,7 +68,7 @@
       "note": null
     }
   ],
-  "description": "“I, Evelyn Felice, hereby resign from my position as Empress. Gladly.” \n\nBound by the rigid rules of the imperial court and married to Fabian, a perfect yet cold husband, Evelyn closed her eyes in solitude after turning thirty. But when she opened them again… she had returned to the age of twenty. With the most precious person in the world in her arms, Evelyn chooses freedom. Yet before her, a relationship she thought she had completely severed begins to burn passionately once more.\n\n[Original Webtoon](https://page.kakao.com/content/70754141)",
+  "description": "\"I, Evelyn Palace, will step down as Empress. By choice.\" The imperial court bound by rules, and her perfect yet cold husband, Fabian. Evelyn closed her eyes in solitude the year she passed thirty, and when she opened them again… she found herself back at twenty. Before Evelyn, who chose freedom while holding the most precious person in the world within her, the bond she thought had been cleanly severed began to burn fiercely once again.",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5Nzg5LmpwZw",
   "total_chapters": "20",
   "status": "releasing",
@@ -65,14 +76,14 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-05",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-23T18:00:15.852Z",
+  "last_updated_at": "2026-10-25T22:18:44.022Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -88,7 +99,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218804,
+      "rating": null,
+      "url": "https://anilist.co/manga/218804"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ebzrh2n",
@@ -103,14 +118,22 @@
     9
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "43": "defining"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5216,
+    "popularityPercentile": 1.944,
+    "fanFavouriteDiscoveryScore": 5.9102,
+    "fanFavouriteDiscoveryPercentile": 1.8177
   }
 }
