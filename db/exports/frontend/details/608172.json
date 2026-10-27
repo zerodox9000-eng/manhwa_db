@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Squirrels Love Warm Romance!",
-  "mangabaka_title": "Squirrels Love Warm Romance!",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Cheongseolmoneun Ttakkeunhan Romance-reul Joahae!",
+  "native_title": "청설모는 따끈한 로맨스를 좋아해!",
+  "romanized_title": "Cheongseolmoneun Ttakkeunhan Romance-reul Joahae!",
   "titles": [
     {
       "language": "ko",
       "title": "청설모는 따끈한 로맨스를 좋아해!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Cheongseolmoneun Ttakkeunhan Romance-reul Joahae!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,26 +33,26 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856458)",
+  "description": "In a world where romance clichés are inevitable, can I protect my man from my friend who is obsessed with men?\n\nA webtoon produced by the Gyeongbuk Cultural Foundation’s Content Promotion Institute and Cheongdo County, and presented by author Yoni Yoni.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMjQxLnBuZw",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-25",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-26T00:42:16.320Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-25T15:01:43.498Z",
+  "last_updated_at": "2026-10-26T15:20:42.021Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Yoni Yoni"
+    "Haegang"
   ],
   "artists": [
     "Yoni Yoni"
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218864,
+      "rating": null,
+      "url": "https://anilist.co/manga/218864"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1l3hkmy",
@@ -62,17 +77,33 @@
   },
   "tag_ids": [
     43,
-    9
+    108,
+    6,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "unweighted",
+    "9": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.588,
+    "popularityPercentile": 0.4696,
+    "fanFavouriteDiscoveryScore": 5.3499,
+    "fanFavouriteDiscoveryPercentile": 0.4556
   }
 }

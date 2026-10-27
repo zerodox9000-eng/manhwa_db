@@ -5,50 +5,71 @@
   "display_title": "Iron Mech Bride",
   "mangabaka_title": "Iron Mech Bride",
   "native_title": "강철메카신부",
-  "romanized_title": null,
+  "romanized_title": "Gangcheol Mecha Sinbu",
   "titles": [
     {
       "language": "ko",
       "title": "강철메카신부",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gangcheol Mecha Sinbu",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Iron Mech Bride",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Jason and Yasmine are no ordinary couple. They have to figure out how to be a human-mech couple!\nSource: Toomics",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2lyb24tbWVjaC1icmlkZS0xLndlYnA_dD0xNjk3OTQ4NDE0",
+  "description": "Jason and Yasmine are no ordinary couple. They have to figure out how to be a human-mech couple!\n\n(Source: Toomics)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxODk1NC1QM0d3TEsxck5GRkoucG5n",
   "total_chapters": "115",
   "status": "completed",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2019,
   "published": {
-    "start_date": "2019-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2019-07-22",
+    "end_date": "2021-11-29",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:41:08.380Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-01T07:45:42.925Z",
+  "last_updated_at": "2026-10-26T22:46:32.275Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
-  "authors": [],
-  "artists": [],
+  "authors": [
+    "Utsang"
+  ],
+  "artists": [
+    "Utsang"
+  ],
   "links": {
     "mangabaka": "https://mangabaka.org/497270",
     "read_en": null,
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218954,
+      "rating": null,
+      "url": "https://anilist.co/manga/218954"
+    },
     "animeplanet": {
       "id": "iron-mech-bride",
       "rating": null,
@@ -57,6 +78,7 @@
     "mangaupdates": null
   },
   "tag_ids": [
+    1,
     6,
     93,
     57,
@@ -64,15 +86,25 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "1": "unweighted",
+    "6": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.588,
+    "popularityPercentile": 0.2383,
+    "fanFavouriteDiscoveryScore": 5.2643,
+    "fanFavouriteDiscoveryPercentile": 0.2313
   },
   "context": {
     "primaryProfile": "romance-core",

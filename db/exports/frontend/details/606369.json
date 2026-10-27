@@ -3,27 +3,36 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "[Relationship Addiction Short Story Collection] Erotomania",
-  "mangabaka_title": "Saekjeong Mangsang",
-  "native_title": "[관계중독 단편선] 색정망상",
+  "mangabaka_title": "Saekjeongmangsang",
+  "native_title": "색정망상",
   "romanized_title": "[Gwan-gye Joongdok Danpyeonseon] Saekjeong Mangsang",
   "titles": [
     {
       "language": "ko",
       "title": "색정망상",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 색정망상",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "[Gwan-gye Joongdok Danpyeonseon] Saekjeong Mangsang",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gwangyejungdong Danpyeonseon] Saekjeongmangsang",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -37,28 +46,30 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Saekjeong Mangsang",
-      "traits": [],
+      "title": "Saekjeongmangsang",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Ahn Do-young is admitted to hospital following a sudden road accident. There, he meets his attending doctor, Ki Tae-yoon. Ahn Do-young falls in love with him at the first sight of his kind care and a single smile, and firmly believes that Tae-yoon’s tenderness is a sign that he intends to propose marriage to him exclusively. However, upon realising this is not the case, Do-young loses his mind and begins to express misguided desires. *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/erotomania)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODI3LmpwZw",
+  "description": "*Note: The fourth story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODg3Ny1VWDdQSDhNM2NzU3kucG5n",
   "total_chapters": "4",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-19",
+    "end_date": "2026-10-19",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-25T07:18:29.541Z",
+  "last_updated_at": "2026-10-26T07:17:41.815Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,26 +84,47 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218877,
+      "rating": null,
+      "url": "https://anilist.co/manga/218877"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "71ztee1",
-      "rating": 63,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/71ztee1"
     }
   },
   "tag_ids": [
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.588,
+    "popularityPercentile": 0.2383,
+    "fanFavouriteDiscoveryScore": 5.2643,
+    "fanFavouriteDiscoveryPercentile": 0.2313
   }
 }

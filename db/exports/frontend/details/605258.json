@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Warm Welcome",
-  "mangabaka_title": "Warm Welcome",
+  "mangabaka_title": "Daehwanyeong",
   "native_title": "대환영",
-  "romanized_title": null,
+  "romanized_title": "Daehwanyeong",
   "titles": [
     {
       "language": "ko",
       "title": "대환영",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Daehwanyeong",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,28 +34,28 @@
     }
   ],
   "description": "**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70551609), [Daum](https://webtoon.kakao.com/content/%EB%8C%80%ED%99%98%EC%98%81/4967)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5Mjg1LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODg4Ni1DemRMeURscGR1VnkucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-27",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-29T06:10:44.365Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-09-28T16:36:23.551Z",
+  "last_updated_at": "2026-10-26T03:06:21.788Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ma Young-Shin"
+    "Yeong-Sin Ma"
   ],
   "artists": [
-    "Ma Young-Shin"
+    "Yeong-Sin Ma"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605258",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218886,
+      "rating": null,
+      "url": "https://anilist.co/manga/218886"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "p8ibw9w",
@@ -62,17 +77,31 @@
   },
   "tag_ids": [
     8,
-    31
+    1082,
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "8": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "1082": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.588,
+    "popularityPercentile": 0.2383,
+    "fanFavouriteDiscoveryScore": 5.2643,
+    "fanFavouriteDiscoveryPercentile": 0.2313
   }
 }

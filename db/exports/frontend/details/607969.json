@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-10-24T00:42:12.049Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-25T21:46:19.234Z",
+  "last_updated_at": "2026-10-26T21:36:40.326Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -86,17 +86,21 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "ynl3o55",
-      "rating": 64,
+      "rating": 65,
       "url": "https://www.mangaupdates.com/series/ynl3o55"
     }
   },
   "tag_ids": [
     43,
+    59,
     74,
     36,
     6,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -105,18 +109,22 @@
     "31": "defining",
     "36": "defining",
     "43": "defining",
-    "74": "unweighted"
+    "57": "unweighted",
+    "59": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 22,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5216,
-    "popularityPercentile": 0.1755,
-    "fanFavouriteDiscoveryScore": 5.2305,
-    "fanFavouriteDiscoveryPercentile": 0.1684
+    "fanRatioPercentile": 32.588,
+    "popularityPercentile": 14.0544,
+    "fanFavouriteDiscoveryScore": 12.338,
+    "fanFavouriteDiscoveryPercentile": 12.8768
   }
 }
