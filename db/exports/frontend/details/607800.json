@@ -5,39 +5,43 @@
   "display_title": "Alpha Injection",
   "mangabaka_title": "Alpha Injection",
   "native_title": "알파인젝션",
-  "romanized_title": null,
+  "romanized_title": "Alpha Injection",
   "titles": [
     {
       "language": "ko",
       "title": "알파인젝션",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Alpha Injection",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "An experimental injection capable of altering hormones and granting new traits offers a host the chance to erase his Alpha status and be reborn as a Beta. After visiting an abandoned hospital, he is knocked unconscious by a mysterious researcher and forced into human experiments to revive the long-lost drug. Though the researcher appears cold and ruthless, the flirtatious host sees only a handsome man worth pursuing. His shameless advances soon begin to shake the researcher's composure.\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/alpha_injection)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwOTE5LmpwZw",
+  "description": "“Alpha Injection”—an injection that induces hormonal mutations to bestow new traits. Host athlete Kang Su-Chan visits a secret, abandoned hospital to erase his Alpha traits and be reborn as a Beta, but he is knocked unconscious by a mysterious man named Lee Hae-Su and soon finds himself subjected to biological experiments aimed at reviving the Alpha Injection, which has now been completely lost. Ha-Su has a cold-blooded demeanor, as if not a single drop of blood would come out even if he were stabbed. But in the eyes of Su-Chan, who is obsessed with men, he was nothing more than another handsome young man. Ha-Su’s resolve begins to waver as the host, driven by his frivolous and arrogant self-interest, makes his move…\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODg4MC1HZXNiRENObzJyenQucG5n",
   "total_chapters": "1",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-21",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-22T04:19:40.533Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-26T04:20:38.986Z",
+  "last_updated_at": "2026-10-27T23:32:21.978Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +56,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218880,
+      "rating": null,
+      "url": "https://anilist.co/manga/218880"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wp26e5q",
@@ -61,19 +69,38 @@
     }
   },
   "tag_ids": [
+    118,
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "118": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6396,
+    "popularityPercentile": 1.2473,
+    "fanFavouriteDiscoveryScore": 5.655,
+    "fanFavouriteDiscoveryPercentile": 1.1702
   }
 }

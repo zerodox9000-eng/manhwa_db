@@ -3,28 +3,46 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Path Forger",
-  "mangabaka_title": "Path Forger",
-  "native_title": "[관계중독 단편선] 패스 포저",
+  "mangabaka_title": "Pass Forger",
+  "native_title": "패스 포저",
   "romanized_title": "[Gwan-gye Joongdok Danpyeonseon] Pathforger",
   "titles": [
     {
       "language": "ko",
       "title": "패스 포저",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 패스 포저",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "[Gwan-gye Joongdok Danpyeonseon] Pathforger",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gwangyejungdong Danpyeonseon] Pass Forger",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Pass Forger",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,29 +54,29 @@
       "note": null
     }
   ],
-  "description": "Ever since the appearance of superpower users, war has not stopped on Earth. Sentinel Han Tae-young and Guide Joo Se-in have been paired up in the military, keeping in sync for five years. Then one day, Tae-young suffers a runaway berserk episode, and Se-in finally realizes that Tae-young has been manipulating their pairing, shaving off five years of his own lifespan just to stay by his side. *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/pathforger)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNDU1LmpwZw",
+  "description": "*Note: The third story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODg3NS1HTGhCc242UTZEbGQucG5n",
   "total_chapters": "4",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-15",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-26T07:17:38.510Z",
+  "last_updated_at": "2026-10-27T23:35:28.536Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lee Pado"
+    "leepado"
   ],
   "artists": [
-    "Lee Pado"
+    "leepado"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606368",
@@ -66,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 218875,
+      "rating": null,
+      "url": "https://anilist.co/manga/218875"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ejbikoh",
@@ -76,18 +98,37 @@
   },
   "tag_ids": [
     36,
+    180,
     16,
-    31
+    31,
+    9,
+    236,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "36": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "236": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6396,
+    "popularityPercentile": 3.2513,
+    "fanFavouriteDiscoveryScore": 6.4788,
+    "fanFavouriteDiscoveryPercentile": 3.0481
   }
 }

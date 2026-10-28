@@ -5,47 +5,51 @@
   "display_title": "About Mind",
   "mangabaka_title": "About Mind",
   "native_title": "어바웃 마인드",
-  "romanized_title": null,
+  "romanized_title": "About Mind",
   "titles": [
     {
       "language": "ko",
       "title": "어바웃 마인드",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "About Mind",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Kim Heesu has never once lost his title as the school’s top student. One day out of nowhere, a mysterious transfer student named Yun Seoju appears and steals that title away from him.\n\nEver since that incident, Heesu’s daily routine begins to fall apart. He tries to keep his distance, but for some reason, Seoju keeps approaching him while claiming he doesn’t want to be hated—making it impossibly hard for Heesu to push him away...\n\n*“You hate me, don’t you, Heesu? ...I don’t think I want to be hated by you.”* *(Source: Polarfox, translated)*\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/2093066438), [MrBlue](https://www.mrblue.com/novel/E000080406), [Bookcube](https://www.bookcube.com/detail.asp?series_num=921022570)\n\n**Original Webtoon:**  \nRIDI",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMjQ3LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "description": "Kim Heesu has never once lost his title as the top student of the entire school. Not until the talk-of-the-town transfer student, Yoon Seoju—a guy shrouded in mystery—appears right in front of him.\n\n*“Heesu is... such a fool. That's what makes him cute.”*\n\nHeesu thinks they belong to completely different worlds and could never get close. Yet, just as his heart begins to open thanks to Seoju’s strangely friendly approach, a certain incident drives them apart once again...\n\n*“H-Heesu! I heard Yoon Seoju got a perfect score on this mock exam...!”*\n\nHeesu’s peaceful life, which depended entirely on maintaining his rank as the top student, begins to shatter into pieces with Seoju’s arrival.\n\n*“You hate me, don’t you, Heesu?”*  \n*“Just don’t run away or disappear. You can hit me, curse at me, or be angry at me all you want.”* *(Source: RIDI, translated)*\n\n[Character Profile](https://misc.ridibooks.com/desc.intro/2404039808)\n\n---\n\n**Original Novel:**  \n[RIDI](https://ridibooks.com/books/2093066438), [MrBlue](https://www.mrblue.com/novel/E000080406), [Bookcube](https://www.bookcube.com/detail.asp?series_num=921022570)\n\n**Original Webtoon:**  \n[R19](https://ridibooks.com/books/2404039808), [R15](https://ridibooks.com/books/2404039809)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTA2Mi1xc2hJQVQzdmhuUkgucG5n",
+  "total_chapters": "1",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-26T00:42:16.320Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-26T15:40:59.240Z",
+  "last_updated_at": "2026-10-28T00:06:42.184Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "12929",
-    "Yeoleum (II)"
+    "Pyeonbaengnamusup",
+    "Yeoreum"
   ],
   "artists": [
-    "Tan-seong"
+    "Tan-Seong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608193",
@@ -53,7 +57,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219062,
+      "rating": null,
+      "url": "https://anilist.co/manga/219062"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qt3fdlc",
@@ -63,21 +71,39 @@
   },
   "tag_ids": [
     107,
+    180,
     16,
     31,
     9,
     7,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "7": "defining",
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "42": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6396,
+    "popularityPercentile": 0.1682,
+    "fanFavouriteDiscoveryScore": 5.2468,
+    "fanFavouriteDiscoveryPercentile": 0.1612
   }
 }
