@@ -5,46 +5,57 @@
   "display_title": "BroKen",
   "mangabaka_title": "BroKen",
   "native_title": "브로큰",
-  "romanized_title": null,
+  "romanized_title": "BroKen",
   "titles": [
     {
       "language": "ko",
       "title": "브로큰",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "BroKen",
+      "language": "ko",
+      "title": "브로큰(BroKen)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "BroKen",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "My first love, the one who killed my father twenty years ago, reappeared.\n\nI thought I had forgotten him. No, I tried desperately to forget. The name “Jintae” was a name I went to therapy just to erase from my mind. Yet lately, he keeps appearing in my dreams.\n\nAt a school reunion he hadn’t attended in years, Sewon learns that Jintae had been asking about him. Troubled by the news, Sewon goes to a park pavilion to clear his head and ends up falling asleep. The moment he kisses Jintae for the first time in his dream, he opens his eyes... only to find twenty-year-old Jintae standing right in front of him.\n\nWithin this tangled thread of time, will Sewon be able to face him once again?\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/brokenn), [Lezhin](https://www.lezhin.com/ko/comic/broken)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMzM5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTA2OC05T1BYNGV2d09JaWgucG5n",
   "total_chapters": "6",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-27",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-27T00:42:13.051Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-27T16:54:15.269Z",
+  "last_updated_at": "2026-10-28T16:55:17.373Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Dried Seaweed"
+    "Malmi"
   ],
   "artists": [
-    "Dried Seaweed"
+    "Malmi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608398",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219068,
+      "rating": null,
+      "url": "https://anilist.co/manga/219068"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "xu8siqy",
@@ -67,24 +82,50 @@
     5206,
     748,
     106,
+    180,
     16,
     228,
     4383,
     31,
     984,
-    1004
+    9,
+    1004,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [
     4383
   ],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "106": "core",
+    "180": "incidental",
+    "228": "core",
+    "428": "unweighted",
+    "748": "core",
+    "984": "core",
+    "1004": "core",
+    "1378": "core",
+    "1381": "core",
+    "1963": "core",
+    "4383": "core",
+    "5206": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 0.2519,
+    "fanFavouriteDiscoveryScore": 5.2869,
+    "fanFavouriteDiscoveryPercentile": 0.2449
   }
 }

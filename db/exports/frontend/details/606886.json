@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Ballerina's Second Chance",
-  "mangabaka_title": "Balancé",
+  "mangabaka_title": "Balance",
   "native_title": "발랑세",
-  "romanized_title": null,
+  "romanized_title": "Balance",
   "titles": [
     {
       "language": "ko",
       "title": "발랑세",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,9 +24,11 @@
       "note": null
     },
     {
-      "language": "fr",
-      "title": "Balancé",
-      "traits": [],
+      "language": "ko-Latn",
+      "title": "Balance",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -51,28 +55,29 @@
     }
   ],
   "description": "Seyeon has always dreamed of making a living as a ballerina. But reality turned out to be very different from her dreams. As performance opportunities and stages became increasingly scarce, Seyeon gradually lost her place in the world of ballet, until she eventually had no choice but to leave the stage behind. Now, in a quiet countryside village, just as she is trying to give up on her dream of ballet, an unwelcome visitor appears before her. \"What kind of star did you want to become?\" Why would this man come all the way out here just to ask her something like that?\n\n[Original Webtoon](https://ridibooks.com/books/5804000127)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwODc5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTExMS03M3RwREJYblV3YUkuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-19",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-27T16:00:39.843Z",
+  "last_updated_at": "2026-10-28T23:46:01.207Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Carrot Juice",
-    "Multi"
+    "Danggeun Juice",
+    "Ttubeokttu"
   ],
   "artists": [
+    "Myalti",
     "Ttubeokttu"
   ],
   "links": {
@@ -81,7 +86,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219111,
+      "rating": null,
+      "url": "https://anilist.co/manga/219111"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "75gpvdr",
@@ -91,18 +100,35 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
-    9
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 0.2519,
+    "fanFavouriteDiscoveryScore": 5.2869,
+    "fanFavouriteDiscoveryPercentile": 0.2449
   }
 }

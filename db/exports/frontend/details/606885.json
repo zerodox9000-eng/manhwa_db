@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Blood-Sucking Romance",
-  "mangabaka_title": "Blood-Sucking Romance",
+  "mangabaka_title": "Pi Pparameongneun Yeonae",
   "native_title": "피 빨아먹는 연애",
-  "romanized_title": null,
+  "romanized_title": "Pi Pparameongneun Yeonae",
   "titles": [
     {
       "language": "ko",
       "title": "피 빨아먹는 연애",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -55,24 +57,33 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Pi Pparameongneun Yeonae",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "On a summer night filled with shooting stars, a mosquito transforms into a human woman. Given the name 'Bada', she ends up living together with 'Cheong-do', the man who tried to kill her.\n\nEverything is a first: eating, dressing up, and liking someone.   \nThe fluttering heartbeats, the kisses, and the thrilling sensations felt in a human body are all entirely new.\n\nAnd the partner for all those 'firsts' is Cheong-do.\n\n\"Cheong-do is my absolute favorite.\"\n\nBada is honest because it's her first time, and that makes Cheong-do even more cautious. Can he really accept the heart of a girl who doesn't even know what love is?\n\nHe knows he should draw a line, but the longer they spend together, the prettier Bada looks to him.   \nWhen she gets close, he's hyper-aware of her; when they touch, he wants to touch more. He finds himself wanting to teach her things he probably shouldn't.\n\nBada, a human novice experiencing love and desire for the first time, and Cheong-do, a man who has to hold back more the more he falls for her.\n\n[Original Webtoon](https://ridibooks.com/books/5479000274)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwODgxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTExMi00T2hTZmNWSzZwdVkuanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-19",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-26T15:59:06.596Z",
+  "last_updated_at": "2026-10-29T00:16:01.545Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -88,7 +99,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219112,
+      "rating": null,
+      "url": "https://anilist.co/manga/219112"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "z2y5ugr",
@@ -98,18 +113,37 @@
   },
   "tag_ids": [
     43,
+    108,
+    36,
     22,
-    9
+    252,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "22": "defining",
+    "36": "unweighted",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "252": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 0.2519,
+    "fanFavouriteDiscoveryScore": 5.2869,
+    "fanFavouriteDiscoveryPercentile": 0.2449
   }
 }

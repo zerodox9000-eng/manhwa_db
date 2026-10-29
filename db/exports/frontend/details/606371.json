@@ -3,34 +3,45 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Look Alikes",
-  "mangabaka_title": "Dalmeun-kkol",
-  "native_title": "[관계중독 단편선] 닮은꼴",
-  "romanized_title": "Dalmeun-kkol",
+  "mangabaka_title": "Dalmeunkkol",
+  "native_title": "닮은꼴",
+  "romanized_title": "Dalmeunkkol",
   "titles": [
     {
       "language": "ko",
       "title": "닮은꼴",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 닮은꼴",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Dalmeun-kkol",
-      "traits": [],
+      "title": "Dalmeunkkol",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "[Gwan-gye Joongdok Danpyeonseon] Dalmeun-kkol",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gwangyejungdong Danpyeonseon] Dalmeunkkol",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -43,29 +54,29 @@
       "note": null
     }
   ],
-  "description": "At the funeral of the older close friend he secretly harbored an unrequited crush on, nineteen-year-old Jeon Min-wook resolves to raise his friend's left-behind six-year-old son, Han Si-on, himself.\n\nFourteen years pass. Si-on has become a respectable medical student, while Min-wook—who started out as a low-level thug—has risen to become the CEO of a successful company.\n\nHaving developed insomnia while struggling through those harsh years, Min-wook begins a bedtime routine on his doctor's recommendation. But starting from a certain day, he keeps having strange dreams where he is entangled naked with Si-on... *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/lookalike)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODI1LmpwZw",
+  "description": "*Note: The sixth story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTA2Ni1uQ3NWcnhFbVZ6QWUucG5n",
   "total_chapters": "5",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-26",
+    "end_date": "2026-10-26",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-27T07:27:34.886Z",
+  "last_updated_at": "2026-10-28T07:31:20.427Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "MangoBear"
+    "Manggogom"
   ],
   "artists": [
-    "Heemaeng"
+    "Hui-Maeng"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606371",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219066,
+      "rating": null,
+      "url": "https://anilist.co/manga/219066"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mvycin6",
@@ -82,17 +97,34 @@
     }
   },
   "tag_ids": [
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 0.2519,
+    "fanFavouriteDiscoveryScore": 5.2869,
+    "fanFavouriteDiscoveryPercentile": 0.2449
   }
 }

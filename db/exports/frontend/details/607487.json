@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Went to Confession and Ended up Being Devoured",
-  "mangabaka_title": "I Went to Confession and Ended up Being Devoured",
-  "native_title": "[능욕 단편선] 고해성사를 하러갔다가 잡아먹혔다",
-  "romanized_title": null,
+  "mangabaka_title": "Gohaeseongsareul Hareogatdaga Jabameokyeotda",
+  "native_title": "고해성사를 하러갔다가 잡아먹혔다",
+  "romanized_title": "Gohaeseongsareul Hareogatdaga Jabameokyeotda",
   "titles": [
     {
       "language": "ko",
       "title": "고해성사를 하러갔다가 잡아먹혔다",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[능욕 단편선] 고해성사를 하러갔다가 잡아먹혔다",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -47,6 +49,15 @@
       "title": "Eaten Alive After Going to Confession",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gohaeseongsareul Hareogatdaga Jabameokyeotda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -99,6 +110,13 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "[Neungyok Danpyeonseon] Gohaeseongsareul Hareogatdaga Jabameokyeotda",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Priest Who Devoured Me",
       "traits": [],
@@ -113,31 +131,30 @@
       "note": null
     }
   ],
-  "description": "A flawless priest revered as God's perfect representative has always lived in a world of strict order and discipline. But his peaceful existence is disrupted when the empire's most beautiful noblewoman enters his life. With a personality as bright as sunshine, she begins to stir feelings he has never experienced before. \n\nForced into an unwanted marriage, she defies her parents for the first time and flees to the grand temple to confess her sins. However, instead of offering her forgiveness, the priest declares that her body has already been tainted simply because another man dared to imagine touching her. Determined to cleanse her of this supposed impurity, he decides to absolve her sins by leaving his own mark upon her body, turning a sacred confession into something dangerously forbidden.\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5285002980)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNjc5LmpwZw",
+  "description": "*Note: Part of Metatoon's Neungyok Danpyeonseon (능욕 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTEwNy1IeWVZa201RW1YTUguanBn",
   "total_chapters": "4",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-17",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-18T00:42:28.184Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T00:26:26.144Z",
+  "last_updated_at": "2026-10-28T23:16:14.819Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Samdeok",
-    "Seodan-ae"
+    "Dan-Ae Seo",
+    "Sang Lee"
   ],
   "artists": [
-    "Lee Sang",
-    "Metatoon"
+    "Samdeok"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/607487",
@@ -145,7 +162,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219107,
+      "rating": null,
+      "url": "https://anilist.co/manga/219107"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ah6dqzd",
@@ -155,19 +176,39 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     41,
-    9
+    370,
+    171,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "171": "unweighted",
+    "370": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 0.2519,
+    "fanFavouriteDiscoveryScore": 5.2869,
+    "fanFavouriteDiscoveryPercentile": 0.2449
   }
 }

@@ -2,15 +2,17 @@
   "id": 606887,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Mihee",
-  "mangabaka_title": "Mihee",
+  "display_title": "Mi-Hui",
+  "mangabaka_title": "Mi-Hui",
   "native_title": "미희",
   "romanized_title": "Meehee",
   "titles": [
     {
       "language": "ko",
       "title": "미희",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,37 +27,39 @@
       "language": "ko-Latn",
       "title": "Mihee",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
-      "language": "zh-Latn",
-      "title": "Mihui",
-      "traits": [],
+      "language": "ko-Latn",
+      "title": "Mi-Hui",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "\"You're doing this with me, but you say we're not dating?\" Mihee, who dedicates herself to studying to escape poverty. Before her appears Jiheon, who seems to lack nothing. From sub-notes to assignment materials, Mihee, who finds a moment of relief with Jiheon's help, becomes increasingly entangled in a deep relationship with him. The more Mihee tries to escape, the more Jiheon uses his help to hold onto her, and Mihee, despite hating herself for depending on Jiheon, cannot break free from him. 'I didn't choose Jiheon. Jiheon was the only alternative left for me.'\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/1746036631)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNTc5LnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTEwNS1SaGlQMERqSUsxZzkuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-16",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-27T16:00:43.143Z",
+  "last_updated_at": "2026-10-28T22:36:22.356Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Bungi Taengcheon",
+    "Bungitaengcheon",
     "Illusion"
   ],
   "artists": [
@@ -67,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219105,
+      "rating": null,
+      "url": "https://anilist.co/manga/219105"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8n0thy1",
@@ -77,18 +85,35 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
-    9
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 0.2519,
+    "fanFavouriteDiscoveryScore": 5.2869,
+    "fanFavouriteDiscoveryPercentile": 0.2449
   }
 }

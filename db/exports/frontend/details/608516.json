@@ -2,7 +2,7 @@
   "id": 608516,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Blade of the Discarded",
+  "display_title": "Unlimited Transcendental",
   "mangabaka_title": "Chowolmuje",
   "native_title": "초월무제",
   "romanized_title": "Chowolmuje",
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "Blade of the Discarded",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -31,11 +31,39 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "vi",
+      "title": "Siêu Việt Võ Đế",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Transcendent Martial Emperor",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Transcendent Martial Emperor",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Unlimited Transcendental",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "In a murim where war has become a thing of the past, even peace comes at a price. In an age where the fate of entire martial sects is decided through duels, prestigious clans secretly trade in human weapons known as “Amhyung”—individuals trained to master and counter the martial arts of rival sects. Raised for a single purpose—to ensure victory—they are mercilessly discarded and erased from existence once their usefulness has ended. But those who were cast aside have not forgotten. Now, the forsaken rise to exact their revenge.\n\n(Source: Naver, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTAzMi1FSHNFZ01pOUd6VHIuanBn",
-  "total_chapters": null,
+  "total_chapters": "6",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -48,7 +76,7 @@
   },
   "first_seen_at": "2026-10-28T00:42:18.622Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-27T14:26:19.432Z",
+  "last_updated_at": "2026-10-28T17:00:05.230Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,39 +94,49 @@
   "source": {
     "anilist": {
       "id": 219032,
-      "rating": null,
+      "rating": 75,
       "url": "https://anilist.co/manga/219032"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "l0ys43r",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/l0ys43r"
+    }
   },
   "tag_ids": [
+    38,
     58,
     36,
     39,
+    29,
+    45,
     93,
     57,
     428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "36": "unweighted",
-    "39": "unweighted",
+    "29": "defining",
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "45": "defining",
     "57": "unweighted",
-    "58": "unweighted",
+    "58": "incidental",
     "93": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 114,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 75
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6396,
-    "popularityPercentile": 0.1682,
-    "fanFavouriteDiscoveryScore": 5.2468,
-    "fanFavouriteDiscoveryPercentile": 0.1612
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 40.3177,
+    "fanFavouriteDiscoveryScore": 27.6167,
+    "fanFavouriteDiscoveryPercentile": 30.0161
   }
 }

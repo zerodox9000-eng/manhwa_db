@@ -2,16 +2,16 @@
   "id": 607664,
   "state": "active",
   "type": "manhwa",
-  "display_title": "XX Bucket List",
+  "display_title": "My Naughty Bucket List",
   "mangabaka_title": "XX Bucket List",
   "native_title": "XX 버킷리스트",
-  "romanized_title": null,
+  "romanized_title": "XX Bucket List",
   "titles": [
     {
       "language": "en",
       "title": "My Naughty Bucket List",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -44,39 +44,44 @@
     },
     {
       "language": "ko",
-      "title": "XX버킷리스트",
-      "traits": [],
+      "title": "XX 버킷리스트",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "XX Bucket List",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "[Lord, please grant me a big and sturdy one]\n\n\"Where in the world did that sea squirt come from?!\"\n\nJinha has a peculiar habit of writing a sexy bucket list filled with various sexual fantasies due to having a higher interest in sexuality than others.   \nShe thought she had finally chosen a man to help her cross items off her bucket list, but the moment she unwrapped the package, what she faced was... a disastrously disappointing tiny size.\n\n'What if every man in the world is like that?'   \n'Could it be that even adult film actors actually have small ones and just get Botox injections down there for the shoots?'\n\nJust as she was about to give up her lifelong romance and fall into a deep distrust of men due to her trauma over small sizes, right before her eyes suddenly appears Dowon's—her older brother's friend's—magnificent size.\n\nOverwhelmed by a physical attribute she can barely believe even after seeing it, Jinha blurts out a false confession on the spot.   \nWill Jinha be able to successfully complete her XX Bucket List?\n\n[Original Webtoon](https://ridibooks.com/books/3498027086)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwNzkzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTExMC1oVnl0bEF5TGpBOGMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-18",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-20T00:42:14.924Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-27T17:09:55.888Z",
+  "last_updated_at": "2026-10-28T23:36:01.118Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ajikbi"
+    "Ajikbi",
+    "Neogul"
   ],
   "artists": [
     "Neogul"
@@ -87,7 +92,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219110,
+      "rating": null,
+      "url": "https://anilist.co/manga/219110"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mwrzk4s",
@@ -97,20 +106,37 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6965,
+    "popularityPercentile": 0.2519,
+    "fanFavouriteDiscoveryScore": 5.2869,
+    "fanFavouriteDiscoveryPercentile": 0.2449
   }
 }
