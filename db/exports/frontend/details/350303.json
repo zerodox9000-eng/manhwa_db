@@ -120,7 +120,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.734Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-28T15:41:17.493Z",
+  "last_updated_at": "2026-10-29T08:34:06.876Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -140,7 +140,7 @@
   "source": {
     "anilist": {
       "id": 193900,
-      "rating": 68,
+      "rating": 69,
       "url": "https://anilist.co/manga/193900"
     },
     "animeplanet": {
@@ -159,6 +159,7 @@
     43,
     850,
     123,
+    752,
     158,
     59,
     2233,
@@ -193,6 +194,7 @@
     41,
     109,
     289,
+    381,
     370,
     1553,
     161,
@@ -230,7 +232,7 @@
     "93": "unweighted",
     "97": "core",
     "98": "core",
-    "99": "unweighted",
+    "99": "recurrent",
     "107": "unweighted",
     "108": "unweighted",
     "109": "defining",
@@ -244,14 +246,16 @@
     "360": "incidental",
     "364": "core",
     "369": "core",
-    "370": "unweighted",
+    "370": "incidental",
+    "381": "unweighted",
     "428": "unweighted",
     "461": "core",
     "580": "defining",
     "647": "defining",
     "695": "unweighted",
-    "727": "unweighted",
+    "727": "incidental",
     "740": "core",
+    "752": "unweighted",
     "760": "unweighted",
     "850": "defining",
     "875": "core",
@@ -278,16 +282,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1330,
+    "popularity": 1334,
     "favourites": 20,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5038,
-    "fanRatioPercentile": 64.1612,
-    "popularityPercentile": 83.8967,
-    "fanFavouriteDiscoveryScore": 63.8503,
-    "fanFavouriteDiscoveryPercentile": 71.9155
+    "fanFavouriteRaw": 1.4993,
+    "fanRatioPercentile": 64.0875,
+    "popularityPercentile": 83.9309,
+    "fanFavouriteDiscoveryScore": 63.7778,
+    "fanFavouriteDiscoveryPercentile": 71.7201
   },
   "context": {
     "primaryProfile": "medical-career",

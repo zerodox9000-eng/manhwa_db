@@ -2,15 +2,33 @@
   "id": 608407,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Fall for Me (RIDIBOO)",
-  "mangabaka_title": "Fall for Me (RIDIBOO)",
+  "display_title": "Fall for Me",
+  "mangabaka_title": "Fall for Me",
   "native_title": "나에게 빠져라",
-  "romanized_title": null,
+  "romanized_title": "Naege Ppajyeora",
   "titles": [
     {
       "language": "ko",
       "title": "나에게 빠져라",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Be Captivated by Me",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Fall for Me",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -25,7 +43,37 @@
       "language": "en",
       "title": "Fall for Me (RIDIBOO)",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Fall Into My Trap",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Naege Ppajyeora",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Surrender to Me",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "You'll Fall for Me",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -36,26 +84,27 @@
       "note": null
     }
   ],
-  "description": "Reina believed marriage would give her the happy ending she'd never had. Instead, it left her betrayed, abandoned, and left for dead. Now, with a new face and a new identity, she's back to make the Mineshima family pay for everything they stole from her.\n\n**Official Translations:**   \n[English](https://manta.net/en/series/fall-for-me?seriesId=5533)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMzI1LmpwZw",
+  "description": "Reina believed marriage would give her the happy ending she'd never had. Instead, it left her betrayed, abandoned, and left for dead. Now, with a new face and a new identity, she's back to make the Mineshima family pay for everything they stole from her. \n\n(Source: Manta)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTE0OS1NQUhaaEsxVnZHMUkucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-27T00:42:13.048Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T16:55:08.725Z",
+  "last_updated_at": "2026-10-29T23:36:04.696Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "MORIMOTO Ichika"
+    "Biyo",
+    "Ichika Morimoto"
   ],
   "artists": [
     "RIDIBOO"
@@ -66,7 +115,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219149,
+      "rating": null,
+      "url": "https://anilist.co/manga/219149"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qolfbw2",
@@ -76,17 +129,33 @@
   },
   "tag_ids": [
     43,
-    31
+    108,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7322,
+    "popularityPercentile": 0.2027,
+    "fanFavouriteDiscoveryScore": 5.2744,
+    "fanFavouriteDiscoveryPercentile": 0.1957
   }
 }

@@ -80,7 +80,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.733Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-28T10:32:15.689Z",
+  "last_updated_at": "2026-10-29T17:12:30.161Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -109,7 +109,7 @@
     },
     "mangaupdates": {
       "id": "s2q88qc",
-      "rating": 77,
+      "rating": 75,
       "url": "https://www.mangaupdates.com/series/s2q88qc"
     }
   },
@@ -148,6 +148,7 @@
     1948,
     33,
     9,
+    7,
     93,
     57,
     428,
@@ -157,12 +158,13 @@
     3177
   ],
   "tag_weights": {
-    "4": "incidental",
+    "4": "unweighted",
+    "7": "unweighted",
     "9": "defining",
     "14": "unweighted",
-    "31": "unweighted",
+    "31": "defining",
     "33": "core",
-    "41": "defining",
+    "41": "unweighted",
     "46": "defining",
     "57": "unweighted",
     "59": "defining",
@@ -190,23 +192,23 @@
     "3177": "defining",
     "3227": "defining",
     "3291": "defining",
-    "4434": "defining",
+    "4434": "unweighted",
     "5910": "defining",
     "6063": "defining",
-    "6159": "defining",
+    "6159": "incidental",
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1978,
+    "popularity": 1988,
     "favourites": 93,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 4.7017,
-    "fanRatioPercentile": 96.8157,
-    "popularityPercentile": 88.5226,
-    "fanFavouriteDiscoveryScore": 96.4961,
-    "fanFavouriteDiscoveryPercentile": 98.4534
+    "fanFavouriteRaw": 4.6781,
+    "fanRatioPercentile": 96.7848,
+    "popularityPercentile": 88.558,
+    "fanFavouriteDiscoveryScore": 96.4662,
+    "fanFavouriteDiscoveryPercentile": 98.4273
   },
   "context": {
     "primaryProfile": "business-career-regression",

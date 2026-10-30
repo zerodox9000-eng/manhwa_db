@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.735Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-28T07:53:15.095Z",
+  "last_updated_at": "2026-10-29T07:54:20.376Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -90,7 +90,7 @@
   "source": {
     "anilist": {
       "id": 186954,
-      "rating": 64,
+      "rating": 65,
       "url": "https://anilist.co/manga/186954"
     },
     "animeplanet": {
@@ -188,9 +188,16 @@
     4522,
     268,
     5123,
+    398,
+    2749,
+    3788,
+    289,
+    381,
     370,
     303,
-    169
+    161,
+    169,
+    103
   ],
   "tag_weights": {
     "8": "defining",
@@ -206,12 +213,12 @@
     "59": "unweighted",
     "93": "unweighted",
     "99": "defining",
-    "103": "unweighted",
+    "103": "defining",
     "106": "defining",
     "109": "defining",
     "123": "defining",
     "132": "recurrent",
-    "161": "unweighted",
+    "161": "incidental",
     "163": "defining",
     "169": "defining",
     "171": "recurrent",
@@ -219,7 +226,7 @@
     "257": "unweighted",
     "268": "defining",
     "287": "unweighted",
-    "289": "unweighted",
+    "289": "incidental",
     "303": "recurrent",
     "306": "recurrent",
     "312": "unweighted",
@@ -227,8 +234,8 @@
     "370": "defining",
     "372": "recurrent",
     "380": "defining",
-    "381": "unweighted",
-    "398": "unweighted",
+    "381": "recurrent",
+    "398": "incidental",
     "428": "unweighted",
     "447": "recurrent",
     "608": "recurrent",
@@ -256,14 +263,14 @@
     "2292": "defining",
     "2473": "recurrent",
     "2718": "core",
-    "2749": "unweighted",
+    "2749": "defining",
     "2853": "unweighted",
     "3004": "recurrent",
     "3112": "core",
     "3521": "recurrent",
     "3576": "defining",
     "3642": "recurrent",
-    "3788": "unweighted",
+    "3788": "recurrent",
     "4522": "core",
     "4955": "defining",
     "4995": "recurrent",
@@ -273,16 +280,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1043,
+    "popularity": 1044,
     "favourites": 33,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 3.164,
-    "fanRatioPercentile": 91.203,
-    "popularityPercentile": 80.2575,
-    "fanFavouriteDiscoveryScore": 90.6055,
-    "fanFavouriteDiscoveryPercentile": 94.7862
+    "fanFavouriteRaw": 3.1609,
+    "fanRatioPercentile": 91.256,
+    "popularityPercentile": 80.2894,
+    "fanFavouriteDiscoveryScore": 90.6597,
+    "fanFavouriteDiscoveryPercentile": 94.8277
   },
   "context": {
     "primaryProfile": "corporate-workplace",

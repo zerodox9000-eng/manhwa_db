@@ -2,8 +2,8 @@
   "id": 598706,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Terrible Negligence",
-  "mangabaka_title": "Kkeumjjikan Gwasil",
+  "display_title": "Fatal Mistake",
+  "mangabaka_title": "Fatal Mistake",
   "native_title": "끔찍한 과실",
   "romanized_title": "Ggeumjjik-han Gwasil",
   "titles": [
@@ -14,6 +14,22 @@
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Fatal Mistake",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Fatal Mistake (Lemon)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -43,7 +59,7 @@
       "language": "en",
       "title": "Terrible Negligence",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -52,7 +68,7 @@
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-07-29",
@@ -62,7 +78,7 @@
   },
   "first_seen_at": "2026-07-31T04:15:25.825Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T03:51:15.711Z",
+  "last_updated_at": "2026-10-29T09:44:07.446Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -82,7 +98,11 @@
       "rating": 40,
       "url": "https://anilist.co/manga/214566"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ggeumjjik-han-gwasil",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ggeumjjik-han-gwasil"
+    },
     "mangaupdates": {
       "id": "ggfsz8m",
       "rating": 64,
@@ -96,7 +116,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -106,7 +127,8 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 9,
@@ -115,10 +137,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6965,
-    "popularityPercentile": 4.8499,
-    "fanFavouriteDiscoveryScore": 7.211,
-    "fanFavouriteDiscoveryPercentile": 4.542
+    "fanRatioPercentile": 32.7322,
+    "popularityPercentile": 4.8438,
+    "fanFavouriteDiscoveryScore": 7.216,
+    "fanFavouriteDiscoveryPercentile": 4.5362
   },
   "context": {
     "primaryProfile": "romance-core",

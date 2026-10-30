@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Stockings Are Not to Blame",
-  "mangabaka_title": "Stockings Are Not to Blame",
-  "native_title": "[색야 단편선] 스타킹은 죄가 없다",
-  "romanized_title": null,
+  "mangabaka_title": "Stocking-eun Joega Eopda",
+  "native_title": "스타킹은 죄가 없다",
+  "romanized_title": "[Saegya Danpyeonseon] Stocking-eun Joega Eopda",
   "titles": [
     {
       "language": "ko",
       "title": "스타킹은 죄가 없다",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[색야 단편선] 스타킹은 죄가 없다",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -50,6 +52,22 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "[Saegya Danpyeonseon] Stocking-eun Joega Eopda",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Stocking-eun Joega Eopda",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Stockings Are Innocent",
       "traits": [],
@@ -64,30 +82,30 @@
       "note": null
     }
   ],
-  "description": "She has a secret she can't tell anyone: a stocking fetish that never fails to turn her on. After a painful breakup, she tries to suppress her desires by avoiding stockings altogether. But when circumstances force her to wear them again, she impulsively crosses the line with her longtime male friend. Unsure whether their encounter was driven by genuine attraction or simply the heat of the moment, he offers her a pair of black garter stockings and challenges her to try again. After all, how else will she know whether she likes it or not? At this point, can stockings really be blamed for everything?\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/3587014935)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMzEwLmpwZw",
+  "description": "*Note: Part of Haewadal Studio's Saegya Danpyeonseon (색야 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTExNi1LaDVJeW1UOXRtdGYuanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-25",
+    "end_date": "2026-10-25",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-27T00:42:13.051Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T16:55:14.194Z",
+  "last_updated_at": "2026-10-29T16:56:24.998Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kkul Bang-Wool"
+    "Berry",
+    "Kkulbangul"
   ],
   "artists": [
-    "Berry",
-    "Haewadal Studio"
+    "Berry"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608415",
@@ -95,7 +113,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219116,
+      "rating": null,
+      "url": "https://anilist.co/manga/219116"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "w1eeofz",
@@ -105,19 +127,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7322,
+    "popularityPercentile": 0.2027,
+    "fanFavouriteDiscoveryScore": 5.2744,
+    "fanFavouriteDiscoveryPercentile": 0.1957
   }
 }

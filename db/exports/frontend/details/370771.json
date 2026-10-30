@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Child of Mars",
-  "mangabaka_title": "Child of Mars",
+  "mangabaka_title": "Hwaseongui Ai",
   "native_title": "화성의 아이",
-  "romanized_title": null,
+  "romanized_title": "Hwaseongui Ai",
   "titles": [
     {
       "language": "ko",
       "title": "화성의 아이",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,24 +29,33 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hwaseongui Ai",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "There was a time when Ye-ji's warnings were dismissed as conspiracy theories, a notion rooted in intellectual pride.\nBut then came The Day of Apocalypse, where humanity lost 70% of its population to the Bora Virus, and most modern civilization was destroyed. The only exception was Cheongdan City, which continued to prepare in accordance with the warning of the \"seer\". When the end came, people finally realized their folly—how they had dismissed the seer's warnings as nonsense. They understood that there are no absolute truths, no unchanging facts. Now, one of those \"seers\", Seo Mo-rae, has become both humanity's savior and messiah. To protect him, the gifted individual J. Tae-seong is hired. The story of their lives in a broken world begins now.\n\n**Original Webtoon:**  \nR19: [Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370920176), [BookCube](https://www.bookcube.com/toon/detail.asp?webtoon_num=250595), [KyoboBook](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011861613), [Lezhin](https://www.lezhin.com/ko/comic/child_of_mars), [MrBlue](https://www.mrblue.com/webtoon/wt_000072186), [Nate](https://toonnbook.nate.com/detail/H048381670), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13053753), [Onestory](https://onestory.co.kr/detail/H048381670), [RIDI](https://ridibooks.com/books/297083332), [Toon365](https://www.toon365.com/domestic/domestic_detail.asp?toon_idx=47893), ZzangComic, [YES24](https://www.yes24.com/product/goods/152639748)  \nR15: [Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370920205), [BookCube](https://www.bookcube.com/toon/detail.asp?webtoon_num=250596), [KakaoPage](https://page.kakao.com/content/67454370), [KyoboBook](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011861623), [Mootoon](https://www.mootoon.co.kr/comic/moo_list.mg?tcode=lmlt), [MrBlue](https://www.mrblue.com/webtoon/wt_000072185), [Nate](https://toonnbook.nate.com/detail/H048381671), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13053736), [Onestory](https://onestory.co.kr/detail/H048381671), [Qtoon](https://www.qtoon.co.kr/toon/list.mg?tcode=cghl), [RIDI](https://ridibooks.com/books/297083340), [Toon365](https://www.toon365.com/domestic/domestic_detail.asp?toon_idx=47890), ZzangComic, [YES24](https://www.yes24.com/product/goods/152639749)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDk5Nzg3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTE0NC1TdHdNQ3NYcTlLdkQuanBn",
   "total_chapters": "40",
   "status": "hiatus",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-08-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-28T16:27:41.762Z",
+  "last_updated_at": "2026-10-29T22:36:02.944Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219144,
+      "rating": null,
+      "url": "https://anilist.co/manga/219144"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "2lmqyti",
@@ -68,19 +83,33 @@
     }
   },
   "tag_ids": [
+    118,
+    1,
     16,
-    31
+    31,
+    44,
+    9
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "1": "unweighted",
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "44": "unweighted",
+    "118": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7322,
+    "popularityPercentile": 0.2027,
+    "fanFavouriteDiscoveryScore": 5.2744,
+    "fanFavouriteDiscoveryPercentile": 0.1957
   },
   "context": {
     "primaryProfile": "kingdom-management",

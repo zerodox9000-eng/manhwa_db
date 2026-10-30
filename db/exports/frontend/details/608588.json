@@ -2,10 +2,10 @@
   "id": 608588,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Annyeonghaseyo Option-imnida",
-  "mangabaka_title": "Annyeonghaseyo Option-imnida",
+  "display_title": "Be My Boo",
+  "mangabaka_title": "Be My Boo",
   "native_title": "안녕하세요 옵션입니다",
-  "romanized_title": "Annyeonghaseyo Option-imnida",
+  "romanized_title": "Annyeonghaseyo Optionimnida",
   "titles": [
     {
       "language": "ko",
@@ -18,20 +18,29 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Annyeonghaseyo Option-imnida",
+      "title": "Annyeonghaseyo Optionimnida",
       "traits": [
         "native"
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Be My Boo",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTA3NS1IU3lySmU4N3BDU0EucG5n",
+  "description": "**Original Webtoon:**  \nLezhin\n\n**Official Translations:**  \nEnglish\n\n##### Note: This series is a global release, meaning all official translations come out on the same day as the original Korean.",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8yL2EvNy80LzgvMy9lLzAvNDhiMi80OTNiLzg1ZDUvN2Q2MGIzMTIxODAx",
   "total_chapters": null,
   "status": "upcoming",
-  "content_rating": "erotica",
-  "is_licensed": false,
+  "content_rating": "pornographic",
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-11-08",
@@ -41,7 +50,7 @@
   },
   "first_seen_at": "2026-10-29T00:42:21.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T05:51:05.601Z",
+  "last_updated_at": "2026-10-29T22:31:34.284Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,31 +71,37 @@
       "url": "https://anilist.co/manga/219075"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "nzgb580",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/nzgb580"
+    }
   },
   "tag_ids": [
     180,
+    16,
     93,
     57,
     428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "16": "unweighted",
     "57": "unweighted",
     "93": "unweighted",
-    "180": "unweighted",
+    "180": "incidental",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6965,
-    "popularityPercentile": 0.2519,
-    "fanFavouriteDiscoveryScore": 5.2869,
-    "fanFavouriteDiscoveryPercentile": 0.2449
+    "fanRatioPercentile": 32.7322,
+    "popularityPercentile": 0.4753,
+    "fanFavouriteDiscoveryScore": 5.3757,
+    "fanFavouriteDiscoveryPercentile": 0.4613
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "When the Door Opens",
-  "mangabaka_title": "When the Door Opens",
+  "mangabaka_title": "Geu Muni Yeollimyeon, Dangsini",
   "native_title": "그 문이 열리면, 당신이",
-  "romanized_title": null,
+  "romanized_title": "Geu Muni Yeollimyeon, Dangsini",
   "titles": [
     {
       "language": "ko",
       "title": "그 문이 열리면, 당신이",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geu Muni Yeollimyeon, Dangsini",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -24,6 +35,13 @@
     {
       "language": "en",
       "title": "The One Who Comes Through the Door",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "When That Door Opens",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -72,29 +90,29 @@
     }
   ],
   "description": "Yvonne, who lives by running a small clothing shop on her own,\nmeets Jérôme—a blood-covered, beautiful man who walks through her shop door on a rainy day.\n\nCaptivated and falling in love with his alluring charm,\nshe continues her encounters with this secretive man who arrives at nightfall and vanishes before sunrise.\n\nHowever, Jérôme's true identity and the secrets he has hidden begin to unfold one by one.\nTormented by the truth that reminds her of her own painful past, Yvonne still waits every night for Jérôme to open that door and come to her….\n\n**\"Now, I'm going to enter inside Yvonne.\"** He gave a sly, petulant smile. **\"So don't run away. Feel it properly.\"**\n\n\n\n[Original Novel](https://ridibooks.com/books/777082187?_s=instant&_q=%EA%B7%B8+%EB%AC%B8%EC%9D%B4+%EC%97%B4%EB%A6%AC%EB%A9%B4%2C+%EB%8B%B9%EC%8B%A0%EC%9D%B4&_rdt_sid=search_instant&_rdt_idx=4&_rdt_arg=%EA%B7%B8+%EB%AC%B8%EC%9D%B4+%EC%97%B4%EB%A6%AC%EB%A9%B4%2C+%EB%8B%B9%EC%8B%A0%EC%9D%B4)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwOTM3LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTExMy1POFhFd0Fudk5SbEwuanBn",
   "total_chapters": "11",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-21",
+    "end_date": "2026-10-21",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-01T06:32:37.624Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T23:46:30.301Z",
+  "last_updated_at": "2026-10-30T00:31:36.368Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Roa"
+    "Arahan",
+    "Roah Kim"
   ],
   "artists": [
-    "Arahan",
-    "Santa (산타)"
+    "Santa"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605456",
@@ -102,7 +120,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219113,
+      "rating": null,
+      "url": "https://anilist.co/manga/219113"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "f0wwoqw",
@@ -112,19 +134,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7322,
+    "popularityPercentile": 0.4753,
+    "fanFavouriteDiscoveryScore": 5.3757,
+    "fanFavouriteDiscoveryPercentile": 0.4613
   }
 }
