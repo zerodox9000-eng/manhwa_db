@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Isn't It Beta?",
-  "mangabaka_title": "Isn't It Beta?",
-  "native_title": "我才不是Beta？",
-  "romanized_title": null,
+  "mangabaka_title": "Beta Anindeyo?",
+  "native_title": "베타 아닌데요?",
+  "romanized_title": "Beta Anindeyo?",
   "titles": [
     {
       "language": "ko",
       "title": "베타 아닌데요?",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Beta Anindeyo?",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,29 +47,31 @@
       "note": null
     }
   ],
-  "description": "The world has never seen an Omegaverse story quite like this. Beta top X Beta bottom?! The Omegaverse setting was simply an excuse!\n\nDa-hoon and Sung-joon entered into an arranged marriage for business reasons. Despite their arranged marriage, they were as reputable as any other Alpha-Omega couple thanks to their outstanding personalities.\n\nBut they each had a secret... “He must never find out that I’m a Beta!”\n\n---\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/notbeta), [Lezhin](https://www.lezhin.com/ko/comic/notbeta)\n\n**Official Translations:**  \n[Thai](https://www.lezhinth.com/detail/notbeta), [T.Chinese](https://www.bomtoon.tw/detail/notbeta)\n\n##### Note: The official T.Chinese translation is uncensored.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDc2NTQ4LmpwZw",
+  "description": "The world has never seen an Omegaverse like this. A Beta top and a Beta bottom?!\n\nThe Omegaverse has simply been exploited. Da-Hun and Seong-Jun were forced into a marriage of convenience for business reasons. Although it was a marriage of convenience, thanks to their outstanding personalities, the two became the talk of the town, just like any other Alpha-Omega couple, as a “match made in heaven” (?). But the two had a secret...\n\nI absolutely can’t let anyone find out I’m a Beta!\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTE2NS1kR0Y0VFpBVHN5R0MuanBn",
   "total_chapters": "8",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2025-02-14",
+    "end_date": "2025-02-14",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-28T09:15:44.267Z",
+  "last_updated_at": "2026-10-30T04:46:07.146Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
+    "Neging",
     "Pisangu"
   ],
   "artists": [
-    "Neging"
+    "Neging",
+    "Pisangu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/91008",
@@ -66,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219165,
+      "rating": null,
+      "url": "https://anilist.co/manga/219165"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "nvd951l",
@@ -83,12 +100,14 @@
     6296,
     6198,
     6699,
+    180,
     1947,
     16,
     31,
     360,
     359,
     2977,
+    9,
     1830,
     93,
     1167,
@@ -96,15 +115,40 @@
     428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "118": "core",
+    "180": "unweighted",
+    "359": "defining",
+    "360": "core",
+    "428": "unweighted",
+    "880": "recurrent",
+    "1167": "unweighted",
+    "1830": "defining",
+    "1947": "defining",
+    "2902": "core",
+    "2977": "unweighted",
+    "3506": "defining",
+    "6198": "defining",
+    "6296": "defining",
+    "6699": "core",
+    "7289": "core"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 0.1816,
+    "fanFavouriteDiscoveryScore": 5.2686,
+    "fanFavouriteDiscoveryPercentile": 0.1746
   },
   "context": {
     "primaryProfile": "business-career",

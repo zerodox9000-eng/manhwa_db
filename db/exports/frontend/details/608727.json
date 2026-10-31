@@ -41,14 +41,14 @@
   },
   "first_seen_at": "2026-10-30T00:32:05.452Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-29T22:11:34.395Z",
+  "last_updated_at": "2026-10-30T22:11:36.721Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gyu-mok Choi"
+    "Gyumok Choi"
   ],
   "artists": [
-    "Gyu-mok Choi"
+    "Gyumok Choi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608727",
@@ -65,6 +65,7 @@
     "mangaupdates": null
   },
   "tag_ids": [
+    58,
     36,
     1,
     39,
@@ -72,21 +73,22 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "1": "unweighted",
-    "36": "unweighted",
-    "39": "unweighted",
-    "57": "unweighted"
+    "1": "defining",
+    "36": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "58": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.7322,
-    "popularityPercentile": 0.2027,
-    "fanFavouriteDiscoveryScore": 5.2744,
-    "fanFavouriteDiscoveryPercentile": 0.1957
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 0.426,
+    "fanFavouriteDiscoveryScore": 5.3593,
+    "fanFavouriteDiscoveryPercentile": 0.412
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Only Walk on the Flower Path",
-  "mangabaka_title": "Only Walk on the Flower Path",
-  "native_title": "あなたと共に花道を歩みたい",
-  "romanized_title": null,
+  "mangabaka_title": "Kkotgilman Georeoyo",
+  "native_title": "꽃길만 걸어요",
+  "romanized_title": "Kkotgilman Georeoyo",
   "titles": [
     {
       "language": "ko",
       "title": "꽃길만 걸어요",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Kkotgilman Georeoyo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,22 +40,22 @@
       "note": null
     }
   ],
-  "description": "A child is one day abandoned at the home of a goblin born from a beautiful flower shoe. It is the child of a man who fled after spending a night together while promising marriage. The goblin reluctantly takes the child in as a servant and gives them the name “Bam”. Unaware that the child will later come to harbor intense, burning feelings of love toward them…\n\n\n---\n\n**Original Webtoon:**  \n[MrBlue](https://mrblue.com/webtoon/wt_000057717), [Lezhin](https://www.lezhin.com/ko/comic/flower_path)\n\n**Official Translations:**  \n[Japanese](https://www.cmoa.jp/title/305078/)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L29ubHktd2Fsay1vbi10aGUtZmxvd2VyLXBhdGgtMS53ZWJwP3Q9MTY4ODg2NDY4Mg",
+  "description": "One day, a child was abandoned at the home of a goblin born from a pair of beautiful flower-patterned shoes. The child was the son of a man who had spent the night with the goblin on the promise of marriage, only to run away afterward. Reluctantly, the goblin took the child in as a servant and named him “Bam.” Little did the goblin know that the child would one day harbor such deep affection for him...\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTE2Ny1iem93c3RtVmxEcGkuanBn",
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-07-10",
+    "end_date": "2023-08-21",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-28T05:52:35.965Z",
+  "last_updated_at": "2026-10-30T04:46:07.325Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219167,
+      "rating": null,
+      "url": "https://anilist.co/manga/219167"
+    },
     "animeplanet": {
       "id": "only-walk-on-the-flower-path",
       "rating": null,
@@ -72,6 +87,7 @@
     }
   },
   "tag_ids": [
+    106,
     36,
     46,
     180,
@@ -85,15 +101,31 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "36": "defining",
+    "45": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "106": "unweighted",
+    "180": "incidental",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 0.1816,
+    "fanFavouriteDiscoveryScore": 5.2686,
+    "fanFavouriteDiscoveryPercentile": 0.1746
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -3,28 +3,32 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Favorite Boy",
-  "mangabaka_title": "Choe-ae Sonyeon",
-  "native_title": "[관계중독 단편선] 최애 소년",
-  "romanized_title": "Choe-ae Sonyeon",
+  "mangabaka_title": "Choeae Sonyeon",
+  "native_title": "최애 소년",
+  "romanized_title": "Choeae Sonyeon",
   "titles": [
     {
       "language": "ko",
       "title": "최애 소년",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 최애 소년",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Choe-ae Sonyeon",
-      "traits": [],
+      "title": "Choeae Sonyeon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -38,6 +42,13 @@
     {
       "language": "ko-Latn",
       "title": "[Gwan-gye Joongdok Danpyeonseon] Choe-ae Sonyeon",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gwangyejungdong Danpyeonseon] Choeae Sonyeon",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -57,29 +68,29 @@
       "note": null
     }
   ],
-  "description": "Life was so easy for Ma Si-woo, the eldest son of the Paseong Group, that he was simply bored out of his mind. In a life where he lacked absolutely nothing, there was only one thing entirely out of his reach... A comic book character he had fallen head over heels in love with.\n\nNo matter what he tried, his desire for the character remained unfulfilled. One night, fueled by alcohol, he made a wish on a passing shooting star: to meet the comic character he loved. And when he opened his eyes... A man looking identical to his favorite character was kicking him?!\n\nDid the shooting star actually grant Si-woo's wish?\n\nA passionate romance between Ma Si-woo, a man who could easily have anything he wanted, and Jin Do-rim, his long-awaited \"ultimate fave\"! *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/favoriteboy)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODI2LmpwZw",
+  "description": "*Note: The fifth story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTA2NC01NVRmN1BGUllQd0sucG5n",
   "total_chapters": "5",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-22",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-29T07:29:21.180Z",
+  "last_updated_at": "2026-10-30T07:30:15.621Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Parkgee"
+    "Bakji"
   ],
   "artists": [
-    "Parkgee"
+    "Bakji"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606370",
@@ -87,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219064,
+      "rating": 50,
+      "url": "https://anilist.co/manga/219064"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "2l6huun",
@@ -96,17 +111,32 @@
     }
   },
   "tag_ids": [
-    16
+    180,
+    16,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 13,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 39
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 7.9958,
+    "fanFavouriteDiscoveryScore": 8.8041,
+    "fanFavouriteDiscoveryPercentile": 7.4721
   }
 }

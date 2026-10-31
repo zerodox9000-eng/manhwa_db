@@ -2,36 +2,54 @@
   "id": 598280,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Second Skin",
-  "mangabaka_title": "Guwon-eui Talpi",
-  "native_title": "[성비단 무단사정금지] 구원의 탈피",
+  "display_title": "Escaping from salvation",
+  "mangabaka_title": "Guwonui Talpi",
+  "native_title": "구원의 탈피",
   "romanized_title": "Guwon-eui Talpi",
   "titles": [
     {
       "language": "ko",
       "title": "구원의 탈피",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[성비단 무단사정금지] 구원의 탈피",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "[성비단] 구원의 탈피",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Escaping from salvation",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Guwon-eui Talpi",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Guwonui Talpi",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -39,13 +57,13 @@
       "language": "en",
       "title": "Second Skin",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "“The handkerchief’s soaked up with the smell of your skin...”\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079205)",
+  "description": "Yeom Do-Yul, who runs a flower shop, steps in to break up a fight in an alley and ends up reuniting with Myo Hyeon, a senior he had a crush on back in high school. He wanted to pretend he didn’t recognize him, but the way he touches him now feels somehow deliberate and strange....\n\n *“I think it’s fate that we’ve met again like this.”*\n\n(Source: MrBlue, translated)\n\n*Note: Includes one extra chapter.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi83LzAvOC9lLzAvMy81LzcvNDUzZS80YjUyLzhlNGMvMzEwOWM2YjAzMGM3",
-  "total_chapters": "3",
+  "total_chapters": "4",
   "status": "completed",
   "content_rating": "pornographic",
   "is_licensed": false,
@@ -58,14 +76,14 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-29T10:33:43.223Z",
+  "last_updated_at": "2026-10-30T15:03:26.973Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Ttung Gae"
+    "Ttung-Gae"
   ],
   "artists": [
-    "Ttung Gae"
+    "Ttung-Gae"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598280",
@@ -73,7 +91,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219157,
+      "rating": null,
+      "url": "https://anilist.co/manga/219157"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8l4p1zc",
@@ -88,22 +110,45 @@
     46,
     15,
     41,
+    180,
     16,
     6,
     31,
     9,
-    1167
+    93,
+    1167,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "15": "defining",
+    "16": "defining",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted",
+    "1167": "unweighted",
+    "1529": "core",
+    "1991": "core",
+    "5991": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 7,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 3.331,
+    "fanFavouriteDiscoveryScore": 6.5343,
+    "fanFavouriteDiscoveryPercentile": 3.1215
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -3,22 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "A Checkered Fate",
-  "mangabaka_title": "Gigu-han Unmyeong",
-  "native_title": "[성비단 무단사정금지] 기구한 운명",
-  "romanized_title": "Gigu-han Unmyeong",
+  "mangabaka_title": "Giguhan Un-Myeong",
+  "native_title": "기구한 운명",
+  "romanized_title": "Giguhan Un-Myeong",
   "titles": [
     {
       "language": "ko",
       "title": "기구한 운명",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[성비단 무단사정금지] 기구한 운명",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "[성비단] 기구한 운명",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -79,15 +88,17 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Gigu-han Unmyeong",
-      "traits": [],
+      "title": "Giguhan Un-Myeong",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "“Give me a hand, the thing that went into my butt won’t come out!”\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079205)",
+  "description": "Kwon Un-Myeong, known for being easily swayed, hears a story from a friend about a unique way for couples to spice things up and wonders how he can try it out with his long-time partner, Lee Won-Yeong. To convince the stubborn Won-Yeong, Un-Myeong comes up with a single clever plan...\n\n *“Okay, starting today, we're in a rut!”*\n\n(Source: MrBlue, translated)\n\n*Note: Includes one extra chapter.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85L2YvMS85LzcvNy84LzgvMGQ3MC80ZTIwLzk3MzEvY2VhMGI0NzA3YzBl",
-  "total_chapters": "5",
+  "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -100,7 +111,7 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-29T08:48:07.060Z",
+  "last_updated_at": "2026-10-30T15:03:44.380Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -115,7 +126,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219155,
+      "rating": null,
+      "url": "https://anilist.co/manga/219155"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "d7v6bmq",
@@ -126,18 +141,35 @@
   "tag_ids": [
     46,
     41,
-    16
+    180,
+    16,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 0.7821,
+    "fanFavouriteDiscoveryScore": 5.4936,
+    "fanFavouriteDiscoveryPercentile": 0.7472
   },
   "context": {
     "primaryProfile": "modern-korea",

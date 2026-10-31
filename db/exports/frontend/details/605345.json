@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "To the Beautiful Queen",
-  "mangabaka_title": "To the Beautiful Queen",
+  "mangabaka_title": "Areumdaun Queen-ege",
   "native_title": "아름다운 퀸에게",
-  "romanized_title": null,
+  "romanized_title": "Areumdaun Queen-ege",
   "titles": [
     {
       "language": "ko",
       "title": "아름다운 퀸에게",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Areumdaun Queen-ege",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,28 +34,28 @@
     }
   ],
   "description": "Yujin and Junwoo were once the famous golden boy and girl of their school days—but five years later, they reunite after both having changed beyond recognition. Now an adult, Yujin lives in seclusion as a virtual streamer, hiding a secret she cannot tell anyone. Unlike the goddess-like beauty she was known for five years ago, she has since become severely obese. Keeping her true appearance hidden, she is loved by her viewers—until one day, a mysterious viewer appears and threatens to expose her identity. Yujin tries to stop them, but things only become more complicated... Then, an Itaewon drag queen named “Cheshire” appears before her. \n\n“Let’s go anywhere—wherever these heels lead us.” \n\nFollowing Cheshire, Yujin enters the Drag Queen Bar LaMer, never imagining that he is actually Junwoo, her first love. Will the two of them be able to overcome how much they’ve changed and grow together?\n\n**Original Webtoon:**   \n[KakaoPage](https://page.kakao.com/content/70804804/), [Daum](https://webtoon.kakao.com/content/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%ED%80%B8%EC%97%90%EA%B2%8C/4977)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5MzkwLnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTE2My1tSmlNN1J6OGVCeFUucG5n",
   "total_chapters": "6",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-30T06:00:01.377Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-29T18:10:50.103Z",
+  "last_updated_at": "2026-10-30T03:46:05.874Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jaydenti"
+    "Jeidenti"
   ],
   "artists": [
-    "Jaydenti"
+    "Jeidenti"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/605345",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219163,
+      "rating": null,
+      "url": "https://anilist.co/manga/219163"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7to25g5",
@@ -64,19 +79,37 @@
     43,
     5698,
     2896,
+    59,
     1997,
     4208,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "1997": "core",
+    "2896": "core",
+    "4208": "core",
+    "5698": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 0.1816,
+    "fanFavouriteDiscoveryScore": 5.2686,
+    "fanFavouriteDiscoveryPercentile": 0.1746
   }
 }

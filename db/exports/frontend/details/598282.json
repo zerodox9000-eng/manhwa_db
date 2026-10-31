@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Campus Couple's 100th Day",
-  "mangabaka_title": "CC-neun Baekil-kkajiman",
-  "native_title": "[성비단 무단사정금지] CC는 백일까지만",
-  "romanized_title": "CC-neun Baekil-kkajiman",
+  "mangabaka_title": "CC-neun Baegilkkajiman",
+  "native_title": "CC는 백일까지만",
+  "romanized_title": "CC-neun Baegilkkajiman",
   "titles": [
     {
       "language": "es",
@@ -25,21 +25,39 @@
       "language": "ko",
       "title": "[성비단 무단사정금지] CC는 백일까지만",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko",
+      "title": "[성비단] CC는 백일까지만",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko",
       "title": "CC는 백일까지만",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "CC-neun Baegilkkajiman",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "CC-neun Baekil-kkajiman",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -50,9 +68,9 @@
       "note": null
     }
   ],
-  "description": "“Are you seriously doing that here, with your juniors watching?!”\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079205)",
+  "description": "“Are you seriously doing that here, with your juniors watching?!”\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079747)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi8zL2YvOS9hLzIvZi80LzIvNDY2NS80MjU0L2FiOWMvOTQyZjMxOGY0N2M5",
-  "total_chapters": "7",
+  "total_chapters": "8",
   "status": "completed",
   "content_rating": "pornographic",
   "is_licensed": false,
@@ -65,14 +83,14 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T07:26:08.007Z",
+  "last_updated_at": "2026-10-30T07:26:43.550Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Terryyaki"
+    "Teriyakki"
   ],
   "artists": [
-    "Terryyaki"
+    "Teriyakki"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598282",
@@ -80,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219154,
+      "rating": null,
+      "url": "https://anilist.co/manga/219154"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8x3lj0k",
@@ -91,18 +113,35 @@
   "tag_ids": [
     46,
     41,
-    16
+    180,
+    16,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 1.3128,
+    "fanFavouriteDiscoveryScore": 5.6988,
+    "fanFavouriteDiscoveryPercentile": 1.236
   },
   "context": {
     "primaryProfile": "modern-korea",

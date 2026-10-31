@@ -2,29 +2,33 @@
   "id": 606372,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Doha",
-  "mangabaka_title": "Doha",
-  "native_title": "[관계중독 단편선] 도하",
-  "romanized_title": "[Gwan-gye Joongdok Danpyeonseon] Doha",
+  "display_title": "[Relationship Addiction Short Story Collection] Doha",
+  "mangabaka_title": "Do-Ha",
+  "native_title": "도하",
+  "romanized_title": "Do-Ha",
   "titles": [
     {
       "language": "ko",
       "title": "도하",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 도하",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Doha",
-      "traits": [],
+      "language": "ko-Latn",
+      "title": "Do-Ha",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -32,40 +36,47 @@
       "language": "ko-Latn",
       "title": "[Gwan-gye Joongdok Danpyeonseon] Doha",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gwangyejungdong Danpyeonseon] Doha",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "[Relationship Addiction Short Story Collection] Doha",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "*“Honestly, bringing a man into the house made me feel so unpleasant, Dad.”*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/doha)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODI0LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "description": "*Note: The seventh and final story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTE2NC0xZmNMY3didGlQZmEucG5n",
+  "total_chapters": "6",
+  "status": "completed",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-29",
+    "end_date": "2026-10-29",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-06T06:53:14.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-28T07:21:45.981Z",
+  "last_updated_at": "2026-10-30T08:02:08.123Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Sagold"
+    "Sa-Geum"
   ],
   "artists": [
-    "Sagold"
+    "Sa-Geum"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606372",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219164,
+      "rating": null,
+      "url": "https://anilist.co/manga/219164"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "y2cl64o",
@@ -82,17 +97,38 @@
     }
   },
   "tag_ids": [
-    16
+    106,
+    755,
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "106": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted",
+    "755": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 0.1816,
+    "fanFavouriteDiscoveryScore": 5.2686,
+    "fanFavouriteDiscoveryPercentile": 0.1746
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Proxy Win",
-  "mangabaka_title": "Proxy Win",
-  "native_title": "대리 승은",
-  "romanized_title": null,
+  "mangabaka_title": "Daeriseungeun",
+  "native_title": "대리승은",
+  "romanized_title": "Daeriseungeun",
   "titles": [
     {
       "language": "ko",
       "title": "대리승은",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Daeriseungeun",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -86,29 +97,29 @@
     }
   ],
   "description": "As a humble court lady, she harbored a deep longing for the Crown Prince. However, as if to rebuke her feelings, a piece of red charcoal thrown by the prince grazed her cheek, leaving an indelible scar on both her body and soul. Six years later, Yeon-woo receives a secret summons from the Empress. \n\n'Act as me, the Empress, and receive His Majesty's royal favor for a single night.' \n\nIt is just one night. Exactly one night. If she becomes a fake Empress and receives proxy royal favor from the Crown Prince-turned-Emperor, everything could change.\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5078005228)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMjQzLnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTExNS11ZGFMelhOMGpFaTMuanBn",
   "total_chapters": "10",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-25",
+    "end_date": "2026-10-25",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-25T00:42:04.330Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-29T23:10:11.293Z",
+  "last_updated_at": "2026-10-30T23:15:59.406Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Manyon",
-    "Ninja Tanuki"
+    "Manyong",
+    "Ninja Neoguri"
   ],
   "artists": [
-    "Guta"
+    "Gutae"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608055",
@@ -116,7 +127,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219115,
+      "rating": null,
+      "url": "https://anilist.co/manga/219115"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4kezt4i",
@@ -126,20 +141,37 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
     31,
     9,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7444,
+    "popularityPercentile": 1.9693,
+    "fanFavouriteDiscoveryScore": 5.9609,
+    "fanFavouriteDiscoveryPercentile": 1.8436
   }
 }
