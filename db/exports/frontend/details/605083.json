@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Contract Marriage: Rewritten",
-  "mangabaka_title": "Contract Marriage: Rewritten",
+  "mangabaka_title": "Dasi Sseuneun Gyeolhon Gyeyakseo",
   "native_title": "다시 쓰는 결혼 계약서",
-  "romanized_title": null,
+  "romanized_title": "Dasi Sseuneun Gyeolhon Gyeyakseo",
   "titles": [
     {
       "language": "ko",
       "title": "다시 쓰는 결혼 계약서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,6 +20,15 @@
       "language": "en",
       "title": "Contract Marriage: Rewritten",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Dasi Sseuneun Gyeolhon Gyeyakseo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,25 +48,27 @@
     }
   ],
   "description": "I thought we were signing divorce papers. He was handing me a marriage bed schedule.\n\nDespised for her weak elemental powers, Princess Laniakea accepted a political marriage to Hyperion—a powerless First Prince stationed on the frontlines. For three quiet years, they shared nothing more than a blank marriage contract and a few formal dinners a year.\n\nLaniakea was ready to pack her bags the moment another prince took the throne. But when all three rival princes die overnight, Hyperion claims the crown—and returns to the palace with a serious demand.\n\n**\"Let us hurry and sign the divorce agreement,\"** she says.\n**\"A son or a daughter doesn't matter, let us hurry and have an heir,\"** he replies.\n\nWait... weren't we on the same page?!\n\n**Original Novel:**    \n[R19](https://page.kakao.com/content/67675191), [R15](https://page.kakao.com/content/65754692) \n\n**Original Webtoon:**    \n[R19](https://page.kakao.com/content/70836879), [R15](https://page.kakao.com/content/70836880)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5NTg0LnBuZw",
-  "total_chapters": "22",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTI0Mi1aS0FScmw1QnNVY3QuanBn",
+  "total_chapters": "24",
   "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-27T05:46:14.067Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-30T17:21:31.089Z",
+  "last_updated_at": "2026-10-31T17:46:08.475Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "BAEK Seolhong"
+    "Seol-Hong Baek",
+    "Ttenya",
+    "Wapa"
   ],
   "artists": [
     "Steak"
@@ -66,7 +79,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219242,
+      "rating": null,
+      "url": "https://anilist.co/manga/219242"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ry5emow",
@@ -76,23 +93,43 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     41,
     6,
     31,
     9,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "45": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7471,
+    "popularityPercentile": 0.1466,
+    "fanFavouriteDiscoveryScore": 5.2562,
+    "fanFavouriteDiscoveryPercentile": 0.1396
   }
 }

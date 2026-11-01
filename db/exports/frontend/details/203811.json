@@ -2,10 +2,10 @@
   "id": 203811,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Thoughtful Lady",
-  "mangabaka_title": "A Thoughtful Lady",
+  "display_title": "Saryeo Gipeun Gwibuin",
+  "mangabaka_title": "Saryeo Gipeun Gwibuin",
   "native_title": "사려 깊은 귀부인",
-  "romanized_title": null,
+  "romanized_title": "Saryeo Gipeun Gwibuin",
   "titles": [
     {
       "language": "ko",
@@ -24,9 +24,25 @@
       "note": null
     },
     {
-      "language": "es",
+      "language": "en",
       "title": "La Dama Prudente",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Saryeo Gipeun Gwibuin",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Saryeo Gipeun Gwibuin",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -34,33 +50,34 @@
       "language": "en",
       "title": "The Thoughtful Lady",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "\"I will be a loyal lover to my lady.\"\n\nAfter losing her husband, Ophelia lives alone—\nuntil Rodion, the heir to a ducal house, appears before her,\nasking to serve as her attending knight.\n\n\"Please… play with me.\"\n\nA man of noble birth, six years her junior,\nseeks a role that’s closer to a lover than a servant—\nand Ophelia can’t help but question his true intentions.\n\n\"I’ll make sure you can never send me away.\"\n\nBut Rodion only presses closer,\ndetermined to make himself irreplaceable.\n\n“My god… how is it that big?”\n\nIn both looks and form, he’s flawless.\nA fiery romance blooms between the elegant noblewoman\nand her all-too-perfect knight—\na love unlike any she’s ever known.\n\n**Original Webtoon:**  \nR19: [Naver Series](https://series.naver.com/comic/detail.series?productNo=12510200), [Bomtoon](https://www.bomtoon.com/detail/4lady_19), [Lezhin](https://www.lezhin.com/ko/comic/thoughtful_lady), [Ridibooks](https://ridibooks.com/books/4883001524)  \nR15: [Naver Series](https://series.naver.com/comic/detail.series?productNo=12510199), [Bomtoon](https://www.bomtoon.com/detail/4lady_15), [Lezhin](https://www.lezhin.com/ko/comic/thoughtful_lady_15), [Ridibooks](https://ridibooks.com/books/4883001525)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2EtdGhvdWdodGZ1bC1sYWR5LTEud2VicD90PTE3NDc0OTkzNzA",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzQ5Ni1JUEc0TFFsb2JDdlUuanBn",
   "total_chapters": "20",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2025-05-16",
+    "end_date": "2025-07-31",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-29T01:07:31.431Z",
+  "last_updated_at": "2026-10-31T14:36:06.473Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Eunsol Ye"
+    "Red Peach",
+    "Seo-Ye Eun"
   ],
   "artists": [
-    "Red Peach Studio"
+    "Red Peach"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/203811",
@@ -68,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217496,
+      "rating": null,
+      "url": "https://anilist.co/manga/217496"
+    },
     "animeplanet": {
       "id": "a-thoughtful-lady",
       "rating": null,
@@ -89,6 +110,9 @@
     885,
     114,
     1676,
+    108,
+    36,
+    14,
     15,
     41,
     31,
@@ -103,15 +127,39 @@
     3024,
     885
   ],
+  "tag_weights": {
+    "9": "defining",
+    "14": "unweighted",
+    "15": "defining",
+    "31": "defining",
+    "36": "unweighted",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "114": "core",
+    "428": "unweighted",
+    "885": "core",
+    "1676": "core",
+    "2398": "core",
+    "2458": "core",
+    "2482": "core",
+    "3024": "core",
+    "3070": "core",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7471,
+    "popularityPercentile": 2.5824,
+    "fanFavouriteDiscoveryScore": 6.2146,
+    "fanFavouriteDiscoveryPercentile": 2.3939
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -3,22 +3,13 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Zen Martial Arts Academy",
-  "mangabaka_title": "Magyeong Muinhagwon",
-  "native_title": "ZEN 마경 무인학원",
-  "romanized_title": "Magyeong Muinhagwon",
+  "mangabaka_title": "ZEN Magyeongmuinhagwon",
+  "native_title": "ZEN 마경무인학원",
+  "romanized_title": "ZEN Magyeongmuinhagwon",
   "titles": [
     {
-      "language": "ko-Latn",
-      "title": "Magyeong Muinhagwon",
-      "traits": [
-        "native"
-      ],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "ko",
-      "title": "ZEN 마경 무인학원",
+      "title": "ZEN 마경무인학원",
       "traits": [
         "native"
       ],
@@ -27,9 +18,11 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Zen Magyeong Muinhagwon",
-      "traits": [],
-      "is_primary": false,
+      "title": "ZEN Magyeongmuinhagwon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -71,7 +64,7 @@
   },
   "first_seen_at": "2026-09-17T04:11:13.380Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-29T12:05:38.323Z",
+  "last_updated_at": "2026-10-31T08:24:11.510Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -176,9 +169,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0.3666,
-    "fanRatioPercentile": 33.9036,
-    "popularityPercentile": 80.9288,
-    "fanFavouriteDiscoveryScore": 33.6935,
-    "fanFavouriteDiscoveryPercentile": 36.5712
+    "fanRatioPercentile": 33.9196,
+    "popularityPercentile": 80.9324,
+    "fanFavouriteDiscoveryScore": 33.7094,
+    "fanFavouriteDiscoveryPercentile": 36.5927
   }
 }

@@ -2,7 +2,7 @@
   "id": 598280,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Escaping from salvation",
+  "display_title": "Second Skin",
   "mangabaka_title": "Guwonui Talpi",
   "native_title": "구원의 탈피",
   "romanized_title": "Guwon-eui Talpi",
@@ -34,7 +34,7 @@
       "language": "en",
       "title": "Escaping from salvation",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -57,7 +57,7 @@
       "language": "en",
       "title": "Second Skin",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     }
   ],
@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-30T15:03:26.973Z",
+  "last_updated_at": "2026-10-31T10:39:20.662Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -93,7 +93,7 @@
   "source": {
     "anilist": {
       "id": 219157,
-      "rating": null,
+      "rating": 72,
       "url": "https://anilist.co/manga/219157"
     },
     "animeplanet": null,
@@ -105,11 +105,16 @@
   },
   "tag_ids": [
     1991,
+    158,
     5991,
     1529,
+    287,
     46,
     15,
     41,
+    370,
+    99,
+    103,
     180,
     16,
     6,
@@ -131,7 +136,12 @@
     "46": "defining",
     "57": "unweighted",
     "93": "unweighted",
-    "180": "unweighted",
+    "99": "incidental",
+    "103": "incidental",
+    "158": "incidental",
+    "180": "incidental",
+    "287": "unweighted",
+    "370": "incidental",
     "428": "unweighted",
     "1167": "unweighted",
     "1529": "core",
@@ -139,16 +149,16 @@
     "5991": "core"
   },
   "stats": {
-    "popularity": 7,
+    "popularity": 25,
     "favourites": null,
-    "meanScore": 72
+    "meanScore": 63
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.7444,
-    "popularityPercentile": 3.331,
-    "fanFavouriteDiscoveryScore": 6.5343,
-    "fanFavouriteDiscoveryPercentile": 3.1215
+    "fanRatioPercentile": 32.7471,
+    "popularityPercentile": 15.6407,
+    "fanFavouriteDiscoveryScore": 13.4318,
+    "fanFavouriteDiscoveryPercentile": 14.203
   },
   "context": {
     "primaryProfile": "modern-korea",
