@@ -164,7 +164,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.186Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-31T09:06:05.204Z",
+  "last_updated_at": "2026-11-01T23:23:54.660Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -247,7 +247,9 @@
     528,
     2778
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    176
+  ],
   "tag_weights": {
     "31": "defining",
     "36": "defining",
@@ -262,9 +264,9 @@
     "121": "core",
     "126": "core",
     "127": "unweighted",
-    "176": "unweighted",
+    "176": "recurrent",
     "227": "core",
-    "230": "unweighted",
+    "230": "recurrent",
     "337": "unweighted",
     "378": "defining",
     "428": "unweighted",
@@ -297,16 +299,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 9090,
+    "popularity": 9092,
     "favourites": 125,
     "meanScore": 63
   },
   "analytics": {
-    "fanFavouriteRaw": 1.3751,
-    "fanRatioPercentile": 60.5597,
-    "popularityPercentile": 97.7457,
-    "fanFavouriteDiscoveryScore": 60.4669,
-    "fanFavouriteDiscoveryPercentile": 68.1533
+    "fanFavouriteRaw": 1.3748,
+    "fanRatioPercentile": 60.5456,
+    "popularityPercentile": 97.7465,
+    "fanFavouriteDiscoveryScore": 60.4528,
+    "fanFavouriteDiscoveryPercentile": 68.1365
   },
   "context": {
     "primaryProfile": "murim-wuxia",

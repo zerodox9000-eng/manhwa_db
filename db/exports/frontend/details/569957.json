@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.737Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-31T09:59:11.865Z",
+  "last_updated_at": "2026-11-01T12:02:03.017Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -99,11 +99,17 @@
     }
   },
   "tag_ids": [
+    1585,
+    3561,
     2980,
     5613,
+    6811,
+    3622,
     75,
     74,
+    595,
     106,
+    987,
     3000,
     118,
     6031,
@@ -112,8 +118,10 @@
     15,
     1550,
     180,
+    1947,
     16,
     31,
+    776,
     365,
     9,
     1004,
@@ -122,7 +130,9 @@
     428,
     7332
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    6811
+  ],
   "tag_weights": {
     "9": "defining",
     "14": "unweighted",
@@ -139,12 +149,20 @@
     "180": "defining",
     "365": "defining",
     "428": "unweighted",
+    "595": "unweighted",
+    "776": "unweighted",
+    "987": "unweighted",
     "1004": "defining",
     "1550": "defining",
+    "1585": "unweighted",
+    "1947": "unweighted",
     "2980": "defining",
     "3000": "core",
+    "3561": "unweighted",
+    "3622": "unweighted",
     "5613": "defining",
     "6031": "defining",
+    "6811": "unweighted",
     "7332": "unweighted"
   },
   "stats": {
@@ -154,10 +172,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.2012,
-    "fanRatioPercentile": 54.9484,
-    "popularityPercentile": 60.1061,
-    "fanFavouriteDiscoveryScore": 53.0717,
-    "fanFavouriteDiscoveryPercentile": 61.0134
+    "fanRatioPercentile": 54.985,
+    "popularityPercentile": 60.0851,
+    "fanFavouriteDiscoveryScore": 53.104,
+    "fanFavouriteDiscoveryPercentile": 61.027
   },
   "context": {
     "primaryProfile": "office-romance",

@@ -5,19 +5,32 @@
   "display_title": "Deliver Us From Evil",
   "mangabaka_title": "Deliver Us From Evil",
   "native_title": "악에서 구하소서",
-  "romanized_title": null,
+  "romanized_title": "Ageseo Guhasoseo",
   "titles": [
     {
       "language": "ko",
       "title": "악에서 구하소서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ageseo Guhasoseo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Deliver Us From Evil",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -51,28 +64,28 @@
     }
   ],
   "description": "**Original Webtoon:**  \nBomtoon\n\n**Official Translations:**  \nEnglish, Spanish, Thai, T.Chinese, Japanese\n\n##### Note: This series is a global release, meaning all official translations come out on the same day as the original Korean.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNTI5LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxOTI5Ny04MTh5N3RkY1l5N1AucG5n",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "upcoming",
+  "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-29T00:42:21.300Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-01T00:12:53.277Z",
+  "last_updated_at": "2026-11-02T00:15:06.848Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Pias"
+    "Pia"
   ],
   "artists": [
-    "Uto (II)"
+    "Yuto"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608657",
@@ -80,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219297,
+      "rating": null,
+      "url": "https://anilist.co/manga/219297"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "j6iyjun",
@@ -89,17 +106,30 @@
     }
   },
   "tag_ids": [
-    16
+    180,
+    16,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7287,
+    "popularityPercentile": 0.1535,
+    "fanFavouriteDiscoveryScore": 5.2558,
+    "fanFavouriteDiscoveryPercentile": 0.1465
   }
 }
