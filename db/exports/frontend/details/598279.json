@@ -4,21 +4,23 @@
   "type": "manhwa",
   "display_title": "Beyond the Safety Line",
   "mangabaka_title": "Anjeonseon Neomeo",
-  "native_title": "[성비단 무단사정금지] 안전선 너머",
+  "native_title": "안전선 너머",
   "romanized_title": "Anjeonseon Neomeo",
   "titles": [
     {
       "language": "ko",
       "title": "안전선 너머",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[성비단 무단사정금지] 안전선 너머",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -31,7 +33,9 @@
     {
       "language": "ko-Latn",
       "title": "Anjeonseon Neomeo",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,9 +47,9 @@
       "note": null
     }
   ],
-  "description": "“You get turned on even in the subway? You’re definitely a complete wreck.”\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079750)",
+  "description": "Seo Min-U, a fourth-year assistant manager in the business planning team of a major corporation. With a promotion on the horizon, those around Min-U describe him as the “perfect man” or “a person beyond reproach.” But the diagnosis of erectile dysfunction, which struck Min-U like a natural disaster, begins to slowly crack the life he thought was perfect. To make matters worse, after being molested on the subway and having his erection noticed by someone, he is blackmailed into boarding the subway with an adult toy tucked behind him... \n\n *“Was this your thing? You came way too fast.”*\n\n(Source: MrBlue, translated)\n\n*Note: Includes one extra chapter.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi80LzEvMy8xLzYvZS9hLzMvMDMzYy80NWI5L2I0YzUvYTBlOGQ2NzQwOWY2",
-  "total_chapters": "5",
+  "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -58,14 +62,14 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-01T11:48:40.842Z",
+  "last_updated_at": "2026-11-02T11:50:12.989Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jinwol"
+    "Jin Wol"
   ],
   "artists": [
-    "Jinwol"
+    "Jin Wol"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598279",
@@ -73,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219334,
+      "rating": null,
+      "url": "https://anilist.co/manga/219334"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "twupcrv",
@@ -82,20 +90,41 @@
     }
   },
   "tag_ids": [
+    287,
     46,
     41,
-    16
+    103,
+    180,
+    16,
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "103": "incidental",
+    "180": "incidental",
+    "287": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7408,
+    "popularityPercentile": 0.7249,
+    "fanFavouriteDiscoveryScore": 5.4713,
+    "fanFavouriteDiscoveryPercentile": 0.6901
   },
   "context": {
     "primaryProfile": "modern-korea",

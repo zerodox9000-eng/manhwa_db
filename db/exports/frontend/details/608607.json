@@ -76,10 +76,11 @@
   },
   "first_seen_at": "2026-10-29T00:42:21.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-01T23:41:42.144Z",
+  "last_updated_at": "2026-11-02T23:43:23.859Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
+    "A-Ha Hong",
     "Ji-Um"
   ],
   "artists": [
@@ -99,18 +100,23 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "lh4acnb",
-      "rating": 62,
+      "rating": 65,
       "url": "https://www.mangaupdates.com/series/lh4acnb"
     }
   },
   "tag_ids": [
     43,
     40,
+    279,
+    108,
     36,
     6,
     9,
     7,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -120,18 +126,23 @@
     "36": "defining",
     "40": "defining",
     "43": "defining",
-    "45": "defining"
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "279": "incidental",
+    "428": "unweighted"
   },
   "stats": {
-    "popularity": 7,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 48,
+    "favourites": 1,
+    "meanScore": 83
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.7287,
-    "popularityPercentile": 3.1884,
-    "fanFavouriteDiscoveryScore": 6.4693,
-    "fanFavouriteDiscoveryPercentile": 2.9861
+    "fanFavouriteRaw": 2.0833,
+    "fanRatioPercentile": 78.3912,
+    "popularityPercentile": 24.9268,
+    "fanFavouriteDiscoveryScore": 47.1307,
+    "fanFavouriteDiscoveryPercentile": 55.1025
   }
 }

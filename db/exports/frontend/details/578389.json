@@ -2,8 +2,8 @@
   "id": 578389,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Rebellion's Quack Doctor",
-  "mangabaka_title": "Ballangunui Dolpari Uisa",
+  "display_title": "The Rebels' Quack Doctor",
+  "mangabaka_title": "The Rebels' Quack Doctor",
   "native_title": "반란군의 돌팔이 의사",
   "romanized_title": "Ballangunui Dolpari Uisa",
   "titles": [
@@ -27,16 +27,32 @@
     },
     {
       "language": "en",
-      "title": "The Rebellion's Quack Doctor",
+      "title": "The Rebel Army's Quack Doctor",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
-      "title": "The Rebel's Quack Doctor",
+      "title": "The Rebellion's Quack Doctor",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Rebels' Quack Doctor",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ru",
+      "title": "Шарлатанка в рядах мятежников",
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
@@ -47,12 +63,12 @@
       "note": null
     }
   ],
-  "description": "I died in an unexpected accident, only to wake up possessed by a doctor. Fifteen years as a medical drama fanatic. They say even a dog at a Confucian school can recite poetry after three years, so I learned quite a bit of medical jargon—but a doctor? Really?! To make matters worse, I ended up becoming the personal physician to Jin, the leader of a massive rebel army and a terminally ill patient. But what's with these doctors around here? Pouring boiling oil on wounds? Draining the raw blood from patients who are coughing up blood?!\n\n *“Everyone entering this room must wash their hands thoroughly from now on!”\n\n“The new doctor sure has a lot of rules. Interesting.”*\n\nThree months remain until Jin's predicted death. Can this quack doctor actually save him?\n\n(Source: KakaoPage, translated)",
+  "description": "I died and woke up as a doctor in my favorite romantasy novel! My only training was binging medical shows for the past 15 years. Now, I’m the personal physician to Gene, a terminally ill rebel leader. Some common-sense modern medicine will help, but can a quack like me actually save him?\n\n(Source: Manta)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9iLzkvMi8xL2QvYy9jLzIvMjM1Mi80YzY3LzkwOTUvYzZkMDQ2ZjEwZDRm",
   "total_chapters": "40",
   "status": "hiatus",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-02-09",
@@ -62,7 +78,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-30T16:01:19.678Z",
+  "last_updated_at": "2026-11-02T16:02:42.797Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -74,8 +90,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/578389",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://manta.net/en/series/the-rebels-quack-doctor?seriesId=5372",
+    "read_en_all": [
+      "https://manta.net/en/series/the-rebels-quack-doctor?seriesId=5372"
+    ]
   },
   "source": {
     "anilist": {
@@ -136,10 +154,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.9108,
-    "fanRatioPercentile": 74.3668,
-    "popularityPercentile": 46.0127,
-    "fanFavouriteDiscoveryScore": 66.7304,
-    "fanFavouriteDiscoveryPercentile": 74.9529
+    "fanRatioPercentile": 74.5155,
+    "popularityPercentile": 45.9919,
+    "fanFavouriteDiscoveryScore": 66.8519,
+    "fanFavouriteDiscoveryPercentile": 75.0941
   },
   "context": {
     "primaryProfile": "medical-career",

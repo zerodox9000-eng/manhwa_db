@@ -2,23 +2,25 @@
   "id": 598277,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Bulmyeongye Gyeyak",
+  "display_title": "Humiliation Contract",
   "mangabaka_title": "Bulmyeongye Gyeyak",
-  "native_title": "[성비단 무단사정금지] 불명예 계약",
+  "native_title": "불명예 계약",
   "romanized_title": "Bulmyeongye Gyeyak",
   "titles": [
     {
       "language": "ko",
       "title": "불명예 계약",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[성비단 무단사정금지] 불명예 계약",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -31,14 +33,30 @@
     {
       "language": "ko-Latn",
       "title": "Bulmyeongye Gyeyak",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Contract of Dishonor",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Humiliation Contract",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "“Is a soldier even allowed to film a show like this?”\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000079752)",
+  "description": "After South Korea’s economy collapsed, human rights for criminals are no longer respected in the chaotic society that followed. “Deep Fence” is an app created to force them to host adult live streams and raise capital. Private First Class Yu Ju-Heon, on leave for the first time in a long while, uploads a photo of himself in his military uniform to the app as a joke, and, elated by the substantial donation of $3,000, drinks with a friend until they’re both completely drunk. The next day, Ju-Heon wakes up with a terrible hangover before returning to duty and checks the notification from the app...\n\n *“Are you really a soldier? I can see your face and even your rank insignia—I’m going to report you.”*\n\n(Source: MrBlue, translated)\n\n*Note: Includes three extra chapters.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84LzIvYS9mLzkvZC9lL2YvMDFiZS80MzI0LzhiNTAvYTYwNGZmNjgyY2Zl",
-  "total_chapters": "5",
+  "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
@@ -51,14 +69,14 @@
   },
   "first_seen_at": "2026-07-25T04:05:16.131Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-01T09:08:21.346Z",
+  "last_updated_at": "2026-11-02T11:46:21.492Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "OFFCAR"
+    "Offcar"
   ],
   "artists": [
-    "OFFCAR"
+    "Offcar"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/598277",
@@ -66,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219338,
+      "rating": null,
+      "url": "https://anilist.co/manga/219338"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "xulyb7m",
@@ -77,18 +99,35 @@
   "tag_ids": [
     46,
     41,
-    16
+    180,
+    16,
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7408,
+    "popularityPercentile": 0.4252,
+    "fanFavouriteDiscoveryScore": 5.3584,
+    "fanFavouriteDiscoveryPercentile": 0.4113
   },
   "context": {
     "primaryProfile": "modern-korea",
