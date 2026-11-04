@@ -171,7 +171,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.147Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-02T05:30:05.285Z",
+  "last_updated_at": "2026-11-03T06:54:40.975Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -223,7 +223,9 @@
     405,
     486,
     4124,
+    106,
     2985,
+    3018,
     1311,
     3533,
     20,
@@ -243,6 +245,7 @@
     31,
     699,
     350,
+    499,
     361,
     1090,
     9,
@@ -258,8 +261,11 @@
     7332
   ],
   "spoiler_tag_ids": [
+    106,
+    174,
     3200,
     309,
+    499,
     235
   ],
   "tag_weights": {
@@ -277,6 +283,7 @@
     "75": "defining",
     "93": "unweighted",
     "94": "defining",
+    "106": "defining",
     "127": "unweighted",
     "158": "unweighted",
     "165": "defining",
@@ -285,14 +292,15 @@
     "235": "defining",
     "266": "defining",
     "295": "defining",
-    "309": "recurrent",
+    "309": "defining",
     "350": "defining",
     "361": "defining",
     "405": "unweighted",
     "428": "unweighted",
     "450": "defining",
     "486": "defining",
-    "503": "defining",
+    "499": "defining",
+    "503": "recurrent",
     "577": "core",
     "590": "defining",
     "699": "unweighted",
@@ -305,6 +313,7 @@
     "2271": "defining",
     "2879": "recurrent",
     "2985": "defining",
+    "3018": "defining",
     "3200": "defining",
     "3315": "defining",
     "3533": "recurrent",
@@ -314,16 +323,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 3403,
+    "popularity": 3407,
     "favourites": 53,
     "meanScore": 67
   },
   "analytics": {
-    "fanFavouriteRaw": 1.5574,
-    "fanRatioPercentile": 65.8999,
-    "popularityPercentile": 93.2107,
-    "fanFavouriteDiscoveryScore": 65.7526,
-    "fanFavouriteDiscoveryPercentile": 74.1113
+    "fanFavouriteRaw": 1.5556,
+    "fanRatioPercentile": 65.9213,
+    "popularityPercentile": 93.2079,
+    "fanFavouriteDiscoveryScore": 65.7739,
+    "fanFavouriteDiscoveryPercentile": 74.1205
   },
   "context": {
     "primaryProfile": "medical-career",

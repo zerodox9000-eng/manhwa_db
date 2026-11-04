@@ -17,21 +17,21 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "E.T.A.",
-      "traits": [
-        "native"
-      ],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "en",
       "title": "E.T.A.",
       "traits": [
         "official"
       ],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "E.T.A.",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -94,7 +94,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.736Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-02T19:04:48.498Z",
+  "last_updated_at": "2026-11-03T19:09:01.998Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -113,7 +113,7 @@
   "source": {
     "anilist": {
       "id": 203231,
-      "rating": 55,
+      "rating": 54,
       "url": "https://anilist.co/manga/203231"
     },
     "animeplanet": {
@@ -166,33 +166,33 @@
     "46": "defining",
     "57": "unweighted",
     "93": "unweighted",
-    "95": "incidental",
-    "97": "unweighted",
+    "95": "core",
+    "97": "core",
     "169": "incidental",
     "172": "incidental",
     "180": "defining",
-    "230": "incidental",
-    "238": "unweighted",
+    "230": "core",
+    "238": "core",
     "428": "unweighted",
-    "534": "unweighted",
-    "875": "unweighted",
-    "880": "unweighted",
-    "984": "unweighted",
+    "534": "core",
+    "875": "core",
+    "880": "core",
+    "984": "core",
     "1167": "unweighted",
-    "1947": "unweighted",
+    "1947": "core",
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 70,
+    "popularity": 71,
     "favourites": null,
-    "meanScore": 55
+    "meanScore": 54
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.7408,
-    "popularityPercentile": 31.5558,
-    "fanFavouriteDiscoveryScore": 23.6952,
-    "fanFavouriteDiscoveryPercentile": 25.7493
+    "fanRatioPercentile": 32.7273,
+    "popularityPercentile": 31.7729,
+    "fanFavouriteDiscoveryScore": 23.8032,
+    "fanFavouriteDiscoveryPercentile": 25.8656
   },
   "context": {
     "primaryProfile": "business-career-regression",

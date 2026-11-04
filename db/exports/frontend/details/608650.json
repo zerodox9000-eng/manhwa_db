@@ -5,39 +5,52 @@
   "display_title": "Hidden Cast",
   "mangabaka_title": "Hidden Cast",
   "native_title": "히든 캐스트",
-  "romanized_title": null,
+  "romanized_title": "Hidden Cast",
   "titles": [
     {
       "language": "ko",
       "title": "히든 캐스트",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Hidden Cast",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Hidden Cast",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**  \nLezhin\n\n**Official Translations:**  \nEnglish, Spanish, Thai, T.Chinese, Japanese\n\n##### Note: This series is a global release, meaning all official translations come out on the same day as the original Korean.",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNjc4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxOTM4OS1KRFFNM0pFTWdSZ2MucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "upcoming",
   "content_rating": "erotica",
   "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-29T00:42:21.300Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-03T00:01:27.894Z",
+  "last_updated_at": "2026-11-03T23:22:15.760Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +65,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219389,
+      "rating": null,
+      "url": "https://anilist.co/manga/219389"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "u9h9zoe",
@@ -63,17 +80,26 @@
   "tag_ids": [
     36,
     41,
+    180,
     16
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "36": "defining",
+    "41": "defining",
+    "180": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7273,
+    "popularityPercentile": 0.1463,
+    "fanFavouriteDiscoveryScore": 5.2529,
+    "fanFavouriteDiscoveryPercentile": 0.1393
   }
 }

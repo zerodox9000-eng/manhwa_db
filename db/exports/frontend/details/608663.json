@@ -10,34 +10,38 @@
     {
       "language": "ko",
       "title": "도와준 로맨스",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "ko-Latn",
       "title": "Dowajun Romance",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**  \nMrBlue",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNTQxLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTM3OS1iRHNGNXdJR2lFYjYucG5n",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "upcoming",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-30T00:42:29.449Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-02T01:22:51.901Z",
+  "last_updated_at": "2026-11-03T22:40:15.682Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +56,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219379,
+      "rating": null,
+      "url": "https://anilist.co/manga/219379"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6op33zp",
@@ -61,18 +69,32 @@
     }
   },
   "tag_ids": [
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7273,
+    "popularityPercentile": 0.6897,
+    "fanFavouriteDiscoveryScore": 5.4556,
+    "fanFavouriteDiscoveryPercentile": 0.6548
   }
 }
