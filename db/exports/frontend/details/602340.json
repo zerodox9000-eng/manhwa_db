@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Master Appeared",
-  "mangabaka_title": "The Master Appeared",
+  "mangabaka_title": "Juinnimi Natanatda",
   "native_title": "주인님이 나타났다",
-  "romanized_title": null,
+  "romanized_title": "Juinnimi Natanatda",
   "titles": [
     {
       "language": "ko",
       "title": "주인님이 나타났다",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Juinnimi Natanatda",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,28 +48,28 @@
     }
   ],
   "description": "\"Ah, I want to have sex so bad!!!!!\"\n\nYeonwoo, who has been job-hunting for half a year, has also been single for a year since breaking up with her boyfriend—meaning it's been a full year since her last time. With a submissive inclination (she loves being pounded like a dog), Yeonwoo is starving for sex.\n\nUnable to fight her surging libido any longer, she ends up buying a dildo.   \n\nWait, did she buy one this big...?  \n\nShe hasn't even inserted half of it yet, but she already feels completely full. It's so thick that it's hard to move.   \n\n(Mid-enjoyment)  \n\nDing-dong, ding-dong, BANG! BANG! BANG! BANG!   \n\n\"Lim Yeonwoo-ssi, have you already used it? The house smells like absolute chaos.\"   \n\n\"Who the hell are you to barge into someone else's home and meddle in their private life?!\"   \n\n\"Can you really say that after getting caught masturbating with an item modeled after my body?\"  \n\n\"H-How am I supposed to believe that thing was modeled after your... down there?!\"   \n\n\"That's easy. I'll prove it to you.\"\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/masters_appearance)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS1tYXN0ZXItYXBwZWFyZWQtMS53ZWJwP3Q9MTc4OTA5Mzk2OQ",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNjU5MS1EZEZDdUNmdjMxbkkuanBn",
   "total_chapters": "11",
   "status": "releasing",
-  "content_rating": "erotica",
+  "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-09",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-10T05:14:05.367Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-04T17:06:56.621Z",
+  "last_updated_at": "2026-11-05T17:06:51.778Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jjwamul"
+    "Mojo"
   ],
   "artists": [
-    "Mojo"
+    "Jjwamul"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/602340",
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 216591,
+      "rating": 37,
+      "url": "https://anilist.co/manga/216591"
+    },
     "animeplanet": {
       "id": "the-master-appeared",
       "rating": null,
@@ -80,9 +95,13 @@
   },
   "tag_ids": [
     43,
+    59,
+    108,
     46,
+    10,
     15,
     41,
+    109,
     31,
     93,
     57,
@@ -90,14 +109,31 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "10": "defining",
+    "15": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "93": "unweighted",
+    "108": "unweighted",
+    "109": "incidental",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 37
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7208,
+    "popularityPercentile": 4.6843,
+    "fanFavouriteDiscoveryScore": 7.139,
+    "fanFavouriteDiscoveryPercentile": 4.399
   }
 }

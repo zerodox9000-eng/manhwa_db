@@ -2,7 +2,7 @@
   "id": 599451,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Bujeong Piryo Eopseuseyo?",
+  "display_title": "Don't You Need a Talisman?",
   "mangabaka_title": "Bujeong Piryo Eopseuseyo?",
   "native_title": "부적 필요 없으세요?",
   "romanized_title": "Bujeong Piryo Eopseuseyo?",
@@ -24,9 +24,16 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Don't You Need a Talisman?",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "[Original Webtoon](https://www.mrblue.com/webtoon/wt_000082243)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNDkyMi1Lblp0Y1Q3eE1Eb3MucG5n",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +48,7 @@
   },
   "first_seen_at": "2026-08-11T02:45:55.739Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-04T02:46:16.864Z",
+  "last_updated_at": "2026-11-05T17:27:16.665Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,27 +69,37 @@
       "url": "https://anilist.co/manga/214922"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "szmtjai",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/szmtjai"
+    }
   },
   "tag_ids": [
     22,
-    180
+    46,
+    180,
+    16,
+    31
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "16": "defining",
     "22": "defining",
+    "31": "defining",
+    "46": "defining",
     "180": "incidental"
   },
   "stats": {
-    "popularity": 7,
+    "popularity": 8,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6926,
-    "popularityPercentile": 3.162,
-    "fanFavouriteDiscoveryScore": 6.4507,
-    "fanFavouriteDiscoveryPercentile": 2.96
+    "fanRatioPercentile": 32.7208,
+    "popularityPercentile": 3.8769,
+    "fanFavouriteDiscoveryScore": 6.7706,
+    "fanFavouriteDiscoveryPercentile": 3.6264
   }
 }

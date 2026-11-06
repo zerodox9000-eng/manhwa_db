@@ -2,15 +2,26 @@
   "id": 607651,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Poeun: The Star of Imgo",
-  "mangabaka_title": "Poeun: The Star of Imgo",
+  "display_title": "Poeun: Imgoui Byeol",
+  "mangabaka_title": "Poeun: Imgoui Byeol",
   "native_title": "포은 : 임고의 별",
-  "romanized_title": "Poeun: The Star of Imgo",
+  "romanized_title": "Poeun: Imgoui Byeol",
   "titles": [
     {
       "language": "ko",
       "title": "포은 : 임고의 별",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Poeun: Imgoui Byeol",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,33 +29,33 @@
       "language": "ko-Latn",
       "title": "Poeun: The Star of Imgo",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856243)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwODA5LnBuZw",
+  "description": "The story of Yeongcheon's last Samseonhyeon, presented by Mubeon, author of \\*The Crown Prince's Entrance\\*, and Eo Sa-Hwa, author of \\*An Extraordinary Night\\*. How did Jeong Mong-Ju become the guardian deity of Yeongcheon? This content is a brand webtoon produced by the Gyeongbuk Cultural Foundation Content Agency and Yeongcheon City.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTQwMy1tSzRSVkdic1FuNnUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-19",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-20T00:42:14.924Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-20T16:33:18.073Z",
+  "last_updated_at": "2026-11-05T07:42:43.626Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Mubeon"
   ],
   "artists": [
-    "Eosahwa"
+    "Sa-hwa Eo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/607651",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219403,
+      "rating": null,
+      "url": "https://anilist.co/manga/219403"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "x9riz3z",
@@ -63,17 +78,30 @@
   "tag_ids": [
     39,
     31,
-    45
+    45,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "31": "defining",
+    "39": "defining",
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7208,
+    "popularityPercentile": 0.7239,
+    "fanFavouriteDiscoveryScore": 5.4675,
+    "fanFavouriteDiscoveryPercentile": 0.6891
   }
 }
