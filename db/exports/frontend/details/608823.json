@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Jeans of Destiny",
-  "mangabaka_title": "Jeans of Destiny",
+  "mangabaka_title": "Unmyeongui Cheongbaji",
   "native_title": "운명의 청바지",
-  "romanized_title": null,
+  "romanized_title": "Unmyeongui Cheongbaji",
   "titles": [
     {
       "language": "ko",
       "title": "운명의 청바지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,24 +22,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Unmyeongui Cheongbaji",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Jaeha, a timid young man, loses 25 kilograms just to fit into a single pair of jeans. Between his kindhearted classmate Haesol and his prickly part-time coworker Sieun, he finds himself caught in a whirlwind of first love—something he always thought only happened to other people.\n\n**Original Webtoon:**  \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856758), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14933674)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNzg0LmpwZw",
+  "description": "Jae-Ha, a shy guy who lost 25 kg just to fit into a pair of jeans. Caught between his sweet girlfriend Hae-Sol and his prickly coworker Si-Eun, he finds himself falling for his first love, something he thought only happened to other people.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTUyMi1DUXEybUpvbUJNNDMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-30",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-31T00:42:12.077Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-02T17:44:38.033Z",
+  "last_updated_at": "2026-11-06T09:06:11.200Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219522,
+      "rating": 77,
+      "url": "https://anilist.co/manga/219522"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "cdbne89",
@@ -61,19 +76,38 @@
     }
   },
   "tag_ids": [
+    58,
     107,
+    108,
+    31,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "unweighted",
+    "42": "defining",
+    "57": "unweighted",
+    "58": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7304,
+    "popularityPercentile": 0.7304,
+    "fanFavouriteDiscoveryScore": 5.4716,
+    "fanFavouriteDiscoveryPercentile": 0.6957
   }
 }

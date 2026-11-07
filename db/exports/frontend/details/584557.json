@@ -2,8 +2,8 @@
   "id": 584557,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Maem Maem",
-  "mangabaka_title": "Mem Mem",
+  "display_title": "Echoes of Summer",
+  "mangabaka_title": "Echoes of Summer",
   "native_title": "맴맴",
   "romanized_title": "Mem Mem",
   "titles": [
@@ -33,15 +33,17 @@
     {
       "language": "en",
       "title": "Echoes of Summer",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Maem Maem",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -96,7 +98,7 @@
       "note": null
     }
   ],
-  "description": "*“I want to kiss you, Prosecutor.”*\n\nIt’s early June, when the wisteria blossoms adorn the walls and the air is filled with the scent of wisteria flowers. A romance filled with the scent of summer between Seung-Ju, a man of few words who has arrived in the vibrantly colorful town of Neunghwa-ri, and Na-Kyung, a woman as bright and dazzling as sunlight.\n\n(Source: Ridibooks, translated)",
+  "description": "In early June, Officer Na-Kyung meets Seung-Ju, a stranger in a foreign car, at an accident scene. That night, mistaking him for a threat, she strikes—only to learn he is a newly appointed prosecutor staying at her family home. As their days intertwine, a quiet, restless flutter begins to bloom in her heart.\n\n(Source: Manta)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMDk4Mi1qbm9SeThLVjZmMHkucG5n",
   "total_chapters": "29",
   "status": "releasing",
@@ -111,7 +113,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-05T16:43:37.018Z",
+  "last_updated_at": "2026-11-06T16:43:59.478Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -123,8 +125,11 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/584557",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://manta.net/en/series/echoes-of-summer-full-ver?seriesId=4319",
+    "read_en_all": [
+      "https://manta.net/en/series/echoes-of-summer-full-ver?seriesId=4319",
+      "https://manta.net/en/series/echoes-of-summer?seriesId=4320"
+    ]
   },
   "source": {
     "anilist": {
@@ -171,10 +176,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.7208,
-    "popularityPercentile": 5.4709,
-    "fanFavouriteDiscoveryScore": 7.5116,
-    "fanFavouriteDiscoveryPercentile": 5.1577
+    "fanRatioPercentile": 32.7304,
+    "popularityPercentile": 5.4957,
+    "fanFavouriteDiscoveryScore": 7.5258,
+    "fanFavouriteDiscoveryPercentile": 5.1826
   },
   "context": {
     "primaryProfile": "romance-core",

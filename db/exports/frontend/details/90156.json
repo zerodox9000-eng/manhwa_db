@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Hidden Memories",
-  "mangabaka_title": "Hidden Memories",
-  "native_title": "隠された記憶",
-  "romanized_title": null,
+  "mangabaka_title": "Garyeojin Gieok",
+  "native_title": "가려진 기억",
+  "romanized_title": "Garyeojin Gieok",
   "titles": [
     {
       "language": "ko",
       "title": "가려진 기억",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Garyeojin Gieok",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,28 +41,28 @@
     }
   ],
   "description": "A coming-of-age drama about a group of children who try to fulfill the wishes of an old friend from their childhood.\n\nHan So-hee believes in precognitive dreams, but the man of her dreams is someone else entirely.\n\nPlagued by bullying and unable to connect with her friends, Han So-hee gradually opens her mind to uncover truths that are very different from her dreams...\n\n**Original Webtoon:**  \n[Ridibooks](https://ridibooks.com/books/4421003629), [KakaoPage](https://page.kakao.com/content/63165459), [Naver Series](https://series.naver.com/comic/detail.series?productNo=10484197), [MrBlue](https://www.mrblue.com/webtoon/wt_000061213), [Bomtoon](https://www.bomtoon.com/detail/HiddenMemory)\n\n**Official Translations:**  \n[Japanese](https://piccoma.com/web/product/163428)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L2hpZGRlbi1tZW1vcmllcy0xLndlYnA_dD0xNjkzODcwNDg1",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTY2MS1HNlo1ekZTanlod1YuanBn",
   "total_chapters": "35",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2023,
   "published": {
-    "start_date": "2023-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2023-09-04",
+    "end_date": "2024-02-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-04T15:10:54.817Z",
+  "last_updated_at": "2026-11-06T23:36:47.394Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "27sin"
+    "27 Sin"
   ],
   "artists": [
-    "27sin"
+    "27 Sin"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/90156",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219661,
+      "rating": null,
+      "url": "https://anilist.co/manga/219661"
+    },
     "animeplanet": {
       "id": "hidden-memories",
       "rating": null,
@@ -73,6 +88,7 @@
   },
   "tag_ids": [
     107,
+    108,
     31,
     9,
     7,
@@ -83,15 +99,29 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "7": "defining",
+    "9": "defining",
+    "31": "defining",
+    "42": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7304,
+    "popularityPercentile": 0.1739,
+    "fanFavouriteDiscoveryScore": 5.2636,
+    "fanFavouriteDiscoveryPercentile": 0.167
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Spring in Winter",
-  "mangabaka_title": "Spring in Winter",
+  "mangabaka_title": "Gyeourui Bom",
   "native_title": "겨울의 봄",
-  "romanized_title": null,
+  "romanized_title": "Gyeourui Bom",
   "titles": [
     {
       "language": "ko",
       "title": "겨울의 봄",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gyeourui Bom",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,22 +33,22 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**    \n[Tobe Aladin](https://tobe.aladin.co.kr/s/13443), [Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=397357073), [Ridibooks](https://ridibooks.com/books/6121000545), [Bomtoon](https://www.bomtoon.com/detail/winter_spring)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM0NjQ1LmpwZw",
+  "description": "*Note: Originally self-published on the author's Aladin account. Published by Ridibooks on 2026-08-02.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTY2Mi13ZFBYVHFJT1R2QlouanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2024-12-02",
+    "end_date": "2024-12-03",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-08-05T03:51:42.698Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-19T17:35:53.572Z",
+  "last_updated_at": "2026-11-06T23:46:17.494Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219662,
+      "rating": null,
+      "url": "https://anilist.co/manga/219662"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "f0vqynd",
@@ -62,18 +77,29 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    9
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "180": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7304,
+    "popularityPercentile": 0.1739,
+    "fanFavouriteDiscoveryScore": 5.2636,
+    "fanFavouriteDiscoveryPercentile": 0.167
   }
 }

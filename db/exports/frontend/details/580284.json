@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "30,000 Miles to Find My Husband",
-  "mangabaka_title": "30,000 Miles to Find My Husband",
+  "mangabaka_title": "Seobang Chaja Sammalli",
   "native_title": "서방 찾아 삼만리",
-  "romanized_title": null,
+  "romanized_title": "Seobang Chaja Sammalli",
   "titles": [
     {
       "language": "ko",
       "title": "서방 찾아 삼만리",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,6 +45,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Seobang Chaja Sammalli",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Traveling Thirty Thousand Li in Search of the West",
       "traits": [],
@@ -58,28 +69,28 @@
     }
   ],
   "description": "Young-ha, who has long dreamed of a spring-like love, is about to marry Seo-ju, whom she has been secretly in love with. She eagerly awaits her first night with Seo-ju, who has become her husband, but Seo-ju must leave for the north to defend the country. It is said that it will be at least five years before Seo-ju returns after the war. Unable to wait for Seo-ju indefinitely, Young-ha sets out for the north to meet her husband herself…\n\n**Original Webtoon:**   \n[Lezhin](https://www.lezhin.com/ko/comic/finding_my_husband), [Bomtoon](https://www.bomtoon.com/detail/finding_my_husband)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5LzMwMDAwLW1pbGVzLXRvLWZpbmQtbXktaHVzYmFuZC0xLndlYnA_dD0xNzcyNTY4NzIz",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTYwNS1UQkZMeHVGM0EzVjEuanBn",
   "total_chapters": "7",
   "status": "completed",
   "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-02-23",
+    "end_date": "2026-03-09",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-03T01:34:40.775Z",
+  "last_updated_at": "2026-11-06T02:36:12.923Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Saend"
+    "Sand"
   ],
   "artists": [
-    "Jojo (조조)"
+    "Jojo"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/580284",
@@ -87,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219605,
+      "rating": null,
+      "url": "https://anilist.co/manga/219605"
+    },
     "animeplanet": {
       "id": "30000-miles-to-find-my-husband",
       "rating": null,
@@ -102,6 +117,7 @@
   "tag_ids": [
     43,
     12,
+    108,
     46,
     10,
     41,
@@ -116,15 +132,34 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "10": "defining",
+    "12": "defining",
+    "29": "defining",
+    "31": "defining",
+    "37": "defining",
+    "41": "defining",
+    "43": "defining",
+    "45": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7304,
+    "popularityPercentile": 0.1739,
+    "fanFavouriteDiscoveryScore": 5.2636,
+    "fanFavouriteDiscoveryPercentile": 0.167
   },
   "context": {
     "primaryProfile": "regression-return",

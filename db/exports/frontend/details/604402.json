@@ -2,15 +2,26 @@
   "id": 604402,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Soldier Requiring Special Attention",
-  "mangabaka_title": "Soldier Requiring Special Attention",
+  "display_title": "Special Attention Soldier",
+  "mangabaka_title": "Special Attention Soldier",
   "native_title": "관심병사",
-  "romanized_title": null,
+  "romanized_title": "Gwansimbyeongsa",
   "titles": [
     {
       "language": "ko",
       "title": "관심병사",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gwansimbyeongsa",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,33 +29,35 @@
       "language": "en",
       "title": "Soldier Requiring Special Attention",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Special Attention Soldier",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
   "description": "[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9091)\n\n\n**Official Translations:**  \n[English](https://toomics.com/en/webtoon/episode/toon/9091)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4Njk0LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIxOTQyMy00ZklQOGpHektOb1UuanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "erotica",
-  "is_licensed": false,
+  "status": "releasing",
+  "content_rating": "pornographic",
+  "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-16",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-19T05:03:46.247Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-05T19:59:53.632Z",
+  "last_updated_at": "2026-11-07T00:12:35.403Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +72,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219423,
+      "rating": 35,
+      "url": "https://anilist.co/manga/219423"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3szu40u",
@@ -69,21 +86,43 @@
   },
   "tag_ids": [
     8,
+    58,
     20,
     46,
+    10,
     15,
     41,
-    31
+    109,
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "8": "defining",
+    "10": "unweighted",
+    "15": "defining",
+    "20": "defining",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "58": "unweighted",
+    "93": "unweighted",
+    "109": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 10,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 35
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7304,
+    "popularityPercentile": 5.4957,
+    "fanFavouriteDiscoveryScore": 7.5258,
+    "fanFavouriteDiscoveryPercentile": 5.1826
   }
 }
