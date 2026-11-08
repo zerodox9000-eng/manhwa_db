@@ -3,8 +3,8 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Dream Pavilion and the Butterfly That Cannot Sleep",
-  "mangabaka_title": "The Dream Pavilion and the Butterfly That Cannot Sleep",
-  "native_title": "こちらの世界でもあなたのものにしてください",
+  "mangabaka_title": "Mugenrou to Nemurenu Chou: Ayashi Yuukaku de Kairaku ni Tokasarete",
+  "native_title": "夢幻楼と眠れぬ蝶～妖し遊郭で快楽に溶かされて～",
   "romanized_title": "Mugen Rou to Nemurenai Chou",
   "titles": [
     {
@@ -18,6 +18,15 @@
       "language": "ja-Latn",
       "title": "Mugen Rou to Nemurenai Chou",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ja-Latn",
+      "title": "Mugenrou to Nemurenu Chou: Ayashi Yuukaku de Kairaku ni Tokasarete",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -39,7 +48,7 @@
       "language": "ja",
       "title": "こちらの世界でもあなたのものにしてください",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -52,35 +61,37 @@
     {
       "language": "ja",
       "title": "夢幻楼と眠れぬ蝶～妖し遊郭で快楽に溶かされて～",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
   "description": "Yumeka, who suffered from severe insomnia.\nOne day, a 'fragrance' offered by a stranger changes her destiny.\n\nThat night, lighting the fragrance in desperation, Yumeka, drawn into sleep, finds herself stepping into `Monghwanru` (Dreamland Pavilion), a brothel where demons sell nights at the boundary of dream and reality…\n\nThere, she encounters Yato. His somehow familiar face and an irresistible, strange touch.\n\nEven knowing it's a dream, Yumeka helplessly surrenders herself to his temptation, spending sweet yet dangerous nights…\n\n**Original Webtoon:**   \nR19: [RIDI](https://ridibooks.com/books/6156000001), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14235535)     \nR15: [RIDI](https://ridibooks.com/books/6156000021), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14254345) \n\n**Official Translations:**   \nR19: [Japanese](https://jp.piccoma.com/web/product/183787)    \nR15: [Japanese](https://jp.piccoma.com/web/product/183786)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTE1MjA2LnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwNzExNy11M3lkR2tOSVZIb0guanBn",
   "total_chapters": "30",
-  "status": "completed",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-11-22",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-05T19:50:46.355Z",
+  "last_updated_at": "2026-11-07T06:31:10.400Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Chokam",
-    "EXNOA LLC"
+    "EXNOA"
   ],
   "artists": [
-    "Kim Vita"
+    "VITA KIM"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/577467",
@@ -88,8 +99,16 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
+    "anilist": {
+      "id": 207117,
+      "rating": 85,
+      "url": "https://anilist.co/manga/207117"
+    },
+    "animeplanet": {
+      "id": "the-dream-pavilion-and-the-butterfly-that-cannot-sleep",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-dream-pavilion-and-the-butterfly-that-cannot-sleep"
+    },
     "mangaupdates": {
       "id": "0rgcdyp",
       "rating": null,
@@ -98,22 +117,48 @@
   },
   "tag_ids": [
     43,
+    59,
+    108,
+    36,
     46,
     41,
+    160,
     31,
     9,
-    7
+    7,
+    93,
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "7": "defining",
+    "9": "defining",
+    "31": "defining",
+    "36": "unweighted",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "160": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
-    "meanScore": null
+    "popularity": 14,
+    "favourites": 1,
+    "meanScore": 85
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 7.1429,
+    "fanRatioPercentile": 99.117,
+    "popularityPercentile": 8.4822,
+    "fanFavouriteDiscoveryScore": 27.447,
+    "fanFavouriteDiscoveryPercentile": 29.7713
   },
   "context": {
     "primaryProfile": "modern-korea",

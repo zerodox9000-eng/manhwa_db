@@ -5,7 +5,7 @@
   "display_title": "My Boss's Proposal",
   "mangabaka_title": "My Boss's Proposal",
   "native_title": "상사의 청혼",
-  "romanized_title": null,
+  "romanized_title": "Sangsaui Cheonghon",
   "titles": [
     {
       "language": "ko",
@@ -21,6 +21,15 @@
       "title": "My Boss's Proposal",
       "traits": [
         "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sangsaui Cheonghon",
+      "traits": [
+        "native"
       ],
       "is_primary": true,
       "note": null
@@ -54,7 +63,7 @@
       "note": null
     }
   ],
-  "description": "When Saebom's boss Jiheon asked her out for lunch, the last thing she expected was to be given a ring and introduced to his parents as his lover. As if that wasn't enough, he even proposes a fake marriage to her. But Saebom, who dreams of finding true love, declines his absurd offer and tries to take off the ring he put on her... and discovers that both of them can't get their rings off. Will they succeed in removing them? Or will they be stuck with each other forever?\n\n**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/62107971), [Daum](https://webtoon.kakao.com/content/%EC%83%81%EC%82%AC%EC%9D%98-%EC%B2%AD%ED%98%BC/3580)\n\n**Official Translations:**  \n[English](https://tapas.io/series/my-bosss-proposal/info), [Japanese](https://jp.piccoma.com/web/product/159083),   \n[S.Chinese](https://pdt.tencentac.com/?contentId=640)",
+  "description": "When Sae-Bom's boss Ji-Heon asked her out for lunch, the last thing she expected was to be given a ring and introduced to his parents as his lover. As if that wasn't enough, he even proposes a fake marriage to her. But Sae-Bom, who dreams of finding true love, declines his absurd offer and tries to take off the ring he put on her... and discovers that both of them can't get their rings off. Will they succeed in removing them? Or will they be stuck with each other forever?\n\n(Source: Tapas)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9mL2MvZS83LzcvMi9mLzQvNGM5ZC80MDYyL2E3NmQvYzk5M2ZmOGQ0YTBi",
   "total_chapters": "60",
   "status": "completed",
@@ -69,15 +78,15 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.149Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-03T12:31:01.732Z",
+  "last_updated_at": "2026-11-07T21:36:24.212Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kim Ttungttang",
-    "Peach (Happy Books To You)"
+    "Pipeach",
+    "Ttungttang Kim"
   ],
   "artists": [
-    "Plan B (Gonggam Media)"
+    "PlanB"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/92239",
@@ -85,7 +94,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219690,
+      "rating": null,
+      "url": "https://anilist.co/manga/219690"
+    },
     "animeplanet": {
       "id": "my-bosss-proposal",
       "rating": 74,
@@ -103,9 +116,12 @@
     159,
     59,
     74,
+    429,
+    108,
     576,
     661,
     22,
+    6,
     9,
     93,
     57,
@@ -113,15 +129,35 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "unweighted",
+    "9": "defining",
+    "22": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "59": "core",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "159": "unweighted",
+    "248": "unweighted",
+    "428": "unweighted",
+    "429": "unweighted",
+    "576": "unweighted",
+    "661": "core",
+    "7332": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7261,
+    "popularityPercentile": 0.153,
+    "fanFavouriteDiscoveryScore": 5.2552,
+    "fanFavouriteDiscoveryPercentile": 0.146
   },
   "context": {
     "primaryProfile": "business-career-regression",

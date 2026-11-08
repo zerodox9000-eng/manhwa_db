@@ -5,7 +5,7 @@
   "display_title": "FFF-Class Trashero",
   "mangabaka_title": "FFF-Class Trashero",
   "native_title": "FFF급 관심용사",
-  "romanized_title": "FFF-Class Trashero (Manhwa)",
+  "romanized_title": "FFF Geum Gwansimyongsa",
   "titles": [
     {
       "language": "ko",
@@ -26,13 +26,6 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "FFF-Class Trashero (Manhwa)",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "en",
       "title": "FFF-Class Trash Hero",
       "traits": [],
@@ -49,9 +42,11 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "FFF-geup Gwansim Yongsa",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -84,19 +79,17 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "ja-Latn",
       "title": "Jinkaku FFF-kyū no Tame Maō Tōbatsu Yarinaoshi ni Narimashita",
-      "traits": [
-        "native"
-      ],
-      "is_primary": false,
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ja-Latn",
       "title": "Jinkaku FFF-kyuu no Tame Maou Toubatsu Yarinaoshi ni Narimashita",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -143,7 +136,7 @@
   },
   "first_seen_at": "2026-06-10T15:41:08.376Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-06T21:20:05.899Z",
+  "last_updated_at": "2026-11-07T12:42:20.746Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -299,16 +292,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 24927,
+    "popularity": 24941,
     "favourites": 864,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 3.4661,
-    "fanRatioPercentile": 93.0852,
-    "popularityPercentile": 99.5548,
-    "fanFavouriteDiscoveryScore": 92.9624,
-    "fanFavouriteDiscoveryPercentile": 96.2087
+    "fanFavouriteRaw": 3.4642,
+    "fanRatioPercentile": 93.096,
+    "popularityPercentile": 99.5481,
+    "fanFavouriteDiscoveryScore": 92.9732,
+    "fanFavouriteDiscoveryPercentile": 96.2317
   },
   "context": {
     "primaryProfile": "business-career-regression",
