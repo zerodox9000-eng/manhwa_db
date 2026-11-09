@@ -24,8 +24,8 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
-      "title": "Agyeogui Ending-eun Jugeumppun",
+      "language": "ko",
+      "title": "Agyeogui Ending-Eun Jugeumppun",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -37,6 +37,13 @@
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "Akuyaku no Ending wa Shi nomi",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -71,7 +78,7 @@
       "language": "es",
       "title": "El único final de la villana es la muerte",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -146,8 +153,10 @@
     },
     {
       "language": "de",
-      "title": "Penelope - Das Böse ist dem Tod geweiht",
-      "traits": [],
+      "title": "Penelope – Das Böse ist dem Tod geweiht",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -184,6 +193,15 @@
       "title": "The Villain's Ending Is Death",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "Villains are destined to die",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -323,7 +341,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.184Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-07T19:01:02.753Z",
+  "last_updated_at": "2026-11-08T13:30:26.053Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -379,6 +397,7 @@
     1403,
     692,
     72,
+    4447,
     3224,
     3706,
     158,
@@ -400,6 +419,7 @@
     1161,
     3460,
     3017,
+    2970,
     166,
     75,
     74,
@@ -442,6 +462,7 @@
     4050,
     1010,
     399,
+    3081,
     3160,
     3317,
     3315,
@@ -580,11 +601,13 @@
     "2628": "unweighted",
     "2883": "unweighted",
     "2897": "defining",
+    "2970": "unweighted",
     "2985": "recurrent",
     "3017": "defining",
     "3018": "core",
     "3031": "recurrent",
     "3056": "core",
+    "3081": "unweighted",
     "3117": "recurrent",
     "3160": "core",
     "3174": "core",
@@ -608,19 +631,20 @@
     "3802": "recurrent",
     "4050": "recurrent",
     "4368": "incidental",
+    "4447": "unweighted",
     "5302": "recurrent",
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 44308,
-    "favourites": 4046,
+    "popularity": 44327,
+    "favourites": 4050,
     "meanScore": 84
   },
   "analytics": {
-    "fanFavouriteRaw": 9.1315,
-    "fanRatioPercentile": 99.5342,
-    "popularityPercentile": 99.8331,
-    "fanFavouriteDiscoveryScore": 99.4059,
+    "fanFavouriteRaw": 9.1366,
+    "fanRatioPercentile": 99.5343,
+    "popularityPercentile": 99.8332,
+    "fanFavouriteDiscoveryScore": 99.406,
     "fanFavouriteDiscoveryPercentile": 99.9374
   },
   "context": {
