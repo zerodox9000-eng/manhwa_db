@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-08T22:00:15.875Z",
+  "last_updated_at": "2026-11-09T22:02:18.765Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -86,7 +86,11 @@
       "rating": 39,
       "url": "https://anilist.co/manga/208439"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ex-husband-for-hire",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ex-husband-for-hire"
+    },
     "mangaupdates": {
       "id": "sma6drt",
       "rating": 62,
@@ -104,7 +108,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -118,19 +123,20 @@
     "93": "unweighted",
     "118": "incidental",
     "180": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 91,
+    "popularity": 92,
     "favourites": 1,
     "meanScore": 39
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0989,
-    "fanRatioPercentile": 51.8037,
-    "popularityPercentile": 35.824,
-    "fanFavouriteDiscoveryScore": 40.8711,
-    "fanFavouriteDiscoveryPercentile": 45.7983
+    "fanFavouriteRaw": 1.087,
+    "fanRatioPercentile": 51.3928,
+    "popularityPercentile": 36.0333,
+    "fanFavouriteDiscoveryScore": 40.6954,
+    "fanFavouriteDiscoveryPercentile": 45.5505
   },
   "context": {
     "primaryProfile": "romance-core",

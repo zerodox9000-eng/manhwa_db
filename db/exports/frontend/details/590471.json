@@ -78,7 +78,7 @@
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T07:11:30.629Z",
+  "last_updated_at": "2026-11-09T23:06:30.281Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -100,7 +100,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/213538"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "family-ties",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/family-ties"
+    },
     "mangaupdates": {
       "id": "8xquuvy",
       "rating": 67,
@@ -118,7 +122,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -132,7 +137,8 @@
     "172": "incidental",
     "180": "incidental",
     "428": "unweighted",
-    "755": "incidental"
+    "755": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 75,
@@ -141,10 +147,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6892,
-    "popularityPercentile": 32.6614,
-    "fanFavouriteDiscoveryScore": 24.2475,
-    "fanFavouriteDiscoveryPercentile": 26.4266
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 32.6641,
+    "fanFavouriteDiscoveryScore": 24.2302,
+    "fanFavouriteDiscoveryPercentile": 26.4258
   },
   "context": {
     "primaryProfile": "regression-return",

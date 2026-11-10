@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Tiger's Night",
-  "mangabaka_title": "Tiger's Night",
+  "mangabaka_title": "Beomui Bam",
   "native_title": "범의 밤",
-  "romanized_title": null,
+  "romanized_title": "Beomui Bam",
   "titles": [
     {
       "language": "ko",
       "title": "범의 밤",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Beomui Bam",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,26 +48,26 @@
     }
   ],
   "description": "Beom Tae-Hyeok buys Moon Yi-Soo for 100 million won while she is working as a server at a loan-shark club to pay off her boyfriend's debt. \n\n\"You’ll have to prove you’re worth 100 million won,\" he says. \n\n\"How?\" \n\n\"With your body.\" \n\nWhen Yi-Soo asks if she can just work to pay it back, Tae-Hyeok sneers coldly. \n\n\"I don't need the money. I need a maid to play with.\"\n\nEventually, Yi-Soo signs the maid contract, and from that night on, her body and heart begin to surrender to Tae-Hyeok in their dizzying encounters.\n\n**Original Webtoon:**   \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14141610), [Ridibooks](https://ridibooks.com/books/3498026806), [Bomtoon](https://www.bomtoon.com/detail/tigernight), [Lezhin](https://www.lezhin.com/ko/comic/tigernight), [MrBlue](https://www.mrblue.com/webtoon/wt_000080060)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI1MzY2LmpwZw",
-  "total_chapters": "7",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxMzQwMi1HWDNzQjlITmdkSEEuanBn",
+  "total_chapters": "10",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-05-15",
+    "end_date": "2026-05-15",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:50:50.309Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-07T12:29:33.038Z",
+  "last_updated_at": "2026-11-09T02:06:56.892Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Sakak",
-    "Secret"
+    "Mil-Hui Eun",
+    "Sagak"
   ],
   "artists": [
     "Mancheop"
@@ -67,7 +78,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 213402,
+      "rating": 60,
+      "url": "https://anilist.co/manga/213402"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "son599u",
@@ -77,20 +92,36 @@
   },
   "tag_ids": [
     43,
+    108,
     15,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 15,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 60
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 9.1699,
+    "fanFavouriteDiscoveryScore": 9.4247,
+    "fanFavouriteDiscoveryPercentile": 8.5168
   },
   "context": {
     "primaryProfile": "office-romance",

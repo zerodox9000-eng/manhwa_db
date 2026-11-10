@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-09-29T06:10:44.365Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T11:43:26.081Z",
+  "last_updated_at": "2026-11-09T17:46:28.929Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -75,7 +75,11 @@
       "rating": 81,
       "url": "https://anilist.co/manga/217553"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "keep-likes-private",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/keep-likes-private"
+    },
     "mangaupdates": {
       "id": "xgmzxu1",
       "rating": 64,
@@ -83,17 +87,22 @@
     }
   },
   "tag_ids": [
+    5041,
     59,
     46,
+    3078,
     31,
+    4,
     33,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "4": "unweighted",
     "9": "defining",
     "31": "defining",
     "33": "defining",
@@ -101,18 +110,21 @@
     "57": "unweighted",
     "59": "defining",
     "93": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "3078": "unweighted",
+    "5041": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 615,
-    "favourites": 13,
+    "popularity": 622,
+    "favourites": 14,
     "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 2.1138,
-    "fanRatioPercentile": 79.0366,
-    "popularityPercentile": 71.6758,
-    "fanFavouriteDiscoveryScore": 77.9851,
-    "fanFavouriteDiscoveryPercentile": 84.9934
+    "fanFavouriteRaw": 2.2508,
+    "fanRatioPercentile": 81.4658,
+    "popularityPercentile": 71.8374,
+    "fanFavouriteDiscoveryScore": 80.3963,
+    "fanFavouriteDiscoveryPercentile": 87.322
   }
 }

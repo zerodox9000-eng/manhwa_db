@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-10-01T06:32:37.624Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T10:03:09.292Z",
+  "last_updated_at": "2026-11-09T15:46:27.219Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -85,7 +85,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/217593"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "solo-swordmaster",
+      "rating": 68,
+      "url": "https://www.anime-planet.com/manga/solo-swordmaster"
+    },
     "mangaupdates": {
       "id": "rzmqjxr",
       "rating": 61,
@@ -97,17 +101,23 @@
     38,
     59,
     58,
+    1054,
+    74,
+    20,
     163,
     36,
     22,
     39,
     31,
+    236,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "20": "unweighted",
     "22": "defining",
     "31": "defining",
     "36": "defining",
@@ -116,21 +126,25 @@
     "57": "unweighted",
     "58": "incidental",
     "59": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "163": "unweighted",
+    "236": "unweighted",
     "337": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "1054": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1186,
+    "popularity": 1193,
     "favourites": 8,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 0.6745,
-    "fanRatioPercentile": 39.4036,
-    "popularityPercentile": 82.1019,
-    "fanFavouriteDiscoveryScore": 39.182,
-    "fanFavouriteDiscoveryPercentile": 43.581
+    "fanFavouriteRaw": 0.6706,
+    "fanRatioPercentile": 39.2706,
+    "popularityPercentile": 82.1813,
+    "fanFavouriteDiscoveryScore": 39.0512,
+    "fanFavouriteDiscoveryPercentile": 43.4248
   }
 }

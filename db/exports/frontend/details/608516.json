@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-10-28T00:42:18.622Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T17:05:28.667Z",
+  "last_updated_at": "2026-11-09T18:36:28.235Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -118,10 +118,14 @@
       "rating": 76,
       "url": "https://anilist.co/manga/219032"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "unlimited-transcendental",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/unlimited-transcendental"
+    },
     "mangaupdates": {
       "id": "l0ys43r",
-      "rating": 63,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/l0ys43r"
     }
   },
@@ -134,7 +138,8 @@
     45,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -146,18 +151,19 @@
     "57": "unweighted",
     "58": "incidental",
     "93": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 756,
+    "popularity": 778,
     "favourites": 2,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 0.2646,
-    "fanRatioPercentile": 33.1132,
-    "popularityPercentile": 75.1234,
-    "fanFavouriteDiscoveryScore": 32.7816,
-    "fanFavouriteDiscoveryPercentile": 35.1359
+    "fanFavouriteRaw": 0.2571,
+    "fanRatioPercentile": 33.067,
+    "popularityPercentile": 75.6235,
+    "fanFavouriteDiscoveryScore": 32.7493,
+    "fanFavouriteDiscoveryPercentile": 35.1233
   }
 }

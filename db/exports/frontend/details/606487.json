@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-10-08T06:40:20.299Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T15:56:50.078Z",
+  "last_updated_at": "2026-11-09T22:46:29.909Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,7 +89,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/217942"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "confessional-sex",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/confessional-sex"
+    },
     "mangaupdates": {
       "id": "t5a6ncs",
       "rating": 64,
@@ -113,7 +117,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -133,18 +138,19 @@
     "123": "incidental",
     "428": "unweighted",
     "498": "unweighted",
-    "629": "incidental"
+    "629": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 140,
+    "popularity": 144,
     "favourites": null,
     "meanScore": 66
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6892,
-    "popularityPercentile": 43.8034,
-    "fanFavouriteDiscoveryScore": 28.736,
-    "fanFavouriteDiscoveryPercentile": 31.1323
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 44.2654,
+    "fanFavouriteDiscoveryScore": 28.8457,
+    "fanFavouriteDiscoveryPercentile": 31.2192
   }
 }

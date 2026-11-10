@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-10-03T05:46:39.935Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T06:47:07.230Z",
+  "last_updated_at": "2026-11-09T15:06:26.544Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -111,30 +111,44 @@
       "rating": 77,
       "url": "https://anilist.co/manga/217660"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "copy-skills-with-affinity",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/copy-skills-with-affinity"
+    },
     "mangaupdates": {
       "id": "nffmjfg",
-      "rating": 65,
+      "rating": 66,
       "url": "https://www.mangaupdates.com/series/nffmjfg"
     }
   },
   "tag_ids": [
+    288,
     8,
     59,
     58,
+    1054,
+    74,
+    3124,
     20,
     163,
     36,
+    94,
+    399,
     22,
     39,
     37,
     6,
+    361,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    3124
+  ],
   "tag_weights": {
     "6": "defining",
     "8": "defining",
@@ -147,20 +161,28 @@
     "57": "unweighted",
     "58": "defining",
     "59": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
+    "94": "unweighted",
     "163": "defining",
-    "428": "unweighted"
+    "288": "unweighted",
+    "361": "unweighted",
+    "399": "unweighted",
+    "428": "unweighted",
+    "1054": "unweighted",
+    "3124": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 1995,
+    "popularity": 2035,
     "favourites": 20,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0025,
-    "fanRatioPercentile": 48.8358,
-    "popularityPercentile": 88.5244,
-    "fanFavouriteDiscoveryScore": 48.6746,
-    "fanFavouriteDiscoveryPercentile": 56.9889
+    "fanFavouriteRaw": 0.9828,
+    "fanRatioPercentile": 48.1487,
+    "popularityPercentile": 88.7322,
+    "fanFavouriteDiscoveryScore": 47.9925,
+    "fanFavouriteDiscoveryPercentile": 56.4988
   }
 }

@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.308Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-08T10:40:49.295Z",
+  "last_updated_at": "2026-11-09T22:46:33.472Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,7 +79,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/205795"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "diopter",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/diopter"
+    },
     "mangaupdates": {
       "id": "xly52ju",
       "rating": 63,
@@ -101,7 +105,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -119,19 +124,20 @@
     "370": "incidental",
     "428": "unweighted",
     "2062": "incidental",
-    "3000": "core"
+    "3000": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 190,
+    "popularity": 191,
     "favourites": null,
     "meanScore": 60
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6892,
-    "popularityPercentile": 49.3015,
-    "fanFavouriteDiscoveryScore": 30.0727,
-    "fanFavouriteDiscoveryPercentile": 32.293
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 49.3922,
+    "fanFavouriteDiscoveryScore": 30.0678,
+    "fanFavouriteDiscoveryPercentile": 32.289
   },
   "context": {
     "primaryProfile": "medical-career",

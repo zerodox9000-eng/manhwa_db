@@ -2,7 +2,7 @@
   "id": 603981,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Night of Consuming You",
+  "display_title": "Neoreul Meongneun Bam",
   "mangabaka_title": "Neoreul Meongneun Bam",
   "native_title": "너를 먹는 밤",
   "romanized_title": "Neoreul Meongneun Bam",
@@ -20,7 +20,7 @@
       "language": "en",
       "title": "A Night of Consuming You",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,6 +29,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Neoreul Meongneun Bam",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -62,7 +69,7 @@
   },
   "first_seen_at": "2026-09-15T05:19:50.254Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T16:37:51.086Z",
+  "last_updated_at": "2026-11-09T18:16:27.762Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -93,6 +100,7 @@
     43,
     22,
     46,
+    14,
     41,
     31,
     9,
@@ -103,6 +111,7 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
+    "14": "unweighted",
     "22": "defining",
     "31": "defining",
     "41": "defining",
@@ -113,15 +122,15 @@
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 239,
-    "favourites": null,
+    "popularity": 240,
+    "favourites": 1,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6892,
-    "popularityPercentile": 53.7916,
-    "fanFavouriteDiscoveryScore": 30.8434,
-    "fanFavouriteDiscoveryPercentile": 32.8491
+    "fanFavouriteRaw": 0.4167,
+    "fanRatioPercentile": 34.4495,
+    "popularityPercentile": 53.8659,
+    "fanFavouriteDiscoveryScore": 32.5155,
+    "fanFavouriteDiscoveryPercentile": 34.7899
   }
 }

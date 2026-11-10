@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-09-25T05:24:06.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T11:13:01.681Z",
+  "last_updated_at": "2026-11-09T11:13:31.260Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -82,7 +82,7 @@
   "source": {
     "anilist": {
       "id": 217431,
-      "rating": 80,
+      "rating": 82,
       "url": "https://anilist.co/manga/217431"
     },
     "animeplanet": null,
@@ -131,7 +131,9 @@
     57,
     428
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    228
+  ],
   "tag_weights": {
     "1": "defining",
     "6": "defining",
@@ -143,16 +145,16 @@
     "57": "unweighted",
     "58": "defining",
     "93": "unweighted",
-    "128": "unweighted",
+    "128": "incidental",
     "180": "defining",
-    "228": "unweighted",
-    "238": "unweighted",
-    "262": "unweighted",
+    "228": "incidental",
+    "238": "incidental",
+    "262": "incidental",
     "321": "unweighted",
-    "378": "unweighted",
+    "378": "incidental",
     "406": "unweighted",
     "428": "unweighted",
-    "498": "unweighted",
+    "498": "incidental",
     "787": "unweighted",
     "893": "unweighted",
     "1050": "unweighted",
@@ -172,15 +174,15 @@
     "5503": "unweighted"
   },
   "stats": {
-    "popularity": 205,
+    "popularity": 211,
     "favourites": 4,
-    "meanScore": 80
+    "meanScore": 82
   },
   "analytics": {
-    "fanFavouriteRaw": 1.9512,
-    "fanRatioPercentile": 75.5126,
-    "popularityPercentile": 50.8306,
-    "fanFavouriteDiscoveryScore": 70.1402,
-    "fanFavouriteDiscoveryPercentile": 77.8967
+    "fanFavouriteRaw": 1.8957,
+    "fanRatioPercentile": 74.2688,
+    "popularityPercentile": 51.4554,
+    "fanFavouriteDiscoveryScore": 69.2348,
+    "fanFavouriteDiscoveryPercentile": 77.2352
   }
 }

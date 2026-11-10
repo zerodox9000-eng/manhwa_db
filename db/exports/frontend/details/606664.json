@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Hiding My Identity from My Husband",
-  "mangabaka_title": "Hiding My Identity from My Husband",
+  "mangabaka_title": "Nampyeonege Jeongchereul Sumgim",
   "native_title": "남편에게 정체를 숨김",
-  "romanized_title": null,
+  "romanized_title": "Nampyeonege Jeongchereul Sumgim",
   "titles": [
     {
       "language": "ko",
@@ -20,6 +20,15 @@
       "language": "en",
       "title": "Hiding My Identity from My Husband",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nampyeonege Jeongchereul Sumgim",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -39,8 +48,8 @@
     }
   ],
   "description": "My name is Charles, and I am a spy for the Empire. Lord, please let me be a righteous spy today as well. For the sake of the mission, I agreed to a fake marriage with an agent from the Holy Kingdom. My goal is to sabotage his mission without revealing that I am a spy for the Empire! \n\n“Oh my, I accidentally drank the Countess’ wine?”   \n\n“This is so boring. I might as well just go home.” \n\nI deliberately did things that would make everyone dislike me. That way, I could make my fake husband’s mission fail! But then— \n\n“My goodness! The sommelier was an assassin!”   \n\n“If it weren’t for Miss Charles, my nephew would have become alligator food!”    \n\n“Thanks to you, we were able to catch the intruder!” \n\nHuh? Why is everyone reacting like this? \n\n[The Hero of the Empire, Charles Courtney!] \n\nNo! I was only acting this way to make the mission fail! And on top of that… \n\n“I’ve been pretending not to know all this time.”    \n\n“But now, you think you can just run away from me?” \n\nEven my fake husband, who had always suspected me, was acting strangely. \n\n“If you made me fall for you, you have to take responsibility.” \n\nWait, you weren’t like this before!\n\n[Original Webtoon](https://page.kakao.com/content/70892167)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubXlhbmltZWxpc3QubmV0L2ltYWdlcy9tYW5nYS8zLzM1MTA1NmwuanBn",
-  "total_chapters": "23",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTcyNy1pVEhKejFBd25nYksuanBn",
+  "total_chapters": "24",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -53,15 +62,15 @@
   },
   "first_seen_at": "2026-10-10T00:42:01.357Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T16:58:21.051Z",
+  "last_updated_at": "2026-11-09T22:06:29.229Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Bosal",
-    "Cha So Hee"
+    "So-Hui Cha"
   ],
   "artists": [
-    "Irodoshi"
+    "Irodosi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606664",
@@ -69,8 +78,16 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
+    "anilist": {
+      "id": 219727,
+      "rating": null,
+      "url": "https://anilist.co/manga/219727"
+    },
+    "animeplanet": {
+      "id": "hiding-my-identity-from-my-husband",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/hiding-my-identity-from-my-husband"
+    },
     "mangaupdates": {
       "id": "jn61htl",
       "rating": 62,
@@ -79,18 +96,37 @@
   },
   "tag_ids": [
     40,
+    74,
+    108,
     36,
-    9
+    9,
+    93,
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 0.1528,
+    "fanFavouriteDiscoveryScore": 5.2452,
+    "fanFavouriteDiscoveryPercentile": 0.1459
   }
 }

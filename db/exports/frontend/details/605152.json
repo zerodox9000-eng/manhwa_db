@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-09-28T05:54:14.143Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T18:12:59.350Z",
+  "last_updated_at": "2026-11-09T23:46:30.974Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -81,7 +81,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/217428"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "moral-panic",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/moral-panic"
+    },
     "mangaupdates": {
       "id": "vitha3e",
       "rating": null,
@@ -90,6 +94,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     14,
@@ -101,7 +106,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -114,21 +120,23 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 85,
+    "popularity": 87,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6892,
-    "popularityPercentile": 34.6424,
-    "fanFavouriteDiscoveryScore": 25.2393,
-    "fanFavouriteDiscoveryPercentile": 27.4414
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 35.0677,
+    "fanFavouriteDiscoveryScore": 25.4217,
+    "fanFavouriteDiscoveryPercentile": 27.6138
   }
 }

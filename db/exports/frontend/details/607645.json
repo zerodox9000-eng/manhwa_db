@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-10-20T00:42:14.924Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T04:57:09.238Z",
+  "last_updated_at": "2026-11-09T15:06:26.635Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -115,27 +115,37 @@
   "source": {
     "anilist": {
       "id": 218581,
-      "rating": 76,
+      "rating": 75,
       "url": "https://anilist.co/manga/218581"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "monster-streaming-star",
+      "rating": 80,
+      "url": "https://www.anime-planet.com/manga/monster-streaming-star"
+    },
     "mangaupdates": {
       "id": "nytsoms",
-      "rating": 66,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/nytsoms"
     }
   },
   "tag_ids": [
     38,
+    247,
+    74,
+    3419,
     36,
+    3850,
     317,
+    547,
     39,
     37,
     6,
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -146,20 +156,26 @@
     "38": "defining",
     "39": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
+    "247": "unweighted",
     "317": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "547": "unweighted",
+    "3419": "unweighted",
+    "3850": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 878,
+    "popularity": 889,
     "favourites": 10,
-    "meanScore": 75
+    "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 1.139,
-    "fanRatioPercentile": 53.1035,
-    "popularityPercentile": 77.6048,
-    "fanFavouriteDiscoveryScore": 52.6702,
-    "fanFavouriteDiscoveryPercentile": 60.6659
+    "fanFavouriteRaw": 1.1249,
+    "fanRatioPercentile": 52.685,
+    "popularityPercentile": 77.8117,
+    "fanFavouriteDiscoveryScore": 52.2624,
+    "fanFavouriteDiscoveryPercentile": 60.2918
   }
 }

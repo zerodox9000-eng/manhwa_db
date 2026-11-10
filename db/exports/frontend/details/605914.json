@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-10-02T06:10:43.087Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T01:32:01.493Z",
+  "last_updated_at": "2026-11-09T19:06:28.729Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -76,7 +76,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/219117"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-bought-the-villains-with-money",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/i-bought-the-villains-with-money"
+    },
     "mangaupdates": {
       "id": "yb4dgih",
       "rating": 61,
@@ -85,13 +89,15 @@
   },
   "tag_ids": [
     40,
+    74,
     108,
     36,
     31,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -100,20 +106,22 @@
     "36": "defining",
     "40": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 33,
+    "popularity": 35,
     "favourites": null,
-    "meanScore": 60
+    "meanScore": 68
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6892,
-    "popularityPercentile": 19.1562,
-    "fanFavouriteDiscoveryScore": 15.7702,
-    "fanFavouriteDiscoveryPercentile": 17.0849
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 20.1528,
+    "fanFavouriteDiscoveryScore": 16.4361,
+    "fanFavouriteDiscoveryPercentile": 17.8673
   }
 }

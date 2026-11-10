@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-10-25T00:42:04.330Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T23:22:12.183Z",
+  "last_updated_at": "2026-11-09T23:25:55.084Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,10 +73,14 @@
   "source": {
     "anilist": {
       "id": 218784,
-      "rating": 74,
+      "rating": 73,
       "url": "https://anilist.co/manga/218784"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-genius-knight-of-the-fallen-people",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/the-genius-knight-of-the-fallen-people"
+    },
     "mangaupdates": {
       "id": "zmrai3s",
       "rating": 64,
@@ -86,13 +90,15 @@
   "tag_ids": [
     38,
     58,
+    74,
     36,
     39,
     37,
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -103,19 +109,21 @@
     "39": "defining",
     "57": "unweighted",
     "58": "incidental",
+    "74": "unweighted",
     "93": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 832,
+    "popularity": 882,
     "favourites": 1,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 0.1202,
-    "fanRatioPercentile": 32.6962,
-    "popularityPercentile": 76.6595,
-    "fanFavouriteDiscoveryScore": 32.4077,
-    "fanFavouriteDiscoveryPercentile": 34.5729
+    "fanFavouriteRaw": 0.1134,
+    "fanRatioPercentile": 32.6711,
+    "popularityPercentile": 77.6797,
+    "fanFavouriteDiscoveryScore": 32.4061,
+    "fanFavouriteDiscoveryPercentile": 34.6509
   }
 }

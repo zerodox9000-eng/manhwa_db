@@ -90,15 +90,6 @@
       "note": null
     },
     {
-      "language": "de",
-      "title": "Omniscient Reader’s Viewpoint",
-      "traits": [
-        "official"
-      ],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "fr",
       "title": "Omniscient Reader’s Viewpoint",
       "traits": [
@@ -109,6 +100,15 @@
     },
     {
       "language": "pt",
+      "title": "Omniscient Reader’s Viewpoint",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "de",
       "title": "Omniscient Reader’s Viewpoint",
       "traits": [
         "official"
@@ -237,7 +237,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.184Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-08T17:25:36.496Z",
+  "last_updated_at": "2026-11-09T11:44:03.470Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -272,6 +272,7 @@
     }
   },
   "tag_ids": [
+    1870,
     250,
     3404,
     1927,
@@ -321,6 +322,7 @@
     1878,
     3995,
     1100,
+    2881,
     3124,
     1313,
     242,
@@ -330,6 +332,7 @@
     3090,
     36,
     94,
+    2879,
     261,
     399,
     3823,
@@ -455,7 +458,7 @@
     "848": "recurrent",
     "853": "unweighted",
     "903": "core",
-    "904": "incidental",
+    "904": "recurrent",
     "1052": "defining",
     "1090": "unweighted",
     "1100": "recurrent",
@@ -465,6 +468,7 @@
     "1820": "core",
     "1821": "core",
     "1857": "recurrent",
+    "1870": "incidental",
     "1875": "recurrent",
     "1876": "defining",
     "1877": "core",
@@ -474,7 +478,9 @@
     "2480": "defining",
     "2525": "core",
     "2876": "incidental",
-    "2971": "defining",
+    "2879": "incidental",
+    "2881": "incidental",
+    "2971": "core",
     "2973": "incidental",
     "3026": "recurrent",
     "3090": "core",
@@ -502,16 +508,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 134932,
-    "favourites": 13737,
+    "popularity": 134987,
+    "favourites": 13738,
     "meanScore": 86
   },
   "analytics": {
-    "fanFavouriteRaw": 10.1807,
-    "fanRatioPercentile": 99.6177,
-    "popularityPercentile": 99.993,
-    "fanFavouriteDiscoveryScore": 99.491,
-    "fanFavouriteDiscoveryPercentile": 99.9652
+    "fanFavouriteRaw": 10.1773,
+    "fanRatioPercentile": 99.6179,
+    "popularityPercentile": 99.9931,
+    "fanFavouriteDiscoveryScore": 99.4912,
+    "fanFavouriteDiscoveryPercentile": 99.9653
   },
   "context": {
     "primaryProfile": "business-career-regression",

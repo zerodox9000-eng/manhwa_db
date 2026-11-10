@@ -64,7 +64,7 @@
   },
   "first_seen_at": "2026-09-28T05:54:14.143Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T03:46:58.322Z",
+  "last_updated_at": "2026-11-09T21:37:01.243Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -86,7 +86,11 @@
       "rating": 58,
       "url": "https://anilist.co/manga/217551"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "foretold",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/foretold"
+    },
     "mangaupdates": {
       "id": "513dav7",
       "rating": null,
@@ -122,7 +126,8 @@
     1004,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -154,18 +159,19 @@
     "1991": "core",
     "2963": "unweighted",
     "3911": "core",
-    "4099": "core"
+    "4099": "core",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 98,
+    "popularity": 100,
     "favourites": 1,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0204,
-    "fanRatioPercentile": 49.4127,
-    "popularityPercentile": 37.242,
-    "fanFavouriteDiscoveryScore": 39.9236,
-    "fanFavouriteDiscoveryPercentile": 44.5541
+    "fanFavouriteRaw": 1,
+    "fanRatioPercentile": 48.8017,
+    "popularityPercentile": 37.6381,
+    "fanFavouriteDiscoveryScore": 39.6774,
+    "fanFavouriteDiscoveryPercentile": 44.2584
   }
 }

@@ -71,7 +71,7 @@
   },
   "first_seen_at": "2026-09-30T06:00:01.374Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T08:10:21.764Z",
+  "last_updated_at": "2026-11-09T18:46:28.247Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +94,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/217549"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "underline",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/underline"
+    },
     "mangaupdates": {
       "id": "5b29rsb",
       "rating": 64,
@@ -111,7 +115,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -124,18 +129,19 @@
     "93": "unweighted",
     "180": "incidental",
     "410": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 121,
+    "popularity": 126,
     "favourites": null,
     "meanScore": 60
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6892,
-    "popularityPercentile": 41.1969,
-    "fanFavouriteDiscoveryScore": 27.917,
-    "fanFavouriteDiscoveryPercentile": 30.2982
+    "fanRatioPercentile": 32.6641,
+    "popularityPercentile": 41.9243,
+    "fanFavouriteDiscoveryScore": 28.1371,
+    "fanFavouriteDiscoveryPercentile": 30.5036
   }
 }
