@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-10-14T00:42:11.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T22:57:30.312Z",
+  "last_updated_at": "2026-11-10T22:58:28.508Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -112,7 +112,11 @@
       "rating": 25,
       "url": "https://anilist.co/manga/218685"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "nerd-x-nerd",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/nerd-x-nerd"
+    },
     "mangaupdates": {
       "id": "nydv2j0",
       "rating": 57,
@@ -121,12 +125,14 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     41,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -134,9 +140,11 @@
     "41": "defining",
     "43": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 16,
@@ -145,9 +153,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 9.8715,
-    "fanFavouriteDiscoveryScore": 9.8216,
-    "fanFavouriteDiscoveryPercentile": 9.1976
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 9.8201,
+    "fanFavouriteDiscoveryScore": 9.777,
+    "fanFavouriteDiscoveryPercentile": 9.1465
   }
 }

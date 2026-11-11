@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-09-19T05:03:46.247Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T20:08:54.516Z",
+  "last_updated_at": "2026-11-10T20:09:57.637Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -77,7 +77,11 @@
       "rating": 45,
       "url": "https://anilist.co/manga/219423"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "special-attention-soldier",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/special-attention-soldier"
+    },
     "mangaupdates": {
       "id": "3szu40u",
       "rating": null,
@@ -96,7 +100,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -111,7 +116,8 @@
     "58": "incidental",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 14,
@@ -120,9 +126,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 8.4057,
-    "fanFavouriteDiscoveryScore": 9.0035,
-    "fanFavouriteDiscoveryPercentile": 7.8638
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 8.3895,
+    "fanFavouriteDiscoveryScore": 8.9808,
+    "fanFavouriteDiscoveryPercentile": 7.8617
   }
 }

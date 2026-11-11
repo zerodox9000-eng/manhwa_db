@@ -69,11 +69,25 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Jipchak Servant Namjureul Kiwotseumnida (Promo)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Jipchang Seobeu Namjureul Kiwotseumnida",
       "traits": [
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "My Ray of Hope (Promo)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -141,7 +155,7 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.234Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-08T18:30:35.874Z",
+  "last_updated_at": "2026-11-10T20:31:11.355Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -162,7 +176,11 @@
       "rating": 67,
       "url": "https://anilist.co/manga/119597"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "my-ray-of-hope-promo",
+      "rating": 78,
+      "url": "https://www.anime-planet.com/manga/my-ray-of-hope-promo"
+    },
     "mangaupdates": {
       "id": "khpu4y3",
       "rating": 70,
@@ -175,6 +193,7 @@
     266,
     59,
     75,
+    74,
     405,
     3194,
     3174,
@@ -183,6 +202,7 @@
     450,
     36,
     94,
+    258,
     639,
     636,
     3812,
@@ -191,10 +211,13 @@
     9,
     127,
     45,
+    93,
+    110,
     2050,
     4946,
     57,
     428,
+    7332,
     121
   ],
   "spoiler_tag_ids": [],
@@ -206,10 +229,14 @@
     "45": "defining",
     "57": "unweighted",
     "59": "recurrent",
+    "74": "unweighted",
     "75": "defining",
+    "93": "unweighted",
     "94": "defining",
+    "110": "unweighted",
     "121": "defining",
     "127": "core",
+    "258": "unweighted",
     "266": "defining",
     "315": "core",
     "405": "unweighted",
@@ -224,7 +251,8 @@
     "3174": "defining",
     "3194": "defining",
     "3812": "defining",
-    "4946": "defining"
+    "4946": "defining",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 1194,
@@ -233,10 +261,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.0888,
-    "fanRatioPercentile": 51.4067,
-    "popularityPercentile": 82.2022,
-    "fanFavouriteDiscoveryScore": 51.12,
-    "fanFavouriteDiscoveryPercentile": 59.1942
+    "fanRatioPercentile": 51.3786,
+    "popularityPercentile": 82.1863,
+    "fanFavouriteDiscoveryScore": 51.0917,
+    "fanFavouriteDiscoveryPercentile": 59.2124
   },
   "context": {
     "primaryProfile": "euro-fantasy",

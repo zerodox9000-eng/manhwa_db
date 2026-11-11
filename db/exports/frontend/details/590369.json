@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-13T05:15:37.939Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T09:04:56.788Z",
+  "last_updated_at": "2026-11-10T09:06:29.952Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,7 +79,11 @@
       "rating": 50,
       "url": "https://anilist.co/manga/213405"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "lost-and-hound",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/lost-and-hound"
+    },
     "mangaupdates": {
       "id": "8qerwmo",
       "rating": null,
@@ -88,9 +92,11 @@
   },
   "tag_ids": [
     279,
+    247,
     732,
     106,
     755,
+    308,
     36,
     161,
     547,
@@ -102,7 +108,8 @@
     45,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -117,11 +124,14 @@
     "161": "incidental",
     "180": "defining",
     "226": "incidental",
+    "247": "unweighted",
     "279": "incidental",
+    "308": "unweighted",
     "428": "unweighted",
     "547": "unweighted",
     "732": "incidental",
-    "755": "incidental"
+    "755": "incidental",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 23,
@@ -130,10 +140,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 14.3105,
-    "fanFavouriteDiscoveryScore": 12.5313,
-    "fanFavouriteDiscoveryPercentile": 13.0948
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 14.2302,
+    "fanFavouriteDiscoveryScore": 12.4602,
+    "fanFavouriteDiscoveryPercentile": 13.0078
   },
   "context": {
     "primaryProfile": "romance-core",

@@ -57,7 +57,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-09T22:34:32.844Z",
+  "last_updated_at": "2026-11-10T06:46:30.223Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -79,7 +79,11 @@
       "rating": 62,
       "url": "https://anilist.co/manga/195893"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "todays-xx-review",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/todays-xx-review"
+    },
     "mangaupdates": {
       "id": "mntsjt1",
       "rating": 64,
@@ -99,7 +103,8 @@
     93,
     1167,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -115,7 +120,8 @@
     "987": "core",
     "1167": "unweighted",
     "1810": "core",
-    "3217": "core"
+    "3217": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 62,
@@ -124,10 +130,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 29.2324,
-    "fanFavouriteDiscoveryScore": 22.3221,
-    "fanFavouriteDiscoveryPercentile": 24.4529
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 29.2243,
+    "fanFavouriteDiscoveryScore": 22.2827,
+    "fanFavouriteDiscoveryPercentile": 24.4253
   },
   "context": {
     "primaryProfile": "food-career",

@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-10-12T00:42:17.392Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T06:55:42.203Z",
+  "last_updated_at": "2026-11-10T08:20:13.814Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -117,7 +117,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/218415"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "do-not-water",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/do-not-water"
+    },
     "mangaupdates": {
       "id": "4qcn6ii",
       "rating": 64,
@@ -130,13 +134,16 @@
     36,
     46,
     41,
+    6,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "6": "unweighted",
     "9": "defining",
     "36": "defining",
     "41": "defining",
@@ -145,7 +152,8 @@
     "57": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 12,
@@ -154,9 +162,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 6.9399,
-    "fanFavouriteDiscoveryScore": 8.2291,
-    "fanFavouriteDiscoveryPercentile": 6.5162
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 6.9241,
+    "fanFavouriteDiscoveryScore": 8.2082,
+    "fanFavouriteDiscoveryPercentile": 6.5005
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Don't Touch the Pure Priest",
-  "mangabaka_title": "Don't Touch the Pure Priest",
+  "mangabaka_title": "Sungyeolhan Sajenimeul Geondeuriji Mal Geot",
   "native_title": "순결한 사제님을 건드리지 말 것",
-  "romanized_title": null,
+  "romanized_title": "Sungyeolhan Sajenimeul Geondeuriji Mal Geot",
   "titles": [
     {
       "language": "ko",
       "title": "순결한 사제님을 건드리지 말 것",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -50,6 +52,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Sungyeolhan Sajenimeul Geondeuriji Mal Geot",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Priest Is Off-Limits",
       "traits": [],
@@ -58,29 +69,29 @@
     }
   ],
   "description": "Liliana, a half-succubus, finds herself possessing the body of Lily, a count's daughter who died of lovesickness after falling hopelessly in love with a priest.\n\nUnlike other succubi, Liliana has a rather unusual constitution: she's far more obsessed with delicious human food than absorbing yang energy!\n\nDelighted with the comfortable and luxurious life that comes with being a count's daughter, she decides to live quietly and stay out of trouble.\nOr at least, that was the plan...\n\nMichael, a chaste priest who treats everyone with kindness, seems to be the very embodiment of purity and virtue.\n\nBut who could have imagined that beneath his noble and virtuous appearance lurked someone so greedy and shamelessly lustful?\n\n\"How on earth did things turn out like this?! All I wanted was to possess this body so I could eat delicious food!\"\n\n**Original Webtoon:**    \n[Lezhin](https://www.lezhin.com/ko/comic/dont_touch_priest), [Bomtoon](https://bomtoon.com/detail/Pure_priest)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxOTMzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc1NC1xMklWdW96VzFKY0IucG5n",
   "total_chapters": "5",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-04",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-04T00:43:55.897Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T17:34:04.326Z",
+  "last_updated_at": "2026-11-10T17:37:08.713Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "GakJinSulTang",
-    "Yu Yeon"
+    "Gakjinseoltang",
+    "Yu-Yeon"
   ],
   "artists": [
-    "Mae Sil"
+    "Maesil"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/609329",
@@ -88,7 +99,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219754,
+      "rating": null,
+      "url": "https://anilist.co/manga/219754"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mg62uiu",
@@ -98,21 +113,41 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     41,
+    502,
     6,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "502": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 0.1389,
+    "fanFavouriteDiscoveryScore": 5.2319,
+    "fanFavouriteDiscoveryPercentile": 0.132
   }
 }

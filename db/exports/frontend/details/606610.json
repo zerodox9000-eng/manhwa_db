@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-10-09T00:42:11.880Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T17:44:07.618Z",
+  "last_updated_at": "2026-11-10T17:47:12.112Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,7 +89,11 @@
       "rating": 90,
       "url": "https://anilist.co/manga/218013"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "till-death-do-us-part",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/till-death-do-us-part"
+    },
     "mangaupdates": {
       "id": "aehyunn",
       "rating": 64,
@@ -106,7 +110,8 @@
     26,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -119,18 +124,19 @@
     "428": "unweighted",
     "456": "unweighted",
     "520": "incidental",
-    "521": "unweighted"
+    "521": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 41,
+    "popularity": 42,
     "favourites": null,
     "meanScore": 90
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 22.5842,
-    "fanFavouriteDiscoveryScore": 18.0839,
-    "fanFavouriteDiscoveryPercentile": 19.7985
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 22.9738,
+    "fanFavouriteDiscoveryScore": 18.317,
+    "fanFavouriteDiscoveryPercentile": 20.0431
   }
 }

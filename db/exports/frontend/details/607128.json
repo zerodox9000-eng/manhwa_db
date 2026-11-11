@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-10-14T00:42:11.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T19:24:50.467Z",
+  "last_updated_at": "2026-11-10T19:26:12.028Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -105,7 +105,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/218681"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "xx-boyfriend",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/xx-boyfriend"
+    },
     "mangaupdates": {
       "id": "gxkxebq",
       "rating": 62,
@@ -114,6 +118,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
@@ -123,7 +128,8 @@
     7,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -135,9 +141,11 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 7,
@@ -146,9 +154,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 3.2094,
-    "fanFavouriteDiscoveryScore": 6.4656,
-    "fanFavouriteDiscoveryPercentile": 3.008
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 3.1808,
+    "fanFavouriteDiscoveryScore": 6.4432,
+    "fanFavouriteDiscoveryPercentile": 2.9794
   }
 }

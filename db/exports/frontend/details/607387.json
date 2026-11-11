@@ -69,7 +69,7 @@
   },
   "first_seen_at": "2026-10-17T00:42:21.317Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T17:56:13.253Z",
+  "last_updated_at": "2026-11-10T17:59:03.525Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -89,7 +89,11 @@
       "rating": 62,
       "url": "https://anilist.co/manga/217654"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "first-class-seat-to-the-abyss",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/first-class-seat-to-the-abyss"
+    },
     "mangaupdates": {
       "id": "aree9t7",
       "rating": 64,
@@ -108,7 +112,8 @@
     403,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -123,18 +128,19 @@
     "231": "incidental",
     "234": "unweighted",
     "403": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 152,
+    "popularity": 156,
     "favourites": null,
     "meanScore": 62
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 45.2101,
-    "fanFavouriteDiscoveryScore": 29.1033,
-    "fanFavouriteDiscoveryPercentile": 31.5526
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 45.6768,
+    "fanFavouriteDiscoveryScore": 29.1794,
+    "fanFavouriteDiscoveryPercentile": 31.6272
   }
 }

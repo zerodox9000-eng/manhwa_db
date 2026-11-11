@@ -50,7 +50,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.736Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T09:23:23.240Z",
+  "last_updated_at": "2026-11-10T10:24:09.947Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -70,7 +70,11 @@
       "rating": 76,
       "url": "https://anilist.co/manga/214709"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "unlucky-dream",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/unlucky-dream"
+    },
     "mangaupdates": {
       "id": "db86sdk",
       "rating": null,
@@ -100,7 +104,8 @@
     1004,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [
     4383
@@ -128,7 +133,8 @@
     "3003": "core",
     "3557": "core",
     "4383": "core",
-    "4975": "core"
+    "4975": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 106,
@@ -137,9 +143,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.8868,
-    "fanRatioPercentile": 74.1091,
-    "popularityPercentile": 38.562,
-    "fanFavouriteDiscoveryScore": 61.0997,
-    "fanFavouriteDiscoveryPercentile": 68.9267
+    "fanRatioPercentile": 74.151,
+    "popularityPercentile": 38.5305,
+    "fanFavouriteDiscoveryScore": 61.106,
+    "fanFavouriteDiscoveryPercentile": 68.9562
   }
 }

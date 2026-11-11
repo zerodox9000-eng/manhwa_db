@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-10-14T00:42:11.762Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-10T00:22:31.859Z",
+  "last_updated_at": "2026-11-11T00:23:47.398Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +96,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/218684"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ill-dream-of-you",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ill-dream-of-you"
+    },
     "mangaupdates": {
       "id": "wifa4db",
       "rating": 64,
@@ -105,13 +109,18 @@
   },
   "tag_ids": [
     43,
+    247,
+    308,
     108,
     22,
     41,
+    547,
+    558,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -122,18 +131,23 @@
     "57": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "247": "unweighted",
+    "308": "unweighted",
+    "428": "unweighted",
+    "547": "unweighted",
+    "558": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 38,
+    "popularity": 39,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 21.4797,
-    "fanFavouriteDiscoveryScore": 17.3377,
-    "fanFavouriteDiscoveryPercentile": 18.9163
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 21.8071,
+    "fanFavouriteDiscoveryScore": 17.5322,
+    "fanFavouriteDiscoveryPercentile": 19.1472
   }
 }

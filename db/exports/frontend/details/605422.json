@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-10-01T06:32:37.624Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T17:06:16.761Z",
+  "last_updated_at": "2026-11-10T17:07:15.441Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +96,11 @@
       "rating": 59,
       "url": "https://anilist.co/manga/217579"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "boss-thanks-for-the-stay",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/boss-thanks-for-the-stay"
+    },
     "mangaupdates": {
       "id": "4nv6dzk",
       "rating": 63,
@@ -114,7 +118,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -128,18 +133,19 @@
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 124,
+    "popularity": 127,
     "favourites": null,
     "meanScore": 59
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 41.5769,
-    "fanFavouriteDiscoveryScore": 28.023,
-    "fanFavouriteDiscoveryPercentile": 30.3786
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 42.0029,
+    "fanFavouriteDiscoveryScore": 28.1188,
+    "fanFavouriteDiscoveryPercentile": 30.4535
   }
 }

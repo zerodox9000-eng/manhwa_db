@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-09-17T05:36:53.422Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T05:55:18.632Z",
+  "last_updated_at": "2026-11-10T11:55:28.239Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -75,7 +75,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/217774"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "i-shouldnt-have-slept-with-you",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/i-shouldnt-have-slept-with-you"
+    },
     "mangaupdates": {
       "id": "mjufy6e",
       "rating": null,
@@ -89,11 +93,13 @@
     14,
     41,
     109,
+    1550,
     6,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -107,7 +113,9 @@
     "93": "unweighted",
     "108": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "1550": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 21,
@@ -116,9 +124,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 13.1226,
-    "fanFavouriteDiscoveryScore": 11.776,
-    "fanFavouriteDiscoveryPercentile": 12.0806
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 13.1051,
+    "fanFavouriteDiscoveryScore": 11.7467,
+    "fanFavouriteDiscoveryPercentile": 12.0425
   }
 }

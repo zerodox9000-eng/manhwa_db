@@ -1,85 +1,85 @@
 {
   "contract": "manhwa-frontend-data",
   "schemaVersion": 1,
-  "buildId": "v1-92058f5fda815fdd",
-  "generatedAt": "2026-11-10T00:50:45.087Z",
+  "buildId": "v1-a0adc5104e537625",
+  "generatedAt": "2026-11-11T00:50:57.275Z",
   "chunkTargetBytes": 8388608,
   "datasets": {
     "catalog": {
       "kind": "array",
-      "count": 21676,
+      "count": 21720,
       "chunks": [
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0001.json.gz",
-          "bytes": 1845880,
-          "sha256": "474f081284aa69727619a6fb9862e062eda3519aca00a23174bfed220772bc45",
-          "records": 2538
+          "path": "builds/v1-a0adc5104e537625/catalog/0001.json.gz",
+          "bytes": 1846061,
+          "sha256": "64e85df19d7f6fe03ead9bc95cea5454ba382cb54a7097005eafc8ad3d448cd7",
+          "records": 2537
         },
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0002.json.gz",
-          "bytes": 1712761,
-          "sha256": "771f02b37cb402c9906f0d46bf3b07ceeb292b81264741d9e2d884a77822d714",
-          "records": 3213
+          "path": "builds/v1-a0adc5104e537625/catalog/0002.json.gz",
+          "bytes": 1712632,
+          "sha256": "4b48f1af37b60d618855c84f63e9e516b4b407e708a9c01c4c607bf9d9752208",
+          "records": 3212
         },
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0003.json.gz",
-          "bytes": 1920459,
-          "sha256": "4733808c3052dfaf2747a1b30397bf80a3143a39b55cd80171931cbaa091a89c",
-          "records": 2662
+          "path": "builds/v1-a0adc5104e537625/catalog/0003.json.gz",
+          "bytes": 1921134,
+          "sha256": "eccd49ee47d7e8c3d2404fa1fb301680e6cc3ce5c1004e3fff793356db4d68c4",
+          "records": 2661
         },
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0004.json.gz",
-          "bytes": 1928311,
-          "sha256": "022558061bda874e5e093bb3faa3500ab82f4e682817a60fb3274d63d2d1a365",
+          "path": "builds/v1-a0adc5104e537625/catalog/0004.json.gz",
+          "bytes": 1928620,
+          "sha256": "64454963378fa02f8850b51f39c1b44a3b54020a2443661784f99d3e26a771df",
           "records": 2707
         },
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0005.json.gz",
-          "bytes": 1823083,
-          "sha256": "bfe80e610b955ea2c40b552e2a8a6b803e9e40347a61be866a1dd73ff6d2554f",
-          "records": 2980
+          "path": "builds/v1-a0adc5104e537625/catalog/0005.json.gz",
+          "bytes": 1823297,
+          "sha256": "44753dba5ff5baa1f7260d57ed05904e2730ce4d2e6f443c1aaab90388f150b9",
+          "records": 2974
         },
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0006.json.gz",
-          "bytes": 1910184,
-          "sha256": "2c2b8ad5e99911e9fe45fc33bb5d201356858dbd67780728e90f00479bb11683",
-          "records": 2609
+          "path": "builds/v1-a0adc5104e537625/catalog/0006.json.gz",
+          "bytes": 1910344,
+          "sha256": "f83eeae993c000bf5e96ee9e53858d468a78ed6d2ce41479c7551e2d9b701293",
+          "records": 2620
         },
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0007.json.gz",
-          "bytes": 1735513,
-          "sha256": "fc770f304043104cb9a7ebbc039e1fdf4b93a066d328ff2d53709fb9e60db2d4",
-          "records": 3149
+          "path": "builds/v1-a0adc5104e537625/catalog/0007.json.gz",
+          "bytes": 1734697,
+          "sha256": "51b141b713af5fcac836c46d0cb86fb99b9c182e243e7570c3c32cec963f5a82",
+          "records": 3151
         },
         {
-          "path": "builds/v1-92058f5fda815fdd/catalog/0008.json.gz",
-          "bytes": 1079481,
-          "sha256": "be42de3ce9f03b132bb39f40e8212b0479bac65446af1605675a753139acefa3",
-          "records": 1818
+          "path": "builds/v1-a0adc5104e537625/catalog/0008.json.gz",
+          "bytes": 1106062,
+          "sha256": "541808771f1da4aa2f1a6ea2a663d26526228075930e8d1d5be68cab976e59a0",
+          "records": 1858
         }
       ]
     },
     "tags": {
       "kind": "object",
-      "count": 5501,
+      "count": 5502,
       "chunks": [
         {
-          "path": "builds/v1-92058f5fda815fdd/tags/0001.json.gz",
-          "bytes": 119749,
-          "sha256": "4aa686a66587a3e293c60c77ecd62cb11272eacc2b48b328ed30a74d9e5890d6",
-          "records": 5501
+          "path": "builds/v1-a0adc5104e537625/tags/0001.json.gz",
+          "bytes": 119764,
+          "sha256": "9ffd156c9f73ceaf040991de69465322bc03b6155140eb45e9d27720cd8e2d50",
+          "records": 5502
         }
       ]
     },
     "weeklyHistory": {
       "kind": "object",
-      "count": 14399,
+      "count": 14403,
       "chunks": [
         {
-          "path": "builds/v1-92058f5fda815fdd/weeklyHistory/0001.json.gz",
-          "bytes": 661128,
-          "sha256": "803d99a4f66c09d8e3b99086d369aa08fe8bd07179d717822315236346a95389",
-          "records": 14399
+          "path": "builds/v1-a0adc5104e537625/weeklyHistory/0001.json.gz",
+          "bytes": 664380,
+          "sha256": "8a0c3810232ba04ee569f732ec57ece3eae9e4bb0a7d283b2655648ef88255cc",
+          "records": 14403
         }
       ]
     },
@@ -88,7 +88,7 @@
       "count": 0,
       "chunks": [
         {
-          "path": "builds/v1-92058f5fda815fdd/recommendations/0001.json.gz",
+          "path": "builds/v1-a0adc5104e537625/recommendations/0001.json.gz",
           "bytes": 22,
           "sha256": "21947b02ead137acb20e602e9448c7c453b2836d1a755aadd5e1c61ecd2eb034",
           "records": 0
@@ -100,9 +100,9 @@
       "count": 10,
       "chunks": [
         {
-          "path": "builds/v1-92058f5fda815fdd/updates/0001.json.gz",
-          "bytes": 12889,
-          "sha256": "2b4420ebc8cd06f75bc587ecb39b3a86fbdfdc8c71346ac3ac7a12af153c9e0d",
+          "path": "builds/v1-a0adc5104e537625/updates/0001.json.gz",
+          "bytes": 12273,
+          "sha256": "5750463d2151d35922752c370a5f54e6106a5e6708d6832c3d87bfb8915954e8",
           "records": 10
         }
       ]

@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-11-05T00:42:21.372Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T22:55:37.151Z",
+  "last_updated_at": "2026-11-10T22:55:41.442Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +96,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/219520"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-subcontractors-blueprint",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-subcontractors-blueprint"
+    },
     "mangaupdates": {
       "id": "j88yls6",
       "rating": null,
@@ -111,7 +115,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -122,18 +127,19 @@
     "93": "unweighted",
     "159": "unweighted",
     "248": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 11,
+    "popularity": 12,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 6.2313,
-    "fanFavouriteDiscoveryScore": 7.871,
-    "fanFavouriteDiscoveryPercentile": 5.8631
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 6.9241,
+    "fanFavouriteDiscoveryScore": 8.2082,
+    "fanFavouriteDiscoveryPercentile": 6.5005
   }
 }

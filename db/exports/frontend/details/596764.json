@@ -2,7 +2,7 @@
   "id": 596764,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Chance of Meeting Your Ex on a Hetero Dating Show",
+  "display_title": "Chance of Meeting Your Ex on a Straight Dating Show",
   "mangabaka_title": "Hetero Yeonpeueseo Jeonaeingwa Mannal Hwangnyul",
   "native_title": "헤테로 연프에서 전애인과 만날 확률",
   "romanized_title": "Hetero Yeonpeu-eseo Jeonaein-gwa Mannal Hwakryul",
@@ -27,14 +27,14 @@
       "language": "en",
       "title": "Chance of Meeting Your Ex on a Hetero Dating Show",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Chance of Meeting Your Ex on a Straight Dating Show",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-07-18T03:56:21.778Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T19:30:44.851Z",
+  "last_updated_at": "2026-11-10T03:55:06.089Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -105,7 +105,11 @@
       "rating": 70,
       "url": "https://anilist.co/manga/214138"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "chance-of-meeting-your-ex-on-a-hetero-dating-show",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/chance-of-meeting-your-ex-on-a-hetero-dating-show"
+    },
     "mangaupdates": {
       "id": "5lgn664",
       "rating": 64,
@@ -114,14 +118,18 @@
   },
   "tag_ids": [
     58,
+    74,
+    283,
     46,
     180,
     16,
     31,
     9,
     93,
+    1027,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -131,9 +139,13 @@
     "46": "defining",
     "57": "unweighted",
     "58": "defining",
+    "74": "unweighted",
     "93": "unweighted",
     "180": "defining",
-    "428": "unweighted"
+    "283": "unweighted",
+    "428": "unweighted",
+    "1027": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 77,
@@ -142,10 +154,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 33.1018,
-    "fanFavouriteDiscoveryScore": 24.4564,
-    "fanFavouriteDiscoveryPercentile": 26.6829
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 33.0648,
+    "fanFavouriteDiscoveryScore": 24.3995,
+    "fanFavouriteDiscoveryPercentile": 26.606
   },
   "context": {
     "primaryProfile": "modern-korea",

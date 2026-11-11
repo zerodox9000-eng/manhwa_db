@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-09T07:52:37.890Z",
+  "last_updated_at": "2026-11-10T07:54:01.908Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -127,10 +127,14 @@
   "source": {
     "anilist": {
       "id": 207448,
-      "rating": 78,
+      "rating": 77,
       "url": "https://anilist.co/manga/207448"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-hero-bride",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-hero-bride"
+    },
     "mangaupdates": {
       "id": "ka40mk9",
       "rating": 63,
@@ -150,6 +154,7 @@
     692,
     2405,
     2400,
+    74,
     679,
     3362,
     1176,
@@ -171,7 +176,8 @@
     1004,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -185,6 +191,7 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "132": "core",
@@ -208,19 +215,20 @@
     "2985": "core",
     "3362": "defining",
     "5238": "defining",
-    "6687": "defining"
+    "6687": "defining",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 144,
+    "popularity": 146,
     "favourites": 1,
-    "meanScore": 77
+    "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 0.6944,
-    "fanRatioPercentile": 39.8263,
-    "popularityPercentile": 44.2654,
-    "fanFavouriteDiscoveryScore": 35.1706,
-    "fanFavouriteDiscoveryPercentile": 38.6315
+    "fanFavouriteRaw": 0.6849,
+    "fanRatioPercentile": 39.5097,
+    "popularityPercentile": 44.51,
+    "fanFavouriteDiscoveryScore": 34.9735,
+    "fanFavouriteDiscoveryPercentile": 38.4193
   },
   "context": {
     "primaryProfile": "romance-core",

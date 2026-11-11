@@ -83,7 +83,7 @@
   },
   "first_seen_at": "2026-08-06T03:59:41.147Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T17:27:12.615Z",
+  "last_updated_at": "2026-11-10T06:06:29.330Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -104,7 +104,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/217393"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "if-that-what-you-want-ill-gladly-do-it",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/if-that-what-you-want-ill-gladly-do-it"
+    },
     "mangaupdates": {
       "id": "zta11e6",
       "rating": null,
@@ -113,13 +117,15 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -128,9 +134,11 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 15,
@@ -139,9 +147,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6641,
-    "popularityPercentile": 9.1699,
-    "fanFavouriteDiscoveryScore": 9.4247,
-    "fanFavouriteDiscoveryPercentile": 8.5168
+    "fanRatioPercentile": 32.6134,
+    "popularityPercentile": 9.1881,
+    "fanFavouriteDiscoveryScore": 9.4203,
+    "fanFavouriteDiscoveryPercentile": 8.5353
   }
 }
