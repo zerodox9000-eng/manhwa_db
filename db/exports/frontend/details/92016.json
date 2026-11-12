@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Migu Play",
-  "mangabaka_title": "Migu Play",
+  "mangabaka_title": "Migunori",
   "native_title": "미구놀이",
-  "romanized_title": null,
+  "romanized_title": "Migunori",
   "titles": [
     {
       "language": "ko",
       "title": "미구놀이",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Migunori",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,28 +34,28 @@
     }
   ],
   "description": "Sawol, the son of a gisaeng who was on his way to the village, is sold as a playboard for engaging in promiscuous sexual activities after the death of his mother, who was his only family member. There, Sawol meets a friendly man named Hanul and is relieved that he has found a new home. However, except for Hanul, the people in the playboard say that Sawol seems to have a different plan, but Sawol can go outside at night and not sing. If you do that, the fox ghost will eat you.\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/migunori), [Lezhin](https://www.lezhin.com/ko/comic/migunori)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNzc4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc3MS0yQTdwWXFmeENkc0gucG5n",
   "total_chapters": "40",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2024-04-24",
+    "end_date": "2025-05-10",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-09T13:05:56.858Z",
+  "last_updated_at": "2026-11-11T02:46:36.464Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Rekkul"
+    "Lecur"
   ],
   "artists": [
-    "Rekkul"
+    "Lecur"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/92016",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219771,
+      "rating": null,
+      "url": "https://anilist.co/manga/219771"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "adnu1as",
@@ -63,20 +78,39 @@
   "tag_ids": [
     36,
     46,
+    180,
     16,
     31,
-    9
+    44,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "36": "defining",
+    "44": "unweighted",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6579,
+    "popularityPercentile": 0.1804,
+    "fanFavouriteDiscoveryScore": 5.2543,
+    "fanFavouriteDiscoveryPercentile": 0.1804
   },
   "context": {
     "primaryProfile": "horror-survival",

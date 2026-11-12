@@ -2,42 +2,53 @@
   "id": 608647,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Gwageo Jaeyeon",
-  "mangabaka_title": "Gwageo Jaeyeon",
+  "display_title": "Reenacting the Past",
+  "mangabaka_title": "Gwageojaeyeon",
   "native_title": "과거재연",
-  "romanized_title": "Gwageo Jaeyeon",
+  "romanized_title": "Gwageojaeyeon",
   "titles": [
     {
       "language": "ko",
       "title": "과거재연",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
-      "title": "Gwageo Jaeyeon",
+      "title": "Gwageojaeyeon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Reenacting the Past",
       "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/re_past)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNTMzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc3Mi01cHRCbmZqbk5SWXAucG5n",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-29T00:42:21.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T00:23:27.313Z",
+  "last_updated_at": "2026-11-12T00:23:55.453Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219772,
+      "rating": null,
+      "url": "https://anilist.co/manga/219772"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "riy704p",
@@ -61,19 +76,36 @@
     }
   },
   "tag_ids": [
+    180,
     16,
+    6,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6579,
+    "popularityPercentile": 0.1804,
+    "fanFavouriteDiscoveryScore": 5.2543,
+    "fanFavouriteDiscoveryPercentile": 0.1804
   }
 }

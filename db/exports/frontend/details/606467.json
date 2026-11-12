@@ -4,21 +4,23 @@
   "type": "manhwa",
   "display_title": "Convergence Point",
   "mangabaka_title": "Suryeomjeom",
-  "native_title": "[관계중독 단편선] 수렴점",
+  "native_title": "수렴점",
   "romanized_title": "[Gwan-gye Joongdok Danpyeonseon] Suryeomjeom",
   "titles": [
     {
       "language": "ko",
       "title": "수렴점",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 수렴점",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -37,35 +39,44 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Suryeomjeom",
+      "title": "[Gwangyejungdong Danpyeonseon] Suryeomjeom",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Suryeomjeom",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "Same-age friends Seo Ju-hyuk and Jeong Yu-jin end up in an arranged marriage due to pressure from their families.\n\nLater, while dragging themselves through a boring series of interviews to find an Omega surrogate mother to bear their child—\n\n*\"I have circumstances that prevent me from joining the military...\"*\n\nAn applicant who catches both of their eyes, Han Do-yun, appears. *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/converge)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMzQwLmpwZw",
+  "description": "*Note: The ninth and final story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc3MC1SMWZ0aU9pUUk0bUYucG5n",
   "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-05",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-07T06:29:16.946Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-10T08:03:22.741Z",
+  "last_updated_at": "2026-11-11T08:03:48.495Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Moscareto"
   ],
   "artists": [
-    "Sue"
+    "Syu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606467",
@@ -73,29 +84,53 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219770,
+      "rating": null,
+      "url": "https://anilist.co/manga/219770"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "jlfr8g6",
-      "rating": 62,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/jlfr8g6"
     }
   },
   "tag_ids": [
     15,
     41,
+    173,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "16": "defining",
+    "31": "defining",
+    "41": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "173": "incidental",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6579,
+    "popularityPercentile": 0.1804,
+    "fanFavouriteDiscoveryScore": 5.2543,
+    "fanFavouriteDiscoveryPercentile": 0.1804
   }
 }

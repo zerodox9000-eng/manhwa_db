@@ -2,15 +2,17 @@
   "id": 608081,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Soyoo-eui Bangsik",
-  "mangabaka_title": "Soyoo-eui Bangsik",
+  "display_title": "The Way of Possession",
+  "mangabaka_title": "Soyuui Bangsik",
   "native_title": "소유의 방식",
   "romanized_title": "Soyoo-eui Bangsik",
   "titles": [
     {
       "language": "ko",
       "title": "소유의 방식",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,26 +20,42 @@
       "language": "ko-Latn",
       "title": "Soyoo-eui Bangsik",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Soyuui Bangsik",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Way of Possession",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nLezhin",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMTU3LmpwZw",
+  "description": "Lee Jae, who was toyed with and then abandoned by Ji Eon, who possesses a twisted heart contrary to his glamorous exterior, is deeply shaken. Yeong Bin, who has long harbored a crush on Lee Jae, kidnaps Ji Eon and offers him up, claiming he has prepared a gift for Lee Jae…\n\n(Source: Lezhin, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTgxNy1jajVFcEhFRk14cGQucG5n",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-12",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-25T00:42:04.330Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-08T23:59:44.094Z",
+  "last_updated_at": "2026-11-12T00:04:33.344Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219817,
+      "rating": null,
+      "url": "https://anilist.co/manga/219817"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "aa3o5xh",
@@ -61,17 +83,34 @@
     }
   },
   "tag_ids": [
-    16
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6579,
+    "popularityPercentile": 0.1804,
+    "fanFavouriteDiscoveryScore": 5.2543,
+    "fanFavouriteDiscoveryPercentile": 0.1804
   }
 }

@@ -4,21 +4,23 @@
   "type": "manhwa",
   "display_title": "Rough Mark",
   "mangabaka_title": "Noetjaguk",
-  "native_title": "[관계중독 단편선] 뇟자국",
+  "native_title": "뇟자국",
   "romanized_title": "[Gwan-gye Joongdok Danpyeonseon] Noetjaguk",
   "titles": [
     {
       "language": "ko",
       "title": "뇟자국",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[관계중독 단편선] 뇟자국",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -30,8 +32,17 @@
     },
     {
       "language": "ko-Latn",
-      "title": "Noetjaguk",
+      "title": "[Gwangyejungdong Danpyeonseon] Noetjaguk",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Noetjaguk",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,29 +54,29 @@
       "note": null
     }
   ],
-  "description": "Upon turning 20, Seoeum gets a sudden notice from his mother to move in with Hyeonseo. It has already been four years since he lost touch with Hyeonseo—the older boy who had always been so sweet to him—for reasons unknown. Stepping into the apartment dreaming of a tender reunion, Seoeum is instead greeted by the sight of Hyeonseo masturbating from behind... *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/brain_imprint)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODg4LmpwZw",
+  "description": "*Note: The eighth story in Lezhin's Gwangyejungdong Danpyeonseon (관계중독 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc2OS1CbkpvNWxQeTc1UkoucG5n",
   "total_chapters": "5",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-02",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-07T06:29:16.946Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-10T07:46:41.880Z",
+  "last_updated_at": "2026-11-11T07:47:48.076Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Heemaeng"
+    "Hui-Maeng"
   ],
   "artists": [
-    "Nongha"
+    "Nong-Ha"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/606468",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219769,
+      "rating": null,
+      "url": "https://anilist.co/manga/219769"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "xhb6eiw",
@@ -84,23 +99,50 @@
   "tag_ids": [
     1381,
     1393,
+    106,
     97,
     567,
     161,
+    180,
     16,
     228,
+    31,
     984,
-    1167
+    9,
+    93,
+    1167,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "97": "core",
+    "106": "incidental",
+    "161": "core",
+    "180": "incidental",
+    "228": "core",
+    "428": "unweighted",
+    "567": "core",
+    "984": "core",
+    "1167": "unweighted",
+    "1381": "core",
+    "1393": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 50
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6579,
+    "popularityPercentile": 0.7148,
+    "fanFavouriteDiscoveryScore": 5.4536,
+    "fanFavouriteDiscoveryPercentile": 0.6801
   }
 }
