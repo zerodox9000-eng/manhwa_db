@@ -2,42 +2,53 @@
   "id": 587905,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Red Apple for You",
-  "mangabaka_title": "A Red Apple for You",
+  "display_title": "A Red Apple For You",
+  "mangabaka_title": "Neoege Bulgeun Sagwareul",
   "native_title": "너에게 붉은 사과를",
-  "romanized_title": null,
+  "romanized_title": "Neoege Bulgeun Sagwareul",
   "titles": [
     {
       "language": "ko",
       "title": "너에게 붉은 사과를",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
-      "title": "A Red Apple for You",
+      "title": "A Red Apple For You",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Neoege Bulgeun Sagwareul",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": null,
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI0OTI3LmpwZw",
-  "total_chapters": null,
-  "status": "unknown",
+  "description": "Yeoreum has contracted a contagious disease that turns the body into a tree. While coming to terms with her own impending death, she saves Jina, who is attempting to jump from a rooftop. Just how long can Yeoreum remain by Jina's side? \n\n(Source: Bomtoon, translated) \n\n*Note: Originally self-published on the author's Aladin account. Was published by Ridibooks on 2025-11-07.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTg0Ni1YVVBsRkI5cWxkaWkuanBn",
+  "total_chapters": "4",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2024-04-01",
+    "end_date": "2024-04-30",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:48:24.828Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-10T00:16:33.310Z",
+  "last_updated_at": "2026-11-12T23:36:25.034Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219846,
+      "rating": null,
+      "url": "https://anilist.co/manga/219846"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "qiwvdqe",
@@ -61,18 +76,27 @@
     }
   },
   "tag_ids": [
+    22,
+    31,
     33
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "22": "unweighted",
+    "31": "unweighted",
+    "33": "defining"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6862,
+    "popularityPercentile": 0.1595,
+    "fanFavouriteDiscoveryScore": 5.2511,
+    "fanFavouriteDiscoveryPercentile": 0.1595
   },
   "context": {
     "primaryProfile": null,

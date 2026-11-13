@@ -2,8 +2,8 @@
   "id": 601092,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Tsunami Warning",
-  "mangabaka_title": "Haeiljuuibo",
+  "display_title": "Tidal Warning",
+  "mangabaka_title": "Tidal Warning",
   "native_title": "해일주의보",
   "romanized_title": "Haeiljuuibo",
   "titles": [
@@ -42,8 +42,10 @@
     {
       "language": "en",
       "title": "Tidal Warning",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -57,7 +59,7 @@
       "language": "en",
       "title": "Tsunami Warning",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -82,7 +84,7 @@
       "note": null
     }
   ],
-  "description": "As a third-year developer, Lee Dan-Bi’s life motto was simple. Don’t covet the world beyond your own little pond; be content with reality. That’s why she was able to give up on a one-sided crush that was beyond her reach…\n\nToday’s Horoscope - The start of the week: Watch out for a sudden tidal wave!\n\nOne morning that began with an unsettling horoscope, the newly appointed team leader… her first love from school days? And that massive tidal wave crashes head-on into Dan-Bi’s simple life! \n\n *“I don’t get it. The Lee Dan-Bi I know likes me.”*\n\nFaced with that dizzying sense of strangeness, her heart began to race wildly once again.\n\n(Source: Naver, translated)",
+  "description": "Dan-Bi Lee’s fortune app warns her to brace for a tidal wave. She just doesn’t expect it to show up in a tailored suit. Hae-Il Han, her high school first love, is back after ten years. Now he’s a Silicon Valley success, heir to the company she works for, and, worst of all, her new boss. Dan-Bi wants to keep her head down, her job intact, and the past where it belongs. Hae-Il didn’t come back to play it safe. He came back for her.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTk1OS03dXNmVzcxVEc5VTIuanBn",
   "total_chapters": "17",
   "status": "releasing",
@@ -97,7 +99,7 @@
   },
   "first_seen_at": "2026-08-26T02:19:28.203Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T17:26:33.411Z",
+  "last_updated_at": "2026-11-12T17:27:32.335Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -109,13 +111,15 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/601092",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/en/-/-/list?title_no=11539",
+    "read_en_all": [
+      "https://www.webtoons.com/en/-/-/list?title_no=11539"
+    ]
   },
   "source": {
     "anilist": {
       "id": 215959,
-      "rating": 73,
+      "rating": 71,
       "url": "https://anilist.co/manga/215959"
     },
     "animeplanet": {
@@ -163,15 +167,15 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 359,
+    "popularity": 369,
     "favourites": 3,
-    "meanScore": 71
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": 0.8357,
-    "fanRatioPercentile": 43.6849,
-    "popularityPercentile": 61.5406,
-    "fanFavouriteDiscoveryScore": 42.356,
-    "fanFavouriteDiscoveryPercentile": 47.5156
+    "fanFavouriteRaw": 0.813,
+    "fanRatioPercentile": 43.1494,
+    "popularityPercentile": 62.0857,
+    "fanFavouriteDiscoveryScore": 41.8933,
+    "fanFavouriteDiscoveryPercentile": 46.9422
   }
 }

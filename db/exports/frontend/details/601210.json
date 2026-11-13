@@ -104,7 +104,7 @@
   },
   "first_seen_at": "2026-08-27T03:45:42.901Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T00:54:43.900Z",
+  "last_updated_at": "2026-11-12T05:04:51.816Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -126,7 +126,11 @@
       "rating": 55,
       "url": "https://anilist.co/manga/216002"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "alpha-above-alpha",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/alpha-above-alpha"
+    },
     "mangaupdates": {
       "id": "yftn087",
       "rating": 61,
@@ -163,7 +167,8 @@
     93,
     1167,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [
     3062
@@ -198,7 +203,8 @@
     "3752": "defining",
     "4347": "core",
     "5423": "core",
-    "5613": "core"
+    "5613": "core",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 38,
@@ -207,9 +213,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6579,
-    "popularityPercentile": 21.4087,
-    "fanFavouriteDiscoveryScore": 17.2863,
-    "fanFavouriteDiscoveryPercentile": 18.8203
+    "fanRatioPercentile": 32.6862,
+    "popularityPercentile": 21.4464,
+    "fanFavouriteDiscoveryScore": 17.3268,
+    "fanFavouriteDiscoveryPercentile": 18.8947
   }
 }

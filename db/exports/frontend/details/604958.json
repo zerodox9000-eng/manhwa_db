@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-09-26T05:28:44.618Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T17:21:52.903Z",
+  "last_updated_at": "2026-11-12T17:22:35.565Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -75,7 +75,11 @@
       "rating": 71,
       "url": "https://anilist.co/manga/217227"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "mothers-friends",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/mothers-friends"
+    },
     "mangaupdates": {
       "id": "qmctj3p",
       "rating": 63,
@@ -95,7 +99,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -111,18 +116,19 @@
     "93": "unweighted",
     "109": "defining",
     "339": "defining",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 288,
+    "popularity": 293,
     "favourites": 4,
     "meanScore": 71
   },
   "analytics": {
-    "fanFavouriteRaw": 1.3889,
-    "fanRatioPercentile": 61.3949,
-    "popularityPercentile": 57.3213,
-    "fanFavouriteDiscoveryScore": 58.7738,
-    "fanFavouriteDiscoveryPercentile": 66.4469
+    "fanFavouriteRaw": 1.3652,
+    "fanRatioPercentile": 60.6157,
+    "popularityPercentile": 57.655,
+    "fanFavouriteDiscoveryScore": 58.0959,
+    "fanFavouriteDiscoveryPercentile": 65.823
   }
 }

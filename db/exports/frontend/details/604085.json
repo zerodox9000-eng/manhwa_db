@@ -48,7 +48,7 @@
   },
   "first_seen_at": "2026-09-16T05:15:46.329Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T15:53:45.008Z",
+  "last_updated_at": "2026-11-12T15:54:37.772Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -68,7 +68,11 @@
       "rating": 53,
       "url": "https://anilist.co/manga/216734"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "ts-punishment",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/ts-punishment"
+    },
     "mangaupdates": {
       "id": "6gchx0k",
       "rating": 62,
@@ -89,7 +93,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -106,18 +111,19 @@
     "161": "incidental",
     "169": "incidental",
     "370": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 75,
+    "popularity": 76,
     "favourites": 1,
     "meanScore": 53
   },
   "analytics": {
-    "fanFavouriteRaw": 1.3333,
-    "fanRatioPercentile": 59.6253,
-    "popularityPercentile": 32.6162,
-    "fanFavouriteDiscoveryScore": 44.1844,
-    "fanFavouriteDiscoveryPercentile": 49.9167
+    "fanFavouriteRaw": 1.3158,
+    "fanRatioPercentile": 59.1874,
+    "popularityPercentile": 32.804,
+    "fanFavouriteDiscoveryScore": 44.037,
+    "fanFavouriteDiscoveryPercentile": 49.7296
   }
 }

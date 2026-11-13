@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Two Faces",
-  "mangabaka_title": "Two Faces",
-  "native_title": "二つの顔の性",
-  "romanized_title": null,
+  "mangabaka_title": "Du Eolgul",
+  "native_title": "두 얼굴",
+  "romanized_title": "Du Eolgul",
   "titles": [
     {
       "language": "ko",
       "title": "두 얼굴",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Du Eolgul",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,29 +47,29 @@
       "note": null
     }
   ],
-  "description": "Twins with the same face, Malsuk and Seri. Malsuk worked in two shifts at the factory, contributing to her younger sister Seri's tuition. Seri lives a life of luxury, attending university during the day and earning pocket money at clubs at night. Then one day, Seri becomes deeply entangled with Hee-cheol, the boyfriend of her older sister Mal-sook, whom she met at a club...\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=845646), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13498581) \n\n**Official Translations:**   \n[Japanese](https://manga.line.me/product/periodic?id=Z0004372)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTEwNTcxLmpwZw",
+  "description": "Mal-Suk and Se-Ri are identical twins. Mal-Suk works two shifts at a factory to help pay for her younger sister Se-Ri's tuition. Se-Ri lives a life of college during the day and indulging in luxury at night while earning pocket money at a club. Then one day, Se=Ri becomes hopelessly entangled with Hui-Chul, Mal-Suk's boyfriend, whom she met at the club...",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTgxNi0zZTRnc3NROTN5bWoucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2025,
   "published": {
-    "start_date": "2025-01-01",
+    "start_date": "2025-12-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-06-10T15:50:08.740Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-11T01:03:03.597Z",
+  "last_updated_at": "2026-11-12T21:56:36.826Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "1001"
+    "Do-Ro Sin"
   ],
   "artists": [
-    "Kaenla"
+    "Kaella"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/569880",
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219816,
+      "rating": null,
+      "url": "https://anilist.co/manga/219816"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "2yutckj",
@@ -76,20 +91,38 @@
   },
   "tag_ids": [
     43,
+    59,
+    253,
     46,
     15,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "15": "defining",
+    "31": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "253": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6862,
+    "popularityPercentile": 1.8444,
+    "fanFavouriteDiscoveryScore": 5.8998,
+    "fanFavouriteDiscoveryPercentile": 1.7196
   },
   "context": {
     "primaryProfile": "showbiz-career",

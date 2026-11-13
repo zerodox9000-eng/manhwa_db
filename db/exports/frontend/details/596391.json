@@ -106,7 +106,7 @@
   },
   "first_seen_at": "2026-07-13T04:23:37.483Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T17:14:35.253Z",
+  "last_updated_at": "2026-11-12T17:16:01.161Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -129,7 +129,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/214030"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "yu-irin-in-the-toilet",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/yu-irin-in-the-toilet"
+    },
     "mangaupdates": {
       "id": "m74uw5z",
       "rating": 63,
@@ -151,7 +155,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -169,19 +174,20 @@
     "93": "unweighted",
     "109": "incidental",
     "161": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 77,
+    "popularity": 78,
     "favourites": null,
     "meanScore": 60
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6579,
-    "popularityPercentile": 33.0534,
-    "fanFavouriteDiscoveryScore": 24.4269,
-    "fanFavouriteDiscoveryPercentile": 26.5996
+    "fanRatioPercentile": 32.6862,
+    "popularityPercentile": 33.2964,
+    "fanFavouriteDiscoveryScore": 24.5722,
+    "fanFavouriteDiscoveryPercentile": 26.7231
   },
   "context": {
     "primaryProfile": "modern-korea",

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Lady Jane's Toy Drawer",
-  "mangabaka_title": "Lady Jane's Toy Drawer",
+  "mangabaka_title": "Lady Jane-ui Jangnangam Seorap",
   "native_title": "레이디 제인의 장난감 서랍",
-  "romanized_title": null,
+  "romanized_title": "Lady Jane-ui Jangnangam Seorap",
   "titles": [
     {
       "language": "ko",
       "title": "레이디 제인의 장난감 서랍",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -50,6 +52,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Lady Jane-ui Jangnangam Seorap",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Lady's Toy Drawer",
       "traits": [],
@@ -58,28 +69,28 @@
     }
   ],
   "description": "Jane Bryant, the youngest daughter of one of the Empire’s most powerful noble families and its leading merchant guild, has a rather unusual personality: despite being well past the usual marriageable age, she still has no intention of getting married.\n\nBut Jane has a secret hobby she could never tell anyone about. \n\nAnd that hobby is none other than… ~𝑯𝒂𝒑𝒑𝒚 𝑻𝒊𝒎𝒆\\~ \n\nOne day, while enjoying her usual “Happy Time,” her expensive vibrating magic device suddenly breaks down just before she reaches climax. Enraged, Jane disguises herself as a commoner and storms into the shop to complain. \n\nBut there, she ends up having an unexpected one-night encounter with Rowen, a mage whose body is exceptionally sensitive to magic. \n\nThen she discovers an even more surprising truth: \n\nRowen is the developer who makes the shop’s adult magic devices?! \n\n“Go into business with me!” \n\nWith Jane’s eyes sparkling with curiosity and excitement and the painfully shy Rowen by her side, just how will the business venture between these two unfold?\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/Lady_J), [Lezhin](https://www.lezhin.com/ko/comic/lady_janes_toy_drawer)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM1OTE4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNzQ5Mi1yakYwQ1YzdmliSUMucG5n",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-08-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-08-19T02:11:22.067Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-09T23:34:49.138Z",
+  "last_updated_at": "2026-11-12T23:37:20.700Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Nono (노노)"
+    "nono"
   ],
   "artists": [
-    "Young Hyun"
+    "Yeong-Hyeon"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600483",
@@ -87,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 217492,
+      "rating": 70,
+      "url": "https://anilist.co/manga/217492"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "7k3c7jg",
@@ -97,19 +112,39 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    289,
+    6,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "289": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 14,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6862,
+    "popularityPercentile": 8.3414,
+    "fanFavouriteDiscoveryScore": 8.9747,
+    "fanFavouriteDiscoveryPercentile": 7.8214
   }
 }

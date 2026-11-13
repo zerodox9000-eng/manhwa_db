@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "With My Friend's Older Brother",
-  "mangabaka_title": "With My Friend's Older Brother",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Chingu Opparang",
+  "native_title": "친구 오빠랑",
+  "romanized_title": "Chingu Opparang",
   "titles": [
     {
       "language": "ko",
       "title": "친구 오빠랑",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Chingu Opparang",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,26 +33,26 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon :**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=857377), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14975035)",
-  "cover": null,
+  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=857377), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14975035)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTgxNS0xMlBYQWJrRHd2dDUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-12T00:42:26.669Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T17:27:04.837Z",
+  "last_updated_at": "2026-11-12T21:56:36.830Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Joo Hae-Na",
+    "Hae-Na Ju",
     "Nogeum"
   ],
   "artists": [
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219815,
+      "rating": null,
+      "url": "https://anilist.co/manga/219815"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "6y007jn",
@@ -63,18 +78,33 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6862,
+    "popularityPercentile": 0.416,
+    "fanFavouriteDiscoveryScore": 5.346,
+    "fanFavouriteDiscoveryPercentile": 0.4022
   }
 }

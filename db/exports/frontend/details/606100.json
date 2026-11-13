@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-10-04T06:22:19.092Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-11T17:59:55.061Z",
+  "last_updated_at": "2026-11-12T06:13:47.157Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -118,7 +118,11 @@
       "rating": 66,
       "url": "https://anilist.co/manga/217653"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "the-training-game-has-become-reality",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-training-game-has-become-reality"
+    },
     "mangaupdates": {
       "id": "tpz619d",
       "rating": 63,
@@ -136,7 +140,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -150,18 +155,19 @@
     "58": "incidental",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 271,
+    "popularity": 280,
     "favourites": null,
-    "meanScore": 66
+    "meanScore": 69
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6579,
-    "popularityPercentile": 56.1485,
-    "fanFavouriteDiscoveryScore": 31.1272,
-    "fanFavouriteDiscoveryPercentile": 33.0465
+    "fanRatioPercentile": 32.6862,
+    "popularityPercentile": 56.7882,
+    "fanFavouriteDiscoveryScore": 31.2302,
+    "fanFavouriteDiscoveryPercentile": 33.1091
   }
 }
