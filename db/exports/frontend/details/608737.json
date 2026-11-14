@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Ghost of Wakefield",
-  "mangabaka_title": "The Ghost of Wakefield",
+  "mangabaka_title": "Wakefield-ui Yuryeong",
   "native_title": "웨이크필드의 유령",
-  "romanized_title": null,
+  "romanized_title": "Wakefield-ui Yuryeong",
   "titles": [
     {
       "language": "ko",
       "title": "웨이크필드의 유령",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,24 +29,33 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wakefield-ui Yuryeong",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "I am heading to Wakefield Manor. To the place filled with my childhood memories, and the home of my friends. Heresis Vernon, the eldest son of the Vernon family, heads to Wakefield Manor, where his dear old friend William Harclay resides, to attend the memorial service for the Earl of Carlisle in place of his ailing father. William Harclay and his older brother, Andrew Harclay. Although he spent his childhood with them like brothers, his excitement at reuniting with them after a long period of estrangement is short-lived. On this night of remembrance that should be solemn, Heresis witnesses William and his brother engaging in intimacy. Suspicious events gradually begin to unfold within the manor, which is now stranded due to a storm...\n\n**Original Webtoon**  \n[Bomtoon](https://www.bomtoon.com/detail/POW)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMjIyLmpwZw",
+  "description": "I am heading to Wakefield Manor, a place filled with memories of my childhood and the home of my friends. Heraes Vernon, the eldest son of the Vernon family, sets out for Wakefield Manor, where his dear old friend William Harkley lives, to attend the memorial service for the Earl of Carlisle in place of his ailing father. William Harkley and his older brother, Andrew Harkley. Though he had spent his childhood with them as if they were brothers, his excitement at reuniting with them after so long is short-lived. On what should have been a solemn night of remembrance, Heres witnesses William and his brother engaging in a physical act. As they remain stranded at the manor due to a storm, suspicious events gradually begin to unfold...\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTgxOS15MERmSW5LMlNrQUMucG5n",
   "total_chapters": "3",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-29",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-30T00:42:29.449Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-12T00:58:36.336Z",
+  "last_updated_at": "2026-11-13T23:33:15.242Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,8 +70,16 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
-    "animeplanet": null,
+    "anilist": {
+      "id": 219819,
+      "rating": null,
+      "url": "https://anilist.co/manga/219819"
+    },
+    "animeplanet": {
+      "id": "the-ghost-of-wakefield",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/the-ghost-of-wakefield"
+    },
     "mangaupdates": {
       "id": "7itbdpz",
       "rating": null,
@@ -71,23 +90,51 @@
     43,
     1378,
     1963,
+    336,
     97,
     36,
     22,
     46,
+    180,
     16,
     31,
-    984
+    984,
+    9,
+    93,
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "22": "defining",
+    "31": "defining",
+    "36": "unweighted",
+    "43": "unweighted",
+    "46": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "97": "core",
+    "180": "incidental",
+    "336": "incidental",
+    "428": "unweighted",
+    "984": "core",
+    "1378": "core",
+    "1963": "core",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 10,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 5.3715,
+    "fanFavouriteDiscoveryScore": 7.4544,
+    "fanFavouriteDiscoveryPercentile": 5.0665
   }
 }

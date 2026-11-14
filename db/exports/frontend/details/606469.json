@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Coachman and the Young Lady",
-  "mangabaka_title": "The Coachman and the Young Lady",
+  "mangabaka_title": "Mabuwa Agassi",
   "native_title": "마부와 아가씨",
-  "romanized_title": null,
+  "romanized_title": "Mabuwa Agassi",
   "titles": [
     {
       "language": "ko",
       "title": "마부와 아가씨",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Mabuwa Agassi",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,26 +33,26 @@
       "note": null
     }
   ],
-  "description": "Countess Ellie and her coachman, Cole, witness a man and a woman intertwined in her private villa. Escaping the awkward situation, the two ultimately decide to spend the night in the carriage.\n\n\"I'm trying to sleep, but my corset is uncomfortable... Could you help loosen it just a little?\"\n\nStarting from that night, the desires they had tried so hard to suppress begin to slowly reveal themselves...     \n\nWill the two be able to overcome the wall of social status and claim their forbidden love...?\n\n**Original Webtoon:**      \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14802835)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM5ODg3LmpwZw",
+  "description": "Countess Ellie and her coachman, Cole, witness a man and a woman intertwined in her private villa. Escaping the awkward situation, the two ultimately decide to spend the night in the carriage. \n\n *\"I'm trying to sleep, but my corset is uncomfortable... Could you help loosen it just a little?\"* \n\nStarting from that night, the desires they had tried so hard to suppress begin to slowly reveal themselves... \n\nWill the two be able to overcome the wall of social status and claim their forbidden love...?",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTg0Ny1LbXZLNnNsenhsSHouanBn",
   "total_chapters": "7",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-07T06:29:16.946Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-12T17:22:42.379Z",
+  "last_updated_at": "2026-11-13T23:32:15.915Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "IN Hong"
+    "INhong"
   ],
   "artists": [
     "Nokdu"
@@ -52,32 +63,55 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219847,
+      "rating": null,
+      "url": "https://anilist.co/manga/219847"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "g9izm7d",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/g9izm7d"
     }
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     15,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 0.1178,
+    "fanFavouriteDiscoveryScore": 5.2348,
+    "fanFavouriteDiscoveryPercentile": 0.1178
   }
 }

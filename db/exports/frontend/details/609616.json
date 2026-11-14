@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Stray Cat Selection Log",
-  "mangabaka_title": "Stray Cat Selection Log",
+  "mangabaka_title": "Gilgoyangi Gantaegilji",
   "native_title": "길고양이 간택일지",
-  "romanized_title": "Gilgoyangi Gantaek Ilji",
+  "romanized_title": "Gilgoyangi Gantaegilji",
   "titles": [
     {
       "language": "ko",
       "title": "길고양이 간택일지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,9 +25,18 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Gilgoyangi Gantaegilji",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Gilgoyangi Gantaek Ilji",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -34,31 +45,38 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Stray Cat's Selection Diary",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "From the moment Dohyun stepped into his lonely world, Jaewon has been pining for him for six years. He even followed him all the way to the same university. Full of anticipation, Jaewon went to Dohyun’s place—only to walk in on a half-naked Dohyun and his girlfriend. Still, he thought that once they were home, things could go back to the way they used to be... While Jaewon does everything he can to force his way into Dohyun’s daily life, Dohyun is busy pushing him away.\n\n*“I told you I like you, hyung.”  \n“You were just lonely back then. I just happened to be there.”*\n\nSix years of unwavering feelings are dismissed as mere loneliness, and every attempt to get closer is rejected. Will the two of them be able to keep living together without everything falling apart?\n\n[Original Webtoon](https://www.bomtoon.com/detail/nyang_taek)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyNDE2LmpwZw",
+  "description": "Ever since Do-Hyeon walked into that lonely space, Jae-Won has been pining for him for six years. Jae-Won even went so far as to follow him and enroll in the same college. When he visited Do-Hyeon’s apartment with a fluttering heart, what he found was a half-naked Do-Hyeon and his girlfriend. Still, he thought that once he got inside, they could go back to the way things used to be… But unlike Jae-Won, who’s trying his best to worm his way into Do-Hyeon’s daily life, Do-Hyeon is busy pushing him away.\n\n *“I told you I like you, didn’t I?”\n\n“You were just lonely back then. I just happened to be there.”*\n\nHis six years of unwavering affection are dismissed as mere loneliness, and his desire to grow closer is repeatedly rebuffed. Will the two of them be able to make their living arrangement work?\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTg0NC1FdDF0elBvbUNzemMucG5n",
   "total_chapters": "1",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-04",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-07T00:42:27.447Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-12T05:41:41.005Z",
+  "last_updated_at": "2026-11-13T23:17:46.431Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "산비둘기"
+    "Sanbidulgi"
   ],
   "artists": [
-    "산비둘기"
+    "Sanbidulgi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/609616",
@@ -66,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219844,
+      "rating": null,
+      "url": "https://anilist.co/manga/219844"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "uhtsuxs",
@@ -75,20 +97,38 @@
     }
   },
   "tag_ids": [
+    180,
     16,
     6,
     31,
-    9
+    9,
+    226,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "226": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
-    "favourites": null,
+    "popularity": 12,
+    "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 8.3333,
+    "fanRatioPercentile": 99.4109,
+    "popularityPercentile": 6.8894,
+    "fanFavouriteDiscoveryScore": 24.9659,
+    "fanFavouriteDiscoveryPercentile": 27.1555
   }
 }

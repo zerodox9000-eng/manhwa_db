@@ -118,7 +118,7 @@
   },
   "first_seen_at": "2026-10-20T00:42:14.924Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-12T00:52:39.012Z",
+  "last_updated_at": "2026-11-13T23:18:46.102Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -139,7 +139,11 @@
       "rating": 26,
       "url": "https://anilist.co/manga/219109"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "reusable-romance",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/reusable-romance"
+    },
     "mangaupdates": {
       "id": "fllelfj",
       "rating": 63,
@@ -148,6 +152,7 @@
   },
   "tag_ids": [
     43,
+    74,
     108,
     46,
     41,
@@ -155,7 +160,8 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -164,10 +170,12 @@
     "43": "defining",
     "46": "defining",
     "57": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "171": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 26,
@@ -176,9 +184,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6862,
-    "popularityPercentile": 15.7884,
-    "fanFavouriteDiscoveryScore": 13.5042,
-    "fanFavouriteDiscoveryPercentile": 14.3115
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 15.7749,
+    "fanFavouriteDiscoveryScore": 13.4926,
+    "fanFavouriteDiscoveryPercentile": 14.2917
   }
 }

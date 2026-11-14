@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Golden-Handed Baby Fixes Everything!",
-  "mangabaka_title": "The Golden-Handed Baby Fixes Everything!",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Geumson Aginimi Jeonbu Da Gochim!",
+  "native_title": "금손 아기님이 전부 다 고침!",
+  "romanized_title": "Geumson Aginimi Jeonbu Da Gochim!",
   "titles": [
     {
       "language": "ko",
       "title": "금손 아기님이 전부 다 고침!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Geumson Aginimi Jeonbu Da Gochim!",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,32 +31,39 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Talented Baby Fixed Everything!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon :**    \n[Kakao](https://page.kakao.com/content/71022922)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyNTA5LmpwZw",
+  "description": "My 18 years of life were hell. I was raised in prison as a complete orphan the moment I was born, and at the age of ten, I was sent to an orphanage that was even more hellish than prison. Then, while living as a test subject for the 【Snakes】, I thought I might finally gain freedom… 'Please, I don't want to die so meaninglessly—!' In the end, I was killed by their own hands and returned to being '4 years old'…? \"Is this what I looked like when I was little?!\" Now that I have returned to the happiest time of my 18 years, my goal is only one: 『Survive!』 To do that, I must befriend the investigator who came to look into the prison and avoid that terrible orphanage where abuse was rampant! \"Are you my daughter?\" \"Huh…?\" But Duke Panteive, who is called a lunatic in some circles, says I am his daughter— \"A little kid with near-white silver hair and power. I'm talking about you.\" What did I just hear…?",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi84L2MvOS9kL2UvNi9lLzIvODUzNy80ZjliLzgzNGUvYmNlYTdlMDUwYTRk",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-12",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-13T00:42:22.681Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-12T18:06:41.455Z",
+  "last_updated_at": "2026-11-13T09:52:59.095Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hi My Dear",
-    "Teava"
+    "Himydear",
+    "Tiba"
   ],
   "artists": [
-    "Songmi (II)"
+    "Song-Mi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/610759",
@@ -53,28 +71,59 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219842,
+      "rating": 50,
+      "url": "https://anilist.co/manga/219842"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "x20wvj0",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/x20wvj0"
     }
   },
   "tag_ids": [
     40,
+    59,
+    7549,
+    74,
+    748,
+    108,
     36,
-    9
+    6,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "31": "defining",
+    "36": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "59": "incidental",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "748": "incidental",
+    "7549": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 13,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 50
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 7.6587,
+    "fanFavouriteDiscoveryScore": 8.6073,
+    "fanFavouriteDiscoveryPercentile": 7.1666
   }
 }

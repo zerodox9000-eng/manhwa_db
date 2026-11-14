@@ -90,7 +90,7 @@
   },
   "first_seen_at": "2026-10-19T00:42:38.054Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-12T15:51:14.490Z",
+  "last_updated_at": "2026-11-13T15:52:16.395Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -111,7 +111,11 @@
       "rating": 77,
       "url": "https://anilist.co/manga/218498"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "behind-the-hole",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/behind-the-hole"
+    },
     "mangaupdates": {
       "id": "fzkdk31",
       "rating": null,
@@ -121,6 +125,8 @@
   "tag_ids": [
     8,
     59,
+    7549,
+    74,
     46,
     21,
     14,
@@ -131,7 +137,8 @@
     31,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -144,21 +151,24 @@
     "41": "defining",
     "46": "defining",
     "57": "unweighted",
-    "59": "incidental",
+    "59": "unweighted",
+    "74": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted",
+    "7549": "incidental"
   },
   "stats": {
-    "popularity": 102,
+    "popularity": 105,
     "favourites": null,
     "meanScore": 77
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6862,
-    "popularityPercentile": 37.9282,
-    "fanFavouriteDiscoveryScore": 26.6941,
-    "fanFavouriteDiscoveryPercentile": 29.0459
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 38.356,
+    "fanFavouriteDiscoveryScore": 26.8612,
+    "fanFavouriteDiscoveryPercentile": 29.1586
   }
 }

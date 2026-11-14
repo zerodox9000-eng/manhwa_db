@@ -2,7 +2,7 @@
   "id": 608422,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Chwihyangui Gyeonggye",
+  "display_title": "Boundaries of Taste",
   "mangabaka_title": "Chwihyangui Gyeonggye",
   "native_title": "취향의 경계",
   "romanized_title": "Chwihyangui Gyeonggye",
@@ -17,6 +17,13 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Boundaries of Taste",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Chwihyangui Gyeonggye",
       "traits": [
@@ -24,9 +31,30 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Boundaries of Taste",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Boundary of Preference",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "th",
+      "title": "เมื่อรสนิยมข้ามเส้น",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "After secretly loving his high school best friend and roommate for six years, a young man discovers his crush has a taste for BDSM. Hoping to find a way to win his heart, he visits an SM bar but nearly falls into the hands of a drunken stranger. Rescued by his crush, he's mistaken for someone who shares the same interests. Seizing the opportunity, he proposes becoming his partner, turning their friendship into a complicated master-and-sub relationship. Can he confess his true feelings?\n\n[Original Webtoon](https://www.mrblue.com/webtoon/wt_000082245)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxODk0OS1kb01McW50SnJwRloucG5n",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +69,7 @@
   },
   "first_seen_at": "2026-10-27T00:42:13.051Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-12T21:05:27.345Z",
+  "last_updated_at": "2026-11-13T21:06:32.956Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -58,29 +86,39 @@
   "source": {
     "anilist": {
       "id": 218949,
-      "rating": null,
+      "rating": 75,
       "url": "https://anilist.co/manga/218949"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "a4dwvkj",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/a4dwvkj"
+    }
   },
   "tag_ids": [
-    180
+    46,
+    180,
+    16,
+    31
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
     "180": "incidental"
   },
   "stats": {
-    "popularity": 3,
+    "popularity": 5,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 75
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6862,
-    "popularityPercentile": 0.7142,
-    "fanFavouriteDiscoveryScore": 5.4581,
-    "fanFavouriteDiscoveryPercentile": 0.6795
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 1.7605,
+    "fanFavouriteDiscoveryScore": 5.8649,
+    "fanFavouriteDiscoveryPercentile": 1.6357
   }
 }

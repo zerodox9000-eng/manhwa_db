@@ -129,7 +129,7 @@
   },
   "first_seen_at": "2026-06-10T15:38:39.043Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-12T09:30:46.487Z",
+  "last_updated_at": "2026-11-13T14:40:46.080Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -180,6 +180,7 @@
     67,
     1819,
     3157,
+    7550,
     3058,
     6465,
     4622,
@@ -273,7 +274,7 @@
     "58": "core",
     "67": "core",
     "93": "unweighted",
-    "95": "core",
+    "95": "defining",
     "97": "defining",
     "98": "incidental",
     "107": "core",
@@ -305,7 +306,7 @@
     "889": "unweighted",
     "893": "unweighted",
     "898": "core",
-    "984": "core",
+    "984": "defining",
     "997": "incidental",
     "1010": "defining",
     "1022": "recurrent",
@@ -313,13 +314,13 @@
     "1062": "incidental",
     "1079": "core",
     "1090": "unweighted",
-    "1162": "core",
+    "1162": "defining",
     "1165": "defining",
     "1552": "incidental",
     "1554": "incidental",
     "1593": "defining",
     "1599": "defining",
-    "1819": "core",
+    "1819": "defining",
     "2039": "defining",
     "2687": "incidental",
     "2719": "incidental",
@@ -345,19 +346,20 @@
     "5477": "unweighted",
     "6465": "incidental",
     "6564": "incidental",
-    "7332": "unweighted"
+    "7332": "unweighted",
+    "7550": "unweighted"
   },
   "stats": {
-    "popularity": 9708,
+    "popularity": 9710,
     "favourites": 385,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 3.9658,
-    "fanRatioPercentile": 95.1186,
-    "popularityPercentile": 97.9268,
-    "fanFavouriteDiscoveryScore": 94.9749,
-    "fanFavouriteDiscoveryPercentile": 97.5524
+    "fanFavouriteRaw": 3.965,
+    "fanRatioPercentile": 95.0859,
+    "popularityPercentile": 97.9276,
+    "fanFavouriteDiscoveryScore": 94.9423,
+    "fanFavouriteDiscoveryPercentile": 97.5534
   },
   "context": {
     "primaryProfile": "regression-return",
