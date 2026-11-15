@@ -11,7 +11,8 @@
       "language": "ko",
       "title": "그 악녀를 조심하세요!",
       "traits": [
-        "native"
+        "native",
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -38,7 +39,25 @@
       "note": null
     },
     {
+      "language": "fr",
+      "title": "Beware the Villainess !",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "Albin Michel"
+    },
+    {
       "language": "en",
+      "title": "Beware the Villainess!",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "de",
       "title": "Beware the Villainess!",
       "traits": [
         "official"
@@ -69,10 +88,12 @@
     },
     {
       "language": "fr",
-      "title": "Gare à la vilaine!",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "title": "Gare à la vilaine !",
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "Lezhin FR"
     },
     {
       "language": "ko-Latn",
@@ -149,7 +170,9 @@
     {
       "language": "ja",
       "title": "その悪女に気をつけてください",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -180,6 +203,15 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "zh-Hant-TW",
+      "title": "請小心那個惡女！",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "Sit back and take in this romantic tale of an angelic heroine and her devoted suitors as they vie for the depths of her love... or not. This story’s about to go through some edits! After an accident, a modern-day college student awakens as the story’s villainess, Melissa Foddebrat. She’s far from anyone’s favorite, but she IS the daughter of the duke. Determined to live it up, this new Melissa is doing things her way — antiquated society, be damned! All idiots, prepare to step aside or perish! \n\n(Source: Tapas)\n\n*Note: Includes 52 extra chapters.*",
@@ -197,7 +229,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T04:33:46.763Z",
+  "last_updated_at": "2026-11-14T19:52:22.838Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -393,7 +425,7 @@
     "36": "defining",
     "40": "defining",
     "57": "unweighted",
-    "59": "core",
+    "59": "unweighted",
     "61": "defining",
     "67": "recurrent",
     "68": "defining",
@@ -524,19 +556,19 @@
     "5042": "incidental",
     "5530": "defining",
     "7332": "unweighted",
-    "7549": "unweighted"
+    "7549": "core"
   },
   "stats": {
-    "popularity": 27514,
-    "favourites": 1349,
+    "popularity": 27519,
+    "favourites": 1351,
     "meanScore": 77
   },
   "analytics": {
-    "fanFavouriteRaw": 4.903,
-    "fanRatioPercentile": 97.3385,
-    "popularityPercentile": 99.6327,
-    "fanFavouriteDiscoveryScore": 97.2109,
-    "fanFavouriteDiscoveryPercentile": 98.8287
+    "fanFavouriteRaw": 4.9093,
+    "fanRatioPercentile": 97.3602,
+    "popularityPercentile": 99.6328,
+    "fanFavouriteDiscoveryScore": 97.2326,
+    "fanFavouriteDiscoveryPercentile": 98.8221
   },
   "context": {
     "primaryProfile": "business-career-regression",

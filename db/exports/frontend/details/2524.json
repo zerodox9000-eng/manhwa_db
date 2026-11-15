@@ -11,7 +11,8 @@
       "language": "ko",
       "title": "내 호수에 가둔 인어",
       "traits": [
-        "native"
+        "native",
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -33,16 +34,20 @@
     {
       "language": "de",
       "title": "Der Meermann in meinem See",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "fr",
       "title": "Le Lac de mon Triton",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "WEBTOON"
     },
     {
       "language": "en",
@@ -84,6 +89,24 @@
       "note": null
     },
     {
+      "language": "id",
+      "title": "The Merman Trapped in My Lake",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fr",
+      "title": "The Merman Trapped in My Lake",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "Kotoon"
+    },
+    {
       "language": "ru",
       "title": "Русал, запертый в моём озере",
       "traits": [],
@@ -93,14 +116,18 @@
     {
       "language": "th",
       "title": "พันธนาการรักเงือกต้องสาป",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ja",
       "title": "セルベインの人魚",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -112,9 +139,20 @@
       "note": null
     },
     {
+      "language": "zh-Hans",
+      "title": "囚禁在我湖中的人鱼",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh-Hant",
       "title": "囚魚之戀",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -134,7 +172,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.822Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T10:35:41.335Z",
+  "last_updated_at": "2026-11-14T21:15:39.847Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -199,7 +237,7 @@
     "36": "defining",
     "40": "defining",
     "57": "unweighted",
-    "59": "defining",
+    "59": "unweighted",
     "74": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
@@ -213,19 +251,19 @@
     "893": "unweighted",
     "1126": "core",
     "7332": "unweighted",
-    "7549": "unweighted"
+    "7549": "defining"
   },
   "stats": {
-    "popularity": 914,
+    "popularity": 915,
     "favourites": 11,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 1.2035,
-    "fanRatioPercentile": 55.4616,
-    "popularityPercentile": 78.3061,
-    "fanFavouriteDiscoveryScore": 55.0346,
-    "fanFavouriteDiscoveryPercentile": 62.7807
+    "fanFavouriteRaw": 1.2022,
+    "fanRatioPercentile": 55.477,
+    "popularityPercentile": 78.3205,
+    "fanFavouriteDiscoveryScore": 55.0504,
+    "fanFavouriteDiscoveryPercentile": 62.8213
   },
   "context": {
     "primaryProfile": "regression-return",

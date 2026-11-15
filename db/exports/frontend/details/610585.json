@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Dating Algebra",
-  "mangabaka_title": "Dating Algebra",
+  "mangabaka_title": "Yeonaedaesuhak",
   "native_title": "연애대수학",
-  "romanized_title": null,
+  "romanized_title": "Yeonaedaesuhak",
   "titles": [
     {
       "language": "ko",
       "title": "연애대수학",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,31 +22,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Yeonaedaesuhak",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "I accidentally ran into my first love and senior from high school. My senior, who was so neat and pure...   If memory serves me right, I think he/she liked me back too.   \nHowever, for some 'mysterious reason' from the past up until now, we aren't dating.   \nAnd I want to know what this reason is.\n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=856686), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14926601)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMzY1LmpwZw",
+  "description": "I ran into my first love from high school by chance. He was so neat and innocent… my senior. If my memory serves me right, I think he liked me, too. But from the past until now, for “some reason,” we haven’t dated. And I’m curious to know what that reason is.\n\n(Source: Naver, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc3Ny1VTnRQTWVwVUlkRlMuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-10",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-11T00:42:19.612Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-13T17:35:30.442Z",
+  "last_updated_at": "2026-11-14T17:36:22.096Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Eu-Aeng"
+    "Euaeng"
   ],
   "artists": [
-    "Eu-Aeng"
+    "Euaeng"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/610585",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219777,
+      "rating": 78,
+      "url": "https://anilist.co/manga/219777"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "re83480",
@@ -62,17 +77,35 @@
   },
   "tag_ids": [
     43,
-    9
+    7549,
+    108,
+    9,
+    226,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "226": "incidental",
+    "428": "unweighted",
+    "7549": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 27,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6613,
+    "popularityPercentile": 16.2544,
+    "fanFavouriteDiscoveryScore": 13.8025,
+    "fanFavouriteDiscoveryPercentile": 14.6886
   }
 }

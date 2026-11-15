@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "I Like Milk!",
-  "mangabaka_title": "I Like Milk!",
+  "mangabaka_title": "Uyuga Joa!",
   "native_title": "우유가 좋아!",
-  "romanized_title": null,
+  "romanized_title": "Uyuga Joa!",
   "titles": [
     {
       "language": "ko",
       "title": "우유가 좋아!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -20,31 +22,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Uyuga Joa!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/whdk), [Lezhin](https://www.lezhin.com/ko/comic/whdk)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTE0MzU4LmpwZw",
+  "description": "On the day of his high school graduation, when white snow fell like his name, Baek Seol, who had secretly loved his junior Yu O-Geon, tried to confess his feelings one last time but met a tragic end. But years later, when they reunite by chance, O-Geon approaches him actively, unlike in the past. Baek Seol finds himself shaken once more by the feelings of his first love, which he had carefully tucked away...\n\n*Like that first cigarette, stale and musty from age, I should have discarded my first love before it went bad...*\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIwNjQ3NC1FQUdUQVg3TjhrYTYuanBn",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2024,
   "published": {
-    "start_date": "2024-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2024-03-21",
+    "end_date": "2024-03-21",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:48:24.827Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T11:02:01.759Z",
+  "last_updated_at": "2026-11-14T09:36:18.016Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Lekkul"
+    "Lecur"
   ],
   "artists": [
-    "Daeji"
+    "Dae-Ji"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/90589",
@@ -52,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 206474,
+      "rating": null,
+      "url": "https://anilist.co/manga/206474"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "lvcda81",
@@ -64,19 +79,36 @@
     880,
     46,
     41,
+    180,
     16,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted",
+    "880": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 7,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6613,
+    "popularityPercentile": 3.1386,
+    "fanFavouriteDiscoveryScore": 6.4345,
+    "fanFavouriteDiscoveryPercentile": 2.9377
   },
   "context": {
     "primaryProfile": "modern-korea",

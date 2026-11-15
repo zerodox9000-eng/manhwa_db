@@ -9,9 +9,10 @@
   "titles": [
     {
       "language": "ko",
-      "title": "태양의주인",
+      "title": "태양의 주인",
       "traits": [
-        "native"
+        "native",
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -26,22 +27,26 @@
     {
       "language": "de",
       "title": "Das Elixier der Sonne",
-      "traits": [],
-      "is_primary": false,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "papertoons"
     },
     {
       "language": "es",
       "title": "El amo del sol",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "es",
       "title": "El elixir del sol",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -56,9 +61,11 @@
     {
       "language": "de",
       "title": "Herrscherin über die Sonne",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "WEBTOON"
     },
     {
       "language": "en",
@@ -69,8 +76,10 @@
     },
     {
       "language": "fr",
-      "title": "La maîtresse du soleil",
-      "traits": [],
+      "title": "La Maîtresse du Soleil",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -83,8 +92,10 @@
     },
     {
       "language": "pt-br",
-      "title": "O elixir do sol",
-      "traits": [],
+      "title": "O Elixir do Sol",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -163,7 +174,9 @@
     {
       "language": "ja",
       "title": "太陽の主",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -190,7 +203,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T16:57:54.832Z",
+  "last_updated_at": "2026-11-14T20:32:41.251Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -332,7 +345,7 @@
     "43": "defining",
     "45": "defining",
     "57": "unweighted",
-    "59": "defining",
+    "59": "unweighted",
     "60": "core",
     "69": "defining",
     "72": "core",
@@ -415,19 +428,19 @@
     "6216": "recurrent",
     "7332": "unweighted",
     "7481": "unweighted",
-    "7549": "unweighted"
+    "7549": "defining"
   },
   "stats": {
-    "popularity": 3988,
+    "popularity": 3990,
     "favourites": 122,
     "meanScore": 75
   },
   "analytics": {
-    "fanFavouriteRaw": 3.0592,
-    "fanRatioPercentile": 90.6432,
-    "popularityPercentile": 94.2334,
-    "fanFavouriteDiscoveryScore": 90.4571,
-    "fanFavouriteDiscoveryPercentile": 94.6632
+    "fanFavouriteRaw": 3.0576,
+    "fanRatioPercentile": 90.6741,
+    "popularityPercentile": 94.2354,
+    "fanFavouriteDiscoveryScore": 90.488,
+    "fanFavouriteDiscoveryPercentile": 94.6858
   },
   "context": {
     "primaryProfile": "murim-wuxia",

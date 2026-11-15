@@ -19,9 +19,11 @@
     {
       "language": "de",
       "title": "Die Braut des Drachenkönigs",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "WEBTOON"
     },
     {
       "language": "en",
@@ -32,21 +34,32 @@
     },
     {
       "language": "fr",
-      "title": "La Mariée du Roi Dragon",
-      "traits": [],
+      "title": "La Mariée du roi dragon",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "es",
       "title": "Mi Liberación en tu Fuego",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Plundered Bride",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Predatory Bride",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -61,18 +74,20 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Predatory Bride",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "es-la",
       "title": "Secuestrando A La Novia",
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "de",
+      "title": "The Dragon King's Bride",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "C LINES"
     },
     {
       "language": "en",
@@ -130,7 +145,9 @@
     {
       "language": "th",
       "title": "เจ้าสาวราชามังกร",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -144,7 +161,9 @@
     {
       "language": "zh-Hant",
       "title": "掠奪新娘",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -171,7 +190,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.174Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T20:57:09.747Z",
+  "last_updated_at": "2026-11-14T09:38:19.775Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -278,7 +297,7 @@
     "36": "defining",
     "43": "defining",
     "57": "unweighted",
-    "59": "defining",
+    "59": "unweighted",
     "60": "core",
     "74": "unweighted",
     "75": "defining",
@@ -334,7 +353,7 @@
     "5574": "unweighted",
     "5842": "unweighted",
     "7332": "unweighted",
-    "7549": "unweighted"
+    "7549": "defining"
   },
   "stats": {
     "popularity": 3430,
@@ -343,10 +362,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 2.1283,
-    "fanRatioPercentile": 79.5814,
-    "popularityPercentile": 93.2423,
-    "fanFavouriteDiscoveryScore": 79.4039,
-    "fanFavouriteDiscoveryPercentile": 86.4084
+    "fanRatioPercentile": 79.5815,
+    "popularityPercentile": 93.2377,
+    "fanFavouriteDiscoveryScore": 79.404,
+    "fanFavouriteDiscoveryPercentile": 86.3854
   },
   "context": {
     "primaryProfile": "kingdom-management",

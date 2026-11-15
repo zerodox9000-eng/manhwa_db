@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Journal of the Seal Prince's Rebellion",
-  "mangabaka_title": "Journal of the Seal Prince's Rebellion",
+  "mangabaka_title": "Mulbeom Wangja Ballan Ilji",
   "native_title": "물범 왕자 반란 일지",
-  "romanized_title": "Mulbeom Wangja Banran Ilji",
+  "romanized_title": "Mulbeom Wangja Ballan Ilji",
   "titles": [
     {
       "language": "ko",
       "title": "물범 왕자 반란 일지",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,9 +25,18 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Mulbeom Wangja Ballan Ilji",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Mulbeom Wangja Banran Ilji",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -34,31 +45,38 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Seal Prince's Rebellion Diary",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "On what seemed like just another ordinary day taking care of a baby seal, the seal suddenly transforms into a strikingly handsome young man!\n\nHis true identity is Hae-gyeol, the youngest prince of the Ocean Kingdom.\n\nYeo-han is already dying of stress balancing his corporate job with helping Hae-gyeol—who is on day one of being human—adjust to the world... but now he learns that if Hae-gyeol doesn't find his true love, Yeo-han himself will die?!\n\nWill Yeo-han manage to survive this twisted twist of fate?\n\nFind out in this chaotic romance full of Yeo-han’s survival struggles and Hae-gyeol’s quest for love! *(Source: Bomtoon, translated)*\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/detail/mulbum_prince), [Lezhin](https://www.lezhin.com/ko/comic/seal_prince)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMDAwLmpwZw",
+  "description": "One ordinary day while taking care of a baby seal, the seal transformed into a handsome young man! His true identity is Hae-Gyeol, the youngest prince of the Sea Kingdom. Between helping Hae-Gyeol, who’s only been human for one day, adjust to his new life and juggling her day job, Yeo-Han is swamped… but he’s told that if he doesn’t find a mate for Hae-Gyeol, he’ll die?! Will Yeo-Han manage to survive this tangled web of fate? A story of Yeo-Han’s chaotic struggle to survive and Hae-Gyeol’s quest for love!\n\n(Source: Bomtoon, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc1My1qdUlFNTVFOVRJb3MucG5n",
   "total_chapters": "6",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-26",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-28T00:42:18.622Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-13T16:44:49.029Z",
+  "last_updated_at": "2026-11-15T00:05:23.514Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Dimang"
+    "Songmang"
   ],
   "artists": [
-    "Songmang"
+    "Dimang"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608524",
@@ -66,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219753,
+      "rating": 70,
+      "url": "https://anilist.co/manga/219753"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1zyvbdb",
@@ -75,22 +97,44 @@
     }
   },
   "tag_ids": [
+    732,
     36,
     46,
+    547,
+    180,
     16,
     6,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "defining",
+    "9": "defining",
+    "16": "defining",
+    "31": "unweighted",
+    "36": "defining",
+    "46": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted",
+    "547": "unweighted",
+    "732": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 18,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6613,
+    "popularityPercentile": 11.0788,
+    "fanFavouriteDiscoveryScore": 10.5252,
+    "fanFavouriteDiscoveryPercentile": 10.2751
   }
 }

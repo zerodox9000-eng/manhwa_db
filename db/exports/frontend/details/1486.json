@@ -19,9 +19,11 @@
     {
       "language": "de",
       "title": "Als Antagonistin lebt es sich gar nicht schlecht",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "Lezhin DE"
     },
     {
       "language": "ko-Latn",
@@ -103,6 +105,15 @@
       "note": null
     },
     {
+      "language": "de",
+      "title": "The Perks of Being a Villainess",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "C LINES"
+    },
+    {
       "language": "en",
       "title": "The Perks of Being a Villainess",
       "traits": [
@@ -163,14 +174,18 @@
     {
       "language": "ja",
       "title": "悪女は楽で最高ですが？",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "zh-Hant",
       "title": "當個惡女輕鬆又愉快",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -190,7 +205,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.172Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T05:20:07.310Z",
+  "last_updated_at": "2026-11-14T10:06:20.469Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -307,7 +322,7 @@
     "36": "defining",
     "43": "defining",
     "57": "unweighted",
-    "59": "core",
+    "59": "unweighted",
     "67": "defining",
     "68": "core",
     "72": "core",
@@ -373,19 +388,19 @@
     "4444": "incidental",
     "5153": "incidental",
     "7332": "unweighted",
-    "7549": "unweighted"
+    "7549": "core"
   },
   "stats": {
-    "popularity": 12904,
-    "favourites": 537,
+    "popularity": 12911,
+    "favourites": 538,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 4.1615,
-    "fanRatioPercentile": 95.6058,
-    "popularityPercentile": 98.5653,
-    "fanFavouriteDiscoveryScore": 95.4688,
-    "fanFavouriteDiscoveryPercentile": 97.8653
+    "fanFavouriteRaw": 4.167,
+    "fanRatioPercentile": 95.8013,
+    "popularityPercentile": 98.5658,
+    "fanFavouriteDiscoveryScore": 95.6641,
+    "fanFavouriteDiscoveryPercentile": 97.963
   },
   "context": {
     "primaryProfile": "business-career-regression",

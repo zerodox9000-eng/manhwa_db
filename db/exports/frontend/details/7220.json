@@ -19,16 +19,20 @@
     {
       "language": "de",
       "title": "All Inclusive Reincarnation - Vorzüge für eine Heldin erster Klasse",
-      "traits": [],
-      "is_primary": false,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "papertoons"
     },
     {
       "language": "de",
       "title": "Anweisung für eine Reinkarnation",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "Lezhin DE"
     },
     {
       "language": "en",
@@ -57,27 +61,33 @@
       "language": "es",
       "title": "El privilegio de una transmigrante",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "id",
       "title": "Keuntungan bagi Sang Perasuk",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "es",
       "title": "Las ventajas de una transmigrante",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "fr",
-      "title": "Ma réincarnation « all inclusive »",
-      "traits": [],
+      "title": "Ma Réincarnation « All Inclusive »",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -163,7 +173,9 @@
     {
       "language": "ja",
       "title": "憑依者の特典",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -171,7 +183,7 @@
       "language": "zh-Hant",
       "title": "為附身者的特惠",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -182,10 +194,21 @@
       "note": null
     },
     {
+      "language": "zh-Hans",
+      "title": "穿越者的专属福利",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh-Hant",
       "title": "穿越者的專屬特權",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -218,7 +241,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.172Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T20:52:10.136Z",
+  "last_updated_at": "2026-11-14T18:43:53.366Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -358,7 +381,7 @@
     "39": "defining",
     "40": "defining",
     "57": "unweighted",
-    "59": "core",
+    "59": "unweighted",
     "68": "recurrent",
     "69": "core",
     "72": "core",
@@ -437,19 +460,19 @@
     "5899": "recurrent",
     "6083": "recurrent",
     "7332": "unweighted",
-    "7549": "unweighted"
+    "7549": "core"
   },
   "stats": {
-    "popularity": 13168,
-    "favourites": 549,
+    "popularity": 13179,
+    "favourites": 548,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 4.1692,
-    "fanRatioPercentile": 95.786,
-    "popularityPercentile": 98.6069,
-    "fanFavouriteDiscoveryScore": 95.6493,
-    "fanFavouriteDiscoveryPercentile": 97.9415
+    "fanFavouriteRaw": 4.1581,
+    "fanRatioPercentile": 95.6142,
+    "popularityPercentile": 98.6074,
+    "fanFavouriteDiscoveryScore": 95.4778,
+    "fanFavouriteDiscoveryPercentile": 97.8729
   },
   "context": {
     "primaryProfile": "murim-wuxia",

@@ -11,13 +11,32 @@
       "language": "ko",
       "title": "나 혼자 특성빨로 무한 성장",
       "traits": [
-        "native"
+        "native",
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "de",
+      "title": "Boundless Ascension",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
+      "title": "Boundless Ascension",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fr",
       "title": "Boundless Ascension",
       "traits": [
         "official"
@@ -42,19 +61,19 @@
       "note": null
     },
     {
-      "language": "en",
-      "title": "Na Honja Teukseongppallo Muhan Seongjang",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Na Honja Teukseongppallo Muhan Seongjang",
       "traits": [
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Na Honja Teukseongppallo Muhan Seongjang",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -88,14 +107,18 @@
     {
       "language": "th",
       "title": "นักล่าไร้ลิมิต",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ja",
       "title": "俺だけチート特性で無限成長",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -129,7 +152,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.173Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T13:00:27.402Z",
+  "last_updated_at": "2026-11-14T20:08:15.632Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -252,7 +275,7 @@
     "38": "defining",
     "39": "defining",
     "57": "unweighted",
-    "58": "core",
+    "58": "unweighted",
     "67": "recurrent",
     "74": "unweighted",
     "93": "unweighted",
@@ -321,19 +344,19 @@
     "6083": "defining",
     "6540": "defining",
     "7332": "unweighted",
-    "7550": "unweighted"
+    "7550": "core"
   },
   "stats": {
-    "popularity": 18842,
+    "popularity": 18846,
     "favourites": 490,
     "meanScore": 69
   },
   "analytics": {
-    "fanFavouriteRaw": 2.6006,
-    "fanRatioPercentile": 86.4084,
-    "popularityPercentile": 99.2307,
-    "fanFavouriteDiscoveryScore": 86.2913,
-    "fanFavouriteDiscoveryPercentile": 91.8284
+    "fanFavouriteRaw": 2.6,
+    "fanRatioPercentile": 86.3923,
+    "popularityPercentile": 99.2309,
+    "fanFavouriteDiscoveryScore": 86.2752,
+    "fanFavouriteDiscoveryPercentile": 91.8174
   },
   "context": {
     "primaryProfile": "business-career-regression",

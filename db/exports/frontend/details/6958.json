@@ -31,7 +31,25 @@
       "note": null
     },
     {
+      "language": "de",
+      "title": "Doom Breaker",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
+      "title": "Doom Breaker",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fr",
       "title": "Doom Breaker",
       "traits": [
         "official"
@@ -42,7 +60,9 @@
     {
       "language": "es",
       "title": "Doom Breaker: Venganza contra los Dioses",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -121,7 +141,9 @@
     {
       "language": "th",
       "title": "เกิดใหม่นักรบพันธุ์ระห่ำ",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -140,6 +162,15 @@
       "note": null
     },
     {
+      "language": "zh-Hans",
+      "title": "斗神转生记",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "闘神転生記～世界を救うセカンドチャンス～",
       "traits": [],
@@ -149,7 +180,9 @@
     {
       "language": "zh-Hant",
       "title": "鬥神轉生記",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -169,7 +202,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T08:14:29.971Z",
+  "last_updated_at": "2026-11-14T22:29:15.535Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -302,7 +335,7 @@
     "38": "defining",
     "39": "defining",
     "57": "unweighted",
-    "58": "core",
+    "58": "unweighted",
     "67": "defining",
     "69": "recurrent",
     "72": "defining",
@@ -376,19 +409,19 @@
     "3524": "recurrent",
     "3546": "recurrent",
     "7332": "unweighted",
-    "7550": "unweighted"
+    "7550": "core"
   },
   "stats": {
-    "popularity": 41727,
+    "popularity": 41746,
     "favourites": 1713,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 4.1053,
-    "fanRatioPercentile": 95.5434,
+    "fanFavouriteRaw": 4.1034,
+    "fanRatioPercentile": 95.5241,
     "popularityPercentile": 99.8129,
-    "fanFavouriteDiscoveryScore": 95.42,
-    "fanFavouriteDiscoveryPercentile": 97.8237
+    "fanFavouriteDiscoveryScore": 95.4008,
+    "fanFavouriteDiscoveryPercentile": 97.8106
   },
   "context": {
     "primaryProfile": "business-career-regression",

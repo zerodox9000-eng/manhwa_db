@@ -35,7 +35,9 @@
     {
       "language": "ko-Latn",
       "title": "Agnyeo'neun Moraesi'gye'reul Dwedollinda",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -58,7 +60,9 @@
     {
       "language": "de",
       "title": "Aria & Die goldene Sanduhr der Zeit",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -66,7 +70,7 @@
       "language": "fr",
       "title": "L'antagoniste retourne le sablier",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -87,7 +91,7 @@
       "language": "id",
       "title": "Penjahat Membalikkan Jam Pasir",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -105,6 +109,15 @@
       "note": null
     },
     {
+      "language": "id",
+      "title": "The Villainess Reverses Hourglass",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Villainess Reverses the Hourglass",
       "traits": [],
@@ -113,6 +126,15 @@
     },
     {
       "language": "en",
+      "title": "The Villainess Turns the Hourglass",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fr",
       "title": "The Villainess Turns the Hourglass",
       "traits": [
         "official"
@@ -193,7 +215,9 @@
     {
       "language": "zh-Hant",
       "title": "惡女翻轉時光沙漏",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -220,7 +244,7 @@
   },
   "first_seen_at": "2026-06-10T15:42:16.185Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T04:33:34.855Z",
+  "last_updated_at": "2026-11-14T19:12:23.396Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -235,7 +259,8 @@
     "read_en": "https://tapas.io/series/the-villainess-turns-the-hourglass/info",
     "read_en_all": [
       "https://tapas.io/series/the-villainess-turns-the-hourglass/info",
-      "https://www.tappytoon.com/en/book/villainess-turns-hourglass"
+      "https://www.tappytoon.com/en/book/villainess-turns-hourglass",
+      "https://manta.net/en/series/the-villainess-turns-the-hourglass?seriesId=5679"
     ]
   },
   "source": {
@@ -385,7 +410,7 @@
     "40": "defining",
     "45": "unweighted",
     "57": "unweighted",
-    "59": "core",
+    "59": "unweighted",
     "60": "recurrent",
     "68": "defining",
     "72": "defining",
@@ -489,19 +514,19 @@
     "5267": "recurrent",
     "5945": "recurrent",
     "7332": "unweighted",
-    "7549": "unweighted"
+    "7549": "core"
   },
   "stats": {
-    "popularity": 23231,
+    "popularity": 23236,
     "favourites": 1008,
     "meanScore": 78
   },
   "analytics": {
-    "fanFavouriteRaw": 4.339,
-    "fanRatioPercentile": 96.1464,
-    "popularityPercentile": 99.501,
-    "fanFavouriteDiscoveryScore": 96.019,
-    "fanFavouriteDiscoveryPercentile": 98.1841
+    "fanFavouriteRaw": 4.3381,
+    "fanRatioPercentile": 96.1616,
+    "popularityPercentile": 99.5011,
+    "fanFavouriteDiscoveryScore": 96.0342,
+    "fanFavouriteDiscoveryPercentile": 98.1986
   },
   "context": {
     "primaryProfile": "business-career-regression",

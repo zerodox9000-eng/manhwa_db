@@ -49,9 +49,11 @@
     {
       "language": "de",
       "title": "Die Rückkehr des Jagdhundes aus Eisen und Blut",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "Lezhin DE"
     },
     {
       "language": "es",
@@ -70,7 +72,9 @@
     {
       "language": "fr",
       "title": "La revanche du limier des Baskerville",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -147,6 +151,15 @@
       "note": null
     },
     {
+      "language": "de",
+      "title": "The Revenge of the Baskerville Bloodhound",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "C LINES"
+    },
+    {
       "language": "vi",
       "title": "Thiết Huyết Kiếm Sĩ Hồi Quy",
       "traits": [],
@@ -218,7 +231,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.146Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-13T23:30:18.587Z",
+  "last_updated_at": "2026-11-14T11:34:52.016Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -494,16 +507,16 @@
     "7550": "core"
   },
   "stats": {
-    "popularity": 46998,
-    "favourites": 2399,
+    "popularity": 47020,
+    "favourites": 2400,
     "meanScore": 79
   },
   "analytics": {
-    "fanFavouriteRaw": 5.1045,
-    "fanRatioPercentile": 97.6851,
+    "fanFavouriteRaw": 5.1042,
+    "fanRatioPercentile": 97.6997,
     "popularityPercentile": 99.8822,
-    "fanFavouriteDiscoveryScore": 97.5597,
-    "fanFavouriteDiscoveryPercentile": 99.0435
+    "fanFavouriteDiscoveryScore": 97.5743,
+    "fanFavouriteDiscoveryPercentile": 99.0439
   },
   "context": {
     "primaryProfile": "business-career-regression",

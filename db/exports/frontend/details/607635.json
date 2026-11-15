@@ -76,7 +76,7 @@
   },
   "first_seen_at": "2026-10-20T00:42:14.924Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-13T17:20:38.887Z",
+  "last_updated_at": "2026-11-15T00:11:39.776Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -96,7 +96,11 @@
       "rating": null,
       "url": "https://anilist.co/manga/218533"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "desiderium",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/desiderium"
+    },
     "mangaupdates": {
       "id": "d9tzwof",
       "rating": null,
@@ -105,6 +109,7 @@
   },
   "tag_ids": [
     43,
+    36,
     22,
     41,
     109,
@@ -112,30 +117,33 @@
     9,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
     "6": "defining",
     "9": "defining",
     "22": "defining",
+    "36": "unweighted",
     "41": "defining",
     "43": "defining",
     "57": "unweighted",
     "93": "unweighted",
     "109": "incidental",
-    "428": "unweighted"
+    "428": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
-    "popularity": 23,
+    "popularity": 24,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6795,
-    "popularityPercentile": 14.2223,
-    "fanFavouriteDiscoveryScore": 12.4805,
-    "fanFavouriteDiscoveryPercentile": 12.9956
+    "fanRatioPercentile": 32.6613,
+    "popularityPercentile": 14.7578,
+    "fanFavouriteDiscoveryScore": 12.8193,
+    "fanFavouriteDiscoveryPercentile": 13.4068
   }
 }

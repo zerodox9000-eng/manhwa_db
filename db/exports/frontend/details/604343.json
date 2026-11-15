@@ -2,7 +2,7 @@
   "id": 604343,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Ant Hell",
+  "display_title": "Antlion Pit",
   "mangabaka_title": "Gaemijiok",
   "native_title": "개미지옥",
   "romanized_title": "Gaemijiok",
@@ -27,14 +27,14 @@
       "language": "en",
       "title": "Ant Hell",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Antlion Pit",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -97,7 +97,7 @@
   },
   "first_seen_at": "2026-09-18T05:11:19.026Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-13T10:14:36.279Z",
+  "last_updated_at": "2026-11-14T10:15:25.129Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -139,6 +139,7 @@
     118,
     6031,
     5950,
+    14,
     41,
     180,
     16,
@@ -154,6 +155,7 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
+    "14": "unweighted",
     "16": "defining",
     "31": "defining",
     "41": "defining",
@@ -186,9 +188,9 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.6129,
-    "fanRatioPercentile": 67.8403,
-    "popularityPercentile": 29.1586,
-    "fanFavouriteDiscoveryScore": 46.2706,
-    "fanFavouriteDiscoveryPercentile": 53.3061
+    "fanRatioPercentile": 67.8168,
+    "popularityPercentile": 29.1485,
+    "fanFavouriteDiscoveryScore": 46.2422,
+    "fanFavouriteDiscoveryPercentile": 53.2668
   }
 }
