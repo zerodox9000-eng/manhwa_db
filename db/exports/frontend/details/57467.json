@@ -4,8 +4,8 @@
   "type": "manhwa",
   "display_title": "Aliens Get Lovesick Too!",
   "mangabaka_title": "Aliens Get Lovesick Too!",
-  "native_title": "恋は宇宙人も病ませる",
-  "romanized_title": null,
+  "native_title": "사랑은 외계인도 병들게 한다",
+  "romanized_title": "Sarangeun Oegyeindo Byeongdeulge Handa",
   "titles": [
     {
       "language": "ko",
@@ -19,7 +19,9 @@
     {
       "language": "en",
       "title": "Aliens Get Lovesick Too!",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -38,6 +40,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Sarangeun Oegyeindo Byeongdeulge Handa",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "vi",
       "title": "Tình Yêu Khiến Cả Người Ngoài Hành Tinh Cũng Phát Ốm",
       "traits": [],
@@ -52,29 +63,29 @@
       "note": null
     }
   ],
-  "description": "Minominomi is an alien girl tasked with capturing Inho, an ordinary guy to study him. Inho doesn't take that very well and attacks her on the spot, believing it's a dream. Soon a relationship filled with antics ensues!\n\n**Original Webtoon:**  \n[Bomtoon](https://www.bomtoon.com/comic/ep_list/lovesalien), [Lezhin](https://www.lezhin.com/ko/comic/alien_sick), [MComics](https://www.mcomics.co.kr/contents?idx=5476), [KakaoPage](https://page.kakao.com/content/51508506), [Naver Series](https://series.naver.com/comic/detail.series?productNo=3493534), [Ridibooks](https://ridibooks.com/books/1020004103), [Qtoon](https://www.qtoon.co.kr/toon/list.mg?tcode=2ttd), [Onestory](https://onestory.co.kr/detail/H034057357), [Nate](https://toonnbook.nate.com/detail/H034057357), [MrBlue](https://www.mrblue.com/webtoon/wt_000056151)\n\n**Official Translations:**  \n[Japanese](https://www.amazon.co.jp/-/en/dp/B0BNQJZT24/)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNDEyMjEzLmpwZw",
-  "total_chapters": null,
+  "description": "Minominomi is an alien girl tasked with capturing Inho, an ordinary guy to study him. Inho doesn't take that very well and attacks her on the spot, believing it's a dream. Soon a relationship filled with antics ensues!\n\n(Source: INKR)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTkyNy01QnQ4R1k2ZFBYU24uanBn",
+  "total_chapters": "16",
   "status": "completed",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2015,
   "published": {
-    "start_date": "2015-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2015-09-07",
+    "end_date": "2015-01-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": true
   },
   "first_seen_at": "2026-06-10T15:38:01.911Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-10-31T03:38:01.372Z",
+  "last_updated_at": "2026-11-15T17:06:19.473Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "EunGyeong Kim"
+    "Eun-Gyeong Kim"
   ],
   "artists": [
-    "EunGyeong Kim"
+    "Eun-Gyeong Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/57467",
@@ -82,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219927,
+      "rating": null,
+      "url": "https://anilist.co/manga/219927"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "0y6bd6l",
@@ -92,18 +107,30 @@
   },
   "tag_ids": [
     36,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6478,
+    "popularityPercentile": 0.1385,
+    "fanFavouriteDiscoveryScore": 5.2373,
+    "fanFavouriteDiscoveryPercentile": 0.1385
   },
   "context": {
     "primaryProfile": "modern-korea",
