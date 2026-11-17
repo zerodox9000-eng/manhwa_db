@@ -3,22 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Tutoring My Gangster Male Friend",
-  "mangabaka_title": "Tutoring My Gangster Male Friend",
-  "native_title": "[계약 단편선] 조폭 남사친 과외하기",
-  "romanized_title": null,
+  "mangabaka_title": "Jopong Namsachin Gwaoehagi",
+  "native_title": "조폭 남사친 과외하기",
+  "romanized_title": "[Gyeyak Danpyeonseon] Jopong Namsachin Gwaoehagi",
   "titles": [
     {
       "language": "ko",
       "title": "조폭 남사친 과외하기",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[계약 단편선] 조폭 남사친 과외하기",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -33,6 +35,22 @@
       "title": "Giving My Gangster Male Friend Private Lessons",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Gyeyak Danpyeonseon] Jopong Namsachin Gwaoehagi",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Jopong Namsachin Gwaoehagi",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -85,30 +103,29 @@
       "note": null
     }
   ],
-  "description": "“Oh Soon-jung. Do you have a boyfriend?”\n\nThat question was where it all began.\n\nAfter leaving her hometown due to certain circumstances, Soon-jung became a top-tier instructor in Daechi-dong. However, due to health issues, she returns home and agrees to help her high school dropout friend, Yeo Ho-sung, pass the GED exam. But instead of studying, he seems more interested in other things.\n\n“Doing this for the first time and stopping midway takes an extraordinary amount of patience, you know?”\n\nThud. Ho-sung placed his mechanical pencil on the desk, rested his chin in his hand, and stared intently at her.\n\n“I’m holding back a lot. I just want you to know that.”  \n“……”  \n“So. Where were we in today’s lesson, Teacher?” \n\nBeneath Ho-sung’s gentle, smiling face, the long lead of his mechanical pencil snapped completely in half.\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5285003034)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxODY2LmpwZw",
+  "description": "*Note: Part of Metatoon's Gyeyak Danpyeonseon (계약 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTkzMi1CS3Z5enM0bFRUUkUucG5n",
   "total_chapters": "8",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-01",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-04T00:43:55.897Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-15T23:36:41.171Z",
+  "last_updated_at": "2026-11-16T23:39:26.986Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hanbal",
+    "Bal Han",
     "MAGO"
   ],
   "artists": [
-    "Metatoon",
     "Naju"
   ],
   "links": {
@@ -117,7 +134,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219932,
+      "rating": null,
+      "url": "https://anilist.co/manga/219932"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1s6mkn4",
@@ -127,19 +148,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7201,
+    "popularityPercentile": 0.6985,
+    "fanFavouriteDiscoveryScore": 5.4578,
+    "fanFavouriteDiscoveryPercentile": 0.6639
   }
 }

@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Please Fix It, Young Master!",
-  "mangabaka_title": "Please Fix It, Young Master!",
+  "mangabaka_title": "Gochyeojuseyo, Doryeonnim!",
   "native_title": "고쳐주세요, 도련님!",
-  "romanized_title": null,
+  "romanized_title": "Gochyeojuseyo, Doryeonnim!",
   "titles": [
     {
       "language": "ko",
       "title": "고쳐주세요, 도련님!",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -26,6 +28,15 @@
       "title": "Fix Me, Young Master!",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gochyeojuseyo, Doryeonnim!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -65,21 +76,21 @@
     }
   ],
   "description": "**\"Clearly, I was only supposed to provide the milk... So why is he kissing me?!\"**\n\nMary has a secret she has guarded her entire life: despite being a virgin, her body produces breast milk. Desperate for a fresh start after years of humiliation, she secures a job at a prestigious marquisate; only to be exposed on day 1 by Asher, the brilliant eldest son and lead medical researcher.\n\nExpecting the worst, Mary is stunned when Asher offers her a confidential contract: treatment for her condition in exchange for regular milk samples.\nThe arrangement seems straightforward enough; until Asher’s physical examinations begin crossing every professional boundary imaginable.\n\n As the line between medical research and undeniable desire blurs, Asher makes a revelation of his own:\n**\"Forget the research data, Mary. It's you I want to analyze.\"**\n\n**Original Webtoon:**  \n[Ridibooks](https://ridibooks.com/books/6402000002)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxODI3LnBuZw",
-  "total_chapters": "1",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTkzOC1najl5SEplSFA3aXYuanBn",
+  "total_chapters": "7",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-05",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-31T00:42:12.077Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-15T17:15:35.579Z",
+  "last_updated_at": "2026-11-16T17:15:45.211Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,7 +105,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219938,
+      "rating": null,
+      "url": "https://anilist.co/manga/219938"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "1jrd2vu",
@@ -104,20 +119,39 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     46,
     41,
-    9
+    740,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "740": "incidental"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7201,
+    "popularityPercentile": 0.166,
+    "fanFavouriteDiscoveryScore": 5.259,
+    "fanFavouriteDiscoveryPercentile": 0.166
   }
 }

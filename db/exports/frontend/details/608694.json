@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Peach Heart",
-  "mangabaka_title": "Peach Heart",
-  "native_title": "桃心",
-  "romanized_title": null,
+  "mangabaka_title": "Boksunga Simjang",
+  "native_title": "복숭아 심장",
+  "romanized_title": "Boksunga Simjang",
   "titles": [
     {
       "language": "ko",
       "title": "복숭아 심장",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -19,6 +21,15 @@
       "title": "A Peach Heart",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Boksunga Simjang",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,32 +54,30 @@
       "note": null
     }
   ],
-  "description": "\"That jerk is our damn unnie's friend!\"\n\nYeon Ganghyeon is Sangyeong High School's most popular guy, the kind of heartthrob every girl attending a school in the area knows about.\n\nBut that's only because they don't know what he's really like.\n\nTo me, he's nothing more than a smug, shameless jerk who gets his kicks out of pulling childish, mean-spirited pranks on people.\n\nThe moment he opens his mouth, he's picking a fight with me. Bickering with him has become part of my daily routine. So why, all of a sudden, has Yeon Ganghyeon started looking kind of cute to me? Don't tell me... I'm falling in love?!\n\nBut they say first loves never work out, don't they?!\n\nWill this unexpected first love, whose beginnings I can't even remember, turn into the love of my life?\n\nOr will we spend the rest of our lives at each other's throats...?\n\n**Original Webtoon:**    \n[KakaoPage](https://page.kakao.com/content/71055406)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNjE0LmpwZw",
+  "description": "*\"That jerk is our damn unnie's friend!\"*\n\nYeon Ganghyeon is Sangyeong High School's most popular guy, the kind of heartthrob every girl attending a school in the area knows about. But that's only because they don't know what he's really like. To me, he's nothing more than a smug, shameless jerk who gets his kicks out of pulling childish, mean-spirited pranks on people. The moment he opens his mouth, he's picking a fight with me. Bickering with him has become part of my daily routine. So why, all of a sudden, has Yeon Ganghyeon started looking kind of cute to me? Don't tell me... I'm falling in love?! But they say first loves never work out, don't they?! Will this unexpected first love, whose beginnings I can't even remember, turn into the love of my life? Or will we spend the rest of our lives at each other's throats...?\n\n(Source: KakaoPage, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTk1Ny1SU2p4SjNkYWQ5UlYuanBn",
   "total_chapters": "22",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-10-28",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-30T00:42:29.449Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-15T17:07:09.308Z",
+  "last_updated_at": "2026-11-17T00:36:39.217Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Eibe",
-    "Juhong",
-    "Kimbbang"
+    "Gimppang"
   ],
   "artists": [
-    "Lamancha Studio",
-    "Lee Rita"
+    "Ju-Hong"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608694",
@@ -76,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219957,
+      "rating": null,
+      "url": "https://anilist.co/manga/219957"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "lyr2pfq",
@@ -86,19 +99,37 @@
   },
   "tag_ids": [
     40,
+    7549,
     107,
+    108,
     9,
-    42
+    42,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "40": "defining",
+    "42": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "7549": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7201,
+    "popularityPercentile": 0.166,
+    "fanFavouriteDiscoveryScore": 5.259,
+    "fanFavouriteDiscoveryPercentile": 0.166
   }
 }

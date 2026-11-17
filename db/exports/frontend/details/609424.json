@@ -3,9 +3,9 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Unfair XX Contract",
-  "mangabaka_title": "Unfair XX Contract",
-  "native_title": "[XX 단편선] 불공정 XX 계약",
-  "romanized_title": null,
+  "mangabaka_title": "Bulgongjeong XX Gyeyak",
+  "native_title": "불공정 XX 계약",
+  "romanized_title": "Bulgongjeong XX Gyeyak",
   "titles": [
     {
       "language": "en",
@@ -43,6 +43,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Bulgongjeong XX Gyeyak",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Unfair XX Deal",
       "traits": [],
@@ -59,8 +68,10 @@
     {
       "language": "ko",
       "title": "불공정 XX 계약",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -71,37 +82,43 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "[XX Danpyeonseon] Bulgongjeong XX Gyeyak",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko",
       "title": "[XX 단편선] 불공정 XX 계약",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "“Then...! I will! I'll start spreading rumors too!!”  \n“About what, exactly?”  \n“Why, that…!!”   \n“About how Ye Jin-seo cried and begged for more under me? Or how she said it felt so good and asked me to thrust deeper?”  \n“Aghhhh—!! Quiet, please be quiet!!!”\n\nJin-seo stood on her tiptoes once again to cover Gyeom's mouth. He no longer intended to go easy on her. With one hand, he grabbed both of her wrists, pulling them down.\n\n“Or how Ye Jin-seo spread her own pussy and swiveled her hips?”\n\nAs if running into the man from her one-night stand as her boss wasn't enough, now she's bound to him by a sex contract?\n\n[Original Webtoon](https://ridibooks.com/books/5285003049)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxOTMyLmpwZw",
+  "description": "*Note: Part of Metatoon's XX Danpyeonseon (XX남친) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTkzNS11eG11Yk5KWXY5UEYucG5n",
   "total_chapters": "4",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-03",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-05T00:42:21.372Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-15T04:30:45.930Z",
+  "last_updated_at": "2026-11-16T04:32:01.639Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kang Bibi",
-    "Nuknuk"
+    "Bi-Bi Kang",
+    "Nungnuk"
   ],
   "artists": [
-    "Metatoon",
     "Tosta"
   ],
   "links": {
@@ -110,7 +127,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219935,
+      "rating": null,
+      "url": "https://anilist.co/manga/219935"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "dmrj2bj",
@@ -120,19 +141,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7201,
+    "popularityPercentile": 0.166,
+    "fanFavouriteDiscoveryScore": 5.259,
+    "fanFavouriteDiscoveryPercentile": 0.166
   }
 }

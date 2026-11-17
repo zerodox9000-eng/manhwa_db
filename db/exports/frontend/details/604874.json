@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "False Pregnancy",
-  "mangabaka_title": "False Pregnancy",
+  "mangabaka_title": "Geojin Imsin",
   "native_title": "거짓 임신",
-  "romanized_title": null,
+  "romanized_title": "Geojin Imsin",
   "titles": [
     {
       "language": "ko",
       "title": "거짓 임신",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,6 +45,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Geojin Imsin",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Pregnancy Lie",
       "traits": [],
@@ -51,30 +62,30 @@
     }
   ],
   "description": "“This is why I like your body. At least it doesn’t lie.” \n\nYeonwoo was helpless against Muhyeok as he roughly pressed into her. After all, her body had already been thoroughly conditioned to respond to him. \n\n“Ah... My existence will only become a weakness for you, Vice President.”    \n“Is that why you were clinging to that bastard? Just how little did you think of me?” \n\nEven if their relationship had started with physical desire, even if, to the outside world, she was known not as his wife but as his secretary, Yeonwoo had believed they could keep their marriage going.  \n\n“Did you really expect me to be enough of an idiot to see that and just stand by doing nothing?” \n\n...Where had everything gone wrong? This pregnancy absolutely had to be a lie.\n\n**Original Webtoon:**    \nR19: [Naver Series](https://series.naver.com/comic/detail.series?productNo=14624811)   \nR15: [Naver Series](https://series.naver.com/comic/detail.series?productNo=14624839)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4ODgwLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTkzNy1DZnBacUs0Z3VEbUkucG5n",
   "total_chapters": "13",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-24",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-25T05:24:06.145Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-15T18:01:42.556Z",
+  "last_updated_at": "2026-11-16T18:02:38.176Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Contimaker",
-    "Kang Haeju"
+    "Conti Maker",
+    "Hae-Ju Kang"
   ],
   "artists": [
     "iMa",
-    "Metatoon"
+    "YUTU"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/604874",
@@ -82,7 +93,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219937,
+      "rating": null,
+      "url": "https://anilist.co/manga/219937"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "9vgalpx",
@@ -92,21 +107,39 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     15,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7201,
+    "popularityPercentile": 0.166,
+    "fanFavouriteDiscoveryScore": 5.259,
+    "fanFavouriteDiscoveryPercentile": 0.166
   }
 }

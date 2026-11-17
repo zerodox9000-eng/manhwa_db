@@ -3,20 +3,38 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Living With My Friend's Older Brother",
-  "mangabaka_title": "Living With My Friend's Older Brother",
+  "mangabaka_title": "Chingu Oppawa Hanjibeseo",
   "native_title": "친구 오빠와 한집에서",
-  "romanized_title": null,
+  "romanized_title": "Chingu Oppawa Hanjibeseo",
   "titles": [
     {
       "language": "ko",
       "title": "친구 오빠와 한집에서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Chingu Oppawa Hanjibeseo",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Living Together With My Friend's Older Brother",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Living Under One Roof with My Friend's Brother",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -58,30 +76,29 @@
     }
   ],
   "description": "\"Live with me starting today.\"\n\nHyerin, Yeonwoo's best friend and roommate, ran off on a romantic getaway with her boyfriend.   \nYeonwoo expected Doheon—her landlord, Hyerin's older brother, and her long-time unrequited crush—to just kick her out.  \n\n\"I'm telling you to move into my place.\"\n\nClaiming he'll act as her guardian, he proposes that they live together, just the two of them.   \nUltimately, Yeonwoo ends up moving into Doheon's penthouse.  \nHowever, the more time they spend together, the stranger he acts.\n\n\"Because I don't think I'll be able to leave you alone anymore.\"\n\nWith an undisguised, burning gaze, he keeps closing the distance between them.    \nAs if he's about to devour even the ten-year age gap and the guilt of her being his sister's friend.\n\n**Original Webtoon:**  \nR19: [RIDI](https://ridibooks.com/books/5285003092)  \nR15: [RIDI](https://ridibooks.com/books/5285003093)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMTQ4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTk0NS1tbjhRWUlsMmNCMnQucG5n",
   "total_chapters": "7",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-07",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-08T00:42:26.179Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-15T15:53:05.374Z",
+  "last_updated_at": "2026-11-16T15:56:01.008Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Mango Octopus",
-    "Moonstone"
+    "Mango Muneo",
+    "Moon Stone"
   ],
   "artists": [
-    "Metatoon",
-    "Yoon (윤)"
+    "Yun"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/609751",
@@ -89,7 +106,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219945,
+      "rating": null,
+      "url": "https://anilist.co/manga/219945"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "8ava0bj",
@@ -99,19 +120,39 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    228,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "228": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7201,
+    "popularityPercentile": 0.166,
+    "fanFavouriteDiscoveryScore": 5.259,
+    "fanFavouriteDiscoveryPercentile": 0.166
   }
 }
