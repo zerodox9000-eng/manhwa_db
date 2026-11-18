@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Maybe By Your Side",
-  "mangabaka_title": "Maybe By Your Side",
-  "native_title": "もしかしたらあなたの側にも",
-  "romanized_title": null,
+  "mangabaka_title": "Ne Gyeotedo Eojjeomyeon",
+  "native_title": "네 곁에도 어쩌면",
+  "romanized_title": "Ne Gyeotedo Eojjeomyeon",
   "titles": [
     {
       "language": "ko",
       "title": "네 곁에도 어쩌면",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -36,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Ne Gyeotedo Eojjeomyeon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "もしかしたらあなたの側にも",
       "traits": [],
@@ -43,7 +54,7 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Daum](https://webtoon.kakao.com/content/%EB%84%A4-%EA%B3%81%EC%97%90%EB%8F%84-%EC%96%B4%EC%A9%8C%EB%A9%B4/2544), [KakaoPage](https://page.kakao.com/content/56810522), [Ridibooks](https://ridibooks.com/books/845057580), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14488514), [Bomtoon](https://www.bomtoon.com/detail/maybe_vicinity), [MrBlue](https://www.mrblue.com/webtoon/wt_000081194), [MComics](https://www.mcomics.co.kr/webtoonComic/15033) \n\n**Official Translations:**  \n[Japanese](https://jp.piccoma.com/web/product/148314)",
+  "description": "*“A dead person is right beside you right now.”* \n\nA bus accident was destined to be part of Mi-Yul’s life, an ordinary high school girl. With the help of Park Ha-Yeong, a student at her school who foresaw the accident, Mi-Yul narrowly avoids the crash. However, perhaps as a price for this, she witnesses “someone” jumping to their death, and from then on, Mi-Yul is plagued by nightmares caused by the ghost of the person who jumped. Eventually, she turns once again to Ha-Yeong, the one who helped her avoid the bus accident, for help. After learning the truth about the “ghost,” Mi-Yul is left with a bitter taste in her mouth, realizing that the cruelty of people is far more terrifying than the ghost itself.\n\n *“I’m a shaman who’s been possessed by a spirit.”*\n\nHa-Yeong’s unexpected confession! And what lies ahead for Mi-Yul, now that she can see ghosts?!\n\n(Source: KakaoPage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM2OTUwLmpwZw",
   "total_chapters": "101",
   "status": "completed",
@@ -51,21 +62,21 @@
   "is_licensed": false,
   "year": 2021,
   "published": {
-    "start_date": "2021-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2021-04-07",
+    "end_date": "2022-12-26",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:43:31.413Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-01T12:02:27.167Z",
+  "last_updated_at": "2026-11-17T14:36:39.955Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "YUN Ji Woon"
+    "Ji-Un Yun"
   ],
   "artists": [
-    "YUN Ji Woon"
+    "Ji-Un Yun"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/91946",
@@ -73,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219978,
+      "rating": null,
+      "url": "https://anilist.co/manga/219978"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ik9f85q",
@@ -83,23 +98,52 @@
   },
   "tag_ids": [
     43,
+    7549,
     107,
     36,
     22,
+    229,
+    309,
     31,
+    44,
+    1090,
     9,
-    42
+    42,
+    5,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "5": "unweighted",
+    "9": "defining",
+    "22": "defining",
+    "31": "defining",
+    "36": "defining",
+    "42": "defining",
+    "43": "defining",
+    "44": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "229": "unweighted",
+    "309": "unweighted",
+    "428": "unweighted",
+    "1090": "unweighted",
+    "7549": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7112,
+    "popularityPercentile": 0.6636,
+    "fanFavouriteDiscoveryScore": 5.4431,
+    "fanFavouriteDiscoveryPercentile": 0.6291
   },
   "context": {
     "primaryProfile": "modern-korea",

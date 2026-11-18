@@ -20,20 +20,22 @@
       "language": "it",
       "title": "Come portare mio marito dalla mia parte",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "fr",
       "title": "Comment faire mon mari être mon allié",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "pt-br",
       "title": "Como Fazer de Um Marido Uma Aliança",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -66,7 +68,16 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "it",
+      "title": "How to win my husband over",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "id",
       "title": "How to Win My Husband Over",
       "traits": [
         "official"
@@ -76,9 +87,20 @@
     },
     {
       "language": "en",
-      "title": "How to Win My Husband Over - Der Weg zum Herzen meines Mannes",
-      "traits": [],
-      "is_primary": false,
+      "title": "How to Win My Husband Over",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "de",
+      "title": "How to win My Husband over - Der Weg zum Herzen meines Mannes",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -97,15 +119,19 @@
     },
     {
       "language": "fr",
-      "title": "Les intrigues d'une Borgia",
-      "traits": [],
-      "is_primary": false,
+      "title": "Les Intrigues d'une Borgia",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Nampyeon'eul Nae Pyeon'euro Mandeuneun Bangbeob",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -129,7 +155,7 @@
       "language": "de",
       "title": "Wie man seinen Ehemann zähmt",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -168,16 +194,20 @@
       "note": null
     },
     {
-      "language": "zh",
+      "language": "zh-Hant",
       "title": "只為尋求丈夫的支持",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ja",
       "title": "夫を味方にする方法",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -185,7 +215,7 @@
       "language": "zh-Hant",
       "title": "讓丈夫偏愛的方法",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -193,6 +223,15 @@
       "title": "讓丈夫站在我這邊的方法",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "zh-Hans",
+      "title": "让丈夫站在我这边的方法",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -218,7 +257,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-16T16:56:03.859Z",
+  "last_updated_at": "2026-11-17T19:41:13.031Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -399,14 +438,14 @@
     "57": "unweighted",
     "59": "unweighted",
     "60": "core",
-    "65": "unweighted",
-    "67": "defining",
+    "65": "incidental",
+    "67": "recurrent",
     "72": "defining",
     "74": "unweighted",
     "75": "defining",
     "93": "unweighted",
     "94": "defining",
-    "106": "unweighted",
+    "106": "incidental",
     "108": "unweighted",
     "109": "recurrent",
     "121": "defining",
@@ -417,10 +456,10 @@
     "158": "core",
     "160": "defining",
     "174": "unweighted",
-    "226": "unweighted",
+    "226": "incidental",
     "230": "unweighted",
     "235": "core",
-    "254": "unweighted",
+    "254": "incidental",
     "258": "unweighted",
     "266": "defining",
     "309": "defining",
@@ -428,11 +467,11 @@
     "317": "recurrent",
     "359": "defining",
     "360": "core",
-    "376": "unweighted",
+    "376": "incidental",
     "395": "defining",
     "405": "unweighted",
     "428": "unweighted",
-    "450": "defining",
+    "450": "core",
     "467": "incidental",
     "499": "unweighted",
     "578": "defining",
@@ -441,7 +480,7 @@
     "590": "defining",
     "614": "defining",
     "639": "defining",
-    "649": "unweighted",
+    "649": "incidental",
     "653": "incidental",
     "690": "recurrent",
     "692": "defining",
@@ -449,10 +488,10 @@
     "827": "unweighted",
     "831": "defining",
     "843": "recurrent",
-    "888": "unweighted",
+    "888": "incidental",
     "890": "defining",
-    "892": "unweighted",
-    "893": "unweighted",
+    "892": "incidental",
+    "893": "incidental",
     "898": "core",
     "905": "defining",
     "994": "core",
@@ -461,30 +500,30 @@
     "1079": "incidental",
     "1090": "unweighted",
     "1094": "defining",
-    "1116": "unweighted",
+    "1116": "incidental",
     "1126": "defining",
-    "1161": "unweighted",
+    "1161": "incidental",
     "1164": "defining",
     "1455": "defining",
     "1457": "recurrent",
-    "1687": "unweighted",
-    "1712": "unweighted",
-    "1732": "unweighted",
-    "1940": "unweighted",
+    "1687": "incidental",
+    "1712": "incidental",
+    "1732": "incidental",
+    "1940": "incidental",
     "2119": "defining",
     "2124": "incidental",
     "2127": "defining",
     "2134": "defining",
-    "2302": "unweighted",
+    "2302": "incidental",
     "2398": "incidental",
     "2400": "incidental",
-    "2436": "unweighted",
-    "2686": "unweighted",
-    "2897": "unweighted",
+    "2436": "incidental",
+    "2686": "incidental",
+    "2897": "incidental",
     "2967": "recurrent",
     "2985": "core",
     "3031": "core",
-    "3033": "unweighted",
+    "3033": "incidental",
     "3056": "defining",
     "3108": "unweighted",
     "3150": "recurrent",
@@ -495,32 +534,32 @@
     "3377": "incidental",
     "3389": "incidental",
     "3430": "defining",
-    "3519": "defining",
-    "3560": "defining",
-    "3684": "unweighted",
-    "3696": "unweighted",
-    "3983": "unweighted",
-    "4096": "unweighted",
-    "4328": "unweighted",
+    "3519": "recurrent",
+    "3560": "core",
+    "3684": "incidental",
+    "3696": "incidental",
+    "3983": "incidental",
+    "4096": "incidental",
+    "4328": "incidental",
     "4354": "core",
-    "4372": "unweighted",
-    "4567": "unweighted",
+    "4372": "incidental",
+    "4567": "incidental",
     "5689": "core",
-    "7251": "unweighted",
+    "7251": "incidental",
     "7332": "unweighted",
     "7549": "core"
   },
   "stats": {
-    "popularity": 21407,
-    "favourites": 1429,
+    "popularity": 21421,
+    "favourites": 1430,
     "meanScore": 82
   },
   "analytics": {
-    "fanFavouriteRaw": 6.6754,
-    "fanRatioPercentile": 98.9349,
-    "popularityPercentile": 99.3706,
-    "fanFavouriteDiscoveryScore": 98.8024,
-    "fanFavouriteDiscoveryPercentile": 99.668
+    "fanFavouriteRaw": 6.6757,
+    "fanRatioPercentile": 98.9423,
+    "popularityPercentile": 99.3709,
+    "fanFavouriteDiscoveryScore": 98.8098,
+    "fanFavouriteDiscoveryPercentile": 99.682
   },
   "context": {
     "primaryProfile": "business-career-regression",

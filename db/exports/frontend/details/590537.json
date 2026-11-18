@@ -15,13 +15,6 @@
       "note": null
     },
     {
-      "language": "es",
-      "title": "Ámame Más",
-      "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
       "language": "ko-Latn",
       "title": "Love me more",
       "traits": [
@@ -35,6 +28,13 @@
       "title": "Love Me More",
       "traits": [],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Love me more, Beta",
+      "traits": [],
+      "is_primary": false,
       "note": null
     }
   ],
@@ -53,7 +53,7 @@
   },
   "first_seen_at": "2026-06-15T05:49:46.169Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-16T10:53:39.996Z",
+  "last_updated_at": "2026-11-17T10:56:42.147Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -132,39 +132,39 @@
     "57": "unweighted",
     "74": "unweighted",
     "93": "unweighted",
-    "118": "defining",
+    "118": "core",
     "180": "incidental",
-    "228": "unweighted",
-    "383": "defining",
+    "228": "defining",
+    "383": "core",
     "428": "unweighted",
-    "595": "unweighted",
+    "595": "incidental",
     "776": "unweighted",
-    "1004": "unweighted",
+    "1004": "defining",
     "1020": "defining",
-    "1796": "unweighted",
-    "1947": "unweighted",
+    "1796": "defining",
+    "1947": "defining",
     "2980": "defining",
     "3000": "defining",
-    "3561": "unweighted",
-    "3622": "unweighted",
+    "3561": "defining",
+    "3622": "defining",
     "3680": "defining",
-    "4383": "unweighted",
+    "4383": "defining",
     "4439": "core",
-    "5392": "defining",
-    "6811": "defining",
+    "5392": "core",
+    "6811": "core",
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 199,
+    "popularity": 201,
     "favourites": 1,
     "meanScore": 65
   },
   "analytics": {
-    "fanFavouriteRaw": 0.5025,
-    "fanRatioPercentile": 36.0191,
-    "popularityPercentile": 50.1694,
-    "fanFavouriteDiscoveryScore": 33.3222,
-    "fanFavouriteDiscoveryPercentile": 35.8739
+    "fanFavouriteRaw": 0.4975,
+    "fanRatioPercentile": 35.9187,
+    "popularityPercentile": 50.3871,
+    "fanFavouriteDiscoveryScore": 33.2741,
+    "fanFavouriteDiscoveryPercentile": 35.8081
   },
   "context": {
     "primaryProfile": "romance-core",

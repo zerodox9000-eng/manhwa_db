@@ -3,8 +3,8 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Scales of Justice",
-  "mangabaka_title": "Scales of Justice",
-  "native_title": "天衡士",
+  "mangabaka_title": "Bangjeongsa",
+  "native_title": "방정사",
   "romanized_title": "Bangjeongsa",
   "titles": [
     {
@@ -19,7 +19,9 @@
     {
       "language": "ko-Latn",
       "title": "Bangjeongsa",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -46,28 +48,28 @@
     }
   ],
   "description": "**Original Webtoon:**  \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=4132599), [KakaoPage](https://page.kakao.com/content/70685855), [Bomtoon](https://www.bomtoon.com/detail/Bangjeongsa), [Lezhin](https://www.lezhin.com/ko/comic/bangjeongsa), [MrBlue](https://www.mrblue.com/webtoon/wt_000081320) , [Ridibooks](https://ridibooks.com/books/1746036487) \n\n**Official Translations:**   \n[S.Chinese](https://www.dongmanmanhua.cn/FANTASY/tianhengshi/list?title_no=1543), [Japanese](https://manga.line.me/title/Z0001367)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3NjYWxlcy1vZi1qdXN0aWNlLTEud2VicD90PTE3MzM3MDQzMjM",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTk4MC0zS3BGbU05UVNZZWguanBn",
   "total_chapters": "51",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2019,
   "published": {
-    "start_date": "2019-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2019-04-28",
+    "end_date": "2020-04-05",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:41:08.379Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-09T23:45:40.409Z",
+  "last_updated_at": "2026-11-17T06:36:11.637Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Dojin (ii)"
   ],
   "artists": [
-    "Halliday"
+    "Ga-Eun Choi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/7001",
@@ -75,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219980,
+      "rating": null,
+      "url": "https://anilist.co/manga/219980"
+    },
     "animeplanet": {
       "id": "scales-of-justice",
       "rating": null,
@@ -89,6 +95,7 @@
   },
   "tag_ids": [
     38,
+    7550,
     36,
     39,
     31,
@@ -99,15 +106,29 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "31": "defining",
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "45": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted",
+    "7550": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.7112,
+    "popularityPercentile": 0.3664,
+    "fanFavouriteDiscoveryScore": 5.3316,
+    "fanFavouriteDiscoveryPercentile": 0.3526
   },
   "context": {
     "primaryProfile": "modern-korea",
