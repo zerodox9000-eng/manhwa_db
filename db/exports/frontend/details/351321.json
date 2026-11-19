@@ -55,7 +55,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-17T08:02:42.319Z",
+  "last_updated_at": "2026-11-18T21:18:42.966Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -78,13 +78,20 @@
     "animeplanet": null,
     "mangaupdates": {
       "id": "c5tjxo4",
-      "rating": null,
+      "rating": 62,
       "url": "https://www.mangaupdates.com/series/c5tjxo4"
     }
   },
   "tag_ids": [
+    1205,
+    272,
     429,
+    402,
+    286,
+    661,
+    3216,
     46,
+    1550,
     180,
     16,
     31,
@@ -93,7 +100,9 @@
     57,
     428
   ],
-  "spoiler_tag_ids": [],
+  "spoiler_tag_ids": [
+    3216
+  ],
   "tag_weights": {
     "9": "defining",
     "16": "defining",
@@ -102,8 +111,15 @@
     "57": "unweighted",
     "93": "unweighted",
     "180": "incidental",
+    "272": "unweighted",
+    "286": "unweighted",
+    "402": "unweighted",
     "428": "unweighted",
-    "429": "incidental"
+    "429": "incidental",
+    "661": "unweighted",
+    "1205": "unweighted",
+    "1550": "unweighted",
+    "3216": "unweighted"
   },
   "stats": {
     "popularity": 25,
@@ -112,10 +128,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.7112,
-    "popularityPercentile": 15.2426,
-    "fanFavouriteDiscoveryScore": 13.1553,
-    "fanFavouriteDiscoveryPercentile": 13.8532
+    "fanRatioPercentile": 32.6629,
+    "popularityPercentile": 15.2326,
+    "fanFavouriteDiscoveryScore": 13.1293,
+    "fanFavouriteDiscoveryPercentile": 13.8365
   },
   "context": {
     "primaryProfile": "business-career-regression",

@@ -5,7 +5,7 @@
   "display_title": "King's Maker",
   "mangabaka_title": "King's Maker",
   "native_title": "킹스메이커",
-  "romanized_title": "King's Maker",
+  "romanized_title": "Kingseu Meikeo",
   "titles": [
     {
       "language": "ko",
@@ -24,10 +24,12 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Kingseu Meikeo",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -40,26 +42,28 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "fr",
       "title": "King's Maker",
       "traits": [
-        "native"
+        "official"
       ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "King's Maker: Triple Crown",
-      "traits": [],
-      "is_primary": false,
+      "language": "de",
+      "title": "King's Maker",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "pt",
       "title": "O Criador do Rei",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -86,16 +90,20 @@
     {
       "language": "ja",
       "title": "キングスメーカー",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
-      "note": null
+      "note": "Piccoma"
     },
     {
       "language": "ja",
       "title": "キングスメーカー〜その皇子、キングメーカーに誓う〜",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": false,
-      "note": null
+      "note": "Lezhin JP"
     },
     {
       "language": "zh",
@@ -120,7 +128,7 @@
   },
   "first_seen_at": "2026-06-10T15:39:19.581Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-17T12:26:59.814Z",
+  "last_updated_at": "2026-11-18T15:53:17.315Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -346,16 +354,16 @@
     "7550": "defining"
   },
   "stats": {
-    "popularity": 11346,
-    "favourites": 627,
+    "popularity": 11347,
+    "favourites": 626,
     "meanScore": 82
   },
   "analytics": {
-    "fanFavouriteRaw": 5.5262,
-    "fanRatioPercentile": 98.1059,
-    "popularityPercentile": 98.258,
-    "fanFavouriteDiscoveryScore": 97.9618,
-    "fanFavouriteDiscoveryPercentile": 99.288
+    "fanFavouriteRaw": 5.5169,
+    "fanRatioPercentile": 98.0994,
+    "popularityPercentile": 98.2583,
+    "fanFavouriteDiscoveryScore": 97.9553,
+    "fanFavouriteDiscoveryPercentile": 99.2881
   },
   "context": {
     "primaryProfile": "kingdom-management",

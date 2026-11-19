@@ -2,8 +2,8 @@
   "id": 584602,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Follow the Sheep in the Abyss",
-  "mangabaka_title": "Follow the Sheep in the Abyss",
+  "display_title": "The Abyss is No Place for a Lamb",
+  "mangabaka_title": "The Abyss is No Place for a Lamb",
   "native_title": "심연에서는 양을 따라가세요",
   "romanized_title": "Simyeon eseo neun Yang eul Ttaragaseyo",
   "titles": [
@@ -27,7 +27,7 @@
       "language": "en",
       "title": "Follow the Sheep in the Abyss",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -42,6 +42,15 @@
       "title": "Simyeon eseo neun Yang eul Ttaragaseyo",
       "traits": [
         "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Abyss is No Place for a Lamb",
+      "traits": [
+        "official"
       ],
       "is_primary": true,
       "note": null
@@ -73,7 +82,7 @@
   "total_chapters": "27",
   "status": "releasing",
   "content_rating": "pornographic",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-04-06",
@@ -83,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:50.307Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-17T18:30:46.032Z",
+  "last_updated_at": "2026-11-18T11:28:20.471Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -95,8 +104,11 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/584602",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://manta.net/en/series/the-abyss-is-no-place-for-a-lamb-full-ver?seriesId=4402",
+    "read_en_all": [
+      "https://manta.net/en/series/the-abyss-is-no-place-for-a-lamb-full-ver?seriesId=4402",
+      "https://manta.net/en/series/the-abyss-is-no-place-for-a-lamb?seriesId=4403"
+    ]
   },
   "source": {
     "anilist": {
@@ -173,16 +185,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 543,
+    "popularity": 546,
     "favourites": 17,
     "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 3.1308,
-    "fanRatioPercentile": 91.4005,
-    "popularityPercentile": 69.2036,
-    "fanFavouriteDiscoveryScore": 89.9109,
-    "fanFavouriteDiscoveryPercentile": 94.2901
+    "fanFavouriteRaw": 3.1136,
+    "fanRatioPercentile": 91.0775,
+    "popularityPercentile": 69.2584,
+    "fanFavouriteDiscoveryScore": 89.5998,
+    "fanFavouriteDiscoveryPercentile": 94.0563
   },
   "context": {
     "primaryProfile": "game-system",
