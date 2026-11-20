@@ -2,56 +2,67 @@
   "id": 607889,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Stalker Holic",
+  "display_title": "[Hole Sweet Hole Anthology] Stalker Holic",
   "mangabaka_title": "Stalker Holic",
-  "native_title": "[홀스윗홀 단편선] 스토커 홀릭",
-  "romanized_title": "[Hole Sweet Hole Anthology] Stalker Holic",
+  "native_title": "스토커 홀릭",
+  "romanized_title": "[Hole Sweet Hole Danpyeonseon] Stalker Holic",
   "titles": [
     {
       "language": "ko",
-      "title": "스토커홀릭",
-      "traits": [],
-      "is_primary": false,
+      "title": "스토커 홀릭",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[홀스윗홀 단편선] 스토커 홀릭",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "[Hole Sweet Hole Anthology] Stalker Holic",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "ja-Latn",
-      "title": "[Hole Sweet Hole Anthology] Stalker Holic",
+      "language": "ko-Latn",
+      "title": "[Hole Sweet Hole Danpyeonseon] Stalker Holic",
       "traits": [],
       "is_primary": false,
       "note": null
     },
     {
-      "language": "ja-Latn",
+      "language": "ko-Latn",
       "title": "Stalker Holic",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/stalker_holic)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQwOTkxLmpwZw",
+  "description": "*Note: The second story in Lezhin's Hole Sweet Hole Danpyeonseon (홀스윗홀 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDA2MS1WaHFCZ3ZYNlVXSG0ucG5n",
   "total_chapters": "6",
   "status": "completed",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-12",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-23T00:42:29.705Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-18T17:21:59.003Z",
+  "last_updated_at": "2026-11-19T17:22:16.343Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -66,7 +77,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220061,
+      "rating": null,
+      "url": "https://anilist.co/manga/220061"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "33ssa0z",
@@ -75,17 +90,32 @@
     }
   },
   "tag_ids": [
-    16
+    180,
+    16,
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6383,
+    "popularityPercentile": 1.1807,
+    "fanFavouriteDiscoveryScore": 5.6289,
+    "fanFavouriteDiscoveryPercentile": 1.1047
   }
 }

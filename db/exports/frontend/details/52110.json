@@ -45,12 +45,26 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "Most Wanted Wife (Promo)",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Nampyeonege Jjotgigo Itseumnida",
       "traits": [
         "native"
       ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nampyeonege Jjotgigo Itseumnida (Promo)",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -76,7 +90,7 @@
   },
   "first_seen_at": "2026-06-10T15:45:01.175Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-18T14:47:31.875Z",
+  "last_updated_at": "2026-11-19T09:24:07.079Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -97,7 +111,11 @@
       "rating": 65,
       "url": "https://anilist.co/manga/147955"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "most-wanted-wife-promo",
+      "rating": 76,
+      "url": "https://www.anime-planet.com/manga/most-wanted-wife-promo"
+    },
     "mangaupdates": {
       "id": "gb58i9t",
       "rating": 65,
@@ -107,13 +125,19 @@
   "tag_ids": [
     59,
     7549,
+    74,
     311,
     108,
     36,
     31,
     9,
+    127,
+    93,
+    110,
     2050,
-    57
+    57,
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -122,9 +146,15 @@
     "36": "defining",
     "57": "unweighted",
     "59": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
     "108": "unweighted",
+    "110": "unweighted",
+    "127": "unweighted",
     "311": "incidental",
+    "428": "unweighted",
     "2050": "unweighted",
+    "7332": "unweighted",
     "7549": "incidental"
   },
   "stats": {
@@ -134,10 +164,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 1.3825,
-    "fanRatioPercentile": 61.4348,
-    "popularityPercentile": 51.911,
-    "fanFavouriteDiscoveryScore": 57.4156,
-    "fanFavouriteDiscoveryPercentile": 65.1946
+    "fanRatioPercentile": 61.4306,
+    "popularityPercentile": 51.9368,
+    "fanFavouriteDiscoveryScore": 57.4198,
+    "fanFavouriteDiscoveryPercentile": 65.1868
   },
   "context": {
     "primaryProfile": "regression-return",

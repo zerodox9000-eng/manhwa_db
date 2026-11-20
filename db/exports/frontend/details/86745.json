@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "50 Shades of Gray",
-  "mangabaka_title": "50 Shades of Gray",
+  "mangabaka_title": "Gray-ui 50-gaji Geurimja",
   "native_title": "그레이의 50가지 그림자",
-  "romanized_title": null,
+  "romanized_title": "Gray-ui 50-gaji Geurimja",
   "titles": [
     {
       "language": "ko",
       "title": "그레이의 50가지 그림자",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -27,31 +29,40 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Gray-ui 50-gaji Geurimja",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "A chance meeting between college student Anastasia and attractive CEO Christian Grey. Fascinated by their first meeting, Anastasia receives a strange contract from Grey.\n\n*The movie <50 Shades of Grey> is reinterpreted as a webtoon! A special ensemble of Lezhin Entertainment and Kim Jung-hyun!*\n\n[Original Webtoon](https://www.lezhin.com/ko/comic/50shades_of_grey)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pMzYzOTMyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDA2OC12bUNHak40THNFcGMucG5n",
   "total_chapters": "2",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2015,
   "published": {
-    "start_date": "2015-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2015-02-17",
+    "end_date": "2015-02-24",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:38:01.911Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-14T21:12:24.694Z",
+  "last_updated_at": "2026-11-19T06:36:34.944Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "KIM Junghyun (II)"
+    "Jeong-Hyeon Kim"
   ],
   "artists": [
-    "KIM Junghyun (II)"
+    "Jeong-Hyeon Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/86745",
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220068,
+      "rating": null,
+      "url": "https://anilist.co/manga/220068"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "y4c6q9u",
@@ -69,20 +84,32 @@
   },
   "tag_ids": [
     43,
+    336,
+    108,
     46,
     15,
     9
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "43": "defining",
+    "46": "defining",
+    "108": "unweighted",
+    "336": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 10
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6383,
+    "popularityPercentile": 0.145,
+    "fanFavouriteDiscoveryScore": 5.2381,
+    "fanFavouriteDiscoveryPercentile": 0.145
   },
   "context": {
     "primaryProfile": "corporate-workplace",

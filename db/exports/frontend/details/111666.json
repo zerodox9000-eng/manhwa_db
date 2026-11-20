@@ -26,7 +26,9 @@
     {
       "language": "fr",
       "title": "Bas les pattes !",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -63,7 +65,9 @@
     {
       "language": "es",
       "title": "¡Garritas al ataque!",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -85,24 +89,21 @@
     },
     {
       "language": "de",
-      "title": "Pfötchen & Krallen (Papertoons German printed edition)",
-      "traits": [],
+      "title": "Pfötchen & Krallen",
+      "traits": [
+        "official"
+      ],
       "is_primary": false,
-      "note": null
+      "note": "papertoons"
     },
     {
       "language": "de",
       "title": "Pfoten weg!",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "de",
-      "title": "Pfoten weg! (Lezhin.de)",
-      "traits": [],
-      "is_primary": false,
-      "note": null
+      "note": "Lezhin DE"
     },
     {
       "language": "ru",
@@ -114,14 +115,27 @@
     {
       "language": "th",
       "title": "ลูกหมาของฉัน ใครก็ห้ามแตะ!",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ja",
       "title": "ワンちゃんには手をだすな",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh-Hant-TW",
+      "title": "不要欺負小狗！",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -155,7 +169,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.820Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-18T06:54:12.654Z",
+  "last_updated_at": "2026-11-19T16:36:04.524Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -360,16 +374,16 @@
     "7550": "defining"
   },
   "stats": {
-    "popularity": 3281,
+    "popularity": 3285,
     "favourites": 168,
     "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": 5.1204,
-    "fanRatioPercentile": 97.74,
-    "popularityPercentile": 92.8952,
-    "fanFavouriteDiscoveryScore": 97.5157,
-    "fanFavouriteDiscoveryPercentile": 99.0048
+    "fanFavouriteRaw": 5.1142,
+    "fanRatioPercentile": 97.7353,
+    "popularityPercentile": 92.902,
+    "fanFavouriteDiscoveryScore": 97.5111,
+    "fanFavouriteDiscoveryPercentile": 99.0126
   },
   "context": {
     "primaryProfile": "sports-career",

@@ -4,21 +4,23 @@
   "type": "manhwa",
   "display_title": "The Loser Gets the Bottom?",
   "mangabaka_title": "Jineun Nomi Kkallineun Geoda?",
-  "native_title": "[홀스윗홀 단편선] 지는 놈이 깔리는 거다?",
+  "native_title": "지는 놈이 깔리는 거다?",
   "romanized_title": "[Hole Sweet Hole Anthology] Jineun Nomi Kkallineun Geoda?",
   "titles": [
     {
       "language": "ko",
       "title": "지는 놈이 깔리는 거다?",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[홀스윗홀 단편선] 지는 놈이 깔리는 거다?",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,9 +31,25 @@
       "note": null
     },
     {
+      "language": "en",
+      "title": "[Hole Sweet Hole Anthology] The Loser Gets the Bottom?",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Hole Sweet Hole Danpyeonseon] Jineun Nomi Kkallineun Geoda?",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
       "language": "ko-Latn",
       "title": "Jineun Nomi Kkallineun Geoda?",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -43,29 +61,29 @@
       "note": null
     }
   ],
-  "description": "A virgin aspiring top and a seasoned, experienced top get into a petty argument that soon escalates into a heated battle over who gets to take the lead. With one rule at stake whoever loses has to bottom the outcome is sealed, and the experienced top suffers an unexpected defeat. But despite all his experience, his backside has remained untouched. What awaits him after this humiliating loss?\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/under_loser)",
+  "description": "*Note: The third story in Lezhin's Hole Sweet Hole Danpyeonseon (홀스윗홀 단편선) Collection.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi85LzgvOS82LzEvYi82LzEvZDEyNC80MjE2L2JkODUvZjFjYTgxZDEyMmVh",
-  "total_chapters": null,
-  "status": "unknown",
+  "total_chapters": "5",
+  "status": "completed",
   "content_rating": "pornographic",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-13",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-24T00:42:12.049Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-18T02:21:02.170Z",
+  "last_updated_at": "2026-11-19T02:36:31.278Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "G. Seasoning"
+    "Yangnyeomgalbi"
   ],
   "artists": [
-    "TEKTEK"
+    "Taegi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/607972",
@@ -73,11 +91,15 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220062,
+      "rating": null,
+      "url": "https://anilist.co/manga/220062"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "sm33v01",
-      "rating": 63,
+      "rating": 64,
       "url": "https://www.mangaupdates.com/series/sm33v01"
     }
   },
@@ -94,19 +116,46 @@
     180,
     1947,
     16,
+    31,
+    9,
     1004,
+    93,
     1167,
-    57
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "unweighted",
+    "16": "defining",
+    "31": "unweighted",
+    "41": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "428": "unweighted",
+    "556": "core",
+    "787": "unweighted",
+    "1004": "core",
+    "1167": "unweighted",
+    "1947": "core",
+    "2397": "unweighted",
+    "2449": "unweighted",
+    "2671": "unweighted",
+    "3007": "core",
+    "3185": "core",
+    "3247": "core"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 30
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6383,
+    "popularityPercentile": 1.1807,
+    "fanFavouriteDiscoveryScore": 5.6289,
+    "fanFavouriteDiscoveryPercentile": 1.1047
   }
 }

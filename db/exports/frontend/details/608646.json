@@ -5,39 +5,43 @@
   "display_title": "Heal My Obsession",
   "mangabaka_title": "Heal My Obsession",
   "native_title": "힐 마이 옵세션",
-  "romanized_title": null,
+  "romanized_title": "Heal My Obsession",
   "titles": [
     {
       "language": "ko",
       "title": "힐 마이 옵세션",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Heal My Obsession",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "Jay Kwon must save his mother, his only remaining family member. While trying to help her, he is fired from his hospital after accessing classified research notes for a new drug without authorization.\n\nHaving once been an emergency medicine resident, he receives a dangerous proposition from Ian Ashford, the heir to a hotel conglomerate: in exchange for covering his mother's medical expenses in full, Jay must treat the sexual partners injured during Ian’s sadistic encounters.\n\nDesperate, Jay finds himself torn before Ian's offer—one he can scarcely afford to refuse... *(Source: Lezhin, translated)*\n\n**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/healmaob)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxNzA0LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDA2My1xdG96d2VWTkVtWWgucG5n",
   "total_chapters": "1",
   "status": "releasing",
-  "content_rating": "safe",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-14",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-29T00:42:21.303Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-18T00:33:03.497Z",
+  "last_updated_at": "2026-11-20T00:37:41.739Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -52,7 +56,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220063,
+      "rating": null,
+      "url": "https://anilist.co/manga/220063"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "ntih92b",
@@ -61,18 +69,34 @@
     }
   },
   "tag_ids": [
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6383,
+    "popularityPercentile": 0.3798,
+    "fanFavouriteDiscoveryScore": 5.3247,
+    "fanFavouriteDiscoveryPercentile": 0.3659
   }
 }

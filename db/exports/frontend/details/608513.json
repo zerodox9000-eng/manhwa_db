@@ -10,7 +10,9 @@
     {
       "language": "ko",
       "title": "솔탱탈출기",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -44,14 +46,15 @@
   },
   "first_seen_at": "2026-10-28T00:42:18.622Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-18T20:33:41.005Z",
+  "last_updated_at": "2026-11-19T20:35:22.142Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hyun Jiha"
+    "Ji-Ha Hyeon",
+    "Neunu"
   ],
   "artists": [
-    "Neu-noo"
+    "Neunu"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608513",
@@ -59,7 +62,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220059,
+      "rating": null,
+      "url": "https://anilist.co/manga/220059"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "67tlnbg",
@@ -81,22 +88,53 @@
     4099,
     107,
     257,
+    180,
     16,
     893,
     9,
     7,
     42,
-    1004
+    1004,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "7": "defining",
+    "9": "defining",
+    "16": "defining",
+    "42": "unweighted",
+    "57": "unweighted",
+    "93": "unweighted",
+    "107": "unweighted",
+    "180": "incidental",
+    "257": "unweighted",
+    "428": "unweighted",
+    "893": "unweighted",
+    "1004": "unweighted",
+    "1050": "unweighted",
+    "1585": "unweighted",
+    "2418": "unweighted",
+    "2587": "unweighted",
+    "2659": "unweighted",
+    "2752": "unweighted",
+    "2981": "unweighted",
+    "3011": "unweighted",
+    "4099": "unweighted",
+    "5503": "unweighted",
+    "6999": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6383,
+    "popularityPercentile": 1.1807,
+    "fanFavouriteDiscoveryScore": 5.6289,
+    "fanFavouriteDiscoveryPercentile": 1.1047
   }
 }
