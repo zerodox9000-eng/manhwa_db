@@ -26,7 +26,9 @@
     {
       "language": "es",
       "title": "El mejor desarrollador inmobiliario",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -55,7 +57,7 @@
       "language": "pl",
       "title": "MŚCICHUJ",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -67,9 +69,11 @@
     },
     {
       "language": "pl",
-      "title": "Niezrównany inżynier - The greatest estate developer",
-      "traits": [],
-      "is_primary": false,
+      "title": "Niezrównany inżynier - The Greatest Estate Developer",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -86,6 +90,24 @@
       "title": "The Greatest Estate Designer",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "fr",
+      "title": "The Greatest Estate Developer",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "de",
+      "title": "The Greatest Estate Developer",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -116,7 +138,9 @@
     {
       "language": "ko-Latn",
       "title": "Yeogdaegeub Yeongji Seolgyesa",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -160,7 +184,9 @@
     {
       "language": "th",
       "title": "ยอดสถาปนิกผู้พิทักษ์อาณาจักร",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -176,7 +202,9 @@
     {
       "language": "zh-Hant",
       "title": "史詩級領地設計師",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -184,6 +212,15 @@
       "language": "zh",
       "title": "史诗级领地设计师",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh-Hans",
+      "title": "史诗级领地设计师",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -203,7 +240,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-19T10:19:53.170Z",
+  "last_updated_at": "2026-11-20T17:09:42.706Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -634,15 +671,15 @@
     "7550": "core"
   },
   "stats": {
-    "popularity": 72705,
-    "favourites": 8226,
+    "popularity": 72770,
+    "favourites": 8244,
     "meanScore": 90
   },
   "analytics": {
-    "fanFavouriteRaw": 11.3142,
-    "fanRatioPercentile": 99.6893,
+    "fanFavouriteRaw": 11.3288,
+    "fanRatioPercentile": 99.6894,
     "popularityPercentile": 99.9724,
-    "fanFavouriteDiscoveryScore": 99.5623,
+    "fanFavouriteDiscoveryScore": 99.5624,
     "fanFavouriteDiscoveryPercentile": 99.9793
   },
   "context": {

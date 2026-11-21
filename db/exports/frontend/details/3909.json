@@ -26,7 +26,9 @@
     {
       "language": "de",
       "title": "Fleh mich an",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -37,13 +39,6 @@
         "native"
       ],
       "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "Naege Bireobwa",
-      "traits": [],
-      "is_primary": false,
       "note": null
     },
     {
@@ -70,7 +65,9 @@
     {
       "language": "fr",
       "title": "Supplie-moi",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -114,14 +111,27 @@
     {
       "language": "th",
       "title": "รักใต้เงาแค้น",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ja",
       "title": "乞わずにはいられない",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh-Hans",
+      "title": "向我乞求",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -129,6 +139,15 @@
       "language": "zh",
       "title": "向我乞求",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "zh-Hant",
+      "title": "哀求我吧",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -155,7 +174,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.824Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-19T18:21:34.918Z",
+  "last_updated_at": "2026-11-20T23:26:20.056Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -316,7 +335,7 @@
     "1732": "core",
     "2440": "core",
     "2443": "defining",
-    "2464": "defining",
+    "2464": "core",
     "2524": "defining",
     "2724": "recurrent",
     "2727": "defining",
@@ -337,16 +356,16 @@
     "7549": "defining"
   },
   "stats": {
-    "popularity": 867,
+    "popularity": 871,
     "favourites": 8,
     "meanScore": 58
   },
   "analytics": {
-    "fanFavouriteRaw": 0.9227,
-    "fanRatioPercentile": 46.6202,
-    "popularityPercentile": 77.2285,
-    "fanFavouriteDiscoveryScore": 46.2278,
-    "fanFavouriteDiscoveryPercentile": 53.076
+    "fanFavouriteRaw": 0.9185,
+    "fanRatioPercentile": 46.4559,
+    "popularityPercentile": 77.3138,
+    "fanFavouriteDiscoveryScore": 46.0677,
+    "fanFavouriteDiscoveryPercentile": 52.8401
   },
   "context": {
     "primaryProfile": "euro-fantasy",

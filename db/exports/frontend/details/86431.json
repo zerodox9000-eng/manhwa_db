@@ -3,8 +3,8 @@
   "state": "active",
   "type": "oel",
   "display_title": "Macbeth",
-  "mangabaka_title": "Macbeth",
-  "native_title": null,
+  "mangabaka_title": "Manga Classics: Macbeth",
+  "native_title": "Manga Classics: Macbeth",
   "romanized_title": null,
   "titles": [
     {
@@ -15,29 +15,31 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ja",
       "title": "Manga Classics: Macbeth",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
   "description": "Macbeth, the Thane of Cawdor, is a loyal subject of Duncan, the King of Scotland. At least, he used to be. With tempting words and treacherous images, three witches and his own wife inspire Macbeth to a terrible act of treason and murder. As one murder follows another, Macbeth begins to lose his grip upon both his sanity and his hard-won kingdom - but what could possibly unseat him from his bloody throne? Manga Classics presents a NEW EDITION of Shakespeare's brutal Scottish tragedy, featuring lush visuals and the FULL, ADAPTED MODERN ENGLISH text of the classic play!",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTI1NTIzLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvcG9zdGVyX2ltYWdlcy81NTIzNy9vcmlnaW5hbC5qcGc",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2021,
   "published": {
     "start_date": "2021-01-01",
-    "end_date": null,
+    "end_date": "2018-09-01",
     "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-07-20T04:22:09.462Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-04T17:13:24.962Z",
+  "last_updated_at": "2026-11-20T04:41:44.015Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -54,7 +56,11 @@
   },
   "source": {
     "anilist": null,
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "manga-classics-macbeth",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/manga-classics-macbeth"
+    },
     "mangaupdates": {
       "id": "op0217s",
       "rating": null,
@@ -63,9 +69,15 @@
   },
   "tag_ids": [
     8,
+    91,
+    405,
+    1340,
     31,
+    3304,
+    128,
     5,
-    45
+    45,
+    1009
   ],
   "spoiler_tag_ids": [],
   "stats": {

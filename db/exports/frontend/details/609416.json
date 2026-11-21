@@ -2,15 +2,17 @@
   "id": 609416,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Young Master Wanted to Kiss the Maid",
-  "mangabaka_title": "The Young Master Wanted to Kiss the Maid",
+  "display_title": "His Grace Craves Her Lips",
+  "mangabaka_title": "His Grace Craves Her Lips",
   "native_title": "도련님은 하녀에게 입을 맞추고 싶어서",
-  "romanized_title": null,
+  "romanized_title": "Doryeonnimeun Hanyeoege Ibeul Matchugo Sipeoseo",
   "titles": [
     {
       "language": "ko",
       "title": "도련님은 하녀에게 입을 맞추고 싶어서",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -22,10 +24,21 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Doryeonnimeun Hanyeoege Ibeul Matchugo Sipeoseo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "His Grace Craves Her Lips",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -46,33 +59,36 @@
       "language": "en",
       "title": "The Young Master Wanted to Kiss the Maid",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
-  "description": "Nyx Farroah, Duke of Roundhill, won the war but lost all hope of being loved, his body left scarred and his heart resigned to solitude. Then his knight brings home a pagan apothecary, Titchte Ranlam—a beautiful woman Nyx never expected. For a man who gave up on being seen, it may be too late to look away.\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/6407000001)\n\n**Official Translations:**   \n[English](https://manta.net/en/series/his-grace-craves-her-lips?seriesId=5618)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMjYzLmpwZw",
+  "description": "Nyx Farroah, Duke of Roundhill, won the war but lost all hope of being loved, his body left scarred and his heart resigned to solitude. Then his knight brings home a pagan apothecary, Titchte Ranlam—a beautiful woman Nyx never expected. For a man who gave up on being seen, it may be too late to look away.\n\n(Source: Manta)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTc1OS13MkROTEM4V0VQbm0ucG5n",
   "total_chapters": "15",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-09",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-05T00:42:21.372Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-19T17:39:09.253Z",
+  "last_updated_at": "2026-11-20T17:48:02.598Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Nam Ga-Wang"
+    "Ga-Wang Nam",
+    "Ron",
+    "RUKKIS",
+    "Sin"
   ],
   "artists": [
-    "Sreureuk Comics"
+    "Mongtto"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/609416",
@@ -80,7 +96,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219759,
+      "rating": 80,
+      "url": "https://anilist.co/manga/219759"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "9te2kxv",
@@ -90,18 +110,37 @@
   },
   "tag_ids": [
     43,
+    336,
+    108,
     36,
-    9
+    9,
+    45,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "43": "defining",
+    "45": "incidental",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "336": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 97,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 80
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.5971,
+    "popularityPercentile": 36.7589,
+    "fanFavouriteDiscoveryScore": 26.1312,
+    "fanFavouriteDiscoveryPercentile": 28.3387
   }
 }

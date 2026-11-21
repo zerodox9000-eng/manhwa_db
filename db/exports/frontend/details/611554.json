@@ -2,7 +2,7 @@
   "id": 611554,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Chaebol Heir Who Takes It All",
+  "display_title": "The Third-Generation Chaebol Who Takes It All",
   "mangabaka_title": "Doksikaneun Jaebeol 3-se",
   "native_title": "독식하는 재벌 3세",
   "romanized_title": "Doksikaneun Jaebeol 3-se",
@@ -29,6 +29,20 @@
       "language": "en",
       "title": "The Chaebol Heir Who Takes It All",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Third-Generation Chaebol Takes Everything",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Third-Generation Chaebol Who Takes It All",
+      "traits": [],
       "is_primary": true,
       "note": null
     }
@@ -48,7 +62,7 @@
   },
   "first_seen_at": "2026-11-20T00:42:11.948Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-19T22:26:38.320Z",
+  "last_updated_at": "2026-11-20T22:26:49.242Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -70,27 +84,41 @@
       "url": "https://anilist.co/manga/220087"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "a84qzn1",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/a84qzn1"
+    }
   },
   "tag_ids": [
+    7550,
+    748,
     6,
-    31
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
     "6": "unweighted",
-    "31": "unweighted"
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "748": "unweighted",
+    "7550": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 4,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6383,
-    "popularityPercentile": 0.145,
-    "fanFavouriteDiscoveryScore": 5.2381,
-    "fanFavouriteDiscoveryPercentile": 0.145
+    "fanRatioPercentile": 32.5971,
+    "popularityPercentile": 1.1802,
+    "fanFavouriteDiscoveryScore": 5.6216,
+    "fanFavouriteDiscoveryPercentile": 1.1043
   }
 }

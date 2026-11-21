@@ -17,25 +17,25 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "ja-Latn",
       "title": "Kareta Hana ni Namida wo",
-      "traits": [
-        "native"
-      ],
-      "is_primary": false,
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "it",
       "title": "Lacrime su un fiore appassito",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "es",
       "title": "Lágrimas en una flor marchita",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -70,21 +70,18 @@
     {
       "language": "fr",
       "title": "Pleure pour cette fleur",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "WEBTOON"
     },
     {
       "language": "ko-Latn",
       "title": "Sideun Kkoch-e Nunmul-eul",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "Sideun Kkoch-e Nunmur-eul",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -119,6 +116,15 @@
       "note": null
     },
     {
+      "language": "it",
+      "title": "Tears on a Withered Flower",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "Tears on a Withered Flower",
       "traits": [
@@ -128,11 +134,31 @@
       "note": null
     },
     {
+      "language": "fr",
+      "title": "Tears on a Withered Flower - Pleure pour cette fleur",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "KILY"
+    },
+    {
+      "language": "de",
+      "title": "Tränen auf einer verwelkten Blume",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "papertoons"
+    },
+    {
       "language": "de",
       "title": "Tränen auf einer welken Blume",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "WEBTOON"
     },
     {
       "language": "ru",
@@ -158,14 +184,18 @@
     {
       "language": "th",
       "title": "บุปผารุ่มราคะ",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "ja",
       "title": "枯れた花に涙を",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -179,7 +209,9 @@
     {
       "language": "zh-Hant",
       "title": "枯萎的花淚",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -199,7 +231,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.820Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-19T15:56:52.076Z",
+  "last_updated_at": "2026-11-20T20:25:14.472Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -406,16 +438,16 @@
     "7549": "defining"
   },
   "stats": {
-    "popularity": 7416,
-    "favourites": 268,
+    "popularity": 7425,
+    "favourites": 267,
     "meanScore": 72
   },
   "analytics": {
-    "fanFavouriteRaw": 3.6138,
-    "fanRatioPercentile": 93.8549,
-    "popularityPercentile": 97.0586,
-    "fanFavouriteDiscoveryScore": 93.7025,
-    "fanFavouriteDiscoveryPercentile": 96.7824
+    "fanFavouriteRaw": 3.596,
+    "fanRatioPercentile": 93.7953,
+    "popularityPercentile": 97.0667,
+    "fanFavouriteDiscoveryScore": 93.6431,
+    "fanFavouriteDiscoveryPercentile": 96.7355
   },
   "context": {
     "primaryProfile": "business-career-regression",

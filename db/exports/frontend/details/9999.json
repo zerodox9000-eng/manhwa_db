@@ -55,13 +55,15 @@
       "language": "id",
       "title": "Menara Dewa",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Shi-nui t'ap",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -73,17 +75,12 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko",
       "title": "Sin-ui Tap",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "fi",
-      "title": "Sinui Tap",
-      "traits": [],
-      "is_primary": true,
       "note": null
     },
     {
@@ -92,6 +89,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fi",
+      "title": "Sinui Tap",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -113,7 +117,7 @@
       "language": "fr",
       "title": "Toi La Ai",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -141,14 +145,7 @@
       "language": "es",
       "title": "Torre de Dios",
       "traits": [],
-      "is_primary": true,
-      "note": null
-    },
-    {
-      "language": "pt",
-      "title": "Tower of God",
-      "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -161,10 +158,73 @@
       "note": null
     },
     {
+      "language": "pt",
+      "title": "Tower of God",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "id",
+      "title": "Tower of God",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es-la",
+      "title": "Tower of God",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "es",
+      "title": "Tower of God",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "fr",
+      "title": "Tower of God",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "de",
+      "title": "Tower of God",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "it",
+      "title": "Tower of God",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "de",
       "title": "Turm Gottes",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -191,7 +251,9 @@
     {
       "language": "uk",
       "title": "Вежа бога",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -212,7 +274,9 @@
     {
       "language": "th",
       "title": "ทาวเวอร์ออฟก๊อด หอคอยเทพเจ้า",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -220,13 +284,24 @@
       "language": "ja",
       "title": "神の塔",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "zh-Hant",
       "title": "神之塔",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ja",
+      "title": "神之塔",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -246,7 +321,7 @@
   },
   "first_seen_at": "2026-09-17T04:10:15.833Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-20T00:36:13.392Z",
+  "last_updated_at": "2026-11-20T19:50:14.828Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -645,15 +720,15 @@
     "7550": "core"
   },
   "stats": {
-    "popularity": 101376,
-    "favourites": 7754,
+    "popularity": 101407,
+    "favourites": 7756,
     "meanScore": 82
   },
   "analytics": {
-    "fanFavouriteRaw": 7.6488,
-    "fanRatioPercentile": 99.2474,
+    "fanFavouriteRaw": 7.6484,
+    "fanRatioPercentile": 99.2477,
     "popularityPercentile": 99.9862,
-    "fanFavouriteDiscoveryScore": 99.1211,
-    "fanFavouriteDiscoveryPercentile": 99.8412
+    "fanFavouriteDiscoveryScore": 99.1214,
+    "fanFavouriteDiscoveryPercentile": 99.8413
   }
 }

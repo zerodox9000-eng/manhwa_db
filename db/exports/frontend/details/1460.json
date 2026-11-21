@@ -36,7 +36,7 @@
       "language": "fr",
       "title": "Le retour du joueur de gel",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -61,6 +61,15 @@
       "note": null
     },
     {
+      "language": "fr",
+      "title": "The Frozen Player Returns",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Frozen Player Returns",
       "traits": [
@@ -70,10 +79,12 @@
       "note": null
     },
     {
-      "language": "fr",
-      "title": "The Frozen Player Returns (piccoma)",
-      "traits": [],
-      "is_primary": false,
+      "language": "de",
+      "title": "The Frozen Player Returns",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -98,6 +109,15 @@
       "note": null
     },
     {
+      "language": "zh-Hans",
+      "title": "冰封玩家的归来",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh",
       "title": "冰封玩家的归来",
       "traits": [],
@@ -107,14 +127,18 @@
     {
       "language": "ja",
       "title": "凍結したプレイヤーの帰還",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "zh-Hant",
       "title": "闇夜英雄破冰而出",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -134,7 +158,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-19T10:37:41.038Z",
+  "last_updated_at": "2026-11-20T16:23:12.519Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -236,16 +260,16 @@
     "7550": "core"
   },
   "stats": {
-    "popularity": 27516,
-    "favourites": 696,
+    "popularity": 27530,
+    "favourites": 698,
     "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 2.5294,
-    "fanRatioPercentile": 85.6798,
-    "popularityPercentile": 99.6271,
-    "fanFavouriteDiscoveryScore": 85.5674,
-    "fanFavouriteDiscoveryPercentile": 91.2863
+    "fanFavouriteRaw": 2.5354,
+    "fanRatioPercentile": 85.7754,
+    "popularityPercentile": 99.6273,
+    "fanFavouriteDiscoveryScore": 85.663,
+    "fanFavouriteDiscoveryPercentile": 91.3176
   },
   "context": {
     "primaryProfile": "game-system",

@@ -2,7 +2,7 @@
   "id": 1659,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Villainess is a Marionette",
+  "display_title": "The Villainess Is a Marionette",
   "mangabaka_title": "The Villainess is a Marionette",
   "native_title": "악녀는 마리오네트",
   "romanized_title": "Agnyeoneun Malioneteu",
@@ -26,14 +26,18 @@
     {
       "language": "ko-Latn",
       "title": "Agnyeoneun Malioneteu",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Agnyeoneun Marioneteu",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -54,9 +58,11 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Angnyeo-neun Marionette",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": false,
       "note": null
     },
@@ -98,14 +104,9 @@
     {
       "language": "fr",
       "title": "La Méchante est une marionnette",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "fr",
-      "title": "La Méchante est une marionnette (piccoma)",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -140,8 +141,17 @@
       "note": null
     },
     {
-      "language": "en",
+      "language": "de",
       "title": "The Villainess is a Marionette",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "papertoons"
+    },
+    {
+      "language": "en",
+      "title": "The Villainess Is a Marionette",
       "traits": [
         "official"
       ],
@@ -151,9 +161,11 @@
     {
       "language": "de",
       "title": "Wenn die Marionette zurückschlägt",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "Lezhin DE"
     },
     {
       "language": "ru",
@@ -207,14 +219,18 @@
     {
       "language": "ja",
       "title": "悪女はマリオネット",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "zh-Hant",
       "title": "惡女是懸絲木偶",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -241,7 +257,7 @@
   },
   "first_seen_at": "2026-06-10T15:43:31.408Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-19T09:07:49.092Z",
+  "last_updated_at": "2026-11-20T17:37:14.051Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -494,16 +510,16 @@
     "7549": "core"
   },
   "stats": {
-    "popularity": 16843,
-    "favourites": 559,
+    "popularity": 16848,
+    "favourites": 560,
     "meanScore": 73
   },
   "analytics": {
-    "fanFavouriteRaw": 3.3189,
-    "fanRatioPercentile": 92.3704,
-    "popularityPercentile": 99.0679,
-    "fanFavouriteDiscoveryScore": 92.2435,
-    "fanFavouriteDiscoveryPercentile": 95.7882
+    "fanFavouriteRaw": 3.3238,
+    "fanRatioPercentile": 92.3597,
+    "popularityPercentile": 99.0683,
+    "fanFavouriteDiscoveryScore": 92.2329,
+    "fanFavouriteDiscoveryPercentile": 95.7761
   },
   "context": {
     "primaryProfile": "business-career-regression",

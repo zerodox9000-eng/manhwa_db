@@ -5,7 +5,7 @@
   "display_title": "Your Letter",
   "mangabaka_title": "Your Letter",
   "native_title": "연의 편지",
-  "romanized_title": "Yeon's Letters",
+  "romanized_title": "Yeonui Pyeonji",
   "titles": [
     {
       "language": "ko",
@@ -19,9 +19,11 @@
     {
       "language": "de",
       "title": "Du und deine Briefe",
-      "traits": [],
-      "is_primary": true,
-      "note": null
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": "WEBTOON"
     },
     {
       "language": "vi",
@@ -42,27 +44,15 @@
     {
       "language": "pl",
       "title": "Twój list",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
       "title": "Yeon's Letter",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Yeon's Letters",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "en",
-      "title": "Yeon-ui Pyeonji",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -77,18 +67,13 @@
       "note": null
     },
     {
-      "language": "ko",
-      "title": "Yeonui Pyeonji",
-      "traits": [],
-      "is_primary": false,
-      "note": null
-    },
-    {
-      "language": "ko-Latn",
-      "title": "Yeon'un Mektubu",
-      "traits": [],
-      "is_primary": false,
-      "note": null
+      "language": "de",
+      "title": "Your Letter",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": "papertoons"
     },
     {
       "language": "en",
@@ -102,7 +87,9 @@
     {
       "language": "uk",
       "title": "Листи Йона",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -116,7 +103,9 @@
     {
       "language": "th",
       "title": "จดหมายของยอน",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -128,6 +117,15 @@
       "note": null
     },
     {
+      "language": "zh-Hant",
+      "title": "淵的信件",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "zh",
       "title": "渊之信",
       "traits": [],
@@ -135,9 +133,20 @@
       "note": null
     },
     {
+      "language": "zh-Hans",
+      "title": "渊之信",
+      "traits": [
+        "official"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "ja",
       "title": "縁の手紙",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
@@ -157,7 +166,7 @@
   },
   "first_seen_at": "2026-06-10T15:40:09.232Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-19T14:31:05.990Z",
+  "last_updated_at": "2026-11-20T22:24:19.118Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -276,16 +285,16 @@
     "7549": "core"
   },
   "stats": {
-    "popularity": 10974,
+    "popularity": 10976,
     "favourites": 598,
     "meanScore": 81
   },
   "analytics": {
-    "fanFavouriteRaw": 5.4492,
-    "fanRatioPercentile": 98.0667,
-    "popularityPercentile": 98.1634,
-    "fanFavouriteDiscoveryScore": 97.9215,
-    "fanFavouriteDiscoveryPercentile": 99.275
+    "fanFavouriteRaw": 5.4483,
+    "fanRatioPercentile": 98.0675,
+    "popularityPercentile": 98.1641,
+    "fanFavouriteDiscoveryScore": 97.9223,
+    "fanFavouriteDiscoveryPercentile": 99.2822
   },
   "context": {
     "primaryProfile": "showbiz-career",
