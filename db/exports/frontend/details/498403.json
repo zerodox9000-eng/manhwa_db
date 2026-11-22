@@ -34,6 +34,15 @@
     },
     {
       "language": "en",
+      "title": "Wind Beneath My Wings",
+      "traits": [
+        "official"
+      ],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Wind Beneath My Wings - Extended",
       "traits": [
         "official"
@@ -64,7 +73,7 @@
   },
   "first_seen_at": "2026-06-10T15:46:39.152Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-12T11:32:35.439Z",
+  "last_updated_at": "2026-11-21T05:16:24.115Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -94,8 +103,10 @@
     "mangaupdates": null
   },
   "tag_ids": [
+    126,
     36,
     22,
+    14,
     180,
     16,
     31,
@@ -108,12 +119,14 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
+    "14": "unweighted",
     "16": "unweighted",
     "22": "defining",
     "31": "defining",
     "36": "defining",
     "57": "unweighted",
     "93": "unweighted",
+    "126": "unweighted",
     "180": "incidental",
     "428": "unweighted",
     "7332": "unweighted"
@@ -125,10 +138,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5971,
-    "popularityPercentile": 12.9892,
-    "fanFavouriteDiscoveryScore": 11.6684,
-    "fanFavouriteDiscoveryPercentile": 11.9539
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 13.0102,
+    "fanFavouriteDiscoveryScore": 11.6843,
+    "fanFavouriteDiscoveryPercentile": 11.9829
   },
   "context": {
     "primaryProfile": "regression-return",

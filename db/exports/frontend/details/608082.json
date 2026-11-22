@@ -2,29 +2,40 @@
   "id": 608082,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Delusional Roommates",
-  "mangabaka_title": "Dongsang Yimong Home Mate",
-  "native_title": "[홀스윗홀 단편선] 동상이몽 홀메이트",
-  "romanized_title": "Dongsang Yimong Home Mate",
+  "display_title": "Holemates With Different Dreams",
+  "mangabaka_title": "Dongsangimong Holemate",
+  "native_title": "동상이몽 홀메이트",
+  "romanized_title": "Dongsangimong Holemate",
   "titles": [
     {
       "language": "ko",
       "title": "동상이몽 홀메이트",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[홀스윗홀 단편선] 동상이몽 홀메이트",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Delusional Roommates",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Dongsangimong Holemate",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -32,14 +43,14 @@
       "language": "ko-Latn",
       "title": "Dongsang Yimong Home Mate",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Holemates With Different Dreams",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -48,9 +59,16 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Hole Sweet Hole Danpyeonseon] Dongsangimong Holemate",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[Lezhin](https://www.lezhin.com/ko/comic/hole_mate)",
+  "description": "*Note: The fourth story in Lezhin's Hole Sweet Hole Danpyeonseon (홀스윗홀 단편선) Collection.*",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9pbWFnZXMubWFuZ2FiYWthLmRldi9lL2EvNi8wLzkvZC8wLzYvMWUyNi80NDgxLzhmYmIvNjRiZDQzMDkwZmNh",
   "total_chapters": "5",
   "status": "completed",
@@ -58,14 +76,14 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-14",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-25T00:42:04.330Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-20T02:22:23.313Z",
+  "last_updated_at": "2026-11-21T02:22:27.412Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,7 +98,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220120,
+      "rating": null,
+      "url": "https://anilist.co/manga/220120"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "zryrsn9",
@@ -101,18 +123,50 @@
     3796,
     257,
     400,
+    99,
     180,
-    16
+    16,
+    228,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "99": "incidental",
+    "180": "incidental",
+    "228": "incidental",
+    "257": "unweighted",
+    "400": "unweighted",
+    "428": "unweighted",
+    "787": "unweighted",
+    "2397": "unweighted",
+    "2581": "unweighted",
+    "2587": "unweighted",
+    "3011": "unweighted",
+    "3185": "unweighted",
+    "3680": "unweighted",
+    "3796": "unweighted",
+    "4729": "unweighted",
+    "4942": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 0.1999,
+    "fanFavouriteDiscoveryScore": 5.2529,
+    "fanFavouriteDiscoveryPercentile": 0.1999
   }
 }

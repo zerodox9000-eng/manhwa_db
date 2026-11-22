@@ -5,19 +5,23 @@
   "display_title": "Mechanic: Slayer",
   "mangabaka_title": "Mechanic: Slayer",
   "native_title": "메카닉: 슬레이어",
-  "romanized_title": null,
+  "romanized_title": "Mechanic: Slayer",
   "titles": [
     {
       "language": "ko",
       "title": "메카닉: 슬레이어",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Mechanic: Slayer",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,28 +34,27 @@
     }
   ],
   "description": "Twelve years ago, a mysterious goddess descended upon the world without warning, posing a single, chilling question to all of humanity:\n\n“Do you truly possess the worth to exist?”\n\nWith that divine ultimatum, the world changed forever. Monsters burst forth from the shadows, and humans began awakening supernatural powers to fight back. In the chaos that followed, society fractured under the constant threat of annihilation.\n\nThree years later, Seo Haru is just an ordinary high school boy living an unremarkable life in South Korea. But that normalcy shatters overnight when an unexpected incident triggers his awakening—transforming him into the world’s only and ultimate Mechanic ability user.\n\nAs the final awakened savior of humanity, Haru steps onto the battlefield alongside a loyal crew of companions. Facing towering monsters, hostile factions, and the crushing weight of the goddess’s impossible trial, the ultimate fantasy action chronicle of steel and survival begins.\n\n“Shall we get started then?”\n\n“Mechanic Slayer!”\n\n[Original Webtoon](https://page.kakao.com/content/71253376)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L21lY2hhbmljLXNsYXllci0xLndlYnA_dD0xNzkzODQzNzgz",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDEyMS1Nc2lpSEFhTXZjbEkuanBn",
   "total_chapters": "21",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-02",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-04T00:43:55.897Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-20T22:20:33.761Z",
+  "last_updated_at": "2026-11-21T03:46:22.634Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Kwon Soon-Kyu"
+    "Sun-Gyu Gwon"
   ],
   "artists": [
-    "Jinx Studio",
     "Team Hwani"
   ],
   "links": {
@@ -60,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220121,
+      "rating": null,
+      "url": "https://anilist.co/manga/220121"
+    },
     "animeplanet": {
       "id": "mechanic-slayer",
       "rating": null,
@@ -74,6 +81,7 @@
   },
   "tag_ids": [
     38,
+    7550,
     36,
     1,
     39,
@@ -83,14 +91,27 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "1": "defining",
+    "36": "defining",
+    "38": "defining",
+    "39": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted",
+    "7332": "unweighted",
+    "7550": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 6,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 2.5372,
+    "fanFavouriteDiscoveryScore": 6.1688,
+    "fanFavouriteDiscoveryPercentile": 2.3511
   }
 }

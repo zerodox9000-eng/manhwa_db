@@ -92,7 +92,7 @@
   },
   "first_seen_at": "2026-06-10T15:50:08.739Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-20T13:08:09.122Z",
+  "last_updated_at": "2026-11-21T13:08:33.335Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -114,7 +114,11 @@
       "rating": 60,
       "url": "https://anilist.co/manga/194527"
     },
-    "animeplanet": null,
+    "animeplanet": {
+      "id": "tamed-by-the-master",
+      "rating": null,
+      "url": "https://www.anime-planet.com/manga/tamed-by-the-master"
+    },
     "mangaupdates": {
       "id": "g4g21i4",
       "rating": 61,
@@ -123,6 +127,7 @@
   },
   "tag_ids": [
     43,
+    595,
     108,
     46,
     15,
@@ -130,9 +135,11 @@
     31,
     9,
     45,
+    769,
     93,
     57,
-    428
+    428,
+    7332
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
@@ -146,7 +153,10 @@
     "57": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
-    "428": "unweighted"
+    "428": "unweighted",
+    "595": "unweighted",
+    "769": "unweighted",
+    "7332": "unweighted"
   },
   "stats": {
     "popularity": 40,
@@ -155,10 +165,10 @@
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5971,
-    "popularityPercentile": 22.1754,
-    "fanFavouriteDiscoveryScore": 17.7719,
-    "fanFavouriteDiscoveryPercentile": 19.4492
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 22.1939,
+    "fanFavouriteDiscoveryScore": 17.7885,
+    "fanFavouriteDiscoveryPercentile": 19.4774
   },
   "context": {
     "primaryProfile": "romance-core",

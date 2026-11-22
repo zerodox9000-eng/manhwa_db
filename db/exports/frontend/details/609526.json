@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Mermaid Tail",
-  "mangabaka_title": "Mermaid's Tail",
+  "mangabaka_title": "Ineo Kkori",
   "native_title": "인어 꼬리",
-  "romanized_title": null,
+  "romanized_title": "Ineo Kkori",
   "titles": [
     {
       "language": "ko",
       "title": "인어 꼬리",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Ineo Kkori",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -34,6 +45,13 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Mermaid's Tale",
+      "traits": [],
+      "is_primary": false,
+      "note": null
     }
   ],
   "description": "Cordelia, a descendant of mermaids, is the sole heir of the Marguerite family.\n\nAfter the deaths of her grandfather, the head of the family, and her mother, the family begins to fall into rapid decline. Mistreated by her father and relatives, Cordelia's misfortune only worsens when she develops a hereditary disease that has plagued her family like a curse, leading even her fiancé's family to abandon her.\n\nShe has one year left to live at most. Determined to change her tragic fate, she sets off on a journey, where she encounters Noah Tudor, a beautiful yet arrogant creditor.\nWhen he suddenly demands that she repay her father's debts, Cordelia proposes a deal in hopes of securing a one-year extension.\n\n\"Are you trying to seduce me because you don't have any money?\"\n\n\"N-No?!\"\n\n\"Then I suppose I'll have to buy you. After all, when a lady is so desperate to sell herself, how could a gentleman possibly refuse?\"\n\nJust keep acting the way you are now. You're so adorable that it makes me want to go easy on you.\n\n**Original Webtoon :**    \nR15 : [Ridibooks](https://ridibooks.com/books/2404039935)    \nR19 : [Ridibooks](https://ridibooks.com/books/2404039934)",
@@ -44,22 +62,22 @@
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-13",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-06T00:41:59.162Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-20T17:51:30.586Z",
+  "last_updated_at": "2026-11-21T22:16:38.369Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "French Fries Slayer",
-    "Nightorange"
+    "Gam Twihaksalja",
+    "Olenji Bam"
   ],
   "artists": [
-    "Mung Gumung"
+    "Munggumung"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/609526",
@@ -67,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220137,
+      "rating": null,
+      "url": "https://anilist.co/manga/220137"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "5iwhf2b",
@@ -77,19 +99,35 @@
   },
   "tag_ids": [
     43,
+    108,
     36,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 0.1999,
+    "fanFavouriteDiscoveryScore": 5.2529,
+    "fanFavouriteDiscoveryPercentile": 0.1999
   }
 }

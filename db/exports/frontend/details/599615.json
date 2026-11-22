@@ -2,7 +2,7 @@
   "id": 599615,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Eoseooseyo Howoldange",
+  "display_title": "Welcome to Howoldang",
   "mangabaka_title": "Eoseooseyo Howoldange",
   "native_title": "어서오세요 호월당에",
   "romanized_title": "Eoseooseyo Howoldange",
@@ -33,10 +33,10 @@
       "note": null
     },
     {
-      "language": "ko-Latn",
+      "language": "en",
       "title": "Welcome to Howoldang",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -62,7 +62,7 @@
   },
   "first_seen_at": "2026-08-12T03:15:20.128Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-20T07:02:05.579Z",
+  "last_updated_at": "2026-11-21T07:49:13.344Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -93,6 +93,7 @@
     394,
     36,
     22,
+    14,
     180,
     16,
     9,
@@ -103,6 +104,7 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
+    "14": "unweighted",
     "16": "defining",
     "22": "defining",
     "36": "defining",
@@ -113,15 +115,15 @@
     "428": "unweighted"
   },
   "stats": {
-    "popularity": 68,
+    "popularity": 69,
     "favourites": null,
     "meanScore": 55
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5971,
-    "popularityPercentile": 30.6508,
-    "fanFavouriteDiscoveryScore": 23.0914,
-    "fanFavouriteDiscoveryPercentile": 25.2122
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 30.8811,
+    "fanFavouriteDiscoveryScore": 23.2256,
+    "fanFavouriteDiscoveryPercentile": 25.3378
   }
 }

@@ -2,7 +2,7 @@
   "id": 611554,
   "state": "active",
   "type": "manhwa",
-  "display_title": "The Third-Generation Chaebol Who Takes It All",
+  "display_title": "The Chaebol Heir Who Takes It All",
   "mangabaka_title": "Doksikaneun Jaebeol 3-se",
   "native_title": "독식하는 재벌 3세",
   "romanized_title": "Doksikaneun Jaebeol 3-se",
@@ -27,9 +27,16 @@
     },
     {
       "language": "en",
-      "title": "The Chaebol Heir Who Takes It All",
+      "title": "I Am the 3rd-Generation Heir of a Conglomerate",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Chaebol Heir Who Takes It All",
+      "traits": [],
+      "is_primary": true,
       "note": null
     },
     {
@@ -43,13 +50,20 @@
       "language": "en",
       "title": "The Third-Generation Chaebol Who Takes It All",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "The Tycoon Who Takes It All",
+      "traits": [],
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "Kim Minjae was the apple of his chaebol family's eye. However, his grandfather's company went bankrupt, and Minjae died coughing up blood in a corner of a cramped one room flat. Opening his eyes upon returning to when he was 17 years old, Minjae finds that he can see people's personal profiles...! A second chance has arrived like a miracle. Now, Kim Minjae knows. Who the traitors are, and who the loyal subjects are!\n\n(Source: KakaoPage, translated)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDA4Ny1NTDhmV29vWXZ5dE0uanBn",
-  "total_chapters": null,
+  "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
@@ -62,7 +76,7 @@
   },
   "first_seen_at": "2026-11-20T00:42:11.948Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-20T22:26:49.242Z",
+  "last_updated_at": "2026-11-21T22:27:38.758Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -80,45 +94,73 @@
   "source": {
     "anilist": {
       "id": 220087,
-      "rating": null,
+      "rating": 72,
       "url": "https://anilist.co/manga/220087"
     },
     "animeplanet": null,
     "mangaupdates": {
       "id": "a84qzn1",
-      "rating": null,
+      "rating": 63,
       "url": "https://www.mangaupdates.com/series/a84qzn1"
     }
   },
   "tag_ids": [
+    8,
+    3854,
     7550,
+    3495,
+    3126,
     748,
+    249,
+    2910,
+    3202,
+    1,
+    22,
+    37,
     6,
     31,
+    3524,
+    18,
+    3866,
+    1004,
     93,
     57,
     428
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
-    "6": "unweighted",
+    "1": "unweighted",
+    "6": "defining",
+    "8": "defining",
+    "18": "defining",
+    "22": "defining",
     "31": "defining",
+    "37": "defining",
     "57": "unweighted",
     "93": "unweighted",
+    "249": "unweighted",
     "428": "unweighted",
-    "748": "unweighted",
-    "7550": "unweighted"
+    "748": "core",
+    "1004": "core",
+    "2910": "unweighted",
+    "3126": "core",
+    "3202": "core",
+    "3495": "core",
+    "3524": "core",
+    "3854": "core",
+    "3866": "core",
+    "7550": "core"
   },
   "stats": {
-    "popularity": 4,
+    "popularity": 22,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 72
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5971,
-    "popularityPercentile": 1.1802,
-    "fanFavouriteDiscoveryScore": 5.6216,
-    "fanFavouriteDiscoveryPercentile": 1.1043
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 13.4997,
+    "fanFavouriteDiscoveryScore": 11.9919,
+    "fanFavouriteDiscoveryPercentile": 12.4104
   }
 }

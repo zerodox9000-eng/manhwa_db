@@ -2,7 +2,7 @@
   "id": 601844,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Wall Street Genius' Time-Limited Investment Method",
+  "display_title": "The Wall Street Genius's Final Investment Playbook",
   "mangabaka_title": "Wall Street Cheonjaeui Sihanbu Tujabeop",
   "native_title": "월스트리트 천재의 시한부 투자법",
   "romanized_title": "Wall Street Cheonjaeui Sihanbu Tujabeop",
@@ -62,7 +62,7 @@
       "language": "en",
       "title": "The Wall Street Genius's Final Investment Playbook",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
@@ -92,7 +92,7 @@
       "language": "en",
       "title": "Wall Street Genius' Time-Limited Investment Method",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -125,7 +125,7 @@
   },
   "first_seen_at": "2026-09-03T02:48:04.178Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-20T05:26:41.708Z",
+  "last_updated_at": "2026-11-21T18:54:19.041Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -164,8 +164,10 @@
     75,
     74,
     748,
+    249,
     429,
     36,
+    1,
     31,
     93,
     57,
@@ -174,6 +176,7 @@
   ],
   "spoiler_tag_ids": [],
   "tag_weights": {
+    "1": "unweighted",
     "31": "defining",
     "36": "defining",
     "57": "unweighted",
@@ -181,6 +184,7 @@
     "74": "unweighted",
     "75": "core",
     "93": "unweighted",
+    "249": "unweighted",
     "428": "unweighted",
     "429": "incidental",
     "574": "core",
@@ -189,15 +193,15 @@
     "7550": "core"
   },
   "stats": {
-    "popularity": 303,
+    "popularity": 304,
     "favourites": 4,
     "meanScore": 76
   },
   "analytics": {
-    "fanFavouriteRaw": 1.3201,
-    "fanRatioPercentile": 59.6038,
-    "popularityPercentile": 58.1959,
-    "fanFavouriteDiscoveryScore": 57.231,
-    "fanFavouriteDiscoveryPercentile": 64.9665
+    "fanFavouriteRaw": 1.3158,
+    "fanRatioPercentile": 59.4939,
+    "popularityPercentile": 58.2667,
+    "fanFavouriteDiscoveryScore": 57.1388,
+    "fanFavouriteDiscoveryPercentile": 64.858
   }
 }

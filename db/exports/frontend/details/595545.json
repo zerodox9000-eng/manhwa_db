@@ -2,7 +2,7 @@
   "id": 595545,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Love Recycling (Milpu)",
+  "display_title": "Love Recycling",
   "mangabaka_title": "Love Recycling",
   "native_title": "러브 리사이클링",
   "romanized_title": "Love Recycling",
@@ -13,6 +13,13 @@
       "traits": [
         "native"
       ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Love Recycling",
+      "traits": [],
       "is_primary": true,
       "note": null
     },
@@ -29,7 +36,7 @@
       "language": "en",
       "title": "Love Recycling (Milpu)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
@@ -48,7 +55,7 @@
   },
   "first_seen_at": "2026-07-02T04:54:10.400Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-20T04:40:04.751Z",
+  "last_updated_at": "2026-11-21T17:23:14.396Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -87,6 +94,7 @@
     4579,
     661,
     46,
+    14,
     180,
     16,
     6,
@@ -103,6 +111,7 @@
   "tag_weights": {
     "6": "defining",
     "9": "defining",
+    "14": "unweighted",
     "16": "defining",
     "46": "defining",
     "57": "unweighted",
@@ -120,16 +129,16 @@
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 101,
+    "popularity": 103,
     "favourites": null,
     "meanScore": 72
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.5971,
-    "popularityPercentile": 37.5388,
-    "fanFavouriteDiscoveryScore": 26.4615,
-    "fanFavouriteDiscoveryPercentile": 28.739
+    "fanRatioPercentile": 32.6048,
+    "popularityPercentile": 37.8447,
+    "fanFavouriteDiscoveryScore": 26.5937,
+    "fanFavouriteDiscoveryPercentile": 28.8748
   },
   "context": {
     "primaryProfile": "corporate-workplace",
