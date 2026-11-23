@@ -2,46 +2,57 @@
   "id": 610634,
   "state": "active",
   "type": "manhwa",
-  "display_title": "(Girl)friend + Partner = ?",
-  "mangabaka_title": "(Girl) Friend + Partner = ?",
+  "display_title": "Girlfriend + Partner = ?",
+  "mangabaka_title": "(Yeoja)chingu+Partner=?",
   "native_title": "(여자)친구+파트너=?",
-  "romanized_title": null,
+  "romanized_title": "(Yeoja)chingu+Partner=?",
   "titles": [
     {
       "language": "ko",
       "title": "(여자)친구+파트너=?",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
       "language": "en",
-      "title": "(Girl)friend + Partner = ?",
+      "title": "Girlfriend + Partner = ?",
       "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "(Yeoja)chingu+Partner=?",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
   "description": "“I want to try kissing.”\n\nWhen I turned twenty, I went to Jaeik’s house and blurted it out.\n\n“I want to try having sex, too.”\nWe started our relationship as friends, not as boyfriend and girlfriend.\n\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/4516013012)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMzkwLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE0OC03YkQzb0owNnFkaDQuanBn",
   "total_chapters": "13",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-10",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-12T00:42:26.669Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-21T04:38:28.948Z",
+  "last_updated_at": "2026-11-22T03:16:24.820Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gyulrak",
+    "Bu-Hyeon",
     "Luke"
   ],
   "artists": [
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220148,
+      "rating": null,
+      "url": "https://anilist.co/manga/220148"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "dfifyef",
@@ -63,19 +78,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6352,
+    "popularityPercentile": 0.1929,
+    "fanFavouriteDiscoveryScore": 5.2552,
+    "fanFavouriteDiscoveryPercentile": 0.1929
   }
 }

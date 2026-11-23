@@ -4,20 +4,24 @@
   "type": "manhwa",
   "display_title": "Lion Queen",
   "mangabaka_title": "Lion Queen",
-  "native_title": "ライオン・クイーン",
-  "romanized_title": null,
+  "native_title": "라이온 퀸",
+  "romanized_title": "Lion Queen",
   "titles": [
     {
       "language": "ko",
       "title": "라이온 퀸",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
+      "language": "ko-Latn",
       "title": "Lion Queen",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,29 +33,29 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \n[KakaoPage](https://page.kakao.com/content/49866997), [Daum](https://webtoon.kakao.com/content/%EB%9D%BC%EC%9D%B4%EC%98%A8-%ED%80%B8/3126), [Naver Series](https://series.naver.com/comic/detail.series?productNo=13358469), [Ridibooks](https://ridibooks.com/books/5958046561) \n\n**Official Translations:**  \n[Japanese](https://piccoma.com/web/product/120784)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTA3NjYzLmpwZw",
-  "total_chapters": "85",
+  "description": "*Note: Includes five extra chapter.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE0OS1sekVVVjQxNmxpVWwucG5n",
+  "total_chapters": "90",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2017,
   "published": {
-    "start_date": "2017-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2017-05-28",
+    "end_date": "2019-07-10",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:39:19.584Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-11T21:09:37.703Z",
+  "last_updated_at": "2026-11-22T03:46:23.323Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Songbaek"
+    "Baek Song"
   ],
   "artists": [
-    "Songbaek"
+    "Baek Song"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/91463",
@@ -59,7 +63,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220149,
+      "rating": null,
+      "url": "https://anilist.co/manga/220149"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "wbypt06",
@@ -71,18 +79,32 @@
     43,
     31,
     9,
-    7
+    7,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "7": "defining",
+    "9": "defining",
+    "31": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6352,
+    "popularityPercentile": 0.1929,
+    "fanFavouriteDiscoveryScore": 5.2552,
+    "fanFavouriteDiscoveryPercentile": 0.1929
   },
   "context": {
     "primaryProfile": "modern-korea",

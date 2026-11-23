@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Secretary Scandal",
-  "mangabaka_title": "Secretary Scandal",
+  "mangabaka_title": "Biseo Scandal",
   "native_title": "비서스캔들",
-  "romanized_title": null,
+  "romanized_title": "Biseo Scandal",
   "titles": [
     {
       "language": "ko",
       "title": "비서스캔들",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Biseo Scandal",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,26 +34,26 @@
     }
   ],
   "description": "\"The only way to cover up a scandal is with an even bigger one.\"\n\nHan Jaejun, the executive director of LJ Electronics, and Ayeon, his twenty-year-old rookie secretary.\n\nWhen a shocking scandal erupts between them, Jaejun is branded a scumbag overnight, while Ayeon decides to leave the company.\n\nBut the solution he proposes is completely unexpected: marriage.\n\n\"One year. Just one year of married life for everyone to see, and then we'll file for divorce.\"\n\nTempted by an offer that's hard to refuse—the promise of freedom after just one year—she takes his hand, unaware that she's walking straight into a trap.\n\nBut is this marriage really just a way to put an end to the scandal?\n\n[Original Webtoon](https://ridibooks.com/books/1239023849)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQzMDM4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE1Ny1lclpVd3d5bEY1ckwuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-18",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-19T00:42:36.998Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-21T19:37:46.556Z",
+  "last_updated_at": "2026-11-22T23:30:22.760Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Hwalhwal",
-    "Moon Jung-Min"
+    "Jeong-Min Mun"
   ],
   "artists": [
     "Osamgong"
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220157,
+      "rating": null,
+      "url": "https://anilist.co/manga/220157"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "dphvqao",
@@ -63,20 +78,37 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6352,
+    "popularityPercentile": 0.4478,
+    "fanFavouriteDiscoveryScore": 5.3495,
+    "fanFavouriteDiscoveryPercentile": 0.434
   }
 }

@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Marriage Without Pure Love",
-  "mangabaka_title": "Marriage Without Pure Love",
+  "mangabaka_title": "Sunjeong Eomneun Gyeolhon",
   "native_title": "순정 없는 결혼",
-  "romanized_title": null,
+  "romanized_title": "Sunjeong Eomneun Gyeolhon",
   "titles": [
     {
       "language": "ko",
       "title": "순정 없는 결혼",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "A Loveless Marriage",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -34,28 +43,38 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Sunjeong Eomneun Gyeolhon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "To Eunsu, Taekyung was her first love and her first man.\n\n\"I'm not such a good guy.\"\n\nA woman who tried to heal every wound with love.\n\nA man who used even her sincere feelings as a means to achieve his own success.\n\nTheir marriage began with ulterior motives. But when it comes to an end, will any genuine love remain?\n\n**Original Novel:**    \nChapters: [Ridibooks](https://ridibooks.com/books/2152001492)   \nVolumes: [Ridibooks](https://ridibooks.com/books/2152001590), [MrBlue](https://www.mrblue.com/novel/E000162775), [Naver Series](https://series.naver.com/novel/detail.series?productNo=13918088) \n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/1716003372)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyOTg2LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE1NS1QQUZNaGxvbGFVRE0uanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-18T00:42:14.329Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-21T18:50:35.982Z",
+  "last_updated_at": "2026-11-22T22:41:01.978Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Onnuri"
+    "Nu-Ri On",
+    "Studio Inus"
   ],
   "artists": [
     "Studio Inus"
@@ -66,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220155,
+      "rating": null,
+      "url": "https://anilist.co/manga/220155"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mxd2tmn",
@@ -76,18 +99,35 @@
   },
   "tag_ids": [
     43,
+    108,
     41,
-    9
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6352,
+    "popularityPercentile": 0.1929,
+    "fanFavouriteDiscoveryScore": 5.2552,
+    "fanFavouriteDiscoveryPercentile": 0.1929
   }
 }

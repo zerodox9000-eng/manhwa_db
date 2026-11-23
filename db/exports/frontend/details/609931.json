@@ -3,22 +3,31 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Hunter and the Demigod",
-  "mangabaka_title": "The Hunter and the Demigod",
-  "native_title": "[불공정 단편선] 사냥꾼과 반신",
-  "romanized_title": null,
+  "mangabaka_title": "Sanyangkkungwa Bansin",
+  "native_title": "사냥꾼과 반신",
+  "romanized_title": "[Bulgongjeong Danpyeonseon] Sanyangkkungwa Bansin",
   "titles": [
     {
       "language": "ko",
       "title": "사냥꾼과 반신",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[불공정 단편선] 사냥꾼과 반신",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Bulgongjeong Danpyeonseon] Sanyangkkungwa Bansin",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -29,6 +38,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Sanyangkkungwa Bansin",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Hunter and the Demigod",
       "traits": [],
@@ -36,22 +54,22 @@
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5285003133)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMjc4LmpwZw",
+  "description": "*Note: Part of Metatoon's Bulgongjeong Danpyeonseon (불공정 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE2MC1HOVowdk9HTVJ4bzMuanBn",
   "total_chapters": "4",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-09",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-10T00:42:20.123Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-21T18:24:26.701Z",
+  "last_updated_at": "2026-11-22T22:10:03.135Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,8 +77,7 @@
     "Uyut"
   ],
   "artists": [
-    "Metatoon",
-    "Riven"
+    "Ribon"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/609931",
@@ -68,7 +85,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220160,
+      "rating": null,
+      "url": "https://anilist.co/manga/220160"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3f9x598",
@@ -80,17 +101,37 @@
     36,
     46,
     41,
-    16
+    180,
+    16,
+    740,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "36": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted",
+    "740": "incidental"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6352,
+    "popularityPercentile": 0.1929,
+    "fanFavouriteDiscoveryScore": 5.2552,
+    "fanFavouriteDiscoveryPercentile": 0.1929
   }
 }

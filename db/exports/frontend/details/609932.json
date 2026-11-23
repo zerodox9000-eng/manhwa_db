@@ -4,55 +4,65 @@
   "type": "manhwa",
   "display_title": "Sajeonghaneun BJ Tteokdaeppangppang",
   "mangabaka_title": "Sajeonghaneun BJ Tteokdaeppangppang",
-  "native_title": "[불공정 단편선] 사정하는 BJ 떡대빵빵",
-  "romanized_title": "Sajeonghaneun BJ Tteokdaeppangppang",
+  "native_title": "사정하는 BJ 떡대빵빵",
+  "romanized_title": "[Bulgongjeong Danpyeonseon] Sajeonghaneun BJ Tteokdaeppangppang",
   "titles": [
     {
       "language": "ko",
       "title": "사정하는 BJ 떡대빵빵",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[불공정 단편선] 사정하는 BJ 떡대빵빵",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Bulgongjeong Danpyeonseon] Sajeonghaneun BJ Tteokdaeppangppang",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Sajeonghaneun BJ Tteokdaeppangppang",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/5285003132)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyMjc3LmpwZw",
+  "description": "*Note: Part of Metatoon's Bulgongjeong Danpyeonseon (불공정 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE2Mi10eXRTQzFoVmNidGMuanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-09",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-10T00:42:20.123Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-21T18:24:33.077Z",
+  "last_updated_at": "2026-11-22T22:10:10.293Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Chaebyeol",
+    "Byeol Chae",
     "Gaebe"
   ],
   "artists": [
-    "Metatoon",
     "Syrup Cake"
   ],
   "links": {
@@ -61,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220162,
+      "rating": null,
+      "url": "https://anilist.co/manga/220162"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "vmmg68f",
@@ -73,18 +87,37 @@
     46,
     15,
     41,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "16": "defining",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6352,
+    "popularityPercentile": 0.1929,
+    "fanFavouriteDiscoveryScore": 5.2552,
+    "fanFavouriteDiscoveryPercentile": 0.1929
   }
 }
