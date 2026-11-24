@@ -15,9 +15,15 @@ const client = new GraphQLClient("https://graphql.anilist.co", {
     referer: "https://github.com/zerodox9000-eng/manhwa_db",
   },
 });
-// AniList's current query-complexity ceiling permits 100 of these Media lookups.
-const BATCH_SIZES = [100, 50, 10, 3, 1];
-const REQUEST_DELAYS = [2200, 3000, 5000, 8000, 8000];
+// Page.media(id_in:) returns up to 50 requested IDs per API request. The id_in
+// argument accepts at most 10,000 IDs, so larger collections are split first.
+const PAGE_RESULT_SIZE = 50;
+const MAX_IDS_PER_PAGE_QUERY = 10_000;
+const PAGE_REQUEST_DELAY_MS = 2_200;
+// Keep the legacy Media-alias path only for IDs omitted by the id_in lookup.
+// Its largest fallback stays within AniList's currently observed query budget.
+const BATCH_SIZES = [30, 10, 3, 1];
+const REQUEST_DELAYS = [2200, 5000, 8000, 8000];
 const MAX_RATE_LIMIT_RETRIES = 5;
 const MAX_SERVER_RETRIES = 2;
 const SERVER_RETRY_DELAYS = [2000, 4000];
@@ -80,6 +86,21 @@ function buildQuery(batch) {
   return gql`
     query {
       ${fields.join("\n")}
+    }
+  `;
+}
+
+function buildPageQuery() {
+  return gql`
+    query AniListStatsByIds($ids: [Int], $page: Int, $perPage: Int) {
+      Page(page: $page, perPage: $perPage) {
+        media(id_in: $ids, type: MANGA) {
+          id
+          popularity
+          favourites
+          meanScore
+        }
+      }
     }
   `;
 }
@@ -184,6 +205,70 @@ async function enrichAdaptive(batch, scope, level = 0) {
   return results;
 }
 
+async function enrichByIdIn(entries, scope) {
+  if (entries.length === 0) return [];
+
+  const ids = [...new Set(entries.map((entry) => Number(entry.source.anilist.id)))];
+  const statsByAniListId = new Map();
+  let pageRequests = 0;
+
+  for (const idBatch of chunk(ids, MAX_IDS_PER_PAGE_QUERY)) {
+    const pageCount = Math.ceil(idBatch.length / PAGE_RESULT_SIZE);
+    for (let page = 1; page <= pageCount; page += 1) {
+      let rateLimitRetries = 0;
+      let serverRetries = 0;
+
+      while (true) {
+        try {
+          const data = await client.request(buildPageQuery(), {
+            ids: idBatch,
+            page,
+            perPage: PAGE_RESULT_SIZE,
+          });
+          pageRequests += 1;
+          for (const media of data.Page?.media ?? []) {
+            statsByAniListId.set(Number(media.id), media);
+          }
+          break;
+        } catch (error) {
+          if (isRateLimited(error) && rateLimitRetries < MAX_RATE_LIMIT_RETRIES) {
+            rateLimitRetries += 1;
+            const waitMs = retryAfterMs(error);
+            console.log(`AniList rate window for ${scope}; resuming page ${page}/${pageCount} in ${Math.ceil(waitMs / 1000)}s.`);
+            await sleep(waitMs);
+            continue;
+          }
+
+          if (isTransientServerError(error) && serverRetries < MAX_SERVER_RETRIES) {
+            const waitMs = SERVER_RETRY_DELAYS[serverRetries];
+            serverRetries += 1;
+            console.log(`AniList server retry ${serverRetries}/${MAX_SERVER_RETRIES} for ${scope} page ${page}/${pageCount}; resuming in ${Math.ceil(waitMs / 1000)}s.`);
+            await sleep(waitMs);
+            continue;
+          }
+
+          throw new Error(`AniList ID-list request failed for ${scope} page ${page}/${pageCount}`, { cause: error });
+        }
+      }
+
+      if (page < pageCount) await sleep(PAGE_REQUEST_DELAY_MS);
+    }
+  }
+
+  const missingEntries = entries.filter((entry) => !statsByAniListId.has(Number(entry.source.anilist.id)));
+  console.log(`AniList ID-list lookup for ${scope}: ${ids.length} unique IDs in ${pageRequests} page request(s); ${missingEntries.length} IDs omitted for isolated lookup.`);
+
+  const isolatedResults = await enrichAdaptive(missingEntries, scope);
+  const isolatedByMangaBakaId = new Map(isolatedResults.map((result) => [result.id, result]));
+  return entries.map((entry) => {
+    const media = statsByAniListId.get(Number(entry.source.anilist.id));
+    if (media) return currentResult(entry, media);
+    const isolated = isolatedByMangaBakaId.get(entry.id);
+    if (!isolated) throw new Error(`AniList result missing for MangaBaka ID ${entry.id} in ${scope}`);
+    return isolated;
+  });
+}
+
 async function processFile(file, inputDir, stagingDir) {
   const scope = file.replace(".series.json", "");
   const data = JSON.parse(fs.readFileSync(path.join(inputDir, file), "utf8"));
@@ -200,7 +285,7 @@ async function processFile(file, inputDir, stagingDir) {
     console.log(`Skipping ${permanentlyMissing.length} confirmed missing AniList ID(s) for ${scope}.`);
   }
 
-  const fetchedResults = await enrichAdaptive(fetchable, scope);
+  const fetchedResults = await enrichByIdIn(fetchable, scope);
   const fetchedById = new Map(fetchedResults.map((result) => [result.id, result]));
   const permanentlyMissingIds = new Set(permanentlyMissing.map((entry) => entry.id));
   const results = expected.map((entry) => permanentlyMissingIds.has(entry.id)
