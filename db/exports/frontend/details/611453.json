@@ -4,47 +4,58 @@
   "type": "manhwa",
   "display_title": "Insidious Issue",
   "mangabaka_title": "Insidious Issue",
-  "native_title": "[타락돌 단편선] 인시디어스 이슈",
-  "romanized_title": null,
+  "native_title": "인시디어스 이슈",
+  "romanized_title": "Insidious Issue",
   "titles": [
     {
       "language": "ko",
       "title": "인시디어스 이슈",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[타락돌 단편선] 인시디어스 이슈",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Insidious Issue",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
     {
-      "language": "en",
-      "title": "Insidious Issue",
+      "language": "ko-Latn",
+      "title": "[Tarakdol Danpyeonseon] Insidious Issue",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     }
   ],
   "description": "[Original Webtoon](https://ridibooks.com/books/5262000011)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQzMDQwLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDIzMC1NQzIzRVlNM2Fna3ouanBn",
   "total_chapters": "4",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-18",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-19T00:42:36.999Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-22T23:59:55.101Z",
+  "last_updated_at": "2026-11-23T23:06:44.355Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -59,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220230,
+      "rating": null,
+      "url": "https://anilist.co/manga/220230"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "mnpkt4i",
@@ -69,18 +84,35 @@
   },
   "tag_ids": [
     46,
+    180,
     16,
-    31
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "31": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 0.1996,
+    "fanFavouriteDiscoveryScore": 5.2648,
+    "fanFavouriteDiscoveryPercentile": 0.1996
   }
 }

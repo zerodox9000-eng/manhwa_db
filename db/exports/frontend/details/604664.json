@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Inappropriate Corporate Training",
-  "mangabaka_title": "Inappropriate Corporate Training",
+  "mangabaka_title": "Bulgeonjeon Sanaegyoyuk",
   "native_title": "불건전 사내교육",
-  "romanized_title": null,
+  "romanized_title": "Bulgeonjeon Sanaegyoyuk",
   "titles": [
     {
       "language": "ko",
       "title": "불건전 사내교육",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Bulgeonjeon Sanaegyoyuk",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -30,26 +41,26 @@
     }
   ],
   "description": "“Are you planning to use these clamps when submitting documents for my approval?” \n\nHalf-asleep, Dayoung accidentally entered her company address as the delivery destination for an adult toy she had ordered. And not just any destination — it was addressed to Team Leader Kwon Ikyung, the third-generation heir of DH Group, who is notorious for being extremely strict! Worried she might get sued for workplace sexual harassment, Dayoung ends up receiving an unexpected proposal from Ikyung: sex education. \n\n“From the very first day, your attitude as a trainee is rather poor.”    \n“Sniff… Team Leader! Please, just… just do it already!”\n\n**Original Webtoon:**    \n[Naver Series](https://series.naver.com/comic/detail.series?productNo=14723534), [RIDI](https://ridibooks.com/books/297093158), [Bomtoon](https://www.bomtoon.com/detail/Indecent_Training), [MrBlue](https://www.mrblue.com/webtoon/wt_000082601), [BookCube](https://www.bookcube.com/toon/detail.asp?webtoon_num=260776), [KakaoPage](https://page.kakao.com/content/71052945), [Mootoon](https://www.mootoon.co.kr/comic/moo_list.mg?tcode=vnuf), [Qtoon](https://www.qtoon.co.kr/toon/list.mg?tcode=5bem), [Toon365](https://www.toon365.com/domestic/domestic_detail.asp?toon_idx=50537), ZzangComic, [Onestory](https://onestory.co.kr/detail/H050303873), [Nate](https://toonnbook.nate.com/detail/H050303873), [Aladin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=404892077), [KyoboBook](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013693792), [Yes24](https://www.yes24.com/product/goods/199014211)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTM4NjkyLmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE4Ni1ySVlPYnJORmFVSVUuanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-09-20",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-09-22T05:26:20.707Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-10-31T20:16:00.502Z",
+  "last_updated_at": "2026-11-23T02:06:20.203Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Jirim",
-    "Kim Yeonseo"
+    "Yeon-Seo Kim"
   ],
   "artists": [
     "Force"
@@ -60,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220186,
+      "rating": null,
+      "url": "https://anilist.co/manga/220186"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "31nybtx",
@@ -70,21 +85,39 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     15,
     41,
     31,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "15": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 0.764,
+    "fanFavouriteDiscoveryScore": 5.4759,
+    "fanFavouriteDiscoveryPercentile": 0.7296
   }
 }

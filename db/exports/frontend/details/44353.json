@@ -4,8 +4,8 @@
   "type": "manhwa",
   "display_title": "Odyssey",
   "mangabaka_title": "Odyssey",
-  "native_title": "オデッセイ (ガロア)",
-  "romanized_title": "Odyssey (Gal-Lo-Ah)",
+  "native_title": "오디세이",
+  "romanized_title": "Odyssey",
   "titles": [
     {
       "language": "ko",
@@ -32,9 +32,18 @@
     },
     {
       "language": "ko-Latn",
+      "title": "Odyssey",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
       "title": "Odyssey (Gal-Lo-Ah)",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -46,28 +55,28 @@
     }
   ],
   "description": "Translated by Google and then edited\n\nAn unrealistic dream of 'astronauts', a triumph just before it was supposed to be realized ... Fifteen years later, an employee that was working at NASA as an astronomer, not an astronaut, was suspended for an unknown reason. And to solve the mystery NASA's big project is about to begin ... Surely this will be a dream come true! A huge space Sci-Fi novel by Gal lo ah, a cartoonist who dreams of 'Korean Carl Sagan' or 'Hoshino Yukinobu'! Interstellar Next is this !!\n\n**Original Webtoon:**   \n[RIDI](https://ridibooks.com/books/1746036716), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14736507), [Bomtoon](https://www.bomtoon.com/detail/odyssey_), [Lezhin](https://www.lezhin.com/ko/comic/odyssey_), [MrBlue](https://www.mrblue.com/webtoon/wt_000082176), [KakaoPage](https://page.kakao.com/content/71156936)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9tZWRpYS5raXRzdS5hcHAvbWFuZ2EvcG9zdGVyX2ltYWdlcy81NzgxNi9vcmlnaW5hbC5wbmc",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE4OC1DTWI1REZqNE9OQmguanBn",
   "total_chapters": "53",
   "status": "completed",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2016,
   "published": {
-    "start_date": "2016-01-01",
-    "end_date": "2017-08-21",
-    "start_date_is_estimated": true,
+    "start_date": "2016-11-01",
+    "end_date": "2017-08-22",
+    "start_date_is_estimated": false,
     "end_date_is_estimated": false
   },
   "first_seen_at": "2026-06-10T15:38:39.045Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-22T23:59:21.856Z",
+  "last_updated_at": "2026-11-23T02:16:20.476Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Gal-Lo-Ah"
+    "Galloa"
   ],
   "artists": [
-    "Gal-Lo-Ah"
+    "Galloa"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/44353",
@@ -75,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220188,
+      "rating": null,
+      "url": "https://anilist.co/manga/220188"
+    },
     "animeplanet": {
       "id": "odyssey-gal-lo-ah",
       "rating": null,
@@ -91,12 +104,14 @@
     5434,
     59,
     7549,
+    270,
     271,
     1847,
     1139,
     1,
     31,
     32,
+    9,
     2965,
     737,
     93,
@@ -105,15 +120,36 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "1": "defining",
+    "9": "unweighted",
+    "31": "defining",
+    "32": "defining",
+    "57": "unweighted",
+    "59": "unweighted",
+    "93": "unweighted",
+    "270": "unweighted",
+    "271": "core",
+    "428": "unweighted",
+    "737": "core",
+    "1139": "core",
+    "1847": "unweighted",
+    "2965": "unweighted",
+    "5434": "core",
+    "7332": "unweighted",
+    "7549": "core"
+  },
   "stats": {
     "popularity": null,
-    "favourites": null,
+    "favourites": 1,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 0.1996,
+    "fanFavouriteDiscoveryScore": 5.2648,
+    "fanFavouriteDiscoveryPercentile": 0.1996
   },
   "context": {
     "primaryProfile": "corporate-workplace",

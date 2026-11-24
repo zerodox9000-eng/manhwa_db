@@ -3,7 +3,7 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Survivalism",
-  "mangabaka_title": "Saengjonjisangjuui",
+  "mangabaka_title": "Survivalism",
   "native_title": "생존지상주의",
   "romanized_title": "Saengjonjisangjuui",
   "titles": [
@@ -35,7 +35,9 @@
     {
       "language": "en",
       "title": "Survivalism",
-      "traits": [],
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -45,14 +47,21 @@
       "traits": [],
       "is_primary": false,
       "note": null
+    },
+    {
+      "language": "th",
+      "title": "เอไอคู่ใจในโลกมรณะ",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "A school bus crashes into a parallel world teeming with monsters. In this desperate situation, only the protagonist’s Chat AI begins to function.\n\n(Source: Naver, translated)",
+  "description": "Quiet and withdrawn, Dojin Cha is suddenly thrown into another world when his bus is pulled through a mysterious portal. Stranded in the deadly continent of Karman with no way home, he discovers that his AI assistant, Chat AI, still works by drawing power from mana. With monsters, killers, and unknown dangers all around him, Dojin must rely on his wits and his unlikely digital companion to survive.\n\n(Source: WEBTOON)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxNTUyNC1uRTQ0YzU1MWhNWHQuanBn",
-  "total_chapters": "19",
+  "total_chapters": "20",
   "status": "releasing",
   "content_rating": "safe",
-  "is_licensed": false,
+  "is_licensed": true,
   "year": 2026,
   "published": {
     "start_date": "2026-08-16",
@@ -62,7 +71,7 @@
   },
   "first_seen_at": "2026-08-17T02:14:25.809Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-22T20:39:08.670Z",
+  "last_updated_at": "2026-11-23T11:43:34.752Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -73,8 +82,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/600283",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.webtoons.com/en/-/-/list?title_no=11563",
+    "read_en_all": [
+      "https://www.webtoons.com/en/-/-/list?title_no=11563"
+    ]
   },
   "source": {
     "anilist": {
@@ -89,7 +100,7 @@
     },
     "mangaupdates": {
       "id": "gphjkhf",
-      "rating": 66,
+      "rating": 67,
       "url": "https://www.mangaupdates.com/series/gphjkhf"
     }
   },
@@ -133,15 +144,15 @@
     "7550": "defining"
   },
   "stats": {
-    "popularity": 1718,
+    "popularity": 1753,
     "favourites": 18,
     "meanScore": 74
   },
   "analytics": {
-    "fanFavouriteRaw": 1.0477,
-    "fanRatioPercentile": 50.6717,
-    "popularityPercentile": 86.8619,
-    "fanFavouriteDiscoveryScore": 50.4797,
-    "fanFavouriteDiscoveryPercentile": 58.5946
+    "fanFavouriteRaw": 1.0268,
+    "fanRatioPercentile": 50.0103,
+    "popularityPercentile": 87.081,
+    "fanFavouriteDiscoveryScore": 49.8242,
+    "fanFavouriteDiscoveryPercentile": 58.0288
   }
 }

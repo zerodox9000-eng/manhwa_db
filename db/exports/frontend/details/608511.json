@@ -2,16 +2,16 @@
   "id": 608511,
   "state": "active",
   "type": "manhwa",
-  "display_title": "A Ghostly Married Life",
+  "display_title": "Ghostly Married Life",
   "mangabaka_title": "Gwihan Gyeolhon Saenghwal",
-  "native_title": "诡（鬼）异的新婚生活",
+  "native_title": "귀(鬼)한 결혼 생활",
   "romanized_title": "Gwihan Gyeolhon Saenghwal",
   "titles": [
     {
       "language": "ko",
       "title": "귀결생",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
@@ -25,20 +25,22 @@
       "language": "en",
       "title": "A Ghostly Married Life",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "Ghostly Married Life",
       "traits": [],
-      "is_primary": false,
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko-Latn",
       "title": "Gwihan Gyeolhon Saenghwal",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -80,34 +82,36 @@
     {
       "language": "ko",
       "title": "귀(鬼)한 결혼 생활",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
   "description": "Haunted by recurring nightmares of a mysterious ghost, a young man discovers that a spiritual wedding can free him from its grasp. After marrying an unknown bride through a shamanic ritual, he prepares for his wedding night, only for the ghost to intervene and claim him as its own. Now bound to the restless spirit in an unexpected soul marriage, he must uncover the truth behind its obsession and their mysterious connection.\n\n**Original Webtoon:**  \n[RIDI](https://ridibooks.com/books/2404039936)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyOTg4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDIyOS1mc3JaY1g3N0NQclAuanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-17",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-28T00:42:18.622Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-22T08:22:49.698Z",
+  "last_updated_at": "2026-11-23T23:06:43.736Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Dagang"
+    "Da-Gang"
   ],
   "artists": [
-    "Dagang"
+    "Da-Gang"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/608511",
@@ -115,7 +119,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220229,
+      "rating": null,
+      "url": "https://anilist.co/manga/220229"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "q1nnh9r",
@@ -125,17 +133,37 @@
   },
   "tag_ids": [
     22,
-    16
+    229,
+    180,
+    16,
+    31,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "22": "defining",
+    "31": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "229": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
     "popularity": null,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 0.1996,
+    "fanFavouriteDiscoveryScore": 5.2648,
+    "fanFavouriteDiscoveryPercentile": 0.1996
   }
 }

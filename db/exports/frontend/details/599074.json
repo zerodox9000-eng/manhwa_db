@@ -113,7 +113,7 @@
   },
   "first_seen_at": "2026-08-05T03:53:35.737Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-22T10:09:42.070Z",
+  "last_updated_at": "2026-11-23T02:18:53.257Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -124,8 +124,10 @@
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/599074",
-    "read_en": null,
-    "read_en_all": []
+    "read_en": "https://www.lezhinus.com/en/comic/afterburn",
+    "read_en_all": [
+      "https://www.lezhinus.com/en/comic/afterburn"
+    ]
   },
   "source": {
     "anilist": {
@@ -145,6 +147,7 @@
     }
   },
   "tag_ids": [
+    392,
     674,
     809,
     675,
@@ -159,20 +162,26 @@
     2427,
     890,
     118,
+    3736,
     46,
     41,
+    3116,
     1037,
     380,
     100,
     306,
     161,
+    169,
+    99,
     95,
     1079,
     180,
     16,
     31,
     9,
+    469,
     830,
+    227,
     93,
     57,
     428,
@@ -180,7 +189,8 @@
   ],
   "spoiler_tag_ids": [
     890,
-    9
+    9,
+    227
   ],
   "tag_weights": {
     "9": "unweighted",
@@ -192,13 +202,18 @@
     "68": "defining",
     "93": "unweighted",
     "95": "defining",
+    "99": "incidental",
     "100": "recurrent",
     "118": "incidental",
     "161": "incidental",
+    "169": "incidental",
     "180": "core",
+    "227": "incidental",
     "306": "defining",
     "380": "recurrent",
+    "392": "incidental",
     "428": "unweighted",
+    "469": "incidental",
     "674": "incidental",
     "675": "core",
     "808": "core",
@@ -214,18 +229,20 @@
     "2427": "defining",
     "2449": "defining",
     "2587": "core",
+    "3116": "incidental",
+    "3736": "incidental",
     "7332": "unweighted"
   },
   "stats": {
-    "popularity": 31,
+    "popularity": 34,
     "favourites": null,
     "meanScore": 70
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6352,
-    "popularityPercentile": 18.0779,
-    "fanFavouriteDiscoveryScore": 15.0135,
-    "fanFavouriteDiscoveryPercentile": 16.2315
+    "fanRatioPercentile": 32.6795,
+    "popularityPercentile": 19.5953,
+    "fanFavouriteDiscoveryScore": 16.0642,
+    "fanFavouriteDiscoveryPercentile": 17.441
   }
 }
