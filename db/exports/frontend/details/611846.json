@@ -2,7 +2,7 @@
   "id": 611846,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Cheoeumincheok Hajima",
+  "display_title": "Don't Pretend It's Your First Time",
   "mangabaka_title": "Cheoeumincheok Hajima",
   "native_title": "처음인척 하지마",
   "romanized_title": "Cheoeumincheok Hajima",
@@ -24,9 +24,16 @@
       ],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "en",
+      "title": "Don't Pretend It's Your First Time",
+      "traits": [],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": null,
+  "description": "**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=857652), [Naver Series](https://series.naver.com/comic/detail.series?productNo=15032022)",
   "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDIxOS11M2VUOWxSQm9aVDcuanBn",
   "total_chapters": null,
   "status": "releasing",
@@ -41,7 +48,7 @@
   },
   "first_seen_at": "2026-11-24T01:50:16.439Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-23T13:36:27.855Z",
+  "last_updated_at": "2026-11-24T13:36:42.293Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -62,9 +69,14 @@
       "url": "https://anilist.co/manga/220219"
     },
     "animeplanet": null,
-    "mangaupdates": null
+    "mangaupdates": {
+      "id": "nmsdvzh",
+      "rating": null,
+      "url": "https://www.mangaupdates.com/series/nmsdvzh"
+    }
   },
   "tag_ids": [
+    43,
     108,
     9,
     93,
@@ -74,21 +86,22 @@
   "spoiler_tag_ids": [],
   "tag_weights": {
     "9": "defining",
+    "43": "defining",
     "57": "unweighted",
     "93": "unweighted",
     "108": "unweighted",
     "428": "unweighted"
   },
   "stats": {
-    "popularity": null,
+    "popularity": 22,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
     "fanFavouriteRaw": 0,
-    "fanRatioPercentile": 32.6795,
-    "popularityPercentile": 0.1996,
-    "fanFavouriteDiscoveryScore": 5.2648,
-    "fanFavouriteDiscoveryPercentile": 0.1996
+    "fanRatioPercentile": 32.6521,
+    "popularityPercentile": 13.4737,
+    "fanFavouriteDiscoveryScore": 11.9928,
+    "fanFavouriteDiscoveryPercentile": 12.3865
   }
 }
