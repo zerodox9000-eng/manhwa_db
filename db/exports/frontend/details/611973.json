@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "For Your Happiness (Bang Tongsik)",
-  "mangabaka_title": "For Your Happiness (Bang Tongsik)",
-  "native_title": null,
-  "romanized_title": null,
+  "mangabaka_title": "Haengbokage Haedeurilgeyo",
+  "native_title": "행복하게 해드릴게요",
+  "romanized_title": "Haengbokage Haedeurilgeyo",
   "titles": [
     {
       "language": "ko",
       "title": "행복하게 해드릴게요",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "For Your Happiness",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -20,31 +29,40 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Haengbokage Haedeurilgeyo",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
-  "description": "Exhausted by endless overtime, unbearable workloads, and an abusive boss, an overworked employee has forgotten what happiness feels like. After wishing for a happier life, a mysterious guardian angel suddenly appears with an outrageous solution: sex is the key to happiness! Thus begins an unexpected and steamy cohabitation with an eccentric angel determined to make his wish come true. But will this unusual arrangement finally bring him true happiness?\n\n**Original Webtoon:**   \n[Ridibooks](https://ridibooks.com/books/4795000493)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQzNTA3LmpwZw",
+  "description": "A webtoon highly recommended for overworked office workers! Endless overtime, never-ending tasks, and even abusive behavior from bosses. Lee Han has forgotten what happiness is, just barely getting by as he shuttles back and forth between work and home. Day after day, he has nothing to smile about, and the sorrow and anger he swallows only keep piling up. Just as he makes a wish to be happy, his guardian angel appears.\n\n *“It’s sex! If you have sex, you’ll definitely be happy!”*\n\nAnd so begins a dizzying and absurd life of cohabitation with a suspicious angel who, without warning, declares he’ll make Lee Han happy through sex! Will Lee Han truly be able to regain his true happiness?\n\n(Source: Ridibooks, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDI1NS1SdFRuYVN2aXVNTVouanBn",
   "total_chapters": null,
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-20",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-25T00:42:24.519Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-24T19:11:32.439Z",
+  "last_updated_at": "2026-11-25T04:47:54.369Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Bang Tongsik"
+    "Tong-Sik Bang"
   ],
   "artists": [
-    "Bang Tongsik"
+    "Tong-Sik Bang"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/611973",
@@ -52,7 +70,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220255,
+      "rating": null,
+      "url": "https://anilist.co/manga/220255"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "jjs9b9j",
@@ -62,18 +84,43 @@
   },
   "tag_ids": [
     36,
+    22,
     46,
-    16
+    423,
+    180,
+    16,
+    228,
+    6,
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "6": "unweighted",
+    "9": "unweighted",
+    "16": "defining",
+    "22": "unweighted",
+    "36": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "unweighted",
+    "228": "unweighted",
+    "423": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6776,
+    "popularityPercentile": 0.392,
+    "fanFavouriteDiscoveryScore": 5.3357,
+    "fanFavouriteDiscoveryPercentile": 0.3714
   }
 }

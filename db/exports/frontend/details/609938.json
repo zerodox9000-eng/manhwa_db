@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "My Younger Sibling's Dangerous Friend",
-  "mangabaka_title": "My Younger Sibling's Dangerous Friend",
+  "mangabaka_title": "Wiheomhan Dongsaeng Chingu",
   "native_title": "위험한 동생 친구",
-  "romanized_title": null,
+  "romanized_title": "Wiheomhan Dongsaeng Chingu",
   "titles": [
     {
       "language": "ko",
       "title": "위험한 동생 친구",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Dangerous Younger Sibling Friend",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -20,31 +29,41 @@
       "traits": [],
       "is_primary": true,
       "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Wiheomhan Dongsaeng Chingu",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
     }
   ],
   "description": "\"...Are you seriously hitting me with your cock now?\"\nInfluencer Yu Hanbyeol's life had always been filled with glamorous and dangerous things.\nIn the past, in the present, and always.\nBut if she had to name the most dangerous thing of all, it would undoubtedly be her younger brother's friend, Im Sumin.\nJust look at him now. Dressed as a woman, with an enormous bulge pushing against the front of his skirt, there was definitely something suspicious about their supposedly ordinary contractual relationship.\n\"...Damn it, I'm wet again.\"\n\"Then I'll show you how I do it, so according to our contract, you have to show me too, noona.\"\n...She thought she'd gotten herself a harmless little deer, but it seems she'd actually gotten tangled up with a sly, lecherous nine-tailed fox.\n\n**Original Webtoon :**    \n[Ridibooks](https://ridibooks.com/books/5156000083)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyNTI3LmpwZw",
-  "total_chapters": "9",
-  "status": "unknown",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDEzNi1JNkphaXBWdWFsdnYuanBn",
+  "total_chapters": "15",
+  "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-17",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-10T00:42:20.123Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-24T03:01:19.705Z",
+  "last_updated_at": "2026-11-25T09:16:49.738Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Mumu (IV)"
+    "Myumyu",
+    "Studio Blueblack"
   ],
   "artists": [
-    "Studio Blue Black"
+    "Studio Blueblack"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/609938",
@@ -52,7 +71,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220136,
+      "rating": null,
+      "url": "https://anilist.co/manga/220136"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4ngwzsc",
@@ -61,19 +84,36 @@
     }
   },
   "tag_ids": [
+    167,
     43,
+    108,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "167": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 5,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6776,
+    "popularityPercentile": 1.7883,
+    "fanFavouriteDiscoveryScore": 5.8757,
+    "fanFavouriteDiscoveryPercentile": 1.6645
   }
 }

@@ -3,14 +3,25 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Reforming the Villain Family",
-  "mangabaka_title": "Reforming the Villain Family",
+  "mangabaka_title": "Akdang Gamuneul Gaengsaengsikimyeon",
   "native_title": "악당 가문을 갱생시키면",
-  "romanized_title": null,
+  "romanized_title": "Akdang Gamuneul Gaengsaengsikimyeon",
   "titles": [
     {
       "language": "ko",
       "title": "악당 가문을 갱생시키면",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Akdang Gamuneul Gaengsaengsikimyeon",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -23,21 +34,21 @@
     }
   ],
   "description": "“I have come to find the Duke’s biological daughter.” \n\nAt the age of 4, I unintentionally became an accomplice in the scam of the villainous Duke from a novel I read in my past life. But why does a normal person like me have to be involved with this villainous duke’s family? To survive the annihilation of the family, I must reform them before they fully turn into villains! \n\n“As expected, no matter where we go, my daughter shines the brightest.” \n\n“If you don’t want to go, then don’t. Just ignore the Emperor or the Crown Prince.” \n\n“So, who confessed? Just tell me their name.” \n\n“What?! Which bastard dared to confess to my little girl?!” \n\nBut wait… As long as they aren’t villains, why are they acting so ridiculously overprotective? \n\n“I told you.” \n\nI only stopped walking when I was cornered. The footsteps following me stopped too, and a resentful voice echoed in my ears. \n\n“You said you’d stay by my side.” \n\nHis eyes persistently locked onto mine. Honestly, I felt wronged. After all, back then, ‘I didn’t know you were the male lead!’\n\n**Original Novel:**    \nChapters: [Naver Novel](https://novel.naver.com/webnovel/list?novelId=1085897), [Naver Series](https://series.naver.com/novel/detail.series?productNo=8674707)    \nVolumes: [Naver Series](https://series.naver.com/novel/detail.series?productNo=13824043) \n\n**Original Webtoon:**    \n[Naver Webtoon](https://comic.naver.com/webtoon/list?titleId=857160), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14731745)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyNjQ4LmpwZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDEyOS1MbzB1S0FZc0FJeE8uanBn",
   "total_chapters": "12",
   "status": "releasing",
   "content_rating": "safe",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-05",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-15T00:42:20.306Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-25T00:17:00.712Z",
+  "last_updated_at": "2026-11-25T23:37:34.281Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -45,7 +56,7 @@
     "Ramji"
   ],
   "artists": [
-    "Kim Jerry"
+    "Jerry Kim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/611035",
@@ -53,7 +64,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220129,
+      "rating": 70,
+      "url": "https://anilist.co/manga/220129"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "2bef1f5",
@@ -64,17 +79,30 @@
   "tag_ids": [
     40,
     36,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "36": "defining",
+    "40": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 20,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 70
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6776,
+    "popularityPercentile": 12.3117,
+    "fanFavouriteDiscoveryScore": 11.2767,
+    "fanFavouriteDiscoveryPercentile": 11.4038
   }
 }
