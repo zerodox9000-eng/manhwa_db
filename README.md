@@ -1,64 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-social-preview.jpg" width="640" alt="Aeon with manhwa covers">
+  <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-social-preview.jpg" width="640" alt="Aeon loading screen with manhwa covers">
 </p>
 
 <h1 align="center">Aeon Catalogue</h1>
 
-<p align="center">
-  The catalogue and daily data pipeline used by Aeon.
-</p>
+<p align="center">The catalogue and daily data pipeline behind Aeon, a manhwa discovery app.</p>
 
 <p align="center">
-  <a href="https://zerodox9000-eng.github.io/Manhwa_pwa/"><img src="https://img.shields.io/badge/Open%20App-00a9bd?style=flat-square" alt="Open app"></a>
-  <a href="https://github.com/zerodox9000-eng/manhwa_db"><img src="https://img.shields.io/badge/Source-20232a?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
-  <a href="https://www.reddit.com/u/ZERO_DOX/"><img src="https://img.shields.io/badge/Creator-ZERO__DOX-20232a?style=flat-square&logo=reddit&logoColor=white" alt="Creator profile"></a>
+  <a href="https://zerodox9000-eng.github.io/aeon-v2/"><img src="https://img.shields.io/badge/Open%20V2%20Preview-00a9bd?style=flat-square" alt="Open V2 Preview"></a>
+  <a href="https://github.com/zerodox9000-eng/manhwa_db"><img src="https://img.shields.io/badge/Pipeline%20Source-20232a?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Pipeline Source"></a>
+  <a href="https://www.reddit.com/u/ZERO_DOX/"><img src="https://img.shields.io/badge/Creator-ZERO__DOX-20232a?style=flat-square&amp;logo=reddit&amp;logoColor=white" alt="Creator profile"></a>
 </p>
 
-<p align="center"><strong>App link:</strong> <a href="https://zerodox9000-eng.github.io/Manhwa_pwa/">https://zerodox9000-eng.github.io/Manhwa_pwa/</a></p>
-
-<p align="center"><a href="https://github.com/zerodox9000-eng/Manhwa_pwa">Frontend repository</a> · <a href="https://github.com/zerodox9000-eng/Manhwa_pwa/wiki">User guide</a></p>
+<p align="center"><a href="https://zerodox9000-eng.github.io/aeon-v2/"><strong>Open Aeon V2 Preview</strong></a> · <a href="https://github.com/zerodox9000-eng/aeon-v2">V2 frontend source</a> · <a href="https://github.com/zerodox9000-eng/Manhwa_pwa">Aeon project README</a></p>
 
 ## About
 
-This repository collects, normalizes, validates, and publishes the data used by the [Aeon manhwa discovery app](https://github.com/zerodox9000-eng/Manhwa_pwa).
+This repository collects, normalizes, validates, and publishes the manhwa catalogue used by Aeon. The frontend uses the published data for search, curated and custom feeds, series details, and recent updates.
 
-It provides:
+- **Catalogue** includes titles, aliases, creators, covers, publication details, and source links.
+- **Tags** include genres, themes, detailed tags, and their hierarchy.
+- **Audience data** includes AniList popularity, favourites, and scores for matched titles. Aeon's fan response uses favourites relative to popularity, with a confidence adjustment for audience size.
+- **Updates** include changes in publication status, popularity, and chapter counts for the frontend's Updates tabs.
 
-- Primary titles, aliases, creators, covers, publication details, and source links.
-- Genres, themes, detailed tags, content information, and tag hierarchy.
-- AniList popularity, favourites, and score information for matched titles.
-- Historical snapshots used by growth and recent-change feeds.
-- Compact frontend releases prepared for Aeon's search, feeds, and title pages.
+| Home | Updates | Series details |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-home.webp" width="225" alt="Home with the Top Fan Picks Showcase"> | <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-updates.webp" width="225" alt="Status changes in Updates"> | <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-details.webp" width="225" alt="The Stellar Swordmaster details, fan response and reading links"> |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-home-discover-top-1.jpg" width="360" alt="Aeon Home showing the Discover Top 1% feed">
-</p>
+## Daily pipeline and frontend data
 
-## Screenshots
+GitHub Actions refreshes the catalogue daily. The pipeline collects and normalizes source data, enriches matched entries with available audience statistics, and validates frontend exports before publishing.
 
-<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-library.jpg" width="360" alt="Aeon feed library"><br>Feeds</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-search.jpg" width="360" alt="Aeon catalogue search"><br>Search</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-details.jpg" width="300" alt="Aeon title details"><br>Title details</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-settings-2026-09.jpg" width="360" alt="Aeon settings"><br>Settings</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-updates-popularity.jpg" width="320" alt="Aeon popularity milestones"><br>Popularity Milestones</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-updates-status.jpg" width="320" alt="Aeon status changes"><br>Status Changes</p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-updates-chapters.jpg" width="320" alt="Aeon chapter updates"><br>Chapter Updates</p>
-
-## Updates
-
-The catalogue is refreshed by a daily GitHub Actions pipeline. New and changed records are normalized, matched with available audience information, recorded in history, validated, and then published for Aeon.
-
-Frontend releases are stored under `db/exports/frontend/`. Raw collection files and pipeline state remain internal to this repository.
-
-## Fan Rank
-
-Fan Rank compares favourites with popularity, adjusts for confidence at different audience sizes, and ranks the result as a percentile across AniList-mapped manhwa with the required statistics.
+Frontend consumers use [the exports under `db/exports/frontend/`](./db/exports/frontend/). See [FRONTEND_DATA.md](./FRONTEND_DATA.md) for the data contract, [PIPELINE.md](./PIPELINE.md) for how the jobs run, and [ARCHITECTURE.md](./ARCHITECTURE.md) for the repository structure.
 
 ## Data sources
 
@@ -69,12 +42,12 @@ Fan Rank compares favourites with popularity, adjusts for confidence at differen
   <a href="https://www.anime-planet.com/"><img src="https://img.shields.io/badge/Anime--Planet-e11d48?style=flat-square" alt="Anime-Planet"></a>
 </p>
 
-MangaBaka is the main source for catalogue records, covers, publication details, links, and tags. AniList supplies popularity, favourites, and score information for matched titles. MangaUpdates and Anime-Planet may be retained as reference links when available.
-
-Source data and artwork remain the property of their respective services, publishers, and creators.
+MangaBaka supplies the core catalogue, covers, publication details, links, and tags. AniList supplies audience statistics for matched titles. MangaUpdates and Anime-Planet appear as reference links where available. Source data and artwork belong to their respective services, publishers, and creators.
 
 ## Project
 
-Aeon and its catalogue are open-source projects created and maintained by [ZERO_DOX](https://www.reddit.com/u/ZERO_DOX/).
+Aeon and its catalogue are maintained by ZERO_DOX. [Creator profile](https://www.reddit.com/u/ZERO_DOX/)
 
-Maintainer documentation is available in [PIPELINE.md](./PIPELINE.md), [FRONTEND_DATA.md](./FRONTEND_DATA.md), and [ARCHITECTURE.md](./ARCHITECTURE.md). Before editing, read [AGENTS.md](./AGENTS.md) and the closest child instructions for the affected area.
+For V2 user help, open **Settings → Backup & Help → Learn metrics and data**. The GitHub wiki covers Aeon V1. [V1 wiki](https://github.com/zerodox9000-eng/Manhwa_pwa/wiki)
+
+For repository contributions, start with [AGENTS.md](./AGENTS.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
