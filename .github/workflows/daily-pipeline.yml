@@ -77,6 +77,18 @@ jobs:
       - name: Validate GitHub file sizes
         run: npm run validate:github-sizes
 
+      - name: Prune expired raw AniList snapshots
+        run: |
+          cutoff="$(date -u -d '14 days ago' +%F)"
+          for snapshot in db/snapshots/anilist-daily/*.json; do
+            [[ -f "$snapshot" && ! -L "$snapshot" ]] || continue
+            name="${snapshot##*/}"
+            [[ "$name" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}\.json$ ]] || continue
+            if [[ "${name%.json}" < "$cutoff" ]]; then
+              rm -- "$snapshot"
+            fi
+          done
+
       - name: Commit Updated DB
         run: |
           git config user.name "github-actions"

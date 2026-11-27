@@ -8,7 +8,7 @@ Owns backend data files and generated frontend exports.
 - `processed/`: normalized stable series records.
 - `enriched/`: AniList stats separated from processed metadata.
 - `snapshots/`: daily historical stat snapshots.
-- `snapshots/anilist-daily/` contains the daily backend snapshots. The daily workflow does not prune snapshots on the basis of a legacy archive copy.
+- `snapshots/anilist-daily/` contains the daily backend snapshots. The daily workflow removes dated raw snapshots older than 14 days UTC without consulting the legacy archive.
 - `state/`: pipeline state such as incremental sync markers.
 - `curation/`: reviewed export corrections that never alter raw source records.
 - `exports/frontend/`: only files the frontend PWA should consume.
