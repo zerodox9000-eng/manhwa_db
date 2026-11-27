@@ -3,15 +3,24 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Bulimia",
-  "mangabaka_title": "Bulimia",
-  "native_title": "貪食症",
-  "romanized_title": null,
+  "mangabaka_title": "Tamsikjeung",
+  "native_title": "탐식증",
+  "romanized_title": "Tamsikjeung",
   "titles": [
     {
       "language": "ko",
       "title": "탐식증",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "An Unquenchable Hunger",
+      "traits": [],
+      "is_primary": false,
       "note": null
     },
     {
@@ -23,9 +32,46 @@
     },
     {
       "language": "en",
+      "title": "Consumed by You",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Devouring Desire",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Gluttony",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
       "title": "Gluttony (Deep Sleep)",
       "traits": [],
       "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Insatiable Hunger",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Tamsikjeung",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
@@ -37,30 +83,30 @@
     }
   ],
   "description": "\"What you gave me wasn't a name. It was a curse.\" \n\nAbandoned on a remote island because she stood in the way of her mother's remarriage, she spent years longing for a home she could never return to. When she finally escaped, she had no idea that a dangerous predator was already closing in. A mysterious man soon appeared, his unsettling obsession turning her freedom into another nightmare. When he discovered her desperate attempt to escape through death, he whispered a chilling threat: \n\n\"If you're planning to die, then give yourself to me instead. I'll play with you until I'm bored, and then I'll devour you.\"\n\n**Original Webtoon :**    \nR15 : [Ridibooks](https://ridibooks.com/books/3498027202)    \nR19 : [Ridibooks](https://ridibooks.com/books/3498027179)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQzMjQ1LnBuZw",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDI5NS1vZ3AyS0FnRlJTMVguanBn",
   "total_chapters": "9",
-  "status": "unknown",
+  "status": "releasing",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-21",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-19T00:42:36.998Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-25T02:18:49.283Z",
+  "last_updated_at": "2026-11-26T04:41:00.282Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Jiwagyeom",
-    "solddam",
-    "Whopper"
+    "Muk-Gyeom Ji",
+    "Solddam",
+    "Wapeo"
   ],
   "artists": [
-    "Deep Sleep"
+    "Sungmyeon"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/611414",
@@ -68,7 +114,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220295,
+      "rating": null,
+      "url": "https://anilist.co/manga/220295"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "z02wt46",
@@ -78,21 +128,43 @@
   },
   "tag_ids": [
     43,
+    108,
+    36,
+    22,
     46,
     41,
     31,
     18,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "18": "defining",
+    "22": "defining",
+    "31": "defining",
+    "36": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 1,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6801,
+    "popularityPercentile": 0.1306,
+    "fanFavouriteDiscoveryScore": 5.2396,
+    "fanFavouriteDiscoveryPercentile": 0.1306
   }
 }

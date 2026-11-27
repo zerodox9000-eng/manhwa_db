@@ -2,15 +2,38 @@
   "id": 608231,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Nakwon Muksi",
-  "mangabaka_title": "Nakwon Muksi",
-  "native_title": "낙원묵시",
-  "romanized_title": "Nakwon Muksi",
+  "display_title": "Apocalypse of Paradise",
+  "mangabaka_title": "Nagwonmuksi",
+  "native_title": "낙원묵시(樂園默示)",
+  "romanized_title": "Nagwonmuksi",
   "titles": [
     {
       "language": "ko",
       "title": "낙원묵시",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Apocalypse of Paradise",
+      "traits": [],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Divine Revelation of Paradise",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Nagwonmuksi",
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,37 +41,39 @@
       "language": "ko-Latn",
       "title": "Nakwon Muksi",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "ko",
       "title": "낙원묵시(樂園默示)",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     }
   ],
-  "description": "**Original Webtoon:**  \nMrBlue",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQxMjYwLmpwZw",
+  "description": "*“The devil burrows into a person’s weakened heart and stirs up desire.”*\n\nFather Park Se-Jin, a priest revered by his congregation. Assistant Priest Im Dong-Hui, who stands by his side and watches him quietly. To Dong-Hui, who has long suppressed his feelings for the revered Father Se-Jin through prayer, another voice whispers: “Don’t lie.” Once unleashed, desire cannot be hidden again, and at the very edge of their crumbling faith, the two priests come face to face. Is this the devil’s trap, or is it my true self, the one I’ve been turning away from all along?\n\n(Source: MrBlue, translated)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIxOTM4MS05VzFGYlJETkJzMlguanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "safe",
+  "status": "releasing",
+  "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-23",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-10-26T00:42:16.320Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-24T09:21:52.769Z",
+  "last_updated_at": "2026-11-26T23:07:25.835Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Namsaek"
+    "Saek Nam"
   ],
   "artists": [
     "Bammandeuk"
@@ -59,7 +84,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 219381,
+      "rating": null,
+      "url": "https://anilist.co/manga/219381"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "4a5tk5u",
@@ -68,17 +97,40 @@
     }
   },
   "tag_ids": [
-    16
+    22,
+    180,
+    16,
+    31,
+    32,
+    9,
+    19,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "16": "defining",
+    "19": "defining",
+    "22": "defining",
+    "31": "defining",
+    "32": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "180": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 22,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6801,
+    "popularityPercentile": 13.4076,
+    "fanFavouriteDiscoveryScore": 11.9613,
+    "fanFavouriteDiscoveryPercentile": 12.3212
   }
 }

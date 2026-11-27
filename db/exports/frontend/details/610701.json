@@ -2,15 +2,17 @@
   "id": 610701,
   "state": "active",
   "type": "manhwa",
-  "display_title": "Aunt's Husband",
-  "mangabaka_title": "Aunt's Husband",
+  "display_title": "Temptation at Home",
+  "mangabaka_title": "Temptation at Home",
   "native_title": "이모부",
-  "romanized_title": null,
+  "romanized_title": "Imobu",
   "titles": [
     {
       "language": "ko",
       "title": "이모부",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -18,33 +20,51 @@
       "language": "en",
       "title": "Aunt's Husband",
       "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "Imobu",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
+      "language": "en",
+      "title": "Temptation at Home",
+      "traits": [
+        "official"
+      ],
       "is_primary": true,
       "note": null
     }
   ],
-  "description": "[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9136)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQyNDA1LmpwZw",
+  "description": "[Original Webtoon](https://www.toomics.com/uplmscg/episode/toon/9136) \n\n**Official Translations:**  \n[English](https://toomics.com/en/webtoon/episode/toon/9136)",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9tZWRpdW0vYjIyMDIzOS1zQ1lLcUszNWZudEguanBn",
   "total_chapters": null,
-  "status": "unknown",
-  "content_rating": "erotica",
-  "is_licensed": false,
+  "status": "releasing",
+  "content_rating": "pornographic",
+  "is_licensed": true,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
+    "start_date": "2026-11-11",
     "end_date": null,
-    "start_date_is_estimated": true,
+    "start_date_is_estimated": false,
     "end_date_is_estimated": null
   },
   "first_seen_at": "2026-11-12T00:42:26.669Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-25T02:10:39.572Z",
+  "last_updated_at": "2026-11-26T17:31:03.405Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
     "Arginine"
   ],
   "artists": [
-    "Yashishi"
+    "Yasisi"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/610701",
@@ -52,7 +72,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220239,
+      "rating": 90,
+      "url": "https://anilist.co/manga/220239"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "3ftotr9",
@@ -63,19 +87,38 @@
   "tag_ids": [
     8,
     46,
+    10,
     15,
     41,
-    31
+    109,
+    31,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "8": "defining",
+    "10": "defining",
+    "15": "defining",
+    "31": "defining",
+    "41": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "109": "incidental",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 9,
     "favourites": null,
-    "meanScore": null
+    "meanScore": 90
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.6801,
+    "popularityPercentile": 4.5448,
+    "fanFavouriteDiscoveryScore": 7.0656,
+    "fanFavouriteDiscoveryPercentile": 4.2629
   }
 }
