@@ -14,6 +14,8 @@
 
 <p align="center"><a href="https://zerodox9000-eng.github.io/aeon-v2/"><strong>Open Aeon V2 Preview</strong></a> · <a href="https://github.com/zerodox9000-eng/aeon-v2">V2 frontend source</a> · <a href="https://github.com/zerodox9000-eng/Manhwa_pwa">Aeon project README</a></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-home.webp" width="360" alt="Home with the Top Fan Picks Showcase"></p>
+
 ## About
 
 This repository collects, normalizes, validates, and publishes the manhwa catalogue used by Aeon. The frontend uses the published data for search, curated and custom feeds, series details, and recent updates.
@@ -23,9 +25,11 @@ This repository collects, normalizes, validates, and publishes the manhwa catalo
 - **Audience data** includes AniList popularity, favourites, and scores for matched titles. Aeon's fan response uses favourites relative to popularity, with a confidence adjustment for audience size.
 - **Updates** include changes in publication status, popularity, and chapter counts for the frontend's Updates tabs.
 
-| Home | Updates | Series details |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-home.webp" width="225" alt="Home with the Top Fan Picks Showcase"> | <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-updates.webp" width="225" alt="Status changes in Updates"> | <img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-details.webp" width="225" alt="The Stellar Swordmaster details, fan response and reading links"> |
+## V2 screenshots
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-updates.webp" width="320" alt="Status changes in Updates"><br>Status Updates</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/zerodox9000-eng/Manhwa_pwa/main/docs/assets/aeon-v2-details.webp" width="300" alt="The Stellar Swordmaster details, fan response and reading links"><br>Series Details</p>
 
 ## Daily pipeline and frontend data
 
