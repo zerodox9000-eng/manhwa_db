@@ -8,7 +8,7 @@ Owns backend data files and generated frontend exports.
 - `processed/`: normalized stable series records.
 - `enriched/`: AniList stats separated from processed metadata.
 - `snapshots/`: daily historical stat snapshots.
-- `snapshots/anilist-daily/` retains the newest 14 verified daily AniList snapshots once the external archive workflow is enabled. Older snapshots may be removed only after every compressed archive copy passes size, checksum, and restore verification and the archive commit is published.
+- `snapshots/anilist-daily/` contains the daily backend snapshots. The daily workflow does not prune snapshots on the basis of a legacy archive copy.
 - `state/`: pipeline state such as incremental sync markers.
 - `curation/`: reviewed export corrections that never alter raw source records.
 - `exports/frontend/`: only files the frontend PWA should consume.
@@ -30,7 +30,7 @@ Owns backend data files and generated frontend exports.
 - Runtime catalogue chunks also include each processed description when available, allowing the PWA to show the default detail-page description from its initial offline download.
 - Runtime catalogue and per-title details include per-series `spoiler_tag_ids`, a subset of `tag_ids` copied from processed `tags_v2[].is_spoiler`. This metadata affects only the detail tag display, not catalogue eligibility.
 - Runtime catalogue records optionally include `last_chapter_increase_date`, derived from the existing chapter-change ledger after `chapterIncreaseSortTrackingSince`. This is recency-sort metadata for future observations only; entries without a post-rollout increase omit it.
-- Active chunk manifests publish compact `weeklyHistory` and omit full `history`. The public archive preserves every raw daily snapshot for recovery without entering normal frontend downloads. Recommendation generation is suspended; recommendation paths contain an empty compatibility dataset, and runtime catalogue chunks omit recommendation-only `context`. Multilingual `titles` remain in the runtime catalogue because Global Search consumes them.
+- Active chunk manifests publish compact `weeklyHistory` and omit full `history`. The private legacy archive retains previously archived snapshots and is outside normal frontend downloads. Recommendation generation is suspended; recommendation paths contain an empty compatibility dataset, and runtime catalogue chunks omit recommendation-only `context`. Multilingual `titles` remain in the runtime catalogue because Global Search consumes them.
 
 ## Work Guidance
 

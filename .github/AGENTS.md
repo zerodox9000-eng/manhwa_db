@@ -11,8 +11,7 @@ Owns GitHub Actions workflows for backend pipeline automation.
 
 - Read the root AGENTS.md first.
 - Pipeline workflows must not report success after producing incomplete or inconsistent frontend exports.
-- The daily pipeline checks out the public `zerodox9000-eng/manhwa_history` archive beside the backend checkout. It must verify and publish the complete compressed archive before pruning backend snapshots to the newest 14 files. Archive publication failure must stop the run before backend pruning or publication.
-- Cross-repository archive writes use the repository-scoped `HISTORY_ARCHIVE_DEPLOY_KEY` Actions secret. Do not replace it with a broad personal token.
+- The daily pipeline does not check out, write to, or prune snapshots through the private legacy history archive. Publish the normal backend and weekly frontend exports on the existing schedule.
 - Normal workflows use a two-commit shallow checkout. Daily status tracking reads compact committed state and does not need full Git history; only the explicit status-history rebuild requires historical commits.
 - Keep permissions minimal and explicit.
 - `daily-pipeline.yml` is triggered by cron-job.org daily at 00:30 UTC, posting `{"ref":"main"}` to its GitHub workflow-dispatch endpoint. Keep `workflow_dispatch` for manual recovery; do not restore a GitHub `schedule` trigger alongside the external job. The external service stores a dedicated fine-grained token restricted to this repository with Actions write and required Metadata read permissions. Never commit that token or reuse the history-archive deploy key. Changing the clock must not run the pipeline, alter pipeline steps, or regenerate today's exports.
