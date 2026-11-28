@@ -113,7 +113,7 @@
   },
   "first_seen_at": "2026-06-10T15:48:24.821Z",
   "first_seen_at_is_trusted": false,
-  "last_updated_at": "2026-11-26T10:24:44.989Z",
+  "last_updated_at": "2026-11-27T13:29:47.499Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
@@ -147,6 +147,9 @@
     }
   },
   "tag_ids": [
+    376,
+    597,
+    288,
     43,
     72,
     158,
@@ -175,6 +178,8 @@
     7332
   ],
   "spoiler_tag_ids": [
+    376,
+    288,
     3216
   ],
   "tag_weights": {
@@ -191,8 +196,11 @@
     "125": "defining",
     "158": "defining",
     "257": "defining",
-    "261": "incidental",
+    "261": "defining",
+    "288": "incidental",
+    "376": "incidental",
     "428": "unweighted",
+    "597": "incidental",
     "652": "defining",
     "883": "defining",
     "905": "defining",
@@ -206,16 +214,16 @@
     "7549": "defining"
   },
   "stats": {
-    "popularity": 2486,
+    "popularity": 2490,
     "favourites": 33,
     "meanScore": 66
   },
   "analytics": {
-    "fanFavouriteRaw": 1.3274,
-    "fanRatioPercentile": 59.9354,
-    "popularityPercentile": 90.6216,
-    "fanFavouriteDiscoveryScore": 59.7692,
-    "fanFavouriteDiscoveryPercentile": 67.5605
+    "fanFavouriteRaw": 1.3253,
+    "fanRatioPercentile": 59.967,
+    "popularityPercentile": 90.6241,
+    "fanFavouriteDiscoveryScore": 59.8008,
+    "fanFavouriteDiscoveryPercentile": 67.59
   },
   "context": {
     "primaryProfile": "medical-career",

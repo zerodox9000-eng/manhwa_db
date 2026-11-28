@@ -3,14 +3,16 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "The Tale of Aphrodisiac",
-  "mangabaka_title": "The Tale of Aphrodisiac",
+  "mangabaka_title": "Nangyojeon",
   "native_title": "난교전",
-  "romanized_title": null,
+  "romanized_title": "Nangyojeon",
   "titles": [
     {
       "language": "ko",
       "title": "난교전",
-      "traits": [],
+      "traits": [
+        "native"
+      ],
       "is_primary": true,
       "note": null
     },
@@ -29,6 +31,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Nangyojeon",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "The Tale of Aphrodisiac",
       "traits": [],
@@ -44,26 +55,27 @@
     }
   ],
   "description": "At the request of their master, Ji Eun-hyo and Ryu Sa-jun, the royal court's top physicians, begin researching 'Yeonjeongcho,' a legendary aphrodisiac. Out of nowhere, Sa-jun swallows the aphrodisiac whole, and his burning desires are directed solely at Eun-hyo. \n\n\"Did you not say you wouldn't miss a single change happening in my body?\"\n\nUsing the aphrodisiac as an excuse, Sa-jun hatches a bold scheme to trap Eun-hyo in his arms. Oblivious to his true intentions, Eun-hyo observes, touches, and ultimately goes as far as sleeping with him to prove its efficacy...\n\n\"If you started this research, shouldn't you take responsibility to the end?\"\n\nThe secret and scandalous joint research of the royal court's top physicians begins.\n\n**Original Webtoon:**   \n[MrBlue](https://www.mrblue.com/webtoon/wt_000081374), [Naver Series](https://series.naver.com/comic/detail.series?productNo=14736334), [Lezhin](https://www.lezhin.com/ko/comic/nangyojeon), [Ridibooks](https://ridibooks.com/books/1286013948)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9hcC1wcm94eS5tYW5nYWJha2EuZGV2L3Byb3h5LnBocD91cmw9aHR0cHM6Ly9jZG4uYW5pbWUtcGxhbmV0LmNvbS9tYW5nYS9wcmltYXJ5L3RoZS10YWxlLW9mLWFwaHJvZGlzaWFjLTEud2VicD90PTE3OTIzNzMxNTk",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE1Ni1sSUZJYkZWU2hDTlcuanBn",
   "total_chapters": "6",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-17",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-10-19T00:42:38.054Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-25T00:44:28.141Z",
+  "last_updated_at": "2026-11-27T09:16:53.262Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Hong Seo-Hye",
-    "Manggu"
+    "0510",
+    "Manggu",
+    "Seo-Hye Hong"
   ],
   "artists": [
     "0510"
@@ -74,7 +86,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220156,
+      "rating": null,
+      "url": "https://anilist.co/manga/220156"
+    },
     "animeplanet": {
       "id": "the-tale-of-aphrodisiac",
       "rating": null,
@@ -90,6 +106,7 @@
     43,
     74,
     595,
+    108,
     46,
     41,
     31,
@@ -102,14 +119,32 @@
     7332
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "31": "defining",
+    "41": "defining",
+    "43": "defining",
+    "45": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "74": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted",
+    "595": "unweighted",
+    "769": "unweighted",
+    "7332": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 2,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.678,
+    "popularityPercentile": 0.3506,
+    "fanFavouriteDiscoveryScore": 5.3204,
+    "fanFavouriteDiscoveryPercentile": 0.3299
   }
 }

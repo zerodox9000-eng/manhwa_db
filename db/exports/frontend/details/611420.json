@@ -3,27 +3,36 @@
   "state": "active",
   "type": "manhwa",
   "display_title": "Taste of Your Own Medicine!",
-  "mangabaka_title": "Taste of Your Own Medicine!",
-  "native_title": "[짝사랑 단편선] 똑같이 당해봐!",
-  "romanized_title": null,
+  "mangabaka_title": "Ttokgachi Danghaebwa!",
+  "native_title": "똑같이 당해봐!",
+  "romanized_title": "[Jjaksarang Danpyeonseon] Ttokgachi Danghaebwa!",
   "titles": [
     {
       "language": "ko",
       "title": "똑같이 당해봐!",
-      "traits": [],
-      "is_primary": false,
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
       "note": null
     },
     {
       "language": "ko",
       "title": "[짝사랑 단편선] 똑같이 당해봐!",
       "traits": [],
-      "is_primary": true,
+      "is_primary": false,
       "note": null
     },
     {
       "language": "en",
       "title": "A Taste of Your Own Medicine!",
+      "traits": [],
+      "is_primary": false,
+      "note": null
+    },
+    {
+      "language": "ko-Latn",
+      "title": "[Jjaksarang Danpyeonseon] Ttokgachi Danghaebwa!",
       "traits": [],
       "is_primary": false,
       "note": null
@@ -57,6 +66,15 @@
       "note": null
     },
     {
+      "language": "ko-Latn",
+      "title": "Ttokgachi Danghaebwa!",
+      "traits": [
+        "native"
+      ],
+      "is_primary": true,
+      "note": null
+    },
+    {
       "language": "en",
       "title": "What Goes Around Comes Around!",
       "traits": [],
@@ -64,31 +82,30 @@
       "note": null
     }
   ],
-  "description": "“It wasn't pathetic at all, Haesu.”\n\nTaeyoung’s hand cupping her cheek was large and warm. Tears welled up in an instant.\n\n“Huh?”\n\nBefore she could even process her own state, tears spilled over. Taeyoung stood up and pulled Haesu into an embrace.   \nSoon, Haesu’s shoulders began to tremble.\n\n“Goo Minjun, you jerk. Waaaaah……”\n\nHaesu hugged him back. Bursting into tears like a child, she buried her face in his stomach and clutched his clothes as if clinging to his waist. Taeyoung simply stroked her hair soothingly so she could cry comfortably.   \nThe crying continued for a while. \n\n“What should I do to stop Haesu from crying?”   \n“Waaaaah, I don't know, they keep—hic!—coming, what am I supposed to do…?”  \n“Should we get revenge on Goo Minjun?”  \n“Revenge……?”\n\n**Original Webtoon:**    \n[Ridibooks](https://ridibooks.com/books/5285003212)",
-  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9jZG4ubWFuZ2F1cGRhdGVzLmNvbS9pbWFnZS9pNTQzMDAzLmpwZw",
+  "description": "*Note: Part of Metatoon's Jjaksarang Danpyeonseon (짝사랑 단편선) Collection.*",
+  "cover": "https://cdn.mangabaka.dev/imgproxy/plain/x350@1/aHR0cHM6Ly9zNC5hbmlsaXN0LmNvL2ZpbGUvYW5pbGlzdGNkbi9tZWRpYS9tYW5nYS9jb3Zlci9sYXJnZS9ieDIyMDE0MC1qTWVtNWNISkdlTEcuanBn",
   "total_chapters": "5",
   "status": "completed",
   "content_rating": "erotica",
   "is_licensed": false,
   "year": 2026,
   "published": {
-    "start_date": "2026-01-01",
-    "end_date": null,
-    "start_date_is_estimated": true,
-    "end_date_is_estimated": null
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-15",
+    "start_date_is_estimated": false,
+    "end_date_is_estimated": false
   },
   "first_seen_at": "2026-11-19T00:42:36.998Z",
   "first_seen_at_is_trusted": true,
-  "last_updated_at": "2026-11-26T01:34:35.480Z",
+  "last_updated_at": "2026-11-27T09:06:53.016Z",
   "mangabaka_latest_rank": null,
   "mangabaka_latest_snapshot_at": null,
   "authors": [
-    "Chaehyo",
-    "Seyeon"
+    "Hyo Chae",
+    "Se-Yeon"
   ],
   "artists": [
-    "Metatoon",
-    "Ro Hwarim"
+    "Rohwarim"
   ],
   "links": {
     "mangabaka": "https://mangabaka.org/611420",
@@ -96,7 +113,11 @@
     "read_en_all": []
   },
   "source": {
-    "anilist": null,
+    "anilist": {
+      "id": 220140,
+      "rating": null,
+      "url": "https://anilist.co/manga/220140"
+    },
     "animeplanet": null,
     "mangaupdates": {
       "id": "jorhum0",
@@ -106,19 +127,35 @@
   },
   "tag_ids": [
     43,
+    108,
     46,
     41,
-    9
+    9,
+    93,
+    57,
+    428
   ],
   "spoiler_tag_ids": [],
+  "tag_weights": {
+    "9": "defining",
+    "41": "defining",
+    "43": "defining",
+    "46": "defining",
+    "57": "unweighted",
+    "93": "unweighted",
+    "108": "unweighted",
+    "428": "unweighted"
+  },
   "stats": {
-    "popularity": null,
+    "popularity": 3,
     "favourites": null,
     "meanScore": null
   },
   "analytics": {
-    "fanFavouriteRaw": null,
-    "fanFavouriteWeighted": null,
-    "fanFavouritePercentile": null
+    "fanFavouriteRaw": 0,
+    "fanRatioPercentile": 32.678,
+    "popularityPercentile": 0.6393,
+    "fanFavouriteDiscoveryScore": 5.4284,
+    "fanFavouriteDiscoveryPercentile": 0.598
   }
 }
